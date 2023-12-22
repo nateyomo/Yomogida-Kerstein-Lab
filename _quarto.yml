@@ -10,11 +10,15 @@ website:
         text: Home
       - about.qmd
 
+
+bibliography: /Users/nathanielyomogida/Documents/GitHub/Alchemy Performance Institute/Alchemy-Performance-Institute/Alchemy Archive/Bibliography/NGY CAK JVC Bibliography.bib
+csl: /Users/nathanielyomogida/Documents/GitHub/Alchemy Performance Institute/Alchemy-Performance-Institute/Alchemy Archive/Bibliography/american-medical-association.csl
+
 format:
   html:
+    toc: true
+    number-sections: true
     theme: cosmo
     css: styles.css
-    toc: true
-
 
 

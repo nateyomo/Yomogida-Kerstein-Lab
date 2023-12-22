@@ -1,14 +1,7 @@
 ---
 title: "Coppuer [Cu]"
 author: Nathaniel Giovanni Yomogida
-bibliography: /Users/nathanielyomogida/Documents/GitHub/Alchemy-Performance-Institute/Alchemy-Performance-Institute/NGY CAK JVC bibliography.bib
-csl: /Users/nathanielyomogida/Documents/GitHub/Alchemy-Performance-Institute/american-medical-association.csl
-format:
-  html:
-    toc: true
-    toc-location: left
-    html-math-method: katex
-    css: styles.css
+
 ---
 
 # Overview
