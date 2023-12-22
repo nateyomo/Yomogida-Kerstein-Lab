@@ -1,0 +1,8 @@
+---
+title: "Physiology notes"
+---
+
+Here is a list of notes I have written on different topics in physiology
+
+# Minerals
+[Copper](Minerals/copper.qmd)

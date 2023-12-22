@@ -9,6 +9,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: Alchemy Archive/Physiology/physiology index.qmd
+        text: Physiology
 
 
 bibliography: /Users/nathanielyomogida/Documents/GitHub/Alchemy Performance Institute/Alchemy-Performance-Institute/Alchemy Archive/Bibliography/NGY CAK JVC Bibliography.bib
@@ -20,5 +22,4 @@ format:
     number-sections: true
     theme: cosmo
     css: styles.css
-
 
