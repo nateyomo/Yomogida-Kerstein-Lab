@@ -20,6 +20,9 @@ format:
   html:
     toc: true
     number-sections: true
-    theme: cosmo
+    theme:
+      light: cosmo
+      dark: darkly
+    mainfont: helvetica
     css: styles.css
 
