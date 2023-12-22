@@ -25,4 +25,5 @@ format:
       dark: darkly
     mainfont: helvetica
     css: styles.css
+  pdf: default
 
