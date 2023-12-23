@@ -64,11 +64,8 @@ Over 20 chromosomal regions and a number of identified genes have been linked to
 | Subtype  | Nervous system pathology  |
 |--------|--------|
 | ALS  | Degeneration of the corticospinal tracts, neurons in the motor cortex and brainstem, and anterior horn cells in the spinal cord   |
-
 | Primary lateral sclerosis   | Degeneration of upper motor neurons   |
-
 | Progressive bulbar palsy | Degeneration of motor neurons of cranial nerves IX to XII   |
-
 | Progressive muscular atrophy | Loss or chromatolysis of motor neurons of the spinal cord and brainstem   |
 
 : Motor Neuron Diseases (MNDs) @osullivanPhysicalRehabilitation2019 {#tbl-motorneurondiseases .striped .hover}
