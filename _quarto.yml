@@ -9,8 +9,14 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: Alchemy Archive/archive index.qmd
+        text: Archive
       - href: Alchemy Archive/Physiology/physiology index.qmd
         text: Physiology
+      - href: Alchemy Archive/Neuro/neuro index.qmd
+        text: Neuroscience
+      - href: Alchemy Archive/Genetics and genomics/genetics and genomics index.qmd
+        text: Genetics & Genomics
 
 
 bibliography: /Users/nathanielyomogida/Documents/GitHub/Alchemy Performance Institute/Alchemy-Performance-Institute/Alchemy Archive/Bibliography/NGY CAK JVC Bibliography.bib
@@ -25,5 +31,7 @@ format:
       dark: darkly
     mainfont: helvetica
     css: styles.css
-  pdf: default
+  pdf:
+    link-citations: true
+    link-bibliography: true
 

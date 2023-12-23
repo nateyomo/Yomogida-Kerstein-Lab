@@ -1,0 +1,13 @@
+---
+title: "Superoxide Dismutase 1 (SOD1)"
+author: 
+    - Nathaniel Giovanni Yomogida
+    - Chloe Kerstein
+
+---
+
+# Function
+a gene that encodes the copper-zinc superoxide dismutase enzyme @osullivanPhysicalRehabilitation2019
+
+# Mutation
+one of 100s of mutations in SOD1 have been linked to hereditary ALS @osullivanPhysicalRehabilitation2019.

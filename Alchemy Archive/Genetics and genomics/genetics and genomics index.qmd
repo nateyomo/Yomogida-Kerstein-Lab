@@ -1,0 +1,6 @@
+---
+title: "Archives of Genetics and Genomics"
+---
+
+# Genes
+[Superoxide dismutase 1 (SOD1).qmd](SOD1 superoxide dismutase 1.qmd)

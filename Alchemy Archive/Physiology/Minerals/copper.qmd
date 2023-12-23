@@ -80,3 +80,9 @@ Iron oxidation in enterocytes is mediated mainly by hephaestin thus allowing die
 
 ## Zyklopen
 Zyklopen is involved in iron efflux from placental trophoblasts during iron transfer from mother to fetus @vashchenkoMulticopperOxidasesHuman2013
+
+
+
+# References {-}
+::: {#refs}
+:::
