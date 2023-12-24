@@ -14,7 +14,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - href: Alchemy Archive/archive index.qmd
+      - href: Alchemy Archive/archive.index.qmd
         text: Archive
       - href: Alchemy Archive/Physiology/physiology index.qmd
         text: Physiology

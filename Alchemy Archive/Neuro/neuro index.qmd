@@ -1,8 +1,0 @@
----
-title: "Index of Neuro archives"
-
----
-
-# Neuropathology
-
-[Amyotrophic Lateral Sclerosis (ALS)](Neuropathology/amyotrophic lateral sclerosis.qmd)
