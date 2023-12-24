@@ -3,8 +3,15 @@ title: "Superoxide Dismutase 1 (SOD1)"
 
 ---
 
-# Function
+# Overall function
+## Prevention of neuronal degeneration
+Superoxide dismutases are a group of enzymes that eliminate oxygen free radicals that, although products of normal cell metabolism, have been implicated in neurodegeneration @osullivanPhysicalRehabilitation2019.
+
+# Types
+
+## SOD1
+### Function
 a gene that encodes the copper-zinc superoxide dismutase enzyme @osullivanPhysicalRehabilitation2019
 
-# Mutation
+### Mutation
 one of 100s of mutations in SOD1 have been linked to hereditary ALS @osullivanPhysicalRehabilitation2019.

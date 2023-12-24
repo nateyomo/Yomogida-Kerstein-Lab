@@ -165,7 +165,7 @@
     "href": "Alchemy Archive/Physiology/physiology index.html",
     "title": "Physiology notes",
     "section": "",
-    "text": "Here is a list of notes I have written on different topics in physiology\n\n1 Minerals\nCopper"
+    "text": "Here is a list of notes I have written on different topics in physiology\n\n1 Minerals\nCopper\ncopper"
   },
   {
     "objectID": "Alchemy Archive/Neuro/neuro index.html",
@@ -179,7 +179,7 @@
     "href": "Alchemy Archive/Genetics and genomics/SOD1 superoxide dismutase 1.html",
     "title": "Superoxide Dismutase 1 (SOD1)",
     "section": "",
-    "text": "1 Function\na gene that encodes the copper-zinc superoxide dismutase enzyme1\n\n\n2 Mutation\none of 100s of mutations in SOD1 have been linked to hereditary ALS1.\n\n\n\n\n\nReferences\n\n1. O’Sullivan SB, Schmitz TJ, Fulk GD, eds. Physical Rehabilitation. 7th ed. F.A. Davis Company; 2019."
+    "text": "Superoxide dismutases are a group of enzymes that eliminate oxygen free radicals that, although products of normal cell metabolism, have been implicated in neurodegeneration1."
   },
   {
     "objectID": "index.html",
@@ -187,5 +187,26 @@
     "title": "Alchemy Performance Institute",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "Alchemy Archive/Genetics and genomics/SOD1 superoxide dismutase 1.html#prevention-of-neuronal-degeneration",
+    "href": "Alchemy Archive/Genetics and genomics/SOD1 superoxide dismutase 1.html#prevention-of-neuronal-degeneration",
+    "title": "Superoxide Dismutase 1 (SOD1)",
+    "section": "",
+    "text": "Superoxide dismutases are a group of enzymes that eliminate oxygen free radicals that, although products of normal cell metabolism, have been implicated in neurodegeneration1."
+  },
+  {
+    "objectID": "Alchemy Archive/Genetics and genomics/SOD1 superoxide dismutase 1.html#sod1",
+    "href": "Alchemy Archive/Genetics and genomics/SOD1 superoxide dismutase 1.html#sod1",
+    "title": "Superoxide Dismutase 1 (SOD1)",
+    "section": "2.1 SOD1",
+    "text": "2.1 SOD1\n\n2.1.1 Function\na gene that encodes the copper-zinc superoxide dismutase enzyme1\n\n\n2.1.2 Mutation\none of 100s of mutations in SOD1 have been linked to hereditary ALS1."
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/Neuropathology/amyotrophic lateral sclerosis.html#superoxide-dismutases",
+    "href": "Alchemy Archive/Neuro/Neuropathology/amyotrophic lateral sclerosis.html#superoxide-dismutases",
+    "title": "Amyotrophic Lateral Sclerosis (ALS)",
+    "section": "4.1 Superoxide Dismutases",
+    "text": "4.1 Superoxide Dismutases\nSuperoxide dismutases are a group of enzymes that eliminate oxygen free radicals that, although products of normal cell metabolism, have been implicated in neurodegeneration.\nThere are three isoforms of SOD in humans: cytosolic copper-zinc superoxide dismutase (CuZnSOD), mitochondrial manganese superoxide dismutase (MnSOD), and extracellular superoxide dismutase (ECSOD). SOD1, a gene on chromosome 21, encodes CuZnSOD. Genetic studies of individuals with adult-onset FALS have determined that about 20% of these individuals have mutations in SOD1; however, the primary gene defect is unknown. When the SOD enzyme activity is decreased, as has been observed in individuals with FALS with SOD1 mutations, free radicals may accumulate causing damage"
   }
 ]
