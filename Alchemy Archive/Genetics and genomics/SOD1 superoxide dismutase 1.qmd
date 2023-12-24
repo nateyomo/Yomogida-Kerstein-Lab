@@ -14,4 +14,4 @@ Superoxide dismutases are a group of enzymes that eliminate oxygen free radicals
 a gene that encodes the copper-zinc superoxide dismutase enzyme @osullivanPhysicalRehabilitation2019
 
 ### Mutation
-one of 100s of mutations in SOD1 have been linked to hereditary ALS @osullivanPhysicalRehabilitation2019.
+one of 100s of mutations in SOD1 have been linked to hereditary [ALS]({{< var ref-amyotrophic-lateral-sclerosis >}}) @osullivanPhysicalRehabilitation2019.

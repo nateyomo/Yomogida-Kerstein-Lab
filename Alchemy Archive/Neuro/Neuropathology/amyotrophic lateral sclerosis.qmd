@@ -12,7 +12,7 @@ The textbooks I recommend for further research or reference is:
 - (PT Specific) Physical rehabilitation - O'Sullivan @osullivanPhysicalRehabilitation2019
 - Neuromuscular disorders by Amato @amatoNeuromuscularDisorders2016
 - Umphred's neurological rehabilitation @lazaroUmphredNeurologicalRehabilitation2019
-- Continuum - AAN @goutmanDiagnosisClinicalManagement2017
+- Continuum by AAN @goutmanDiagnosisClinicalManagement2017
 
 Lastly, I would then recommend going into true evidence based practice by using scientific articles to find up to date information on the topic.
 

@@ -37,7 +37,6 @@ format:
     mainfont: helvetica
     css: styles.css
   pdf:
-    documentclass: scrartcl
     link-citations: true
     link-bibliography: true
     
