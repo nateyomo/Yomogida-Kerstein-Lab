@@ -1,8 +1,5 @@
 ---
 title: "Superoxide Dismutase 1 (SOD1)"
-author: 
-    - Nathaniel Giovanni Yomogida
-    - Chloe Kerstein
 
 ---
 

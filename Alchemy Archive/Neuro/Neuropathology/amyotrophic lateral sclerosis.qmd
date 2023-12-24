@@ -1,8 +1,5 @@
 ---
 title: "Amyotrophic Lateral Sclerosis (ALS)"
-author: 
-    - Nathaniel Giovanni Yomogida
-    - Chloe Kerstein
 
 ---
 
@@ -30,6 +27,11 @@ Thus Amyotrophic means "no muscle nourishment"
 Amyotrophic lateral sclerosis (ALS), AKA Lou Gehrig’s disease, is the most common and devastatingly fatal motor neuron disease (MND) among adults @osullivanPhysicalRehabilitation2019. ALS is characterized by the degeneration and loss of motor neurons in the spinal cord, brainstem, and brain, resulting in UMN and LMN clinical signs and symptoms @osullivanPhysicalRehabilitation2019. Recently, ALS is being recategorized as a multisystem disorder/syndrome with variable pathological involvement of extra-motor networks and connections, in addition to the LMNs and UMNs @osullivanPhysicalRehabilitation2019
 
 # Epidemiology
+
+:::{.callout-note}
+see Wolfson et al. (2023) @wolfsonGlobalPrevalenceIncidence2023  for updated 2023 global metrics
+:::
+
 
 ## Age
 ALS can occur at any age but onset generally occurs in the mid-to-late 50s @osullivanPhysicalRehabilitation2019.

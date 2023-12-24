@@ -2,7 +2,13 @@ project:
   type: website
   output-dir: docs
 
+author:
+- Nathaniel Giovanni Yomogida, SPT
+- Chloë Kerstein, SPT
+
 website:
+  page-navigation: true
+  reader-mode: true
   title: "Alchemy Performance Institute"
   navbar:
     left:
