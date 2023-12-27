@@ -60,7 +60,7 @@
     "href": "Alchemy Archive/archive_index.html",
     "title": "Archives",
     "section": "",
-    "text": "1 Physiology\nPhysiology"
+    "text": "Physiology"
   },
   {
     "objectID": "Alchemy Archive/Physiology/physiology index.html",
@@ -215,5 +215,54 @@
     "title": "Alchemy Performance Institute",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "Alchemy Archive/archive_index.html#lumbar-spine",
+    "href": "Alchemy Archive/archive_index.html#lumbar-spine",
+    "title": "Archives",
+    "section": "2.1 Lumbar spine",
+    "text": "2.1 Lumbar spine\nChronic Low Back Pain\nAcute Low Back Pain"
+  },
+  {
+    "objectID": "Alchemy Archive/Pathologies & Rehab/Spine-Lumbar/acute low back pain.html",
+    "href": "Alchemy Archive/Pathologies & Rehab/Spine-Lumbar/acute low back pain.html",
+    "title": "Acute Low Back Pain",
+    "section": "",
+    "text": "Acute & Chronic LBP CPG - George et al.1"
+  },
+  {
+    "objectID": "Alchemy Archive/Pathologies & Rehab/Spine-Lumbar/acute low back pain.html#acute-low-back-pain",
+    "href": "Alchemy Archive/Pathologies & Rehab/Spine-Lumbar/acute low back pain.html#acute-low-back-pain",
+    "title": "Acute Low Back Pain",
+    "section": "2.1 Acute low back pain",
+    "text": "2.1 Acute low back pain\nAcute low back pain is defined as pain lasting less than 6 weeks."
+  },
+  {
+    "objectID": "Alchemy Archive/Pathologies & Rehab/Spine-Lumbar/acute low back pain.html#acute-low-back-pain-leg-pain",
+    "href": "Alchemy Archive/Pathologies & Rehab/Spine-Lumbar/acute low back pain.html#acute-low-back-pain-leg-pain",
+    "title": "Acute Low Back Pain",
+    "section": "2.2 Acute Low Back Pain + Leg pain",
+    "text": "2.2 Acute Low Back Pain + Leg pain\n\n2.2.1 DDX\n\nHerniations1\n\n\n\n2.2.2 Exercises\nGoal: reduce pain & disability1 - Specific trunk mm [Grade B]1 - Endurance & mm strengthening [Grade B]1 - Supine iso back extension and ab exercises → greater reduction of pain1 - Herniations: general vs specific exercises, no diff at 3 month BUT at 1 year: specific trunk mm activation had greater improvement in back pain and disability1."
+  },
+  {
+    "objectID": "Alchemy Archive/Pathologies & Rehab/Spine-Lumbar/chronic low back pain.html",
+    "href": "Alchemy Archive/Pathologies & Rehab/Spine-Lumbar/chronic low back pain.html",
+    "title": "Chronic Low Back Pain",
+    "section": "",
+    "text": "Acute & Chronic LBP CPG - George et al.1"
+  },
+  {
+    "objectID": "Alchemy Archive/Pathologies & Rehab/Spine-Lumbar/chronic low back pain.html#therex",
+    "href": "Alchemy Archive/Pathologies & Rehab/Spine-Lumbar/chronic low back pain.html#therex",
+    "title": "Chronic Low Back Pain",
+    "section": "2.1 Therex",
+    "text": "2.1 Therex\n\nGrade A1\n\nSome of the exercises that were given a grade of A include: - MM strengthening & endurance - Multimodal exercise - Specific trunk mm activation → coordination, strength, endurance - Aerobic - Aquatic - General"
+  },
+  {
+    "objectID": "Alchemy Archive/Pathologies & Rehab/Spine-Lumbar/chronic low back pain.html#rehab-goals",
+    "href": "Alchemy Archive/Pathologies & Rehab/Spine-Lumbar/chronic low back pain.html#rehab-goals",
+    "title": "Chronic Low Back Pain",
+    "section": "3.1 Rehab goals",
+    "text": "3.1 Rehab goals\n\nCentralize symptoms1\nReduce Pain1\nReduce Disability1"
   }
 ]

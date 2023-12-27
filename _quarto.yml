@@ -14,13 +14,13 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - href: Alchemy Archive/archive.index.qmd
+      - href: Alchemy Archive/archive_index.qmd
         text: Archive
-      - href: Alchemy Archive/Physiology/physiology index.qmd
+      - href: Alchemy Archive/Physiology/physiology_index.qmd
         text: Physiology
-      - href: Alchemy Archive/Neuro/neuro index.qmd
+      - href: Alchemy Archive/Neuro/neuro_index.qmd
         text: Neuroscience
-      - href: Alchemy Archive/Genetics and genomics/genetics and genomics index.qmd
+      - href: Alchemy Archive/Genetics and genomics/genetics_and_genomics_index.qmd
         text: Genetics & Genomics
 
 
@@ -37,6 +37,7 @@ format:
     mainfont: helvetica
     css: styles.css
   pdf:
+    number-sections: true
     link-citations: true
     link-bibliography: true
     

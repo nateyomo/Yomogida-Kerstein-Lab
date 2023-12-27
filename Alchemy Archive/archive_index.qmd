@@ -7,3 +7,9 @@ title: "Archives"
 [Physiology](Physiology/physiology index.qmd)
 
 
+# Pathologies & rehabilitation
+
+## Lumbar spine
+[Chronic Low Back Pain]({{< var ref-chronic-low-back-pain >}})
+
+[Acute Low Back Pain]({{< var ref-acute-low-back-pain >}})
