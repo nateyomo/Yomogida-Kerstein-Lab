@@ -2,6 +2,8 @@
 title: "Chronic Low Back Pain"
 ---
 
+
+
 # Resources
 - Acute & Chronic LBP CPG - George et al. @georgeInterventionsManagementAcute2021
 
@@ -12,12 +14,14 @@ title: "Chronic Low Back Pain"
 - Grade A @georgeInterventionsManagementAcute2021
 
 Some of the exercises that were given a grade of A include:
-- MM strengthening & endurance
-- Multimodal exercise
-- Specific trunk mm activation → coordination, strength, endurance
-- Aerobic
-- Aquatic
-- General
+
+- MM strengthening & endurance @georgeInterventionsManagementAcute2021
+- Multimodal exercise @georgeInterventionsManagementAcute2021
+- Specific trunk mm activation → coordination, strength, endurance @georgeInterventionsManagementAcute2021
+- Aerobic @georgeInterventionsManagementAcute2021
+- Aquatic @georgeInterventionsManagementAcute2021
+- General @georgeInterventionsManagementAcute2021
+
 
 # Chronic Low back Pain + Leg sx
 Defined by George et al.,  as back pain lasting more than 6 weeks with associated buttock and/or leg pain @georgeInterventionsManagementAcute2021.

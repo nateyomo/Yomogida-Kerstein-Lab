@@ -2,20 +2,20 @@
 
 
 # genetics & Genomics
-ref-sod1: "https://nateyomo.github.io/Alchemy-Performance-Institute/Alchemy%20Archive/Genetics%20and%20genomics/SOD1_superoxide_dismutase_1.html"
+ref-sod1: "/Alchemy Archive/Genetics and genomics/SOD1_superoxide_dismutase_1.qmd"
 
 # Physiology
-ref-copper: "https://nateyomo.github.io/Alchemy-Performance-Institute/Alchemy%20Archive/Physiology/Minerals/copper.html"
+ref-copper: "/Alchemy Archive/Physiology/Minerals/copper.qmd"
 
-ref-oxidative-stress: "https://nateyomo.github.io/Alchemy-Performance-Institute/Alchemy%20Archive/Physiology/Physiological%20mechanisms/Oxidative_Stress.html"
+ref-oxidative-stress: "/Alchemy Archive/Physiology/Physiology of stress/Oxidative stress.qmd"
 
 # neuro
 
 ## Neuropathology
-ref-amyotrophic-lateral-sclerosis: "https://nateyomo.github.io/Alchemy-Performance-Institute/Alchemy%20Archive/Neuro/Neuropathology/amyotrophic_lateral_sclerosis.html"
+ref-amyotrophic-lateral-sclerosis: "/Alchemy Archive/Neuro/Neuropathology/amyotrophic_lateral_sclerosis.qmd"
 
 # Pathologies & Rehab
-ref-chronic-low-back-pain: "https://nateyomo.github.io/Alchemy-Performance-Institute/Alchemy%20Archive/Pathologies-and-Rehab/Spine-Lumbar/chronic_low_back_pain.html"
+ref-chronic-low-back-pain: "/Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/chronic_low_back_pain.qmd"
 
-ref-acute-low-back-pain: "https://nateyomo.github.io/Alchemy-Performance-Institute/Alchemy%20Archive/Pathologies-and-Rehab/Spine-Lumbar/acute_low_back_pain.html"
+ref-acute-low-back-pain: "/Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/acute_low_back_pain.qmd"
 

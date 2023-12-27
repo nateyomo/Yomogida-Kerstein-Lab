@@ -1,15 +1,22 @@
 ---
 title: "Archives"
+
 ---
 
 # Physiology
+{{< include Physiology/physiology_index.qmd >}}
 
-[Physiology](Physiology/physiology index.qmd)
 
-
-# Pathologies & rehabilitation
+# MSK Pathologies & Rehabilitation
 
 ## Lumbar spine
 [Chronic Low Back Pain]({{< var ref-chronic-low-back-pain >}})
 
 [Acute Low Back Pain](Pathologies-and-Rehab/Spine-Lumbar/acute_low_back_pain.qmd)
+
+
+# Neuroscience
+{{< include Neuro/neuro_index.qmd >}}
+
+# Genetics & Genomics
+{{< include "Genetics and genomics/genetics_and_genomics_index.qmd" >}}

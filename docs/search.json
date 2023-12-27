@@ -11,7 +11,7 @@
     "href": "Alchemy Archive/Genetics and genomics/genetics_and_genomics_index.html",
     "title": "Archives of Genetics and Genomics",
     "section": "",
-    "text": "1 Genes\nSuperoxide dismutase 1 (SOD1).qmd"
+    "text": "1 Genes\nSuperoxide dismutase 1 (SOD1)"
   },
   {
     "objectID": "Alchemy Archive/Neuro/Neuropathology/amyotrophic_lateral_sclerosis.html",
@@ -58,9 +58,9 @@
   {
     "objectID": "Alchemy Archive/archive_index.html",
     "href": "Alchemy Archive/archive_index.html",
-    "title": "Archives",
+    "title": "Archives of Genetics and Genomics",
     "section": "",
-    "text": "Physiology"
+    "text": "Copper [Cu]\n\n\n\n\n\n\nOxidative stress"
   },
   {
     "objectID": "Alchemy Archive/Physiology/physiology index.html",
@@ -186,7 +186,7 @@
     "href": "Alchemy Archive/Neuro/neuro_index.html",
     "title": "Index of Neuro archives",
     "section": "",
-    "text": "1 Neuropathology\nAmyotrophic Lateral Sclerosis (ALS)"
+    "text": "Amyotrophic Lateral Sclerosis (ALS)"
   },
   {
     "objectID": "Alchemy Archive/Genetics and genomics/SOD1_superoxide_dismutase_1.html",
@@ -219,7 +219,7 @@
   {
     "objectID": "Alchemy Archive/archive_index.html#lumbar-spine",
     "href": "Alchemy Archive/archive_index.html#lumbar-spine",
-    "title": "Archives",
+    "title": "Archives of Genetics and Genomics",
     "section": "2.1 Lumbar spine",
     "text": "2.1 Lumbar spine\nChronic Low Back Pain\nAcute Low Back Pain"
   },
@@ -341,5 +341,124 @@
     "title": "Acute Low Back Pain",
     "section": "2.3 Centralization & Directional preference exercises",
     "text": "2.3 Centralization & Directional preference exercises\n\nGrade A1\nRepeated movements, exercises, or procedures to promote centralization to reduce symptoms1"
+  },
+  {
+    "objectID": "Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/chronic_low_back_pain.html",
+    "href": "Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/chronic_low_back_pain.html",
+    "title": "Chronic Low Back Pain",
+    "section": "",
+    "text": "Acute & Chronic LBP CPG - George et al.1"
+  },
+  {
+    "objectID": "Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/chronic_low_back_pain.html#therex",
+    "href": "Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/chronic_low_back_pain.html#therex",
+    "title": "Chronic Low Back Pain",
+    "section": "2.1 Therex",
+    "text": "2.1 Therex\n\nGrade A1\n\nSome of the exercises that were given a grade of A include:\n\nMM strengthening & endurance1\nMultimodal exercise1\nSpecific trunk mm activation → coordination, strength, endurance1\nAerobic1\nAquatic1\nGeneral1"
+  },
+  {
+    "objectID": "Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/chronic_low_back_pain.html#rehab-goals",
+    "href": "Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/chronic_low_back_pain.html#rehab-goals",
+    "title": "Chronic Low Back Pain",
+    "section": "3.1 Rehab goals",
+    "text": "3.1 Rehab goals\n\nCentralize symptoms1\nReduce Pain1\nReduce Disability1"
+  },
+  {
+    "objectID": "Alchemy Archive/archive_index.html#pns-pathologies",
+    "href": "Alchemy Archive/archive_index.html#pns-pathologies",
+    "title": "Index of Neuro archives",
+    "section": "4.1 PNS Pathologies",
+    "text": "4.1 PNS Pathologies"
+  },
+  {
+    "objectID": "Alchemy Archive/archive_index.html#cns-pathologies",
+    "href": "Alchemy Archive/archive_index.html#cns-pathologies",
+    "title": "Index of Neuro archives",
+    "section": "4.2 CNS Pathologies",
+    "text": "4.2 CNS Pathologies\nAmyotrophic Lateral Sclerosis (ALS)"
+  },
+  {
+    "objectID": "Alchemy Archive/archive_index.html#neuroanatomy-and-physiology",
+    "href": "Alchemy Archive/archive_index.html#neuroanatomy-and-physiology",
+    "title": "Index of Neuro archives",
+    "section": "3.2 Neuroanatomy and physiology",
+    "text": "3.2 Neuroanatomy and physiology"
+  },
+  {
+    "objectID": "Alchemy Archive/archive_index.html#neuropathology-1",
+    "href": "Alchemy Archive/archive_index.html#neuropathology-1",
+    "title": "Index of Neuro archives",
+    "section": "3.3 Neuropathology",
+    "text": "3.3 Neuropathology"
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/neuro_index.html#cns-pathologies",
+    "href": "Alchemy Archive/Neuro/neuro_index.html#cns-pathologies",
+    "title": "Index of Neuro archives",
+    "section": "",
+    "text": "Amyotrophic Lateral Sclerosis (ALS)"
+  },
+  {
+    "objectID": "Alchemy Archive/archive_index.html#neuropathology",
+    "href": "Alchemy Archive/archive_index.html#neuropathology",
+    "title": "Archives of Genetics and Genomics",
+    "section": "3.1 Neuropathology",
+    "text": "3.1 Neuropathology\n\n3.1.1 PNS Pathologies\n\n\n3.1.2 CNS Pathologies\nAmyotrophic Lateral Sclerosis (ALS)"
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/neuro_index.html#neuropathology",
+    "href": "Alchemy Archive/Neuro/neuro_index.html#neuropathology",
+    "title": "Index of Neuro archives",
+    "section": "",
+    "text": "Amyotrophic Lateral Sclerosis (ALS)"
+  },
+  {
+    "objectID": "Alchemy Archive/Physiology/physiology_index.html",
+    "href": "Alchemy Archive/Physiology/physiology_index.html",
+    "title": "Physiology notes",
+    "section": "",
+    "text": "Here is a list of notes I have written on different topics in physiology\n\n1 Minerals\nCopper [Cu]"
+  },
+  {
+    "objectID": "Alchemy Archive/archive_index.html#minerals",
+    "href": "Alchemy Archive/archive_index.html#minerals",
+    "title": "Archives of Genetics and Genomics",
+    "section": "",
+    "text": "Copper [Cu]"
+  },
+  {
+    "objectID": "Alchemy Archive/archive_index.html#physiology-of-stress",
+    "href": "Alchemy Archive/archive_index.html#physiology-of-stress",
+    "title": "Archives of Genetics and Genomics",
+    "section": "",
+    "text": "Oxidative stress"
+  },
+  {
+    "objectID": "Alchemy Archive/Physiology/physiology_index.html#minerals",
+    "href": "Alchemy Archive/Physiology/physiology_index.html#minerals",
+    "title": "Physiology Index",
+    "section": "2 Minerals",
+    "text": "2 Minerals\nCopper [Cu]"
+  },
+  {
+    "objectID": "Alchemy Archive/Physiology/physiology_index.html#muscle-physiology",
+    "href": "Alchemy Archive/Physiology/physiology_index.html#muscle-physiology",
+    "title": "Physiology Index",
+    "section": "3 Muscle Physiology",
+    "text": "3 Muscle Physiology"
+  },
+  {
+    "objectID": "Alchemy Archive/Physiology/physiology_index.html#physiology-of-stress",
+    "href": "Alchemy Archive/Physiology/physiology_index.html#physiology-of-stress",
+    "title": "Physiology Index",
+    "section": "4 Physiology of stress",
+    "text": "4 Physiology of stress\nOxidative stress"
+  },
+  {
+    "objectID": "Alchemy Archive/Physiology/Physiology of stress/Oxidative stress.html",
+    "href": "Alchemy Archive/Physiology/Physiology of stress/Oxidative stress.html",
+    "title": "Oxidative Stress",
+    "section": "",
+    "text": "1 Associated pathologies\nOxidative stress is believed to play a role in ALS neuronal degeneration according to current theories1.\n\n\n\n\n\nReferences\n\n1. O’Sullivan SB, Schmitz TJ, Fulk GD, eds. Physical Rehabilitation. 7th ed. F.A. Davis Company; 2019."
   }
 ]

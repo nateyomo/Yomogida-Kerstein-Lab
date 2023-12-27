@@ -3,6 +3,11 @@ title: "Index of Neuro archives"
 
 ---
 
-# Neuropathology
 
-[Amyotrophic Lateral Sclerosis (ALS)]({{< ref-amyotrophic-lateral-sclerosis >}})
+
+## Neuropathology
+
+### PNS Pathologies
+
+### CNS Pathologies
+[Amyotrophic Lateral Sclerosis (ALS)]({{< var ref-amyotrophic-lateral-sclerosis >}})
