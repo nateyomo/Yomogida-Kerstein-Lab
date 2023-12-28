@@ -2,6 +2,8 @@
 title: "Archives"
 
 ---
+# Anatomy 
+{{< include Anatomy/anatomy_index.qmd >}}
 
 # Physiology
 {{< include Physiology/physiology_index.qmd >}}

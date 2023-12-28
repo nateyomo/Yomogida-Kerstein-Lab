@@ -1,0 +1,15 @@
+---
+title: Suboccipital nerve
+---
+AKA Posterior ramus of C1 @gilroyAtlasAnatomy2020
+
+# Pathway
+
+# Innervation
+
+## Somatosensory innervation
+
+## Motor Innervation:
+
+- [Rectus Capitis Posterior Major]({{< var ref-rectus-capitis-posterior-major >}}) @gilroyAtlasAnatomy2020
+- [Rectus Capitis Posterior Minor]({{< var ref-rectus-capitis-posterior-minor >}}) @gilroyAtlasAnatomy2020

@@ -1,0 +1,36 @@
+---
+title: Serratus Posterior Inferior
+---
+
+# OIAN
+![Superficial intrinsic back muscles Right side posterior view @gilroyAtlasAnatomy2020](/Alchemy Archive/Anatomy/OIANs/images/superficial intrinsic back mm fig3.8 gilroyAtlasAnatomy2020.png){#fig-superficialbackmm38agilroyAtlasAnatomy2020}
+
+![Superficial intrinsic back muscles posterior view @gilroyAtlasAnatomy2020](/Alchemy Archive/Anatomy/OIANs/images/superficial intrinsic back mm fig3.10a gilroyAtlasAnatomy2020.png){#fig-superficialbackmm310agilroyAtlasAnatomy2020}
+
+| Muscle  | Origin  | Insertion | Nerve | Action |
+|--------|----------|-----------|-------|--------|
+| Serratus Posterior Inferior | C1 (lateral mass) @gilroyAtlasAnatomy2020 | Occipital bone (basilar part) @gilroyAtlasAnatomy2020 | C1 Ant ramus @gilroyAtlasAnatomy2020 | Bilaterally flexes AOJ; Unilaterally I/L SB |
+
+: Serratus Posterior Inferior OIAN {.striped .hover}
+
+## Origin
+T11-L2 (SP) @gilroyAtlasAnatomy2020
+
+## Insertion
+8-12th ribs (inferior borders near angles) @gilroyAtlasAnatomy2020
+
+## Innervation
+Spinal nn. T9-T12 (Anterior rami) @gilroyAtlasAnatomy2020
+
+## Action
+
+Depresses ribs
+
+# Muscle groups
+Rectus capitis anterior is part of the [prevertebral muscle group]({{< var ref-oians >}})
+
+
+# Palpation
+
+
+# Clinical significance

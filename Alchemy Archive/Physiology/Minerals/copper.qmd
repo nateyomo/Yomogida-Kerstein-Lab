@@ -1,6 +1,6 @@
 ---
 title: "Copper [Cu]"
-
+sidebar: "physiology"
 ---
 
 # Overview

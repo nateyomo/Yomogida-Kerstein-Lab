@@ -3,8 +3,17 @@ project:
   output-dir: docs
 
 author:
-- Nathaniel Giovanni Yomogida, SPT
-- name: Chloë Kerstein, SPT
+- name: 
+    given: Nathaniel 
+    family:  Yomogida, SPT
+    dropping-particle: Giovanni
+  custom_title: SPT
+- name: 
+    given: Chloë
+    family:  Kerstein, SPT
+    dropping-particle: Anne
+  custom_title: SPT
+
 
 website:
   page-navigation: true
@@ -16,27 +25,23 @@ website:
       - about.qmd
       - href: Alchemy Archive/archive_index.qmd
         text: Archive
-      - href: Alchemy Archive/Physiology/physiology_index.qmd
-        text: Physiology
-      - href: Alchemy Archive/Neuro/neuro_index.qmd
-        text: Neuroscience
-      - href: Alchemy Archive/Genetics and genomics/genetics_and_genomics_index.qmd
-        text: Genetics & Genomics
 
 
-bibliography: /Users/nathanielyomogida/Documents/GitHub/Alchemy Performance Institute/Alchemy-Performance-Institute/Alchemy Archive/Bibliography/NGY CAK JVC Bibliography.bib
-csl: /Users/nathanielyomogida/Documents/GitHub/Alchemy Performance Institute/Alchemy-Performance-Institute/Alchemy Archive/Bibliography/american-medical-association.csl
+bibliography: Alchemy Archive/Bibliography/NGY CAK JVC Bibliography.bib
+csl: Alchemy Archive/Bibliography/american-medical-association.csl
 
 format:
   html:
     toc: true
     number-sections: true
+    tbl-cap-location: top
     theme:
       light: cosmo
       dark: darkly
     mainfont: helvetica
     css: styles.css
   pdf:
+    toc: true
     number-sections: true
     link-citations: true
     link-bibliography: true

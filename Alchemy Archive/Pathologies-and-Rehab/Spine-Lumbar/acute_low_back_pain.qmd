@@ -1,7 +1,5 @@
 ---
 title: "Acute Low Back Pain"
-date: 27 12 2023
-date-format: short
 ---
 
 # Resources

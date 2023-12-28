@@ -1,0 +1,28 @@
+---
+title: Obliquus capitis inferior muscle
+---
+
+# OIAN
+![Schematic view of Suboccipital muscles (posterior view) @gilroyAtlasAnatomy2020](/Alchemy Archive/Anatomy/OIANs/images/suboccipitals 3.6a gilroyAtlasAnatomy2020.png){#fig-suboccipitalmm36aagilroyAtlasAnatomy2020}
+
+![Suboccipital muscles (posterior view) @gilroyAtlasAnatomy2020](/Alchemy Archive/Anatomy/OIANs/images/suboccipitals 3.6b gilroyAtlasAnatomy2020.png){#fig-suboccipitalmm36bagilroyAtlasAnatomy2020}
+
+![suboccipital muscles (left lateral view) @gilroyAtlasAnatomy2020](/Alchemy Archive/Anatomy/OIANs/images/suboccipitals left lateral 3.6c gilroyAtlasAnatomy2020.png){#fig-suboccipitalmm36cagilroyAtlasAnatomy2020}
+## Origin
+C2 (SP) @gilroyAtlasAnatomy2020
+
+## Insertion
+C1 TP @gilroyAtlasAnatomy2020
+
+## Innervation
+[Suboccipital N.]({{< var ref-suboccipital-nerve >}}) AKA Posterior ramus of C1 @gilroyAtlasAnatomy2020
+
+## Action
+
+- **Bilateral**: Extend head
+- **Unilateral**: I/L rotation
+
+# Palpation
+
+
+# Clinical significance

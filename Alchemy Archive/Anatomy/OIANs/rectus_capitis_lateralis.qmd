@@ -1,0 +1,32 @@
+---
+title: Rectus capitis lateralis
+---
+
+# OIAN
+![Prevertebral muscles anterior view @gilroyAtlasAnatomy2020](/Alchemy Archive/Anatomy/OIANs/images/prevertebral mm fig3.7b gilroyAtlasAnatomy2020.png){#fig-prevertebralmm_ant}
+
+| Muscle  | Origin  | Insertion | Nerve | Action |
+|--------|----------|-----------|-------|--------|
+| Rectus capitis lateralis | C1 (TP) @gilroyAtlasAnatomy2020 | Occipital bone (basilar part, lateral to occipital condyles) @gilroyAtlasAnatomy2020 | C1 Anterior Ramus @gilroyAtlasAnatomy2020 | Bilaterally flexes AO Joint; Unilaterally lat flexes AO Joint |
+
+## Origin
+C1 (TP) @gilroyAtlasAnatomy2020
+
+## Insertion
+Occipital bone (basilar part, lateral to occipital condyles) @gilroyAtlasAnatomy2020
+
+## Innervation
+C1 Anterior Ramus @gilroyAtlasAnatomy2020
+
+## Action
+
+- **Bilateral**: flex AO Joint
+- **Unilateral**: Lateral Flexion of AO joint
+
+# Muscle groups
+Rectus capitis lateralis cervicis is part of the prevertebral muscle group @gilroyAtlasAnatomy2020.
+
+# Palpation
+
+
+# Clinical significance

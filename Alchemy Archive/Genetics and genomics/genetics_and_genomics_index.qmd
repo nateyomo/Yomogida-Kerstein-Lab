@@ -2,5 +2,5 @@
 title: "Archives of Genetics and Genomics"
 ---
 
-# Genes
+## Genes
 [Superoxide dismutase 1 (SOD1)]({{< var ref-sod1 >}})

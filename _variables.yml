@@ -5,11 +5,13 @@
 ref-sod1: "/Alchemy Archive/Genetics and genomics/SOD1_superoxide_dismutase_1.qmd"
 
 # Physiology
+## Minerals
 ref-copper: "/Alchemy Archive/Physiology/Minerals/copper.qmd"
 
-ref-oxidative-stress: "/Alchemy Archive/Physiology/Physiology of stress/Oxidative stress.qmd"
+## Physiology of stress
+ref-oxidative-stress: "/Alchemy Archive/Physiology/Physiology of stress/Oxidative_stress.qmd"
 
-# neuro
+# Neuroscience
 
 ## Neuropathology
 ref-amyotrophic-lateral-sclerosis: "/Alchemy Archive/Neuro/Neuropathology/amyotrophic_lateral_sclerosis.qmd"
@@ -18,4 +20,21 @@ ref-amyotrophic-lateral-sclerosis: "/Alchemy Archive/Neuro/Neuropathology/amyotr
 ref-chronic-low-back-pain: "/Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/chronic_low_back_pain.qmd"
 
 ref-acute-low-back-pain: "/Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/acute_low_back_pain.qmd"
+
+# Anatomy
+
+## OIAN
+ref-oians: /Alchemy Archive/Anatomy/OIAN.qmd
+
+ref-rectus-capitis-posterior-major: /Alchemy Archive/Anatomy/OIANs/rectus_capitis_posterior_major.qmd
+ref-rectus-capitis-posterior-minor: /Alchemy Archive/Anatomy/OIANs/rectus_capitis_posterior_minor.qmd
+ref-obliquus-capitis-superior: /Alchemy Archive/Anatomy/OIANs/obliquus_capitis_superior.qmd
+ref-obliquus-capitis-inferior: /Alchemy Archive/Anatomy/OIANs/obliquus_capitis_inferior.qmd
+
+ref-longus-capitis: /Alchemy Archive/Anatomy/OIANs/longus_capitis.qmd
+ref-longus-colli-cervicis: /Alchemy Archive/Anatomy/OIANs/longus_colli_cervicis.qmd
+ref-rectus-capitis-anterior: /Alchemy Archive/Anatomy/OIANs/rectus_capitis_anterior.qmd
+ref-rectus-capitis-lateralis: /Alchemy Archive/Anatomy/OIANs/rectus_capitis_lateralis.qmd
+## Nerve
+ref-suboccipital-nerve: /Alchemy Archive/Anatomy/Nerves/suboccipital_nerve.qmd
 

@@ -1,0 +1,25 @@
+---
+title: "OIANs of all the muscles"
+---
+
+# Muscles of the back
+
+## Suboccipitals
+
+- [Rectus capitis posterior major]({{< var ref-rectus-capitis-posterior-major >}})
+- [Rectus Capitis Posterior Minor]({{< var ref-rectus-capitis-posterior-minor >}})
+- [Obliquus capitis superior]({{< var ref-obliquus-capitis-superior >}})
+- [Obliquus capitis inferior]({{< var ref-obliquus-capitis-inferior >}})
+
+## Prevertebral Muscles
+- [Longus capitis]({{< var ref-longus-capitis >}})
+- [Longus Colli Cervicis]({{< var ref-longus-colli-cervicis >}})
+- [Rectus Capitis anterior]({{< var ref-rectus-capitis-anterior >}})
+- [Rectus Capitis Lateralis]({{< var ref-rectus-capitis-lateralis >}})
+
+
+## Superficial intrinsic back Muscles
+- Serratus posterior superior
+- Serratus posterior inferior
+- Splenius capitis
+- Splenius cervicis

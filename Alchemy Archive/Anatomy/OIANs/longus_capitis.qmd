@@ -1,0 +1,35 @@
+---
+title: Longus capitis
+---
+
+# OIAN
+![Prevertebral muscles anterior view @gilroyAtlasAnatomy2020](/Alchemy Archive/Anatomy/OIANs/images/prevertebral mm fig3.7b gilroyAtlasAnatomy2020.png){#fig-prevertebralmm_ant}
+
+| Muscle  | Origin  | Insertion | Nerve | Action |
+|--------|----------|-----------|-------|--------|
+| Longus Capitis | C3-C6 (TP, ant tubercles) | Occipital bone (basilar part) | Direct branches from cervical plexus (C1-C3) | Bilaterally flexes head; Unilaterally flexes and slight I/L rotation |
+
+: Longus capitis OIAN {.striped .hover}
+
+## Origin
+C3-C6 (TP, ant tubercles) @gilroyAtlasAnatomy2020
+
+## Insertion
+Occipital bone (basilar part) @gilroyAtlasAnatomy2020
+
+## Innervation
+Direct branches from cervical plexus (C1-C3) @gilroyAtlasAnatomy2020
+
+## Action
+
+- **Bilateral**: Flexes head
+- **Unilateral**: Flexes and slight I/L rotation
+
+# Muscle groups
+Longus capitis is part of the [prevertebral muscle group]({{< var ref-oians >}})
+
+
+# Palpation
+
+
+# Clinical significance
