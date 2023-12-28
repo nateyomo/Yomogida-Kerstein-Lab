@@ -1,0 +1,39 @@
+---
+title: Splenius Capitis
+---
+
+# OIAN
+![Superficial intrinsic back muscles Right side posterior view @gilroyAtlasAnatomy2020](/Alchemy Archive/Anatomy/OIANs/images/superficial intrinsic back mm fig3.8 gilroyAtlasAnatomy2020.png){#fig-superficialbackmm38agilroyAtlasAnatomy2020}
+
+![Superficial intrinsic back muscles posterior view @gilroyAtlasAnatomy2020](/Alchemy Archive/Anatomy/OIANs/images/superficial intrinsic back mm fig3.10a gilroyAtlasAnatomy2020.png){#fig-superficialbackmm310agilroyAtlasAnatomy2020}
+
+| Muscle  | Origin  | Insertion | Nerve | Action |
+|--------|----------|-----------|-------|--------|
+| Splenisu Capitis | Nuchal lig; C7-T3 SP @gilroyAtlasAnatomy2020 | 2-4th ribs (sup border) @gilroyAtlasAnatomy2020 | spinal nn. T2-T5 (Ant ramus) @gilroyAtlasAnatomy2020 | Elevates ribs @gilroyAtlasAnatomy2020 |
+
+: Splenius Capitis OIAN {.striped .hover}
+
+## Origin
+- Nuchal ligament @gilroyAtlasAnatomy2020
+- C7-T3 or T4 SP @gilroyAtlasAnatomy2020
+
+## Insertion
+- Lateral 1/3 nuchal line (occipital bone) @gilroyAtlasAnatomy2020
+- Mastoid process (temporal bone) @gilroyAtlasAnatomy2020
+
+## Innervation
+spinal nn. C1-C6 (Post rami, lateral branches) @gilroyAtlasAnatomy2020
+
+## Action
+
+- **Bilateral:** Extends C/S and head @gilroyAtlasAnatomy2020
+- **Unilateral:** I/L head SB and Rotation @gilroyAtlasAnatomy2020
+
+# Muscle groups
+Splenius Capitis is part of the [Superficial intrinsic back muscle group]({{< var ref-oians >}})
+
+
+# Palpation
+
+
+# Clinical significance

@@ -14,3 +14,14 @@ Anterior rami:
 Posterior Rami, lateral branches:
 - [Splenius Capitis (C1-C6)]({{< var ref-splenius-capitis >}}) @gilroyAtlasAnatomy2020
 - [Splenius cervicis (C1-C6)]({{< var ref-splenius-capitis >}}) @gilroyAtlasAnatomy2020
+- Iliocostalis (C8-L1)
+    - Iliocostalis Cervicis
+    - Iliocostalis Thoracis
+    - Iliocostalis lumborum
+- Longissimus (C1-L5)
+    - Longissimus Capitis
+    - Longissimus Cervicis
+    - Longissimus Thoracis
+- Spinalis
+    - Spinalis Cervicis
+    - Spinalis Thoracis

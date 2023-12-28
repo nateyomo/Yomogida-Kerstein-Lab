@@ -19,7 +19,20 @@ title: "OIANs of all the muscles"
 
 
 ## Superficial intrinsic back Muscles
-- Serratus posterior superior
-- Serratus posterior inferior
-- Splenius capitis
-- Splenius cervicis
+- [Serratus posterior superior]({{< var ref-serratus-posterior-superior >}})
+- [Serratus posterior inferior]({{< var ref-serratus-posterior-inferior >}})
+- [Splenius capitis]({{< var ref-splenius-capitis >}})
+- [Splenius cervicis]({{< var ref-splenius-cervicis >}})
+
+## Intermediate intrinsic back muscles (Erector Spinae)
+- Iliocostalis
+    - Iliocostalis Cervicis
+    - Iliocostalis Thoracis
+    - Iliocostalis lumborum
+- Longissimus
+    - Longissimus Capitis
+    - Longissimus Cervicis
+    - Longissimus Thoracis
+- Spinalis
+    - Spinalis Cervicis
+    - Spinalis Thoracis
