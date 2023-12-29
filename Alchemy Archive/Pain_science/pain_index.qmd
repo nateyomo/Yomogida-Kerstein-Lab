@@ -1,0 +1,9 @@
+---
+title: Index of pain
+---
+
+## Physiology of pain
+
+## Interventions
+
+[Graded Motor Imagery]({{< var ref-graded-motor-imagery.path >}})

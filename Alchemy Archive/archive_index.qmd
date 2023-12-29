@@ -12,7 +12,7 @@ title: "Archives"
 # MSK Pathologies & Rehabilitation
 
 ## Lumbar spine
-[Chronic Low Back Pain]({{< var ref-chronic-low-back-pain >}})
+[Chronic Low Back Pain]({{< var ref-chronic-low-back-pain.path >}})
 
 [Acute Low Back Pain](Pathologies-and-Rehab/Spine-Lumbar/acute_low_back_pain.qmd)
 

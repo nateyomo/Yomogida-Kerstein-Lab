@@ -17,7 +17,7 @@ author:
 
 website:
   page-navigation: true
-  title: "Alchemy Performance Institute"
+  title: "The Archive"
   navbar:
     left:
       - href: index.qmd
@@ -25,6 +25,8 @@ website:
       - about.qmd
       - href: Alchemy Archive/archive_index.qmd
         text: Archive
+      - href: guide.qmd
+        text: Guide
 
 
 bibliography: Alchemy Archive/Bibliography/NGY CAK JVC Bibliography.bib
@@ -33,6 +35,7 @@ csl: Alchemy Archive/Bibliography/american-medical-association.csl
 format:
   html:
     toc: true
+    toc-title: Contents
     number-sections: true
     tbl-cap-location: top
     theme:

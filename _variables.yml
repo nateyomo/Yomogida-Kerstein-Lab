@@ -2,46 +2,98 @@
 
 
 # genetics & Genomics
-ref-sod1: "/Alchemy Archive/Genetics and genomics/SOD1_superoxide_dismutase_1.qmd"
+ref-sod1: 
+  path: "/Alchemy Archive/Genetics and genomics/SOD1_superoxide_dismutase_1.qmd"
 
 # Physiology
 ## Minerals
-ref-copper: "/Alchemy Archive/Physiology/Minerals/copper.qmd"
+ref-copper: 
+  path: "/Alchemy Archive/Physiology/Minerals/copper.qmd"
 
 ## Physiology of stress
-ref-oxidative-stress: "/Alchemy Archive/Physiology/Physiology of stress/Oxidative_stress.qmd"
+ref-oxidative-stress: 
+  path: "/Alchemy Archive/Physiology/Physiology of stress/Oxidative_stress.qmd"
+
+# Pain science
+
+## PS - Interventions
+ref-graded-motor-imagery: 
+  path: "/Alchemy Archive/Pain_science/interventions/graded_motor_imagery.qmd"
 
 # Neuroscience
 
 ## Neuropathology
-ref-amyotrophic-lateral-sclerosis: "/Alchemy Archive/Neuro/Neuropathology/amyotrophic_lateral_sclerosis.qmd"
+ref-amyotrophic-lateral-sclerosis: 
+  path: "/Alchemy Archive/Neuro/Neuropathology/amyotrophic_lateral_sclerosis.qmd"
 
 # Pathologies & Rehab
-ref-chronic-low-back-pain: "/Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/chronic_low_back_pain.qmd"
+ref-chronic-low-back-pain: 
+  path: "/Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/chronic_low_back_pain.qmd"
 
-ref-acute-low-back-pain: "/Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/acute_low_back_pain.qmd"
+ref-acute-low-back-pain: 
+  path: "/Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/acute_low_back_pain.qmd"
 
 # Anatomy
 
 ## OIAN
-ref-oians: /Alchemy Archive/Anatomy/OIAN.qmd
+ref-oians: 
+  path: /Alchemy Archive/Anatomy/OIAN.qmd
 
-ref-rectus-capitis-posterior-major: /Alchemy Archive/Anatomy/OIANs/rectus_capitis_posterior_major.qmd
-ref-rectus-capitis-posterior-minor: /Alchemy Archive/Anatomy/OIANs/rectus_capitis_posterior_minor.qmd
-ref-obliquus-capitis-superior: /Alchemy Archive/Anatomy/OIANs/obliquus_capitis_superior.qmd
-ref-obliquus-capitis-inferior: /Alchemy Archive/Anatomy/OIANs/obliquus_capitis_inferior.qmd
+ref-rectus-capitis-posterior-major: 
+  path: /Alchemy Archive/Anatomy/OIANs/rectus_capitis_posterior_major.qmd
+ref-rectus-capitis-posterior-minor: 
+  path: /Alchemy Archive/Anatomy/OIANs/rectus_capitis_posterior_minor.qmd
+ref-obliquus-capitis-superior: 
+  path: /Alchemy Archive/Anatomy/OIANs/obliquus_capitis_superior.qmd
+ref-obliquus-capitis-inferior: 
+  path: /Alchemy Archive/Anatomy/OIANs/obliquus_capitis_inferior.qmd
 
-ref-longus-capitis: /Alchemy Archive/Anatomy/OIANs/longus_capitis.qmd
-ref-longus-colli-cervicis: /Alchemy Archive/Anatomy/OIANs/longus_colli_cervicis.qmd
-ref-rectus-capitis-anterior: /Alchemy Archive/Anatomy/OIANs/rectus_capitis_anterior.qmd
-ref-rectus-capitis-lateralis: /Alchemy Archive/Anatomy/OIANs/rectus_capitis_lateralis.qmd
+ref-longus-capitis: 
+  path: /Alchemy Archive/Anatomy/OIANs/longus_capitis.qmd
+  origin: C3-C6\ (TP, ant tubercles) 
+  insertion: Occipital bone (basilar part) 
+  nerve: Direct branches from cervical plexus (C1-C3) 
+  action: "**BIL** flexes head; **UNIL** flexes and slight I/L rotation "
+ref-longus-colli-cervicis: 
+  path: /Alchemy Archive/Anatomy/OIANs/longus_colli_cervicis.qmd
+ref-rectus-capitis-anterior: 
+  path: /Alchemy Archive/Anatomy/OIANs/rectus_capitis_anterior.qmd
+ref-rectus-capitis-lateralis: 
+  path: /Alchemy Archive/Anatomy/OIANs/rectus_capitis_lateralis.qmd
 
-ref-serratus-posterior-superior: /Alchemy Archive/Anatomy/OIANs/serratus_posterior_superior.qmd
-ref-serratus-posterior-inferior: /Alchemy Archive/Anatomy/OIANs/serratus_posterior_inferior.qmd
-ref-splenius-capitis: /Alchemy Archive/Anatomy/OIANs/splenius_capitis.qmd
-ref-splenius-cervicis: /Alchemy Archive/Anatomy/OIANs/splenius_cervicis.qmd
+ref-serratus-posterior-superior: 
+  path: /Alchemy Archive/Anatomy/OIANs/serratus_posterior_superior.qmd
+ref-serratus-posterior-inferior: 
+  path: /Alchemy Archive/Anatomy/OIANs/serratus_posterior_inferior.qmd
+ref-splenius-capitis: 
+  path: /Alchemy Archive/Anatomy/OIANs/splenius_capitis.qmd
+ref-splenius-cervicis: 
+  path: /Alchemy Archive/Anatomy/OIANs/splenius_cervicis.qmd
+
+ref-iliocostalis-cervicis:
+  path: /Alchemy Archive/Anatomy/OIANs/iliocostalis.qmd
+  origin: "3rd-7th ribs "
+  insertion: "C4-C6 TP"
+  nerve: "[Spinal nn. ]({{< var ref-spinal-nerves.path >}}) C8-L1 (Post rami, lateral branches)"
+  action: "**BIL:** Extends spine; **UNIL:** I/L spine lat-flexion"
+ref-iliocostalis-thoracis:
+  path: /Alchemy Archive/Anatomy/OIANs/iliocostalis.qmd
+  origin: "7-12th ribs"
+  insertion: "1st-6th ribs"
+  nerve: "[Spinal nn.]({{< var ref-spinal-nerves.path >}}) C8-L1 (Post rami, lateral branches)"
+  action: "**BIL:** Extends spine; **UNIL:** I/L spine lat-flexion"
+ref-iliocostalis-lumborum:
+  path: /Alchemy Archive/Anatomy/OIANs/iliocostalis.qmd
+  origin: "Sacrum, iliac crest, lumbar vertebrae SP; lower thoracic vertebrae TP"
+  insertion: "6-12th ribs, thoracolumbar fascia (posterior layer), upper lumbar vertebrae (TP)"
+  nerve: "[Spinal nn. ]({{< var ref-spinal-nerves.path >}}) C8-L1 (Post rami, lateral branches)"
+  action: "**BIL:** Extends spine; **UNIL:** I/L spine lat-flexion"
 
 
 ## Nerve
-ref-suboccipital-nerve: /Alchemy Archive/Anatomy/Nerves/suboccipital_nerve.qmd
+ref-suboccipital-nerve: 
+  path: /Alchemy Archive/Anatomy/Nerves/suboccipital_nerve.qmd
+
+ref-spinal-nerves: 
+  path: /Alchemy Archive/Anatomy/Nerves/spinal_nerves.qmd
 

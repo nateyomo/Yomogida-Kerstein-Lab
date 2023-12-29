@@ -55,7 +55,7 @@ The very large majority of adult individuals with ALS have no family history of 
 A very small percentage of individuals with sporadic ALS do have a mutation in SOD1
 :::
 
-Over 20 chromosomal regions and a number of identified genes have been linked to ALS. 20% of hereditary ALS cases are attributed to one of 100+ mutations in [superoxide dismutase 1 (SOD1)]({{< var ref-sod1 >}}) @osullivanPhysicalRehabilitation2019. 
+Over 20 chromosomal regions and a number of identified genes have been linked to ALS. 20% of hereditary ALS cases are attributed to one of 100+ mutations in [superoxide dismutase 1 (SOD1)]({{< var ref-sod1.path >}}) @osullivanPhysicalRehabilitation2019. 
 ~50% of individuals with an SOD1 ALS variant are symptomatic by 46yrs, and 90% are symptomatic by 70 years of age @osullivanPhysicalRehabilitation2019. 
 
 ## Onset
@@ -76,7 +76,7 @@ Over 20 chromosomal regions and a number of identified genes have been linked to
 # Etiology
 
 Etiology for ALS is unknown, apart from the few hereditary cases @osullivanPhysicalRehabilitation2019.
-Current theories attribute ALS to be the summation of multiple mechanisms including: [oxidative stress]({{< var ref-oxidative-stress >}}), aberrant RNA processing, exogenous neurotoxicity, excitotoxicity, impaired axonal transportation, axonal dysfunction, mitochondrial disruption, protein misfolding, protein aggregation, apoptosis, and lifestyle factors that contribute to neuronal degeneration @osullivanPhysicalRehabilitation2019.
+Current theories attribute ALS to be the summation of multiple mechanisms including: [oxidative stress]({{< var ref-oxidative-stress.path >}}), aberrant RNA processing, exogenous neurotoxicity, excitotoxicity, impaired axonal transportation, axonal dysfunction, mitochondrial disruption, protein misfolding, protein aggregation, apoptosis, and lifestyle factors that contribute to neuronal degeneration @osullivanPhysicalRehabilitation2019.
 
 ## Superoxide Dismutases
 

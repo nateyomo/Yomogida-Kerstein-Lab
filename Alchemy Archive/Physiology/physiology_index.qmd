@@ -5,9 +5,9 @@ title: "Physiology Index"
 ## Hormones
 
 ## Minerals
-[Copper [Cu]]({{< var ref-copper >}})
+[Copper [Cu]]({{< var ref-copper.path >}})
 
 ## Muscle Physiology
 
 ## Physiology of stress
-[Oxidative stress]({{< var ref-oxidative-stress >}})
+[Oxidative stress]({{< var ref-oxidative-stress.path >}})

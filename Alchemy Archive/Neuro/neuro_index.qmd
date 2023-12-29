@@ -10,4 +10,4 @@ title: "Index of Neuro archives"
 ### PNS Pathologies
 
 ### CNS Pathologies
-[Amyotrophic Lateral Sclerosis (ALS)]({{< var ref-amyotrophic-lateral-sclerosis >}})
+[Amyotrophic Lateral Sclerosis (ALS)]({{< var ref-amyotrophic-lateral-sclerosis.path >}})

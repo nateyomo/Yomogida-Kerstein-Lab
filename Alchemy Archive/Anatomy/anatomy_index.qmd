@@ -3,7 +3,9 @@ title: Anatomy Index
 ---
 
 ## OIANs
-[OIANs]({{< var ref-oians >}})
+[OIANs]({{< var ref-oians.path >}})
 
 ## Nerves
-[Suboccipital Nerve]({{< var ref-suboccipital-nerve >}})
+[Suboccipital Nerve]({{< var ref-suboccipital-nerve.path >}})
+
+[Spinal nn.]({{< var ref-spinal-nerves.path >}})

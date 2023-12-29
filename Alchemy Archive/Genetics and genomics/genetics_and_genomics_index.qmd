@@ -3,4 +3,4 @@ title: "Archives of Genetics and Genomics"
 ---
 
 ## Genes
-[Superoxide dismutase 1 (SOD1)]({{< var ref-sod1 >}})
+[Superoxide dismutase 1 (SOD1)]({{< var ref-sod1.path >}})

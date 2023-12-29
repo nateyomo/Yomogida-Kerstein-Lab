@@ -6,29 +6,35 @@ title: "OIANs of all the muscles"
 
 ## Suboccipitals
 
-- [Rectus capitis posterior major]({{< var ref-rectus-capitis-posterior-major >}})
-- [Rectus Capitis Posterior Minor]({{< var ref-rectus-capitis-posterior-minor >}})
-- [Obliquus capitis superior]({{< var ref-obliquus-capitis-superior >}})
-- [Obliquus capitis inferior]({{< var ref-obliquus-capitis-inferior >}})
+- [Rectus capitis posterior major]({{< var ref-rectus-capitis-posterior-major.path >}})
+- [Rectus Capitis Posterior Minor]({{< var ref-rectus-capitis-posterior-minor.path >}})
+- [Obliquus capitis superior]({{< var ref-obliquus-capitis-superior.path >}})
+- [Obliquus capitis inferior]({{< var ref-obliquus-capitis-inferior.path >}})
 
 ## Prevertebral Muscles
-- [Longus capitis]({{< var ref-longus-capitis >}})
-- [Longus Colli Cervicis]({{< var ref-longus-colli-cervicis >}})
-- [Rectus Capitis anterior]({{< var ref-rectus-capitis-anterior >}})
-- [Rectus Capitis Lateralis]({{< var ref-rectus-capitis-lateralis >}})
+- [Longus capitis]({{< var ref-longus-capitis.path >}})
+- [Longus Colli Cervicis]({{< var ref-longus-colli-cervicis.path >}})
+- [Rectus Capitis anterior]({{< var ref-rectus-capitis-anterior.path >}})
+- [Rectus Capitis Lateralis]({{< var ref-rectus-capitis-lateralis.path >}})
+
+| Muscle  | Origin  | Insertion | Nerve | Action |
+|--------|----------|-----------|-------|--------|
+| [Longus Capitis]({{< var ref-longus-capitis.path >}}) | {{< var ref-longus-capitis.origin >}} | {{< var ref-longus-capitis.insertion >}} | {{< var ref-longus-capitis.nerve >}} | {{< var ref-longus-capitis.action >}} |
+
+: Prevertebral muscle group {.striped .hover}
 
 
 ## Superficial intrinsic back Muscles
-- [Serratus posterior superior]({{< var ref-serratus-posterior-superior >}})
-- [Serratus posterior inferior]({{< var ref-serratus-posterior-inferior >}})
-- [Splenius capitis]({{< var ref-splenius-capitis >}})
-- [Splenius cervicis]({{< var ref-splenius-cervicis >}})
+- [Serratus posterior superior]({{< var ref-serratus-posterior-superior.path >}})
+- [Serratus posterior inferior]({{< var ref-serratus-posterior-inferior.path >}})
+- [Splenius capitis]({{< var ref-splenius-capitis.path >}})
+- [Splenius cervicis]({{< var ref-splenius-cervicis.path >}})
 
 ## Intermediate intrinsic back muscles (Erector Spinae)
 - Iliocostalis
-    - Iliocostalis Cervicis
-    - Iliocostalis Thoracis
-    - Iliocostalis lumborum
+    - [Iliocostalis Cervicis]({{< var ref-iliocostalis-cervicis.path >}})
+    - [Iliocostalis Thoracis]({{< var ref-iliocostalis-thoracis.path >}})
+    - [Iliocostalis lumborum]({{< var ref-iliocostalis-lumborum.path >}})
 - Longissimus
     - Longissimus Capitis
     - Longissimus Cervicis
@@ -36,3 +42,11 @@ title: "OIANs of all the muscles"
 - Spinalis
     - Spinalis Cervicis
     - Spinalis Thoracis
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Iliocostalis cervicis]({{< var ref-iliocostalis-cervicis.path >}}) | {{< var ref-iliocostalis-cervicis.origin >}} | {{< var ref-iliocostalis-cervicis.insertion >}} | {{< var ref-iliocostalis-cervicis.nerve >}} | {{< var ref-iliocostalis-cervicis.action >}} |
+| [Iliocostalis thoracis]({{< var ref-iliocostalis-thoracis.path >}}) | {{< var ref-iliocostalis-thoracis.origin >}} | {{< var ref-iliocostalis-thoracis.insertion >}} | {{< var ref-iliocostalis-thoracis.nerve >}} | {{< var ref-iliocostalis-thoracis.action >}} |
+| [Iliocostalis lumborum]({{< var ref-iliocostalis-lumborum.path >}}) | {{< var ref-iliocostalis-lumborum.origin >}} | {{< var ref-iliocostalis-lumborum.insertion >}} | {{< var ref-iliocostalis-lumborum.nerve >}}  | {{< var ref-iliocostalis-lumborum.action >}} |
+
+: Erector Spinae OIAN {.striped .hover}
