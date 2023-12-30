@@ -9,7 +9,14 @@
   {
     "objectID": "Alchemy Archive/Genetics and genomics/genetics_and_genomics_index.html",
     "href": "Alchemy Archive/Genetics and genomics/genetics_and_genomics_index.html",
-    "title": "Archives of Genetics and Genomics",
+    "title": "Archives of Genetics & Genomics",
+    "section": "",
+    "text": "Superoxide dismutase 1 (SOD1)"
+  },
+  {
+    "objectID": "Alchemy Archive/Genetics and genomics/genetics_and_genomics_index.html#genes",
+    "href": "Alchemy Archive/Genetics and genomics/genetics_and_genomics_index.html#genes",
+    "title": "Archives of Genetics & Genomics",
     "section": "",
     "text": "Superoxide dismutase 1 (SOD1)"
   },
@@ -58,16 +65,100 @@
   {
     "objectID": "Alchemy Archive/archive_index.html",
     "href": "Alchemy Archive/archive_index.html",
-    "title": "Archives of Genetics and Genomics",
+    "title": "Archives of Genetics & Genomics",
     "section": "",
     "text": "OIANs\n\n\n\nSuboccipital Nerve\nSpinal nn."
   },
   {
-    "objectID": "Alchemy Archive/Physiology/physiology index.html",
-    "href": "Alchemy Archive/Physiology/physiology index.html",
-    "title": "Physiology notes",
+    "objectID": "Alchemy Archive/archive_index.html#oians",
+    "href": "Alchemy Archive/archive_index.html#oians",
+    "title": "Archives of Genetics & Genomics",
     "section": "",
-    "text": "Here is a list of notes I have written on different topics in physiology\n\n1 Minerals\nCopper [Cu]"
+    "text": "OIANs"
+  },
+  {
+    "objectID": "Alchemy Archive/archive_index.html#nerves",
+    "href": "Alchemy Archive/archive_index.html#nerves",
+    "title": "Archives of Genetics & Genomics",
+    "section": "",
+    "text": "Suboccipital Nerve\nSpinal nn."
+  },
+  {
+    "objectID": "Alchemy Archive/archive_index.html#hormones",
+    "href": "Alchemy Archive/archive_index.html#hormones",
+    "title": "Archives of Genetics & Genomics",
+    "section": "2.1 Hormones",
+    "text": "2.1 Hormones"
+  },
+  {
+    "objectID": "Alchemy Archive/archive_index.html#minerals",
+    "href": "Alchemy Archive/archive_index.html#minerals",
+    "title": "Archives of Genetics & Genomics",
+    "section": "2.2 Minerals",
+    "text": "2.2 Minerals\nCopper [Cu]"
+  },
+  {
+    "objectID": "Alchemy Archive/archive_index.html#muscle-physiology",
+    "href": "Alchemy Archive/archive_index.html#muscle-physiology",
+    "title": "Archives of Genetics & Genomics",
+    "section": "2.3 Muscle Physiology",
+    "text": "2.3 Muscle Physiology"
+  },
+  {
+    "objectID": "Alchemy Archive/archive_index.html#physiology-of-stress",
+    "href": "Alchemy Archive/archive_index.html#physiology-of-stress",
+    "title": "Archives of Genetics & Genomics",
+    "section": "2.4 Physiology of stress",
+    "text": "2.4 Physiology of stress\nOxidative stress"
+  },
+  {
+    "objectID": "Alchemy Archive/archive_index.html#lumbar-spine",
+    "href": "Alchemy Archive/archive_index.html#lumbar-spine",
+    "title": "Archives of Genetics & Genomics",
+    "section": "3.1 Lumbar spine",
+    "text": "3.1 Lumbar spine\nChronic Low Back Pain\nAcute Low Back Pain"
+  },
+  {
+    "objectID": "Alchemy Archive/archive_index.html#neuropathology",
+    "href": "Alchemy Archive/archive_index.html#neuropathology",
+    "title": "Archives of Genetics & Genomics",
+    "section": "4.1 Neuropathology",
+    "text": "4.1 Neuropathology\n\n4.1.1 PNS Pathologies\n\n\n4.1.2 CNS Pathologies\nAmyotrophic Lateral Sclerosis (ALS)"
+  },
+  {
+    "objectID": "Alchemy Archive/archive_index.html#genes",
+    "href": "Alchemy Archive/archive_index.html#genes",
+    "title": "Archives of Genetics & Genomics",
+    "section": "5.1 Genes",
+    "text": "5.1 Genes\nSuperoxide dismutase 1 (SOD1)"
+  },
+  {
+    "objectID": "Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/acute_low_back_pain.html",
+    "href": "Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/acute_low_back_pain.html",
+    "title": "Acute Low Back Pain",
+    "section": "",
+    "text": "Acute & Chronic LBP CPG - George et al.1"
+  },
+  {
+    "objectID": "Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/acute_low_back_pain.html#acute-low-back-pain",
+    "href": "Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/acute_low_back_pain.html#acute-low-back-pain",
+    "title": "Acute Low Back Pain",
+    "section": "2.1 Acute low back pain",
+    "text": "2.1 Acute low back pain\nAcute low back pain is defined as pain lasting less than 6 weeks."
+  },
+  {
+    "objectID": "Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/acute_low_back_pain.html#acute-low-back-pain-leg-pain",
+    "href": "Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/acute_low_back_pain.html#acute-low-back-pain-leg-pain",
+    "title": "Acute Low Back Pain",
+    "section": "2.2 Acute Low Back Pain + Leg pain",
+    "text": "2.2 Acute Low Back Pain + Leg pain\n\n2.2.1 DDX\n\nHerniations1\n\n\n\n2.2.2 Exercises\nGoal: reduce pain & disability1 - Specific trunk mm [Grade B]1 - Endurance & mm strengthening [Grade B]1 - Supine iso back extension and ab exercises → greater reduction of pain1 - Herniations: general vs specific exercises, no diff at 3 month BUT at 1 year: specific trunk mm activation had greater improvement in back pain and disability1."
+  },
+  {
+    "objectID": "Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/acute_low_back_pain.html#centralization-directional-preference-exercises",
+    "href": "Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/acute_low_back_pain.html#centralization-directional-preference-exercises",
+    "title": "Acute Low Back Pain",
+    "section": "2.3 Centralization & Directional preference exercises",
+    "text": "2.3 Centralization & Directional preference exercises\n\nGrade A1\nRepeated movements, exercises, or procedures to promote centralization to reduce symptoms1"
   },
   {
     "objectID": "Alchemy Archive/Physiology/Minerals/copper.html",
@@ -175,335 +266,6 @@
     "text": "5.3 Zyklopen\nZyklopen is involved in iron efflux from placental trophoblasts during iron transfer from mother to fetus2"
   },
   {
-    "objectID": "Alchemy Archive/Physiology/Physiological mechanisms/Oxidative stress.html",
-    "href": "Alchemy Archive/Physiology/Physiological mechanisms/Oxidative stress.html",
-    "title": "Oxidative Stress",
-    "section": "",
-    "text": "1 related pathologies\nOxidative stress is believed to play a role in ALS neuronal degeneration according to current theories1.\n\n\n\n\n\nReferences\n\n1. O’Sullivan SB, Schmitz TJ, Fulk GD, eds. Physical Rehabilitation. 7th ed. F.A. Davis Company; 2019."
-  },
-  {
-    "objectID": "Alchemy Archive/Neuro/neuro_index.html",
-    "href": "Alchemy Archive/Neuro/neuro_index.html",
-    "title": "Index of Neuro archives",
-    "section": "",
-    "text": "Amyotrophic Lateral Sclerosis (ALS)"
-  },
-  {
-    "objectID": "Alchemy Archive/Genetics and genomics/SOD1_superoxide_dismutase_1.html",
-    "href": "Alchemy Archive/Genetics and genomics/SOD1_superoxide_dismutase_1.html",
-    "title": "Superoxide Dismutase 1 (SOD1)",
-    "section": "",
-    "text": "Superoxide dismutases are a group of enzymes that eliminate oxygen free radicals that, although products of normal cell metabolism, have been implicated in neurodegeneration1."
-  },
-  {
-    "objectID": "Alchemy Archive/Genetics and genomics/SOD1_superoxide_dismutase_1.html#prevention-of-neuronal-degeneration",
-    "href": "Alchemy Archive/Genetics and genomics/SOD1_superoxide_dismutase_1.html#prevention-of-neuronal-degeneration",
-    "title": "Superoxide Dismutase 1 (SOD1)",
-    "section": "",
-    "text": "Superoxide dismutases are a group of enzymes that eliminate oxygen free radicals that, although products of normal cell metabolism, have been implicated in neurodegeneration1."
-  },
-  {
-    "objectID": "Alchemy Archive/Genetics and genomics/SOD1_superoxide_dismutase_1.html#sod1",
-    "href": "Alchemy Archive/Genetics and genomics/SOD1_superoxide_dismutase_1.html#sod1",
-    "title": "Superoxide Dismutase 1 (SOD1)",
-    "section": "2.1 SOD1",
-    "text": "2.1 SOD1\n\n2.1.1 Function\na gene that encodes the copper-zinc superoxide dismutase enzyme1\n\n\n2.1.2 Mutation\none of 100s of mutations in SOD1 have been linked to hereditary ALS1."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "The Archives",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
-    "objectID": "Alchemy Archive/archive_index.html#lumbar-spine",
-    "href": "Alchemy Archive/archive_index.html#lumbar-spine",
-    "title": "Archives of Genetics and Genomics",
-    "section": "3.1 Lumbar spine",
-    "text": "3.1 Lumbar spine\nChronic Low Back Pain\nAcute Low Back Pain"
-  },
-  {
-    "objectID": "Alchemy Archive/Pathologies & Rehab/Spine-Lumbar/acute low back pain.html",
-    "href": "Alchemy Archive/Pathologies & Rehab/Spine-Lumbar/acute low back pain.html",
-    "title": "Acute Low Back Pain",
-    "section": "",
-    "text": "Acute & Chronic LBP CPG - George et al.1"
-  },
-  {
-    "objectID": "Alchemy Archive/Pathologies & Rehab/Spine-Lumbar/acute low back pain.html#acute-low-back-pain",
-    "href": "Alchemy Archive/Pathologies & Rehab/Spine-Lumbar/acute low back pain.html#acute-low-back-pain",
-    "title": "Acute Low Back Pain",
-    "section": "2.1 Acute low back pain",
-    "text": "2.1 Acute low back pain\nAcute low back pain is defined as pain lasting less than 6 weeks."
-  },
-  {
-    "objectID": "Alchemy Archive/Pathologies & Rehab/Spine-Lumbar/acute low back pain.html#acute-low-back-pain-leg-pain",
-    "href": "Alchemy Archive/Pathologies & Rehab/Spine-Lumbar/acute low back pain.html#acute-low-back-pain-leg-pain",
-    "title": "Acute Low Back Pain",
-    "section": "2.2 Acute Low Back Pain + Leg pain",
-    "text": "2.2 Acute Low Back Pain + Leg pain\n\n2.2.1 DDX\n\nHerniations1\n\n\n\n2.2.2 Exercises\nGoal: reduce pain & disability1 - Specific trunk mm [Grade B]1 - Endurance & mm strengthening [Grade B]1 - Supine iso back extension and ab exercises → greater reduction of pain1 - Herniations: general vs specific exercises, no diff at 3 month BUT at 1 year: specific trunk mm activation had greater improvement in back pain and disability1."
-  },
-  {
-    "objectID": "Alchemy Archive/Pathologies & Rehab/Spine-Lumbar/chronic low back pain.html",
-    "href": "Alchemy Archive/Pathologies & Rehab/Spine-Lumbar/chronic low back pain.html",
-    "title": "Chronic Low Back Pain",
-    "section": "",
-    "text": "Acute & Chronic LBP CPG - George et al.1"
-  },
-  {
-    "objectID": "Alchemy Archive/Pathologies & Rehab/Spine-Lumbar/chronic low back pain.html#therex",
-    "href": "Alchemy Archive/Pathologies & Rehab/Spine-Lumbar/chronic low back pain.html#therex",
-    "title": "Chronic Low Back Pain",
-    "section": "2.1 Therex",
-    "text": "2.1 Therex\n\nGrade A1\n\nSome of the exercises that were given a grade of A include: - MM strengthening & endurance - Multimodal exercise - Specific trunk mm activation → coordination, strength, endurance - Aerobic - Aquatic - General"
-  },
-  {
-    "objectID": "Alchemy Archive/Pathologies & Rehab/Spine-Lumbar/chronic low back pain.html#rehab-goals",
-    "href": "Alchemy Archive/Pathologies & Rehab/Spine-Lumbar/chronic low back pain.html#rehab-goals",
-    "title": "Chronic Low Back Pain",
-    "section": "3.1 Rehab goals",
-    "text": "3.1 Rehab goals\n\nCentralize symptoms1\nReduce Pain1\nReduce Disability1"
-  },
-  {
-    "objectID": "Alchemy Archive/Pathologies & Rehab/Spine-Lumbar/chronic_low_back_pain.html",
-    "href": "Alchemy Archive/Pathologies & Rehab/Spine-Lumbar/chronic_low_back_pain.html",
-    "title": "Chronic Low Back Pain",
-    "section": "",
-    "text": "Acute & Chronic LBP CPG - George et al.1"
-  },
-  {
-    "objectID": "Alchemy Archive/Pathologies & Rehab/Spine-Lumbar/chronic_low_back_pain.html#therex",
-    "href": "Alchemy Archive/Pathologies & Rehab/Spine-Lumbar/chronic_low_back_pain.html#therex",
-    "title": "Chronic Low Back Pain",
-    "section": "2.1 Therex",
-    "text": "2.1 Therex\n\nGrade A1\n\nSome of the exercises that were given a grade of A include: - MM strengthening & endurance - Multimodal exercise - Specific trunk mm activation → coordination, strength, endurance - Aerobic - Aquatic - General"
-  },
-  {
-    "objectID": "Alchemy Archive/Pathologies & Rehab/Spine-Lumbar/chronic_low_back_pain.html#rehab-goals",
-    "href": "Alchemy Archive/Pathologies & Rehab/Spine-Lumbar/chronic_low_back_pain.html#rehab-goals",
-    "title": "Chronic Low Back Pain",
-    "section": "3.1 Rehab goals",
-    "text": "3.1 Rehab goals\n\nCentralize symptoms1\nReduce Pain1\nReduce Disability1"
-  },
-  {
-    "objectID": "Alchemy Archive/Pathologies & Rehab/Spine-Lumbar/acute_low_back_pain.html",
-    "href": "Alchemy Archive/Pathologies & Rehab/Spine-Lumbar/acute_low_back_pain.html",
-    "title": "Acute Low Back Pain",
-    "section": "",
-    "text": "Acute & Chronic LBP CPG - George et al.1"
-  },
-  {
-    "objectID": "Alchemy Archive/Pathologies & Rehab/Spine-Lumbar/acute_low_back_pain.html#acute-low-back-pain",
-    "href": "Alchemy Archive/Pathologies & Rehab/Spine-Lumbar/acute_low_back_pain.html#acute-low-back-pain",
-    "title": "Acute Low Back Pain",
-    "section": "2.1 Acute low back pain",
-    "text": "2.1 Acute low back pain\nAcute low back pain is defined as pain lasting less than 6 weeks."
-  },
-  {
-    "objectID": "Alchemy Archive/Pathologies & Rehab/Spine-Lumbar/acute_low_back_pain.html#acute-low-back-pain-leg-pain",
-    "href": "Alchemy Archive/Pathologies & Rehab/Spine-Lumbar/acute_low_back_pain.html#acute-low-back-pain-leg-pain",
-    "title": "Acute Low Back Pain",
-    "section": "2.2 Acute Low Back Pain + Leg pain",
-    "text": "2.2 Acute Low Back Pain + Leg pain\n\n2.2.1 DDX\n\nHerniations1\n\n\n\n2.2.2 Exercises\nGoal: reduce pain & disability1 - Specific trunk mm [Grade B]1 - Endurance & mm strengthening [Grade B]1 - Supine iso back extension and ab exercises → greater reduction of pain1 - Herniations: general vs specific exercises, no diff at 3 month BUT at 1 year: specific trunk mm activation had greater improvement in back pain and disability1."
-  },
-  {
-    "objectID": "Alchemy Archive/Pathologies & Rehab/Spine-Lumbar/acute_low_back_pain.html#centralization-directional-preference-exercises",
-    "href": "Alchemy Archive/Pathologies & Rehab/Spine-Lumbar/acute_low_back_pain.html#centralization-directional-preference-exercises",
-    "title": "Acute Low Back Pain",
-    "section": "2.3 Centralization & Directional preference exercises",
-    "text": "2.3 Centralization & Directional preference exercises\n\nGrade A1\nRepeated movements, exercises, or procedures to promote centralization to reduce symptoms1"
-  },
-  {
-    "objectID": "Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/acute_low_back_pain.html",
-    "href": "Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/acute_low_back_pain.html",
-    "title": "Acute Low Back Pain",
-    "section": "",
-    "text": "Acute & Chronic LBP CPG - George et al.1"
-  },
-  {
-    "objectID": "Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/acute_low_back_pain.html#acute-low-back-pain",
-    "href": "Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/acute_low_back_pain.html#acute-low-back-pain",
-    "title": "Acute Low Back Pain",
-    "section": "2.1 Acute low back pain",
-    "text": "2.1 Acute low back pain\nAcute low back pain is defined as pain lasting less than 6 weeks."
-  },
-  {
-    "objectID": "Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/acute_low_back_pain.html#acute-low-back-pain-leg-pain",
-    "href": "Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/acute_low_back_pain.html#acute-low-back-pain-leg-pain",
-    "title": "Acute Low Back Pain",
-    "section": "2.2 Acute Low Back Pain + Leg pain",
-    "text": "2.2 Acute Low Back Pain + Leg pain\n\n2.2.1 DDX\n\nHerniations1\n\n\n\n2.2.2 Exercises\nGoal: reduce pain & disability1 - Specific trunk mm [Grade B]1 - Endurance & mm strengthening [Grade B]1 - Supine iso back extension and ab exercises → greater reduction of pain1 - Herniations: general vs specific exercises, no diff at 3 month BUT at 1 year: specific trunk mm activation had greater improvement in back pain and disability1."
-  },
-  {
-    "objectID": "Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/acute_low_back_pain.html#centralization-directional-preference-exercises",
-    "href": "Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/acute_low_back_pain.html#centralization-directional-preference-exercises",
-    "title": "Acute Low Back Pain",
-    "section": "2.3 Centralization & Directional preference exercises",
-    "text": "2.3 Centralization & Directional preference exercises\n\nGrade A1\nRepeated movements, exercises, or procedures to promote centralization to reduce symptoms1"
-  },
-  {
-    "objectID": "Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/chronic_low_back_pain.html",
-    "href": "Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/chronic_low_back_pain.html",
-    "title": "Chronic Low Back Pain",
-    "section": "",
-    "text": "Acute & Chronic LBP CPG - George et al.1"
-  },
-  {
-    "objectID": "Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/chronic_low_back_pain.html#therex",
-    "href": "Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/chronic_low_back_pain.html#therex",
-    "title": "Chronic Low Back Pain",
-    "section": "2.1 Therex",
-    "text": "2.1 Therex\n\nGrade A1\n\nSome of the exercises that were given a grade of A include:\n\nMM strengthening & endurance1\nMultimodal exercise1\nSpecific trunk mm activation → coordination, strength, endurance1\nAerobic1\nAquatic1\nGeneral1"
-  },
-  {
-    "objectID": "Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/chronic_low_back_pain.html#rehab-goals",
-    "href": "Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/chronic_low_back_pain.html#rehab-goals",
-    "title": "Chronic Low Back Pain",
-    "section": "3.1 Rehab goals",
-    "text": "3.1 Rehab goals\n\nCentralize symptoms1\nReduce Pain1\nReduce Disability1"
-  },
-  {
-    "objectID": "Alchemy Archive/archive_index.html#pns-pathologies",
-    "href": "Alchemy Archive/archive_index.html#pns-pathologies",
-    "title": "Index of Neuro archives",
-    "section": "4.1 PNS Pathologies",
-    "text": "4.1 PNS Pathologies"
-  },
-  {
-    "objectID": "Alchemy Archive/archive_index.html#cns-pathologies",
-    "href": "Alchemy Archive/archive_index.html#cns-pathologies",
-    "title": "Index of Neuro archives",
-    "section": "4.2 CNS Pathologies",
-    "text": "4.2 CNS Pathologies\nAmyotrophic Lateral Sclerosis (ALS)"
-  },
-  {
-    "objectID": "Alchemy Archive/archive_index.html#neuroanatomy-and-physiology",
-    "href": "Alchemy Archive/archive_index.html#neuroanatomy-and-physiology",
-    "title": "Index of Neuro archives",
-    "section": "3.2 Neuroanatomy and physiology",
-    "text": "3.2 Neuroanatomy and physiology"
-  },
-  {
-    "objectID": "Alchemy Archive/archive_index.html#neuropathology-1",
-    "href": "Alchemy Archive/archive_index.html#neuropathology-1",
-    "title": "Index of Neuro archives",
-    "section": "3.3 Neuropathology",
-    "text": "3.3 Neuropathology"
-  },
-  {
-    "objectID": "Alchemy Archive/Neuro/neuro_index.html#cns-pathologies",
-    "href": "Alchemy Archive/Neuro/neuro_index.html#cns-pathologies",
-    "title": "Index of Neuro archives",
-    "section": "",
-    "text": "Amyotrophic Lateral Sclerosis (ALS)"
-  },
-  {
-    "objectID": "Alchemy Archive/archive_index.html#neuropathology",
-    "href": "Alchemy Archive/archive_index.html#neuropathology",
-    "title": "Archives of Genetics and Genomics",
-    "section": "4.1 Neuropathology",
-    "text": "4.1 Neuropathology\n\n4.1.1 PNS Pathologies\n\n\n4.1.2 CNS Pathologies\nAmyotrophic Lateral Sclerosis (ALS)"
-  },
-  {
-    "objectID": "Alchemy Archive/Neuro/neuro_index.html#neuropathology",
-    "href": "Alchemy Archive/Neuro/neuro_index.html#neuropathology",
-    "title": "Index of Neuro archives",
-    "section": "",
-    "text": "Amyotrophic Lateral Sclerosis (ALS)"
-  },
-  {
-    "objectID": "Alchemy Archive/Physiology/physiology_index.html",
-    "href": "Alchemy Archive/Physiology/physiology_index.html",
-    "title": "Physiology notes",
-    "section": "",
-    "text": "Here is a list of notes I have written on different topics in physiology\n\n1 Minerals\nCopper [Cu]"
-  },
-  {
-    "objectID": "Alchemy Archive/archive_index.html#minerals",
-    "href": "Alchemy Archive/archive_index.html#minerals",
-    "title": "Archives of Genetics and Genomics",
-    "section": "2.2 Minerals",
-    "text": "2.2 Minerals\nCopper [Cu]"
-  },
-  {
-    "objectID": "Alchemy Archive/archive_index.html#physiology-of-stress",
-    "href": "Alchemy Archive/archive_index.html#physiology-of-stress",
-    "title": "Archives of Genetics and Genomics",
-    "section": "2.4 Physiology of stress",
-    "text": "2.4 Physiology of stress\nOxidative stress"
-  },
-  {
-    "objectID": "Alchemy Archive/Physiology/physiology_index.html#minerals",
-    "href": "Alchemy Archive/Physiology/physiology_index.html#minerals",
-    "title": "Physiology Index",
-    "section": "2 Minerals",
-    "text": "2 Minerals\nCopper [Cu]"
-  },
-  {
-    "objectID": "Alchemy Archive/Physiology/physiology_index.html#muscle-physiology",
-    "href": "Alchemy Archive/Physiology/physiology_index.html#muscle-physiology",
-    "title": "Physiology Index",
-    "section": "3 Muscle Physiology",
-    "text": "3 Muscle Physiology"
-  },
-  {
-    "objectID": "Alchemy Archive/Physiology/physiology_index.html#physiology-of-stress",
-    "href": "Alchemy Archive/Physiology/physiology_index.html#physiology-of-stress",
-    "title": "Physiology Index",
-    "section": "4 Physiology of stress",
-    "text": "4 Physiology of stress\nOxidative stress"
-  },
-  {
-    "objectID": "Alchemy Archive/Physiology/Physiology of stress/Oxidative stress.html",
-    "href": "Alchemy Archive/Physiology/Physiology of stress/Oxidative stress.html",
-    "title": "Oxidative Stress",
-    "section": "",
-    "text": "1 Associated pathologies\nOxidative stress is believed to play a role in ALS neuronal degeneration according to current theories1.\n\n\n\n\n\nReferences\n\n1. O’Sullivan SB, Schmitz TJ, Fulk GD, eds. Physical Rehabilitation. 7th ed. F.A. Davis Company; 2019."
-  },
-  {
-    "objectID": "Alchemy Archive/archive_index.html#genes",
-    "href": "Alchemy Archive/archive_index.html#genes",
-    "title": "Archives of Genetics and Genomics",
-    "section": "5.1 Genes",
-    "text": "5.1 Genes\nSuperoxide dismutase 1 (SOD1)"
-  },
-  {
-    "objectID": "Alchemy Archive/Genetics and genomics/genetics_and_genomics_index.html#genes",
-    "href": "Alchemy Archive/Genetics and genomics/genetics_and_genomics_index.html#genes",
-    "title": "Archives of Genetics and Genomics",
-    "section": "",
-    "text": "Superoxide dismutase 1 (SOD1)"
-  },
-  {
-    "objectID": "Alchemy Archive/Physiology/Physiology of stress/Oxidative_stress.html",
-    "href": "Alchemy Archive/Physiology/Physiology of stress/Oxidative_stress.html",
-    "title": "Oxidative Stress",
-    "section": "",
-    "text": "1 Associated pathologies\nOxidative stress is believed to play a role in ALS neuronal degeneration according to current theories1.\n\n\n\n\n\nReferences\n\n1. O’Sullivan SB, Schmitz TJ, Fulk GD, eds. Physical Rehabilitation. 7th ed. F.A. Davis Company; 2019."
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIAN.html",
-    "href": "Alchemy Archive/Anatomy/OIAN.html",
-    "title": "OIANs of all the muscles",
-    "section": "",
-    "text": "Rectus capitis posterior major\nRectus Capitis Posterior Minor\nObliquus capitis superior\nObliquus capitis inferior\n\n\n\n\n\nLongus capitis\nLongus Colli Cervicis\nRectus Capitis anterior\nRectus Capitis Lateralis\n\n\nPrevertebral muscle group\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nLongus Capitis\nC3-C6 (TP, ant tubercles)\nOccipital bone (basilar part)\nDirect branches from cervical plexus (C1-C3)\nBIL flexes head; UNIL flexes and slight I/L rotation\n\n\n\n\n\n\n\nSerratus posterior superior\nSerratus posterior inferior\nSplenius capitis\nSplenius cervicis\n\n\n\n\n\nIliocostalis\n\nIliocostalis Cervicis\nIliocostalis Thoracis\nIliocostalis lumborum\n\nLongissimus\n\nLongissimus Capitis\nLongissimus Cervicis\nLongissimus Thoracis\n\nSpinalis\n\nSpinalis Cervicis\nSpinalis Thoracis\n\n\n\nErector Spinae OIAN\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nIliocostalis cervicis\n3rd-7th ribs\nC4-C6 TP\nSpinal nn.  C8-L1 (Post rami, lateral branches)\nBIL: Extends spine; UNIL: I/L spine lat-flexion\n\n\nIliocostalis thoracis\n7-12th ribs\n1st-6th ribs\nSpinal nn. C8-L1 (Post rami, lateral branches)\nBIL: Extends spine; UNIL: I/L spine lat-flexion\n\n\nIliocostalis lumborum\nSacrum, iliac crest, lumbar vertebrae SP; lower thoracic vertebrae TP\n6-12th ribs, thoracolumbar fascia (posterior layer), upper lumbar vertebrae (TP)\nSpinal nn.  C8-L1 (Post rami, lateral branches)\nBIL: Extends spine; UNIL: I/L spine lat-flexion"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIAN.html#suboccipitals",
-    "href": "Alchemy Archive/Anatomy/OIAN.html#suboccipitals",
-    "title": "OIANs of all the muscles",
-    "section": "",
-    "text": "Rectus capitis posterior major\nRectus Capitis Posterior Minor\nObliquus capitis superior\nObliquus capitis inferior"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_posterior_major.html",
-    "href": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_posterior_major.html",
-    "title": "Rectus Capitis Posterior Major",
-    "section": "",
-    "text": "Figure 1: Schematic view of Suboccipital muscles (posterior view)1\n\n\n\n\n\nFigure 2: Suboccipital muscles (posterior view)1\n\n\n\n\n\nFigure 3: suboccipital muscles (left lateral view)1\n\n\n\n\nC2 (SP)1\n\n\n\nOccipital bone (inferior nuchal line, middle third)1\n\n\n\nSuboccipital N. AKA Posterior ramus of C11\n\n\n\n\nBilateral: Extend head\nUnilateral: I/L head rotation"
-  },
-  {
     "objectID": "Alchemy Archive/Anatomy/Nerves/suboccipital_nerve.html",
     "href": "Alchemy Archive/Anatomy/Nerves/suboccipital_nerve.html",
     "title": "Suboccipital nerve",
@@ -525,277 +287,81 @@
     "text": "2.2 Motor Innervation:\n\nRectus Capitis Posterior Major1\nRectus Capitis Posterior Minor1"
   },
   {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/OIAN.html",
-    "href": "Alchemy Archive/Anatomy/OIANs/OIAN.html",
-    "title": "OIANs of all the muscles",
+    "objectID": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_lateralis.html",
+    "href": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_lateralis.html",
+    "title": "Rectus Capitis Lateralis",
     "section": "",
-    "text": "Rectus capitis posterior major\nRectus Capitis Posterior Minor\nObliquus capitis superior\nObliquus capitis inferior"
+    "text": "Figure 1: Prevertebral muscles anterior view1\n\n\n\nRectus Capitis Lateralis OIAN\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nRectus Capitis Lateralis\nC1 (TP)\nOccipital bone (basilar part, lateral to occipital condyles)\nC1 Anterior Ramus\nBIL: flex AO Joint; UNIL: Lateral Flexion of AO joint\n\n\n\n\n\nC1 (TP)1\n\n\n\nOccipital bone (basilar part, lateral to occipital condyles)1\n\n\n\nC1 Anterior Ramus1\n\n\n\n\nBilateral: flex AO Joint\nUnilateral: Lateral Flexion of AO joint"
   },
   {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/OIAN.html#suboccipitals",
-    "href": "Alchemy Archive/Anatomy/OIANs/OIAN.html#suboccipitals",
-    "title": "OIANs of all the muscles",
+    "objectID": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_lateralis.html#origin",
+    "href": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_lateralis.html#origin",
+    "title": "Rectus Capitis Lateralis",
     "section": "",
-    "text": "Rectus capitis posterior major\nRectus Capitis Posterior Minor\nObliquus capitis superior\nObliquus capitis inferior"
+    "text": "C1 (TP)1"
   },
   {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_posterior_major.html#origin",
-    "href": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_posterior_major.html#origin",
-    "title": "Rectus Capitis Posterior Major",
+    "objectID": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_lateralis.html#insertion",
+    "href": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_lateralis.html#insertion",
+    "title": "Rectus Capitis Lateralis",
     "section": "",
-    "text": "C2 (SP)1"
+    "text": "Occipital bone (basilar part, lateral to occipital condyles)1"
   },
   {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_posterior_major.html#insertion",
-    "href": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_posterior_major.html#insertion",
-    "title": "Rectus Capitis Posterior Major",
+    "objectID": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_lateralis.html#innervation",
+    "href": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_lateralis.html#innervation",
+    "title": "Rectus Capitis Lateralis",
     "section": "",
-    "text": "Occipital bone (inferior nuchal line, middle third)1"
+    "text": "C1 Anterior Ramus1"
   },
   {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_posterior_major.html#innervation",
-    "href": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_posterior_major.html#innervation",
-    "title": "Rectus Capitis Posterior Major",
+    "objectID": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_lateralis.html#action",
+    "href": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_lateralis.html#action",
+    "title": "Rectus Capitis Lateralis",
     "section": "",
-    "text": "Suboccipital N. AKA Posterior ramus of C11"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_posterior_major.html#action",
-    "href": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_posterior_major.html#action",
-    "title": "Rectus Capitis Posterior Major",
-    "section": "",
-    "text": "Bilateral: Extend head\nUnilateral: I/L head rotation"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/OIAN.html#origin",
-    "href": "Alchemy Archive/Anatomy/OIANs/OIAN.html#origin",
-    "title": "Rectus Capitis Posterior Major",
-    "section": "2.1 Origin",
-    "text": "2.1 Origin\nC2 (SP)1"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/OIAN.html#insertion",
-    "href": "Alchemy Archive/Anatomy/OIANs/OIAN.html#insertion",
-    "title": "Rectus Capitis Posterior Major",
-    "section": "2.2 Insertion",
-    "text": "2.2 Insertion\nOccipital bone (inferior nuchal line, middle third)1"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/OIAN.html#innervation",
-    "href": "Alchemy Archive/Anatomy/OIANs/OIAN.html#innervation",
-    "title": "Rectus Capitis Posterior Major",
-    "section": "2.3 Innervation",
-    "text": "2.3 Innervation\nSuboccipital N. AKA Posterior ramus of C11"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/OIAN.html#action",
-    "href": "Alchemy Archive/Anatomy/OIANs/OIAN.html#action",
-    "title": "Rectus Capitis Posterior Major",
-    "section": "2.4 Action",
-    "text": "2.4 Action\n\nBilateral: Extend head\nUnilateral: I/L head rotation"
+    "text": "Bilateral: flex AO Joint\nUnilateral: Lateral Flexion of AO joint"
   },
   {
     "objectID": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_posterior_minor.html",
     "href": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_posterior_minor.html",
-    "title": "Rectus Capitis Posterior Minor muscle",
+    "title": "Rectus Capitis Posterior Minor",
     "section": "",
-    "text": "Figure 1: Schematic view of Suboccipital muscles (posterior view)1\n\n\n\n\n\nFigure 2: Suboccipital muscles (posterior view)1\n\n\n ## Origin C1 (posterior tubercle)1\n\n\nOccipital bone (inferior nuchal line, inner 1/3)1\n\n\n\nSuboccipital N. AKA Posterior ramus of C11\n\n\n\n\nBilateral: Extend head\nUnilateral: I/L head rotation"
+    "text": "Figure 1: Schematic view of Suboccipital muscles (posterior view)1\n\n\n\n\n\nFigure 2: Suboccipital muscles (posterior view)1\n\n\n\n\n\nFigure 3: suboccipital muscles (left lateral view)1\n\n\n\nRectus Capitis Posterior Minor OIAN\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nRectus Capitis Posterior Minor\nC1 (posterior tubercle)\nOccipital bone (inferior nuchal line, inner 1/3)\nSuboccipital N.\nBIL: Extend head; UNIL: I/L head rotation\n\n\n\n\n\nC1 (posterior tubercle)1\n\n\n\nOccipital bone (inferior nuchal line, inner 1/3)1\n\n\n\nSuboccipital N. AKA Posterior ramus of C11\n\n\n\n\nBilateral: Extend head\nUnilateral: I/L head rotation"
   },
   {
     "objectID": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_posterior_minor.html#origin",
     "href": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_posterior_minor.html#origin",
-    "title": "Rectus Capitis Posterior Minor muscle",
+    "title": "Rectus Capitis Posterior Minor",
     "section": "",
     "text": "C1 (posterior tubercle)1"
   },
   {
     "objectID": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_posterior_minor.html#insertion",
     "href": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_posterior_minor.html#insertion",
-    "title": "Rectus Capitis Posterior Minor muscle",
+    "title": "Rectus Capitis Posterior Minor",
     "section": "",
     "text": "Occipital bone (inferior nuchal line, inner 1/3)1"
   },
   {
     "objectID": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_posterior_minor.html#innervation",
     "href": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_posterior_minor.html#innervation",
-    "title": "Rectus Capitis Posterior Minor muscle",
+    "title": "Rectus Capitis Posterior Minor",
     "section": "",
     "text": "Suboccipital N. AKA Posterior ramus of C11"
   },
   {
     "objectID": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_posterior_minor.html#action",
     "href": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_posterior_minor.html#action",
-    "title": "Rectus Capitis Posterior Minor muscle",
+    "title": "Rectus Capitis Posterior Minor",
     "section": "",
     "text": "Bilateral: Extend head\nUnilateral: I/L head rotation"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/anatomy_index.html",
-    "href": "Alchemy Archive/Anatomy/anatomy_index.html",
-    "title": "Anatomy Index",
-    "section": "",
-    "text": "OIANs"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/anatomy_index.html#oians",
-    "href": "Alchemy Archive/Anatomy/anatomy_index.html#oians",
-    "title": "Anatomy Index",
-    "section": "",
-    "text": "OIANs"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/anatomy_index.html#nerves",
-    "href": "Alchemy Archive/Anatomy/anatomy_index.html#nerves",
-    "title": "Anatomy Index",
-    "section": "2 Nerves",
-    "text": "2 Nerves\nSuboccipital Nerve\nSpinal nn."
-  },
-  {
-    "objectID": "Alchemy Archive/archive_index.html#hormones",
-    "href": "Alchemy Archive/archive_index.html#hormones",
-    "title": "Archives of Genetics and Genomics",
-    "section": "2.1 Hormones",
-    "text": "2.1 Hormones"
-  },
-  {
-    "objectID": "Alchemy Archive/archive_index.html#muscle-physiology",
-    "href": "Alchemy Archive/archive_index.html#muscle-physiology",
-    "title": "Archives of Genetics and Genomics",
-    "section": "2.3 Muscle Physiology",
-    "text": "2.3 Muscle Physiology"
-  },
-  {
-    "objectID": "Alchemy Archive/archive_index.html#oians",
-    "href": "Alchemy Archive/archive_index.html#oians",
-    "title": "Archives of Genetics and Genomics",
-    "section": "",
-    "text": "OIANs"
-  },
-  {
-    "objectID": "Alchemy Archive/archive_index.html#nerves",
-    "href": "Alchemy Archive/archive_index.html#nerves",
-    "title": "Archives of Genetics and Genomics",
-    "section": "",
-    "text": "Suboccipital Nerve\nSpinal nn."
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/longus_capitis.html",
-    "href": "Alchemy Archive/Anatomy/OIANs/longus_capitis.html",
-    "title": "Longus capitis",
-    "section": "",
-    "text": "Figure 1: Prevertebral muscles anterior view1\n\n\n\nLongus capitis OIAN\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nLongus Capitis\nC3-C6 (TP, ant tubercles)1\nOccipital bone (basilar part)1\nDirect branches from cervical plexus (C1-C3)1\nBIL flexes head; UNIL flexes and slight I/L rotation1\n\n\n\n\n\nC3-C6 (TP, ant tubercles)1\n\n\n\nOccipital bone (basilar part)1\n\n\n\nDirect branches from cervical plexus (C1-C3)1\n\n\n\n\nBilateral: Flexes head\nUnilateral: Flexes and slight I/L rotation"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/longus_capitis.html#insertion",
-    "href": "Alchemy Archive/Anatomy/OIANs/longus_capitis.html#insertion",
-    "title": "Longus capitis",
-    "section": "",
-    "text": "Occipital bone (basilar part)1"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/longus_capitis.html#innervation",
-    "href": "Alchemy Archive/Anatomy/OIANs/longus_capitis.html#innervation",
-    "title": "Longus capitis",
-    "section": "",
-    "text": "Direct branches from cervical plexus (C1-C3)1"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/longus_capitis.html#action",
-    "href": "Alchemy Archive/Anatomy/OIANs/longus_capitis.html#action",
-    "title": "Longus capitis",
-    "section": "",
-    "text": "Bilateral: Flexes head\nUnilateral: Flexes and slight I/L rotation"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/obliquus_capitis_superior.html",
-    "href": "Alchemy Archive/Anatomy/OIANs/obliquus_capitis_superior.html",
-    "title": "Obliquus capitis Superior muscles",
-    "section": "",
-    "text": "Figure 1: Schematic view of Suboccipital muscles (posterior view)1\n\n\n\n\n\nFigure 2: Suboccipital muscles (posterior view)1\n\n\n ## Origin C1 (TP)1\n\n\nOccipital bone (inferior nuchal line, middle third; above RCPM)1\n\n\n\nSuboccipital N. AKA Posterior ramus of C11\n\n\n\n\nBilateral: Extend head\nUnilateral: I/L SB, C/L rotation"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/obliquus_capitis_superior.html#origin",
-    "href": "Alchemy Archive/Anatomy/OIANs/obliquus_capitis_superior.html#origin",
-    "title": "Obliquus capitis Superior muscles",
-    "section": "",
-    "text": "C1 (TP)1"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/obliquus_capitis_superior.html#insertion",
-    "href": "Alchemy Archive/Anatomy/OIANs/obliquus_capitis_superior.html#insertion",
-    "title": "Obliquus capitis Superior muscles",
-    "section": "",
-    "text": "Occipital bone (inferior nuchal line, middle third; above RCPM)1"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/obliquus_capitis_superior.html#innervation",
-    "href": "Alchemy Archive/Anatomy/OIANs/obliquus_capitis_superior.html#innervation",
-    "title": "Obliquus capitis Superior muscles",
-    "section": "",
-    "text": "Suboccipital N. AKA Posterior ramus of C11"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/obliquus_capitis_superior.html#action",
-    "href": "Alchemy Archive/Anatomy/OIANs/obliquus_capitis_superior.html#action",
-    "title": "Obliquus capitis Superior muscles",
-    "section": "",
-    "text": "Bilateral: Extend head\nUnilateral: I/L SB, C/L rotation"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIAN.html#prevertebral-muscles",
-    "href": "Alchemy Archive/Anatomy/OIAN.html#prevertebral-muscles",
-    "title": "OIANs of all the muscles",
-    "section": "",
-    "text": "Longus capitis\nLongus Colli Cervicis\nRectus Capitis anterior\nRectus Capitis Lateralis\n\n\nPrevertebral muscle group\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nLongus Capitis\nC3-C6 (TP, ant tubercles)\nOccipital bone (basilar part)\nDirect branches from cervical plexus (C1-C3)\nBIL flexes head; UNIL flexes and slight I/L rotation"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/obliquus_capitis_inferior.html",
-    "href": "Alchemy Archive/Anatomy/OIANs/obliquus_capitis_inferior.html",
-    "title": "Obliquus capitis inferior muscle",
-    "section": "",
-    "text": "Figure 1: Schematic view of Suboccipital muscles (posterior view)1\n\n\n\n\n\nFigure 2: Suboccipital muscles (posterior view)1\n\n\n ## Origin C2 (SP)1\n\n\nC1 TP1\n\n\n\nSuboccipital N. AKA Posterior ramus of C11\n\n\n\n\nBilateral: Extend head\nUnilateral: I/L rotation"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/obliquus_capitis_inferior.html#origin",
-    "href": "Alchemy Archive/Anatomy/OIANs/obliquus_capitis_inferior.html#origin",
-    "title": "Obliquus capitis inferior muscle",
-    "section": "",
-    "text": "C2 (SP)1"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/obliquus_capitis_inferior.html#insertion",
-    "href": "Alchemy Archive/Anatomy/OIANs/obliquus_capitis_inferior.html#insertion",
-    "title": "Obliquus capitis inferior muscle",
-    "section": "",
-    "text": "C1 TP1"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/obliquus_capitis_inferior.html#innervation",
-    "href": "Alchemy Archive/Anatomy/OIANs/obliquus_capitis_inferior.html#innervation",
-    "title": "Obliquus capitis inferior muscle",
-    "section": "",
-    "text": "Suboccipital N. AKA Posterior ramus of C11"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/obliquus_capitis_inferior.html#action",
-    "href": "Alchemy Archive/Anatomy/OIANs/obliquus_capitis_inferior.html#action",
-    "title": "Obliquus capitis inferior muscle",
-    "section": "",
-    "text": "Bilateral: Extend head\nUnilateral: I/L rotation"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/longus_capitis.html#origin",
-    "href": "Alchemy Archive/Anatomy/OIANs/longus_capitis.html#origin",
-    "title": "Longus capitis",
-    "section": "",
-    "text": "C3-C6 (TP, ant tubercles)1"
   },
   {
     "objectID": "Alchemy Archive/Anatomy/OIANs/longus_colli_cervicis.html",
     "href": "Alchemy Archive/Anatomy/OIANs/longus_colli_cervicis.html",
     "title": "Longus colli cervicis",
     "section": "",
-    "text": "Figure 1: Prevertebral muscles anterior view1\n\n\n\n\n\n\n\n\n\n\n\n\nLongus Colli Cervicis\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nVertical Part\nC5-T3 (ant side of vertebral body)1\nOccipital bone (basilar part)\nDirect branches from cervical plexus (C2-C6)\nBilaterally flexes AO Joint; Unilaterally flexes and slight I/L rotation\n\n\nSuperior Oblique part\nC3-C5 (TP, Ant tubercle)1\nSuperior oblique part: C1 (TP, ant tubercle)1\n\n\n\n\nInferior Oblique Part\nT1-T3 (ant side of vertebral body)1\nInferior oblique part: C5-C6 (TP, Ant tubercles)1\n\n\n\n\n\n\n\n\nC5-T3 (ant side of vertebral body)1\nC3-C5 (TP, Ant tubercle)1\nT1-T3 (ant side of vertebral body)1\n\n\n\n\nVertical (medial) part: C2-C4 (ant sides of vertebral bodies)1 Superior oblique part: C1 (TP, ant tubercle)1 Inferior oblique part: C5-C6 (TP, Ant tubercles)1\n\n\n\nDirect branches from cervical plexus (C2-C6)1\n\n\n\n\nBilateral: Flex AO Joint\nUnilateral: Lat flex at AO joint"
+    "text": "Figure 1: Prevertebral muscles anterior view1\n\n\n\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nLongus colli cervicis\nVertical part: C5-T3 (ant side of vertebral body); Sup-oblique C3-C5 (TP, Ant tubercle) Inf-Oblique: T1-T3 (ant side of vertebral body)\nVertical part: C2-C4 (ant sides of vertebral bodies); Sup-oblique C1 (TP, ant tubercle) Inf-Oblique: C5-C6 (TP, Ant tubercles)\nDirect branches from cervical plexus (C2-C6)\nBIL: Flex AO Joint; UNIL: Lat flex at AO joint\n\n\n\n\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nLongus colli cervicis (Vertical Part)\nC5-T3 (ant side of vertebral body)1\nOccipital bone (basilar part)\nDirect branches from cervical plexus (C2-C6)\nBilaterally flexes AO Joint; Unilaterally flexes and slight I/L rotation\n\n\nLongus colli cervicis (Superior Oblique part)\nC3-C5 (TP, Ant tubercle)1\nSuperior oblique part: C1 (TP, ant tubercle)1\n\n\n\n\nLongus colli cervicis (Inferior Oblique Part)\nT1-T3 (ant side of vertebral body)1\nInferior oblique part: C5-C6 (TP, Ant tubercles)1\n\n\n\n\n\n\n\n\nC5-T3 (ant side of vertebral body)1\nC3-C5 (TP, Ant tubercle)1\nT1-T3 (ant side of vertebral body)1\n\n\n\n\nVertical (medial) part: C2-C4 (ant sides of vertebral bodies)1 Superior oblique part: C1 (TP, ant tubercle)1 Inferior oblique part: C5-C6 (TP, Ant tubercles)1\n\n\n\nDirect branches from cervical plexus (C2-C6)1\n\n\n\n\nBilateral: Flex AO Joint\nUnilateral: Lat flex at AO joint"
   },
   {
     "objectID": "Alchemy Archive/Anatomy/OIANs/longus_colli_cervicis.html#origin",
@@ -826,81 +392,172 @@
     "text": "Bilateral: Flex AO Joint\nUnilateral: Lat flex at AO joint"
   },
   {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_anterior.html",
-    "href": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_anterior.html",
-    "title": "Rectus Capitis anterior",
+    "objectID": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html",
+    "href": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html",
+    "title": "Iliocostalis",
     "section": "",
-    "text": "Figure 1: Prevertebral muscles anterior view1\n\n\n\nLongus capitis OIAN\n\n\n\n\n\n\n\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nRectus Capitis Anterior\nC1 (lateral mass)1\nOccipital bone (basilar part)1\nC1 Ant ramus1\nBilaterally flexes AOJ; Unilaterally I/L SB\n\n\n\n\n\nC1 (lateral mass)1\n\n\n\nOccipital bone (basilar part)1\n\n\n\nC1 Ant ramus1\n\n\n\n\nBilateral: flex AO Joint\nUnilateral: Lateral Flexion of AO joint"
+    "text": "Figure 1: Schematic view of the intermediate intrinsic muscles of the back (Erector spinae)1\n\n\n\n\n\nFigure 2: Intermediate intrinsic muscles of the back / Erector spinae (Posterior view)1\n\n\n\nIliocostalis OIAN\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nIliocostalis cervicis\n3rd-7th ribs\nC4-C6 TP\nSpinal nn.  C8-L1 (Post rami, lateral branches)\nBIL: Extends spine; UNIL: I/L spine lat-flexion\n\n\nIliocostalis thoracis\n7-12th ribs\n1st-6th ribs\nSpinal nn. C8-L1 (Post rami, lateral branches)\nBIL: Extends spine; UNIL: I/L spine lat-flexion\n\n\nIliocostalis lumborum\nSacrum, iliac crest, lumbar vertebrae SP; lower thoracic vertebrae TP\n6-12th ribs, thoracolumbar fascia (posterior layer), upper lumbar vertebrae (TP)\nSpinal nn.  C8-L1 (Post rami, lateral branches)\nBIL: Extends spine; UNIL: I/L spine lat-flexion"
   },
   {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_anterior.html#origin",
-    "href": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_anterior.html#origin",
-    "title": "Rectus Capitis anterior",
-    "section": "",
-    "text": "C1 (lateral mass)1"
+    "objectID": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#origin",
+    "href": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#origin",
+    "title": "Iliocostalis",
+    "section": "2.1 Origin",
+    "text": "2.1 Origin\n3rd-7th ribs1"
   },
   {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_anterior.html#insertion",
-    "href": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_anterior.html#insertion",
-    "title": "Rectus Capitis anterior",
-    "section": "",
-    "text": "Occipital bone (basilar part)1"
+    "objectID": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#insertion",
+    "href": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#insertion",
+    "title": "Iliocostalis",
+    "section": "2.2 Insertion",
+    "text": "2.2 Insertion\nC4-C6 TP1"
   },
   {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_anterior.html#innervation",
-    "href": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_anterior.html#innervation",
-    "title": "Rectus Capitis anterior",
-    "section": "",
-    "text": "C1 Ant ramus1"
+    "objectID": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#innervation",
+    "href": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#innervation",
+    "title": "Iliocostalis",
+    "section": "2.3 Innervation",
+    "text": "2.3 Innervation\nSpinal nn. C8-L1 (Post rami, lateral branches)1"
   },
   {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_anterior.html#action",
-    "href": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_anterior.html#action",
-    "title": "Rectus Capitis anterior",
-    "section": "",
-    "text": "Bilateral: flex AO Joint\nUnilateral: Lateral Flexion of AO joint"
+    "objectID": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#action",
+    "href": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#action",
+    "title": "Iliocostalis",
+    "section": "2.4 Action",
+    "text": "2.4 Action"
   },
   {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_lateralis.html",
-    "href": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_lateralis.html",
-    "title": "Rectus capitis lateralis",
-    "section": "",
-    "text": "Figure 1: Prevertebral muscles anterior view1\n\n\n\n\n\n\n\n\n\n\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nRectus capitis lateralis\nC1 (TP)1\nOccipital bone (basilar part, lateral to occipital condyles)1\nC1 Anterior Ramus1\nBilaterally flexes AO Joint; Unilaterally lat flexes AO Joint\n\n\n\n\n\nC1 (TP)1\n\n\n\nOccipital bone (basilar part, lateral to occipital condyles)1\n\n\n\nC1 Anterior Ramus1\n\n\n\n\nBilateral: flex AO Joint\nUnilateral: Lateral Flexion of AO joint"
+    "objectID": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#origin-1",
+    "href": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#origin-1",
+    "title": "Iliocostalis",
+    "section": "3.1 Origin",
+    "text": "3.1 Origin\n7-12th ribs1"
   },
   {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_lateralis.html#origin",
-    "href": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_lateralis.html#origin",
-    "title": "Rectus capitis lateralis",
-    "section": "",
-    "text": "C1 (TP)1"
+    "objectID": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#insertion-1",
+    "href": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#insertion-1",
+    "title": "Iliocostalis",
+    "section": "3.2 Insertion",
+    "text": "3.2 Insertion\n1st-6th ribs1"
   },
   {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_lateralis.html#insertion",
-    "href": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_lateralis.html#insertion",
-    "title": "Rectus capitis lateralis",
-    "section": "",
-    "text": "Occipital bone (basilar part, lateral to occipital condyles)1"
+    "objectID": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#innervation-1",
+    "href": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#innervation-1",
+    "title": "Iliocostalis",
+    "section": "3.3 Innervation",
+    "text": "3.3 Innervation\nSpinal nn. C8-L1 (Post rami, lateral branches)1"
   },
   {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_lateralis.html#innervation",
-    "href": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_lateralis.html#innervation",
-    "title": "Rectus capitis lateralis",
-    "section": "",
-    "text": "C1 Anterior Ramus1"
+    "objectID": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#action-1",
+    "href": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#action-1",
+    "title": "Iliocostalis",
+    "section": "3.4 Action",
+    "text": "3.4 Action"
   },
   {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_lateralis.html#action",
-    "href": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_lateralis.html#action",
-    "title": "Rectus capitis lateralis",
+    "objectID": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#origin-2",
+    "href": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#origin-2",
+    "title": "Iliocostalis",
+    "section": "4.1 Origin",
+    "text": "4.1 Origin\nSacrum, iliac crest, lumbar vertebrae SP; lower thoracic vertebrae TP1"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#insertion-2",
+    "href": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#insertion-2",
+    "title": "Iliocostalis",
+    "section": "4.2 Insertion",
+    "text": "4.2 Insertion\n6-12th ribs, thoracolumbar fascia (posterior layer), upper lumbar vertebrae (TP)1"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#innervation-2",
+    "href": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#innervation-2",
+    "title": "Iliocostalis",
+    "section": "4.3 Innervation",
+    "text": "4.3 Innervation\nSpinal nn. C8-L1 (Post rami, lateral branches)1"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#action-2",
+    "href": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#action-2",
+    "title": "Iliocostalis",
+    "section": "4.4 Action",
+    "text": "4.4 Action\n\nBilateral: Extends spine1\nUnilateral: I/L spine lat-flexion1"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIANs/splenius_cervicis.html",
+    "href": "Alchemy Archive/Anatomy/OIANs/splenius_cervicis.html",
+    "title": "Splenius Cervicis",
     "section": "",
-    "text": "Bilateral: flex AO Joint\nUnilateral: Lateral Flexion of AO joint"
+    "text": "Figure 1: Superficial intrinsic back muscles Right side posterior view1\n\n\n\n\n\nFigure 2: Superficial intrinsic back muscles posterior view1\n\n\n\nSplenius Cervicis OIAN\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nSplenius Cervicis\nT3-T6/T7 (SP)\nC1–C3/4 (TP)\nSpinal nn. C1-C6 (Post rami, lateral branches)\nBIL: Extends C/S and head; UNIL: I/L head SB and Rotation\n\n\n\n\n\nT3-T6/T7 (SP)1\n\n\n\nC1–C3/4 (TP)1\n\n\n\nSpinal nn. C1-C6 (Post rami, lateral branches)1\n\n\n\n\nBIL: Extends C/S and head1\nUNIL: I/L head SB and Rotation1"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIANs/splenius_cervicis.html#origin",
+    "href": "Alchemy Archive/Anatomy/OIANs/splenius_cervicis.html#origin",
+    "title": "Splenius Cervicis",
+    "section": "",
+    "text": "T3-T6/T7 (SP)1"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIANs/splenius_cervicis.html#insertion",
+    "href": "Alchemy Archive/Anatomy/OIANs/splenius_cervicis.html#insertion",
+    "title": "Splenius Cervicis",
+    "section": "",
+    "text": "C1–C3/4 (TP)1"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIANs/splenius_cervicis.html#innervation",
+    "href": "Alchemy Archive/Anatomy/OIANs/splenius_cervicis.html#innervation",
+    "title": "Splenius Cervicis",
+    "section": "",
+    "text": "Spinal nn. C1-C6 (Post rami, lateral branches)1"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIANs/splenius_cervicis.html#action",
+    "href": "Alchemy Archive/Anatomy/OIANs/splenius_cervicis.html#action",
+    "title": "Splenius Cervicis",
+    "section": "",
+    "text": "BIL: Extends C/S and head1\nUNIL: I/L head SB and Rotation1"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIANs/obliquus_capitis_inferior.html",
+    "href": "Alchemy Archive/Anatomy/OIANs/obliquus_capitis_inferior.html",
+    "title": "Obliquus capitis inferior muscle",
+    "section": "",
+    "text": "Figure 1: Schematic view of Suboccipital muscles (posterior view)1\n\n\n\n\n\nFigure 2: Suboccipital muscles (posterior view)1\n\n\n\n\n\nFigure 3: suboccipital muscles (left lateral view)1\n\n\n\nObliquus Capitis Inferior OIAN\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nObliquus Capitis Inferior\nC2 (SP)\nC1 TP\nSuboccipital N.\nBIL: Extend head; UNIL: I/L rotation\n\n\n\n\n\nC2 (SP)1\n\n\n\nC1 TP1\n\n\n\nSuboccipital N. AKA Posterior ramus of C11\n\n\n\n\nBilateral: Extend head\nUnilateral: I/L rotation"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIANs/obliquus_capitis_inferior.html#origin",
+    "href": "Alchemy Archive/Anatomy/OIANs/obliquus_capitis_inferior.html#origin",
+    "title": "Obliquus capitis inferior muscle",
+    "section": "",
+    "text": "C2 (SP)1"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIANs/obliquus_capitis_inferior.html#insertion",
+    "href": "Alchemy Archive/Anatomy/OIANs/obliquus_capitis_inferior.html#insertion",
+    "title": "Obliquus capitis inferior muscle",
+    "section": "",
+    "text": "C1 TP1"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIANs/obliquus_capitis_inferior.html#innervation",
+    "href": "Alchemy Archive/Anatomy/OIANs/obliquus_capitis_inferior.html#innervation",
+    "title": "Obliquus capitis inferior muscle",
+    "section": "",
+    "text": "Suboccipital N. AKA Posterior ramus of C11"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIANs/obliquus_capitis_inferior.html#action",
+    "href": "Alchemy Archive/Anatomy/OIANs/obliquus_capitis_inferior.html#action",
+    "title": "Obliquus capitis inferior muscle",
+    "section": "",
+    "text": "Bilateral: Extend head\nUnilateral: I/L rotation"
   },
   {
     "objectID": "Alchemy Archive/Anatomy/OIANs/serratus_posterior_superior.html",
     "href": "Alchemy Archive/Anatomy/OIANs/serratus_posterior_superior.html",
     "title": "Serratus Posterior Superior",
     "section": "",
-    "text": "Figure 1: Superficial intrinsic back muscles Right side posterior view1\n\n\n\n\n\nFigure 2: Superficial intrinsic back muscles posterior view1\n\n\n\nSerratus Posterior Superior OIAN\n\n\n\n\n\n\n\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nSerratus posterior superior\nNuchal lig; C7-T3 SP1\n2-4th ribs (sup border)1\nspinal nn. T2-T5 (Ant ramus)1\nElevates ribs1\n\n\n\n\n\n\nNuchal ligament1\nC7-T3 SP1\n\n\n\n\n2-4th ribs (sup border)1\n\n\n\nspinal nn. T2-T5 (Ant ramus)1\n\n\n\nElevates ribs"
+    "text": "Figure 1: Superficial intrinsic back muscles Right side posterior view1\n\n\n\n\n\nFigure 2: Superficial intrinsic back muscles posterior view1\n\n\n\nSerratus Posterior Superior OIAN\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nSerratus Posterior Superior\nNuchal ligament, C7-T3 SP\n2-4th ribs (sup border)\nSpinal nn.  T2-T5 (Ant ramus)\nElevates ribs\n\n\n\n\n\n\nNuchal ligament1\nC7-T3 SP1\n\n\n\n\n2-4th ribs (sup border)1\n\n\n\nSpinal nn.  T2-T5 (Ant ramus)1\n\n\n\nElevates ribs"
   },
   {
     "objectID": "Alchemy Archive/Anatomy/OIANs/serratus_posterior_superior.html#origin",
@@ -921,7 +578,7 @@
     "href": "Alchemy Archive/Anatomy/OIANs/serratus_posterior_superior.html#innervation",
     "title": "Serratus Posterior Superior",
     "section": "",
-    "text": "spinal nn. T2-T5 (Ant ramus)1"
+    "text": "Spinal nn.  T2-T5 (Ant ramus)1"
   },
   {
     "objectID": "Alchemy Archive/Anatomy/OIANs/serratus_posterior_superior.html#action",
@@ -931,137 +588,25 @@
     "text": "Elevates ribs"
   },
   {
-    "objectID": "Alchemy Archive/Anatomy/OIAN.html#superficial-intrinsic-back-muscles",
-    "href": "Alchemy Archive/Anatomy/OIAN.html#superficial-intrinsic-back-muscles",
-    "title": "OIANs of all the muscles",
+    "objectID": "Alchemy Archive/Anatomy/anatomy_index.html",
+    "href": "Alchemy Archive/Anatomy/anatomy_index.html",
+    "title": "Anatomy Index",
     "section": "",
-    "text": "Serratus posterior superior\nSerratus posterior inferior\nSplenius capitis\nSplenius cervicis"
+    "text": "OIANs"
   },
   {
-    "objectID": "Alchemy Archive/Anatomy/Nerves/spinal_nerves.html",
-    "href": "Alchemy Archive/Anatomy/Nerves/spinal_nerves.html",
-    "title": "Spinal Nerves",
+    "objectID": "Alchemy Archive/Anatomy/anatomy_index.html#oians",
+    "href": "Alchemy Archive/Anatomy/anatomy_index.html#oians",
+    "title": "Anatomy Index",
     "section": "",
-    "text": "Serratus Posterior superior (T2-T5 ant rami)1\nSerratus posterior inferior (T9-T12 ant rami)1\n\n\n\n\n\nSplenius Capitis (C1-C6)1\nSplenius cervicis (C1-C6)1\nIliocostalis (C8-L1)\n\nIliocostalis Cervicis\nIliocostalis Thoracis\nIliocostalis lumborum\n\nLongissimus (C1-L5)\n\nLongissimus Capitis\nLongissimus Cervicis\nLongissimus Thoracis\n\nSpinalis\n\nSpinalis Cervicis\nSpinalis Thoracis"
+    "text": "OIANs"
   },
   {
-    "objectID": "Alchemy Archive/Anatomy/Nerves/spinal_nerves.html#motor-innervation",
-    "href": "Alchemy Archive/Anatomy/Nerves/spinal_nerves.html#motor-innervation",
-    "title": "Spinal Nerves",
-    "section": "",
-    "text": "Serratus Posterior superior (T2-T5 ant rami)1\nSerratus posterior inferior (T9-T12 ant rami)1\n\n\n\n\n\nSplenius Capitis (C1-C6)1\nSplenius cervicis (C1-C6)1\nIliocostalis (C8-L1)\n\nIliocostalis Cervicis\nIliocostalis Thoracis\nIliocostalis lumborum\n\nLongissimus (C1-L5)\n\nLongissimus Capitis\nLongissimus Cervicis\nLongissimus Thoracis\n\nSpinalis\n\nSpinalis Cervicis\nSpinalis Thoracis"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/serratus_posterior_inferior.html",
-    "href": "Alchemy Archive/Anatomy/OIANs/serratus_posterior_inferior.html",
-    "title": "Serratus Posterior Inferior",
-    "section": "",
-    "text": "Figure 1: Superficial intrinsic back muscles Right side posterior view1\n\n\n\n\n\nFigure 2: Superficial intrinsic back muscles posterior view1\n\n\n\nSerratus Posterior Inferior OIAN\n\n\n\n\n\n\n\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nSerratus Posterior Inferior\nC1 (lateral mass)1\nOccipital bone (basilar part)1\nC1 Ant ramus1\nBilaterally flexes AOJ; Unilaterally I/L SB\n\n\n\n\n\nT11-L2 (SP)1\n\n\n\n8-12th ribs (inferior borders near angles)1\n\n\n\nSpinal nn. T9-T12 (Anterior rami)1\n\n\n\nDepresses ribs"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/serratus_posterior_inferior.html#origin",
-    "href": "Alchemy Archive/Anatomy/OIANs/serratus_posterior_inferior.html#origin",
-    "title": "Serratus Posterior Inferior",
-    "section": "",
-    "text": "T11-L2 (SP)1"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/serratus_posterior_inferior.html#insertion",
-    "href": "Alchemy Archive/Anatomy/OIANs/serratus_posterior_inferior.html#insertion",
-    "title": "Serratus Posterior Inferior",
-    "section": "",
-    "text": "8-12th ribs (inferior borders near angles)1"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/serratus_posterior_inferior.html#innervation",
-    "href": "Alchemy Archive/Anatomy/OIANs/serratus_posterior_inferior.html#innervation",
-    "title": "Serratus Posterior Inferior",
-    "section": "",
-    "text": "Spinal nn. T9-T12 (Anterior rami)1"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/serratus_posterior_inferior.html#action",
-    "href": "Alchemy Archive/Anatomy/OIANs/serratus_posterior_inferior.html#action",
-    "title": "Serratus Posterior Inferior",
-    "section": "",
-    "text": "Depresses ribs"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/splenius_cervicis.html",
-    "href": "Alchemy Archive/Anatomy/OIANs/splenius_cervicis.html",
-    "title": "Splenius Cervicis",
-    "section": "",
-    "text": "Figure 1: Superficial intrinsic back muscles Right side posterior view1\n\n\n\n\n\nFigure 2: Superficial intrinsic back muscles posterior view1\n\n\n\nSplenius Cervicis OIAN\n\n\n\n\n\n\n\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nSplenisu Cervicis\nNuchal lig; C7-T3 SP1\n2-4th ribs (sup border)1\nspinal nn. T2-T5 (Ant ramus)1\nElevates ribs1\n\n\n\n\n\nT3-T6 or T7 (SP)1\n\n\n\nC1-C3/C4 TP1\n\n\n\nspinal nn. C1-C6 (Post rami, lateral branches)1\n\n\n\n\nBilateral: Extends C/S and head1\nUnilateral: I/L head SB and Rotation1"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/splenius_cervicis.html#origin",
-    "href": "Alchemy Archive/Anatomy/OIANs/splenius_cervicis.html#origin",
-    "title": "Splenius Cervicis",
-    "section": "",
-    "text": "T3-T6 or T7 (SP)1"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/splenius_cervicis.html#insertion",
-    "href": "Alchemy Archive/Anatomy/OIANs/splenius_cervicis.html#insertion",
-    "title": "Splenius Cervicis",
-    "section": "",
-    "text": "C1-C3/C4 TP1"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/splenius_cervicis.html#innervation",
-    "href": "Alchemy Archive/Anatomy/OIANs/splenius_cervicis.html#innervation",
-    "title": "Splenius Cervicis",
-    "section": "",
-    "text": "spinal nn. C1-C6 (Post rami, lateral branches)1"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/splenius_cervicis.html#action",
-    "href": "Alchemy Archive/Anatomy/OIANs/splenius_cervicis.html#action",
-    "title": "Splenius Cervicis",
-    "section": "",
-    "text": "Bilateral: Extends C/S and head1\nUnilateral: I/L head SB and Rotation1"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIAN.html#intermediate-intrinsic-back-muscles-erector-spinae",
-    "href": "Alchemy Archive/Anatomy/OIAN.html#intermediate-intrinsic-back-muscles-erector-spinae",
-    "title": "OIANs of all the muscles",
-    "section": "",
-    "text": "Iliocostalis\n\nIliocostalis Cervicis\nIliocostalis Thoracis\nIliocostalis lumborum\n\nLongissimus\n\nLongissimus Capitis\nLongissimus Cervicis\nLongissimus Thoracis\n\nSpinalis\n\nSpinalis Cervicis\nSpinalis Thoracis\n\n\n\nErector Spinae OIAN\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nIliocostalis cervicis\n3rd-7th ribs\nC4-C6 TP\nSpinal nn.  C8-L1 (Post rami, lateral branches)\nBIL: Extends spine; UNIL: I/L spine lat-flexion\n\n\nIliocostalis thoracis\n7-12th ribs\n1st-6th ribs\nSpinal nn. C8-L1 (Post rami, lateral branches)\nBIL: Extends spine; UNIL: I/L spine lat-flexion\n\n\nIliocostalis lumborum\nSacrum, iliac crest, lumbar vertebrae SP; lower thoracic vertebrae TP\n6-12th ribs, thoracolumbar fascia (posterior layer), upper lumbar vertebrae (TP)\nSpinal nn.  C8-L1 (Post rami, lateral branches)\nBIL: Extends spine; UNIL: I/L spine lat-flexion"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/splenius_capitis.html",
-    "href": "Alchemy Archive/Anatomy/OIANs/splenius_capitis.html",
-    "title": "Splenius Capitis",
-    "section": "",
-    "text": "Figure 1: Superficial intrinsic back muscles Right side posterior view1\n\n\n\n\n\nFigure 2: Superficial intrinsic back muscles posterior view1\n\n\n\nSplenius Capitis OIAN\n\n\n\n\n\n\n\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nSplenisu Capitis\nNuchal lig; C7-T3 SP1\n2-4th ribs (sup border)1\nspinal nn. T2-T5 (Ant ramus)1\nElevates ribs1\n\n\n\n\n\n\nNuchal ligament1\nC7-T3 or T4 SP1\n\n\n\n\n\nLateral 1/3 nuchal line (occipital bone)1\nMastoid process (temporal bone)1\n\n\n\n\nspinal nn. C1-C6 (Post rami, lateral branches)1\n\n\n\n\nBilateral: Extends C/S and head1\nUnilateral: I/L head SB and Rotation1"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/splenius_capitis.html#origin",
-    "href": "Alchemy Archive/Anatomy/OIANs/splenius_capitis.html#origin",
-    "title": "Splenius Capitis",
-    "section": "",
-    "text": "Nuchal ligament1\nC7-T3 or T4 SP1"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/splenius_capitis.html#insertion",
-    "href": "Alchemy Archive/Anatomy/OIANs/splenius_capitis.html#insertion",
-    "title": "Splenius Capitis",
-    "section": "",
-    "text": "Lateral 1/3 nuchal line (occipital bone)1\nMastoid process (temporal bone)1"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/splenius_capitis.html#innervation",
-    "href": "Alchemy Archive/Anatomy/OIANs/splenius_capitis.html#innervation",
-    "title": "Splenius Capitis",
-    "section": "",
-    "text": "spinal nn. C1-C6 (Post rami, lateral branches)1"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/splenius_capitis.html#action",
-    "href": "Alchemy Archive/Anatomy/OIANs/splenius_capitis.html#action",
-    "title": "Splenius Capitis",
-    "section": "",
-    "text": "Bilateral: Extends C/S and head1\nUnilateral: I/L head SB and Rotation1"
+    "objectID": "Alchemy Archive/Anatomy/anatomy_index.html#nerves",
+    "href": "Alchemy Archive/Anatomy/anatomy_index.html#nerves",
+    "title": "Anatomy Index",
+    "section": "2 Nerves",
+    "text": "2 Nerves\nSuboccipital Nerve\nSpinal nn."
   },
   {
     "objectID": "Alchemy Archive/Pain_science/interventions/graded_motor_imagery.html",
@@ -1106,104 +651,6 @@
     "text": "4.4 Results\n\n4.4.1 CRPS vs unaffected pts at baseline:\n\nCRPS: motor performance, short intracortical inhibition and facilitation (short intracortical inhibition smaller and intracortical facilitation higher for the affected side)\nFmri activation magnitude in S1 ( ) was inc for mvmt of affected hand\nNo diff between sides for somatosensory measures\nWorse performance in CRPS for graded orientation task and two point resolution\nFor TMS: short intracortical inhibition was lower in CRPS pts than in controls\nS1 (primary somatosensory cortex) fmri activation inc in pts when compared to HC (hand control) for mvmt of affected side\nIntracortical facilitation was not different between CRPS at baseline and HC for affected hand side.\n\nTreatment time between groups - Intervention order showed no diff - ANOVA testing showed trend for pain relief after intervention - After GMI, pain in VAS went on average from a 6.3 to a 5.0 - CSS was reduced from 12 to 11 over the GMI intervention - GMI showed dec self rated functional impairment of upper limb - Summary: pain, roeder, TPR (two point resolution), and S1 activation reduced, while SICI (inhibition) increased.\nBaseline other things: - Longer CRPS present, worse the motor performance of affected hand - Inc mvmt pain of hand was associated w dec short intracortical inhibition and Inc s1 activation\nAfter GMI - Dec in S1 activation w somatosensory stimulation (GOT gain) - Roeder , TPR , inhibition and S1 motor task all were significantly changed w GMI - FMRI confirmed changes - Primary outcome: parameter mvmt pain decreased w GMI (small effect) - Also found dec in clinical scores (CSS) , inc use of affected hand side (DASH), improvement of motor function (Roeder) and spatial tactile performance (TPR) - Intracortical inhibition incd over txt whereas fmri activation in S1 decreased (good!) - Hand representation size in affected hemisphere was modified, accompanied by mvmt pain relief - No relief of mvmt pain at follow up 6 months later"
   },
   {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html",
-    "href": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html",
-    "title": "Iliocostalis",
-    "section": "",
-    "text": "Figure 1: Schematic view of the intermediate intrinsic muscles of the back (Erector spinae)1\n\n\n\n\n\nFigure 2: Intermediate intrinsic muscles of the back / Erector spinae (Posterior view)1\n\n\n\nIliocostalis OIAN\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nIliocostalis cervicis\n3rd-7th ribs\nC4-C6 TP\nSpinal nn.  C8-L1 (Post rami, lateral branches)\nBIL: Extends spine; UNIL: I/L spine lat-flexion\n\n\nIliocostalis thoracis\n7-12th ribs\n1st-6th ribs\nSpinal nn. C8-L1 (Post rami, lateral branches)\nBIL: Extends spine; UNIL: I/L spine lat-flexion\n\n\nIliocostalis lumborum\nSacrum, iliac crest, lumbar vertebrae SP; lower thoracic vertebrae TP\n6-12th ribs, thoracolumbar fascia (posterior layer), upper lumbar vertebrae (TP)\nSpinal nn.  C8-L1 (Post rami, lateral branches)\nBIL: Extends spine; UNIL: I/L spine lat-flexion"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#origin",
-    "href": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#origin",
-    "title": "Iliocostalis",
-    "section": "2.1 Origin",
-    "text": "2.1 Origin\n3rd-7th ribs1"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#insertion",
-    "href": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#insertion",
-    "title": "Iliocostalis",
-    "section": "2.2 Insertion",
-    "text": "2.2 Insertion\nC4-C6 TP1"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#innervation",
-    "href": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#innervation",
-    "title": "Iliocostalis",
-    "section": "2.3 Innervation",
-    "text": "2.3 Innervation\nSpinal nn. C8-L1 (Post rami, lateral branches)1"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#action",
-    "href": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#action",
-    "title": "Iliocostalis",
-    "section": "2.4 Action",
-    "text": "2.4 Action"
-  },
-  {
-    "objectID": "Alchemy Archive/Pain_science/pain_index.html#interventions",
-    "href": "Alchemy Archive/Pain_science/pain_index.html#interventions",
-    "title": "Index of pain",
-    "section": "2 Interventions",
-    "text": "2 Interventions\nGraded Motor Imagery"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#origin-1",
-    "href": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#origin-1",
-    "title": "Iliocostalis",
-    "section": "3.1 Origin",
-    "text": "3.1 Origin\n7-12th ribs1"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#action-1",
-    "href": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#action-1",
-    "title": "Iliocostalis",
-    "section": "3.4 Action",
-    "text": "3.4 Action"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#origin-2",
-    "href": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#origin-2",
-    "title": "Iliocostalis",
-    "section": "4.1 Origin",
-    "text": "4.1 Origin\nSacrum, iliac crest, lumbar vertebrae SP; lower thoracic vertebrae TP1"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#action-2",
-    "href": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#action-2",
-    "title": "Iliocostalis",
-    "section": "4.4 Action",
-    "text": "4.4 Action\n\nBilateral: Extends spine1\nUnilateral: I/L spine lat-flexion1"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#insertion-1",
-    "href": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#insertion-1",
-    "title": "Iliocostalis",
-    "section": "3.2 Insertion",
-    "text": "3.2 Insertion\n1st-6th ribs1"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#innervation-1",
-    "href": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#innervation-1",
-    "title": "Iliocostalis",
-    "section": "3.3 Innervation",
-    "text": "3.3 Innervation\nSpinal nn. C8-L1 (Post rami, lateral branches)1"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#insertion-2",
-    "href": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#insertion-2",
-    "title": "Iliocostalis",
-    "section": "4.2 Insertion",
-    "text": "4.2 Insertion\n6-12th ribs, thoracolumbar fascia (posterior layer), upper lumbar vertebrae (TP)1"
-  },
-  {
-    "objectID": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#innervation-2",
-    "href": "Alchemy Archive/Anatomy/OIANs/iliocostalis.html#innervation-2",
-    "title": "Iliocostalis",
-    "section": "4.3 Innervation",
-    "text": "4.3 Innervation\nSpinal nn. C8-L1 (Post rami, lateral branches)1"
-  },
-  {
     "objectID": "guide.html",
     "href": "guide.html",
     "title": "Guide to the Archive",
@@ -1216,5 +663,369 @@
     "title": "Guide to the Archive",
     "section": "",
     "text": "Many of these notes were co-authored by Chloë Kerstein and John Connerley. Learn more about the website’s authors"
+  },
+  {
+    "objectID": "Alchemy Archive/Pain_science/pain_index.html#interventions",
+    "href": "Alchemy Archive/Pain_science/pain_index.html#interventions",
+    "title": "Index of pain",
+    "section": "2 Interventions",
+    "text": "2 Interventions\nGraded Motor Imagery"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIAN.html",
+    "href": "Alchemy Archive/Anatomy/OIAN.html",
+    "title": "OIANs of all the muscles",
+    "section": "",
+    "text": "Rectus capitis posterior major\nRectus Capitis Posterior Minor\nObliquus capitis superior\nObliquus capitis inferior\n\n\nSuboccipital muscle group\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nRectus Capitis Posterior Major\nC2 (SP)\nOccipital bone (inferior nuchal line, middle third)\nSuboccipital N.\nBIL: Extend head; UNIL: I/L head rotation\n\n\nRectus Capitis Posterior Minor\nC1 (posterior tubercle)\nOccipital bone (inferior nuchal line, inner 1/3)\nSuboccipital N.\nBIL: Extend head; UNIL: I/L head rotation\n\n\nObliquus Capitis Superior\nC1 (TP)\nOccipital bone (inferior nuchal line, middle third\nSuboccipital N.\nbil: Extend head; UNIL: I/L SB, C/L rotation\n\n\nObliquus Capitis Inferior\nC2 (SP)\nC1 TP\nSuboccipital N.\nBIL: Extend head; UNIL: I/L rotation\n\n\n\n\n\n\n\nLongus capitis\nLongus Colli Cervicis\nRectus Capitis anterior\nRectus Capitis Lateralis\n\n\nPrevertebral muscle group\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nLongus Capitis\nC3-C6 (TP, ant tubercles)\nOccipital bone (basilar part)\nDirect branches from cervical plexus (C1-C3)\nBIL flexes head; UNIL flexes and slight I/L rotation\n\n\nLongus colli cervicis\nVertical part: C5-T3 (ant side of vertebral body); Sup-oblique C3-C5 (TP, Ant tubercle) Inf-Oblique: T1-T3 (ant side of vertebral body)\nVertical part: C2-C4 (ant sides of vertebral bodies); Sup-oblique C1 (TP, ant tubercle) Inf-Oblique: C5-C6 (TP, Ant tubercles)\nDirect branches from cervical plexus (C2-C6)\nBIL: Flex AO Joint; UNIL: Lat flex at AO joint\n\n\nRectus Capitis Anterior\nC1 (lateral mass)\nOccipital bone (basilar part)\nC1 Ant ramus\nBIL: flex AO Joint; UNIL: Lateral Flexion of AO joint\n\n\nRectus Capitis Lateralis\nC1 (TP)\nOccipital bone (basilar part, lateral to occipital condyles)\nC1 Anterior Ramus\nBIL: flex AO Joint; UNIL: Lateral Flexion of AO joint\n\n\n\n\n\n\n\nSerratus posterior superior\nSerratus posterior inferior\nSplenius capitis\nSplenius cervicis\n\n\nSuperficial intrinsic back Muscles OIANs\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nSerratus Posterior Superior\nNuchal ligament, C7-T3 SP\n2-4th ribs (sup border)\nSpinal nn.  T2-T5 (Ant ramus)\nElevates ribs\n\n\nSerratus Posterior Inferior\nT11-L2 (SP)\n8-12th ribs (inferior borders near angles)\nSpinal nn. T9-T12 (Anterior rami)\nDepresses ribs\n\n\nSplenius Capitis\nNuchal ligament, - C7-T3/T4 SP\nLateral 1/3 nuchal line (occipital bone), Mastoid process (temporal bone)\nspinal nn. C1-C6 (Post rami, lateral branches)\nBIL: Extends C/S and head; UNIL: I/L head SB and Rotation\n\n\nSplenius Cervicis\nT3-T6/T7 (SP)\nC1–C3/4 (TP)\nSpinal nn. C1-C6 (Post rami, lateral branches)\nBIL: Extends C/S and head; UNIL: I/L head SB and Rotation\n\n\n\n\n\n\n\nIliocostalis\n\nIliocostalis Cervicis\nIliocostalis Thoracis\nIliocostalis lumborum\n\nLongissimus\n\nLongissimus Capitis\nLongissimus Cervicis\nLongissimus Thoracis\n\nSpinalis\n\nSpinalis Cervicis\nSpinalis Thoracis\n\n\n\nErector Spinae OIAN\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nIliocostalis cervicis\n3rd-7th ribs\nC4-C6 TP\nSpinal nn.  C8-L1 (Post rami, lateral branches)\nBIL: Extends spine; UNIL: I/L spine lat-flexion\n\n\nIliocostalis thoracis\n7-12th ribs\n1st-6th ribs\nSpinal nn. C8-L1 (Post rami, lateral branches)\nBIL: Extends spine; UNIL: I/L spine lat-flexion\n\n\nIliocostalis lumborum\nSacrum, iliac crest, lumbar vertebrae SP; lower thoracic vertebrae TP\n6-12th ribs, thoracolumbar fascia (posterior layer), upper lumbar vertebrae (TP)\nSpinal nn.  C8-L1 (Post rami, lateral branches)\nBIL: Extends spine; UNIL: I/L spine lat-flexion"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIAN.html#suboccipitals",
+    "href": "Alchemy Archive/Anatomy/OIAN.html#suboccipitals",
+    "title": "OIANs of all the muscles",
+    "section": "",
+    "text": "Rectus capitis posterior major\nRectus Capitis Posterior Minor\nObliquus capitis superior\nObliquus capitis inferior\n\n\nSuboccipital muscle group\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nRectus Capitis Posterior Major\nC2 (SP)\nOccipital bone (inferior nuchal line, middle third)\nSuboccipital N.\nBIL: Extend head; UNIL: I/L head rotation\n\n\nRectus Capitis Posterior Minor\nC1 (posterior tubercle)\nOccipital bone (inferior nuchal line, inner 1/3)\nSuboccipital N.\nBIL: Extend head; UNIL: I/L head rotation\n\n\nObliquus Capitis Superior\nC1 (TP)\nOccipital bone (inferior nuchal line, middle third\nSuboccipital N.\nbil: Extend head; UNIL: I/L SB, C/L rotation\n\n\nObliquus Capitis Inferior\nC2 (SP)\nC1 TP\nSuboccipital N.\nBIL: Extend head; UNIL: I/L rotation"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIAN.html#prevertebral-muscles",
+    "href": "Alchemy Archive/Anatomy/OIAN.html#prevertebral-muscles",
+    "title": "OIANs of all the muscles",
+    "section": "",
+    "text": "Longus capitis\nLongus Colli Cervicis\nRectus Capitis anterior\nRectus Capitis Lateralis\n\n\nPrevertebral muscle group\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nLongus Capitis\nC3-C6 (TP, ant tubercles)\nOccipital bone (basilar part)\nDirect branches from cervical plexus (C1-C3)\nBIL flexes head; UNIL flexes and slight I/L rotation\n\n\nLongus colli cervicis\nVertical part: C5-T3 (ant side of vertebral body); Sup-oblique C3-C5 (TP, Ant tubercle) Inf-Oblique: T1-T3 (ant side of vertebral body)\nVertical part: C2-C4 (ant sides of vertebral bodies); Sup-oblique C1 (TP, ant tubercle) Inf-Oblique: C5-C6 (TP, Ant tubercles)\nDirect branches from cervical plexus (C2-C6)\nBIL: Flex AO Joint; UNIL: Lat flex at AO joint\n\n\nRectus Capitis Anterior\nC1 (lateral mass)\nOccipital bone (basilar part)\nC1 Ant ramus\nBIL: flex AO Joint; UNIL: Lateral Flexion of AO joint\n\n\nRectus Capitis Lateralis\nC1 (TP)\nOccipital bone (basilar part, lateral to occipital condyles)\nC1 Anterior Ramus\nBIL: flex AO Joint; UNIL: Lateral Flexion of AO joint"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIAN.html#superficial-intrinsic-back-muscles",
+    "href": "Alchemy Archive/Anatomy/OIAN.html#superficial-intrinsic-back-muscles",
+    "title": "OIANs of all the muscles",
+    "section": "",
+    "text": "Serratus posterior superior\nSerratus posterior inferior\nSplenius capitis\nSplenius cervicis\n\n\nSuperficial intrinsic back Muscles OIANs\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nSerratus Posterior Superior\nNuchal ligament, C7-T3 SP\n2-4th ribs (sup border)\nSpinal nn.  T2-T5 (Ant ramus)\nElevates ribs\n\n\nSerratus Posterior Inferior\nT11-L2 (SP)\n8-12th ribs (inferior borders near angles)\nSpinal nn. T9-T12 (Anterior rami)\nDepresses ribs\n\n\nSplenius Capitis\nNuchal ligament, - C7-T3/T4 SP\nLateral 1/3 nuchal line (occipital bone), Mastoid process (temporal bone)\nspinal nn. C1-C6 (Post rami, lateral branches)\nBIL: Extends C/S and head; UNIL: I/L head SB and Rotation\n\n\nSplenius Cervicis\nT3-T6/T7 (SP)\nC1–C3/4 (TP)\nSpinal nn. C1-C6 (Post rami, lateral branches)\nBIL: Extends C/S and head; UNIL: I/L head SB and Rotation"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIAN.html#intermediate-intrinsic-back-muscles-erector-spinae",
+    "href": "Alchemy Archive/Anatomy/OIAN.html#intermediate-intrinsic-back-muscles-erector-spinae",
+    "title": "OIANs of all the muscles",
+    "section": "",
+    "text": "Iliocostalis\n\nIliocostalis Cervicis\nIliocostalis Thoracis\nIliocostalis lumborum\n\nLongissimus\n\nLongissimus Capitis\nLongissimus Cervicis\nLongissimus Thoracis\n\nSpinalis\n\nSpinalis Cervicis\nSpinalis Thoracis\n\n\n\nErector Spinae OIAN\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nIliocostalis cervicis\n3rd-7th ribs\nC4-C6 TP\nSpinal nn.  C8-L1 (Post rami, lateral branches)\nBIL: Extends spine; UNIL: I/L spine lat-flexion\n\n\nIliocostalis thoracis\n7-12th ribs\n1st-6th ribs\nSpinal nn. C8-L1 (Post rami, lateral branches)\nBIL: Extends spine; UNIL: I/L spine lat-flexion\n\n\nIliocostalis lumborum\nSacrum, iliac crest, lumbar vertebrae SP; lower thoracic vertebrae TP\n6-12th ribs, thoracolumbar fascia (posterior layer), upper lumbar vertebrae (TP)\nSpinal nn.  C8-L1 (Post rami, lateral branches)\nBIL: Extends spine; UNIL: I/L spine lat-flexion"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/Ligaments/nuchal_ligament.html",
+    "href": "Alchemy Archive/Anatomy/Ligaments/nuchal_ligament.html",
+    "title": "Nuchal Ligament",
+    "section": "",
+    "text": "1 Muscular Origins\n\nSerratus Posterior Superior"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIANs/longus_capitis.html",
+    "href": "Alchemy Archive/Anatomy/OIANs/longus_capitis.html",
+    "title": "Longus capitis",
+    "section": "",
+    "text": "Figure 1: Prevertebral muscles anterior view1\n\n\n\nLongus capitis OIAN\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nLongus Capitis\nC3-C6 (TP, ant tubercles)\nOccipital bone (basilar part)\nDirect branches from cervical plexus (C1-C3)\nBIL flexes head; UNIL flexes and slight I/L rotation\n\n\n\n\n\nC3-C6 (TP, ant tubercles)1\n\n\n\nOccipital bone (basilar part)1\n\n\n\nDirect branches from cervical plexus (C1-C3)1\n\n\n\n\nBilateral: Flexes head\nUnilateral: Flexes and slight I/L rotation"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIANs/longus_capitis.html#origin",
+    "href": "Alchemy Archive/Anatomy/OIANs/longus_capitis.html#origin",
+    "title": "Longus capitis",
+    "section": "",
+    "text": "C3-C6 (TP, ant tubercles)1"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIANs/longus_capitis.html#insertion",
+    "href": "Alchemy Archive/Anatomy/OIANs/longus_capitis.html#insertion",
+    "title": "Longus capitis",
+    "section": "",
+    "text": "Occipital bone (basilar part)1"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIANs/longus_capitis.html#innervation",
+    "href": "Alchemy Archive/Anatomy/OIANs/longus_capitis.html#innervation",
+    "title": "Longus capitis",
+    "section": "",
+    "text": "Direct branches from cervical plexus (C1-C3)1"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIANs/longus_capitis.html#action",
+    "href": "Alchemy Archive/Anatomy/OIANs/longus_capitis.html#action",
+    "title": "Longus capitis",
+    "section": "",
+    "text": "Bilateral: Flexes head\nUnilateral: Flexes and slight I/L rotation"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_anterior.html",
+    "href": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_anterior.html",
+    "title": "Rectus Capitis anterior",
+    "section": "",
+    "text": "Figure 1: Prevertebral muscles anterior view1\n\n\n\nRectus Capitis Anterior OIAN\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nRectus Capitis Anterior\nC1 (lateral mass)\nOccipital bone (basilar part)\nC1 Ant ramus\nBIL: flex AO Joint; UNIL: Lateral Flexion of AO joint\n\n\n\n\n\nC1 (lateral mass)1\n\n\n\nOccipital bone (basilar part)1\n\n\n\nC1 Ant ramus1\n\n\n\n\nBilateral: flex AO Joint\nUnilateral: Lateral Flexion of AO joint"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_anterior.html#origin",
+    "href": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_anterior.html#origin",
+    "title": "Rectus Capitis anterior",
+    "section": "",
+    "text": "C1 (lateral mass)1"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_anterior.html#insertion",
+    "href": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_anterior.html#insertion",
+    "title": "Rectus Capitis anterior",
+    "section": "",
+    "text": "Occipital bone (basilar part)1"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_anterior.html#innervation",
+    "href": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_anterior.html#innervation",
+    "title": "Rectus Capitis anterior",
+    "section": "",
+    "text": "C1 Ant ramus1"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_anterior.html#action",
+    "href": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_anterior.html#action",
+    "title": "Rectus Capitis anterior",
+    "section": "",
+    "text": "Bilateral: flex AO Joint\nUnilateral: Lateral Flexion of AO joint"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_posterior_major.html",
+    "href": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_posterior_major.html",
+    "title": "Rectus Capitis Posterior Major",
+    "section": "",
+    "text": "Figure 1: Schematic view of Suboccipital muscles (posterior view)1\n\n\n\n\n\nFigure 2: Suboccipital muscles (posterior view)1\n\n\n\n\n\nFigure 3: suboccipital muscles (left lateral view)1\n\n\n\nRectus Capitis Posterior Major OIAN\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nRectus Capitis Posterior Major\nC2 (SP)\nOccipital bone (inferior nuchal line, middle third)\nSuboccipital N.\nBIL: Extend head; UNIL: I/L head rotation\n\n\n\n\n\nC2 (SP)1\n\n\n\nOccipital bone (inferior nuchal line, middle third)1\n\n\n\nSuboccipital N. AKA Posterior ramus of C11\n\n\n\n\nBilateral: Extend head\nUnilateral: I/L head rotation"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_posterior_major.html#origin",
+    "href": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_posterior_major.html#origin",
+    "title": "Rectus Capitis Posterior Major",
+    "section": "",
+    "text": "C2 (SP)1"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_posterior_major.html#insertion",
+    "href": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_posterior_major.html#insertion",
+    "title": "Rectus Capitis Posterior Major",
+    "section": "",
+    "text": "Occipital bone (inferior nuchal line, middle third)1"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_posterior_major.html#innervation",
+    "href": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_posterior_major.html#innervation",
+    "title": "Rectus Capitis Posterior Major",
+    "section": "",
+    "text": "Suboccipital N. AKA Posterior ramus of C11"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_posterior_major.html#action",
+    "href": "Alchemy Archive/Anatomy/OIANs/rectus_capitis_posterior_major.html#action",
+    "title": "Rectus Capitis Posterior Major",
+    "section": "",
+    "text": "Bilateral: Extend head\nUnilateral: I/L head rotation"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIANs/splenius_capitis.html",
+    "href": "Alchemy Archive/Anatomy/OIANs/splenius_capitis.html",
+    "title": "Splenius Capitis",
+    "section": "",
+    "text": "Figure 1: Superficial intrinsic back muscles Right side posterior view1\n\n\n\n\n\nFigure 2: Superficial intrinsic back muscles posterior view1\n\n\n\nSplenius Capitis OIAN\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nSplenius Capitis\nNuchal ligament, - C7-T3/T4 SP\nLateral 1/3 nuchal line (occipital bone), Mastoid process (temporal bone)\nspinal nn. C1-C6 (Post rami, lateral branches)\nBIL: Extends C/S and head; UNIL: I/L head SB and Rotation\n\n\n\n\n\n\nNuchal ligament1\nC7-T3 or T4 SP1\n\n\n\n\n\nLateral 1/3 nuchal line (occipital bone)1\nMastoid process (temporal bone)1\n\n\n\n\nspinal nn. C1-C6 (Post rami, lateral branches)1\n\n\n\n\nBilateral: Extends C/S and head1\nUnilateral: I/L head SB and Rotation1"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIANs/splenius_capitis.html#origin",
+    "href": "Alchemy Archive/Anatomy/OIANs/splenius_capitis.html#origin",
+    "title": "Splenius Capitis",
+    "section": "",
+    "text": "Nuchal ligament1\nC7-T3 or T4 SP1"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIANs/splenius_capitis.html#insertion",
+    "href": "Alchemy Archive/Anatomy/OIANs/splenius_capitis.html#insertion",
+    "title": "Splenius Capitis",
+    "section": "",
+    "text": "Lateral 1/3 nuchal line (occipital bone)1\nMastoid process (temporal bone)1"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIANs/splenius_capitis.html#innervation",
+    "href": "Alchemy Archive/Anatomy/OIANs/splenius_capitis.html#innervation",
+    "title": "Splenius Capitis",
+    "section": "",
+    "text": "spinal nn. C1-C6 (Post rami, lateral branches)1"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIANs/splenius_capitis.html#action",
+    "href": "Alchemy Archive/Anatomy/OIANs/splenius_capitis.html#action",
+    "title": "Splenius Capitis",
+    "section": "",
+    "text": "Bilateral: Extends C/S and head1\nUnilateral: I/L head SB and Rotation1"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIANs/serratus_posterior_inferior.html",
+    "href": "Alchemy Archive/Anatomy/OIANs/serratus_posterior_inferior.html",
+    "title": "Serratus Posterior Inferior",
+    "section": "",
+    "text": "Figure 1: Superficial intrinsic back muscles Right side posterior view1\n\n\n\n\n\nFigure 2: Superficial intrinsic back muscles posterior view1\n\n\n\nSerratus Posterior Inferior OIAN\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nSerratus Posterior Inferior\nT11-L2 (SP)\n8-12th ribs (inferior borders near angles)\nSpinal nn. T9-T12 (Anterior rami)\nDepresses ribs\n\n\n\n\n\nT11-L2 (SP)1\n\n\n\n8-12th ribs (inferior borders near angles)1\n\n\n\nSpinal nn. T9-T12 (Anterior rami)1\n\n\n\nDepresses ribs"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIANs/serratus_posterior_inferior.html#origin",
+    "href": "Alchemy Archive/Anatomy/OIANs/serratus_posterior_inferior.html#origin",
+    "title": "Serratus Posterior Inferior",
+    "section": "",
+    "text": "T11-L2 (SP)1"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIANs/serratus_posterior_inferior.html#insertion",
+    "href": "Alchemy Archive/Anatomy/OIANs/serratus_posterior_inferior.html#insertion",
+    "title": "Serratus Posterior Inferior",
+    "section": "",
+    "text": "8-12th ribs (inferior borders near angles)1"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIANs/serratus_posterior_inferior.html#innervation",
+    "href": "Alchemy Archive/Anatomy/OIANs/serratus_posterior_inferior.html#innervation",
+    "title": "Serratus Posterior Inferior",
+    "section": "",
+    "text": "Spinal nn. T9-T12 (Anterior rami)1"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIANs/serratus_posterior_inferior.html#action",
+    "href": "Alchemy Archive/Anatomy/OIANs/serratus_posterior_inferior.html#action",
+    "title": "Serratus Posterior Inferior",
+    "section": "",
+    "text": "Depresses ribs"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIANs/obliquus_capitis_superior.html",
+    "href": "Alchemy Archive/Anatomy/OIANs/obliquus_capitis_superior.html",
+    "title": "Obliquus capitis Superior muscles",
+    "section": "",
+    "text": "Figure 1: Schematic view of Suboccipital muscles (posterior view)1\n\n\n\n\n\nFigure 2: Suboccipital muscles (posterior view)1\n\n\n\n\n\nFigure 3: suboccipital muscles (left lateral view)1\n\n\n\nObliquus Capitis Superior OIAN\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nObliquus Capitis Superior\nC1 (TP)\nOccipital bone (inferior nuchal line, middle third\nSuboccipital N.\nbil: Extend head; UNIL: I/L SB, C/L rotation\n\n\n\n\n\nC1 (TP)1\n\n\n\nOccipital bone (inferior nuchal line, middle third; above RCPM)1\n\n\n\nSuboccipital N. AKA Posterior ramus of C11\n\n\n\n\nBilateral: Extend head\nUnilateral: I/L SB, C/L rotation"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIANs/obliquus_capitis_superior.html#origin",
+    "href": "Alchemy Archive/Anatomy/OIANs/obliquus_capitis_superior.html#origin",
+    "title": "Obliquus capitis Superior muscles",
+    "section": "",
+    "text": "C1 (TP)1"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIANs/obliquus_capitis_superior.html#insertion",
+    "href": "Alchemy Archive/Anatomy/OIANs/obliquus_capitis_superior.html#insertion",
+    "title": "Obliquus capitis Superior muscles",
+    "section": "",
+    "text": "Occipital bone (inferior nuchal line, middle third; above RCPM)1"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIANs/obliquus_capitis_superior.html#innervation",
+    "href": "Alchemy Archive/Anatomy/OIANs/obliquus_capitis_superior.html#innervation",
+    "title": "Obliquus capitis Superior muscles",
+    "section": "",
+    "text": "Suboccipital N. AKA Posterior ramus of C11"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/OIANs/obliquus_capitis_superior.html#action",
+    "href": "Alchemy Archive/Anatomy/OIANs/obliquus_capitis_superior.html#action",
+    "title": "Obliquus capitis Superior muscles",
+    "section": "",
+    "text": "Bilateral: Extend head\nUnilateral: I/L SB, C/L rotation"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/Nerves/spinal_nerves.html",
+    "href": "Alchemy Archive/Anatomy/Nerves/spinal_nerves.html",
+    "title": "Spinal Nerves",
+    "section": "",
+    "text": "Serratus Posterior superior (T2-T5 ant rami)1\nSerratus posterior inferior (T9-T12 ant rami)1\n\n\n\n\n\nSplenius Capitis (C1-C6)1\nSplenius cervicis (C1-C6)1\nIliocostalis (C8-L1)\n\nIliocostalis Cervicis\nIliocostalis Thoracis\nIliocostalis lumborum\n\nLongissimus (C1-L5)\n\nLongissimus Capitis\nLongissimus Cervicis\nLongissimus Thoracis\n\nSpinalis\n\nSpinalis Cervicis\nSpinalis Thoracis"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/Nerves/spinal_nerves.html#motor-innervation",
+    "href": "Alchemy Archive/Anatomy/Nerves/spinal_nerves.html#motor-innervation",
+    "title": "Spinal Nerves",
+    "section": "",
+    "text": "Serratus Posterior superior (T2-T5 ant rami)1\nSerratus posterior inferior (T9-T12 ant rami)1\n\n\n\n\n\nSplenius Capitis (C1-C6)1\nSplenius cervicis (C1-C6)1\nIliocostalis (C8-L1)\n\nIliocostalis Cervicis\nIliocostalis Thoracis\nIliocostalis lumborum\n\nLongissimus (C1-L5)\n\nLongissimus Capitis\nLongissimus Cervicis\nLongissimus Thoracis\n\nSpinalis\n\nSpinalis Cervicis\nSpinalis Thoracis"
+  },
+  {
+    "objectID": "Alchemy Archive/Physiology/Physiology of stress/Oxidative_stress.html",
+    "href": "Alchemy Archive/Physiology/Physiology of stress/Oxidative_stress.html",
+    "title": "Oxidative Stress",
+    "section": "",
+    "text": "1 Associated pathologies\nOxidative stress is believed to play a role in ALS neuronal degeneration according to current theories1.\n\n\n\n\n\nReferences\n\n1. O’Sullivan SB, Schmitz TJ, Fulk GD, eds. Physical Rehabilitation. 7th ed. F.A. Davis Company; 2019."
+  },
+  {
+    "objectID": "Alchemy Archive/Physiology/physiology_index.html#minerals",
+    "href": "Alchemy Archive/Physiology/physiology_index.html#minerals",
+    "title": "Physiology Index",
+    "section": "2 Minerals",
+    "text": "2 Minerals\nCopper [Cu]"
+  },
+  {
+    "objectID": "Alchemy Archive/Physiology/physiology_index.html#muscle-physiology",
+    "href": "Alchemy Archive/Physiology/physiology_index.html#muscle-physiology",
+    "title": "Physiology Index",
+    "section": "3 Muscle Physiology",
+    "text": "3 Muscle Physiology"
+  },
+  {
+    "objectID": "Alchemy Archive/Physiology/physiology_index.html#physiology-of-stress",
+    "href": "Alchemy Archive/Physiology/physiology_index.html#physiology-of-stress",
+    "title": "Physiology Index",
+    "section": "4 Physiology of stress",
+    "text": "4 Physiology of stress\nOxidative stress"
+  },
+  {
+    "objectID": "Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/chronic_low_back_pain.html",
+    "href": "Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/chronic_low_back_pain.html",
+    "title": "Chronic Low Back Pain",
+    "section": "",
+    "text": "Acute & Chronic LBP CPG - George et al.1"
+  },
+  {
+    "objectID": "Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/chronic_low_back_pain.html#therex",
+    "href": "Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/chronic_low_back_pain.html#therex",
+    "title": "Chronic Low Back Pain",
+    "section": "2.1 Therex",
+    "text": "2.1 Therex\n\nGrade A1\n\nSome of the exercises that were given a grade of A include:\n\nMM strengthening & endurance1\nMultimodal exercise1\nSpecific trunk mm activation → coordination, strength, endurance1\nAerobic1\nAquatic1\nGeneral1"
+  },
+  {
+    "objectID": "Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/chronic_low_back_pain.html#rehab-goals",
+    "href": "Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/chronic_low_back_pain.html#rehab-goals",
+    "title": "Chronic Low Back Pain",
+    "section": "3.1 Rehab goals",
+    "text": "3.1 Rehab goals\n\nCentralize symptoms1\nReduce Pain1\nReduce Disability1"
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/neuro_index.html",
+    "href": "Alchemy Archive/Neuro/neuro_index.html",
+    "title": "Index of Neuro archives",
+    "section": "",
+    "text": "Amyotrophic Lateral Sclerosis (ALS)"
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/neuro_index.html#neuropathology",
+    "href": "Alchemy Archive/Neuro/neuro_index.html#neuropathology",
+    "title": "Index of Neuro archives",
+    "section": "",
+    "text": "Amyotrophic Lateral Sclerosis (ALS)"
+  },
+  {
+    "objectID": "Alchemy Archive/Genetics and genomics/SOD1_superoxide_dismutase_1.html",
+    "href": "Alchemy Archive/Genetics and genomics/SOD1_superoxide_dismutase_1.html",
+    "title": "Superoxide Dismutase 1 (SOD1)",
+    "section": "",
+    "text": "Superoxide dismutases are a group of enzymes that eliminate oxygen free radicals that, although products of normal cell metabolism, have been implicated in neurodegeneration1."
+  },
+  {
+    "objectID": "Alchemy Archive/Genetics and genomics/SOD1_superoxide_dismutase_1.html#prevention-of-neuronal-degeneration",
+    "href": "Alchemy Archive/Genetics and genomics/SOD1_superoxide_dismutase_1.html#prevention-of-neuronal-degeneration",
+    "title": "Superoxide Dismutase 1 (SOD1)",
+    "section": "",
+    "text": "Superoxide dismutases are a group of enzymes that eliminate oxygen free radicals that, although products of normal cell metabolism, have been implicated in neurodegeneration1."
+  },
+  {
+    "objectID": "Alchemy Archive/Genetics and genomics/SOD1_superoxide_dismutase_1.html#sod1",
+    "href": "Alchemy Archive/Genetics and genomics/SOD1_superoxide_dismutase_1.html#sod1",
+    "title": "Superoxide Dismutase 1 (SOD1)",
+    "section": "2.1 SOD1",
+    "text": "2.1 SOD1\n\n2.1.1 Function\na gene that encodes the copper-zinc superoxide dismutase enzyme1\n\n\n2.1.2 Mutation\none of 100s of mutations in SOD1 have been linked to hereditary ALS1."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The Archives",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]

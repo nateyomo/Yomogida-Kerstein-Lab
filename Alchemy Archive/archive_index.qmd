@@ -1,7 +1,8 @@
 ---
-title: "Archives"
+title: "The Archive"
 
 ---
+
 # Anatomy 
 {{< include Anatomy/anatomy_index.qmd >}}
 
@@ -22,3 +23,4 @@ title: "Archives"
 
 # Genetics & Genomics
 {{< include "Genetics and genomics/genetics_and_genomics_index.qmd" >}}
+

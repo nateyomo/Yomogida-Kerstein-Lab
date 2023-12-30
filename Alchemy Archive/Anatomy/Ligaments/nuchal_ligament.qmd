@@ -1,0 +1,7 @@
+---
+title: Nuchal Ligament
+---
+
+# Muscular Origins
+
+- [Serratus Posterior Superior]({{< var ref-serratus-posterior-superior.path >}})

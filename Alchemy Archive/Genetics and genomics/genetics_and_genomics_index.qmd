@@ -1,5 +1,5 @@
 ---
-title: "Archives of Genetics and Genomics"
+title: "Archives of Genetics & Genomics"
 ---
 
 ## Genes

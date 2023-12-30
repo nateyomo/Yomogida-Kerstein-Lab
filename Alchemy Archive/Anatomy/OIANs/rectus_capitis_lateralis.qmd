@@ -1,5 +1,5 @@
 ---
-title: Rectus capitis lateralis
+title: Rectus Capitis Lateralis
 ---
 
 # OIAN
@@ -7,7 +7,9 @@ title: Rectus capitis lateralis
 
 | Muscle  | Origin  | Insertion | Nerve | Action |
 |--------|----------|-----------|-------|--------|
-| Rectus capitis lateralis | C1 (TP) @gilroyAtlasAnatomy2020 | Occipital bone (basilar part, lateral to occipital condyles) @gilroyAtlasAnatomy2020 | C1 Anterior Ramus @gilroyAtlasAnatomy2020 | Bilaterally flexes AO Joint; Unilaterally lat flexes AO Joint |
+| [Rectus Capitis Lateralis]({{< var ref-rectus-capitis-lateralis.path >}}) | {{< var ref-rectus-capitis-lateralis.origin >}} | {{< var ref-rectus-capitis-lateralis.insertion >}} | {{< var ref-rectus-capitis-lateralis.nerve >}} | {{< var ref-rectus-capitis-lateralis.action >}} |
+: Rectus Capitis Lateralis OIAN {.striped .hover}
+
 
 ## Origin
 C1 (TP) @gilroyAtlasAnatomy2020

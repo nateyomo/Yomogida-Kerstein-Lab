@@ -9,12 +9,14 @@ title: Splenius Capitis
 
 | Muscle  | Origin  | Insertion | Nerve | Action |
 |--------|----------|-----------|-------|--------|
-| Splenisu Capitis | Nuchal lig; C7-T3 SP @gilroyAtlasAnatomy2020 | 2-4th ribs (sup border) @gilroyAtlasAnatomy2020 | spinal nn. T2-T5 (Ant ramus) @gilroyAtlasAnatomy2020 | Elevates ribs @gilroyAtlasAnatomy2020 |
+|[Splenius Capitis]({{< var ref-splenius-capitis.path >}}) | {{< var ref-splenius-capitis.origin >}} | {{< var ref-splenius-capitis.insertion >}} | {{< var ref-splenius-capitis.nerve >}} | {{< var ref-splenius-capitis.action >}} |
 
 : Splenius Capitis OIAN {.striped .hover}
 
+
+
 ## Origin
-- Nuchal ligament @gilroyAtlasAnatomy2020
+- [Nuchal ligament]({{< var ref-nuchal-ligament.path >}}) @gilroyAtlasAnatomy2020
 - C7-T3 or T4 SP @gilroyAtlasAnatomy2020
 
 ## Insertion
@@ -22,7 +24,7 @@ title: Splenius Capitis
 - Mastoid process (temporal bone) @gilroyAtlasAnatomy2020
 
 ## Innervation
-spinal nn. C1-C6 (Post rami, lateral branches) @gilroyAtlasAnatomy2020
+[spinal nn.]({{< var ref-spinal-nerves.path >}}) C1-C6 (Post rami, lateral branches) @gilroyAtlasAnatomy2020
 
 ## Action
 

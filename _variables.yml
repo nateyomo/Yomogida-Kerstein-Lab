@@ -41,12 +41,29 @@ ref-oians:
 
 ref-rectus-capitis-posterior-major: 
   path: /Alchemy Archive/Anatomy/OIANs/rectus_capitis_posterior_major.qmd
+  origin: "C2 (SP)"
+  insertion: "Occipital bone (inferior nuchal line, middle third)"
+  nerve: "[Suboccipital N.]({{< var ref-suboccipital-nerve.path >}})"
+  action: "**BIL**: Extend head; **UNIL**: I/L head rotation"
 ref-rectus-capitis-posterior-minor: 
   path: /Alchemy Archive/Anatomy/OIANs/rectus_capitis_posterior_minor.qmd
+  origin: "C1 (posterior tubercle)"
+  insertion: "Occipital bone (inferior nuchal line, inner 1/3)"
+  nerve: "[Suboccipital N.]({{< var ref-suboccipital-nerve.path >}})"
+  action: "**BIL**: Extend head; **UNIL**: I/L head rotation"
 ref-obliquus-capitis-superior: 
   path: /Alchemy Archive/Anatomy/OIANs/obliquus_capitis_superior.qmd
+  origin: "C1 (TP)"
+  insertion: "Occipital bone (inferior nuchal line, middle third"
+  nerve: "[Suboccipital N.]({{< var ref-suboccipital-nerve.path >}})"
+  action: "**bil**: Extend head; **UNIL**: I/L SB, C/L rotation"
 ref-obliquus-capitis-inferior: 
   path: /Alchemy Archive/Anatomy/OIANs/obliquus_capitis_inferior.qmd
+  origin: "C2 (SP)"
+  insertion: "C1 TP"
+  nerve: "[Suboccipital N.]({{< var ref-suboccipital-nerve.path >}})"
+  action: "**BIL**: Extend head;
+ **UNIL**: I/L rotation"
 
 ref-longus-capitis: 
   path: /Alchemy Archive/Anatomy/OIANs/longus_capitis.qmd
@@ -56,19 +73,49 @@ ref-longus-capitis:
   action: "**BIL** flexes head; **UNIL** flexes and slight I/L rotation "
 ref-longus-colli-cervicis: 
   path: /Alchemy Archive/Anatomy/OIANs/longus_colli_cervicis.qmd
+  origin: "**Vertical part:** C5-T3 (ant side of vertebral body);\ **Sup-oblique** C3-C5 (TP, Ant tubercle) \ **Inf-Oblique:** T1-T3 (ant side of vertebral body)"
+  insertion: "**Vertical part:** C2-C4 (ant sides of vertebral bodies);\ **Sup-oblique** C1 (TP, ant tubercle) \ **Inf-Oblique:** C5-C6 (TP, Ant tubercles)"
+  nerve: "Direct branches from cervical plexus (C2-C6)"
+  action: "**BIL**: Flex AO Joint; **UNIL**: Lat flex at AO joint"
 ref-rectus-capitis-anterior: 
   path: /Alchemy Archive/Anatomy/OIANs/rectus_capitis_anterior.qmd
+  origin: "C1 (lateral mass)"
+  insertion: "Occipital bone (basilar part)"
+  nerve: "C1 Ant ramus"
+  action: "**BIL**: flex AO Joint; **UNIL**: Lateral Flexion of AO joint"
 ref-rectus-capitis-lateralis: 
   path: /Alchemy Archive/Anatomy/OIANs/rectus_capitis_lateralis.qmd
+  origin: "C1 (TP)"
+  insertion: "Occipital bone (basilar part, lateral to occipital condyles)"
+  nerve: "C1 Anterior Ramus"
+  action: "**BIL**: flex AO Joint; **UNIL**: Lateral Flexion of AO joint"
 
 ref-serratus-posterior-superior: 
   path: /Alchemy Archive/Anatomy/OIANs/serratus_posterior_superior.qmd
+  origin: "[Nuchal ligament]({{< var ref-nuchal-ligament.path >}}), C7-T3 SP"
+  insertion: "2-4th ribs (sup border)"
+  nerve: "[Spinal nn. ]({{< var ref-spinal-nerves.path >}}) T2-T5 (Ant ramus)"
+  action: "Elevates ribs"
 ref-serratus-posterior-inferior: 
   path: /Alchemy Archive/Anatomy/OIANs/serratus_posterior_inferior.qmd
+  origin: "T11-L2 (SP)"
+  insertion: "8-12th ribs (inferior borders near angles)"
+  nerve: "[Spinal nn.]({{< var ref-spinal-nerves.path >}}) T9-T12 (Anterior rami)"
+  action: "Depresses ribs"
 ref-splenius-capitis: 
   path: /Alchemy Archive/Anatomy/OIANs/splenius_capitis.qmd
+  origin: "[Nuchal ligament]({{< var ref-nuchal-ligament.path >}}),
+- C7-T3/T4 SP"
+  insertion: "Lateral 1/3 nuchal line (occipital bone),
+ Mastoid process (temporal bone)"
+  nerve: "[spinal nn.]({{< var ref-spinal-nerves.path >}}) C1-C6 (Post rami, lateral branches)"
+  action: "**BIL:** Extends C/S and head; **UNIL:** I/L head SB and Rotation "
 ref-splenius-cervicis: 
   path: /Alchemy Archive/Anatomy/OIANs/splenius_cervicis.qmd
+  origin: "T3-T6/T7 (SP)"
+  insertion: "C1–C3/4 (TP)"
+  nerve: "[Spinal nn. C1-C6]({{< var ref-spinal-nerves.path >}}) (Post rami, lateral branches)"
+  action: "**BIL:** Extends C/S and head; **UNIL:** I/L head SB and Rotation"
 
 ref-iliocostalis-cervicis:
   path: /Alchemy Archive/Anatomy/OIANs/iliocostalis.qmd
@@ -97,3 +144,7 @@ ref-suboccipital-nerve:
 ref-spinal-nerves: 
   path: /Alchemy Archive/Anatomy/Nerves/spinal_nerves.qmd
 
+## Ligaments
+
+ref-nuchal-ligament:
+  path: "/Alchemy Archive/Anatomy/Ligaments/nuchal_ligament.qmd"

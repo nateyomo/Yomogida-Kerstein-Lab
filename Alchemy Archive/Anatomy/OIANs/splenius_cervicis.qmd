@@ -9,23 +9,25 @@ title: Splenius Cervicis
 
 | Muscle  | Origin  | Insertion | Nerve | Action |
 |--------|----------|-----------|-------|--------|
-| Splenisu Cervicis | Nuchal lig; C7-T3 SP @gilroyAtlasAnatomy2020 | 2-4th ribs (sup border) @gilroyAtlasAnatomy2020 | spinal nn. T2-T5 (Ant ramus) @gilroyAtlasAnatomy2020 | Elevates ribs @gilroyAtlasAnatomy2020 |
+|[Splenius Cervicis]({{< var ref-splenius-cervicis.path >}}) | {{< var ref-splenius-cervicis.origin >}} | {{< var ref-splenius-cervicis.insertion >}} | {{< var ref-splenius-cervicis.nerve >}} | {{< var ref-splenius-cervicis.action >}} |
 
 : Splenius Cervicis OIAN {.striped .hover}
 
+
 ## Origin
-T3-T6 or T7 (SP) @gilroyAtlasAnatomy2020
+T3-T6/T7 (SP) @gilroyAtlasAnatomy2020
+
 
 ## Insertion
-C1-C3/C4 TP @gilroyAtlasAnatomy2020
+C1–C3/4 (TP) @gilroyAtlasAnatomy2020
 
 ## Innervation
-spinal nn. C1-C6 (Post rami, lateral branches) @gilroyAtlasAnatomy2020
+[Spinal nn. C1-C6]({{< var ref-spinal-nerves.path >}}) (Post rami, lateral branches) @gilroyAtlasAnatomy2020
 
 ## Action
 
-- **Bilateral:** Extends C/S and head @gilroyAtlasAnatomy2020
-- **Unilateral:** I/L head SB and Rotation @gilroyAtlasAnatomy2020
+- **BIL:** Extends C/S and head @gilroyAtlasAnatomy2020
+- **UNIL:** I/L head SB and Rotation @gilroyAtlasAnatomy2020
 
 # Muscle groups
 Splenius cervicis is part of the [Superficial intrinsic back muscle group]({{< var ref-oians >}})

@@ -27,7 +27,7 @@ Direct branches from cervical plexus (C1-C3) @gilroyAtlasAnatomy2020
 - **Unilateral**: Flexes and slight I/L rotation
 
 # Muscle groups
-Longus capitis is part of the [prevertebral muscle group]({{< var ref-oians >}})
+Longus capitis is part of the [prevertebral muscle group]({{< var ref-oians.path >}})
 
 
 # Palpation

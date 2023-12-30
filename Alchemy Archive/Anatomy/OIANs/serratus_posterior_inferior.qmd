@@ -9,9 +9,10 @@ title: Serratus Posterior Inferior
 
 | Muscle  | Origin  | Insertion | Nerve | Action |
 |--------|----------|-----------|-------|--------|
-| Serratus Posterior Inferior | C1 (lateral mass) @gilroyAtlasAnatomy2020 | Occipital bone (basilar part) @gilroyAtlasAnatomy2020 | C1 Ant ramus @gilroyAtlasAnatomy2020 | Bilaterally flexes AOJ; Unilaterally I/L SB |
+|[Serratus Posterior Inferior]({{< var ref-serratus-posterior-inferior.path >}}) | {{< var ref-serratus-posterior-inferior.origin >}} | {{< var ref-serratus-posterior-inferior.insertion >}} | {{< var ref-serratus-posterior-inferior.nerve >}} | {{< var ref-serratus-posterior-inferior.action >}} |
 
 : Serratus Posterior Inferior OIAN {.striped .hover}
+
 
 ## Origin
 T11-L2 (SP) @gilroyAtlasAnatomy2020
@@ -20,7 +21,7 @@ T11-L2 (SP) @gilroyAtlasAnatomy2020
 8-12th ribs (inferior borders near angles) @gilroyAtlasAnatomy2020
 
 ## Innervation
-Spinal nn. T9-T12 (Anterior rami) @gilroyAtlasAnatomy2020
+[Spinal nn.]({{< var ref-spinal-nerves.path >}}) T9-T12 (Anterior rami) @gilroyAtlasAnatomy2020
 
 ## Action
 

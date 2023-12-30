@@ -7,9 +7,9 @@ title: Rectus Capitis anterior
 
 | Muscle  | Origin  | Insertion | Nerve | Action |
 |--------|----------|-----------|-------|--------|
-| Rectus Capitis Anterior | C1 (lateral mass) @gilroyAtlasAnatomy2020 | Occipital bone (basilar part) @gilroyAtlasAnatomy2020 | C1 Ant ramus @gilroyAtlasAnatomy2020 | Bilaterally flexes AOJ; Unilaterally I/L SB |
+| [Rectus Capitis Anterior]({{< var ref-rectus-capitis-anterior.path >}}) | {{< var ref-rectus-capitis-anterior.origin >}} | {{< var ref-rectus-capitis-anterior.insertion >}} | {{< var ref-rectus-capitis-anterior.nerve >}} | {{< var ref-rectus-capitis-anterior.action >}} |
+: Rectus Capitis Anterior OIAN {.striped .hover}
 
-: Longus capitis OIAN {.striped .hover}
 
 ## Origin
 C1 (lateral mass) @gilroyAtlasAnatomy2020
@@ -26,7 +26,7 @@ C1 Ant ramus @gilroyAtlasAnatomy2020
 - **Unilateral**: Lateral Flexion of AO joint
 
 # Muscle groups
-Rectus capitis anterior is part of the [prevertebral muscle group]({{< var ref-oians >}})
+Rectus capitis anterior is part of the [prevertebral muscle group]({{< var ref-oians.path >}})
 
 
 # Palpation
