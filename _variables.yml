@@ -6,6 +6,13 @@ ref-sod1:
   path: "/Alchemy Archive/Genetics and genomics/SOD1_superoxide_dismutase_1.qmd"
 
 # Physiology
+## Enzymes
+ref-superoxide-dismutases-group: 
+  path: "/Alchemy Archive/Physiology/Enzymes/superoxide_dismutases_group.qmd"
+
+ref-CuZnSOD-copper-zinc-superoxide-dismutase:
+  path: "/Alchemy Archive/Physiology/Enzymes/CuZnSOD_copper-zinc_superoxide_dismutase.qmd"
+
 ## Minerals
 ref-copper: 
   path: "/Alchemy Archive/Physiology/Minerals/copper.qmd"
@@ -13,6 +20,10 @@ ref-copper:
 ## Physiology of stress
 ref-oxidative-stress: 
   path: "/Alchemy Archive/Physiology/Physiology of stress/Oxidative_stress.qmd"
+
+## Transporters
+ref-EAAT2-excitatory-amino-acid-transporter-2:
+  path: "/Alchemy Archive/Physiology/Transporters/EAAT2_excitatory_amino_acid_transporter_2.qmd"
 
 # Pain science
 
@@ -24,7 +35,7 @@ ref-graded-motor-imagery:
 
 ## Neuropathology
 ref-amyotrophic-lateral-sclerosis: 
-  path: "/Alchemy Archive/Neuro/Neuropathology/amyotrophic_lateral_sclerosis.qmd"
+  path: "/Alchemy Archive/Neuro/Neuropathology/Amyotrophic Lateral Sclerosis/amyotrophic_lateral_sclerosis.qmd"
 
 # Pathologies & Rehab
 ref-chronic-low-back-pain: 
@@ -56,7 +67,7 @@ ref-obliquus-capitis-superior:
   origin: "C1 (TP)"
   insertion: "Occipital bone (inferior nuchal line, middle third"
   nerve: "[Suboccipital N.]({{< var ref-suboccipital-nerve.path >}})"
-  action: "**bil**: Extend head; **UNIL**: I/L SB, C/L rotation"
+  action: "**BIL**: Extend head; **UNIL**: I/L SB, C/L rotation"
 ref-obliquus-capitis-inferior: 
   path: /Alchemy Archive/Anatomy/OIANs/obliquus_capitis_inferior.qmd
   origin: "C2 (SP)"

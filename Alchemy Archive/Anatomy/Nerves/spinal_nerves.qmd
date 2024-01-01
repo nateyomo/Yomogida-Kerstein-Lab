@@ -1,5 +1,6 @@
 ---
 title: Spinal Nerves
+
 ---
 
 # Innervations
@@ -9,13 +10,13 @@ title: Spinal Nerves
 ## Motor Innervation
 ### Anterior rami:
 
-- [Serratus Posterior superior (T2-T5 ant rami)]({{< var ref-serratus-posterior-superior >}}) @gilroyAtlasAnatomy2020
-- [Serratus posterior inferior (T9-T12 ant rami)]({{< var ref-serratus-posterior-inferior >}}) @gilroyAtlasAnatomy2020
+- [Serratus Posterior superior (T2-T5 ant rami)]({{< var ref-serratus-posterior-superior.path >}}) @gilroyAtlasAnatomy2020
+- [Serratus posterior inferior (T9-T12 ant rami)]({{< var ref-serratus-posterior-inferior.path >}}) @gilroyAtlasAnatomy2020
 
 ### Posterior Rami, lateral branches:
 
-- [Splenius Capitis (C1-C6)]({{< var ref-splenius-capitis >}}) @gilroyAtlasAnatomy2020
-- [Splenius cervicis (C1-C6)]({{< var ref-splenius-capitis >}}) @gilroyAtlasAnatomy2020
+- [Splenius Capitis (C1-C6)]({{< var ref-splenius-capitis.path >}}) @gilroyAtlasAnatomy2020
+- [Splenius cervicis (C1-C6)]({{< var ref-splenius-capitis.path >}}) @gilroyAtlasAnatomy2020
 - Iliocostalis (C8-L1)
     - Iliocostalis Cervicis
     - Iliocostalis Thoracis

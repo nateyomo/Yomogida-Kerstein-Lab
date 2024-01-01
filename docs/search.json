@@ -87,29 +87,29 @@
     "objectID": "Alchemy Archive/archive_index.html#hormones",
     "href": "Alchemy Archive/archive_index.html#hormones",
     "title": "Archives of Genetics & Genomics",
-    "section": "2.1 Hormones",
-    "text": "2.1 Hormones"
+    "section": "2.2 Hormones",
+    "text": "2.2 Hormones"
   },
   {
     "objectID": "Alchemy Archive/archive_index.html#minerals",
     "href": "Alchemy Archive/archive_index.html#minerals",
     "title": "Archives of Genetics & Genomics",
-    "section": "2.2 Minerals",
-    "text": "2.2 Minerals\nCopper [Cu]"
+    "section": "2.3 Minerals",
+    "text": "2.3 Minerals\nCopper [Cu]"
   },
   {
     "objectID": "Alchemy Archive/archive_index.html#muscle-physiology",
     "href": "Alchemy Archive/archive_index.html#muscle-physiology",
     "title": "Archives of Genetics & Genomics",
-    "section": "2.3 Muscle Physiology",
-    "text": "2.3 Muscle Physiology"
+    "section": "2.4 Muscle Physiology",
+    "text": "2.4 Muscle Physiology"
   },
   {
     "objectID": "Alchemy Archive/archive_index.html#physiology-of-stress",
     "href": "Alchemy Archive/archive_index.html#physiology-of-stress",
     "title": "Archives of Genetics & Genomics",
-    "section": "2.4 Physiology of stress",
-    "text": "2.4 Physiology of stress\nOxidative stress"
+    "section": "2.6 Physiology of stress",
+    "text": "2.6 Physiology of stress\nOxidative stress"
   },
   {
     "objectID": "Alchemy Archive/archive_index.html#lumbar-spine",
@@ -948,22 +948,22 @@
     "objectID": "Alchemy Archive/Physiology/physiology_index.html#minerals",
     "href": "Alchemy Archive/Physiology/physiology_index.html#minerals",
     "title": "Physiology Index",
-    "section": "2 Minerals",
-    "text": "2 Minerals\nCopper [Cu]"
+    "section": "3 Minerals",
+    "text": "3 Minerals\nCopper [Cu]"
   },
   {
     "objectID": "Alchemy Archive/Physiology/physiology_index.html#muscle-physiology",
     "href": "Alchemy Archive/Physiology/physiology_index.html#muscle-physiology",
     "title": "Physiology Index",
-    "section": "3 Muscle Physiology",
-    "text": "3 Muscle Physiology"
+    "section": "4 Muscle Physiology",
+    "text": "4 Muscle Physiology"
   },
   {
     "objectID": "Alchemy Archive/Physiology/physiology_index.html#physiology-of-stress",
     "href": "Alchemy Archive/Physiology/physiology_index.html#physiology-of-stress",
     "title": "Physiology Index",
-    "section": "4 Physiology of stress",
-    "text": "4 Physiology of stress\nOxidative stress"
+    "section": "6 Physiology of stress",
+    "text": "6 Physiology of stress\nOxidative stress"
   },
   {
     "objectID": "Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/chronic_low_back_pain.html",
@@ -1005,14 +1005,14 @@
     "href": "Alchemy Archive/Genetics and genomics/SOD1_superoxide_dismutase_1.html",
     "title": "Superoxide Dismutase 1 (SOD1)",
     "section": "",
-    "text": "Superoxide dismutases are a group of enzymes that eliminate oxygen free radicals that, although products of normal cell metabolism, have been implicated in neurodegeneration1."
+    "text": "Superoxide Dismutase 1 (SOD1) refers to a specific gene on chromosome 211."
   },
   {
     "objectID": "Alchemy Archive/Genetics and genomics/SOD1_superoxide_dismutase_1.html#prevention-of-neuronal-degeneration",
     "href": "Alchemy Archive/Genetics and genomics/SOD1_superoxide_dismutase_1.html#prevention-of-neuronal-degeneration",
     "title": "Superoxide Dismutase 1 (SOD1)",
-    "section": "",
-    "text": "Superoxide dismutases are a group of enzymes that eliminate oxygen free radicals that, although products of normal cell metabolism, have been implicated in neurodegeneration1."
+    "section": "2.1 Prevention of Neuronal Degeneration",
+    "text": "2.1 Prevention of Neuronal Degeneration\nSOD1 encodes for enzymes such as CuZnSOD. CuZnSOD along with the other SOD isoforms play a role in removing oxygen free radicals from the body1. Gene mutations lead to less activity of CuZnSOD, resulting in accumulation of free radicals and resulting in neuronal degeneration1.\nMost mutations in FALS have shown only modest reductions in enzyme activity1. Leading researchers to believe that a mutant SOD1 protein may have actively toxic properties1."
   },
   {
     "objectID": "Alchemy Archive/Genetics and genomics/SOD1_superoxide_dismutase_1.html#sod1",
@@ -1024,8 +1024,260 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "The Archives",
+    "title": "The Yomogida-Kerstein BioLab",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/Neuropathology/Multiple Sclerosis/MS_fall_risk_interventions.html",
+    "href": "Alchemy Archive/Neuro/Neuropathology/Multiple Sclerosis/MS_fall_risk_interventions.html",
+    "title": "Multiple Sclerosis Fall Risk Interventions",
+    "section": "",
+    "text": "Edwards et al. 20201\n\n\nItem\nStudy\n\n\n\n\nn\n38\n\n\nStudy type\nRetrospective Cohort\n\n\nMeasure\n\n\n\nDependent variable\n“Fall diary”\n\n\n\n\n\nSpatiotemporal measures of forward and backwards walking and fall history were collected1.\n\n\n\nFor the following 6 months after, a fall diary was taken by participants1\n\n\n\nBetween forward vs backward velocity, vs stride length, double support time, age, disease severity and symptom duration, backwards walking velocity was the strongest unique predictor of falls Accurately classified 76.3% of the cases1 Forward walking classification of fallers was about 71.1%1"
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/Neuropathology/Multiple Sclerosis/MS_fall_risk_interventions.html#edwards-et-al.-2020",
+    "href": "Alchemy Archive/Neuro/Neuropathology/Multiple Sclerosis/MS_fall_risk_interventions.html#edwards-et-al.-2020",
+    "title": "Multiple Sclerosis Fall Risk Interventions",
+    "section": "",
+    "text": "Edwards et al. 20201\n\n\nItem\nStudy\n\n\n\n\nn\n38\n\n\nStudy type\nRetrospective Cohort\n\n\nMeasure\n\n\n\nDependent variable\n“Fall diary”\n\n\n\n\n\nSpatiotemporal measures of forward and backwards walking and fall history were collected1.\n\n\n\nFor the following 6 months after, a fall diary was taken by participants1\n\n\n\nBetween forward vs backward velocity, vs stride length, double support time, age, disease severity and symptom duration, backwards walking velocity was the strongest unique predictor of falls Accurately classified 76.3% of the cases1 Forward walking classification of fallers was about 71.1%1"
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/Neuropathology/Amyotrophic Lateral Sclerosis/amyotrophic_lateral_sclerosis.html",
+    "href": "Alchemy Archive/Neuro/Neuropathology/Amyotrophic Lateral Sclerosis/amyotrophic_lateral_sclerosis.html",
+    "title": "Amyotrophic Lateral Sclerosis (ALS)",
+    "section": "",
+    "text": "To study ALS, I would begin with a 5 minute video to get a quick overview and lay the mental foundation for the future topics such as: Khan academy ALS video.\nThe textbooks I recommend for further research or reference is:\n\n(PT Specific) Physical rehabilitation - O’Sullivan1\nNeuromuscular disorders by Amato2\nUmphred’s neurological rehabilitation3\nContinuum by AAN4\n\nLastly, I would then recommend going into true evidence based practice by using scientific articles to find up to date information on the topic."
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/Neuropathology/Amyotrophic Lateral Sclerosis/amyotrophic_lateral_sclerosis.html#age",
+    "href": "Alchemy Archive/Neuro/Neuropathology/Amyotrophic Lateral Sclerosis/amyotrophic_lateral_sclerosis.html#age",
+    "title": "Amyotrophic Lateral Sclerosis (ALS)",
+    "section": "3.1 Age",
+    "text": "3.1 Age\nALS can occur at any age but onset generally occurs in the mid-to-late 50s1."
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/Neuropathology/Amyotrophic Lateral Sclerosis/amyotrophic_lateral_sclerosis.html#gender",
+    "href": "Alchemy Archive/Neuro/Neuropathology/Amyotrophic Lateral Sclerosis/amyotrophic_lateral_sclerosis.html#gender",
+    "title": "Amyotrophic Lateral Sclerosis (ALS)",
+    "section": "3.2 Gender",
+    "text": "3.2 Gender\nMost studies have found that the disease affects men slightly more than women, with an approximate ratio of 1.7:1. After age 65, the gender difference decreases1."
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/Neuropathology/Amyotrophic Lateral Sclerosis/amyotrophic_lateral_sclerosis.html#family-history",
+    "href": "Alchemy Archive/Neuro/Neuropathology/Amyotrophic Lateral Sclerosis/amyotrophic_lateral_sclerosis.html#family-history",
+    "title": "Amyotrophic Lateral Sclerosis (ALS)",
+    "section": "3.3 Family History",
+    "text": "3.3 Family History\nAbout 5% to 10% of individuals have a family history of ALS (familial ALS, [FALS])1. Familial ALS is phenotypically and genetically heterogeneous1.\nMost cases of FALS are autosomal dominant1. Regardless, recessive and X-linked forms have been described1. For example, the rare juvenileonset ALS is reported to be inherited in an autosomal recessive pattern1.\n\n3.3.1 FALS Categorization\nFALS is categorized by mode of inheritance and further subcategorized by specific gene or chromosomal locus@osullivanPhysicalRehabilitation2019.\nThe very large majority of adult individuals with ALS have no family history of the disease (sporadic ALS)1.\n\n\n\n\n\n\nNote\n\n\n\nA very small percentage of individuals with sporadic ALS do have a mutation in SOD1\n\n\nOver 20 chromosomal regions and a number of identified genes have been linked to ALS. 20% of hereditary ALS cases are attributed to one of 100+ mutations in superoxide dismutase 1 (SOD1)1. ~50% of individuals with an SOD1 ALS variant are symptomatic by 46yrs, and 90% are symptomatic by 70 years of age1."
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/Neuropathology/Amyotrophic Lateral Sclerosis/amyotrophic_lateral_sclerosis.html#onset",
+    "href": "Alchemy Archive/Neuro/Neuropathology/Amyotrophic Lateral Sclerosis/amyotrophic_lateral_sclerosis.html#onset",
+    "title": "Amyotrophic Lateral Sclerosis (ALS)",
+    "section": "3.4 Onset",
+    "text": "3.4 Onset\n\n~70% to 80% of individuals develop limb-onset ALS, with initial involvement in the extremities1.\n20% to 30% develop bulbar-onset ALS, with initial involvement in the bulbar muscles1.\nBulbar-onset ALS is more common in middle-aged women, and initial symptoms may include difficulty speaking, chewing, or swallowing1\n\n\n\nTable 1: Motor Neuron Diseases (MNDs)1\n\n\n\n\n\n\nSubtype\nNervous system pathology\n\n\n\n\nALS\nDegeneration of the corticospinal tracts, neurons in the motor cortex and brainstem, and anterior horn cells in the spinal cord\n\n\nPrimary lateral sclerosis\nDegeneration of upper motor neurons\n\n\nProgressive bulbar palsy\nDegeneration of motor neurons of cranial nerves IX to XII\n\n\nProgressive muscular atrophy\nLoss or chromatolysis of motor neurons of the spinal cord and brainstem"
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/Neuropathology/Amyotrophic Lateral Sclerosis/amyotrophic_lateral_sclerosis.html#superoxide-dismutases",
+    "href": "Alchemy Archive/Neuro/Neuropathology/Amyotrophic Lateral Sclerosis/amyotrophic_lateral_sclerosis.html#superoxide-dismutases",
+    "title": "Amyotrophic Lateral Sclerosis (ALS)",
+    "section": "4.1 Superoxide Dismutases",
+    "text": "4.1 Superoxide Dismutases\nMutations in SOD1 gene impact Superoxide dismutases (SOD) function, resulting in an accumulation of free radicals that can lead to neurodegeneration1.\nThere are three isoforms of SOD in humans: cytosolic copper-zinc superoxide dismutase (CuZnSOD), mitochondrial manganese superoxide dismutase (MnSOD), and extracellular superoxide dismutase (ECSOD). SOD1, a gene on chromosome 21, encodes CuZnSOD. Genetic studies of individuals with adult-onset FALS have determined that about 20% of these individuals have mutations in SOD1; however, the primary gene defect is unknown. When the SOD enzyme activity is decreased, as has been observed in individuals with FALS with SOD1 mutations, free radicals may accumulate causing damage"
+  },
+  {
+    "objectID": "Alchemy Archive/Physiology/Enzymes/superoxide_dismutases_group.html",
+    "href": "Alchemy Archive/Physiology/Enzymes/superoxide_dismutases_group.html",
+    "title": "Superoxide Dismutases",
+    "section": "",
+    "text": "“Superoxide dismutases (SOD)” refer to a group of enzymes that catalyze the ____ reaction, which eliminates oxygen free radicals implicated in neurodegeneration1.\n\n\n\n\n\n\nNote\n\n\n\nThese oxygen free radicals are produced in normal cell metabolism, but nonetheless are still implicated in neurodegeneration1\n\n\nhat, although products of normal cell metabolism, have been implicated in neurodegeneration.\n\n1 Types\nThere are 3 human SOD isoform:\n\nCytosolic copper-zinc superoxide dismutase (CuZnSOD)1\nMitochondrial manganese superoxide dismutase (MnSOD)1\nExtracellular superoxide dismutase (ECSOD)1\n\nSOD1, a gene on chromosome 21, encodes CuZnSOD. Genetic studies of individuals with adult-onset FALS have determined that about 20% of these individuals have mutations in SOD1; however, the primary gene defect is unknown. When the SOD enzyme activity is decreased, as has been observed in individuals with FALS with SOD1 mutations, free radicals may accumulate causing damage\n\n\n\n\n\n\n\n\n2 Pathological implications\n\n1. O’Sullivan SB, Schmitz TJ, Fulk GD, eds. Physical Rehabilitation. 7th ed. F.A. Davis Company; 2019."
+  },
+  {
+    "objectID": "Alchemy Archive/Physiology/Enzymes/CuZnSOD_copper-zinc_superoxide_dismutase.html",
+    "href": "Alchemy Archive/Physiology/Enzymes/CuZnSOD_copper-zinc_superoxide_dismutase.html",
+    "title": "Copper-Zinc Superoxide dismutase (CuZnSOD)",
+    "section": "",
+    "text": "Copper-Zinc Superoxide dismutase (CuZnSOD) is one of 3 human isoforms of the Superoxide Dismutases (SOD) group1.\n\n1 Genetics\nCuZnSOD is encoded by the SOD1 gene\n\n\n\n\n\nReferences\n\n1. O’Sullivan SB, Schmitz TJ, Fulk GD, eds. Physical Rehabilitation. 7th ed. F.A. Davis Company; 2019."
+  },
+  {
+    "objectID": "Alchemy Archive/Genetics and genomics/SOD1_superoxide_dismutase_1.html#amyotrophic-lateral-sclerosis",
+    "href": "Alchemy Archive/Genetics and genomics/SOD1_superoxide_dismutase_1.html#amyotrophic-lateral-sclerosis",
+    "title": "Superoxide Dismutase 1 (SOD1)",
+    "section": "3.1 Amyotrophic Lateral sclerosis",
+    "text": "3.1 Amyotrophic Lateral sclerosis\n\nOne of 100s of mutations in SOD1 have been linked to hereditary ALS1.\nStudies of patients with adult-onset FALS have determined that about 20% of these individuals have mutations in SOD11"
+  },
+  {
+    "objectID": "Alchemy Archive/archive_index.html#enzymes",
+    "href": "Alchemy Archive/archive_index.html#enzymes",
+    "title": "Archives of Genetics & Genomics",
+    "section": "2.1 Enzymes",
+    "text": "2.1 Enzymes\n\nSuperoxide Dismutases group\n\nCopper-Zinc Superoxide dismutase (CuZnSOD)"
+  },
+  {
+    "objectID": "Alchemy Archive/archive_index.html#neurotransmitters",
+    "href": "Alchemy Archive/archive_index.html#neurotransmitters",
+    "title": "Archives of Genetics & Genomics",
+    "section": "2.5 Neurotransmitters",
+    "text": "2.5 Neurotransmitters\n\nGlutamate"
+  },
+  {
+    "objectID": "Alchemy Archive/Physiology/physiology_index.html",
+    "href": "Alchemy Archive/Physiology/physiology_index.html",
+    "title": "Physiology Index",
+    "section": "",
+    "text": "Superoxide Dismutases group\n\nCopper-Zinc Superoxide dismutase (CuZnSOD)"
+  },
+  {
+    "objectID": "Alchemy Archive/Physiology/physiology_index.html#enzymes",
+    "href": "Alchemy Archive/Physiology/physiology_index.html#enzymes",
+    "title": "Physiology Index",
+    "section": "",
+    "text": "Superoxide Dismutases group\n\nCopper-Zinc Superoxide dismutase (CuZnSOD)"
+  },
+  {
+    "objectID": "Alchemy Archive/Physiology/physiology_index.html#hormones",
+    "href": "Alchemy Archive/Physiology/physiology_index.html#hormones",
+    "title": "Physiology Index",
+    "section": "2 Hormones",
+    "text": "2 Hormones"
+  },
+  {
+    "objectID": "Alchemy Archive/Physiology/physiology_index.html#neurotransmitters",
+    "href": "Alchemy Archive/Physiology/physiology_index.html#neurotransmitters",
+    "title": "Physiology Index",
+    "section": "5 Neurotransmitters",
+    "text": "5 Neurotransmitters\n\nGlutamate"
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/Neuropathology/Amyotrophic Lateral Sclerosis/amyotrophic_lateral_sclerosis.html#disease-causing-mutations",
+    "href": "Alchemy Archive/Neuro/Neuropathology/Amyotrophic Lateral Sclerosis/amyotrophic_lateral_sclerosis.html#disease-causing-mutations",
+    "title": "Amyotrophic Lateral Sclerosis (ALS)",
+    "section": "4.1 Disease-Causing mutations",
+    "text": "4.1 Disease-Causing mutations\n\n4.1.1 SOD1 Mutation\nMutations in SOD1 gene impact Superoxide dismutases (SOD) function, resulting in a hypothesized accumulation of free radicals that can lead to neurodegeneration1.\n\nMost mutations in FALS have shown only modest reductions in enzyme activity1. Leading researchers to believe that a mutant SOD1 protein may have actively toxic properties1."
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/Neuropathology/Amyotrophic Lateral Sclerosis/amyotrophic_lateral_sclerosis.html#glutamate",
+    "href": "Alchemy Archive/Neuro/Neuropathology/Amyotrophic Lateral Sclerosis/amyotrophic_lateral_sclerosis.html#glutamate",
+    "title": "Amyotrophic Lateral Sclerosis (ALS)",
+    "section": "4.2 Glutamate",
+    "text": "4.2 Glutamate\nA deficiency in EAAT2 results in excess glutamate in the motor cortex and spinal cord1. Excess glutamate has been theorized to result in neurodegeneration via excitotoxicity1"
+  },
+  {
+    "objectID": "Alchemy Archive/Physiology/Neurotransmitters/glutamate.html",
+    "href": "Alchemy Archive/Physiology/Neurotransmitters/glutamate.html",
+    "title": "Glutamate",
+    "section": "",
+    "text": "Glutamate is an excitatory neurotransmitter1"
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/Neuropathology/Amyotrophic Lateral Sclerosis/amyotrophic_lateral_sclerosis.html#neurofilament-clumping",
+    "href": "Alchemy Archive/Neuro/Neuropathology/Amyotrophic Lateral Sclerosis/amyotrophic_lateral_sclerosis.html#neurofilament-clumping",
+    "title": "Amyotrophic Lateral Sclerosis (ALS)",
+    "section": "4.3 Neurofilament clumping",
+    "text": "4.3 Neurofilament clumping\nA histopathologic characteristic of ALS is neurofilament proteins clumping into spheroids1."
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/Neuropathology/Amyotrophic Lateral Sclerosis/amyotrophic_lateral_sclerosis.html#autoimmune-reaction",
+    "href": "Alchemy Archive/Neuro/Neuropathology/Amyotrophic Lateral Sclerosis/amyotrophic_lateral_sclerosis.html#autoimmune-reaction",
+    "title": "Amyotrophic Lateral Sclerosis (ALS)",
+    "section": "4.4 Autoimmune reaction",
+    "text": "4.4 Autoimmune reaction\nSeveral studies have demonstrated an autoimmune reaction contributing to the etiology of ALS1.\n\nWolfgang et al., (1973) found serum factors that were toxic to anterior horn motor neurons in patients with ALS1\nSmith et al., (1992) identified antibodies to calcium channels in ALS patients1"
+  },
+  {
+    "objectID": "Alchemy Archive/Physiology/Neurotransmitters/glutamate.html#excitotoxicity-caused-neurodegeneration",
+    "href": "Alchemy Archive/Physiology/Neurotransmitters/glutamate.html#excitotoxicity-caused-neurodegeneration",
+    "title": "Glutamate",
+    "section": "2.1 Excitotoxicity caused neurodegeneration",
+    "text": "2.1 Excitotoxicity caused neurodegeneration\n\nExcess glutamate triggers a cascade of events leading to cell death1"
+  },
+  {
+    "objectID": "Alchemy Archive/Physiology/Neurotransmitters/glutamate.html#amyotrophic-lateral-sclerosis",
+    "href": "Alchemy Archive/Physiology/Neurotransmitters/glutamate.html#amyotrophic-lateral-sclerosis",
+    "title": "Glutamate",
+    "section": "3.1 Amyotrophic Lateral Sclerosis",
+    "text": "3.1 Amyotrophic Lateral Sclerosis\n\nAmyotrophic lateral sclerosis via excitotoxicity\n\nIncreased levels of glutamate in the cerebrospinal fluid (CSF), plasma, and in postmortem tissue of individuals with ALS have been reported1\nResearchers attribute a deficiency in excitatory amino acid transporter 2 (EAAT2) in the motor cortex and spinal cord of postmortem ALS tissue was reported and lends support to the theory of excitotoxicity causing neurodegeneration."
+  },
+  {
+    "objectID": "Alchemy Archive/Physiology/Transporters/EAAT2_excitatory_amino_acid_transporter_2.html",
+    "href": "Alchemy Archive/Physiology/Transporters/EAAT2_excitatory_amino_acid_transporter_2.html",
+    "title": "Excitatory amino acid transporter 2 (EAAT2)",
+    "section": "",
+    "text": "a specific glutamate transporter protein1\n\n\n1 Deficiency\n\nA deficiency in EAAT2 is correlated with excitoxicity and neurodegeneration1\n\nThis has been attributed as a factor that impacts ALS progression1\n\n\n\n\n\n\n\nReferences\n\n1. O’Sullivan SB, Schmitz TJ, Fulk GD, eds. Physical Rehabilitation. 7th ed. F.A. Davis Company; 2019."
+  },
+  {
+    "objectID": "Alchemy Archive/archive_index.html#transporters",
+    "href": "Alchemy Archive/archive_index.html#transporters",
+    "title": "Archives of Genetics & Genomics",
+    "section": "2.7 Transporters",
+    "text": "2.7 Transporters\n\nExcitatory amino acid transporter 2 (EAAT2)"
+  },
+  {
+    "objectID": "Alchemy Archive/archive_index.html#vitamins",
+    "href": "Alchemy Archive/archive_index.html#vitamins",
+    "title": "Archives of Genetics & Genomics",
+    "section": "2.8 Vitamins",
+    "text": "2.8 Vitamins"
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/Neuropathology/Amyotrophic Lateral Sclerosis/amyotrophic_lateral_sclerosis.html#neurotrophic-factor-deficiency",
+    "href": "Alchemy Archive/Neuro/Neuropathology/Amyotrophic Lateral Sclerosis/amyotrophic_lateral_sclerosis.html#neurotrophic-factor-deficiency",
+    "title": "Amyotrophic Lateral Sclerosis (ALS)",
+    "section": "4.5 Neurotrophic Factor Deficiency",
+    "text": "4.5 Neurotrophic Factor Deficiency\nSome researchers hypothesize that a deficiency in neurotrophic factors1. Studies on isolated motor neurons have demonstrated that neurotrophic factors are important in motor neuron survival1. Although there is a theoretical link, results from post-mortem studies have been inconclusive1."
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/Neuropathology/Amyotrophic Lateral Sclerosis/amyotrophic_lateral_sclerosis.html#other-theories",
+    "href": "Alchemy Archive/Neuro/Neuropathology/Amyotrophic Lateral Sclerosis/amyotrophic_lateral_sclerosis.html#other-theories",
+    "title": "Amyotrophic Lateral Sclerosis (ALS)",
+    "section": "4.6 Other Theories",
+    "text": "4.6 Other Theories\nOther theories have been devised to explain the onset of ALS, but these have limited or indirect evidence1.\n\nExogenous or environmental factors1\nApoptosis1\nViral infection1"
+  },
+  {
+    "objectID": "Alchemy Archive/Physiology/physiology_index.html#transporters",
+    "href": "Alchemy Archive/Physiology/physiology_index.html#transporters",
+    "title": "Physiology Index",
+    "section": "7 Transporters",
+    "text": "7 Transporters\n\nExcitatory amino acid transporter 2 (EAAT2)"
+  },
+  {
+    "objectID": "Alchemy Archive/Physiology/physiology_index.html#vitamins",
+    "href": "Alchemy Archive/Physiology/physiology_index.html#vitamins",
+    "title": "Physiology Index",
+    "section": "8 Vitamins",
+    "text": "8 Vitamins"
+  },
+  {
+    "objectID": "Alchemy Archive/Physiology/Neutrotrophic Factors/neurotrophic-hormone-deficiency-theory.html",
+    "href": "Alchemy Archive/Physiology/Neutrotrophic Factors/neurotrophic-hormone-deficiency-theory.html",
+    "title": "Neurotrophic Hormone Deficiency Theory",
+    "section": "",
+    "text": "Neurotrophic Hormone Deficiency Theory was originally proposed by Appel et al., (1981) and is a theory for a common underlying cause of ALS, Parkinsonism, and Alzheimer’s Disease."
+  },
+  {
+    "objectID": "Alchemy Archive/Physiology/Neutrotrophic Factors/neurotrophic-hormone-deficiency-theory.html#presynaptic-neuron-changes-target-tissue-alterations",
+    "href": "Alchemy Archive/Physiology/Neutrotrophic Factors/neurotrophic-hormone-deficiency-theory.html#presynaptic-neuron-changes-target-tissue-alterations",
+    "title": "Neurotrophic Hormone Deficiency Theory",
+    "section": "2.1 Presynaptic neuron changes + Target tissue alterations",
+    "text": "2.1 Presynaptic neuron changes + Target tissue alterations\n\nALS has changes in Betz cells, CN motor neurons, and anterior horn cells1\nPD includes changes in Substantia nigra neurons1\nAlzheimer’s disease includes changes in the cholinergic input from nucleus basalis and septal neurons to cortex and hippocampus1"
+  },
+  {
+    "objectID": "Alchemy Archive/Physiology/Neutrotrophic Factors/neurotrophic-hormone-deficiency-theory.html#secondary-heavy-metal-onset",
+    "href": "Alchemy Archive/Physiology/Neutrotrophic Factors/neurotrophic-hormone-deficiency-theory.html#secondary-heavy-metal-onset",
+    "title": "Neurotrophic Hormone Deficiency Theory",
+    "section": "2.2 Secondary Heavy Metal Onset",
+    "text": "2.2 Secondary Heavy Metal Onset\n\nALS: Lead1\nPD: Manganese1\nAlzheimer’s Disease: Aluminum (evidence is weak)1"
+  },
+  {
+    "objectID": "Alchemy Archive/Physiology/Neutrotrophic Factors/neurotrophic-hormone-deficiency-theory.html#disadvantages",
+    "href": "Alchemy Archive/Physiology/Neutrotrophic Factors/neurotrophic-hormone-deficiency-theory.html#disadvantages",
+    "title": "Neurotrophic Hormone Deficiency Theory",
+    "section": "3.2 Disadvantages",
+    "text": "3.2 Disadvantages\n\nIt should be noted that this theory does not provide specific insight as to the selective vulnerability of these neuronal networks1.\nThis theory does not offer meaningful and potentially useful therapeutic approahes to ALS, PD, or dementia/AD1."
+  },
+  {
+    "objectID": "Alchemy Archive/Physiology/Neutrotrophic Factors/neurotrophic-hormone-deficiency-theory.html#advantages-of-the-theory",
+    "href": "Alchemy Archive/Physiology/Neutrotrophic Factors/neurotrophic-hormone-deficiency-theory.html#advantages-of-the-theory",
+    "title": "Neurotrophic Hormone Deficiency Theory",
+    "section": "3.1 Advantages of the theory",
+    "text": "3.1 Advantages of the theory\n\nThis theory explains why external causes such as viral nor abnormal factors have yet to be discovered for these 3 diseases.\nThis theory helps to explain why there is a prevailing and consistent genetic incidence of ALS, PD, AD1\nAccelerated aging explains why disease incidence worsens with age1\nLastly, this theory explains why external toxic factors such as heavy metal toxicity, trauma, viruses, infections, and vascular disease may increase the progression of these diseases"
   }
 ]

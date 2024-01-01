@@ -1,0 +1,47 @@
+---
+title: Neurotrophic Hormone Deficiency Theory
+---
+
+
+# Overview
+{{< meta title >}} was originally proposed by Appel et al., (1981) and is a modification to the Accelerated Aging Theory. This theory suggests that accelerated aging to particular neural areas is due to the presence of certain extrinsic factors @appelUnifyingHypothesisCause1981. The areas with these extrinsic factors experiencing accelerated aging (Degeneration) and are the  common underlying cause of [ALS]({{< var ref-amyotrophic-lateral-sclerosis.path >}}), Parkinsonism, and Alzheimer's Disease.
+
+
+# Commonalities of ALS, PD, and AD 
+To understand this theory, one must first understand the overlapping concepts of each of these diseases. 
+
+- All 3 diseases have changes in presynpatic neuronal input with secondary alterations of the target tissue @appelUnifyingHypothesisCause1981
+- All 3 diseases sporadically occur later in life and the incidence increases with age @appelUnifyingHypothesisCause1981
+- All 3  diseases have a familial form that occurs in 5-10% of patients @appelUnifyingHypothesisCause1981
+- Heavy metal intoxication is a secondary cause of these diseases @appelUnifyingHypothesisCause1981
+
+
+## Presynaptic neuron changes + Target tissue alterations
+
+- [ALS]({{< var ref-amyotrophic-lateral-sclerosis.path >}}) has changes in Betz cells, CN motor neurons, and anterior horn cells @appelUnifyingHypothesisCause1981
+- PD includes changes in Substantia nigra neurons @appelUnifyingHypothesisCause1981
+- Alzheimer's disease includes changes in the cholinergic input from nucleus basalis and septal neurons to cortex and hippocampus @appelUnifyingHypothesisCause1981
+
+## Secondary Heavy Metal Onset 
+- ALS: Lead @appelUnifyingHypothesisCause1981
+- PD: Manganese @appelUnifyingHypothesisCause1981
+- Alzheimer's Disease: Aluminum (evidence is weak) @appelUnifyingHypothesisCause1981
+
+# Accelerated Aging Theory
+The Neurotrophic Hormone Deficiency Theory adds onto the accelerated aging theory.
+The accelerated aging theory refers to the idea that the relevant neural areas are experiencing accelerated aging, and therefore and degenerating faster @appelUnifyingHypothesisCause1981. 
+
+## Advantages of the theory
+
+1. This theory explains why external causes such as viral nor abnormal factors have yet to be discovered for these 3 diseases.
+1. This theory helps to explain why there is a prevailing and consistent genetic incidence of ALS, PD, AD @appelUnifyingHypothesisCause1981
+1. Accelerated aging explains why disease incidence worsens with age @appelUnifyingHypothesisCause1981
+1. Lastly, this theory explains why external toxic factors such as heavy metal toxicity, trauma, viruses, infections, and vascular disease may increase the progression of these diseases
+
+## Disadvantages
+
+- It should be noted that this theory does not provide specific insight as to the selective vulnerability of these neuronal networks @appelUnifyingHypothesisCause1981.
+- This theory does not offer meaningful and potentially useful therapeutic approahes to ALS, PD, or dementia/AD @appelUnifyingHypothesisCause1981.
+
+# Mechanism
+Neurotrophic Hormone Deficiency Theory adds to the accelerated aging idea by suggesting that the areas that undergo accelerated aging is based on intrinsic neuronal properties @appelUnifyingHypothesisCause1981.

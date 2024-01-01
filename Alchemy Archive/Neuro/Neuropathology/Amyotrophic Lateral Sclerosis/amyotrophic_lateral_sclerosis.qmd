@@ -78,15 +78,38 @@ Over 20 chromosomal regions and a number of identified genes have been linked to
 Etiology for ALS is unknown, apart from the few hereditary cases @osullivanPhysicalRehabilitation2019.
 Current theories attribute ALS to be the summation of multiple mechanisms including: [oxidative stress]({{< var ref-oxidative-stress.path >}}), aberrant RNA processing, exogenous neurotoxicity, excitotoxicity, impaired axonal transportation, axonal dysfunction, mitochondrial disruption, protein misfolding, protein aggregation, apoptosis, and lifestyle factors that contribute to neuronal degeneration @osullivanPhysicalRehabilitation2019.
 
-## Superoxide Dismutases
+## Disease-Causing mutations
 
-Superoxide dismutases are a group of enzymes that eliminate oxygen free radicals that, although products of normal cell metabolism, have been implicated in neurodegeneration. 
+### SOD1 Mutation
 
-There are three isoforms of SOD in humans: cytosolic copper-zinc superoxide dismutase (CuZnSOD), mitochondrial manganese superoxide dismutase (MnSOD), and extracellular superoxide dismutase (ECSOD). SOD1, a gene on chromosome 21, encodes CuZnSOD. Genetic studies of individuals with adult-onset FALS have determined that about 20% of these individuals have mutations in SOD1; however, the primary gene defect is unknown. When the SOD enzyme activity is decreased, as has been observed in individuals with FALS with SOD1 mutations, free radicals may accumulate causing damage
+Mutations in [SOD1 gene]({{< var ref-sod1.path >}}) impact [Superoxide dismutases (SOD)]({{< var ref-superoxide-dismutases-group.path >}}) function, resulting in a *hypothesized* accumulation of free radicals that can lead to neurodegeneration @osullivanPhysicalRehabilitation2019.
 
+:::{callout.note}
+Most mutations in FALS have shown only modest reductions in enzyme activity @osullivanPhysicalRehabilitation2019. Leading researchers to believe that a mutant SOD1 protein may have actively toxic properties @osullivanPhysicalRehabilitation2019.
+:::
 
+## Glutamate
 
+A deficiency in [EAAT2]({{< var ref-EAAT2-excitatory-amino-acid-transporter-2.path >}}) results in excess [glutamate]({{< var ref-glutamate.path >}}) in the motor cortex and spinal cord @osullivanPhysicalRehabilitation2019. Excess [glutamate]({{< var ref-glutamate.path >}}) has been theorized to result in neurodegeneration via excitotoxicity @osullivanPhysicalRehabilitation2019
 
+## Neurofilament clumping
+A histopathologic characteristic of ALS is neurofilament proteins clumping into spheroids @osullivanPhysicalRehabilitation2019. 
+
+## Autoimmune reaction
+Several studies have demonstrated an autoimmune reaction contributing to the etiology of ALS @osullivanPhysicalRehabilitation2019.
+
+- Wolfgang et al., (1973) found serum factors that were toxic to anterior horn motor neurons in patients with ALS @osullivanPhysicalRehabilitation2019
+- Smith et al., (1992) identified antibodies to calcium channels in ALS patients @osullivanPhysicalRehabilitation2019
+
+## Neurotrophic Factor Deficiency 
+Some researchers hypothesize that a deficiency in neurotrophic factors @osullivanPhysicalRehabilitation2019. Studies on isolated motor neurons have demonstrated that neurotrophic factors are important in motor neuron survival @osullivanPhysicalRehabilitation2019. Although there is a theoretical link, results from post-mortem studies have been inconclusive @osullivanPhysicalRehabilitation2019.
+
+## Other Theories
+Other theories have been devised to explain the onset of ALS, but these have limited or indirect evidence @osullivanPhysicalRehabilitation2019.
+
+- Exogenous or environmental factors @osullivanPhysicalRehabilitation2019
+- Apoptosis @osullivanPhysicalRehabilitation2019
+- Viral infection @osullivanPhysicalRehabilitation2019
 
 # References{-}
 :::{#refs}

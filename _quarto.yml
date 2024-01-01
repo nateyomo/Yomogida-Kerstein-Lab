@@ -3,12 +3,16 @@ project:
   output-dir: docs
 
 author:
-- name: 
+- id: NGY
+  number: 1
+  name: 
     given: Nathaniel 
     family:  Yomogida, SPT
     dropping-particle: Giovanni
   custom_title: SPT
-- name: 
+- id: CAK
+  number: 2
+  name: 
     given: Chloë
     family:  Kerstein, SPT
     dropping-particle: Anne
@@ -17,7 +21,7 @@ author:
 
 website:
   page-navigation: true
-  title: "The Archive"
+  title: "Yomogida-Kerstein BioLab"
   navbar:
     left:
       - href: index.qmd
@@ -27,6 +31,8 @@ website:
         text: Archive
       - href: guide.qmd
         text: Guide
+      - href: journal club index.qmd
+        text: Journal Club
 
 
 bibliography: Alchemy Archive/Bibliography/NGY CAK JVC Bibliography.bib
