@@ -57,17 +57,22 @@ title: "OIANs of all the muscles"
     - [Iliocostalis Thoracis]({{< var ref-iliocostalis-thoracis.path >}})
     - [Iliocostalis lumborum]({{< var ref-iliocostalis-lumborum.path >}})
 - Longissimus
-    - Longissimus Capitis
-    - Longissimus Cervicis
-    - Longissimus Thoracis
+    - [Longissimus Capitis]({{< var ref-longissimus-capitis.path >}})
+    - [Longissimus Cervicis]({{< var ref-longissimus-cervicis.path >}})
+    - [Longissimus Thoracis]({{< var ref-longissimus-thoracis.path >}})
 - Spinalis
-    - Spinalis Cervicis
-    - Spinalis Thoracis
+    - [Spinalis Cervicis]({{< var ref-spinalis-cervicis.path >}})
+    - [Spinalis Thoracis]({{< var ref-spinalis-thoracis.path >}})
 
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
 | [Iliocostalis cervicis]({{< var ref-iliocostalis-cervicis.path >}}) | {{< var ref-iliocostalis-cervicis.origin >}} | {{< var ref-iliocostalis-cervicis.insertion >}} | {{< var ref-iliocostalis-cervicis.nerve >}} | {{< var ref-iliocostalis-cervicis.action >}} |
 | [Iliocostalis thoracis]({{< var ref-iliocostalis-thoracis.path >}}) | {{< var ref-iliocostalis-thoracis.origin >}} | {{< var ref-iliocostalis-thoracis.insertion >}} | {{< var ref-iliocostalis-thoracis.nerve >}} | {{< var ref-iliocostalis-thoracis.action >}} |
 | [Iliocostalis lumborum]({{< var ref-iliocostalis-lumborum.path >}}) | {{< var ref-iliocostalis-lumborum.origin >}} | {{< var ref-iliocostalis-lumborum.insertion >}} | {{< var ref-iliocostalis-lumborum.nerve >}}  | {{< var ref-iliocostalis-lumborum.action >}} |
+| [Longissimus Capitis]({{< var ref-longissimus-capitis.path >}}) | {{< var ref-longissimus-capitis.origin >}} | {{< var ref-longissimus-capitis.insertion >}} | {{< var ref-longissimus-capitis.nerve >}} | {{< var ref-longissimus-capitis.action >}} |
+| [Longissimus Cervicis]({{< var ref-longissimus-cervicis.path >}}) | {{< var ref-longissimus-cervicis.origin >}} | {{< var ref-longissimus-cervicis.insertion >}} | {{< var ref-longissimus-cervicis.nerve >}} | {{< var ref-longissimus-cervicis.action >}} |
+| [Longissimus Thoracis]({{< var ref-longissimus-thoracis.path >}}) | {{< var ref-longissimus-thoracis.origin >}} | {{< var ref-longissimus-thoracis.insertion >}} | {{< var ref-longissimus-thoracis.nerve >}}  | {{< var ref-longissimus-thoracis.action >}} |
+| [Spinalis Cervicis]({{< var ref-spinalis-cervicis.path >}}) | {{< var ref-spinalis-cervicis.origin >}} | {{< var ref-spinalis-cervicis.insertion >}} | {{< var ref-spinalis-cervicis.nerve >}} | {{< var ref-spinalis-cervicis.action >}} |
+| [Spinalis Thoracis]({{< var ref-spinalis-thoracis.path >}}) | {{< var ref-spinalis-thoracis.origin >}} | {{< var ref-spinalis-thoracis.insertion >}} | {{< var ref-spinalis-thoracis.nerve >}} | {{< var ref-spinalis-thoracis.action >}} |
 
 : Erector Spinae OIAN {.striped .hover}

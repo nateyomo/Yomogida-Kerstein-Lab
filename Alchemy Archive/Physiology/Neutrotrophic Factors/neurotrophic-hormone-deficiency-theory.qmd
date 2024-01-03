@@ -44,4 +44,30 @@ The accelerated aging theory refers to the idea that the relevant neural areas a
 - This theory does not offer meaningful and potentially useful therapeutic approahes to ALS, PD, or dementia/AD @appelUnifyingHypothesisCause1981.
 
 # Mechanism
-Neurotrophic Hormone Deficiency Theory adds to the accelerated aging idea by suggesting that the areas that undergo accelerated aging is based on intrinsic neuronal properties @appelUnifyingHypothesisCause1981.
+Neurotrophic Hormone Deficiency Theory adds to the accelerated aging idea by suggesting that the areas that undergo accelerated aging is based on intrinsic neuronal properties @appelUnifyingHypothesisCause1981. 
+Specifically, this theory hypothesizes that that each disease (ALS, PD, AD), experiences degeneration due to diminished availability of a specific neurotrophic hormone @appelUnifyingHypothesisCause1981. 
+This neurotrophic hormone is normally released by the postsynaptic cell, taken up by the presynaptic terminal, and exerting its effect by retrograde transport up the presynaptic axon to the soma and nucleus @appelUnifyingHypothesisCause1981.
+
+## Practical examples of this theory
+
+### ALS
+In ALS, if the muscle cells fail to release appropriate or enough motor neurotrophic hormones then there will be a failure in the anterior horn cells @appelUnifyingHypothesisCause1981.
+Gradually, this will result in a gradual cessation of anterior horn cell function, resulting in cell death @appelUnifyingHypothesisCause1981.
+In the upp motor neurons, Betz cells would result from diminished release of neurotrophic hormone from the target neurons @appelUnifyingHypothesisCause1981.
+The target neurons of Betz cells cannot be defined further due to lack of knowledge on the subject @appelUnifyingHypothesisCause1981.
+
+### PD 
+
+- Striatal cells are unable to provide the requisite dopamine (neurotrophic hormone) @appelUnifyingHypothesisCause1981
+
+
+### Alzheimer's Disease
+
+- Hippocampus and cortical cells fail to supple the cholinergic neurotrophic hormone @appelUnifyingHypothesisCause1981
+
+
+# Implications
+
+If certain neural structures are degrading due to lack of a requisite neurotrophic hormone then restoring hormone levels may restore the failing presynpatic cells @appelUnifyingHypothesisCause1981.
+
+

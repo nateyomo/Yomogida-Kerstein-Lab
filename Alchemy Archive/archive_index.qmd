@@ -17,6 +17,9 @@ title: "The Archive"
 
 [Acute Low Back Pain](Pathologies-and-Rehab/Spine-Lumbar/acute_low_back_pain.qmd)
 
+# Pain Science
+{{< include Pain_science/pain_index.qmd >}}
+
 
 # Neuroscience
 {{< include Neuro/neuro_index.qmd >}}

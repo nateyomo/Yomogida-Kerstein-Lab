@@ -17,6 +17,15 @@ ref-CuZnSOD-copper-zinc-superoxide-dismutase:
 ref-copper: 
   path: "/Alchemy Archive/Physiology/Minerals/copper.qmd"
 
+## Muscle
+
+## Neurotransmitters
+
+## Neutrophic factors
+
+ref-neurotrophic-hormone-deficiency-theory: 
+  path: "/Alchemy Archive/Physiology/Neutrotrophic Factors/neurotrophic-hormone-deficiency-theory.qmd"
+
 ## Physiology of stress
 ref-oxidative-stress: 
   path: "/Alchemy Archive/Physiology/Physiology of stress/Oxidative_stress.qmd"
@@ -26,6 +35,37 @@ ref-EAAT2-excitatory-amino-acid-transporter-2:
   path: "/Alchemy Archive/Physiology/Transporters/EAAT2_excitatory_amino_acid_transporter_2.qmd"
 
 # Pain science
+## Pain terms and Taxonomies
+ref-acute-pain:
+  path: "/Alchemy Archive/Pain_science/Pain terms and Taxonomies/acute_pain.qmd"
+ref-chronic-pain:
+  path: "/Alchemy Archive/Pain_science/Pain terms and Taxonomies/chronic_pain.qmd"
+ref-cancer-pain:
+  path: "/Alchemy Archive/Pain_science/Pain terms and Taxonomies/cancer_pain.qmd"
+ref-recurrent-pain:
+  path: "/Alchemy Archive/Pain_science/Pain terms and Taxonomies/recurrent_pain.qmd"
+ref-transient-pain:
+  path: "/Alchemy Archive/Pain_science/Pain terms and Taxonomies/transient_pain.qmd"
+
+## CRPS 
+ref-CRPS: 
+  path: "/Alchemy Archive/Pain_science/Complex regional pain syndrome/CRPS_complex_regional_pain_syndrome.qmd"
+
+ref-CRPS-type1: 
+  path: "/Alchemy Archive/Pain_science/Complex regional pain syndrome/CRPS_Type1.qmd"
+
+ref-CRPS-type2:
+  path: "/Alchemy Archive/Pain_science/Complex regional pain syndrome/CRPS_Type2.qmd"
+
+## Sensitization
+ref-allodynia:
+  path: "/Alchemy Archive/Pain_science/Sensitization/allodynia.qmd"
+ref-analgesia:
+  path: "/Alchemy Archive/Pain_science/Sensitization/analgesia.qmd"
+ref-central-sensitization:
+  path: "/Alchemy Archive/Pain_science/Sensitization/central_sensitization.qmd"
+ref-hyperalgesia:
+  path: "/Alchemy Archive/Pain_science/Sensitization/hyperalgesia.qmd"
 
 ## PS - Interventions
 ref-graded-motor-imagery: 
@@ -147,6 +187,40 @@ ref-iliocostalis-lumborum:
   nerve: "[Spinal nn. ]({{< var ref-spinal-nerves.path >}}) C8-L1 (Post rami, lateral branches)"
   action: "**BIL:** Extends spine; **UNIL:** I/L spine lat-flexion"
 
+ref-longissimus-capitis:
+  path: "/Alchemy Archive/Anatomy/OIANs/longissimus.qmd"
+  origin: "T1-T3 (TP), C4-C7 (TP & articular process)"
+  insertion: "Temporal bone (Mastoid process)"
+  nerve: "[Spinal nn. ]({{< var ref-spinal-nerves.path >}}) C1-L5 (Post rami, lateral branches)"
+  action: "**BIL**: Extends head; **UNIL**: Flexes and I/L rotation"
+ref-longissimus-cervicis:
+  path: "/Alchemy Archive/Anatomy/OIANs/longissimus.qmd"
+  origin: "T1-T6 (TP)"
+  insertion: "C2-C5 (TP)"
+  nerve: "[Spinal nn. ]({{< var ref-spinal-nerves.path >}}) C1-L5 (Post rami, lateral branches)"
+  action: "**BIL**: Extends spine; **UNIL**: I/L SB"
+ref-longissimus-thoracis:
+  path: "/Alchemy Archive/Anatomy/OIANs/longissimus.qmd"
+  origin: "Sacrum; Iliac crest; Lumbar vertebrae (SP); Lower thoracic vertebrae (TP)"
+  insertion: "2nd-12th ribs; Thoracic & Lumbar vertebrae (TP)"
+  nerve: "[Spinal nn. ]({{< var ref-spinal-nerves.path >}}) C1-L5 (Post rami, lateral branches)"
+  action: "**BIL**: Extends spine; **UNIL**: I/L SB"
+
+ref-spinalis-cervicis:
+  path: "/Alchemy Archive/Anatomy/OIANs/spinalis.qmd"
+  origin: "C5-T2 (SP)"
+  insertion: "C2-C5 (SP)"
+  nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
+  action: "**BIL**: Extends C/S and T/S; **UNIL**: I/L SB cervical and thoracic spine"
+ref-spinalis-thoracis:
+  path: "/Alchemy Archive/Anatomy/OIANs/spinalis.qmd"
+  origin: "T10-L3 (SP, lat surface)"
+  insertion: "T2-T8 (SP, lat surface)"
+  nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
+  action: "**BIL**: Extends C/S and T/S; **UNIL**: I/L SB cervical and thoracic spine"
+
+
+
 
 ## Nerve
 ref-suboccipital-nerve: 
@@ -159,3 +233,5 @@ ref-spinal-nerves:
 
 ref-nuchal-ligament:
   path: "/Alchemy Archive/Anatomy/Ligaments/nuchal_ligament.qmd"
+
+# Symptoms

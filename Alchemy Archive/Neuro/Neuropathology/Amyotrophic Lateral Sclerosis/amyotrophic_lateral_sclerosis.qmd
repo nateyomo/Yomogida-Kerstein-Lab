@@ -102,7 +102,7 @@ Several studies have demonstrated an autoimmune reaction contributing to the eti
 - Smith et al., (1992) identified antibodies to calcium channels in ALS patients @osullivanPhysicalRehabilitation2019
 
 ## Neurotrophic Factor Deficiency 
-Some researchers hypothesize that a deficiency in neurotrophic factors @osullivanPhysicalRehabilitation2019. Studies on isolated motor neurons have demonstrated that neurotrophic factors are important in motor neuron survival @osullivanPhysicalRehabilitation2019. Although there is a theoretical link, results from post-mortem studies have been inconclusive @osullivanPhysicalRehabilitation2019.
+Some researchers hypothesize that a deficiency in neurotrophic factors:  ["Neurotrophic Hormone Deficiency Theory"]({{< var ref-neurotrophic-hormone-deficiency-theory.path >}}) @osullivanPhysicalRehabilitation2019. Studies on isolated motor neurons have demonstrated that neurotrophic factors are important in motor neuron survival @osullivanPhysicalRehabilitation2019. Although there is a theoretical link, results from post-mortem studies have been inconclusive @osullivanPhysicalRehabilitation2019.
 
 ## Other Theories
 Other theories have been devised to explain the onset of ALS, but these have limited or indirect evidence @osullivanPhysicalRehabilitation2019.

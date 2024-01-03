@@ -1,0 +1,47 @@
+---
+title: Spinalis Muscle
+---
+
+# OIAN
+![Schematic view of the intermediate intrinsic muscles of the back (Erector spinae) @gilroyAtlasAnatomy2020](/Alchemy Archive/Anatomy/OIANs/images/3.9a schematic intermediate back muscles gilroyAtlasAnatomy2020.png){#fig-schematicintermediatebackmm39gilroyAtlasAnatomy2020}
+
+![Intermediate intrinsic muscles of the back / Erector spinae (Posterior view) @gilroyAtlasAnatomy2020](/Alchemy Archive/Anatomy/OIANs/images/310b intermediate back muscles gilroyAtlasAnatomy2020.png){#fig-intermediatebackmm310gilroyAtlasAnatomy2020}
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Spinalis Cervicis]({{< var ref-spinalis-cervicis.path >}}) | {{< var ref-spinalis-cervicis.origin >}} | {{< var ref-spinalis-cervicis.insertion >}} | {{< var ref-spinalis-cervicis.nerve >}} | {{< var ref-spinalis-cervicis.action >}} |
+| [Spinalis Thoracis]({{< var ref-spinalis-thoracis.path >}}) | {{< var ref-spinalis-thoracis.origin >}} | {{< var ref-spinalis-thoracis.insertion >}} | {{< var ref-spinalis-thoracis.nerve >}} | {{< var ref-spinalis-thoracis.action >}} |
+
+: Spinalis Muscle OIAN {.striped .hover}
+
+
+# Spinalis Cervicis
+## Origin
+C5-T2 (SP) @gilroyAtlasAnatomy2020
+
+## Insertion 
+C2-C5 (SP) @gilroyAtlasAnatomy2020
+
+## Innervation
+[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}}) @gilroyAtlasAnatomy2020
+
+## Action
+
+- **BIL**: Extends C/S and T/S @gilroyAtlasAnatomy2020
+- **UNIL**: I/L SB cervical and thoracic spine @gilroyAtlasAnatomy2020
+
+
+# Spinalis Thoracis
+## Origin
+T10-L3 (SP, lat surface) @gilroyAtlasAnatomy2020
+
+## Insertion 
+T2-T8 (SP, lat surface) @gilroyAtlasAnatomy2020
+
+## Innervation
+[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}}) @gilroyAtlasAnatomy2020
+
+## Action
+
+- **BIL**: Extends C/S and T/S @gilroyAtlasAnatomy2020
+- **UNIL**: I/L SB cervical and thoracic spine @gilroyAtlasAnatomy2020

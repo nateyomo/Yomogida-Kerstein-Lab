@@ -17,11 +17,11 @@ title: Spinal Nerves
 
 - [Splenius Capitis (C1-C6)]({{< var ref-splenius-capitis.path >}}) @gilroyAtlasAnatomy2020
 - [Splenius cervicis (C1-C6)]({{< var ref-splenius-capitis.path >}}) @gilroyAtlasAnatomy2020
-- Iliocostalis (C8-L1)
+- Iliocostalis (C8-L1: Posterior rami, lateral br)
     - Iliocostalis Cervicis
     - Iliocostalis Thoracis
     - Iliocostalis lumborum
-- Longissimus (C1-L5)
+- Longissimus (C1-L5: posterior rami, lateral br)
     - Longissimus Capitis
     - Longissimus Cervicis
     - Longissimus Thoracis
