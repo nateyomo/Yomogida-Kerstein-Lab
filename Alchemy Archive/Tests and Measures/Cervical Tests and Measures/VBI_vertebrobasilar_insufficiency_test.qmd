@@ -1,0 +1,5 @@
+---
+title: Vertebrobasilar Insufficiency Test
+---
+
+A test to rule in [vertebrobasilar insufficiency (VBI)]({{< var ref-VBI-vertebrobasilar-insufficiency.path >}})

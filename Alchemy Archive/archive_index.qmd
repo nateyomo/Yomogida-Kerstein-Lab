@@ -27,3 +27,5 @@ title: "The Archive"
 # Genetics & Genomics
 {{< include "Genetics and genomics/genetics_and_genomics_index.qmd" >}}
 
+# Tests & Measures
+{{< include "/Alchemy Archive/Tests and Measures/tests_and_measures_index.qmd" >}}

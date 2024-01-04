@@ -1,6 +1,5 @@
 
 
-
 # genetics & Genomics
 ref-sod1: 
   path: "/Alchemy Archive/Genetics and genomics/SOD1_superoxide_dismutase_1.qmd"
@@ -71,6 +70,12 @@ ref-hyperalgesia:
 ref-graded-motor-imagery: 
   path: "/Alchemy Archive/Pain_science/interventions/graded_motor_imagery.qmd"
 
+# Pathologies & Rehab
+## Spine-cervical
+ref-VBI-vertebrobasilar-insufficiency:
+  path: "/Alchemy Archive/Pathologies-and-Rehab/Spine-Cervical/vertebrobasilar_insufficiency.qmd"
+
+
 # Neuroscience
 
 ## Neuropathology
@@ -86,30 +91,35 @@ ref-acute-low-back-pain:
 
 # Anatomy
 
+## Arteries 
+ref-basilar-artery:
+  path: "/Alchemy Archive/Anatomy/Arteries/basilar_artery.qmd"
+
 ## OIAN
 ref-oians: 
   path: /Alchemy Archive/Anatomy/OIAN.qmd
 
+### Muscles of the back 
 ref-rectus-capitis-posterior-major: 
-  path: /Alchemy Archive/Anatomy/OIANs/rectus_capitis_posterior_major.qmd
+  path: "/Alchemy Archive/Anatomy/OIANs/Muscles of the back/rectus_capitis_posterior_major.qmd"
   origin: "C2 (SP)"
   insertion: "Occipital bone (inferior nuchal line, middle third)"
   nerve: "[Suboccipital N.]({{< var ref-suboccipital-nerve.path >}})"
   action: "**BIL**: Extend head; **UNIL**: I/L head rotation"
 ref-rectus-capitis-posterior-minor: 
-  path: /Alchemy Archive/Anatomy/OIANs/rectus_capitis_posterior_minor.qmd
+  path: /Alchemy Archive/Anatomy/OIANs/Muscles of the back/rectus_capitis_posterior_minor.qmd
   origin: "C1 (posterior tubercle)"
   insertion: "Occipital bone (inferior nuchal line, inner 1/3)"
   nerve: "[Suboccipital N.]({{< var ref-suboccipital-nerve.path >}})"
   action: "**BIL**: Extend head; **UNIL**: I/L head rotation"
 ref-obliquus-capitis-superior: 
-  path: /Alchemy Archive/Anatomy/OIANs/obliquus_capitis_superior.qmd
+  path: /Alchemy Archive/Anatomy/OIANs/Muscles of the back/obliquus_capitis_superior.qmd
   origin: "C1 (TP)"
   insertion: "Occipital bone (inferior nuchal line, middle third"
   nerve: "[Suboccipital N.]({{< var ref-suboccipital-nerve.path >}})"
   action: "**BIL**: Extend head; **UNIL**: I/L SB, C/L rotation"
 ref-obliquus-capitis-inferior: 
-  path: /Alchemy Archive/Anatomy/OIANs/obliquus_capitis_inferior.qmd
+  path: /Alchemy Archive/Anatomy/OIANs/Muscles of the back/obliquus_capitis_inferior.qmd
   origin: "C2 (SP)"
   insertion: "C1 TP"
   nerve: "[Suboccipital N.]({{< var ref-suboccipital-nerve.path >}})"
@@ -117,44 +127,44 @@ ref-obliquus-capitis-inferior:
  **UNIL**: I/L rotation"
 
 ref-longus-capitis: 
-  path: /Alchemy Archive/Anatomy/OIANs/longus_capitis.qmd
+  path: /Alchemy Archive/Anatomy/OIANs/Muscles of the back/longus_capitis.qmd
   origin: C3-C6\ (TP, ant tubercles) 
   insertion: Occipital bone (basilar part) 
   nerve: Direct branches from cervical plexus (C1-C3) 
   action: "**BIL** flexes head; **UNIL** flexes and slight I/L rotation "
 ref-longus-colli-cervicis: 
-  path: /Alchemy Archive/Anatomy/OIANs/longus_colli_cervicis.qmd
+  path: /Alchemy Archive/Anatomy/OIANs/Muscles of the back/longus_colli_cervicis.qmd
   origin: "**Vertical part:** C5-T3 (ant side of vertebral body);\ **Sup-oblique** C3-C5 (TP, Ant tubercle) \ **Inf-Oblique:** T1-T3 (ant side of vertebral body)"
   insertion: "**Vertical part:** C2-C4 (ant sides of vertebral bodies);\ **Sup-oblique** C1 (TP, ant tubercle) \ **Inf-Oblique:** C5-C6 (TP, Ant tubercles)"
   nerve: "Direct branches from cervical plexus (C2-C6)"
   action: "**BIL**: Flex AO Joint; **UNIL**: Lat flex at AO joint"
 ref-rectus-capitis-anterior: 
-  path: /Alchemy Archive/Anatomy/OIANs/rectus_capitis_anterior.qmd
+  path: /Alchemy Archive/Anatomy/OIANs/Muscles of the back/rectus_capitis_anterior.qmd
   origin: "C1 (lateral mass)"
   insertion: "Occipital bone (basilar part)"
   nerve: "C1 Ant ramus"
   action: "**BIL**: flex AO Joint; **UNIL**: Lateral Flexion of AO joint"
 ref-rectus-capitis-lateralis: 
-  path: /Alchemy Archive/Anatomy/OIANs/rectus_capitis_lateralis.qmd
+  path: /Alchemy Archive/Anatomy/OIANs/Muscles of the back/rectus_capitis_lateralis.qmd
   origin: "C1 (TP)"
   insertion: "Occipital bone (basilar part, lateral to occipital condyles)"
   nerve: "C1 Anterior Ramus"
   action: "**BIL**: flex AO Joint; **UNIL**: Lateral Flexion of AO joint"
 
 ref-serratus-posterior-superior: 
-  path: /Alchemy Archive/Anatomy/OIANs/serratus_posterior_superior.qmd
+  path: /Alchemy Archive/Anatomy/OIANs/Muscles of the back/serratus_posterior_superior.qmd
   origin: "[Nuchal ligament]({{< var ref-nuchal-ligament.path >}}), C7-T3 SP"
   insertion: "2-4th ribs (sup border)"
   nerve: "[Spinal nn. ]({{< var ref-spinal-nerves.path >}}) T2-T5 (Ant ramus)"
   action: "Elevates ribs"
 ref-serratus-posterior-inferior: 
-  path: /Alchemy Archive/Anatomy/OIANs/serratus_posterior_inferior.qmd
+  path: /Alchemy Archive/Anatomy/OIANs/Muscles of the back/serratus_posterior_inferior.qmd
   origin: "T11-L2 (SP)"
   insertion: "8-12th ribs (inferior borders near angles)"
   nerve: "[Spinal nn.]({{< var ref-spinal-nerves.path >}}) T9-T12 (Anterior rami)"
   action: "Depresses ribs"
 ref-splenius-capitis: 
-  path: /Alchemy Archive/Anatomy/OIANs/splenius_capitis.qmd
+  path: /Alchemy Archive/Anatomy/OIANs/Muscles of the back/splenius_capitis.qmd
   origin: "[Nuchal ligament]({{< var ref-nuchal-ligament.path >}}),
 - C7-T3/T4 SP"
   insertion: "Lateral 1/3 nuchal line (occipital bone),
@@ -162,63 +172,114 @@ ref-splenius-capitis:
   nerve: "[spinal nn.]({{< var ref-spinal-nerves.path >}}) C1-C6 (Post rami, lateral branches)"
   action: "**BIL:** Extends C/S and head; **UNIL:** I/L head SB and Rotation "
 ref-splenius-cervicis: 
-  path: /Alchemy Archive/Anatomy/OIANs/splenius_cervicis.qmd
+  path: /Alchemy Archive/Anatomy/OIANs/Muscles of the back/splenius_cervicis.qmd
   origin: "T3-T6/T7 (SP)"
   insertion: "C1–C3/4 (TP)"
   nerve: "[Spinal nn. C1-C6]({{< var ref-spinal-nerves.path >}}) (Post rami, lateral branches)"
   action: "**BIL:** Extends C/S and head; **UNIL:** I/L head SB and Rotation"
 
 ref-iliocostalis-cervicis:
-  path: /Alchemy Archive/Anatomy/OIANs/iliocostalis.qmd
+  path: /Alchemy Archive/Anatomy/OIANs/Muscles of the back/iliocostalis.qmd
   origin: "3rd-7th ribs "
   insertion: "C4-C6 TP"
   nerve: "[Spinal nn. ]({{< var ref-spinal-nerves.path >}}) C8-L1 (Post rami, lateral branches)"
   action: "**BIL:** Extends spine; **UNIL:** I/L spine lat-flexion"
 ref-iliocostalis-thoracis:
-  path: /Alchemy Archive/Anatomy/OIANs/iliocostalis.qmd
+  path: /Alchemy Archive/Anatomy/OIANs/Muscles of the back/iliocostalis.qmd
   origin: "7-12th ribs"
   insertion: "1st-6th ribs"
   nerve: "[Spinal nn.]({{< var ref-spinal-nerves.path >}}) C8-L1 (Post rami, lateral branches)"
   action: "**BIL:** Extends spine; **UNIL:** I/L spine lat-flexion"
 ref-iliocostalis-lumborum:
-  path: /Alchemy Archive/Anatomy/OIANs/iliocostalis.qmd
+  path: /Alchemy Archive/Anatomy/OIANs/Muscles of the back/iliocostalis.qmd
   origin: "Sacrum, iliac crest, lumbar vertebrae SP; lower thoracic vertebrae TP"
   insertion: "6-12th ribs, thoracolumbar fascia (posterior layer), upper lumbar vertebrae (TP)"
   nerve: "[Spinal nn. ]({{< var ref-spinal-nerves.path >}}) C8-L1 (Post rami, lateral branches)"
   action: "**BIL:** Extends spine; **UNIL:** I/L spine lat-flexion"
 
 ref-longissimus-capitis:
-  path: "/Alchemy Archive/Anatomy/OIANs/longissimus.qmd"
+  path: "/Alchemy Archive/Anatomy/OIANs/Muscles of the back/longissimus.qmd"
   origin: "T1-T3 (TP), C4-C7 (TP & articular process)"
   insertion: "Temporal bone (Mastoid process)"
   nerve: "[Spinal nn. ]({{< var ref-spinal-nerves.path >}}) C1-L5 (Post rami, lateral branches)"
   action: "**BIL**: Extends head; **UNIL**: Flexes and I/L rotation"
 ref-longissimus-cervicis:
-  path: "/Alchemy Archive/Anatomy/OIANs/longissimus.qmd"
+  path: "/Alchemy Archive/Anatomy/OIANs/Muscles of the back/longissimus.qmd"
   origin: "T1-T6 (TP)"
   insertion: "C2-C5 (TP)"
   nerve: "[Spinal nn. ]({{< var ref-spinal-nerves.path >}}) C1-L5 (Post rami, lateral branches)"
   action: "**BIL**: Extends spine; **UNIL**: I/L SB"
 ref-longissimus-thoracis:
-  path: "/Alchemy Archive/Anatomy/OIANs/longissimus.qmd"
+  path: "/Alchemy Archive/Anatomy/OIANs/Muscles of the back/longissimus.qmd"
   origin: "Sacrum; Iliac crest; Lumbar vertebrae (SP); Lower thoracic vertebrae (TP)"
   insertion: "2nd-12th ribs; Thoracic & Lumbar vertebrae (TP)"
   nerve: "[Spinal nn. ]({{< var ref-spinal-nerves.path >}}) C1-L5 (Post rami, lateral branches)"
   action: "**BIL**: Extends spine; **UNIL**: I/L SB"
 
 ref-spinalis-cervicis:
-  path: "/Alchemy Archive/Anatomy/OIANs/spinalis.qmd"
+  path: "/Alchemy Archive/Anatomy/OIANs/Muscles of the back/spinalis.qmd"
   origin: "C5-T2 (SP)"
   insertion: "C2-C5 (SP)"
   nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
   action: "**BIL**: Extends C/S and T/S; **UNIL**: I/L SB cervical and thoracic spine"
 ref-spinalis-thoracis:
-  path: "/Alchemy Archive/Anatomy/OIANs/spinalis.qmd"
+  path: "/Alchemy Archive/Anatomy/OIANs/Muscles of the back/spinalis.qmd"
   origin: "T10-L3 (SP, lat surface)"
   insertion: "T2-T8 (SP, lat surface)"
   nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
   action: "**BIL**: Extends C/S and T/S; **UNIL**: I/L SB cervical and thoracic spine"
 
+ref-rotatores-breves:
+  path: "/Alchemy Archive/Anatomy/OIANs/Muscles of the back/rotatores.qmd"
+  origin: "T1-T12 TP of lower vertebrae"
+  insertion: "T1-T12: SP of adjacent vertebrae"
+  nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
+  action: "**BIL**: Extends T/S; **UNIL**: C/L Rotation of T/S"
+ref-rotatores-longi:
+  path: "/Alchemy Archive/Anatomy/OIANs/Muscles of the back/rotatores.qmd"
+  origin: "T1-T12 TP of lower vertebrae"
+  insertion: "T1-T12: SP of vertebrae 2 above (it skips a vertebrae)"
+  nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
+  action: "**BIL**: Extends T/S; **UNIL**: C/L Rotation of T/S"
+
+ref-multifidi:
+  path: "/Alchemy Archive/Anatomy/OIANs/Muscles of the back/multifidi.qmd"
+  origin: "Sacrum, ilium, mamillary process of L1-L5, T1-T4 (TP and Articular process), C4-C7"
+  insertion: "Superomedially to SP (skipping 2-4 vertebrae)"
+  nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
+  action: "**BIL**: Extends extends spine; **UNIL**: I/L SB and C/L Rotation"
+
+ref-semispinalis-capitis:
+  path: "/Alchemy Archive/Anatomy/OIANs/Muscles of the back/semispinalis.qmd"
+  origin: "C4-T7 (TP and Articular process)"
+  insertion: "Occipital bone (between superior and inferior nuchal lines)"
+  nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
+  action: "**BIL**: Extends thoracic and cervical spines and head (stabilizes craniovertebral jt); **UNIL**: I/L SB of head, cervical, and thoracic spine; C/L Rotation"
+ref-semispinalis-cervicis:
+  path: "/Alchemy Archive/Anatomy/OIANs/Muscles of the back/semispinalis.qmd"
+  origin: "T1-T6 (TP)"
+  insertion: "C2-C5 (SP)"
+  nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
+  action: "**BIL**: Extends thoracic and cervical spines and head (stabilizes craniovertebral jt); **UNIL**: I/L SB of head, cervical, and thoracic spine; C/L Rotation"
+ref-semispinalis-thoracis:
+  path: "/Alchemy Archive/Anatomy/OIANs/Muscles of the back/semispinalis.qmd"
+  origin: "T6-T12 (TP)"
+  insertion: "C6-T4 (SP)"
+  nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
+  action: "**BIL**: Extends thoracic and cervical spines and head (stabilizes craniovertebral jt); **UNIL**: I/L SB of head, cervical, and thoracic spine; C/L Rotation"
+
+ref-interspinales-cervicis:
+  path: "/Alchemy Archive/Anatomy/OIANs/Muscles of the back/interspinales.qmd"
+  origin: "C1-C7: SP of inferiorly adjacent vertebrae"
+  insertion: "C1-C7: SP of superiorly adjacent vertebrae"
+  nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
+  action: "Extends cervical and Lumbar spines"
+ref-interspinales-lumbora:
+  path: "/Alchemy Archive/Anatomy/OIANs/Muscles of the back/interspinales.qmd"
+  origin: "L1-L5: SP of inferiorly adjacent vertebrae"
+  insertion: "L1-L5: SP of superiorly adjacent vertebrae"
+  nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
+  action: "**BIL**: Stabilizes and extends cervical and lumbar vertebrae; **UNIL**: I/L SB cervical and lumbar spines"
 
 
 
@@ -235,3 +296,12 @@ ref-nuchal-ligament:
   path: "/Alchemy Archive/Anatomy/Ligaments/nuchal_ligament.qmd"
 
 # Symptoms
+
+# Tests & Measures
+
+## Cervical T&M
+
+ref-VBI-vertebrobasilar-insufficiency-test:
+  path: "/Alchemy Archive/Tests and Measures/Cervical Tests and Measures/VBI_vertebrobasilar_insufficiency_test.qmd"
+  sensitivity: ""
+  specificity: ""

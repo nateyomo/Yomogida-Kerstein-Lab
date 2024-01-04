@@ -10,7 +10,7 @@ title: Neurotrophic Hormone Deficiency Theory
 # Commonalities of ALS, PD, and AD 
 To understand this theory, one must first understand the overlapping concepts of each of these diseases. 
 
-- All 3 diseases have changes in presynpatic neuronal input with secondary alterations of the target tissue @appelUnifyingHypothesisCause1981
+- All 3 diseases have changes in presynaptic neuronal input with secondary alterations of the target tissue @appelUnifyingHypothesisCause1981
 - All 3 diseases sporadically occur later in life and the incidence increases with age @appelUnifyingHypothesisCause1981
 - All 3  diseases have a familial form that occurs in 5-10% of patients @appelUnifyingHypothesisCause1981
 - Heavy metal intoxication is a secondary cause of these diseases @appelUnifyingHypothesisCause1981

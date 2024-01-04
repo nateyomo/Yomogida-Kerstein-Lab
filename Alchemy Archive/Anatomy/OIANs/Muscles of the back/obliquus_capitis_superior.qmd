@@ -18,7 +18,7 @@ title: Obliquus capitis Superior muscles
 C1 (TP) @gilroyAtlasAnatomy2020
 
 ## Insertion
-Occipital bone (inferior nuchal line, middle third; above [RCPM]({{< var ref-rectus-capitis-posterior-major >}})) @gilroyAtlasAnatomy2020
+Occipital bone (inferior nuchal line, middle third; above [RCPM]({{< var ref-rectus-capitis-posterior-major.path >}})) @gilroyAtlasAnatomy2020
 
 ## Innervation
 [Suboccipital N.]({{< var ref-suboccipital-nerve.path >}}) AKA Posterior ramus of C1 @gilroyAtlasAnatomy2020
