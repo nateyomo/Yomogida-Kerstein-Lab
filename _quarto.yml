@@ -21,7 +21,7 @@ author:
 
 website:
   page-navigation: true
-  title: "Yomogida-Kerstein BioLab"
+  title: "Yomogida & Kerstein Lab"
   navbar:
     left:
       - href: index.qmd

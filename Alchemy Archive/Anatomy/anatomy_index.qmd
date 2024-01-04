@@ -2,6 +2,9 @@
 title: Anatomy Index
 ---
 
+## Arteries 
+- [Basilar Artery]({{< var ref-basilar-artery.path >}})
+
 ## OIANs
 [OIANs]({{< var ref-oians.path >}})
 

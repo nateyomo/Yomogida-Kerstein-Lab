@@ -3,6 +3,30 @@ title: "Index of Neuro archives"
 
 ---
 
+## Neuroanatomy
+
+### Basal Ganglia 
+[Basal ganglia (Overview)]({{< var ref-basal-ganglia.path >}})
+
+- [Striatum]({{< var ref-striatum.path >}}) (Caudate nucleus & Putamen)
+- [Lentiform Nucleus]({{< var ref-lentiform-nucleus.path >}}) (Putamen + Globus pallidus)
+- [Caudate Nucleus]({{< var ref-caudate-nucleus.path >}})
+- [Putamen]({{< var ref-putamen.path >}})
+- [Globus pallidus]({{< var ref-globus-pallidus.path >}})
+- Subthalamic nucleus (ST Nuclues)
+- Substantia Nigra
+
+Basal Ganglia Nuclei Types:
+
+- Input Nuclei
+- Output Nuclei 
+- Intrinsic Nuclei
+
+Basal ganglia pathways:
+
+- Indirect pathway 
+- Direct Pathway 
+- Nigrostriatal Pathway 
 
 
 ## Neuropathology

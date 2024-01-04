@@ -78,6 +78,23 @@ ref-VBI-vertebrobasilar-insufficiency:
 
 # Neuroscience
 
+## Neuroanatomy
+
+### Basal ganglia
+
+ref-basal-ganglia:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Basal Ganglia/basal_ganglia.qmd"
+ref-lentiform-nucleus:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Basal Ganglia/lentiform_nucleus.qmd"
+ref-striatum:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Basal Ganglia/striatum.qmd"
+ref-putamen:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Basal Ganglia/putamen.qmd"
+ref-caudate-nucleus:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Basal Ganglia/caudate_nucleus.qmd"
+ref-globus-pallidus:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Basal Ganglia/globus_pallidus.qmd"
+
 ## Neuropathology
 ref-amyotrophic-lateral-sclerosis: 
   path: "/Alchemy Archive/Neuro/Neuropathology/Amyotrophic Lateral Sclerosis/amyotrophic_lateral_sclerosis.qmd"

@@ -1,0 +1,11 @@
+---
+title: Striatum 
+---
+
+Primary input center of the basal nuclei
+
+Composed of the two input nuclei of the BG:
+
+- [Caudate Nucleus]({{< var ref-caudate-nucleus.path >}})
+- [Putamen]({{< var ref-putamen.path >}})
+

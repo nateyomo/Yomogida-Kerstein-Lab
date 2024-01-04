@@ -1,0 +1,55 @@
+---
+title: Basal ganglia
+---
+
+# Types of Nuclei
+3 type of nuclei: Input / Output / Intrinsic nuclei
+
+Input nuclei:
+
+- Receives info from cortex, thalamus
+- Examples: striatum: Caudate Nucleus & Putamen
+
+Output Nuclei:
+
+- Sends BG info to the Thalamus
+- E.G.: Globus Pallidus internus & Substantia Nigra (pars reticulata)
+
+Intrinsic Nuclei:
+
+- Connect input & Output nuclei
+- E.G.: Globus Pallidus externus, ST nucleus, Substantia Nigra (Pars compacta)
+
+
+# Principal nuclei
+There are 5 principal basal ganglia nuclei.
+
+1. Caudate Nucleus
+1. Putamen
+1. Globus Pallidus
+1. Subthalamic Nucleus
+1. Substantia Nigra (in midbrain)
+
+Lentiform nucleus: Putamen + Globus Pallidus
+striatum: Caudate Nucleus + Putamen
+ 
+# Function 
+
+- Through extensive motor & sensory cortical connections > Influences executive motor function (motor hierarchy)
+    - BG decide whether or not to execute movement
+    - Streamlines the movement
+- Organize all cortical activity into one behavioral output
+ 
+## Practical function:
+
+- Learning & Cognition:
+- Integration of motor output
+- Regulates emotional aspects of Behavior
+ 
+## Direct pathway / Indirect:
+
+- Direct = facilitates goal-oriented movement
+- Indirect = Suppress all competing movement
+- Result = Measured and coordinated motor output
+
+

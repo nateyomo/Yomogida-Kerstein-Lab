@@ -67,7 +67,7 @@
     "href": "Alchemy Archive/archive_index.html",
     "title": "Index of Tests & Measures",
     "section": "",
-    "text": "OIANs\n\n\n\nSuboccipital Nerve\nSpinal nn."
+    "text": "Basilar Artery\n\n\n\n\nOIANs\n\n\n\nSuboccipital Nerve\nSpinal nn."
   },
   {
     "objectID": "Alchemy Archive/archive_index.html#oians",
@@ -122,8 +122,8 @@
     "objectID": "Alchemy Archive/archive_index.html#neuropathology",
     "href": "Alchemy Archive/archive_index.html#neuropathology",
     "title": "Index of Tests & Measures",
-    "section": "5.1 Neuropathology",
-    "text": "5.1 Neuropathology\n\n5.1.1 PNS Pathologies\n\n\n5.1.2 CNS Pathologies\nAmyotrophic Lateral Sclerosis (ALS)"
+    "section": "5.2 Neuropathology",
+    "text": "5.2 Neuropathology\n\n5.2.1 PNS Pathologies\n\n\n5.2.2 CNS Pathologies\nAmyotrophic Lateral Sclerosis (ALS)"
   },
   {
     "objectID": "Alchemy Archive/archive_index.html#genes",
@@ -592,21 +592,21 @@
     "href": "Alchemy Archive/Anatomy/anatomy_index.html",
     "title": "Anatomy Index",
     "section": "",
-    "text": "OIANs"
+    "text": "Basilar Artery"
   },
   {
     "objectID": "Alchemy Archive/Anatomy/anatomy_index.html#oians",
     "href": "Alchemy Archive/Anatomy/anatomy_index.html#oians",
     "title": "Anatomy Index",
-    "section": "",
-    "text": "OIANs"
+    "section": "2 OIANs",
+    "text": "2 OIANs\nOIANs"
   },
   {
     "objectID": "Alchemy Archive/Anatomy/anatomy_index.html#nerves",
     "href": "Alchemy Archive/Anatomy/anatomy_index.html#nerves",
     "title": "Anatomy Index",
-    "section": "2 Nerves",
-    "text": "2 Nerves\nSuboccipital Nerve\nSpinal nn."
+    "section": "3 Nerves",
+    "text": "3 Nerves\nSuboccipital Nerve\nSpinal nn."
   },
   {
     "objectID": "Alchemy Archive/Pain_science/interventions/graded_motor_imagery.html",
@@ -991,14 +991,14 @@
     "href": "Alchemy Archive/Neuro/neuro_index.html",
     "title": "Index of Neuro archives",
     "section": "",
-    "text": "Amyotrophic Lateral Sclerosis (ALS)"
+    "text": "Basal ganglia (Overview)\n\nStriatum (Caudate nucleus & Putamen)\nLentiform Nucleus (Putamen + Globus pallidus)\nCaudate Nucleus\nPutamen\nGlobus pallidus\nSubthalamic nucleus (ST Nuclues)\nSubstantia Nigra\n\nBasal Ganglia Nuclei Types:\n\nInput Nuclei\nOutput Nuclei\nIntrinsic Nuclei\n\nBasal ganglia pathways:\n\nIndirect pathway\nDirect Pathway\nNigrostriatal Pathway"
   },
   {
     "objectID": "Alchemy Archive/Neuro/neuro_index.html#neuropathology",
     "href": "Alchemy Archive/Neuro/neuro_index.html#neuropathology",
     "title": "Index of Neuro archives",
-    "section": "",
-    "text": "Amyotrophic Lateral Sclerosis (ALS)"
+    "section": "2 Neuropathology",
+    "text": "2 Neuropathology\n\n2.1 PNS Pathologies\n\n\n2.2 CNS Pathologies\nAmyotrophic Lateral Sclerosis (ALS)"
   },
   {
     "objectID": "Alchemy Archive/Genetics and genomics/SOD1_superoxide_dismutase_1.html",
@@ -1024,7 +1024,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "The Yomogida-Kerstein BioLab",
+    "title": "The Yomogida & Kerstein Lab",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
@@ -2812,5 +2812,138 @@
     "title": "Vertebrobasilar Insufficiency",
     "section": "2.3 Headache",
     "text": "2.3 Headache\nA headache due to VBI commonly manifests with a gradual onset2. The headache generally has a unilateral occipital or frontotemporal pattern1,2.\nThe headache is typically described as gradual onset that is mostly unilateral and involves the frontotemporal region"
+  },
+  {
+    "objectID": "Alchemy Archive/Tests and Measures/Cervical Tests and Measures/VBI_vertebrobasilar_insufficiency_test.html#positive-result",
+    "href": "Alchemy Archive/Tests and Measures/Cervical Tests and Measures/VBI_vertebrobasilar_insufficiency_test.html#positive-result",
+    "title": "Vertebrobasilar Insufficiency Test",
+    "section": "2.1 Positive result",
+    "text": "2.1 Positive result\nPatients who demonstrate symptoms associated with VBI should be referred to the PCP for further investigation1.\nIn theory, a clinician should even refer patients with a negative subjective history and negative findings with the initial test for additional passive physical examination (stress tests) of the vertebrobasilar system to further assess the potential for VBI, but this is not always practical1."
+  },
+  {
+    "objectID": "Alchemy Archive/Tests and Measures/Cervical Tests and Measures/VBI_vertebrobasilar_insufficiency_test.html#what-if-i-still-want-to-perform-a-cervical-mobilization",
+    "href": "Alchemy Archive/Tests and Measures/Cervical Tests and Measures/VBI_vertebrobasilar_insufficiency_test.html#what-if-i-still-want-to-perform-a-cervical-mobilization",
+    "title": "Vertebrobasilar Insufficiency Test",
+    "section": "3.2 What if I still want to perform a cervical mobilization?",
+    "text": "3.2 What if I still want to perform a cervical mobilization?\nFirst, you should opt for a grade I-IV mob rather than a grade V thrust technique1. One should follow the Australian Physiotherapy Association’s Protocol for Premanipulative Testing of the Cervical Spine (although this cannot be viewed as a prescriptive guideline)1.\n\nAustralian Physiotherapy Association’s Protocol recommends that the clinician should maintain the immediate premobilization position for &gt;=10sec to test the patency of the vertebrobasilar system1.\nClinical testing for VBI should stop once (+) signs or symptoms are noted1.\nThroughout the tests, one should observe for possible nystagmus or changes in pupil size and should have the patient count backward to assess his or her quality of speech1.\nThe patient should be instructed to report any changes in symptoms (even seemingly insignificant changes)1.\n\n\n\n\n\n\n\nCaution\n\n\n\nThe sensitivity of these premanipulative protocols are unclear1. Multiple studies have found these protocols to have a poor prediction values1."
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/Arteries/basilar_artery.html",
+    "href": "Alchemy Archive/Anatomy/Arteries/basilar_artery.html",
+    "title": "Basilar Artery",
+    "section": "",
+    "text": "1 Associated pathologies\nVertebrobasilar insufficiency"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/anatomy_index.html#arteries",
+    "href": "Alchemy Archive/Anatomy/anatomy_index.html#arteries",
+    "title": "Anatomy Index",
+    "section": "",
+    "text": "Basilar Artery"
+  },
+  {
+    "objectID": "Alchemy Archive/Pathologies-and-Rehab/Spine-Cervical/vertebrobasilar_insufficiency.html#other-symptoms",
+    "href": "Alchemy Archive/Pathologies-and-Rehab/Spine-Cervical/vertebrobasilar_insufficiency.html#other-symptoms",
+    "title": "Vertebrobasilar Insufficiency",
+    "section": "2.4 Other Symptoms",
+    "text": "2.4 Other Symptoms\nThese signs and symptoms have been linked directly or indirectly to VBI:\n\nWallenberg, horner, and similar syndromes1\nBilateral or Quadrilateral parasthesia1\nHemiparasthesia1\nScotoma (a permanent or temporary area of depressed or absent vision)1\nPeriodic loss of consciousness (LOC)1\nLip/perioral anesthesia1\nHemifacial paralysis/anesthesia1\nHyperreflexia1\n(+) Babinski, Hoffman, or Oppenheim signs1\nClonus1\nGait ataxia1\nDysphasia1"
+  },
+  {
+    "objectID": "Alchemy Archive/Pathologies-and-Rehab/Spine-Cervical/vertebrobasilar_insufficiency.html#physical-tests",
+    "href": "Alchemy Archive/Pathologies-and-Rehab/Spine-Cervical/vertebrobasilar_insufficiency.html#physical-tests",
+    "title": "Vertebrobasilar Insufficiency",
+    "section": "3.1 Physical tests",
+    "text": "3.1 Physical tests\nVertebrobasilar Insufficiency Test"
+  },
+  {
+    "objectID": "Alchemy Archive/Tests and Measures/Cervical Tests and Measures/VBI_vertebrobasilar_insufficiency_test.html#grading",
+    "href": "Alchemy Archive/Tests and Measures/Cervical Tests and Measures/VBI_vertebrobasilar_insufficiency_test.html#grading",
+    "title": "Vertebrobasilar Insufficiency Test",
+    "section": "2.2 Grading",
+    "text": "2.2 Grading\nA positive VA test is one in which signs or symptoms change1. Even subtle changes such as a significant delay in verbal responses to questions of orientation with some inconsistency of answers, changes in pupil size, and nystagmus are all considered positive VBI tests1."
+  },
+  {
+    "objectID": "Alchemy Archive/Tests and Measures/Cervical Tests and Measures/VBI_vertebrobasilar_insufficiency_test.html#factors-to-consider-during-testing",
+    "href": "Alchemy Archive/Tests and Measures/Cervical Tests and Measures/VBI_vertebrobasilar_insufficiency_test.html#factors-to-consider-during-testing",
+    "title": "Vertebrobasilar Insufficiency Test",
+    "section": "2.1 Factors to consider during testing",
+    "text": "2.1 Factors to consider during testing\n\nInherent redundancy of blood supply—collateral circulation1\nMorphology of the vertebral artery at the atlantoaxial level\nBiomechanics of upper cervical spine—concurrent contralateral side bending with cervical rotation1\nThe nonvascular causes of dizziness (cervicogenic dizziness and benign paroxysmal positional vertigo)1\nThe amount of cervical rotation to be used1\nMedical history (transient ischemic attack, cerebrovascular accident, cardiac risk factors, cervical spondylosis)1\nPsychometric properties of vertebral artery testing (0% sensitivity)1\nForce to be applied 9. Potential risk of injury with manipulation (thrust, rotational techniques vs. nonthrust, nonrotational techniques)1"
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/Neuroanatomy/Basal Ganglia/basal_ganglia.html",
+    "href": "Alchemy Archive/Neuro/Neuroanatomy/Basal Ganglia/basal_ganglia.html",
+    "title": "Basal ganglia",
+    "section": "",
+    "text": "3 type of nuclei: Input / Output / Intrinsic nuclei\nInput nuclei:\n\nReceives info from cortex, thalamus\nExamples: striatum: Caudate Nucleus & Putamen\n\nOutput Nuclei:\n\nSends BG info to the Thalamus\nE.G.: Globus Pallidus internus & Substantia Nigra (pars reticulata)\n\nIntrinsic Nuclei:\n\nConnect input & Output nuclei\nE.G.: Globus Pallidus externus, ST nucleus, Substantia Nigra (Pars compacta)"
+  },
+  {
+    "objectID": "Alchemy Archive/Tests and Measures/Cervical Tests and Measures/VBI_vertebrobasilar_insufficiency_test.html#what-if-i-am-uncertain-if-my-patient-has-vbi",
+    "href": "Alchemy Archive/Tests and Measures/Cervical Tests and Measures/VBI_vertebrobasilar_insufficiency_test.html#what-if-i-am-uncertain-if-my-patient-has-vbi",
+    "title": "Vertebrobasilar Insufficiency Test",
+    "section": "3.1 What if I am uncertain if my patient has VBI",
+    "text": "3.1 What if I am uncertain if my patient has VBI\nIf the VBI test is negative and the patient is not experiencing symptoms, but you are still concerned about your patient, here are the steps you should take. You should avoid Grade V mobilizations (HVLAT)1. One should introduce the application of incrementally greater movements and loads or investigate VA flow using Doppler sonography or an magnetic resonance arthrogram (MRA) scan before performing a grade V technique in the cervical spine1. The clinician should consider avoiding placing the patient’s cervical spine in the extremes of rotation and side bending in both the examination and the subsequent intervention, which would obviate the need for these tests1."
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/Neuroanatomy/Basal Ganglia/basal_ganglia.html#practical-function",
+    "href": "Alchemy Archive/Neuro/Neuroanatomy/Basal Ganglia/basal_ganglia.html#practical-function",
+    "title": "Basal ganglia",
+    "section": "3.1 Practical function:",
+    "text": "3.1 Practical function:\n\nLearning & Cognition:\nIntegration of motor output\nRegulates emotional aspects of Behavior"
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/Neuroanatomy/Basal Ganglia/basal_ganglia.html#direct-pathway-indirect",
+    "href": "Alchemy Archive/Neuro/Neuroanatomy/Basal Ganglia/basal_ganglia.html#direct-pathway-indirect",
+    "title": "Basal ganglia",
+    "section": "3.2 Direct pathway / Indirect:",
+    "text": "3.2 Direct pathway / Indirect:\n\nDirect = facilitates goal-oriented movement\nIndirect = Suppress all competing movement\nResult = Measured and coordinated motor output"
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/neuro_index.html#neuroanatomy",
+    "href": "Alchemy Archive/Neuro/neuro_index.html#neuroanatomy",
+    "title": "Index of Neuro archives",
+    "section": "",
+    "text": "Basal ganglia (Overview)\n\nStriatum (Caudate nucleus & Putamen)\nLentiform Nucleus (Putamen + Globus pallidus)\nCaudate Nucleus\nPutamen\nGlobus pallidus\nSubthalamic nucleus (ST Nuclues)\nSubstantia Nigra\n\nBasal Ganglia Nuclei Types:\n\nInput Nuclei\nOutput Nuclei\nIntrinsic Nuclei\n\nBasal ganglia pathways:\n\nIndirect pathway\nDirect Pathway\nNigrostriatal Pathway"
+  },
+  {
+    "objectID": "Alchemy Archive/archive_index.html#arteries",
+    "href": "Alchemy Archive/archive_index.html#arteries",
+    "title": "Index of Tests & Measures",
+    "section": "",
+    "text": "Basilar Artery"
+  },
+  {
+    "objectID": "Alchemy Archive/archive_index.html#neuroanatomy",
+    "href": "Alchemy Archive/archive_index.html#neuroanatomy",
+    "title": "Index of Tests & Measures",
+    "section": "5.1 Neuroanatomy",
+    "text": "5.1 Neuroanatomy\n\n5.1.1 Basal Ganglia\nBasal ganglia (Overview)\n\nStriatum (Caudate nucleus & Putamen)\nLentiform Nucleus (Putamen + Globus pallidus)\nCaudate Nucleus\nPutamen\nGlobus pallidus\nSubthalamic nucleus (ST Nuclues)\nSubstantia Nigra\n\nBasal Ganglia Nuclei Types:\n\nInput Nuclei\nOutput Nuclei\nIntrinsic Nuclei\n\nBasal ganglia pathways:\n\nIndirect pathway\nDirect Pathway\nNigrostriatal Pathway"
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/Neuroanatomy/Basal Ganglia/putamen.html",
+    "href": "Alchemy Archive/Neuro/Neuroanatomy/Basal Ganglia/putamen.html",
+    "title": "Putamen",
+    "section": "",
+    "text": "Input nuclei of the basal Ganglia\n\n1 Anatomy\n\nFound at the base of forebrain (telencephalon)\n\n\n\n2 Function\nConnects to caudate nucleus via Ant limb of internal capsule"
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/Neuroanatomy/Basal Ganglia/caudate_nucleus.html",
+    "href": "Alchemy Archive/Neuro/Neuroanatomy/Basal Ganglia/caudate_nucleus.html",
+    "title": "Caudate Nucleus",
+    "section": "",
+    "text": "Input nucleus of the basal ganglia\n\n1 Structural divisions\nThe caudate nucleus begins rostrally with the head then arches rostrocaudally into the body and then the tail.\n\nHead & Body: Lateral wall & floor of Lateral ventricle\nTail: Roof of the inferior horn of lateral ventricle"
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/Neuroanatomy/Basal Ganglia/striatum.html",
+    "href": "Alchemy Archive/Neuro/Neuroanatomy/Basal Ganglia/striatum.html",
+    "title": "Striatum",
+    "section": "",
+    "text": "Primary input center of the basal nuclei\nComposed of the two input nuclei of the BG:\n\nCaudate Nucleus\nPutamen"
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/Neuroanatomy/Basal Ganglia/lentiform_nucleus.html",
+    "href": "Alchemy Archive/Neuro/Neuroanatomy/Basal Ganglia/lentiform_nucleus.html",
+    "title": "Lentiform Nucleus",
+    "section": "",
+    "text": "Composed of:\n\nGlobus Pallidus\nPutamen"
   }
 ]

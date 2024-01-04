@@ -2,3 +2,5 @@
 title: Basilar Artery
 ---
 
+# Associated pathologies 
+[Vertebrobasilar insufficiency]({{< var ref-VBI-vertebrobasilar-insufficiency.path >}})
