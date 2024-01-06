@@ -24,11 +24,11 @@ Intrinsic Nuclei:
 # Principal nuclei
 There are 5 principal basal ganglia nuclei.
 
-1. Caudate Nucleus
-1. Putamen
-1. Globus Pallidus
-1. Subthalamic Nucleus
-1. Substantia Nigra (in midbrain)
+1. [Caudate Nucleus]({{< var ref-caudate-nucleus.path >}})
+1. [Putamen]({{< var ref-putamen.path >}})
+1. [Globus Pallidus]({{< var ref-globus-pallidus.path >}})
+1. [Subthalamic Nucleus]({{< var ref-subthalamic-nucleus.path >}})
+1. [Substantia Nigra]({{< var ref-substantia-nigra.path >}}) (in midbrain)
 
 Lentiform nucleus: Putamen + Globus Pallidus
 striatum: Caudate Nucleus + Putamen
