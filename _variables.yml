@@ -102,6 +102,68 @@ ref-cranial-nerve-overview:
   path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/cranial_nerve_overview.qmd"
 ref-cn1:
   path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN1_Olfactory.qmd"
+ref-cn2:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN2_Optic.qmd"
+ref-cn3:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN3_Oculomotor.qmd"
+ref-cn4:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN4_Trochlear.qmd"
+ref-cn5:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN5_Trigeminal.qmd"
+ref-cn6:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN6_Abducens.qmd"
+ref-cn7:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN7_Facial.qmd"
+ref-cn8:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN8_Vestibulocochlear.qmd"
+ref-cn9:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN9_Glossopharyngeal.qmd"
+ref-cn10:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN10_Vagus.qmd"
+ref-cn11:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN11_Accessory.qmd"
+ref-cn12:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN12_Hypoglossal.qmd"
+
+ref-cranial-nerve-nuclei-overview:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/cranial_nerve_nuclei_overview.qmd"
+ref-oculomotor-nuclei:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/oculomotor_nucleus.qmd"
+ref-trochlear-nucleus:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/trochlear_nucleus.qmd"
+ref-abducens-nucleus:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/abducens_nucleus.qmd"
+ref-trigeminal-motor-nucleus:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/trigeminal_motor_nucleus.qmd"
+ref-facial-nucleus:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/facial_nucleus.qmd"
+ref-nucleus-ambiguous:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/nucleus_ambiguous.qmd"
+ref-spinal-accessory-nucleus:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/spinal_accessory_nucleus.qmd"
+ref-edinger-westphal-nucleus:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/edinger-westphal_nucleus.qmd"
+ref-superior-salivatory-nucleus:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/superior_salivatory_nucleus.qmd"
+ref-inferior-salivatory-nucleus:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/inferior_salivatory_nucleus.qmd"
+ref-dorsal-motor-nucleus:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/dorsal_motor_nucleus.qmd"
+ref-nucleus-solitarius:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/nucleus_solitarius.qmd"
+ref-trigeminal-sensory-nuclei:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/trigeminal_sensory_nuclei.qmd"
+ref-mesencephalic-nucleus:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/mesencephalic_nucleus.qmd"
+ref-main-sensory-nucleus-of-CN-V:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/main_sensory_nucleus_of_cn_v.qmd"
+ref-spinal-trigeminal-nucleus:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/spinal_trigeminal_nucleus.qmd"
+ref-cochlear-nuclei:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/cochlear_nuclei.qmd"
+ref-vestibular-nuclei:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/vestibular_nuclei.qmd"
+
 
 ## Neuropathology
 ref-amyotrophic-lateral-sclerosis: 
@@ -268,7 +330,7 @@ ref-rotatores-longi:
   action: "**BIL**: Extends T/S; **UNIL**: C/L Rotation of T/S"
 
 ref-multifidi:
-  path: "/Alchemy Archive/Anatomy/OIANs/Muscles of the back/multifidi.qmd"
+  path: "/Alchemy Archive/Anatomy/OIANs/Muscles of the back/multifidus.qmd"
   origin: "Sacrum, ilium, mamillary process of L1-L5, T1-T4 (TP and Articular process), C4-C7"
   insertion: "Superomedially to SP (skipping 2-4 vertebrae)"
   nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
