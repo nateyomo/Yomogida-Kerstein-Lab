@@ -5,7 +5,7 @@ title: Semispinalis Muscle
 # OIAN
 ![Schematic, posterior view of the transversospinalis muscles @gilroyAtlasAnatomy2020](/Alchemy Archive/Anatomy/OIANs/Muscles of the back/images/311 schematic transversospinalis muscles posterior view.png)
 
-![Posterior view of the Transversospinalis muscles @gilroyAtlasAnatomy2020](/Alchemy Archive/Anatomy/OIANs/Muscles of the back/images/313a Deep intrinsic back muscles.png){#fig-intermediatebackmm310gilroyAtlasAnatomy2020}
+![Posterior view of the Transversospinalis muscles @gilroyAtlasAnatomy2020](/Alchemy Archive/Anatomy/OIANs/Muscles of the back/images/313a Deep intrinsic back muscles.png)
 
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|

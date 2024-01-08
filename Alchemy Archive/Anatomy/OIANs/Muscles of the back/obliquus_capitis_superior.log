@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.1.6)  7 JAN 2024 13:00
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.1.8)  8 JAN 2024 14:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**iliocostalis.tex
-(./iliocostalis.tex
+**obliquus_capitis_superior.tex
+(./obliquus_capitis_superior.tex
 LaTeX2e <2023-11-01>
 L3 programming layer <2024-01-04>
 (c:/Users/black/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/koma-script/scrartcl.cls
@@ -557,8 +557,8 @@ File: bkm-dvipdfm.def 2023-12-10 v1.31 bookmark driver for dvipdfm (HO)
 \BKM@id=\count322
 ))
 Package hyperref Info: Option `colorlinks' set `true' on input line 171.
-No file iliocostalis.aux.
-\openout1 = `iliocostalis.aux'.
+No file obliquus_capitis_superior.aux.
+\openout1 = `obliquus_capitis_superior.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 177.
 LaTeX Font Info:    ... okay on input line 177.
@@ -882,49 +882,25 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 Package tocbasic Info: character protrusion at toc deactivated on input line 184.
-No file iliocostalis.toc.
+No file obliquus_capitis_superior.toc.
 \tf@toc=\write3
-\openout3 = `iliocostalis.toc'.
-
-File: ../../../../Alchemy Archive/Anatomy/OIANs/Muscles of the back/images/3.9a schematic intermediate back muscles gilroyAtlasAnatomy2020.png Graphic file (type bmp)
-<../../../../Alchemy Archive/Anatomy/OIANs/Muscles of the back/images/3.9a schematic intermediate back muscles gilroyAtlasAnatomy2020.png>
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.665pt on input line 198.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.475pt on input line 198.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.95099pt on input line 198.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.66568pt on input line 198.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.4755pt on input line 198.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 10.94882pt on input line 198.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.66417pt on input line 198.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.47441pt on input line 198.
-
-LaTeX Warning: Citation `ref-gilroyAtlasAnatomy2020' on page 1 undefined on input line 198.
+\openout3 = `obliquus_capitis_superior.toc'.
 
 
-LaTeX Warning: Citation `ref-gilroyAtlasAnatomy2020' on page 1 undefined on input line 198.
+LaTeX Warning: File `../../../../Alchemy Archive/Anatomy/OIANs/images/suboccipitals 3.6a gilroyAtlasAnatomy2020.png' not found on input line 192.
 
-
-LaTeX Warning: File `../../../../Alchemy Archive/Anatomy/OIANs/images/310b intermediate back muscles gilroyAtlasAnatomy2020.png' not found on input line 206.
-
-! Unable to load picture or PDF file '"../../../../Alchemy Archive/Anatomy/OIANs/images/310b intermediate back muscles gilroyAtlasAnatomy2020.png"'.
+! Unable to load picture or PDF file '"../../../../Alchemy Archive/Anatomy/OIANs/images/suboccipitals 3.6a gilroyAtlasAnatomy2020.png"'.
 <to be read again> 
                    }
-l.206 ... back muscles gilroyAtlasAnatomy2020.png}
+l.192 ...cipitals 3.6a gilroyAtlasAnatomy2020.png}
                                                    
 Here is how much of TeX's memory you used:
- 23335 strings out of 476801
- 458280 string characters out of 5801819
+ 23264 strings out of 476801
+ 454607 string characters out of 5801819
  1920177 words of memory out of 5000000
- 45028 multiletter control sequences out of 15000+600000
- 564492 words of font info for 85 fonts, out of 8000000 for 9000
+ 44976 multiletter control sequences out of 15000+600000
+ 561641 words of font info for 66 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 108i,8n,120p,10907b,533s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,6n,120p,10920b,330s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 No pages of output.

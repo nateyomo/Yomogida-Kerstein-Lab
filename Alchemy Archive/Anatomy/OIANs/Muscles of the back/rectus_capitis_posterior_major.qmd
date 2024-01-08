@@ -4,11 +4,14 @@ title: Rectus Capitis Posterior Major
 
 # OIAN
 
-![Schematic view of Suboccipital muscles (posterior view) @gilroyAtlasAnatomy2020](/Alchemy Archive/Anatomy/OIANs/images/suboccipitals 3.6a gilroyAtlasAnatomy2020.png){#fig-suboccipitalmm36aagilroyAtlasAnatomy2020}
+::: {layout-ncol=3}
+![Schematic view of Suboccipital muscles (posterior view) @gilroyAtlasAnatomy2020](/Alchemy Archive/Anatomy/OIANs/Muscles of the back/images/suboccipitals 3.6a gilroyAtlasAnatomy2020.png)
 
-![Suboccipital muscles (posterior view) @gilroyAtlasAnatomy2020](/Alchemy Archive/Anatomy/OIANs/images/suboccipitals 3.6b gilroyAtlasAnatomy2020.png){#fig-suboccipitalmm36bagilroyAtlasAnatomy2020}
+![Suboccipital muscles (posterior view) @gilroyAtlasAnatomy2020](/Alchemy Archive/Anatomy/OIANs/Muscles of the back/images/suboccipitals 3.6b gilroyAtlasAnatomy2020.png)
 
-![suboccipital muscles (left lateral view) @gilroyAtlasAnatomy2020](/Alchemy Archive/Anatomy/OIANs/images/suboccipitals left lateral 3.6c gilroyAtlasAnatomy2020.png){#fig-suboccipitalmm36cagilroyAtlasAnatomy2020}
+![suboccipital muscles (left lateral view) @gilroyAtlasAnatomy2020](/Alchemy Archive/Anatomy/OIANs/Muscles of the back/images/suboccipitals left lateral 3.6c gilroyAtlasAnatomy2020.png)
+:::
+
 
 | Muscle  | Origin  | Insertion | Nerve | Action |
 |--------|----------|-----------|-------|--------|
@@ -31,7 +34,7 @@ Occipital bone (inferior nuchal line, middle third) @gilroyAtlasAnatomy2020
 - **Unilateral**: I/L head rotation
 
 # Muscle groups
-Part of the [suboccipital muscle group]({{< var suboccipital_muscle_group >}})
+Part of the [suboccipital muscle group]({{< var ref-suboccipital_muscle_group.path >}})
 
 # Palpation
 

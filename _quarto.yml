@@ -2,8 +2,12 @@ project:
   type: website
   output-dir: docs
 
+execute:
+  freeze: true
+
 filters:
-   - lightbox
+  - lightbox
+lightbox: auto
 
 author:
 - id: NGY
@@ -52,10 +56,10 @@ format:
       dark: darkly
     mainfont: helvetica
     css: styles.css
-  pdf:
-    toc: true
-    number-sections: true
-    link-citations: true
-    link-bibliography: true
+  #pdf:
+    #toc: true
+    #number-sections: true
+    #link-citations: true
+    #link-bibliography: true
     
 

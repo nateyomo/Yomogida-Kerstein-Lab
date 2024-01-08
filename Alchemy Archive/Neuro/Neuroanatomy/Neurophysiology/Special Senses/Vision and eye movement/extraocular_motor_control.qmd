@@ -22,12 +22,17 @@ title: Extraocular Motor Control (CNIII, IV, VI)
 
 ## Nerve Pathways
 
+::: {layout-ncol=3}
 
 !["Ventral view of Surface Anatomy of the brainstem and cranial nerves (from fig12.2 of Blumenfeld @blumenfeldNeuroanatomyClinicalCases2022)"](/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/images/fig12.2A Surface anatomy of the brainstem and cranial nerves blumenfield2022.png)
 
 !["Dorsal view of Surface Anatomy of the brainstem and cranial nerves (from fig12.2 of Blumenfeld @blumenfeldNeuroanatomyClinicalCases2022)"](/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/images/fig12.2B Surface anatomy of the brainstem and cranial nerves blumenfield2022.png)
 
 !["Lateral view of the surface Anatomy of the brainstem and cranial nerves (from fig12.2 of Blumenfeld @blumenfeldNeuroanatomyClinicalCases2022)"](/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/images/fig12.2C Surface anatomy of the brainstem and cranial nerves blumenfield2022.png)
+
+:::
+
+
 
 
 

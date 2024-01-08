@@ -19,6 +19,8 @@ ref-copper:
 ## Muscle
 
 ## Neurotransmitters
+ref-glutamate:
+  path: "/Alchemy Archive/Physiology/Neurotransmitters/glutamate.qmd"
 
 ## Neutrophic factors
 
@@ -34,6 +36,20 @@ ref-EAAT2-excitatory-amino-acid-transporter-2:
   path: "/Alchemy Archive/Physiology/Transporters/EAAT2_excitatory_amino_acid_transporter_2.qmd"
 
 # Pain science
+
+
+## CRPS 
+ref-CRPS: 
+  path: "/Alchemy Archive/Pain_science/Complex regional pain syndrome/CRPS_complex_regional_pain_syndrome.qmd"
+
+ref-CRPS-type1: 
+  path: "/Alchemy Archive/Pain_science/Complex regional pain syndrome/CRPS_Type1.qmd"
+
+ref-CRPS-type2:
+  path: "/Alchemy Archive/Pain_science/Complex regional pain syndrome/CRPS_Type2.qmd"
+
+## Interventions
+
 ## Pain terms and Taxonomies
 ref-acute-pain:
   path: "/Alchemy Archive/Pain_science/Pain terms and Taxonomies/acute_pain.qmd"
@@ -45,16 +61,8 @@ ref-recurrent-pain:
   path: "/Alchemy Archive/Pain_science/Pain terms and Taxonomies/recurrent_pain.qmd"
 ref-transient-pain:
   path: "/Alchemy Archive/Pain_science/Pain terms and Taxonomies/transient_pain.qmd"
-
-## CRPS 
-ref-CRPS: 
-  path: "/Alchemy Archive/Pain_science/Complex regional pain syndrome/CRPS_complex_regional_pain_syndrome.qmd"
-
-ref-CRPS-type1: 
-  path: "/Alchemy Archive/Pain_science/Complex regional pain syndrome/CRPS_Type1.qmd"
-
-ref-CRPS-type2:
-  path: "/Alchemy Archive/Pain_science/Complex regional pain syndrome/CRPS_Type2.qmd"
+ref-pain-overview:
+  path: "/Alchemy Archive/Pain_science/Pain terms and Taxonomies/pain_overview.qmd"
 
 ## Sensitization
 ref-allodynia:
@@ -146,6 +154,8 @@ ref-trigeminal-motor-nucleus:
   path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/trigeminal_motor_nucleus.qmd"
 ref-facial-nucleus:
   path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/facial_nucleus.qmd"
+ref-hypoglossal-nucleus:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/hypoglossal_nucleus.qmd"
 ref-nucleus-ambiguous:
   path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/nucleus_ambiguous.qmd"
 ref-spinal-accessory-nucleus:
@@ -210,6 +220,8 @@ ref-oians:
   path: /Alchemy Archive/Anatomy/OIAN.qmd
 
 ### Muscles of the back 
+ref-suboccipital-muscle-group:
+  path: "/Alchemy Archive/Anatomy/OIANs/muscles_of_the_back_index.qmd"
 ref-rectus-capitis-posterior-major: 
   path: "/Alchemy Archive/Anatomy/OIANs/Muscles of the back/rectus_capitis_posterior_major.qmd"
   origin: "C2 (SP)"
