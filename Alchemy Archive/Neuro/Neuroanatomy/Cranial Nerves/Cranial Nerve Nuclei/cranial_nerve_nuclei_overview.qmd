@@ -14,6 +14,7 @@ The cranial nerve nuclei can be broken down into divided into 2 categories (moto
 
 ![Functional columns of brainstem sensory and motor cranial nerve nuclei (from Blumenfield Figure 12.5 @blumenfeldNeuroanatomyClinicalCases2022)](/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/images/fig12.5 blumenfield CN nuclei.png)
 
+
 # Motor columns
 
 - Somatic motor nuclei: Adjacent to midline & Exit @ midline

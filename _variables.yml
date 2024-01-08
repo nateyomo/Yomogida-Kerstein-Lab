@@ -136,7 +136,7 @@ ref-cn12:
 
 ref-cranial-nerve-nuclei-overview:
   path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/cranial_nerve_nuclei_overview.qmd"
-ref-oculomotor-nuclei:
+ref-oculomotor-nucleus:
   path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/oculomotor_nucleus.qmd"
 ref-trochlear-nucleus:
   path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/trochlear_nucleus.qmd"
@@ -391,8 +391,9 @@ ref-interspinales-lumbora:
   nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
   action: "**BIL**: Stabilizes and extends cervical and lumbar vertebrae; **UNIL**: I/L SB cervical and lumbar spines"
 
-
-
+## Extraocular muscles
+ref-extraocular-muscles:
+  path: "/Alchemy Archive/Anatomy/OIANs/Extraocular muscles/extraocular_muscles.qmd"
 
 ## Nerve
 ref-suboccipital-nerve: 

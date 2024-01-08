@@ -1754,7 +1754,7 @@
     "href": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/cranial_nerve_overview.html",
     "title": "Cranial Nerve Overview",
     "section": "",
-    "text": "Function: - Ventral = Motor - Dorsal = Sensory\nAnatomy:\n\nTelencephalon: Olfactory CN I\nDiencephalon: CN II\nMidbrain:\n\nCN III (from interpeduncular fossa)\nCN IV (from posterior aspect from brainstem inferior to Inferior colliculus)\nPons: CNV from Basilar Pons\n\nPontomedullary junction:\n\nCN VI: Medial\nCN VII: Lateral\nCN VIII: Lateral\n\nMedulla:\n\nCNIX Rostral medulla\nCNX: Posterior to Olive\nCNXII: Anterior to Olive\n\nUpper cervical levels of spinal cord:\n\nCN IX"
+    "text": "Function: - Ventral = Motor - Dorsal = Sensory\nAnatomy:"
   },
   {
     "objectID": "Alchemy Archive/Neuro/Neuropathology/Amyotrophic Lateral Sclerosis/amyotrophic_lateral_sclerosis.html",
@@ -2301,5 +2301,103 @@
     "title": "Anosmia",
     "section": "2.5 Frontal lobe Lesions",
     "text": "2.5 Frontal lobe Lesions\n\nIntracranial lesions that occur at the base of the frontal lobes near the olfactory sulci can interfere with olfaction1.\n\nPossible lesions in this location include meningioma, metastases, basal meningitis, or less commonly sarcoidosis, a granulomatous inflammatory disorder that occasionally involves the nervous system, often causing cranial neuropathies1.\n\nFrontal lobe deficits are often difficult to detect clinically, especially with small lesions1.\nAs a result, lesions at the base of the frontal lobes can sometimes grow very large while still causing little symptoms except besides anosmia.\nLarge lesions of the olfactory sulcus region, especially meningiomas, can cause Foster Kennedy syndrome where the patient experiences anosmia, ipsilateral optic atrophy (d/t tumor compression), and contralateral papilledema (d/t elevated intracranial pressure)1."
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/Neuroanatomy/Neurophysiology/Special Senses/Vision and eye movement/extraocular_motor_control.html",
+    "href": "Alchemy Archive/Neuro/Neuroanatomy/Neurophysiology/Special Senses/Vision and eye movement/extraocular_motor_control.html",
+    "title": "Extraocular Motor Control (CNIII, IV, VI)",
+    "section": "",
+    "text": "Blumenfield Ch12, Ch131"
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/Neuroanatomy/Neurophysiology/Special Senses/Vision and eye movement/extraocular_motor_control.html#cranial-nerve-nuclei",
+    "href": "Alchemy Archive/Neuro/Neuroanatomy/Neurophysiology/Special Senses/Vision and eye movement/extraocular_motor_control.html#cranial-nerve-nuclei",
+    "title": "Extraocular Motor Control (CNIII, IV, VI)",
+    "section": "2.1 Cranial Nerve Nuclei",
+    "text": "2.1 Cranial Nerve Nuclei\n\nThe oculomotor nucleus (CN III) and the Trochlear nucleus (CN IV) are located in the midbrain\nThe abducens nucleus (CN VI) is found in the pons1."
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/Neuroanatomy/Neurophysiology/Special Senses/Vision and eye movement/extraocular_motor_control.html#nerve-pathways",
+    "href": "Alchemy Archive/Neuro/Neuroanatomy/Neurophysiology/Special Senses/Vision and eye movement/extraocular_motor_control.html#nerve-pathways",
+    "title": "Extraocular Motor Control (CNIII, IV, VI)",
+    "section": "2.2 Nerve Pathways",
+    "text": "2.2 Nerve Pathways\n\n\n\n“Ventral view of Surface Anatomy of the brainstem and cranial nerves (from fig12.2 of Blumenfeld1)”\n\n\n\n\n\n“Dorsal view of Surface Anatomy of the brainstem and cranial nerves (from fig12.2 of Blumenfeld1)”\n\n\n\n\n\n“Lateral view of the surface Anatomy of the brainstem and cranial nerves (from fig12.2 of Blumenfeld1)”\n\n\n\nCN III exits the midbrain ventrally in the interpeduncular fossa1.\nCN IV exits the midbrain dorsally from the inferior tectum1.\nCN VI exits the pons ventrally at the pontomedullary junction1. CN III, IV, and VI then traverse the cavernous sinus (see Figure 13.11) and exit the skull via the superior orbital fissure (see Figure 12.3A,C; Table 12.2) to reach the muscles of the orbit. CN III also carries parasympathetics to the pupillary constrictor and to the ciliary muscle of the lens. The preganglionic parasympathetic neurons are located in the EdingerWestphal nucleus in the midbrain (see Figure 12.5). They synapse in the ciliary ganglion located in the orbit (Figure 12.6). Postganglionic parasympathetic fibers then continue to the pupillary constrictor and ciliary muscles. Other cranial nerve parasympathetics are also summarized in Figure 12.6."
+  },
+  {
+    "objectID": "Alchemy Archive/Symptoms/Neuro Symptoms/anosmia.html",
+    "href": "Alchemy Archive/Symptoms/Neuro Symptoms/anosmia.html",
+    "title": "Anosmia",
+    "section": "",
+    "text": "Anosmia refers to olfactory (smell) loss and can be unilateral or bilateral1."
+  },
+  {
+    "objectID": "Alchemy Archive/Symptoms/Neuro Symptoms/anosmia.html#testing-unilateral-anosmia",
+    "href": "Alchemy Archive/Symptoms/Neuro Symptoms/anosmia.html#testing-unilateral-anosmia",
+    "title": "Anosmia",
+    "section": "1.1 Testing Unilateral Anosmia",
+    "text": "1.1 Testing Unilateral Anosmia\n\nUnilateral anosmia is difficult to diagnose since it is a sympton, not a sign, and patients rarely notice this change since the contralateral nostril can compensate1.\nTo avoid contralateral nostrile compensation, the examiner must test each nostril separately1."
+  },
+  {
+    "objectID": "Alchemy Archive/Symptoms/Neuro Symptoms/anosmia.html#bilateral-anosmia",
+    "href": "Alchemy Archive/Symptoms/Neuro Symptoms/anosmia.html#bilateral-anosmia",
+    "title": "Anosmia",
+    "section": "1.2 Bilateral Anosmia",
+    "text": "1.2 Bilateral Anosmia\n\nMost patients are aware of bilateral anosmia and may even report decreased taste due to olfaction’s contriution to the perception of flavor1."
+  },
+  {
+    "objectID": "Alchemy Archive/Symptoms/Neuro Symptoms/anosmia.html#head-trauma",
+    "href": "Alchemy Archive/Symptoms/Neuro Symptoms/anosmia.html#head-trauma",
+    "title": "Anosmia",
+    "section": "2.1 Head Trauma",
+    "text": "2.1 Head Trauma\n\nTrauma to the head can cause anosmia by damaging the olfactory nerves as they penetrate the cribriform plate of the ethmoid1."
+  },
+  {
+    "objectID": "Alchemy Archive/Symptoms/Neuro Symptoms/anosmia.html#viral-infection",
+    "href": "Alchemy Archive/Symptoms/Neuro Symptoms/anosmia.html#viral-infection",
+    "title": "Anosmia",
+    "section": "2.2 Viral infection",
+    "text": "2.2 Viral infection\n\nViral infections can damage the olfactory neuroepithelium1.\nExamples include:\n\nCovid-191"
+  },
+  {
+    "objectID": "Alchemy Archive/Symptoms/Neuro Symptoms/anosmia.html#obstruction",
+    "href": "Alchemy Archive/Symptoms/Neuro Symptoms/anosmia.html#obstruction",
+    "title": "Anosmia",
+    "section": "2.3 Obstruction",
+    "text": "2.3 Obstruction\n\nObstruction of the nasal passages can impair olfaction1."
+  },
+  {
+    "objectID": "Alchemy Archive/Symptoms/Neuro Symptoms/anosmia.html#neurodegenerative-conditions",
+    "href": "Alchemy Archive/Symptoms/Neuro Symptoms/anosmia.html#neurodegenerative-conditions",
+    "title": "Anosmia",
+    "section": "2.4 Neurodegenerative Conditions",
+    "text": "2.4 Neurodegenerative Conditions\n\nBilateral anosmia is also seen in Kallmann syndrome (anosmic hypogonadism)1\nParkinson’s disease1\nAlzheimer’s disease1"
+  },
+  {
+    "objectID": "Alchemy Archive/Symptoms/Neuro Symptoms/anosmia.html#frontal-lobe-lesions",
+    "href": "Alchemy Archive/Symptoms/Neuro Symptoms/anosmia.html#frontal-lobe-lesions",
+    "title": "Anosmia",
+    "section": "2.5 Frontal lobe Lesions",
+    "text": "2.5 Frontal lobe Lesions\n\nIntracranial lesions that occur at the base of the frontal lobes near the olfactory sulci can interfere with olfaction1.\n\nPossible lesions in this location include meningioma, metastases, basal meningitis, or less commonly sarcoidosis, a granulomatous inflammatory disorder that occasionally involves the nervous system, often causing cranial neuropathies1.\n\nFrontal lobe deficits are often difficult to detect clinically, especially with small lesions1.\nAs a result, lesions at the base of the frontal lobes can sometimes grow very large while still causing little symptoms except besides anosmia.\nLarge lesions of the olfactory sulcus region, especially meningiomas, can cause Foster Kennedy syndrome where the patient experiences anosmia, ipsilateral optic atrophy (d/t tumor compression), and contralateral papilledema (d/t elevated intracranial pressure)1."
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN3_Oculomotor.html",
+    "href": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN3_Oculomotor.html",
+    "title": "CNIII Oculomotor Nerve",
+    "section": "",
+    "text": "Cranial Nerve Sympathetic Pathways (from Blumenfield Figure 12.61)\n\n\n\n\n\n\nReferences\n\n1. Blumenfeld H. Neuroanatomy Through Clinical Cases. 3rd ed. Oxford university press; 2022."
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN2_Optic.html",
+    "href": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN2_Optic.html",
+    "title": "CN II Optic Nerve",
+    "section": "",
+    "text": "flowchart TD\n  A[Retina] -- Vision --&gt; B[Optic Canal]\n  B --&gt; C[\\Optic Chiasm/]\n  C --&gt; D[Lateral Geniculate nucleus of the Thalamus]\n  C --&gt; E[Extrageniculate pathways]\n  \n  D --&gt; F[Optic Radiation]\n  E --&gt; F\n\n  F --&gt; G[Visual Cortex]\n  G --&gt; H{Vision}\n\n\n\n\n\n\n\n1 Overview\nCNII Optic Nerve is the only cranial nerve that is used to transmit information about vision to the brain. CNII is considered part of the CNS since it is myelinated using oligodendrocytes\n\n\n2 Pathway\nOptic tract\n\nLeft optic tract:\n\nFibers: Left temporal (lateral) retina\nFibers: Right nasal (medial) retina\n\nRight optic tract\n\nFibers: right temporal retina\nFibers: Left nasal retina\n\nOptic tract -&gt; Lateral geniculate nucleus (relay system in thalamus) -&gt; Optic radiation\n\nUpper optic radiation: Fibers from Superior Retinal Quadrants (inferior visual field) -&gt; visual cortex\nLower Optic Radiation: Fibers from Inferior retinal quadrants (superior visual field) -&gt; Visual cortex\n\n\n\nRetinal photoreceptors\nRetinal bipolar neurons\n(Synapse) Retinal ganglion cells\nOptic nerve (Optic canal)\n(Decussate) Optic chiasm\nOptic tract\n(Synapse) Lateral geniculate nucleus in Thalamus -&gt;\nOptic radiations -&gt; Occipital cortex"
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/cranial_nerve_overview.html#parasympathetic-pathways",
+    "href": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/cranial_nerve_overview.html#parasympathetic-pathways",
+    "title": "Cranial Nerve Overview",
+    "section": "1.1 Parasympathetic Pathways",
+    "text": "1.1 Parasympathetic Pathways\n\n\n\nCranial Nerve Sympathetic Pathways (from Blumenfield Figure 12.61)"
   }
 ]

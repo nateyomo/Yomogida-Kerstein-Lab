@@ -2,6 +2,9 @@ project:
   type: website
   output-dir: docs
 
+filters:
+   - lightbox
+
 author:
 - id: NGY
   number: 1

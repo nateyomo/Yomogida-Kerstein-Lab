@@ -1,0 +1,38 @@
+---
+title: Extraocular Motor Control (CNIII, IV, VI)
+---
+
+# Resources
+- Blumenfield Ch12, Ch13 @blumenfeldNeuroanatomyClinicalCases2022
+
+
+
+# Overview
+
+[CN III Oculomotor nerve]({{< var ref-cn3.path >}}), [CN IV Trochlear Nerve]({{< var ref-cn4.path >}}), and [CN VI Abducens Nerve]({{< var ref-cn6.path >}}) are responsible for controlling the [extraocular muscles]({{< var ref-extraocular-muscles.path >}}) @blumenfeldNeuroanatomyClinicalCases2022.
+
+- [CN VI Abducens Nerve]({{< var ref-cn6.path >}}) innervates the Lateral Rectus Muscle, which functions to abduct the eye laterally in the horizontal direction @blumenfeldNeuroanatomyClinicalCases2022.
+- [CN IV Trochlear Nerve]({{< var ref-cn4.path >}}) innervates the Superior Oblique muscle, which acts through a trochlea (pulley-like structure) to rotate the top of the eye medially and downward @blumenfeldNeuroanatomyClinicalCases2022.
+- [CN III Oculomotor nerve]({{< var ref-cn3.path >}}) innervates all the other extraocular muscles to perform the rest of the eye's movements.
+
+## Cranial Nerve Nuclei
+
+- The [oculomotor nucleus]({{< var ref-oculomotor-nucleus.path >}}) (CN III) and the [Trochlear nucleus]({{< var ref-trochlear-nucleus.path >}}) (CN IV) are located in the midbrain
+- The [abducens nucleus]({{< var ref-abducens-nucleus.path >}}) (CN VI) is found in the pons @blumenfeldNeuroanatomyClinicalCases2022. 
+
+## Nerve Pathways
+
+
+!["Ventral view of Surface Anatomy of the brainstem and cranial nerves (from fig12.2 of Blumenfeld @blumenfeldNeuroanatomyClinicalCases2022)"](/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/images/fig12.2A Surface anatomy of the brainstem and cranial nerves blumenfield2022.png)
+
+!["Dorsal view of Surface Anatomy of the brainstem and cranial nerves (from fig12.2 of Blumenfeld @blumenfeldNeuroanatomyClinicalCases2022)"](/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/images/fig12.2B Surface anatomy of the brainstem and cranial nerves blumenfield2022.png)
+
+!["Lateral view of the surface Anatomy of the brainstem and cranial nerves (from fig12.2 of Blumenfeld @blumenfeldNeuroanatomyClinicalCases2022)"](/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/images/fig12.2C Surface anatomy of the brainstem and cranial nerves blumenfield2022.png)
+
+
+
+
+- CN III exits the midbrain **ventrally** in the interpeduncular fossa @blumenfeldNeuroanatomyClinicalCases2022.
+- CN IV exits the midbrain **dorsally** from the inferior tectum @blumenfeldNeuroanatomyClinicalCases2022. 
+- CN VI exits the pons ventrally at the pontomedullary junction @blumenfeldNeuroanatomyClinicalCases2022.
+CN III, IV, and VI then traverse the cavernous sinus (see Figure 13.11) and exit the skull via the superior orbital fissure (see Figure 12.3A,C; Table 12.2) to reach the muscles of the orbit. CN III also carries parasympathetics to the pupillary constrictor and to the ciliary muscle of the lens. The preganglionic parasympathetic neurons are located in the EdingerWestphal nucleus in the midbrain (see Figure 12.5). They synapse in the ciliary ganglion located in the orbit (Figure 12.6). Postganglionic parasympathetic fibers then continue to the pupillary constrictor and ciliary muscles. Other cranial nerve parasympathetics are also summarized in Figure 12.6.
