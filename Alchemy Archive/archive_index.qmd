@@ -20,6 +20,8 @@ title: "The Archive"
 # Pain Science
 {{< include Pain_science/pain_index.qmd >}}
 
+# Pathologies
+{{< include Pathologies/pathologies_index.qmd >}}
 
 # Neuroscience
 {{< include Neuro/neuro_index.qmd >}}

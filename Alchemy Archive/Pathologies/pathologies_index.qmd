@@ -1,0 +1,14 @@
+---
+title: Index of Pathologies
+---
+
+## Endocrine Pathologies
+
+### Pituitary Disorders
+
+#### Pituitary Hypofunction
+
+##### Gonadotropin Deficiency
+
+- [Gonadotropin Deficiency]({{< var ref-gonadotropin-deficiency.path >}})
+- [Kallmann Sndrome]({{< var ref-kallmann-syndrome.path >}})

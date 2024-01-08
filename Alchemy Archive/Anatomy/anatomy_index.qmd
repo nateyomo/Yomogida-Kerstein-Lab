@@ -5,7 +5,7 @@ title: Anatomy Index
 ## Arteries 
 - [Basilar Artery]({{< var ref-basilar-artery.path >}})
 
-## OIANs
+## Muscles
 [OIANs]({{< var ref-oians.path >}})
 
 ## Nerves

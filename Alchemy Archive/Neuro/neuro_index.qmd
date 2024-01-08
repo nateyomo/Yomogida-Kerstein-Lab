@@ -78,6 +78,14 @@ Sensory Nuclei:
 
 
 ## Neurophysiology
+### Neuro Symptoms
+
+- [Anosmia]({{< var ref-anosmia.path >}})
+
+### Special Senses
+
+- [Gustation]({{< var ref-gustation.path >}})
+- [Olfaction]({{< var ref-olfaction.path >}})
 
 ## Neuropathology
 

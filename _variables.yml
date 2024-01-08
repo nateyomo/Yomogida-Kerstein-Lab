@@ -75,6 +75,15 @@ ref-graded-motor-imagery:
 ref-VBI-vertebrobasilar-insufficiency:
   path: "/Alchemy Archive/Pathologies-and-Rehab/Spine-Cervical/vertebrobasilar_insufficiency.qmd"
 
+# Pathologies
+## Endocrine pathologies
+### Pituitary system pathologies
+#### Pituitary Hypofunction
+##### Gondaotropin deficiency
+ref-gonadotropin-deficiency:
+  path: "/Alchemy Archive/Pathologies/Endocrine Pathologies/Disorders of the Pituitary Hormone System/Pituitary Hypofunction/Gonadotropin Deficiency/gonadotropin_deficiency.qmd"
+ref-kallmann-syndrome:
+  path: "/Alchemy Archive/Pathologies/Endocrine Pathologies/Disorders of the Pituitary Hormone System/Pituitary Hypofunction/Gonadotropin Deficiency/kallmann_syndrome.qmd"
 
 # Neuroscience
 
@@ -164,6 +173,20 @@ ref-cochlear-nuclei:
 ref-vestibular-nuclei:
   path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/vestibular_nuclei.qmd"
 
+### Limbic System
+ref-amygdala:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Limbic System/amygdala.qmd"
+
+## Neurophysiology
+### Special Senses
+ref-gustation:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Neurophysiology/Special Senses/gustation.qmd"
+ref-olfaction:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Neurophysiology/Special Senses/olfaction.qmd"
+
+### Neuro Symptoms
+ref-anosmia:
+  path: "/Alchemy Archive/Symptoms/Neuro Symptoms/anosmia.qmd"
 
 ## Neuropathology
 ref-amyotrophic-lateral-sclerosis: 
@@ -367,6 +390,7 @@ ref-interspinales-lumbora:
   insertion: "L1-L5: SP of superiorly adjacent vertebrae"
   nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
   action: "**BIL**: Stabilizes and extends cervical and lumbar vertebrae; **UNIL**: I/L SB cervical and lumbar spines"
+
 
 
 
