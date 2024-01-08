@@ -3,7 +3,7 @@ title: Longus capitis
 ---
 
 # OIAN
-![Prevertebral muscles anterior view @gilroyAtlasAnatomy2020](/Alchemy Archive/Anatomy/OIANs/images/prevertebral mm fig3.7b gilroyAtlasAnatomy2020.png){#fig-prevertebralmm_ant}
+![Prevertebral muscles anterior view @gilroyAtlasAnatomy2020](/Alchemy Archive/Anatomy/OIANs/Muscles of the back/images/prevertebral mm fig3.7b gilroyAtlasAnatomy2020.png){#fig-prevertebralmm_ant}
 
 
 | Muscle  | Origin  | Insertion | Nerve | Action |
