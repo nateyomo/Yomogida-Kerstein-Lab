@@ -3,9 +3,9 @@ title: Splenius Capitis
 ---
 
 # OIAN
-![Superficial intrinsic back muscles Right side posterior view @gilroyAtlasAnatomy2020](/Alchemy Archive/Anatomy/OIANs/Muscles of the back/images/superficial intrinsic back mm fig3.8 gilroyAtlasAnatomy2020.png){#fig-superficialbackmm38agilroyAtlasAnatomy2020}
+![Superficial intrinsic back muscles Right side posterior view @gilroyAtlasAnatomy2020](/Alchemy Archive/Anatomy/OIANs/Muscles of the back/images/superficial intrinsic back mm fig3.8 gilroyAtlasAnatomy2020.png)
 
-![Superficial intrinsic back muscles posterior view @gilroyAtlasAnatomy2020](/Alchemy Archive/Anatomy/OIANs/Muscles of the back/images/superficial intrinsic back mm fig3.10a gilroyAtlasAnatomy2020.png){#fig-superficialbackmm310agilroyAtlasAnatomy2020}
+![Superficial intrinsic back muscles posterior view @gilroyAtlasAnatomy2020](/Alchemy Archive/Anatomy/OIANs/Muscles of the back/images/superficial intrinsic back mm fig3.10a gilroyAtlasAnatomy2020.png)
 
 | Muscle  | Origin  | Insertion | Nerve | Action |
 |--------|----------|-----------|-------|--------|

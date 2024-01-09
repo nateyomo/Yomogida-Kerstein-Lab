@@ -92,6 +92,9 @@ div.csl-indent {
     "search-label": "Search"
   }
 }</script>
+<script src="../../../../site_libs/quarto-diagram/mermaid.min.js"></script>
+<script src="../../../../site_libs/quarto-diagram/mermaid-init.js"></script>
+<link href="../../../../site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
 
 
 <link rel="stylesheet" href="../../../../styles.css">
@@ -147,7 +150,19 @@ div.csl-indent {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Contents</h2>
+   
+  <ul>
+  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview"><span class="header-section-number">1</span> Overview</a></li>
+  <li><a href="#pathway" id="toc-pathway" class="nav-link" data-scroll-target="#pathway"><span class="header-section-number">2</span> Pathway</a></li>
+  <li><a href="#function" id="toc-function" class="nav-link" data-scroll-target="#function"><span class="header-section-number">3</span> Function</a>
+  <ul class="collapse">
+  <li><a href="#somatic-motor-control-of-extraocular-muscles" id="toc-somatic-motor-control-of-extraocular-muscles" class="nav-link" data-scroll-target="#somatic-motor-control-of-extraocular-muscles"><span class="header-section-number">3.1</span> Somatic motor control of Extraocular muscles</a></li>
+  <li><a href="#parasympathetic-efferent-to-lens" id="toc-parasympathetic-efferent-to-lens" class="nav-link" data-scroll-target="#parasympathetic-efferent-to-lens"><span class="header-section-number">3.2</span> Parasympathetic efferent to lens</a></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -178,9 +193,61 @@ div.csl-indent {
 </header>
 
 
+<div class="cell" data-layout-align="default">
+<div class="cell-output-display">
+<div>
+<p></p><figure class="figure"><p></p>
+<div>
+<pre class="mermaid mermaid-js">flowchart TD
+  A[Interpeduncular fossa of Midbrain] --&gt; B[Oculomotor Nucleus]
+  
+  
+  B -- Somatic motor --&gt; C[Superior ORbital fissure]
+  C --&gt; D[Extraocular muscles]
+  D --&gt; E{Somatic Motor}
+  
+  A --&gt; F[Edinger-Westphal Nucleus]
+  F -- Parasympathetic Efferent --&gt; C
+  C --&gt; G[Ciliary ganglion]
+  G -- Postganglionic parasympathetic fibers --&gt; H{GVE: Sphincter pupillae &amp; Ciliary muscles}
+
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
+<section id="overview" class="level1" data-number="1">
+<h1 data-number="1"><span class="header-section-number">1</span> Overview</h1>
+<ul>
+<li>CNIII refers to nerve fibers containing somatic motor fibers running to extraocular muscles of the eye as well as parasympathetic efferent fibers running to the muscles in the lens.</li>
+<li>CNIII is myelinated by Schwann cells and is therefore considered part of the PNS.</li>
+</ul>
+</section>
+<section id="pathway" class="level1" data-number="2">
+<h1 data-number="2"><span class="header-section-number">2</span> Pathway</h1>
+<ul>
+<li><p>CNIII travels with <a href="../../../../Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN4_Trochlear.html">CN IV</a> and <a href="../../../../Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN6_Abducens.html">VI</a> through the cavernous sinus<span class="citation" data-cites="blumenfeldNeuroanatomyClinicalCases2022"><sup><a href="#ref-blumenfeldNeuroanatomyClinicalCases2022" role="doc-biblioref">1</a></sup></span>.</p></li>
+<li><p>Next, these three nerves leave the skull through the superior orbital fissure to synapse and innervate the <a href="../../../../Alchemy Archive/Anatomy/OIANs/Extraocular muscles/extraocular_muscles.html">extraocular muscles</a><span class="citation" data-cites="blumenfeldNeuroanatomyClinicalCases2022"><sup><a href="#ref-blumenfeldNeuroanatomyClinicalCases2022" role="doc-biblioref">1</a></sup></span>.</p></li>
+<li><p>CN III also carries parasympathetics to the pupillary constrictor and to the ciliary muscle of the lens<span class="citation" data-cites="blumenfeldNeuroanatomyClinicalCases2022"><sup><a href="#ref-blumenfeldNeuroanatomyClinicalCases2022" role="doc-biblioref">1</a></sup></span>.</p></li>
+</ul>
+</section>
+<section id="function" class="level1" data-number="3">
+<h1 data-number="3"><span class="header-section-number">3</span> Function</h1>
+<section id="somatic-motor-control-of-extraocular-muscles" class="level2" data-number="3.1">
+<h2 data-number="3.1" class="anchored" data-anchor-id="somatic-motor-control-of-extraocular-muscles"><span class="header-section-number">3.1</span> Somatic motor control of Extraocular muscles</h2>
+<ul>
+<li>Superior Recti</li>
+<li>Medial Recti</li>
+<li>Inferior Recti</li>
+<li>Inferior Oblique</li>
+</ul>
+</section>
+<section id="parasympathetic-efferent-to-lens" class="level2" data-number="3.2">
+<h2 data-number="3.2" class="anchored" data-anchor-id="parasympathetic-efferent-to-lens"><span class="header-section-number">3.2</span> Parasympathetic efferent to lens</h2>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="../../../..\Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/images/fig12.6 cranial nerve parasympathetic pathways blumenfield2022.png" class="lightbox" data-glightbox="description: .lightbox-desc-1" data-gallery="quarto-lightbox-gallery-1" title="Cranial Nerve Sympathetic Pathways (from Blumenfield Figure 12.6 @blumenfeldNeuroanatomyClinicalCases2022)"><img src="../../../..\Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/images/fig12.6 cranial nerve parasympathetic pathways blumenfield2022.png" class="img-fluid figure-img" alt="Cranial Nerve Sympathetic Pathways (from Blumenfield Figure 12.61)"></a></p>
+<p><a href="../../../..\Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/images/fig12.6 cranial nerve parasympathetic pathways blumenfield2022.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" data-glightbox="description: .lightbox-desc-1" title="Cranial Nerve Sympathetic Pathways (from Blumenfield Figure 12.6 @blumenfeldNeuroanatomyClinicalCases2022)"><img src="../../../..\Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/images/fig12.6 cranial nerve parasympathetic pathways blumenfield2022.png" class="img-fluid figure-img" alt="Cranial Nerve Sympathetic Pathways (from Blumenfield Figure 12.61)"></a></p>
 <figcaption>Cranial Nerve Sympathetic Pathways (from Blumenfield Figure 12.6<span class="citation" data-cites="blumenfeldNeuroanatomyClinicalCases2022"><sup><a href="#ref-blumenfeldNeuroanatomyClinicalCases2022" role="doc-biblioref">1</a></sup></span>)</figcaption>
 </figure>
 </div>
@@ -190,6 +257,8 @@ div.csl-indent {
 <span class="glightbox-desc lightbox-desc-1">Cranial Nerve Sympathetic Pathways (from Blumenfield Figure 12.6<span class="citation" data-cites="blumenfeldNeuroanatomyClinicalCases2022"><sup><a href="#ref-blumenfeldNeuroanatomyClinicalCases2022" role="doc-biblioref">1</a></sup></span>)</span>
 </div>
 
+</section>
+</section>
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
 <div id="ref-blumenfeldNeuroanatomyClinicalCases2022" class="csl-entry" role="listitem">
@@ -723,7 +792,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"openEffect":"zoom","loop":false,"selector":".lightbox","closeEffect":"zoom","descPosition":"bottom"});
+<script>var lightboxQuarto = GLightbox({"loop":false,"descPosition":"bottom","selector":".lightbox","openEffect":"zoom","closeEffect":"zoom"});
 window.onload = () => {
   lightboxQuarto.on('slide_before_load', (data) => {
     const { slideIndex, slideNode, slideConfig, player, trigger } = data;

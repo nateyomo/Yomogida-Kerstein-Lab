@@ -3,9 +3,9 @@ title: Spinalis Muscle
 ---
 
 # OIAN
-![Schematic view of the intermediate intrinsic muscles of the back (Erector spinae) @gilroyAtlasAnatomy2020](/Alchemy Archive/Anatomy/OIANs/Muscles of the back/images/3.9a schematic intermediate back muscles gilroyAtlasAnatomy2020.png){#fig-schematicintermediatebackmm39gilroyAtlasAnatomy2020}
+![Schematic view of the intermediate intrinsic muscles of the back (Erector spinae) @gilroyAtlasAnatomy2020](/Alchemy Archive/Anatomy/OIANs/Muscles of the back/images/3.9a schematic intermediate back muscles gilroyAtlasAnatomy2020.png)
 
-![Intermediate intrinsic muscles of the back / Erector spinae (Posterior view) @gilroyAtlasAnatomy2020](/Alchemy Archive/Anatomy/OIANs/Muscles of the back/images/310b intermediate back muscles gilroyAtlasAnatomy2020.png){#fig-intermediatebackmm310gilroyAtlasAnatomy2020}
+![Intermediate intrinsic muscles of the back / Erector spinae (Posterior view) @gilroyAtlasAnatomy2020](/Alchemy Archive/Anatomy/OIANs/Muscles of the back/images/310b intermediate back muscles gilroyAtlasAnatomy2020.png)
 
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|

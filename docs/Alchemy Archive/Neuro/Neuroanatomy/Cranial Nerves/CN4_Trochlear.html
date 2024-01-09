@@ -22,7 +22,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -70,6 +89,9 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script src="../../../../site_libs/quarto-diagram/mermaid.min.js"></script>
+<script src="../../../../site_libs/quarto-diagram/mermaid-init.js"></script>
+<link href="../../../../site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
 
 
 <link rel="stylesheet" href="../../../../styles.css">
@@ -125,7 +147,13 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Contents</h2>
+   
+  <ul>
+  <li><a href="#pathway" id="toc-pathway" class="nav-link active" data-scroll-target="#pathway"><span class="header-section-number">1</span> Pathway</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -156,10 +184,48 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<div class="cell" data-layout-align="default">
+<div class="cell-output-display">
+<div>
+<p></p><figure class="figure"><p></p>
+<div>
+<pre class="mermaid mermaid-js">flowchart TD
+  Lmidbrain[L Tegmentum of Midbrain] --&gt; Decussate[Decussate]
+  Decussate[Decussate] --&gt; Ltrochlearnucleus[L Trochlear Nucleus]
+  
+  Ltrochlearnucleus --&gt; LSOF[L Superior Orbital fissure]
+  LSOF -- Somatic Motor --&gt; LSOM{L Superior Oblique Muscle}
+  
+
+  RA[R tegmentum of the midbrain] --&gt; Decussate[Decussate]
+  Decussate --&gt; Rtrochlearnucleus[R Trochlear Nucleus]
+  Rtrochlearnucleus --&gt; RSOF[R Superior Orbital fissure]
+  RSOF -- somatic motor --&gt; RSOM{R Superior Oblique Muscle}
+
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
+<section id="pathway" class="level1" data-number="1">
+<h1 data-number="1"><span class="header-section-number">1</span> Pathway</h1>
+<ul>
+<li>Exits from the Tegmentum in the Dorsal Midbrain at the level of the inferior colliculus (Near midline &amp; ventral to cerebral aqueduct)<span class="citation" data-cites="blumenfeldNeuroanatomyClinicalCases2022"><sup><a href="#ref-blumenfeldNeuroanatomyClinicalCases2022" role="doc-biblioref">1</a></sup></span></li>
+<li>Trochlear nucleus</li>
+<li>(Decussate) &amp; exit Midbrain -&gt;cavernous sinus -&gt; Superior orbital fissure -&gt; Superior oblique muscle</li>
+</ul>
+<p>Axons leave nucleus &amp; Travel dorsally -&gt; Decussate &amp; Exit midbrain on dorsal surface -&gt; Enter cavernous sinus -&gt; Travel through superior orbital fissure -&gt; Superior oblique muscle</p>
 
 
 
-</main> <!-- /main -->
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-blumenfeldNeuroanatomyClinicalCases2022" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Blumenfeld H. <em>Neuroanatomy Through Clinical Cases</em>. 3rd ed. <span>Oxford university press</span>; 2022.</div>
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
