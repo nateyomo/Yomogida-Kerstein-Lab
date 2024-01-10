@@ -187,12 +187,64 @@ ref-vestibular-nuclei:
 ref-amygdala:
   path: "/Alchemy Archive/Neuro/Neuroanatomy/Limbic System/amygdala.qmd"
 
+### Tracts
+#### Ascending Tracts
+ref-dorsal-column-medial-lemniscus: 
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/DCML and related structures/dorsal_column-medial_lemniscus_DCML.qmd"
+ref-fasciculus-cuneatus:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/DCML and related structures/fasciculus_cuneatus.qmd"
+ref-fasciculus-gracilis:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/DCML and related structures/fasciculus_gracilis.qmd"
+ref-cuneocerebellar-tract:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/cuneocerebellar_tract.qmd"
+ref-dorsal-spinocerebellar-tract:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/dorsal_spinocerebellar_tract.qmd"
+ref-ventral-spinocerebellar-tract:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/ventral_spinocerebellar_tract.qmd"
+ref-spinothalamic-tract:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/spinothalamic_tract.qmd"
+ref-trigeminothalamic-tract:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/trigeminothalamic_tract.qmd"
+ref-spinoreticular-tract:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/spinoreticular_tract.qmd"
+ref-spinomesencephalic-tract:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/spinomesencephalic_tract.qmd"
+ref-spinohypothalamic-tract:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/spinohypothalamic_tract.qmd"
+
+
+
+
+#### Descending Tracts
+ref-extrapyramidal-tracts:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/extrapyramidal_tracts.qmd"
+ref-reticulospinal-tract:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/reticulospinal_tract.qmd"
+ref-rubrospinal-tract:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/rubrospinal_tract.qmd"
+ref-tectospinal-tract:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/tectospinal_tract.qmd"
+ref-vestibulospinal-tract:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/vestibulospinal_tract.qmd"
+ref-pyramidal-tracts:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Pyramidal Tract/pyramidal_tracts.qmd"
+ref-corticobulbar-tract:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Pyramidal Tract/corticobulbar_tract.qmd"
+ref-lateral-corticospinal-tract:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Pyramidal Tract/lateral_corticospinal_tract_LCST.qmd"
+ref-medial-corticospinal-tract:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Pyramidal Tract/medial_corticospinal_tract_MCST.qmd"
+
+
+
 ## Neurophysiology
 ### Special Senses
 ref-gustation:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Neurophysiology/Special Senses/gustation.qmd"
+  path: "/Alchemy Archive/Neuro/Neurophysiology/Special Senses/gustation.qmd"
 ref-olfaction:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Neurophysiology/Special Senses/olfaction.qmd"
+  path: "/Alchemy Archive/Neuro/Neurophysiology/Special Senses/olfaction.qmd"
+ref-vision:
+  path: "/Alchemy Archive/Neuro/Neurophysiology/Special Senses/Vision and eye movement/vision.qmd"
 
 ### Neuro Symptoms
 ref-anosmia:

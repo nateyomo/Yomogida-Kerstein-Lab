@@ -21,7 +21,9 @@ flowchart TD
 
 ```
 
-![Central Olfactory Structures (from Blumenfield Figure 18.6 @blumenfeldNeuroanatomyClinicalCases2022)](/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/images/fig18.6 central olfactory structures blumenfeldNeuroanatomyClinicalCases2022.png)
+
+![Central Olfactory Structures](/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/images/fig18.6 central olfactory structures blumenfeldNeuroanatomyClinicalCases2022.png)
+
 
 # Pathway:
 ## First order neurons:

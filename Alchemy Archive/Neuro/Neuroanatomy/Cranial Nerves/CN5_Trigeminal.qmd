@@ -2,3 +2,88 @@
 title: CNV Trigeminal Nerve
 ---
 
+![Trigeminal Nerve Sensory and Motor pathways (from Blumenfeld figure 12.7 @blumenfeldNeuroanatomyClinicalCases2022)](/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/images/fig12.7 Trigeminal Nerve blumenfeld2022.png)
+
+
+::: {layout-ncol=4}
+
+!["Ventral view of Surface Anatomy of the brainstem and cranial nerves (from fig12.2 of Blumenfeld @blumenfeldNeuroanatomyClinicalCases2022)"](/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/images/fig12.2A Surface anatomy of the brainstem and cranial nerves blumenfield2022.png)
+
+!["Dorsal view of Surface Anatomy of the brainstem and cranial nerves (from fig12.2 of Blumenfeld @blumenfeldNeuroanatomyClinicalCases2022)"](/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/images/fig12.2B Surface anatomy of the brainstem and cranial nerves blumenfield2022.png)
+
+!["Lateral view of the surface Anatomy of the brainstem and cranial nerves (from fig12.2 of Blumenfeld @blumenfeldNeuroanatomyClinicalCases2022)"](/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/images/fig12.2C Surface anatomy of the brainstem and cranial nerves blumenfield2022.png)
+
+!["Skull foramina serving as cranial nerve exit points (from fig12.3 of Blumenfeld @blumenfeldNeuroanatomyClinicalCases2022)"](/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/images/fig12.3 skull foramina serving as cranial nerve exit points blumenfeld2022.png)
+
+
+::: 
+
+
+# Overview
+The trigeminal nerve (CN V) is the fifth cranial nerve and performs general somatic sensory to the fface and branchial motor functions to the muscles of mastication and some surrounding musculature @blumenfeldNeuroanatomyClinicalCases2022.
+
+The Trigeminal nerve (CN V) is divided into three subcategories: Opthalmic division (V~1~), Maxillary division (V~2~), and Mandibular division (V~3~).
+
+
+# Sensory Aspect
+## Sensory Pathway
+
+![Trigeminal Sensory System Nuclei and Pathways (from Blumenfeld figure 12.8 @blumenfeldNeuroanatomyClinicalCases2022)](/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/images/fig12.8 Trigeminal sensory system nuclei and pathways blumenfeld2022.png)
+
+- Somatosensory afferent nerves convey crude touch, pain, and temperature sensation from the face and mouth to the lateral pons @blumenfeldNeuroanatomyClinicalCases2022.
+- These nerve fibers then descend the [spinal trigeminal tract]({{< var ref-trigeminothalamic-tract.path >}}) to synapse in the spinal trigeminal nucleus. Examine the spinal trigeminal nucleus and tract in the serial sections shown in Figures 14.4C and 14.5A–C. It should be clear from these sections that the spinal trigeminal nucleus is the rostral extension of the dorsal horn. Similarly, the spinal trigeminal tract is analogous to Lissauer’s tract (see Figures 6.4 and 7.2). Secondary sensory neurons from the spinal trigeminal nucleus cross the brainstem to ascend as the trigeminothalamic tract (or ventral trigeminothalamic tract). The trigeminothalamic tract is analogous to the spinothalamic tract (see Table 12.6), and the pathways travel together to the thalamus (see Figures 12.8 and 14.3). Trigeminothalamic tract fibers synapse in the thalamic ventral posterior medial nucleus (VPM), and tertiary sensory neurons then travel in the internal capsule to the primary somatosensory cortex. Like the anterolateral systems in the spinal cord, there are also pathways from the spinal trigeminal nucleus to intralaminar thalamic nuclei, the reticular formation, and other areas, to mediate the affective and arousal aspects of facial pain.
+
+## Sensory Function
+
+- V~1~ Opthalmic supplies the upper face
+- V~2~ Maxillary supplies the middle face
+- V~3~ Mandibular supplies the lower face
+
+The trigeminal nerve also provides touch and pain sensation for the nasal sinuses, inside of the nose, mouth, and anterior two-thirds of the tongue. 
+
+
+# Motor Aspect
+## Motor Function
+
+
+# Pathways
+
+- The trigeminal nerve exits the brainstem from the ventrolateral pons @blumenfeldNeuroanatomyClinicalCases2022.
+- Next CN V enters Meckel's Cave (a small fossa posterior and inferolateral to the cavernous sinus) @blumenfeldNeuroanatomyClinicalCases2022.
+- CN V synapses on the trigeminal ganglion (sensory ganglion) in Meckel’s cave @blumenfeldNeuroanatomicalBasisConsciousness2016.
+- The ophthalmic division (V~1~) travels through an inferior section of the cavernous sinus and exits the skull through the superior orbital fissure @blumenfeldNeuroanatomyClinicalCases2022.
+- The maxillary division (V~2~) exits via the foramen rotundum @blumenfeldNeuroanatomyClinicalCases2022
+- The mandibular division (V~3~) via the foramen ovale @blumenfeldNeuroanatomyClinicalCases2022
+
+::: {.callout-tip collapse="true"}
+## Mnemonic
+A way to remember the exit points of each trigeminal division is "Standing Room Occupancy", or SRO (for Superior, Rotundum, Ovale)
+:::
+
+In addition, pain sensation for the supratentorial dura mater is supplied by the trigeminal nerve, while the dura of the posterior fossa is innervated by CN X and upper cervical nerve roots.
+
+Skin of face --> Receptor --> fine touch/dental pressure --> DIVISION --> Chief trigeminal sensory nucleus --> Trigeminal lemniscus --> VPM of thalamus
+
+Skin of face --> Receptor --> Proprioception --> DIVISION --> Mesencephalic trigeminal nucleus --> ?
+
+Skin of face --> Receptor --> Crude touch / Pain / Temperature --> DIVISION --> trigeminothalamic tract --> VPM of Thalamus
+
+# Trigeminal Ganglion
+(AKA "semilunar ganglion" or "gasserian ganglion")
+
+
+
+
+
+
+
+
+| Nucleus  | Sensory Modalities | Main pathway to thalamus | Main thalamic nucleus |
+|------|--------|-------|--|
+|Mesencephalic trigeminal nucleus | Proprioception | - | - |
+| Chief trigeminal sensory nucleus | fine tough; dental pressure | Trigeminal Lemniscus | VPM |
+| Spinal trigeminal nucleus | Crude touch; Pain; Temperature | Trigeminothalamic tract | VPM |
+| Posterior column nuclei | Fine tough; proprioception | Medial lemniscus | VPL |
+| Dorsal horn | Crude touch; Pain; Temperature | Spinothalamic Tract | VPL |
+
+: Analagous Trigeminal and Spinal Somatosensory Systems {.striped .hover}

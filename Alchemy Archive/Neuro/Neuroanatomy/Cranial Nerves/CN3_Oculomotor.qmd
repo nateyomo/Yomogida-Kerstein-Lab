@@ -45,4 +45,5 @@ flowchart TD
 
 ## Parasympathetic efferent to lens
 
+
 ![Cranial Nerve Sympathetic Pathways (from Blumenfield Figure 12.6 @blumenfeldNeuroanatomyClinicalCases2022)](/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/images/fig12.6 cranial nerve parasympathetic pathways blumenfield2022.png)

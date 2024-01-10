@@ -76,6 +76,36 @@ Sensory Nuclei:
 - [CN XI Accessory Nerve]({{< var ref-cn11.path >}})
 - [CN XII Hypoglossal Nerve]({{< var ref-cn12.path >}})
 
+### Tracts
+#### Ascending Tracts
+
+- [Dorsal Column Medial Lemniscus (DCML)]({{< var ref-dorsal-column-medial-lemniscus.path >}})
+    - [Fasciculus Cuneatus]({{< var ref-fasciculus-cuneatus.path >}})
+    - [Fasciculus Gracilis]({{< var ref-fasciculus-gracilis.path >}})
+- [Cuneocerebellar Tract]({{< var ref-cuneocerebellar-tract.path >}})
+- [Dorsal Spinocerebellar Tract]({{< var ref-ref-dorsal-spinocerebellar-tract >}})
+- [Ventral Spinocerebellar Tract]({{< var ref-ventral-spinocerebellar-tract.path >}})
+- [Spinothalamic Tract]({{< var ref-spinothalamic-tract.path >}})
+- [Trigeminothalamic Tract]({{< var ref-trigeminothalamic-tract.path >}})
+- [Spinoreticular Tract]({{< var ref-spinoreticular-tract.path >}})
+- [Spinomesencephalic Tract]({{< var ref-spinomesencephalic-tract.path >}})
+- [Spinohypothalamic Tract]({{< var ref-spinohypothalamic-tract.path >}})
+- Cochlear Pathway
+- [Taste Pathway]({{< var ref-gustation.path >}})
+- [Vision Pathway]({{< var ref-vision.path >}})
+
+#### Descending Tracts
+
+- [Pyramidal Tracts]({{< var ref-pyramidal-tracts.path >}})
+    - [Lateral Corticospinal Tract (LCST)]({{< var ref-lateral-corticospinal-tract.path >}})
+    - [Medial Corticospinal Tract (MCST)]({{< var ref-medial-corticospinal-tract.path >}})
+    - [Corticobulbar Tract]({{< var ref-corticobulbar-tract.path >}})
+- [Extrapyramidal tracts]({{< var ref-extrapyramidal-tracts.path >}})
+    - [Rubrospinal Tract]({{< var ref-rubrospinal-tract.path >}})
+    - [Vestibulospinal Tract]({{< var ref-vestibulospinal-tract.path >}})
+    - [Tectospinal Tract]({{< var ref-tectospinal-tract.path >}})
+    - [Reticulospinal Tract]({{< var ref-reticulospinal-tract.path >}})
+
 
 ## Neurophysiology
 ### Neuro Symptoms
