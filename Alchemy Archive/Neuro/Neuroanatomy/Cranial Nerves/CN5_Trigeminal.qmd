@@ -31,7 +31,12 @@ The Trigeminal nerve (CN V) is divided into three subcategories: Opthalmic divis
 ![Trigeminal Sensory System Nuclei and Pathways (from Blumenfeld figure 12.8 @blumenfeldNeuroanatomyClinicalCases2022)](/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/images/fig12.8 Trigeminal sensory system nuclei and pathways blumenfeld2022.png)
 
 - Somatosensory afferent nerves convey crude touch, pain, and temperature sensation from the face and mouth to the lateral pons @blumenfeldNeuroanatomyClinicalCases2022.
-- These nerve fibers then descend the [spinal trigeminal tract]({{< var ref-trigeminothalamic-tract.path >}}) to synapse in the spinal trigeminal nucleus. Examine the spinal trigeminal nucleus and tract in the serial sections shown in Figures 14.4C and 14.5A–C. It should be clear from these sections that the spinal trigeminal nucleus is the rostral extension of the dorsal horn. Similarly, the spinal trigeminal tract is analogous to Lissauer’s tract (see Figures 6.4 and 7.2). Secondary sensory neurons from the spinal trigeminal nucleus cross the brainstem to ascend as the trigeminothalamic tract (or ventral trigeminothalamic tract). The trigeminothalamic tract is analogous to the spinothalamic tract (see Table 12.6), and the pathways travel together to the thalamus (see Figures 12.8 and 14.3). Trigeminothalamic tract fibers synapse in the thalamic ventral posterior medial nucleus (VPM), and tertiary sensory neurons then travel in the internal capsule to the primary somatosensory cortex. Like the anterolateral systems in the spinal cord, there are also pathways from the spinal trigeminal nucleus to intralaminar thalamic nuclei, the reticular formation, and other areas, to mediate the affective and arousal aspects of facial pain.
+- These nerve fibers then descend the spinal trigeminal tract to synapse in the [spinal trigeminal nucleus]({{< var ref-spinal-trigeminal-tract.path >}}) @blumenfeldNeuroanatomyClinicalCases2022.
+- . Similarly, the spinal trigeminal tract is analogous to Lissauer’s tract (see Figures 6.4 and 7.2). Secondary sensory neurons from the spinal trigeminal nucleus cross the brainstem to ascend as the trigeminothalamic tract (or ventral trigeminothalamic tract). The trigeminothalamic tract is analogous to the spinothalamic tract (see Table 12.6), and the pathways travel together to the thalamus (see Figures 12.8 and 14.3). Trigeminothalamic tract fibers synapse in the thalamic ventral posterior medial nucleus (VPM), and tertiary sensory neurons then travel in the internal capsule to the primary somatosensory cortex. Like the anterolateral systems in the spinal cord, there are also pathways from the spinal trigeminal nucleus to intralaminar thalamic nuclei, the reticular formation, and other areas, to mediate the affective and arousal aspects of facial pain.
+
+
+In summary, it is generally believed that sensory fibers involved in the conduction of pain and temperature spread over the trigeminal sensory nucleus complex (TSNC) and then cross over to the contralateral thalamus and cerebral cortex @henssenNewInsightsTrigeminal2016
+
 
 ## Sensory Function
 
@@ -41,6 +46,9 @@ The Trigeminal nerve (CN V) is divided into three subcategories: Opthalmic divis
 
 The trigeminal nerve also provides touch and pain sensation for the nasal sinuses, inside of the nose, mouth, and anterior two-thirds of the tongue. 
 
+## Dysfunction
+
+- [Trigeminal neuralgia]({{< var ref-trigeminal-neuralgia.path >}})
 
 # Motor Aspect
 ## Motor Function

@@ -11,9 +11,11 @@ title: Spinal Trigeminal Nucleus
 
 The spinal trigeminal nucleus is a sensory nucleus of the [CN V Trigeminal Nerve]({{< var ref-cn5.path >}}).
 
-The spinal trigeminal nucleus is part of  a sensory tract located in the lateral medulla of the brain stem whose principal function is relaying pain and temperature sensations from the oral cavity and the surface of the face. It is subdivided into three segments representing topographical regions of the face in an inverted fashion; the forehead is represented ventrally (distally), and the oral region is represented dorsally (proximally). Lesions of the SN cause important clinical syndromes owing to the crucial utility in the daily life of the orofacial region @patelNeuroanatomySpinalTrigeminal2023
+The spinal trigeminal nucleus is part of  a sensory tract located in the lateral medulla of the brain stem whose principal function is relaying pain and temperature sensations from the oral cavity and the surface of the face.
+It is subdivided into three segments representing topographical regions of the face in an inverted fashion; the forehead is represented ventrally (distally), and the oral region is represented dorsally (proximally). Lesions of the SN cause important clinical syndromes owing to the crucial utility in the daily life of the orofacial region @patelNeuroanatomySpinalTrigeminal2023
 
 The spinal trigeminal nucleus is found in the lateral medulla of the brain stem [@blumenfeldNeuroanatomyClinicalCases2022; @patelNeuroanatomySpinalTrigeminal2023].
 
 <!-- Medium- and small-diameter primary sensory fibers convey this information -->
 
+spinal trigeminal nucleus is the rostral extension of the dorsal horn @blumenfeldNeuroanatomyClinicalCases2022

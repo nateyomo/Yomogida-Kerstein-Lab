@@ -455,109 +455,32 @@
     "text": "A new classification was proposed conceptualizing acute and chronic pain on two dimensions: time and physical pathology1\n\n\n\nPictorial representation of acute and chronic pain1\n\n\nAcute pain is the physiologic response to and experience of noxious stimuli that can become pathologic, is normally sudden in onset, is time-limited, and motivates behaviors to avoid potential or actual tissue injury1. Pain is elicited by the injury of body tissues and activation of nociceptive transducers at the site of local tissue damage1. The local injury alters the response characteristics of the nociceptors and perhaps their central connections and the autonomic nervous system in the region1. In general, the state of acute pain lasts for a relatively limited time and remits when the underlying pathology resolves1. This type of pain often serves as the impetus to seek health care, and it occurs following trauma, some disease processes, and invasive interventions1.\n\n\n\nPictorial representation of acute and chronic pain1"
   },
   {
-    "objectID": "Alchemy Archive/Pain_science/interventions/graded_motor_imagery.html",
-    "href": "Alchemy Archive/Pain_science/interventions/graded_motor_imagery.html",
-    "title": "Graded Motor Imagery",
+    "objectID": "Alchemy Archive/Pain_science/Nociceptors/functional_characterization_of_nociceptors.html",
+    "href": "Alchemy Archive/Pain_science/Nociceptors/functional_characterization_of_nociceptors.html",
+    "title": "Functional characterization of nociceptors",
     "section": "",
-    "text": "“Sequentially activating motor networks in such a way that movement and pain are unpaired1.” For example, a person could move their non-affected arm near a mirror so it appears that both their arms are moving symmetrically. This belief that their arm is moving coupled with the absence of pain will help the patient to begin to separate pain from movement."
+    "text": "In human skin, for example, there exist nociceptors that respond only to mechanical, only to cold thermal, or only to hot thermal stimuli as well as those that are insensitive to both mechanical and heat stimuli (mechanically insensitive or sleeping nociceptors)1\nThe most abundant is the polymodal nociceptor, which responds to mechanical, thermal, and chemical stimuli. In general, nociceptors that innervate skin have the broadest range of modality selectivity1\nnociceptors innervating deeper structures tend to be less modality-selective and more polymodal in character. For example, mechanical sensitivity is a prominent feature of visceral and joint nociceptors because stimuli adequate for their activation include hollow organ distension and overrotation, respectively1.\nMany of these nociceptors also respond to chemical and/or thermal stimuli as well, although the functional significance of thermal sensitivity in deep tissues is uncertain1.\nAn important characteristic of polymodal nociceptors, whether the modalities of stimulation to which they respond are two or all three, is that when sensitized (e.g., by an inflammatory insult), responses to the other modality or modalities of stimuli to which it responds are all increased\n\n1 Mechanosensitivity\nNociceptors with low mechanical thresholds for response and those with very high mechanical thresholds for response (i.e., sleeping nociceptors) are both clinically important.\nMechanosensitive sensory neurons with low thresholds for response have long been classified as “non-nociceptors” (because it was considered that nociceptors had to have response thresholds in the noxious range)1.\nSome mechanosensitive skin, joint, and many visceral sensory neurons have low thresholds for response (i.e., in the nonnoxious range) but possess characteristics that suggest an important role in pain.\n\nFirst: these low-threshold receptors encode stimulus intensity well into the noxious range and, moreover, typically give greater responses to all intensities of stimulation than do nociceptors with high mechanical thresholds for response1.\nSecond: they sensitize after tissue insult. Unlike nociceptors with low mechanical thresholds, mechanically insensitive or sleeping nociceptors normally provide no information to the central nervous system but after tissue insult become spontaneously active and mechanosensitive1.\n\n\n\n\n\n\nReferences\n\n1. Ballantyne J, Fishman S, Rathmell JP, eds. Bonica’s Management of Pain. 5th ed. Wolters Kluwer; 2019."
   },
   {
-    "objectID": "Alchemy Archive/Pain_science/interventions/graded_motor_imagery.html#why-does-crps-benefit-from-gmi",
-    "href": "Alchemy Archive/Pain_science/interventions/graded_motor_imagery.html#why-does-crps-benefit-from-gmi",
-    "title": "Graded Motor Imagery",
-    "section": "3.1 Why Does CRPS benefit from GMI?",
-    "text": "3.1 Why Does CRPS benefit from GMI?\n\nCompared to healthy controls, CRPS has been shown to have differences in the Primary motor cortex and primary somatosensory cortex2.\nPts with upper limbs CRPSLack cortical inhibition of M1 in affected hemisphere (contra to affected hand)2.\nSomatosensory cortex showed reduction in intracortical inhibition2"
-  },
-  {
-    "objectID": "Alchemy Archive/Pain_science/interventions/graded_motor_imagery.html#design",
-    "href": "Alchemy Archive/Pain_science/interventions/graded_motor_imagery.html#design",
-    "title": "Graded Motor Imagery",
-    "section": "4.1 Design",
-    "text": "4.1 Design\n\n26 pts w CRPS\nRandomized controlled crossover study\n2 Groups\n\nOne group: test 6 week GMI therapy test, then 6 week wait\nVs test 6 week wait test then 6 week GMI therapy then test\n\nPts encouraged to exercise 10 min every waking hour during 6 weeks of GMI training (ODD → could affect data???)"
-  },
-  {
-    "objectID": "Alchemy Archive/Pain_science/interventions/graded_motor_imagery.html#gmi",
-    "href": "Alchemy Archive/Pain_science/interventions/graded_motor_imagery.html#gmi",
-    "title": "Graded Motor Imagery",
-    "section": "4.2 GMI",
-    "text": "4.2 GMI\nThe GMI treatment was broken down into 3 stages 1. Left right judgements App: Recognise hand Displays pics randomly and detects speed and error rate of determining R vs L 2. Imagined mvmts 3. Mirror therapy"
-  },
-  {
-    "objectID": "Alchemy Archive/Pain_science/interventions/graded_motor_imagery.html#objective-measures",
-    "href": "Alchemy Archive/Pain_science/interventions/graded_motor_imagery.html#objective-measures",
-    "title": "Graded Motor Imagery",
-    "section": "4.3 Objective measures",
-    "text": "4.3 Objective measures\n\nPts asked to keep pain diary\nHandedness, clinical parameters (CSS - crps severity score), quick DASH, rest pain and mvmts (clenching and unclenching fist 5x), pain via VAS, somatosensory (cutaneous sensory thresholds on first and fifth finger) and motor testing\nTwo point resolution and grating orientation task were tested\nManual dexterity via roeder manipulative aptitute test\nAll were tested pre, post 6 weeks then post 12 weeks\nFMRI was also taken\nTranscranial magnetic stimuli\nShort intracortical inhibition and intracortical faciliaiton measurements"
-  },
-  {
-    "objectID": "Alchemy Archive/Pain_science/interventions/graded_motor_imagery.html#results",
-    "href": "Alchemy Archive/Pain_science/interventions/graded_motor_imagery.html#results",
-    "title": "Graded Motor Imagery",
-    "section": "4.4 Results",
-    "text": "4.4 Results\n\n4.4.1 CRPS vs unaffected pts at baseline:\n\nCRPS: motor performance, short intracortical inhibition and facilitation (short intracortical inhibition smaller and intracortical facilitation higher for the affected side)\nFmri activation magnitude in S1 ( ) was inc for mvmt of affected hand\nNo diff between sides for somatosensory measures\nWorse performance in CRPS for graded orientation task and two point resolution\nFor TMS: short intracortical inhibition was lower in CRPS pts than in controls\nS1 (primary somatosensory cortex) fmri activation inc in pts when compared to HC (hand control) for mvmt of affected side\nIntracortical facilitation was not different between CRPS at baseline and HC for affected hand side.\n\nTreatment time between groups - Intervention order showed no diff - ANOVA testing showed trend for pain relief after intervention - After GMI, pain in VAS went on average from a 6.3 to a 5.0 - CSS was reduced from 12 to 11 over the GMI intervention - GMI showed dec self rated functional impairment of upper limb - Summary: pain, roeder, TPR (two point resolution), and S1 activation reduced, while SICI (inhibition) increased.\nBaseline other things: - Longer CRPS present, worse the motor performance of affected hand - Inc mvmt pain of hand was associated w dec short intracortical inhibition and Inc s1 activation\nAfter GMI - Dec in S1 activation w somatosensory stimulation (GOT gain) - Roeder , TPR , inhibition and S1 motor task all were significantly changed w GMI - FMRI confirmed changes - Primary outcome: parameter mvmt pain decreased w GMI (small effect) - Also found dec in clinical scores (CSS) , inc use of affected hand side (DASH), improvement of motor function (Roeder) and spatial tactile performance (TPR) - Intracortical inhibition incd over txt whereas fmri activation in S1 decreased (good!) - Hand representation size in affected hemisphere was modified, accompanied by mvmt pain relief - No relief of mvmt pain at follow up 6 months later"
-  },
-  {
-    "objectID": "Alchemy Archive/Pain_science/Complex regional pain syndrome/CRPS_Type1.html",
-    "href": "Alchemy Archive/Pain_science/Complex regional pain syndrome/CRPS_Type1.html",
-    "title": "Complex Regional Pain Syndrome Type I (Formerly reflex sympathetic dystrophy)",
+    "objectID": "Alchemy Archive/Pain_science/Complex regional pain syndrome/CRPS_Type2.html",
+    "href": "Alchemy Archive/Pain_science/Complex regional pain syndrome/CRPS_Type2.html",
+    "title": "Complex regional pain syndrome type 2 (formerly causalgia)",
     "section": "",
-    "text": "A syndrome that usually develops after an initiating noxious event, is not limited to the distribution of a single peripheral nerve, and is apparently disproportionate to the inciting event. It is associated at some point with evidence of edema, changes in skin blood flow, abnormal pseudomotor activity in the region of the pain, or allodynia or hyperalgesia. Specific criteria for the diagnosis of complex regional pain syndrome (CRPS) have been proposed.1\n\n\n\n\nReferences\n\n1. Ballantyne J, Fishman S, Rathmell JP, eds. Bonica’s Management of Pain. 5th ed. Wolters Kluwer; 2019."
+    "text": "A syndrome of sustained burning pain, allodynia, and hyperpathia following a traumatic nerve lesion, often combined with vasomotor dysfunction and later trophic changes1\n\n\n\n\nReferences\n\n1. Ballantyne J, Fishman S, Rathmell JP, eds. Bonica’s Management of Pain. 5th ed. Wolters Kluwer; 2019."
   },
   {
-    "objectID": "Alchemy Archive/Neuro/neuro_index.html",
-    "href": "Alchemy Archive/Neuro/neuro_index.html",
-    "title": "Index of Neuro archives",
+    "objectID": "Alchemy Archive/Pain_science/Complex regional pain syndrome/CRPS_complex_regional_pain_syndrome.html",
+    "href": "Alchemy Archive/Pain_science/Complex regional pain syndrome/CRPS_complex_regional_pain_syndrome.html",
+    "title": "Complex Regional Pain Syndrome (CRPS)",
     "section": "",
-    "text": "Basal ganglia (Overview)\n\nStriatum (Caudate nucleus & Putamen)\nLentiform Nucleus (Putamen + Globus pallidus)\nCaudate Nucleus\nPutamen\nGlobus pallidus\nSubthalamic nucleus (ST Nuclues)\nSubstantia Nigra\n\nBasal Ganglia Nuclei Types:\n\nInput Nuclei\nOutput Nuclei\nIntrinsic Nuclei\n\nBasal ganglia pathways:\n\nIndirect pathway\nDirect Pathway\nNigrostriatal Pathway\n\n\n\n\nCranial Nerve Nuclei\n\nSomatic motor nuclei:\n\nOculomotor Nucleus\nTrochlear Nucleus\n\nAbducens Nucleus\nHypoglossal Nucleus\n\nBranchial Motor Nuclei:\n\nTrigeminal Motor Nucleus\nFacial Nucleus\nNucleus Ambiguous\nSpinal Accessory Nucleus\n\nParasympathetic Nuclei:\n\nEdinger-Westphal Nucleus\nSuperior Salivatory Nucleus\nInferior Salivatory Nucleus\nDorsal Motor Nucleus of the Vagus\n\n\nSensory Nuclei:\n\nVisceral Sensory Column:\n\nRostral portion of Nucleus Solitarius\nCaudal portion of Nucleus Solitarius\n\nGeneral Somatosensory Nuclei:\n\nTrigeminal Sensory nuclei\n\nMesencephalic nucleus of CN V\nMain sensory nucleus of CN V\nSpinal Trigeminal nucleus\n\n\nSpecial Somatic Sensory Nuclei: Hearing & Balance\n\nCochlear Nuclei\nVestibular Nuclei\n\n\nCranial Nerves\n\nCN I Olfactory Nerve\nCN II Optic Nerve\nCN III Oculomotor Nerve\nCN IV Trochlear Nerve\nCN V Trigeminal Nerve\nCN VI Abducens Nerve\nCN VII Facial Nerve\nCN VIII Vestibulocochlear Nerve\nCN IX Glossopharyngeal Nerve\nCN X Vagus Nerve\nCN XI Accessory Nerve\nCN XII Hypoglossal Nerve\n\n\n\n\n\n\n\nDorsal Column Medial Lemniscus (DCML)\n\nFasciculus Cuneatus\nFasciculus Gracilis\n\nCuneocerebellar Tract\nDorsal Spinocerebellar Tract\nVentral Spinocerebellar Tract\nSpinothalamic Tract\nTrigeminothalamic Tract\nSpinoreticular Tract\nSpinomesencephalic Tract\nSpinohypothalamic Tract\nCochlear Pathway\nTaste Pathway\nVision Pathway\n\n\n\n\n\nPyramidal Tracts\n\nLateral Corticospinal Tract (LCST)\nMedial Corticospinal Tract (MCST)\nCorticobulbar Tract\n\nExtrapyramidal tracts\n\nRubrospinal Tract\nVestibulospinal Tract\nTectospinal Tract\nReticulospinal Tract"
+    "text": "1 Types\n\nType I\nType II"
   },
   {
-    "objectID": "Alchemy Archive/Neuro/neuro_index.html#neuroanatomy",
-    "href": "Alchemy Archive/Neuro/neuro_index.html#neuroanatomy",
-    "title": "Index of Neuro archives",
+    "objectID": "Alchemy Archive/Neuro/Neurophysiology/Special Senses/olfaction.html",
+    "href": "Alchemy Archive/Neuro/Neurophysiology/Special Senses/olfaction.html",
+    "title": "Olfaction (Smell)",
     "section": "",
-    "text": "Basal ganglia (Overview)\n\nStriatum (Caudate nucleus & Putamen)\nLentiform Nucleus (Putamen + Globus pallidus)\nCaudate Nucleus\nPutamen\nGlobus pallidus\nSubthalamic nucleus (ST Nuclues)\nSubstantia Nigra\n\nBasal Ganglia Nuclei Types:\n\nInput Nuclei\nOutput Nuclei\nIntrinsic Nuclei\n\nBasal ganglia pathways:\n\nIndirect pathway\nDirect Pathway\nNigrostriatal Pathway\n\n\n\n\nCranial Nerve Nuclei\n\nSomatic motor nuclei:\n\nOculomotor Nucleus\nTrochlear Nucleus\n\nAbducens Nucleus\nHypoglossal Nucleus\n\nBranchial Motor Nuclei:\n\nTrigeminal Motor Nucleus\nFacial Nucleus\nNucleus Ambiguous\nSpinal Accessory Nucleus\n\nParasympathetic Nuclei:\n\nEdinger-Westphal Nucleus\nSuperior Salivatory Nucleus\nInferior Salivatory Nucleus\nDorsal Motor Nucleus of the Vagus\n\n\nSensory Nuclei:\n\nVisceral Sensory Column:\n\nRostral portion of Nucleus Solitarius\nCaudal portion of Nucleus Solitarius\n\nGeneral Somatosensory Nuclei:\n\nTrigeminal Sensory nuclei\n\nMesencephalic nucleus of CN V\nMain sensory nucleus of CN V\nSpinal Trigeminal nucleus\n\n\nSpecial Somatic Sensory Nuclei: Hearing & Balance\n\nCochlear Nuclei\nVestibular Nuclei\n\n\nCranial Nerves\n\nCN I Olfactory Nerve\nCN II Optic Nerve\nCN III Oculomotor Nerve\nCN IV Trochlear Nerve\nCN V Trigeminal Nerve\nCN VI Abducens Nerve\nCN VII Facial Nerve\nCN VIII Vestibulocochlear Nerve\nCN IX Glossopharyngeal Nerve\nCN X Vagus Nerve\nCN XI Accessory Nerve\nCN XII Hypoglossal Nerve\n\n\n\n\n\n\n\nDorsal Column Medial Lemniscus (DCML)\n\nFasciculus Cuneatus\nFasciculus Gracilis\n\nCuneocerebellar Tract\nDorsal Spinocerebellar Tract\nVentral Spinocerebellar Tract\nSpinothalamic Tract\nTrigeminothalamic Tract\nSpinoreticular Tract\nSpinomesencephalic Tract\nSpinohypothalamic Tract\nCochlear Pathway\nTaste Pathway\nVision Pathway\n\n\n\n\n\nPyramidal Tracts\n\nLateral Corticospinal Tract (LCST)\nMedial Corticospinal Tract (MCST)\nCorticobulbar Tract\n\nExtrapyramidal tracts\n\nRubrospinal Tract\nVestibulospinal Tract\nTectospinal Tract\nReticulospinal Tract"
-  },
-  {
-    "objectID": "Alchemy Archive/Neuro/neuro_index.html#neurophysiology",
-    "href": "Alchemy Archive/Neuro/neuro_index.html#neurophysiology",
-    "title": "Index of Neuro archives",
-    "section": "2 Neurophysiology",
-    "text": "2 Neurophysiology\n\n2.1 Neuro Symptoms\n\nAnosmia\n\n\n\n2.2 Special Senses\n\nGustation\nOlfaction"
-  },
-  {
-    "objectID": "Alchemy Archive/Neuro/neuro_index.html#neuropathology",
-    "href": "Alchemy Archive/Neuro/neuro_index.html#neuropathology",
-    "title": "Index of Neuro archives",
-    "section": "3 Neuropathology",
-    "text": "3 Neuropathology\n\n3.1 PNS Pathologies\n\n\n3.2 CNS Pathologies\nAmyotrophic Lateral Sclerosis (ALS)"
-  },
-  {
-    "objectID": "Alchemy Archive/Neuro/Neurophysiology/Special Senses/Vision and eye movement/extraocular_motor_control.html",
-    "href": "Alchemy Archive/Neuro/Neurophysiology/Special Senses/Vision and eye movement/extraocular_motor_control.html",
-    "title": "Extraocular Motor Control (CNIII, IV, VI)",
-    "section": "",
-    "text": "Blumenfield Ch12, Ch131"
-  },
-  {
-    "objectID": "Alchemy Archive/Neuro/Neurophysiology/Special Senses/Vision and eye movement/extraocular_motor_control.html#cranial-nerve-nuclei",
-    "href": "Alchemy Archive/Neuro/Neurophysiology/Special Senses/Vision and eye movement/extraocular_motor_control.html#cranial-nerve-nuclei",
-    "title": "Extraocular Motor Control (CNIII, IV, VI)",
-    "section": "2.1 Cranial Nerve Nuclei",
-    "text": "2.1 Cranial Nerve Nuclei\n\nThe oculomotor nucleus (CN III) and the Trochlear nucleus (CN IV) are located in the midbrain\nThe abducens nucleus (CN VI) is found in the pons1."
-  },
-  {
-    "objectID": "Alchemy Archive/Neuro/Neurophysiology/Special Senses/Vision and eye movement/extraocular_motor_control.html#nerve-pathways",
-    "href": "Alchemy Archive/Neuro/Neurophysiology/Special Senses/Vision and eye movement/extraocular_motor_control.html#nerve-pathways",
-    "title": "Extraocular Motor Control (CNIII, IV, VI)",
-    "section": "2.2 Nerve Pathways",
-    "text": "2.2 Nerve Pathways\n\nExit:\n\nCN III exits the midbrain ventrally in the interpeduncular fossa1.\nCN IV exits the midbrain dorsally from the inferior tectum1.\nCN VI exits the pons ventrally at the pontomedullary junction1.\n\nPathway:\n\nAll 3 of these nerves traverse the cavernous sinus and then leave the skull through the superior orbital fissure to synapse and innervate the extraocular muscles1."
-  },
-  {
-    "objectID": "Alchemy Archive/Neuro/Neurophysiology/Special Senses/Vision and eye movement/extraocular_motor_control.html#case-study-rongies-2019",
-    "href": "Alchemy Archive/Neuro/Neurophysiology/Special Senses/Vision and eye movement/extraocular_motor_control.html#case-study-rongies-2019",
-    "title": "Extraocular Motor Control (CNIII, IV, VI)",
-    "section": "4.1 Case study: Rongies (2019)",
-    "text": "4.1 Case study: Rongies (2019)\nA case study by Rongies et al., (2019)2 discussed and outlined the physical therapy rehabilitation of a patient who experienced CN III, IV, and VI damage resulting in extraocular muscle paralysis due to bacterial infection2. The patient received natural and synthetic antibiotics and steroids to resolve the acute signs of infection, but this did not yield any functional improvement2. Rongies et al., found full and rapid resolution of extraocular paralysis and diploplia using periorbital hydrocortisone iontophoresis, visuomotor exercises combined with intense ideomotor stimulation2.\nInterventions\n\nIontophoresis\n\nIontophoretic treatment of various ophthalmic conditions2.\nUsed as a means of noninvasive, transdermal drug delivery\nPerformed in the orbital region affected by extraocular muscle palsy ( The selected technique of ocular iontophoresis was indirect, through a closed eyelid)2.\nDrug: Corhydron 100 [hydrocortisone] at 50 mg/5mL of a sodium chloride solution as a solvent2.\nThe procedure used direct (or galvanic) current.\nDuration of each single iontophoresis procedure was 20 minutes2\nPt position: Upright sitting position with head and forearms supported (to enable observation of autonomic nervous system related adverse effects)2.\n\nExercise\n\nExercise performed immediately after iontophoresis2.\n30-minute set of PT supervised exercises2.\nBreaks\n\nAllowed if: 1. Pt reported feeling of muscle fatigue or 2. distinct deceleration of eyeball movements was observed\nFrequency of breaks: gradually decreased from every several seconds to every 2 minutes\n\nExercise Type: Attempts to follow with the gaze an object (patient’s hand) moving diagonally in space (in alternate pattern), with additional simultaneous ideomotor stimulation2.\nThe amplitude of movement progressively increased during the rehabilitation sessions. The patient performed his exercises in sitting and standing positions positions which improved comfort by avoiding forced position. His head was still. Each exercise session was conducted in setting that limited the patient’s distraction. The patient was advised to perform these exercises at home 2-3 times a day. The outcome measures for this study were the range of eye movement, reaction times during eye movement and muscle endurance, in comparison with these in the unaffected eye. The results were evaluated visually by 3 independent researchers who were not involved in the process of treatment. The range of movement improvement has been documented in the picture.\n\nResults:\n\nRongies used daily physical therapy and the patient regained distinct movement within 4 days2.\nBy session 16, the patient displayed complete return of function in all paralyzed muscles2."
+    "text": "1 Dysfunction\n\nAnosmosia"
   },
   {
     "objectID": "Alchemy Archive/Neuro/Neuropathology/Multiple Sclerosis/MS_fall_risk_interventions.html",
@@ -592,7 +515,7 @@
     "href": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN5_Trigeminal.html#sensory-pathway",
     "title": "CNV Trigeminal Nerve",
     "section": "2.1 Sensory Pathway",
-    "text": "2.1 Sensory Pathway\n\n\n\nTrigeminal Sensory System Nuclei and Pathways (from Blumenfeld figure 12.81)\n\n\n\nSomatosensory afferent nerves convey crude touch, pain, and temperature sensation from the face and mouth to the lateral pons1.\nThese nerve fibers then descend the spinal trigeminal tract to synapse in the spinal trigeminal nucleus. Examine the spinal trigeminal nucleus and tract in the serial sections shown in Figures 14.4C and 14.5A–C. It should be clear from these sections that the spinal trigeminal nucleus is the rostral extension of the dorsal horn. Similarly, the spinal trigeminal tract is analogous to Lissauer’s tract (see Figures 6.4 and 7.2). Secondary sensory neurons from the spinal trigeminal nucleus cross the brainstem to ascend as the trigeminothalamic tract (or ventral trigeminothalamic tract). The trigeminothalamic tract is analogous to the spinothalamic tract (see Table 12.6), and the pathways travel together to the thalamus (see Figures 12.8 and 14.3). Trigeminothalamic tract fibers synapse in the thalamic ventral posterior medial nucleus (VPM), and tertiary sensory neurons then travel in the internal capsule to the primary somatosensory cortex. Like the anterolateral systems in the spinal cord, there are also pathways from the spinal trigeminal nucleus to intralaminar thalamic nuclei, the reticular formation, and other areas, to mediate the affective and arousal aspects of facial pain."
+    "text": "2.1 Sensory Pathway\n\n\n\nTrigeminal Sensory System Nuclei and Pathways (from Blumenfeld figure 12.81)\n\n\n\nSomatosensory afferent nerves convey crude touch, pain, and temperature sensation from the face and mouth to the lateral pons1.\nThese nerve fibers then descend the spinal trigeminal tract to synapse in the spinal trigeminal nucleus1.\n. Similarly, the spinal trigeminal tract is analogous to Lissauer’s tract (see Figures 6.4 and 7.2). Secondary sensory neurons from the spinal trigeminal nucleus cross the brainstem to ascend as the trigeminothalamic tract (or ventral trigeminothalamic tract). The trigeminothalamic tract is analogous to the spinothalamic tract (see Table 12.6), and the pathways travel together to the thalamus (see Figures 12.8 and 14.3). Trigeminothalamic tract fibers synapse in the thalamic ventral posterior medial nucleus (VPM), and tertiary sensory neurons then travel in the internal capsule to the primary somatosensory cortex. Like the anterolateral systems in the spinal cord, there are also pathways from the spinal trigeminal nucleus to intralaminar thalamic nuclei, the reticular formation, and other areas, to mediate the affective and arousal aspects of facial pain.\n\nIn summary, it is generally believed that sensory fibers involved in the conduction of pain and temperature spread over the trigeminal sensory nucleus complex (TSNC) and then cross over to the contralateral thalamus and cerebral cortex2"
   },
   {
     "objectID": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN5_Trigeminal.html#sensory-function",
@@ -600,6 +523,13 @@
     "title": "CNV Trigeminal Nerve",
     "section": "2.2 Sensory Function",
     "text": "2.2 Sensory Function\n\nV1 Opthalmic supplies the upper face\nV2 Maxillary supplies the middle face\nV3 Mandibular supplies the lower face\n\nThe trigeminal nerve also provides touch and pain sensation for the nasal sinuses, inside of the nose, mouth, and anterior two-thirds of the tongue."
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN5_Trigeminal.html#dysfunction",
+    "href": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN5_Trigeminal.html#dysfunction",
+    "title": "CNV Trigeminal Nerve",
+    "section": "2.3 Dysfunction",
+    "text": "2.3 Dysfunction\n\nTrigeminal neuralgia"
   },
   {
     "objectID": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN5_Trigeminal.html#motor-function",
@@ -2174,7 +2104,7 @@
     "href": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/spinal_trigeminal_nucleus.html",
     "title": "Spinal Trigeminal Nucleus",
     "section": "",
-    "text": "Somatotopic maps of the spinal trigeminal nucleus (See Blumenfeld figure 12.91)\n\n\n\n1 Overview\nThe spinal trigeminal nucleus is a sensory nucleus of the CN V Trigeminal Nerve.\nThe spinal trigeminal nucleus is part of a sensory tract located in the lateral medulla of the brain stem whose principal function is relaying pain and temperature sensations from the oral cavity and the surface of the face. It is subdivided into three segments representing topographical regions of the face in an inverted fashion; the forehead is represented ventrally (distally), and the oral region is represented dorsally (proximally). Lesions of the SN cause important clinical syndromes owing to the crucial utility in the daily life of the orofacial region2\nThe spinal trigeminal nucleus is found in the lateral medulla of the brain stem1,2.\n\n\n\n\nSomatotopic maps of the spinal trigeminal nucleus (See Blumenfeld figure 12.91)\n\n\n\n\nReferences\n\n1. Blumenfeld H. Neuroanatomy Through Clinical Cases. 3rd ed. Oxford university press; 2022.\n\n\n2. Patel NM, Jozsa F, M Das J. Neuroanatomy, Spinal Trigeminal Nucleus. In: StatPearls. StatPearls Publishing; 2023."
+    "text": "Somatotopic maps of the spinal trigeminal nucleus (See Blumenfeld figure 12.91)\n\n\n\n1 Overview\nThe spinal trigeminal nucleus is a sensory nucleus of the CN V Trigeminal Nerve.\nThe spinal trigeminal nucleus is part of a sensory tract located in the lateral medulla of the brain stem whose principal function is relaying pain and temperature sensations from the oral cavity and the surface of the face. It is subdivided into three segments representing topographical regions of the face in an inverted fashion; the forehead is represented ventrally (distally), and the oral region is represented dorsally (proximally). Lesions of the SN cause important clinical syndromes owing to the crucial utility in the daily life of the orofacial region2\nThe spinal trigeminal nucleus is found in the lateral medulla of the brain stem1,2.\n\nspinal trigeminal nucleus is the rostral extension of the dorsal horn1\n\n\n\nSomatotopic maps of the spinal trigeminal nucleus (See Blumenfeld figure 12.91)\n\n\n\n\nReferences\n\n1. Blumenfeld H. Neuroanatomy Through Clinical Cases. 3rd ed. Oxford university press; 2022.\n\n\n2. Patel NM, Jozsa F, M Das J. Neuroanatomy, Spinal Trigeminal Nucleus. In: StatPearls. StatPearls Publishing; 2023."
   },
   {
     "objectID": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/trigeminal_motor_nucleus.html",
@@ -2282,32 +2212,123 @@
     "text": "4.6 Other Theories\nOther theories have been devised to explain the onset of ALS, but these have limited or indirect evidence1.\n\nExogenous or environmental factors1\nApoptosis1\nViral infection1"
   },
   {
-    "objectID": "Alchemy Archive/Neuro/Neurophysiology/Special Senses/olfaction.html",
-    "href": "Alchemy Archive/Neuro/Neurophysiology/Special Senses/olfaction.html",
-    "title": "Olfaction (Smell)",
+    "objectID": "Alchemy Archive/Neuro/Neuropathology/Peripheral Nervous System Pathologies/Peripheral Neuralgia/trigeminal_neuralgia.html",
+    "href": "Alchemy Archive/Neuro/Neuropathology/Peripheral Nervous System Pathologies/Peripheral Neuralgia/trigeminal_neuralgia.html",
+    "title": "Trigeminal Neuralgia",
     "section": "",
-    "text": "1 Dysfunction\n\nAnosmosia"
+    "text": "One of the most severe and highly incapacitating conditions in which pharmacological treatments have an insufficient effect, are called trigeminal neuropathies, clinically often known as trigeminal neuralgia1\n\n\n\n\nReferences\n\n1. Henssen DJHA, Kurt E, Kozicz T, van Dongen R, Bartels RHMA, van Cappellen van Walsum AM. New Insights in Trigeminal Anatomy: A Double Orofacial Tract for Nociceptive Input. Frontiers in Neuroanatomy. 2016;10:53. doi:10.3389/fnana.2016.00053"
   },
   {
-    "objectID": "Alchemy Archive/Pain_science/Complex regional pain syndrome/CRPS_complex_regional_pain_syndrome.html",
-    "href": "Alchemy Archive/Pain_science/Complex regional pain syndrome/CRPS_complex_regional_pain_syndrome.html",
-    "title": "Complex Regional Pain Syndrome (CRPS)",
+    "objectID": "Alchemy Archive/Neuro/Neurophysiology/Special Senses/Vision and eye movement/extraocular_motor_control.html",
+    "href": "Alchemy Archive/Neuro/Neurophysiology/Special Senses/Vision and eye movement/extraocular_motor_control.html",
+    "title": "Extraocular Motor Control (CNIII, IV, VI)",
     "section": "",
-    "text": "1 Types\n\nType I\nType II"
+    "text": "Blumenfield Ch12, Ch131"
   },
   {
-    "objectID": "Alchemy Archive/Pain_science/Complex regional pain syndrome/CRPS_Type2.html",
-    "href": "Alchemy Archive/Pain_science/Complex regional pain syndrome/CRPS_Type2.html",
-    "title": "Complex regional pain syndrome type 2 (formerly causalgia)",
-    "section": "",
-    "text": "A syndrome of sustained burning pain, allodynia, and hyperpathia following a traumatic nerve lesion, often combined with vasomotor dysfunction and later trophic changes1\n\n\n\n\nReferences\n\n1. Ballantyne J, Fishman S, Rathmell JP, eds. Bonica’s Management of Pain. 5th ed. Wolters Kluwer; 2019."
+    "objectID": "Alchemy Archive/Neuro/Neurophysiology/Special Senses/Vision and eye movement/extraocular_motor_control.html#cranial-nerve-nuclei",
+    "href": "Alchemy Archive/Neuro/Neurophysiology/Special Senses/Vision and eye movement/extraocular_motor_control.html#cranial-nerve-nuclei",
+    "title": "Extraocular Motor Control (CNIII, IV, VI)",
+    "section": "2.1 Cranial Nerve Nuclei",
+    "text": "2.1 Cranial Nerve Nuclei\n\nThe oculomotor nucleus (CN III) and the Trochlear nucleus (CN IV) are located in the midbrain\nThe abducens nucleus (CN VI) is found in the pons1."
   },
   {
-    "objectID": "Alchemy Archive/Pain_science/Nociceptors/functional_characterization_of_nociceptors.html",
-    "href": "Alchemy Archive/Pain_science/Nociceptors/functional_characterization_of_nociceptors.html",
-    "title": "Functional characterization of nociceptors",
+    "objectID": "Alchemy Archive/Neuro/Neurophysiology/Special Senses/Vision and eye movement/extraocular_motor_control.html#nerve-pathways",
+    "href": "Alchemy Archive/Neuro/Neurophysiology/Special Senses/Vision and eye movement/extraocular_motor_control.html#nerve-pathways",
+    "title": "Extraocular Motor Control (CNIII, IV, VI)",
+    "section": "2.2 Nerve Pathways",
+    "text": "2.2 Nerve Pathways\n\nExit:\n\nCN III exits the midbrain ventrally in the interpeduncular fossa1.\nCN IV exits the midbrain dorsally from the inferior tectum1.\nCN VI exits the pons ventrally at the pontomedullary junction1.\n\nPathway:\n\nAll 3 of these nerves traverse the cavernous sinus and then leave the skull through the superior orbital fissure to synapse and innervate the extraocular muscles1."
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/Neurophysiology/Special Senses/Vision and eye movement/extraocular_motor_control.html#case-study-rongies-2019",
+    "href": "Alchemy Archive/Neuro/Neurophysiology/Special Senses/Vision and eye movement/extraocular_motor_control.html#case-study-rongies-2019",
+    "title": "Extraocular Motor Control (CNIII, IV, VI)",
+    "section": "4.1 Case study: Rongies (2019)",
+    "text": "4.1 Case study: Rongies (2019)\nA case study by Rongies et al., (2019)2 discussed and outlined the physical therapy rehabilitation of a patient who experienced CN III, IV, and VI damage resulting in extraocular muscle paralysis due to bacterial infection2. The patient received natural and synthetic antibiotics and steroids to resolve the acute signs of infection, but this did not yield any functional improvement2. Rongies et al., found full and rapid resolution of extraocular paralysis and diploplia using periorbital hydrocortisone iontophoresis, visuomotor exercises combined with intense ideomotor stimulation2.\nInterventions\n\nIontophoresis\n\nIontophoretic treatment of various ophthalmic conditions2.\nUsed as a means of noninvasive, transdermal drug delivery\nPerformed in the orbital region affected by extraocular muscle palsy ( The selected technique of ocular iontophoresis was indirect, through a closed eyelid)2.\nDrug: Corhydron 100 [hydrocortisone] at 50 mg/5mL of a sodium chloride solution as a solvent2.\nThe procedure used direct (or galvanic) current.\nDuration of each single iontophoresis procedure was 20 minutes2\nPt position: Upright sitting position with head and forearms supported (to enable observation of autonomic nervous system related adverse effects)2.\n\nExercise\n\nExercise performed immediately after iontophoresis2.\n30-minute set of PT supervised exercises2.\nBreaks\n\nAllowed if: 1. Pt reported feeling of muscle fatigue or 2. distinct deceleration of eyeball movements was observed\nFrequency of breaks: gradually decreased from every several seconds to every 2 minutes\n\nExercise Type: Attempts to follow with the gaze an object (patient’s hand) moving diagonally in space (in alternate pattern), with additional simultaneous ideomotor stimulation2.\nThe amplitude of movement progressively increased during the rehabilitation sessions. The patient performed his exercises in sitting and standing positions positions which improved comfort by avoiding forced position. His head was still. Each exercise session was conducted in setting that limited the patient’s distraction. The patient was advised to perform these exercises at home 2-3 times a day. The outcome measures for this study were the range of eye movement, reaction times during eye movement and muscle endurance, in comparison with these in the unaffected eye. The results were evaluated visually by 3 independent researchers who were not involved in the process of treatment. The range of movement improvement has been documented in the picture.\n\nResults:\n\nRongies used daily physical therapy and the patient regained distinct movement within 4 days2.\nBy session 16, the patient displayed complete return of function in all paralyzed muscles2."
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/neuro_index.html",
+    "href": "Alchemy Archive/Neuro/neuro_index.html",
+    "title": "Index of Neuro archives",
     "section": "",
-    "text": "In human skin, for example, there exist nociceptors that respond only to mechanical, only to cold thermal, or only to hot thermal stimuli as well as those that are insensitive to both mechanical and heat stimuli (mechanically insensitive or sleeping nociceptors)1\nThe most abundant is the polymodal nociceptor, which responds to mechanical, thermal, and chemical stimuli. In general, nociceptors that innervate skin have the broadest range of modality selectivity1\nnociceptors innervating deeper structures tend to be less modality-selective and more polymodal in character. For example, mechanical sensitivity is a prominent feature of visceral and joint nociceptors because stimuli adequate for their activation include hollow organ distension and overrotation, respectively1.\nMany of these nociceptors also respond to chemical and/or thermal stimuli as well, although the functional significance of thermal sensitivity in deep tissues is uncertain1.\nAn important characteristic of polymodal nociceptors, whether the modalities of stimulation to which they respond are two or all three, is that when sensitized (e.g., by an inflammatory insult), responses to the other modality or modalities of stimuli to which it responds are all increased\n\n1 Mechanosensitivity\nNociceptors with low mechanical thresholds for response and those with very high mechanical thresholds for response (i.e., sleeping nociceptors) are both clinically important.\nMechanosensitive sensory neurons with low thresholds for response have long been classified as “non-nociceptors” (because it was considered that nociceptors had to have response thresholds in the noxious range)1.\nSome mechanosensitive skin, joint, and many visceral sensory neurons have low thresholds for response (i.e., in the nonnoxious range) but possess characteristics that suggest an important role in pain.\n\nFirst: these low-threshold receptors encode stimulus intensity well into the noxious range and, moreover, typically give greater responses to all intensities of stimulation than do nociceptors with high mechanical thresholds for response1.\nSecond: they sensitize after tissue insult. Unlike nociceptors with low mechanical thresholds, mechanically insensitive or sleeping nociceptors normally provide no information to the central nervous system but after tissue insult become spontaneously active and mechanosensitive1.\n\n\n\n\n\n\nReferences\n\n1. Ballantyne J, Fishman S, Rathmell JP, eds. Bonica’s Management of Pain. 5th ed. Wolters Kluwer; 2019."
+    "text": "Basal ganglia (Overview)\n\nStriatum (Caudate nucleus & Putamen)\nLentiform Nucleus (Putamen + Globus pallidus)\nCaudate Nucleus\nPutamen\nGlobus pallidus\nSubthalamic nucleus (ST Nuclues)\nSubstantia Nigra\n\nBasal Ganglia Nuclei Types:\n\nInput Nuclei\nOutput Nuclei\nIntrinsic Nuclei\n\nBasal ganglia pathways:\n\nIndirect pathway\nDirect Pathway\nNigrostriatal Pathway\n\n\n\n\nCranial Nerve Nuclei\n\nSomatic motor nuclei:\n\nOculomotor Nucleus\nTrochlear Nucleus\n\nAbducens Nucleus\nHypoglossal Nucleus\n\nBranchial Motor Nuclei:\n\nTrigeminal Motor Nucleus\nFacial Nucleus\nNucleus Ambiguous\nSpinal Accessory Nucleus\n\nParasympathetic Nuclei:\n\nEdinger-Westphal Nucleus\nSuperior Salivatory Nucleus\nInferior Salivatory Nucleus\nDorsal Motor Nucleus of the Vagus\n\n\nSensory Nuclei:\n\nVisceral Sensory Column:\n\nRostral portion of Nucleus Solitarius\nCaudal portion of Nucleus Solitarius\n\nGeneral Somatosensory Nuclei:\n\nTrigeminal Sensory nuclei\n\nMesencephalic nucleus of CN V\nMain sensory nucleus of CN V\nSpinal Trigeminal nucleus\n\n\nSpecial Somatic Sensory Nuclei: Hearing & Balance\n\nCochlear Nuclei\nVestibular Nuclei\n\n\nCranial Nerves\n\nCN I Olfactory Nerve\nCN II Optic Nerve\nCN III Oculomotor Nerve\nCN IV Trochlear Nerve\nCN V Trigeminal Nerve\nCN VI Abducens Nerve\nCN VII Facial Nerve\nCN VIII Vestibulocochlear Nerve\nCN IX Glossopharyngeal Nerve\nCN X Vagus Nerve\nCN XI Accessory Nerve\nCN XII Hypoglossal Nerve\n\n\n\n\n\n\n\nDorsal Column Medial Lemniscus (DCML)\n\nFasciculus Cuneatus\nFasciculus Gracilis\n\nCuneocerebellar Tract\nDorsal Spinocerebellar Tract\nVentral Spinocerebellar Tract\nSpinothalamic Tract\nTrigeminothalamic Tract\nSpinoreticular Tract\nSpinomesencephalic Tract\nSpinohypothalamic Tract\nCochlear Pathway\nTaste Pathway\nVision Pathway\n\n\n\n\n\nPyramidal Tracts\n\nLateral Corticospinal Tract (LCST)\nMedial Corticospinal Tract (MCST)\nCorticobulbar Tract\n\nExtrapyramidal tracts\n\nRubrospinal Tract\nVestibulospinal Tract\nTectospinal Tract\nReticulospinal Tract"
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/neuro_index.html#neuroanatomy",
+    "href": "Alchemy Archive/Neuro/neuro_index.html#neuroanatomy",
+    "title": "Index of Neuro archives",
+    "section": "",
+    "text": "Basal ganglia (Overview)\n\nStriatum (Caudate nucleus & Putamen)\nLentiform Nucleus (Putamen + Globus pallidus)\nCaudate Nucleus\nPutamen\nGlobus pallidus\nSubthalamic nucleus (ST Nuclues)\nSubstantia Nigra\n\nBasal Ganglia Nuclei Types:\n\nInput Nuclei\nOutput Nuclei\nIntrinsic Nuclei\n\nBasal ganglia pathways:\n\nIndirect pathway\nDirect Pathway\nNigrostriatal Pathway\n\n\n\n\nCranial Nerve Nuclei\n\nSomatic motor nuclei:\n\nOculomotor Nucleus\nTrochlear Nucleus\n\nAbducens Nucleus\nHypoglossal Nucleus\n\nBranchial Motor Nuclei:\n\nTrigeminal Motor Nucleus\nFacial Nucleus\nNucleus Ambiguous\nSpinal Accessory Nucleus\n\nParasympathetic Nuclei:\n\nEdinger-Westphal Nucleus\nSuperior Salivatory Nucleus\nInferior Salivatory Nucleus\nDorsal Motor Nucleus of the Vagus\n\n\nSensory Nuclei:\n\nVisceral Sensory Column:\n\nRostral portion of Nucleus Solitarius\nCaudal portion of Nucleus Solitarius\n\nGeneral Somatosensory Nuclei:\n\nTrigeminal Sensory nuclei\n\nMesencephalic nucleus of CN V\nMain sensory nucleus of CN V\nSpinal Trigeminal nucleus\n\n\nSpecial Somatic Sensory Nuclei: Hearing & Balance\n\nCochlear Nuclei\nVestibular Nuclei\n\n\nCranial Nerves\n\nCN I Olfactory Nerve\nCN II Optic Nerve\nCN III Oculomotor Nerve\nCN IV Trochlear Nerve\nCN V Trigeminal Nerve\nCN VI Abducens Nerve\nCN VII Facial Nerve\nCN VIII Vestibulocochlear Nerve\nCN IX Glossopharyngeal Nerve\nCN X Vagus Nerve\nCN XI Accessory Nerve\nCN XII Hypoglossal Nerve\n\n\n\n\n\n\n\nDorsal Column Medial Lemniscus (DCML)\n\nFasciculus Cuneatus\nFasciculus Gracilis\n\nCuneocerebellar Tract\nDorsal Spinocerebellar Tract\nVentral Spinocerebellar Tract\nSpinothalamic Tract\nTrigeminothalamic Tract\nSpinoreticular Tract\nSpinomesencephalic Tract\nSpinohypothalamic Tract\nCochlear Pathway\nTaste Pathway\nVision Pathway\n\n\n\n\n\nPyramidal Tracts\n\nLateral Corticospinal Tract (LCST)\nMedial Corticospinal Tract (MCST)\nCorticobulbar Tract\n\nExtrapyramidal tracts\n\nRubrospinal Tract\nVestibulospinal Tract\nTectospinal Tract\nReticulospinal Tract"
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/neuro_index.html#neurophysiology",
+    "href": "Alchemy Archive/Neuro/neuro_index.html#neurophysiology",
+    "title": "Index of Neuro archives",
+    "section": "2 Neurophysiology",
+    "text": "2 Neurophysiology\n\n2.1 Neuro Symptoms\n\nAnosmia\n\n\n\n2.2 Special Senses\n\nGustation\nOlfaction"
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/neuro_index.html#neuropathology",
+    "href": "Alchemy Archive/Neuro/neuro_index.html#neuropathology",
+    "title": "Index of Neuro archives",
+    "section": "3 Neuropathology",
+    "text": "3 Neuropathology\n\n3.1 PNS Pathologies\n\n\n3.2 CNS Pathologies\nAmyotrophic Lateral Sclerosis (ALS)"
+  },
+  {
+    "objectID": "Alchemy Archive/Pain_science/Complex regional pain syndrome/CRPS_Type1.html",
+    "href": "Alchemy Archive/Pain_science/Complex regional pain syndrome/CRPS_Type1.html",
+    "title": "Complex Regional Pain Syndrome Type I (Formerly reflex sympathetic dystrophy)",
+    "section": "",
+    "text": "A syndrome that usually develops after an initiating noxious event, is not limited to the distribution of a single peripheral nerve, and is apparently disproportionate to the inciting event. It is associated at some point with evidence of edema, changes in skin blood flow, abnormal pseudomotor activity in the region of the pain, or allodynia or hyperalgesia. Specific criteria for the diagnosis of complex regional pain syndrome (CRPS) have been proposed.1\n\n\n\n\nReferences\n\n1. Ballantyne J, Fishman S, Rathmell JP, eds. Bonica’s Management of Pain. 5th ed. Wolters Kluwer; 2019."
+  },
+  {
+    "objectID": "Alchemy Archive/Pain_science/interventions/graded_motor_imagery.html",
+    "href": "Alchemy Archive/Pain_science/interventions/graded_motor_imagery.html",
+    "title": "Graded Motor Imagery",
+    "section": "",
+    "text": "“Sequentially activating motor networks in such a way that movement and pain are unpaired1.” For example, a person could move their non-affected arm near a mirror so it appears that both their arms are moving symmetrically. This belief that their arm is moving coupled with the absence of pain will help the patient to begin to separate pain from movement."
+  },
+  {
+    "objectID": "Alchemy Archive/Pain_science/interventions/graded_motor_imagery.html#why-does-crps-benefit-from-gmi",
+    "href": "Alchemy Archive/Pain_science/interventions/graded_motor_imagery.html#why-does-crps-benefit-from-gmi",
+    "title": "Graded Motor Imagery",
+    "section": "3.1 Why Does CRPS benefit from GMI?",
+    "text": "3.1 Why Does CRPS benefit from GMI?\n\nCompared to healthy controls, CRPS has been shown to have differences in the Primary motor cortex and primary somatosensory cortex2.\nPts with upper limbs CRPSLack cortical inhibition of M1 in affected hemisphere (contra to affected hand)2.\nSomatosensory cortex showed reduction in intracortical inhibition2"
+  },
+  {
+    "objectID": "Alchemy Archive/Pain_science/interventions/graded_motor_imagery.html#design",
+    "href": "Alchemy Archive/Pain_science/interventions/graded_motor_imagery.html#design",
+    "title": "Graded Motor Imagery",
+    "section": "4.1 Design",
+    "text": "4.1 Design\n\n26 pts w CRPS\nRandomized controlled crossover study\n2 Groups\n\nOne group: test 6 week GMI therapy test, then 6 week wait\nVs test 6 week wait test then 6 week GMI therapy then test\n\nPts encouraged to exercise 10 min every waking hour during 6 weeks of GMI training (ODD → could affect data???)"
+  },
+  {
+    "objectID": "Alchemy Archive/Pain_science/interventions/graded_motor_imagery.html#gmi",
+    "href": "Alchemy Archive/Pain_science/interventions/graded_motor_imagery.html#gmi",
+    "title": "Graded Motor Imagery",
+    "section": "4.2 GMI",
+    "text": "4.2 GMI\nThe GMI treatment was broken down into 3 stages 1. Left right judgements App: Recognise hand Displays pics randomly and detects speed and error rate of determining R vs L 2. Imagined mvmts 3. Mirror therapy"
+  },
+  {
+    "objectID": "Alchemy Archive/Pain_science/interventions/graded_motor_imagery.html#objective-measures",
+    "href": "Alchemy Archive/Pain_science/interventions/graded_motor_imagery.html#objective-measures",
+    "title": "Graded Motor Imagery",
+    "section": "4.3 Objective measures",
+    "text": "4.3 Objective measures\n\nPts asked to keep pain diary\nHandedness, clinical parameters (CSS - crps severity score), quick DASH, rest pain and mvmts (clenching and unclenching fist 5x), pain via VAS, somatosensory (cutaneous sensory thresholds on first and fifth finger) and motor testing\nTwo point resolution and grating orientation task were tested\nManual dexterity via roeder manipulative aptitute test\nAll were tested pre, post 6 weeks then post 12 weeks\nFMRI was also taken\nTranscranial magnetic stimuli\nShort intracortical inhibition and intracortical faciliaiton measurements"
+  },
+  {
+    "objectID": "Alchemy Archive/Pain_science/interventions/graded_motor_imagery.html#results",
+    "href": "Alchemy Archive/Pain_science/interventions/graded_motor_imagery.html#results",
+    "title": "Graded Motor Imagery",
+    "section": "4.4 Results",
+    "text": "4.4 Results\n\n4.4.1 CRPS vs unaffected pts at baseline:\n\nCRPS: motor performance, short intracortical inhibition and facilitation (short intracortical inhibition smaller and intracortical facilitation higher for the affected side)\nFmri activation magnitude in S1 ( ) was inc for mvmt of affected hand\nNo diff between sides for somatosensory measures\nWorse performance in CRPS for graded orientation task and two point resolution\nFor TMS: short intracortical inhibition was lower in CRPS pts than in controls\nS1 (primary somatosensory cortex) fmri activation inc in pts when compared to HC (hand control) for mvmt of affected side\nIntracortical facilitation was not different between CRPS at baseline and HC for affected hand side.\n\nTreatment time between groups - Intervention order showed no diff - ANOVA testing showed trend for pain relief after intervention - After GMI, pain in VAS went on average from a 6.3 to a 5.0 - CSS was reduced from 12 to 11 over the GMI intervention - GMI showed dec self rated functional impairment of upper limb - Summary: pain, roeder, TPR (two point resolution), and S1 activation reduced, while SICI (inhibition) increased.\nBaseline other things: - Longer CRPS present, worse the motor performance of affected hand - Inc mvmt pain of hand was associated w dec short intracortical inhibition and Inc s1 activation\nAfter GMI - Dec in S1 activation w somatosensory stimulation (GOT gain) - Roeder , TPR , inhibition and S1 motor task all were significantly changed w GMI - FMRI confirmed changes - Primary outcome: parameter mvmt pain decreased w GMI (small effect) - Also found dec in clinical scores (CSS) , inc use of affected hand side (DASH), improvement of motor function (Roeder) and spatial tactile performance (TPR) - Intracortical inhibition incd over txt whereas fmri activation in S1 decreased (good!) - Hand representation size in affected hemisphere was modified, accompanied by mvmt pain relief - No relief of mvmt pain at follow up 6 months later"
+  },
+  {
+    "objectID": "Alchemy Archive/Pain_science/Pain by region/facial_pain.html",
+    "href": "Alchemy Archive/Pain_science/Pain by region/facial_pain.html",
+    "title": "Facial Pain",
+    "section": "",
+    "text": "1 DDX\nFacial pain is a vague term that can be elicited by many factors:\n\nTrigeminal neuralgia1\n\n\n\n\n\n\nReferences\n\n1. Henssen DJHA, Kurt E, Kozicz T, van Dongen R, Bartels RHMA, van Cappellen van Walsum AM. New Insights in Trigeminal Anatomy: A Double Orofacial Tract for Nociceptive Input. Frontiers in Neuroanatomy. 2016;10:53. doi:10.3389/fnana.2016.00053"
   },
   {
     "objectID": "Alchemy Archive/Pain_science/Pain terms and Taxonomies/cancer_pain.html",
