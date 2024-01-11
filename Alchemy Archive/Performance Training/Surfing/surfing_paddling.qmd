@@ -25,3 +25,8 @@ Position on the board:
 # Paddling into waves
 {{< video https://www.youtube.com/watch?v=vVdZ7VY9Xc8 >}}
 
+
+
+# Exercises
+
+{{< video https://www.youtube.com/watch?v=9IFVJd0ngUY >}}

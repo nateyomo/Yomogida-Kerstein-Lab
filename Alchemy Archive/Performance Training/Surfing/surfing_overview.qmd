@@ -29,3 +29,14 @@ Fundamentals 3 as described by Brad Gerlach
 
 
 
+# Duck dive
+{{< video https://www.youtube.com/watch?v=ELxAvt5eIJI >}}
+
+
+# Top Turn
+
+{{< video https://www.youtube.com/watch?v=SiLgfcAu6Gc >}}
+
+# Bottom Turn
+
+{{< video https://www.youtube.com/watch?v=HAH4QFu6iiQ >}}
