@@ -15,15 +15,65 @@ title: CNV Trigeminal Nerve
 
 !["Skull foramina serving as cranial nerve exit points (from fig12.3 of Blumenfeld @blumenfeldNeuroanatomyClinicalCases2022)"](/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/images/fig12.3 skull foramina serving as cranial nerve exit points blumenfeld2022.png)
 
-
 ::: 
 
 
+
+
 # Overview
-The trigeminal nerve (CN V) is the fifth cranial nerve and performs general somatic sensory to the fface and branchial motor functions to the muscles of mastication and some surrounding musculature @blumenfeldNeuroanatomyClinicalCases2022.
+CN V Trigeminal nerve is the largest cranial nerve and provides general somatic sensory to the scalp, teeth, oral and nasal cavity as well as branchial motor functions to the muscles of mastication and some surrounding musculature [@blumenfeldNeuroanatomyClinicalCases2022; @jooMicrosurgicalAnatomyTrigeminal2014].
 
-The Trigeminal nerve (CN V) is divided into three subcategories: Opthalmic division (V~1~), Maxillary division (V~2~), and Mandibular division (V~3~).
+Additional functions
 
+- Additionally, The trigeminal system plays a role in facial and dural sensitivity and has also been considered a component in brain nociceptive innervation @terrierTrigeminalPathways2022.
+- "Proprioceptive nerve fibers from the masticatory muscles and (probably) extraocular muscle" @jooMicrosurgicalAnatomyTrigeminal2014.
+
+
+
+The Trigeminal nerve's course can be broken down into:
+- Brainstem
+- Cisternal segment
+- Meckel’s cave segment
+- Trigeminal ganglion
+- Pperipheral divisions: Opthalmic division (V~1~), Maxillary division (V~2~), and Mandibular division (V~3~).
+
+Why should I care about this nerve?
+- The trigeminal nerve is the anatomical substrate of several pathologies or conditions, including: Headaches (primary or secondary), trigeminal neuralgia, and alternate types of orofacial pains @terrierTrigeminalPathways2022.
+- Understanding the complex anatomical arrangement of CN V's pathway is crucial to understand these conditions’ pathophysiology and treatment @terrierTrigeminalPathways2022.
+
+# Anatomy
+## Brainstem
+Within the brainstem there are 4 central nuclei of CN V:
+- [Mesencephalic nucleus]({{< var ref-mesencephalic-nucleus.path >}}) (Conveys afferent proprioceptive fibers from extraocular and masticatory muscles and allows for bite modulation @jooMicrosurgicalAnatomyTrigeminal2014)
+- Principal sensory nucleus
+- Motor nucleus
+- Spinal trigeminal tract & nucleus
+
+
+
+Afferent fibers of the mesencephalic nucleus convey pressure and kinesthesis sense from the teeth, periodontium, hard palate, and temporomandibular joint capsule. This nucleus is concerned with mechanisms that control the force of the bite (Carpenter, 1991b). It is located within the lower midbrain and upper pons lateral to the sylvian aqueduct along the lateral mar-gin of the periaqeductal gray matter and anterolateral to the fourth ventricle, medial to the sensory nucleus (Figs. 1A and 1B) (Go et al., 2001).
+
+```{mermaid}
+flowchart TD
+
+  Mesecephalic_response[Modulating the bite]
+  mesencephalic_nucleus[Mesencephalic Nucleus]
+  proprioceptive_fibers[Proprioceptive fibers from extraocular muscles and masticatory muscles]
+  Lmidbrain[L Tegmentum of Midbrain] --> Decussate[Decussate]
+  Decussate[Decussate] --> Ltrochlearnucleus[L Trochlear Nucleus]
+  
+  Ltrochlearnucleus --> LSOF[L Superior Orbital fissure]
+  LSOF -- Somatic Motor --> LSOM{L Superior Oblique Muscle}
+  
+
+  RA[R tegmentum of the midbrain] --> Decussate[Decussate]
+  Decussate --> Rtrochlearnucleus[R Trochlear Nucleus]
+  Rtrochlearnucleus --> RSOF[R Superior Orbital fissure]
+  RSOF -- somatic motor --> RSOM{R Superior Oblique Muscle}
+
+
+
+```
 
 # Sensory Aspect
 ## Sensory Pathway
@@ -53,8 +103,16 @@ The trigeminal nerve also provides touch and pain sensation for the nasal sinuse
 # Motor Aspect
 ## Motor Function
 
+# Meninges Sensitivity
+
+The trigeminal system not only supports sensation to the face, but also the dura and pia @terrierTrigeminalPathways2022.
+
+
+# Brain innervation
 
 # Pathways
+
+
 
 - The trigeminal nerve exits the brainstem from the ventrolateral pons @blumenfeldNeuroanatomyClinicalCases2022.
 - Next CN V enters Meckel's Cave (a small fossa posterior and inferolateral to the cavernous sinus) @blumenfeldNeuroanatomyClinicalCases2022.
