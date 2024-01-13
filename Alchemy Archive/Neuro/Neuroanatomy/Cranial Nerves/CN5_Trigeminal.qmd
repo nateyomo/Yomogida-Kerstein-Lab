@@ -45,32 +45,65 @@ Why should I care about this nerve?
 ## Brainstem
 Within the brainstem there are 4 central nuclei of CN V:
 - [Mesencephalic nucleus]({{< var ref-mesencephalic-nucleus.path >}}) (Conveys afferent proprioceptive fibers from extraocular and masticatory muscles and allows for bite modulation @jooMicrosurgicalAnatomyTrigeminal2014)
-- Principal sensory nucleus
-- Motor nucleus
-- Spinal trigeminal tract & nucleus
+- [Trigeminal sensory nucleus]({{< var ref-trigeminal-sensory-nucleus.path >}}) Conveys tactile and pressure sense @jooMicrosurgicalAnatomyTrigeminal2014
+- [Trigeminal motor nucleus]({{< var ref-trigeminal-motor-nucleus.path >}}) (Modulates degree of bite)
+- [Spinal trigeminal nucleus]({{< var ref-spinal-trigeminal-nucleus.path >}}) & [Spinal Trigeminal tract]({{< var ref-spinal-trigeminal-tract.path >}})
+
+## Trigeminal Root (Cisternal Segment)
+
+- The 4 trigeminal nuclei (3 sensory, 1 motor) extend throughout most of the brain stem @jooMicrosurgicalAnatomyTrigeminal2014
+- "The trigeminal root is composed of the large sensory root and the small motor root" @jooMicrosurgicalAnatomyTrigeminal2014
+- "The sensory root receives somatosensory sensation from the entire face , temple, external acoustic meatus, and the anterior scalp as far posterior as the vertex of the skull" @jooMicrosurgicalAnatomyTrigeminal2014 
+
+::: {.callout-note collapse="true"}
+The trigeminal nerve supplies somatosensation to the entire face except the angle of the jaw innervated by the cervical plexus @jooMicrosurgicalAnatomyTrigeminal2014
+:::
 
 
+ The proprioceptive impulses from the masticatory muscle run through the motor root to enter the mesencephalic nucleus @jooMicrosurgicalAnatomyTrigeminal2014
 
-Afferent fibers of the mesencephalic nucleus convey pressure and kinesthesis sense from the teeth, periodontium, hard palate, and temporomandibular joint capsule. This nucleus is concerned with mechanisms that control the force of the bite (Carpenter, 1991b). It is located within the lower midbrain and upper pons lateral to the sylvian aqueduct along the lateral mar-gin of the periaqeductal gray matter and anterolateral to the fourth ventricle, medial to the sensory nucleus (Figs. 1A and 1B) (Go et al., 2001).
+The large sensory rootlets of the trigeminal nerve exit the lateral aspect of the midpons medial to middle cerebellar peduncle with the ophthalmic division being most inferior, the maxillary in the middle, and the mandibular division in the superior position (Fig. 2A). As the roots pass anteriorly through the prepontine cistern and Meckel’s cave to the trigeminal ganglion in the middle fossa, they rotate approximately lateral 180 degree rotation (Jannetta, 1996; Shankland, 2000). However, Rhoton (2000) reported that the fibers from the mandibular division remain in a caudolateral position in the trigeminal root throughout the interval from the ganglion to the pons, the ophthalmic division rostromedial, with maxillary division fibers in an intermediate position @jooMicrosurgicalAnatomyTrigeminal2014
+
+he small motor roots emerge from the pons anterosuperomedial to the entry point of the large sensory root (Saunders and Sachs, 1970; Lang, 1981). Some authors defined two motor rootlets groups of the trigeminal nerve; a primary superior and a secondary inferior motor rootlets, with numerous connections between both of these and the sensory root. The superior rootlets group, with its distinct position, and relative isolation from the main sensory root, represents the classic origin of the motor root (Fig. 2B) (Saunders and Sachs, 1970; Lang, 1981; Yousry et al., 2004). The inferior motor rootlets are visualized after retraction of the superior motor group from the sensory root (Figs. 2B and 2C). Pelletier at al. (1974) contend that the physiological characteristics of the inferior motor root were identical to that of the motor fibers and subserved either a motor or proprioceptive function rather than a sensory function (Pelletier et al., 1974). The two separate motor groups join together a short distance from the brain stem to form a single root and passes through the Meckel’s cave on the medial side of the sensory root and ganglion to join the mandibular division @jooMicrosurgicalAnatomyTrigeminal2014
+
+Peker et al. reported cisternal portion of the 100 trigeminal nerves measured 12.3 mm (range 8–15 mm). The root exit zone (REZ) of trigeminal nerve (the precise nerve-pons junction) and central-peripheral myelin transition zone (TZ), mentioned in the trigeminal neuralgia, are separate structures. The length of central myelin (distance from pons to TZ) on the medial aspect of the nerve (range, 0.1–2.5 mm; mean, 1.13 mm; median, 1 mm) was shorter than that on the lateral aspect (range, 0.17–6.75 mm; mean, 2.47 mm; median, 2.12 mm) @jooMicrosurgicalAnatomyTrigeminal2014
+
 
 ```{mermaid}
-flowchart TD
+flowchart BT
 
-  Mesecephalic_response[Modulating the bite]
-  mesencephalic_nucleus[Mesencephalic Nucleus]
+  mesencephalic_response[Modulating the bite]
+  mesencephalic_response --> mesencephalic_nucleus[Mesencephalic Nucleus]
   proprioceptive_fibers[Proprioceptive fibers from extraocular muscles and masticatory muscles]
-  Lmidbrain[L Tegmentum of Midbrain] --> Decussate[Decussate]
-  Decussate[Decussate] --> Ltrochlearnucleus[L Trochlear Nucleus]
   
-  Ltrochlearnucleus --> LSOF[L Superior Orbital fissure]
-  LSOF -- Somatic Motor --> LSOM{L Superior Oblique Muscle}
-  
+  teeth[Teeth] -- proprioception --> proprioceptive_fibers
+  periodontium[Periodontium] -- proprioception --> proprioceptive_fibers
+  hard_palate[Hard Palate] -- proprioception --> proprioceptive_fibers
+  temporomandibular_joint_capsule[Temperomandibular Joint Capsule] -- proprioception --> proprioceptive_fibers
 
-  RA[R tegmentum of the midbrain] --> Decussate[Decussate]
-  Decussate --> Rtrochlearnucleus[R Trochlear Nucleus]
-  Rtrochlearnucleus --> RSOF[R Superior Orbital fissure]
-  RSOF -- somatic motor --> RSOM{R Superior Oblique Muscle}
+trigeminal_ganglion[Trigeminal Ganglion]
 
+
+
+tactile_and_pressure_receptors[Receptors] -- Tactile & Pressure --> upper_face[Skin of Upper Face]
+tactile_and_pressure_receptors -- Tactile & Pressure --> middle_face[Skin of Middle face]
+tactile_and_pressure_receptors -- Tactile & Pressure --> lower_face[Skin of Lower Face]
+
+upper_face --> opthalmic[Opthalmic Division V1]
+middle_face --> maxillary[Maxillary Division V2]
+lower_face --> mandibular[Mandibular Division V3]
+
+opthalmic --> trigeminal_ganglion
+maxillary --> trigeminal_ganglion
+mandibular --> trigeminal_ganglion
+
+trigeminal_ganglion -- Tactile & Pressure --> trigeminal_sensory_nucleus[Trigeminal Sensory Nucleus]
+
+trigeminal_sensory_nucleus -- Tactile & Pressure --> VPM[Thalamus VPM]
+```
+
+```{mermaid}
+flowchart BT
 
 
 ```

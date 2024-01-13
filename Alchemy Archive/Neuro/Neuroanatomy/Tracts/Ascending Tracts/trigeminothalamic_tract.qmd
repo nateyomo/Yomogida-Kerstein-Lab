@@ -1,3 +1,8 @@
 ---
 title: Trigeminothalamic Tract
 ---
+
+
+"Crossed fibers originated from the ventral part of the nucleus ascend in association with the contralateral medial lemniscus to form ventral [trigeminothalamic tract]({{< var ref-trigeminothalamic-tract.path >}})." @jooMicrosurgicalAnatomyTrigeminal2014
+
+"Uncrossed fibers originated from the dorsomedial part of the nucleus ascend close to the central gray of the midbrain to form [dorsal trigeminothalamic tract]({{< var ref-trigeminothalamic-tract.path >}})"

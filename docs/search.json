@@ -563,29 +563,29 @@
     "objectID": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN5_Trigeminal.html#sensory-pathway",
     "href": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN5_Trigeminal.html#sensory-pathway",
     "title": "CNV Trigeminal Nerve",
-    "section": "2.1 Sensory Pathway",
-    "text": "2.1 Sensory Pathway\n\n\n\nTrigeminal Sensory System Nuclei and Pathways (from Blumenfeld figure 12.81)\n\n\n\nSomatosensory afferent nerves convey crude touch, pain, and temperature sensation from the face and mouth to the lateral pons1.\nThese nerve fibers then descend the spinal trigeminal tract to synapse in the spinal trigeminal nucleus1.\n. Similarly, the spinal trigeminal tract is analogous to Lissauer’s tract (see Figures 6.4 and 7.2). Secondary sensory neurons from the spinal trigeminal nucleus cross the brainstem to ascend as the trigeminothalamic tract (or ventral trigeminothalamic tract). The trigeminothalamic tract is analogous to the spinothalamic tract (see Table 12.6), and the pathways travel together to the thalamus (see Figures 12.8 and 14.3). Trigeminothalamic tract fibers synapse in the thalamic ventral posterior medial nucleus (VPM), and tertiary sensory neurons then travel in the internal capsule to the primary somatosensory cortex. Like the anterolateral systems in the spinal cord, there are also pathways from the spinal trigeminal nucleus to intralaminar thalamic nuclei, the reticular formation, and other areas, to mediate the affective and arousal aspects of facial pain.\n\nIn summary, it is generally believed that sensory fibers involved in the conduction of pain and temperature spread over the trigeminal sensory nucleus complex (TSNC) and then cross over to the contralateral thalamus and cerebral cortex4"
+    "section": "3.1 Sensory Pathway",
+    "text": "3.1 Sensory Pathway\n\n\n\nTrigeminal Sensory System Nuclei and Pathways (from Blumenfeld figure 12.81)\n\n\n\nSomatosensory afferent nerves convey crude touch, pain, and temperature sensation from the face and mouth to the lateral pons1.\nThese nerve fibers then descend the spinal trigeminal tract to synapse in the spinal trigeminal nucleus1.\n. Similarly, the spinal trigeminal tract is analogous to Lissauer’s tract (see Figures 6.4 and 7.2). Secondary sensory neurons from the spinal trigeminal nucleus cross the brainstem to ascend as the trigeminothalamic tract (or ventral trigeminothalamic tract). The trigeminothalamic tract is analogous to the spinothalamic tract (see Table 12.6), and the pathways travel together to the thalamus (see Figures 12.8 and 14.3). Trigeminothalamic tract fibers synapse in the thalamic ventral posterior medial nucleus (VPM), and tertiary sensory neurons then travel in the internal capsule to the primary somatosensory cortex. Like the anterolateral systems in the spinal cord, there are also pathways from the spinal trigeminal nucleus to intralaminar thalamic nuclei, the reticular formation, and other areas, to mediate the affective and arousal aspects of facial pain.\n\nIn summary, it is generally believed that sensory fibers involved in the conduction of pain and temperature spread over the trigeminal sensory nucleus complex (TSNC) and then cross over to the contralateral thalamus and cerebral cortex4"
   },
   {
     "objectID": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN5_Trigeminal.html#sensory-function",
     "href": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN5_Trigeminal.html#sensory-function",
     "title": "CNV Trigeminal Nerve",
-    "section": "2.2 Sensory Function",
-    "text": "2.2 Sensory Function\n\nV1 Opthalmic supplies the upper face\nV2 Maxillary supplies the middle face\nV3 Mandibular supplies the lower face\n\nThe trigeminal nerve also provides touch and pain sensation for the nasal sinuses, inside of the nose, mouth, and anterior two-thirds of the tongue."
+    "section": "3.2 Sensory Function",
+    "text": "3.2 Sensory Function\n\nV1 Opthalmic supplies the upper face\nV2 Maxillary supplies the middle face\nV3 Mandibular supplies the lower face\n\nThe trigeminal nerve also provides touch and pain sensation for the nasal sinuses, inside of the nose, mouth, and anterior two-thirds of the tongue."
   },
   {
     "objectID": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN5_Trigeminal.html#dysfunction",
     "href": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN5_Trigeminal.html#dysfunction",
     "title": "CNV Trigeminal Nerve",
-    "section": "2.3 Dysfunction",
-    "text": "2.3 Dysfunction\n\nTrigeminal neuralgia"
+    "section": "3.3 Dysfunction",
+    "text": "3.3 Dysfunction\n\nTrigeminal neuralgia"
   },
   {
     "objectID": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN5_Trigeminal.html#motor-function",
     "href": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN5_Trigeminal.html#motor-function",
     "title": "CNV Trigeminal Nerve",
-    "section": "3.1 Motor Function",
-    "text": "3.1 Motor Function"
+    "section": "4.1 Motor Function",
+    "text": "4.1 Motor Function"
   },
   {
     "objectID": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN3_Oculomotor.html",
@@ -2118,7 +2118,7 @@
     "href": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN4_Trochlear.html",
     "title": "CNIV Trochlear Nerve",
     "section": "",
-    "text": "flowchart TD\n  Lmidbrain[L Tegmentum of Midbrain] --&gt; Decussate[Decussate]\n  Decussate[Decussate] --&gt; Ltrochlearnucleus[L Trochlear Nucleus]\n  \n  Ltrochlearnucleus --&gt; LSOF[L Superior Orbital fissure]\n  LSOF -- Somatic Motor --&gt; LSOM{L Superior Oblique Muscle}\n  \n\n  RA[R tegmentum of the midbrain] --&gt; Decussate[Decussate]\n  Decussate --&gt; Rtrochlearnucleus[R Trochlear Nucleus]\n  Rtrochlearnucleus --&gt; RSOF[R Superior Orbital fissure]\n  RSOF -- somatic motor --&gt; RSOM{R Superior Oblique Muscle}\n\n\n\n\n\n\n\n\n1 Pathway\n\nExits from the Tegmentum in the Dorsal Midbrain at the level of the inferior colliculus (Near midline & ventral to cerebral aqueduct)1\nTrochlear nucleus\n(Decussate) & exit Midbrain -&gt;cavernous sinus -&gt; Superior orbital fissure -&gt; Superior oblique muscle\n\nAxons leave nucleus & Travel dorsally -&gt; Decussate & Exit midbrain on dorsal surface -&gt; Enter cavernous sinus -&gt; Travel through superior orbital fissure -&gt; Superior oblique muscle\n\n\n\n\n\nReferences\n\n1. Blumenfeld H. Neuroanatomy Through Clinical Cases. 3rd ed. Oxford university press; 2022."
+    "text": "flowchart TB\n  Lmidbrain[L Tegmentum of Midbrain] --&gt; Decussate[Decussate]\n  Decussate[Decussate] --&gt; Ltrochlearnucleus[L Trochlear Nucleus]\n  \n  Ltrochlearnucleus --&gt; LSOF[L Superior Orbital fissure]\n  LSOF -- Somatic Motor --&gt; LSOM{L Superior Oblique Muscle}\n  \n\n  RA[R tegmentum of the midbrain] --&gt; Decussate[Decussate]\n  Decussate --&gt; Rtrochlearnucleus[R Trochlear Nucleus]\n  Rtrochlearnucleus --&gt; RSOF[R Superior Orbital fissure]\n  RSOF -- somatic motor --&gt; RSOM{R Superior Oblique Muscle}\n\n\n\n\n\n\n\n\n1 Pathway\n\nExits from the Tegmentum in the Dorsal Midbrain at the level of the inferior colliculus (Near midline & ventral to cerebral aqueduct)1\nTrochlear nucleus\n(Decussate) & exit Midbrain -&gt;cavernous sinus -&gt; Superior orbital fissure -&gt; Superior oblique muscle\n\nAxons leave nucleus & Travel dorsally -&gt; Decussate & Exit midbrain on dorsal surface -&gt; Enter cavernous sinus -&gt; Travel through superior orbital fissure -&gt; Superior oblique muscle\n\n\n\n\n\nReferences\n\n1. Blumenfeld H. Neuroanatomy Through Clinical Cases. 3rd ed. Oxford university press; 2022."
   },
   {
     "objectID": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/abducens_nucleus.html",
@@ -2153,14 +2153,14 @@
     "href": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/spinal_trigeminal_nucleus.html",
     "title": "Spinal Trigeminal Nucleus",
     "section": "",
-    "text": "Somatotopic maps of the spinal trigeminal nucleus (See Blumenfeld figure 12.91)\n\n\n\n1 Overview\nThe spinal trigeminal nucleus is a sensory nucleus of the CN V Trigeminal Nerve.\nThe spinal trigeminal nucleus is part of a sensory tract located in the lateral medulla of the brain stem whose principal function is relaying pain and temperature sensations from the oral cavity and the surface of the face. It is subdivided into three segments representing topographical regions of the face in an inverted fashion; the forehead is represented ventrally (distally), and the oral region is represented dorsally (proximally). Lesions of the SN cause important clinical syndromes owing to the crucial utility in the daily life of the orofacial region2\nThe spinal trigeminal nucleus is found in the lateral medulla of the brain stem1,2.\n\nspinal trigeminal nucleus is the rostral extension of the dorsal horn1\n\n\n\nSomatotopic maps of the spinal trigeminal nucleus (See Blumenfeld figure 12.91)\n\n\n\n\nReferences\n\n1. Blumenfeld H. Neuroanatomy Through Clinical Cases. 3rd ed. Oxford university press; 2022.\n\n\n2. Patel NM, Jozsa F, M Das J. Neuroanatomy, Spinal Trigeminal Nucleus. In: StatPearls. StatPearls Publishing; 2023."
+    "text": "Somatotopic maps of the spinal trigeminal nucleus (See Blumenfeld figure 12.91)"
   },
   {
     "objectID": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/trigeminal_motor_nucleus.html",
     "href": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/trigeminal_motor_nucleus.html",
     "title": "Trigeminal Motor Nucleus",
     "section": "",
-    "text": "Functional columns of brainstem sensory and motor cranial nerve nuclei (from Blumenfield Figure 12.51)\n\n\n\n\n\nFunctional columns of brainstem sensory and motor cranial nerve nuclei (from Blumenfield Figure 12.51)\n\n\n\nReferences\n\n1. Blumenfeld H. Neuroanatomy Through Clinical Cases. 3rd ed. Oxford university press; 2022."
+    "text": "Functional columns of brainstem sensory and motor cranial nerve nuclei (from Blumenfield Figure 12.51)"
   },
   {
     "objectID": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/trochlear_nucleus.html",
@@ -2623,5 +2623,75 @@
     "title": "Yomogida & Kerstein Lab",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/trigeminal_sensory_nuclei.html",
+    "href": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/trigeminal_sensory_nuclei.html",
+    "title": "Trigeminal Sensory Nuclei",
+    "section": "",
+    "text": "AKA Principal sensory nucleus"
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/trigeminal_sensory_nuclei.html#pathway",
+    "href": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/trigeminal_sensory_nuclei.html#pathway",
+    "title": "Trigeminal Sensory Nuclei",
+    "section": "1.1 Pathway",
+    "text": "1.1 Pathway\n\n“Trigeminal fibers from the principal sensory nucleus are both crossed and uncrossed to terminate the ventral posteromedial (VPM) nucleus of the thalamus.”1"
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/trigeminothalamic_tract.html",
+    "href": "Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/trigeminothalamic_tract.html",
+    "title": "Trigeminothalamic Tract",
+    "section": "",
+    "text": "“Crossed fibers originated from the ventral part of the nucleus ascend in association with the contralateral medial lemniscus to form ventral trigeminothalamic tract.”1\n“Uncrossed fibers originated from the dorsomedial part of the nucleus ascend close to the central gray of the midbrain to form dorsal trigeminothalamic tract”\n\n\n\n\nReferences\n\n1. Joo W, Yoshioka F, Funaki T, Mizokami K, Rhoton AL. Microsurgical anatomy of the trigeminal nerve. Clinical Anatomy. 2014;27(1):61-88. doi:10.1002/ca.22330"
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN5_Trigeminal.html#brainstem",
+    "href": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN5_Trigeminal.html#brainstem",
+    "title": "CNV Trigeminal Nerve",
+    "section": "2.1 Brainstem",
+    "text": "2.1 Brainstem\nWithin the brainstem there are 4 central nuclei of CN V: - Mesencephalic nucleus (Conveys afferent proprioceptive fibers from extraocular and masticatory muscles and allows for bite modulation2) - Trigeminal sensory nucleus Conveys tactile and pressure sense2 - Trigeminal motor nucleus (Modulates degree of bite) - Spinal trigeminal nucleus & Spinal Trigeminal tract\n\n\n\n\n\nflowchart BT\n\n  mesencephalic_response[Modulating the bite]\n  mesencephalic_response --&gt; mesencephalic_nucleus[Mesencephalic Nucleus]\n  proprioceptive_fibers[Proprioceptive fibers from extraocular muscles and masticatory muscles]\n  \n  teeth[Teeth] -- proprioception --&gt; proprioceptive_fibers\n  periodontium[Periodontium] -- proprioception --&gt; proprioceptive_fibers\n  hard_palate[Hard Palate] -- proprioception --&gt; proprioceptive_fibers\n  temporomandibular_joint_capsule[Temperomandibular Joint Capsule] -- proprioception --&gt; proprioceptive_fibers\n\ntrigeminal_ganglion[Trigeminal Ganglion]\n\n\n\ntactile_and_pressure_receptors[Receptors] -- Tactile & Pressure --&gt; upper_face[Skin of Upper Face]\ntactile_and_pressure_receptors -- Tactile & Pressure --&gt; middle_face[Skin of Middle face]\ntactile_and_pressure_receptors -- Tactile & Pressure --&gt; lower_face[Skin of Lower Face]\n\nupper_face --&gt; opthalmic[Opthalmic Division V1]\nmiddle_face --&gt; maxillary[Maxillary Division V2]\nlower_face --&gt; mandibular[Mandibular Division V3]\n\nopthalmic --&gt; trigeminal_ganglion\nmaxillary --&gt; trigeminal_ganglion\nmandibular --&gt; trigeminal_ganglion\n\ntrigeminal_ganglion -- Tactile & Pressure --&gt; trigeminal_sensory_nucleus[Trigeminal Sensory Nucleus]\n\ntrigeminal_sensory_nucleus -- Tactile & Pressure --&gt; VPM[Thalamus VPM]\n\n\n\n\n\n\n\n\n\n\n\nflowchart BT"
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/mesencephalic_nucleus.html",
+    "href": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/mesencephalic_nucleus.html",
+    "title": "Mesencephalic nucleus of CN V",
+    "section": "",
+    "text": "Nucleus for CN V Trigeminal Nerve\nConveys afferent proprioceptive fibers from extraocular and masticatory muscles and allows for bite modulation1\n“Afferent fibers of the mesencephalic nucleus convey pressure and kinesthesis sense from the teeth, periodontium, hard palate, and temporomandibular joint capsule”1"
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/spinal_trigeminal_nucleus.html#three-parts",
+    "href": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/spinal_trigeminal_nucleus.html#three-parts",
+    "title": "Spinal Trigeminal Nucleus",
+    "section": "2.1 Three parts",
+    "text": "2.1 Three parts\n“The spinal trigeminal nucleus consists of three parts: (1) a pars oralis, (2) a pars interpolaris, and (3) a pars caudalis”3\n\n2.1.1 Pars Oralis\nThe pars oralis receives impulses predominantly from internal structures of the nose and mouth.\n\n\n2.1.2 Pars Interpolaris\nThe pars interpolaris is related mainly to cutaneous facial regions\n\n\n\n2.1.3 Pars Caudalis\npars caudalis has large receptive field over the forehead, cheek, and jaw."
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/spinal_trigeminal_tract.html",
+    "href": "Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/spinal_trigeminal_tract.html",
+    "title": "Spinal Trigeminal Tract",
+    "section": "",
+    "text": "1 Anatomy\n\n“Root fibers entering the spinal trigeminal tract and nucleus have a definite topographical organization caused by medial rotation of the sensory root as it enters the pons”1\n\n\n\n2 Function\n“The spinal trigeminal tract and nucleus relays the sensory modalities of pain and temperature”1\n\n\n\n\n\nReferences\n\n1. Joo W, Yoshioka F, Funaki T, Mizokami K, Rhoton AL. Microsurgical anatomy of the trigeminal nerve. Clinical Anatomy. 2014;27(1):61-88. doi:10.1002/ca.22330"
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/trigeminal_motor_nucleus.html#bite-modulation",
+    "href": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/trigeminal_motor_nucleus.html#bite-modulation",
+    "title": "Trigeminal Motor Nucleus",
+    "section": "2.1 Bite modulation",
+    "text": "2.1 Bite modulation\n“Axons from the mesencephalic nucleus project to the motor nucleus, completing a reflex arc in modulating the degree of bite”2\n\n\n\nFunctional columns of brainstem sensory and motor cranial nerve nuclei (from Blumenfield Figure 12.51)"
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/mesencephalic_nucleus.html#bite-modulation",
+    "href": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/mesencephalic_nucleus.html#bite-modulation",
+    "title": "Mesencephalic nucleus of CN V",
+    "section": "2.1 Bite Modulation",
+    "text": "2.1 Bite Modulation\n“Axons from the mesencephalic nucleus project to the motor nucleus, completing a reflex arc in modulating the degree of bite”1"
+  },
+  {
+    "objectID": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/trigeminal_sensory_nuclei.html#trigeminothalamic-tract",
+    "href": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/trigeminal_sensory_nuclei.html#trigeminothalamic-tract",
+    "title": "Trigeminal Sensory Nuclei",
+    "section": "1.2 Trigeminothalamic tract",
+    "text": "1.2 Trigeminothalamic tract\n\n“Crossed fibers originated from the ventral part of the nucleus ascend in association with the contralateral medial lemniscus to form ventral trigeminothalamic tract.”1\n“Uncrossed fibers originated from the dorsomedial part of the nucleus ascend close to the central gray of the midbrain to form dorsal trigeminothalamic tract”"
   }
 ]
