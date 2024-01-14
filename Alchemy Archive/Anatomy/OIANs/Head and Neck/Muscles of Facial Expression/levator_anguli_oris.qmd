@@ -1,0 +1,24 @@
+---
+title: Levator Anguli Oris muscle
+---
+
+# OIAN
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Levator Anguli Oris]({{< var ref-levator-anguli-oris.path >}}) | {{< var ref-levator-anguli-oris.origin >}} | {{< var ref-levator-anguli-oris.insertion >}} | {{< var ref-levator-anguli-oris.nerve >}} | {{< var ref-levator-anguli-oris.action >}} |
+
+# Origin
+Maxilla (below infraorbital foramen) @gilroyAtlasAnatomy2020
+
+# Insertion
+Skin at corner of mouth @gilroyAtlasAnatomy2020
+
+# Innervation
+
+[Facial Nerve CN VII]({{< var ref-cn7.path >}}) @gilroyAtlasAnatomy2020
+
+# Action
+Raises angle of mouth, Helps form nasolabial furrow @gilroyAtlasAnatomy2020
+
+# Clinical Significance

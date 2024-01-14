@@ -59,14 +59,7 @@ Within the brainstem there are 4 central nuclei of CN V:
 The trigeminal nerve supplies somatosensation to the entire face except the angle of the jaw innervated by the cervical plexus @jooMicrosurgicalAnatomyTrigeminal2014
 :::
 
-
- The proprioceptive impulses from the masticatory muscle run through the motor root to enter the mesencephalic nucleus @jooMicrosurgicalAnatomyTrigeminal2014
-
-The large sensory rootlets of the trigeminal nerve exit the lateral aspect of the midpons medial to middle cerebellar peduncle with the ophthalmic division being most inferior, the maxillary in the middle, and the mandibular division in the superior position (Fig. 2A). As the roots pass anteriorly through the prepontine cistern and Meckel’s cave to the trigeminal ganglion in the middle fossa, they rotate approximately lateral 180 degree rotation (Jannetta, 1996; Shankland, 2000). However, Rhoton (2000) reported that the fibers from the mandibular division remain in a caudolateral position in the trigeminal root throughout the interval from the ganglion to the pons, the ophthalmic division rostromedial, with maxillary division fibers in an intermediate position @jooMicrosurgicalAnatomyTrigeminal2014
-
-he small motor roots emerge from the pons anterosuperomedial to the entry point of the large sensory root (Saunders and Sachs, 1970; Lang, 1981). Some authors defined two motor rootlets groups of the trigeminal nerve; a primary superior and a secondary inferior motor rootlets, with numerous connections between both of these and the sensory root. The superior rootlets group, with its distinct position, and relative isolation from the main sensory root, represents the classic origin of the motor root (Fig. 2B) (Saunders and Sachs, 1970; Lang, 1981; Yousry et al., 2004). The inferior motor rootlets are visualized after retraction of the superior motor group from the sensory root (Figs. 2B and 2C). Pelletier at al. (1974) contend that the physiological characteristics of the inferior motor root were identical to that of the motor fibers and subserved either a motor or proprioceptive function rather than a sensory function (Pelletier et al., 1974). The two separate motor groups join together a short distance from the brain stem to form a single root and passes through the Meckel’s cave on the medial side of the sensory root and ganglion to join the mandibular division @jooMicrosurgicalAnatomyTrigeminal2014
-
-Peker et al. reported cisternal portion of the 100 trigeminal nerves measured 12.3 mm (range 8–15 mm). The root exit zone (REZ) of trigeminal nerve (the precise nerve-pons junction) and central-peripheral myelin transition zone (TZ), mentioned in the trigeminal neuralgia, are separate structures. The length of central myelin (distance from pons to TZ) on the medial aspect of the nerve (range, 0.1–2.5 mm; mean, 1.13 mm; median, 1 mm) was shorter than that on the lateral aspect (range, 0.17–6.75 mm; mean, 2.47 mm; median, 2.12 mm) @jooMicrosurgicalAnatomyTrigeminal2014
+The proprioceptive impulses from the masticatory muscle run through the motor root to enter the mesencephalic nucleus @jooMicrosurgicalAnatomyTrigeminal2014
 
 
 ```{mermaid}
@@ -103,12 +96,12 @@ trigeminal_sensory_nucleus -- Tactile & Pressure --> VPM[Thalamus VPM]
 ```
 
 ```{mermaid}
-flowchart BT
+flowchart TD
 
 
 ```
 
-# Sensory Aspect
+# Sensory Root (Portio Major)
 ## Sensory Pathway
 
 ![Trigeminal Sensory System Nuclei and Pathways (from Blumenfeld figure 12.8 @blumenfeldNeuroanatomyClinicalCases2022)](/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/images/fig12.8 Trigeminal sensory system nuclei and pathways blumenfeld2022.png)
@@ -133,7 +126,22 @@ The trigeminal nerve also provides touch and pain sensation for the nasal sinuse
 
 - [Trigeminal neuralgia]({{< var ref-trigeminal-neuralgia.path >}})
 
-# Motor Aspect
+# Motor Root (Portio Minor)
+
+## Motor Pathway
+
+- The motor plan is sent from the cerebrum/cerebellum inferiorly to the [trigeminal motor nucleus]({{< var ref-trigeminal-motor-nucleus.path >}})
+- From there, the motor signal exits the [trigeminal motor nucleus]({{< var ref-trigeminal-motor-nucleus.path >}}) and passes anteriorly in the pons @brazisLocalizationClinicalNeurology2022
+- The motor root emerges from the ant-lat aspect of the pons @brazisLocalizationClinicalNeurology2022
+  - The motor root is anterior and medial relative to sensory root @brazisLocalizationClinicalNeurology2022
+- Next, the motor root passes through the posterior fossa and then through the dura mater below the attachment of the tentorium @brazisLocalizationClinicalNeurology2022
+- The motor root then enters Meckel Cave @brazisLocalizationClinicalNeurology2022
+  - travels *beneath* the trigeminal ganglia @brazisLocalizationClinicalNeurology2022
+  - Exits the skull through foramen ovale  @brazisLocalizationClinicalNeurology2022
+- Upon its exodus from the skull, the motor root joins the sensory fibers in the mandibular (V~3~) division to form the mandibular nerve
+- The mandibular nerve (V~3~) connects the motor root to the masticatory muscles (masseter, temporalis, and medial and lateral pterygoid muscles) @brazisLocalizationClinicalNeurology2022
+  - In addition, motor fibers are given off to the tensor tympani, tensor veli palatini, and mylohyoid muscles, and to the anterior belly of the digastric muscle" @brazisLocalizationClinicalNeurology2022
+
 ## Motor Function
 
 # Meninges Sensitivity

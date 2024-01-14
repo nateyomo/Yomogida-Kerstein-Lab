@@ -1,0 +1,6 @@
+---
+title: Foramen Ovale of the Sphenoid bone
+---
+
+
+Trigeminal motor root exits the skull via the [foramen ovale]({{< var ref-foramen-ovale-sphenoid-bone.path >}})

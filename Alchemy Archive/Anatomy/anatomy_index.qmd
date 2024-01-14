@@ -5,6 +5,13 @@ title: Anatomy Index
 ## Arteries 
 - [Basilar Artery]({{< var ref-basilar-artery.path >}})
 
+## Bones
+### Cranium
+
+- Sphenoid Bone
+    - [Foramen ovale]({{< var ref-foramen-ovale-sphenoid-bone.path >}}) (of the sphenoid bone)
+- [Meckel's Cave]({{< var ref-meckel's-cave.path >}})
+
 ## Muscles
 [OIANs]({{< var ref-oians.path >}})
 

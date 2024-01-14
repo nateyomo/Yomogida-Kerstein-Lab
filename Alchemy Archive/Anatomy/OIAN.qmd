@@ -5,3 +5,8 @@ title: "OIANs of all the muscles"
 # Muscles of the back
 
 {{< include  OIANs/muscles_of_the_back_index.qmd >}}
+
+# Muscles of the Head and Neck
+
+{{< include  "OIANs/Head and Neck/muscles_of_head_and_neck_index.qmd" >}}
+

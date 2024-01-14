@@ -1,0 +1,24 @@
+---
+title: Platysma muscle
+---
+
+# OIAN
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Platysma muscle]({{< var ref-platysma.path >}}) | {{< var ref-platysma.origin >}} | {{< var ref-platysma.insertion >}} | {{< var ref-platysma.nerve >}} | {{< var ref-platysma.action >}} |
+
+# Origin
+Skin over lower neck and upper lateral thorax @gilroyAtlasAnatomy2020
+
+# Insertion
+Mandible (inf border), Skin over lower face, Angle of mouth @gilroyAtlasAnatomy2020
+
+# Innervation
+
+[Facial Nerve CN VII]({{< var ref-cn7.path >}}) @gilroyAtlasAnatomy2020
+
+# Action
+Depresses and wrinkles skin of lower face and mouth; Tenses skin of neck; Aids in forced depression of the mandible @gilroyAtlasAnatomy2020
+
+# Clinical Significance

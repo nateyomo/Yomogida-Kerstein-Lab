@@ -269,6 +269,14 @@ ref-acute-low-back-pain:
 ref-basilar-artery:
   path: "/Alchemy Archive/Anatomy/Arteries/basilar_artery.qmd"
 
+## Bones
+### Cranium
+
+ref-foramen-ovale-sphenoid-bone:
+  path: "/Alchemy Archive/Anatomy/Bones/Cranium/Sphenoid bone/foramen_ovale_sphenoid_bone.qmd"
+ref-meckel's-cave:
+  path: "/Alchemy Archive/Anatomy/Bones/Cranium/Meckel's_cave.qmd"
+
 ## OIAN
 ref-oians: 
   path: /Alchemy Archive/Anatomy/OIAN.qmd
@@ -341,10 +349,8 @@ ref-serratus-posterior-inferior:
   action: "Depresses ribs"
 ref-splenius-capitis: 
   path: /Alchemy Archive/Anatomy/OIANs/Muscles of the back/splenius_capitis.qmd
-  origin: "[Nuchal ligament]({{< var ref-nuchal-ligament.path >}}),
-- C7-T3/T4 SP"
-  insertion: "Lateral 1/3 nuchal line (occipital bone),
- Mastoid process (temporal bone)"
+  origin: "[Nuchal ligament]({{< var ref-nuchal-ligament.path >}}), C7-T3/T4 SP"
+  insertion: "Lateral 1/3 nuchal line (occipital bone), Mastoid process (temporal bone)"
   nerve: "[spinal nn.]({{< var ref-spinal-nerves.path >}}) C1-C6 (Post rami, lateral branches)"
   action: "**BIL:** Extends C/S and head; **UNIL:** I/L head SB and Rotation "
 ref-splenius-cervicis: 
@@ -457,9 +463,154 @@ ref-interspinales-lumbora:
   nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
   action: "**BIL**: Stabilizes and extends cervical and lumbar vertebrae; **UNIL**: I/L SB cervical and lumbar spines"
 
-## Extraocular muscles
+### Extraocular muscles
 ref-extraocular-muscles:
   path: "/Alchemy Archive/Anatomy/OIANs/Extraocular muscles/extraocular_muscles.qmd"
+
+### Head and neck
+ref-muscles-of-head-and-neck:
+  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/muscles_of_head_and_neck_index.qmd"
+#### Muscles of Facial Expression
+ref-occipitofrontalis:
+  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/occipitofrontalis.qmd"
+  origin: "Epicranial aponeurosis"
+  insertion: "Skin and subcutaneous tissue of eyebrows and forehead"
+  nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
+  action: "Elevates eyebrows; wrinkles skin of forehead"
+ref-procerus:
+  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/procerus.qmd"
+  origin: "Nasal bone, Lateral nasal cartilage (upper part)"
+  insertion: "Skin of lower forehead between eyebrows"
+  nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
+  action: "Pulls medial angle of eyebrows inferiorly, producing transverse wrinkles over bridge of nose"
+ref-orbicularis-oculi:
+  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/orbicularis_oculi.qmd"
+  origin: "Medial orbital margin, medial palpebral ligament, lacrimal bone"
+  insertion: "Skin around margin of orbit, superior and inferior tarsal plates"
+  nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
+  action: "Acts as orbital sphincter (closes eyelids): Palpebral portion gently closes, orbital portion tightly closes (winking)"
+ref-nasalis:
+  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/nasalis.qmd"
+  origin: "Maxilla (superior region of canine ridge)"
+  insertion: "Nasal cartilages"
+  nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
+  action: "Flares nostrils by drawing ala (side) of nose toward nasal septum"
+ref-levator-labii-superioris-alaeque-nasi:
+  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/levator_labii_superioris_alaeque_nasi.qmd"
+  origin: "Maxilla (Frontal process)"
+  insertion: "Alar cartilage of nose and upper lip"
+  nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
+  action: "Elevates upper lip; Opens nostril"
+ref-anterior-auricular-muscle:
+  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/anterior_auricular_muscle.qmd"
+  origin: "Temporal fascia (ant. portion)"
+  insertion: "Helix of the ear"
+  nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
+  action: "Pulls ear superiorly and anteriorly"
+ref-superior-auricular-muscle:
+  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/superior_auricular_muscle.qmd"
+  origin: "Epicranial aponeurosis on side of head"
+  insertion: "Upper portion of auricle"
+  nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
+  action: "Elevates ear"
+ref-posterior-auricular-muscle:
+  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/posterior_auricular_muscle.qmd"
+  origin: "Mastoid process"
+  insertion: "Convexity of concha of ear"
+  nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
+  action: "Pulls ear superiorly and posteriorly"
+ref-zygomaticus-major:
+  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/zygomaticus_major.qmd"
+  origin: "Zygomatic bone (lateral surface, post. part)"
+  insertion: "Skin at the corner of the mouth"
+  nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
+  action: "Pulls corner of mouth superiorly and laterally"
+ref-zygomaticus-minor:
+  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/zygomaticus_minor.qmd"
+  origin: "Zygomatic bone (Lat surface, post. part)"
+  insertion: "Upper lip just medial to corner of the mouth"
+  nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
+  action: "Pulls upper lips superiorly"
+ref-levator-labii-superioris:
+  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/levator_labii_superioris.qmd"
+  origin: "Maxilla (Frontal process) and infraorbital region"
+  insertion: "Skin of upper lip, Alar cartilages of nose"
+  nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
+  action: "Elevates upper lip, Dilates nostril, Raises angle of mouth"
+ref-depressor-labii-inferioris:
+  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/depressor_labii_superioris.qmd"
+  origin: "Mandible (ant portion of oblique line)"
+  insertion: "Lower lip at midline; blends with muscle from opposite side"
+  nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
+  action: "Pulls lower lip inferiorly and laterally"
+ref-levator-anguli-oris:
+  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/levator_anguli_oris.qmd"
+  origin: "Maxilla (below infraorbital foramen)"
+  insertion: "Skin at corner of mouth"
+  nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
+  action: "Raises angle of mouth, Helps form nasolabial furrow"
+ref-depressor-anguli-oris:
+  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/depressor_anguli_oris.qmd"
+  origin: "Mandible (oblique line below canine, premolar, and 1st molar teeth)"
+  insertion: "Skin at corner of the mouth; Blends with [orbicularis oris]({{< var ref-orbicularis-oris >}})"
+  nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
+  action: "Pulls angle of mouth inferiorly and laterally"
+ref-buccinator:
+  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/buccinator.qmd"
+  origin: "Mandible, Alveolar process of maxilla and mandible, Pterygomandibular raphe"
+  insertion: "Angle of mouth, Orbicularis Oris"
+  nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
+  action: "**BIL**: Presses cheek against molar teeth, working with tongue to keep food between occlusal surfaces and out of oral vestibule; expels air from oral cavity/resists distension when blowing; **UNIL**: Draws mouth to one side"
+ref-orbicularis-oris:
+  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/orbicularis_oris.qmd"
+  origin: "Deep surface of skin; **Superiorly**: maxilla (median plane); **Inferiorly**: mandible"
+  insertion: "Mucous membrane of lips"
+  nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
+  action: "Acts as oral sphincter: Compresses and protrudes lips (whistling, sucking, kissing); Resists distension (when blowing)"
+ref-risorius:
+  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/risorius.qmd"
+  origin: "Fascia over [masseter]({{< var ref-masseter.path >}})"
+  insertion: "Skin of corner of the mouth"
+  nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
+  action: "Retracts corner of mouth as in grimacing"
+ref-mentalis-muscle:
+  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/mentalis_muscle.qmd"
+  origin: "Mandible (incisive fossa)"
+  insertion: "Skin of chin"
+  nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
+  action: "Elevates and protrudes lower lip"
+ref-platysma:
+  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/platysma.qmd"
+  origin: "Skin over lower neck and upper lateral thorax"
+  insertion: "Mandible (inf border), Skin over lower face, Angle of mouth"
+  nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
+  action: "Depresses and wrinkles skin of lower face and mouth; Tenses skin of neck; Aids in forced depression of the mandible"
+
+#### Muscles of Mastication
+ref-masseter:
+  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Mastication/masseter.qmd"
+  origin: "**SF layer**: zygomatic arch (ant 2/3); **Deep layer**: Zygomatic arch (post. 1/3)"
+  insertion: "Mandibular angle (Masseteric tuberosity)"
+  nerve: "[Trigeminal CN V: Mandibular (V~3~)]({{< var ref-cn5.path >}})"
+  action: "**Entire muscle**: Elevates mandible; **SF Fibers**: Protrude mandible"
+ref-temporalis:
+  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Mastication/temporalis_muscle.qmd"
+  origin: "Temporal fossa (inferior temporal line)"
+  insertion: "Coronoid process of mandible (apex and medial surface)"
+  nerve: "[Mandibular (V~3~) divison of CN V via deep temporal nn]({{< var ref-cn5.path >}})"
+  action: "**Vertical fibers**: Elevate mandible; **Horizontal Fibers**: Retract (retrude) mandible; **Unilateral Fibers:** Lateral movement of mandible (chewing)"
+ref-lateral-pterygoid:
+  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Mastication/lateral_pterygoid.qmd"
+  origin: "**Superior Head:** Greater wing of sphenoid bone (infratemporal crest); **Inferior head:** Lateral surface of pterygoid plate (lat surface)"
+  insertion: "**Superior Head:** Tempormandibular joint (articular disc); **Inferior head:** Mandible (condylar process)"
+  nerve: "[Mandibular (V~3~) divison of CN V via lateral pterygoid n.]({{< var ref-cn5.path >}})"
+  action: "**BIL:** Protrudes mandible (pulls articular disk forward); **UNIL:** Lateral movements of mandible (chewing)"
+ref-medial-pterygoid:
+  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Mastication/medial_pterygoid.qmd"
+  origin: "**SF Head:** Maxilla (tuberosity); **Deep head:** Medial surface of lateral pterygoid plate and pterygoid fossa"
+  insertion: "Pterygoid tuberosity on medial surface of the mandibular angle"
+  nerve: "[Mandibular (V~3~) divison of CN V via medial pterygoid n.]({{< var ref-cn5.path >}})"
+  action: "**BIL:** Elevates mandible with masseter and contributes to protrusion; **UNIL:** Small grinding movements"
 
 ## Nerve
 ref-suboccipital-nerve: 

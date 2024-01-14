@@ -1,0 +1,24 @@
+---
+title: Levator Labii superioris alaeque nasi muscle
+---
+
+# OIAN
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Levator Labii superioris alaeque nasi]({{< var ref-levator-labii-superioris-alaeque-nasi.path >}}) | {{< var ref-levator-labii-superioris-alaeque-nasi.origin >}} | {{< var ref-levator-labii-superioris-alaeque-nasi.insertion >}} | {{< var ref-levator-labii-superioris-alaeque-nasi.nerve >}} | {{< var ref-levator-labii-superioris-alaeque-nasi.action >}} |
+
+# Origin
+Maxilla (Frontal process) @gilroyAtlasAnatomy2020
+
+# Insertion
+Alar cartilage of nose and upper lip @gilroyAtlasAnatomy2020
+
+# Innervation
+
+[Facial Nerve CN VII]({{< var ref-cn7.path >}}) @gilroyAtlasAnatomy2020
+
+# Action
+Elevates upper lip; Opens nostril @gilroyAtlasAnatomy2020
+
+# Clinical Significance

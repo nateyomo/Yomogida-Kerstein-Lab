@@ -1,0 +1,24 @@
+---
+title: Depressor labii inferioris muscle
+---
+
+# OIAN
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Depressor labii inferioris]({{< var ref-depressor-labii-inferioris.path >}}) | {{< var ref-depressor-labii-inferioris.origin >}} | {{< var ref-depressor-labii-inferioris.insertion >}} | {{< var ref-depressor-labii-inferioris.nerve >}} | {{< var ref-depressor-labii-inferioris.action >}} |
+
+# Origin
+Mandible (ant portion of oblique line) @gilroyAtlasAnatomy2020
+
+# Insertion
+Lower lip at midline; blends with muscle from opposite side @gilroyAtlasAnatomy2020
+
+# Innervation
+
+[Facial Nerve CN VII]({{< var ref-cn7.path >}}) @gilroyAtlasAnatomy2020
+
+# Action
+Pulls lower lip inferiorly and laterally @gilroyAtlasAnatomy2020
+
+# Clinical Significance

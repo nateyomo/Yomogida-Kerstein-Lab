@@ -1,0 +1,24 @@
+---
+title: Mentalis muscle
+---
+
+# OIAN
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Mentalis muscle]({{< var ref-mentalis-muscle.path >}}) | {{< var ref-mentalis-muscle.origin >}} | {{< var ref-mentalis-muscle.insertion >}} | {{< var ref-mentalis-muscle.nerve >}} | {{< var ref-mentalis-muscle.action >}} |
+
+# Origin
+Mandible (incisive fossa) @gilroyAtlasAnatomy2020
+
+# Insertion
+Skin of chin @gilroyAtlasAnatomy2020
+
+# Innervation
+
+[Facial Nerve CN VII]({{< var ref-cn7.path >}}) @gilroyAtlasAnatomy2020
+
+# Action
+Elevates and protrudes lower lip @gilroyAtlasAnatomy2020
+
+# Clinical Significance
