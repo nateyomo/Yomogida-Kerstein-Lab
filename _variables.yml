@@ -1,268 +1,3 @@
-
-
-# genetics & Genomics
-ref-sod1: 
-  path: "/Alchemy Archive/Genetics and genomics/SOD1_superoxide_dismutase_1.qmd"
-
-# Physiology
-## Enzymes
-ref-superoxide-dismutases-group: 
-  path: "/Alchemy Archive/Physiology/Enzymes/superoxide_dismutases_group.qmd"
-
-ref-CuZnSOD-copper-zinc-superoxide-dismutase:
-  path: "/Alchemy Archive/Physiology/Enzymes/CuZnSOD_copper-zinc_superoxide_dismutase.qmd"
-
-## Minerals
-ref-copper: 
-  path: "/Alchemy Archive/Physiology/Minerals/copper.qmd"
-
-## Muscle
-
-## Neurotransmitters
-ref-glutamate:
-  path: "/Alchemy Archive/Physiology/Neurotransmitters/glutamate.qmd"
-
-## Neutrophic factors
-
-ref-neurotrophic-hormone-deficiency-theory: 
-  path: "/Alchemy Archive/Physiology/Neutrotrophic Factors/neurotrophic-hormone-deficiency-theory.qmd"
-
-## Physiology of stress
-ref-oxidative-stress: 
-  path: "/Alchemy Archive/Physiology/Physiology of stress/Oxidative_stress.qmd"
-
-## Transporters
-ref-EAAT2-excitatory-amino-acid-transporter-2:
-  path: "/Alchemy Archive/Physiology/Transporters/EAAT2_excitatory_amino_acid_transporter_2.qmd"
-
-# Pain science
-
-
-## CRPS 
-ref-CRPS: 
-  path: "/Alchemy Archive/Pain_science/Complex regional pain syndrome/CRPS_complex_regional_pain_syndrome.qmd"
-
-ref-CRPS-type1: 
-  path: "/Alchemy Archive/Pain_science/Complex regional pain syndrome/CRPS_Type1.qmd"
-
-ref-CRPS-type2:
-  path: "/Alchemy Archive/Pain_science/Complex regional pain syndrome/CRPS_Type2.qmd"
-
-## Interventions
-
-## Pain terms and Taxonomies
-ref-acute-pain:
-  path: "/Alchemy Archive/Pain_science/Pain terms and Taxonomies/acute_pain.qmd"
-ref-chronic-pain:
-  path: "/Alchemy Archive/Pain_science/Pain terms and Taxonomies/chronic_pain.qmd"
-ref-cancer-pain:
-  path: "/Alchemy Archive/Pain_science/Pain terms and Taxonomies/cancer_pain.qmd"
-ref-recurrent-pain:
-  path: "/Alchemy Archive/Pain_science/Pain terms and Taxonomies/recurrent_pain.qmd"
-ref-transient-pain:
-  path: "/Alchemy Archive/Pain_science/Pain terms and Taxonomies/transient_pain.qmd"
-ref-pain-overview:
-  path: "/Alchemy Archive/Pain_science/Pain terms and Taxonomies/pain_overview.qmd"
-
-## Sensitization
-ref-allodynia:
-  path: "/Alchemy Archive/Pain_science/Sensitization/allodynia.qmd"
-ref-analgesia:
-  path: "/Alchemy Archive/Pain_science/Sensitization/analgesia.qmd"
-ref-central-sensitization:
-  path: "/Alchemy Archive/Pain_science/Sensitization/central_sensitization.qmd"
-ref-hyperalgesia:
-  path: "/Alchemy Archive/Pain_science/Sensitization/hyperalgesia.qmd"
-
-## PS - Interventions
-ref-graded-motor-imagery: 
-  path: "/Alchemy Archive/Pain_science/interventions/graded_motor_imagery.qmd"
-
-# Pathologies & Rehab
-## Spine-cervical
-ref-VBI-vertebrobasilar-insufficiency:
-  path: "/Alchemy Archive/Pathologies-and-Rehab/Spine-Cervical/vertebrobasilar_insufficiency.qmd"
-
-# Pathologies
-## Endocrine pathologies
-### Pituitary system pathologies
-#### Pituitary Hypofunction
-##### Gondaotropin deficiency
-ref-gonadotropin-deficiency:
-  path: "/Alchemy Archive/Pathologies/Endocrine Pathologies/Disorders of the Pituitary Hormone System/Pituitary Hypofunction/Gonadotropin Deficiency/gonadotropin_deficiency.qmd"
-ref-kallmann-syndrome:
-  path: "/Alchemy Archive/Pathologies/Endocrine Pathologies/Disorders of the Pituitary Hormone System/Pituitary Hypofunction/Gonadotropin Deficiency/kallmann_syndrome.qmd"
-
-# Neuroscience
-
-## Neuroanatomy
-### Basal ganglia
-ref-basal-ganglia:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Basal Ganglia/basal_ganglia.qmd"
-ref-lentiform-nucleus:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Basal Ganglia/lentiform_nucleus.qmd"
-ref-striatum:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Basal Ganglia/striatum.qmd"
-ref-putamen:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Basal Ganglia/putamen.qmd"
-ref-caudate-nucleus:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Basal Ganglia/caudate_nucleus.qmd"
-ref-globus-pallidus:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Basal Ganglia/globus_pallidus.qmd"
-ref-subthalamic-nucleus:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Basal Ganglia/subthalamic_nucleus.qmd"
-ref-substantia-nigra:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Basal Ganglia/substantia_nigra.qmd"
-
-### Cranial Nerves
-ref-cranial-nerve-overview:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/cranial_nerve_overview.qmd"
-ref-cn1:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN1_Olfactory.qmd"
-ref-cn2:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN2_Optic.qmd"
-ref-cn3:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN3_Oculomotor.qmd"
-ref-cn4:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN4_Trochlear.qmd"
-ref-cn5:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN5_Trigeminal.qmd"
-ref-cn6:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN6_Abducens.qmd"
-ref-cn7:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN7_Facial.qmd"
-ref-cn8:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN8_Vestibulocochlear.qmd"
-ref-cn9:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN9_Glossopharyngeal.qmd"
-ref-cn10:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN10_Vagus.qmd"
-ref-cn11:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN11_Accessory.qmd"
-ref-cn12:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN12_Hypoglossal.qmd"
-
-ref-cranial-nerve-nuclei-overview:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/cranial_nerve_nuclei_overview.qmd"
-ref-oculomotor-nucleus:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/oculomotor_nucleus.qmd"
-ref-trochlear-nucleus:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/trochlear_nucleus.qmd"
-ref-abducens-nucleus:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/abducens_nucleus.qmd"
-ref-trigeminal-motor-nucleus:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/trigeminal_motor_nucleus.qmd"
-ref-facial-nucleus:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/facial_nucleus.qmd"
-ref-hypoglossal-nucleus:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/hypoglossal_nucleus.qmd"
-ref-nucleus-ambiguous:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/nucleus_ambiguous.qmd"
-ref-spinal-accessory-nucleus:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/spinal_accessory_nucleus.qmd"
-ref-edinger-westphal-nucleus:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/edinger-westphal_nucleus.qmd"
-ref-superior-salivatory-nucleus:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/superior_salivatory_nucleus.qmd"
-ref-inferior-salivatory-nucleus:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/inferior_salivatory_nucleus.qmd"
-ref-dorsal-motor-nucleus:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/dorsal_motor_nucleus.qmd"
-ref-nucleus-solitarius:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/nucleus_solitarius.qmd"
-ref-trigeminal-sensory-nuclei:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/trigeminal_sensory_nuclei.qmd"
-ref-mesencephalic-nucleus:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/mesencephalic_nucleus.qmd"
-ref-main-sensory-nucleus-of-CN-V:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/main_sensory_nucleus_of_cn_v.qmd"
-ref-spinal-trigeminal-nucleus:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/spinal_trigeminal_nucleus.qmd"
-ref-cochlear-nuclei:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/cochlear_nuclei.qmd"
-ref-vestibular-nuclei:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/vestibular_nuclei.qmd"
-
-### Limbic System
-ref-amygdala:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Limbic System/amygdala.qmd"
-
-### Tracts
-#### Ascending Tracts
-ref-dorsal-column-medial-lemniscus: 
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/DCML and related structures/dorsal_column-medial_lemniscus_DCML.qmd"
-ref-fasciculus-cuneatus:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/DCML and related structures/fasciculus_cuneatus.qmd"
-ref-fasciculus-gracilis:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/DCML and related structures/fasciculus_gracilis.qmd"
-ref-cuneocerebellar-tract:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/cuneocerebellar_tract.qmd"
-ref-dorsal-spinocerebellar-tract:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/dorsal_spinocerebellar_tract.qmd"
-ref-ventral-spinocerebellar-tract:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/ventral_spinocerebellar_tract.qmd"
-ref-spinothalamic-tract:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/spinothalamic_tract.qmd"
-ref-spinal-trigeminal-tract:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/spinal_trigeminal_tract.qmd"
-ref-trigeminothalamic-tract:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/trigeminothalamic_tract.qmd"
-ref-spinoreticular-tract:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/spinoreticular_tract.qmd"
-ref-spinomesencephalic-tract:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/spinomesencephalic_tract.qmd"
-ref-spinohypothalamic-tract:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/spinohypothalamic_tract.qmd"
-
-
-
-
-#### Descending Tracts
-ref-extrapyramidal-tracts:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/extrapyramidal_tracts.qmd"
-ref-reticulospinal-tract:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/reticulospinal_tract.qmd"
-ref-rubrospinal-tract:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/rubrospinal_tract.qmd"
-ref-tectospinal-tract:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/tectospinal_tract.qmd"
-ref-vestibulospinal-tract:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/vestibulospinal_tract.qmd"
-ref-pyramidal-tracts:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Pyramidal Tract/pyramidal_tracts.qmd"
-ref-corticobulbar-tract:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Pyramidal Tract/corticobulbar_tract.qmd"
-ref-lateral-corticospinal-tract:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Pyramidal Tract/lateral_corticospinal_tract_LCST.qmd"
-ref-medial-corticospinal-tract:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Pyramidal Tract/medial_corticospinal_tract_MCST.qmd"
-
-
-
-## Neurophysiology
-### Special Senses
-ref-gustation:
-  path: "/Alchemy Archive/Neuro/Neurophysiology/Special Senses/gustation.qmd"
-ref-olfaction:
-  path: "/Alchemy Archive/Neuro/Neurophysiology/Special Senses/olfaction.qmd"
-ref-vision:
-  path: "/Alchemy Archive/Neuro/Neurophysiology/Special Senses/Vision and eye movement/vision.qmd"
-
-### Neuro Symptoms
-ref-anosmia:
-  path: "/Alchemy Archive/Symptoms/Neuro Symptoms/anosmia.qmd"
-
-## Neuropathology
-ref-amyotrophic-lateral-sclerosis: 
-  path: "/Alchemy Archive/Neuro/Neuropathology/Amyotrophic Lateral Sclerosis/amyotrophic_lateral_sclerosis.qmd"
-
-# Pathologies & Rehab
-ref-chronic-low-back-pain: 
-  path: "/Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/chronic_low_back_pain.qmd"
-
-ref-acute-low-back-pain: 
-  path: "/Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/acute_low_back_pain.qmd"
-
 # Anatomy
 
 ## Arteries 
@@ -270,10 +5,12 @@ ref-basilar-artery:
   path: "/Alchemy Archive/Anatomy/Arteries/basilar_artery.qmd"
 
 ## Bones
-### Cranium
+### Bones of the skull
 
+ref-sphenoid-bone:
+  path: "/Alchemy Archive/Anatomy/Bones/Bones of the Skull/sphenoid_bone.qmd"
 ref-foramen-ovale-sphenoid-bone:
-  path: "/Alchemy Archive/Anatomy/Bones/Cranium/Sphenoid bone/foramen_ovale_sphenoid_bone.qmd"
+  path: "/Alchemy Archive/Anatomy/Bones/Bones of the Skull/sphenoid_bone.qmd"
 ref-meckel's-cave:
   path: "/Alchemy Archive/Anatomy/Bones/Cranium/Meckel's_cave.qmd"
 
@@ -623,6 +360,276 @@ ref-spinal-nerves:
 
 ref-nuchal-ligament:
   path: "/Alchemy Archive/Anatomy/Ligaments/nuchal_ligament.qmd"
+
+
+# genetics & Genomics
+ref-sod1: 
+  path: "/Alchemy Archive/Genetics and genomics/SOD1_superoxide_dismutase_1.qmd"
+
+# Physiology
+## Enzymes
+ref-superoxide-dismutases-group: 
+  path: "/Alchemy Archive/Physiology/Enzymes/superoxide_dismutases_group.qmd"
+
+ref-CuZnSOD-copper-zinc-superoxide-dismutase:
+  path: "/Alchemy Archive/Physiology/Enzymes/CuZnSOD_copper-zinc_superoxide_dismutase.qmd"
+
+## Minerals
+ref-copper: 
+  path: "/Alchemy Archive/Physiology/Minerals/copper.qmd"
+ref-iron:
+  path: "/Alchemy Archive/Physiology/Minerals/iron.qmd"
+## Muscle
+
+## Neurotransmitters
+ref-glutamate:
+  path: "/Alchemy Archive/Physiology/Neurotransmitters/glutamate.qmd"
+
+## Neutrophic factors
+
+ref-neurotrophic-hormone-deficiency-theory: 
+  path: "/Alchemy Archive/Physiology/Neutrotrophic Factors/neurotrophic-hormone-deficiency-theory.qmd"
+
+## Nutrients
+ref-coenzyme-q10:
+  path: "/Alchemy Archive/Physiology/Nutrients/coenzyme_Q10.qmd"
+
+## Physiology of stress
+ref-oxidative-stress: 
+  path: "/Alchemy Archive/Physiology/Physiology of stress/Oxidative_stress.qmd"
+
+## Transporters
+ref-EAAT2-excitatory-amino-acid-transporter-2:
+  path: "/Alchemy Archive/Physiology/Transporters/EAAT2_excitatory_amino_acid_transporter_2.qmd"
+
+# Pain science
+
+
+## CRPS 
+ref-CRPS: 
+  path: "/Alchemy Archive/Pain_science/Complex regional pain syndrome/CRPS_complex_regional_pain_syndrome.qmd"
+
+ref-CRPS-type1: 
+  path: "/Alchemy Archive/Pain_science/Complex regional pain syndrome/CRPS_Type1.qmd"
+
+ref-CRPS-type2:
+  path: "/Alchemy Archive/Pain_science/Complex regional pain syndrome/CRPS_Type2.qmd"
+
+## Interventions
+
+## Pain terms and Taxonomies
+ref-acute-pain:
+  path: "/Alchemy Archive/Pain_science/Pain terms and Taxonomies/acute_pain.qmd"
+ref-chronic-pain:
+  path: "/Alchemy Archive/Pain_science/Pain terms and Taxonomies/chronic_pain.qmd"
+ref-cancer-pain:
+  path: "/Alchemy Archive/Pain_science/Pain terms and Taxonomies/cancer_pain.qmd"
+ref-recurrent-pain:
+  path: "/Alchemy Archive/Pain_science/Pain terms and Taxonomies/recurrent_pain.qmd"
+ref-transient-pain:
+  path: "/Alchemy Archive/Pain_science/Pain terms and Taxonomies/transient_pain.qmd"
+ref-pain-overview:
+  path: "/Alchemy Archive/Pain_science/Pain terms and Taxonomies/pain_overview.qmd"
+
+## Sensitization
+ref-allodynia:
+  path: "/Alchemy Archive/Pain_science/Sensitization/allodynia.qmd"
+ref-analgesia:
+  path: "/Alchemy Archive/Pain_science/Sensitization/analgesia.qmd"
+ref-central-sensitization:
+  path: "/Alchemy Archive/Pain_science/Sensitization/central_sensitization.qmd"
+ref-hyperalgesia:
+  path: "/Alchemy Archive/Pain_science/Sensitization/hyperalgesia.qmd"
+
+## PS - Interventions
+ref-graded-motor-imagery: 
+  path: "/Alchemy Archive/Pain_science/interventions/graded_motor_imagery.qmd"
+
+# Pathologies & Rehab
+## Spine-cervical
+ref-VBI-vertebrobasilar-insufficiency:
+  path: "/Alchemy Archive/Pathologies-and-Rehab/Spine-Cervical/vertebrobasilar_insufficiency.qmd"
+
+# Pathologies
+## Endocrine pathologies
+### Pituitary system pathologies
+#### Pituitary Hypofunction
+##### Gondaotropin deficiency
+ref-gonadotropin-deficiency:
+  path: "/Alchemy Archive/Pathologies/Endocrine Pathologies/Disorders of the Pituitary Hormone System/Pituitary Hypofunction/Gonadotropin Deficiency/gonadotropin_deficiency.qmd"
+ref-kallmann-syndrome:
+  path: "/Alchemy Archive/Pathologies/Endocrine Pathologies/Disorders of the Pituitary Hormone System/Pituitary Hypofunction/Gonadotropin Deficiency/kallmann_syndrome.qmd"
+
+# Neuroscience
+
+## Neuroanatomy
+### Basal ganglia
+ref-basal-ganglia:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Basal Ganglia/basal_ganglia.qmd"
+ref-lentiform-nucleus:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Basal Ganglia/lentiform_nucleus.qmd"
+ref-striatum:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Basal Ganglia/striatum.qmd"
+ref-putamen:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Basal Ganglia/putamen.qmd"
+ref-caudate-nucleus:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Basal Ganglia/caudate_nucleus.qmd"
+ref-globus-pallidus:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Basal Ganglia/globus_pallidus.qmd"
+ref-subthalamic-nucleus:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Basal Ganglia/subthalamic_nucleus.qmd"
+ref-substantia-nigra:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Basal Ganglia/substantia_nigra.qmd"
+
+### Cranial Nerves
+ref-cranial-nerve-overview:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/cranial_nerve_overview.qmd"
+ref-cn1:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN1_Olfactory.qmd"
+ref-cn2:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN2_Optic.qmd"
+ref-cn3:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN3_Oculomotor.qmd"
+ref-cn4:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN4_Trochlear.qmd"
+ref-cn5:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN5_Trigeminal.qmd"
+ref-cn6:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN6_Abducens.qmd"
+ref-cn7:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN7_Facial.qmd"
+ref-cn8:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN8_Vestibulocochlear.qmd"
+ref-cn9:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN9_Glossopharyngeal.qmd"
+ref-cn10:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN10_Vagus.qmd"
+ref-cn11:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN11_Accessory.qmd"
+ref-cn12:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN12_Hypoglossal.qmd"
+
+ref-cranial-nerve-nuclei-overview:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/cranial_nerve_nuclei_overview.qmd"
+ref-oculomotor-nucleus:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/oculomotor_nucleus.qmd"
+ref-trochlear-nucleus:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/trochlear_nucleus.qmd"
+ref-abducens-nucleus:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/abducens_nucleus.qmd"
+ref-trigeminal-motor-nucleus:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/trigeminal_motor_nucleus.qmd"
+ref-facial-nucleus:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/facial_nucleus.qmd"
+ref-hypoglossal-nucleus:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/hypoglossal_nucleus.qmd"
+ref-nucleus-ambiguous:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/nucleus_ambiguous.qmd"
+ref-spinal-accessory-nucleus:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/spinal_accessory_nucleus.qmd"
+ref-edinger-westphal-nucleus:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/edinger-westphal_nucleus.qmd"
+ref-superior-salivatory-nucleus:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/superior_salivatory_nucleus.qmd"
+ref-inferior-salivatory-nucleus:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/inferior_salivatory_nucleus.qmd"
+ref-dorsal-motor-nucleus:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/dorsal_motor_nucleus.qmd"
+ref-nucleus-solitarius:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/nucleus_solitarius.qmd"
+ref-trigeminal-sensory-nuclei:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/trigeminal_sensory_nuclei.qmd"
+ref-mesencephalic-nucleus:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/mesencephalic_nucleus.qmd"
+ref-main-sensory-nucleus-of-CN-V:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/main_sensory_nucleus_of_cn_v.qmd"
+ref-spinal-trigeminal-nucleus:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/spinal_trigeminal_nucleus.qmd"
+ref-cochlear-nuclei:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/cochlear_nuclei.qmd"
+ref-vestibular-nuclei:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/vestibular_nuclei.qmd"
+
+### Limbic System
+ref-amygdala:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Limbic System/amygdala.qmd"
+
+### Tracts
+#### Ascending Tracts
+ref-dorsal-column-medial-lemniscus: 
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/DCML and related structures/dorsal_column-medial_lemniscus_DCML.qmd"
+ref-fasciculus-cuneatus:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/DCML and related structures/fasciculus_cuneatus.qmd"
+ref-fasciculus-gracilis:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/DCML and related structures/fasciculus_gracilis.qmd"
+ref-cuneocerebellar-tract:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/cuneocerebellar_tract.qmd"
+ref-dorsal-spinocerebellar-tract:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/dorsal_spinocerebellar_tract.qmd"
+ref-ventral-spinocerebellar-tract:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/ventral_spinocerebellar_tract.qmd"
+ref-spinothalamic-tract:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/spinothalamic_tract.qmd"
+ref-spinal-trigeminal-tract:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/spinal_trigeminal_tract.qmd"
+ref-trigeminothalamic-tract:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/trigeminothalamic_tract.qmd"
+ref-spinoreticular-tract:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/spinoreticular_tract.qmd"
+ref-spinomesencephalic-tract:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/spinomesencephalic_tract.qmd"
+ref-spinohypothalamic-tract:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/spinohypothalamic_tract.qmd"
+
+
+
+
+#### Descending Tracts
+ref-extrapyramidal-tracts:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/extrapyramidal_tracts.qmd"
+ref-reticulospinal-tract:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/reticulospinal_tract.qmd"
+ref-rubrospinal-tract:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/rubrospinal_tract.qmd"
+ref-tectospinal-tract:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/tectospinal_tract.qmd"
+ref-vestibulospinal-tract:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/vestibulospinal_tract.qmd"
+ref-pyramidal-tracts:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Pyramidal Tract/pyramidal_tracts.qmd"
+ref-corticobulbar-tract:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Pyramidal Tract/corticobulbar_tract.qmd"
+ref-lateral-corticospinal-tract:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Pyramidal Tract/lateral_corticospinal_tract_LCST.qmd"
+ref-medial-corticospinal-tract:
+  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Pyramidal Tract/medial_corticospinal_tract_MCST.qmd"
+
+
+
+## Neurophysiology
+### Special Senses
+ref-gustation:
+  path: "/Alchemy Archive/Neuro/Neurophysiology/Special Senses/gustation.qmd"
+ref-olfaction:
+  path: "/Alchemy Archive/Neuro/Neurophysiology/Special Senses/olfaction.qmd"
+ref-vision:
+  path: "/Alchemy Archive/Neuro/Neurophysiology/Special Senses/Vision and eye movement/vision.qmd"
+
+### Neuro Symptoms
+ref-anosmia:
+  path: "/Alchemy Archive/Symptoms/Neuro Symptoms/anosmia.qmd"
+
+## Neuropathology
+ref-amyotrophic-lateral-sclerosis: 
+  path: "/Alchemy Archive/Neuro/Neuropathology/Amyotrophic Lateral Sclerosis/amyotrophic_lateral_sclerosis.qmd"
+
+# Pathologies & Rehab
+ref-chronic-low-back-pain: 
+  path: "/Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/chronic_low_back_pain.qmd"
+
+ref-acute-low-back-pain: 
+  path: "/Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/acute_low_back_pain.qmd"
+
 
 # Symptoms
 

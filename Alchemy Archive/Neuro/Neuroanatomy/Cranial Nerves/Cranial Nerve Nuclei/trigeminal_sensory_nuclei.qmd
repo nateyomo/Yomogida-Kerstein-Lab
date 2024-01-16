@@ -2,7 +2,12 @@
 title: Trigeminal Sensory Nuclei
 ---
 
-- AKA Principal sensory nucleus
+::: {.callout-note collapse="true"}
+# AKA
+
+- Principal sensory nucleus of CN V
+- Central sensory nucleus of CN V
+:::
 
 # Anatomy
 

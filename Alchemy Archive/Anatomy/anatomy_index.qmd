@@ -6,7 +6,9 @@ title: Anatomy Index
 - [Basilar Artery]({{< var ref-basilar-artery.path >}})
 
 ## Bones
-### Cranium
+### Bones of the skull
+
+{{< include "/Alchemy Archive/Anatomy/Bones/Bones of the Skull/skull_bones.qmd" >}}
 
 - Sphenoid Bone
     - [Foramen ovale]({{< var ref-foramen-ovale-sphenoid-bone.path >}}) (of the sphenoid bone)

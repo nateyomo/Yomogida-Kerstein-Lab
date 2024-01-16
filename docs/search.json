@@ -1472,35 +1472,35 @@
   {
     "objectID": "Alchemy Archive/Anatomy/anatomy_index.html",
     "href": "Alchemy Archive/Anatomy/anatomy_index.html",
-    "title": "Anatomy Index",
+    "title": "Bones of the Skull",
     "section": "",
     "text": "Basilar Artery"
   },
   {
     "objectID": "Alchemy Archive/Anatomy/anatomy_index.html#arteries",
     "href": "Alchemy Archive/Anatomy/anatomy_index.html#arteries",
-    "title": "Anatomy Index",
+    "title": "Bones of the Skull",
     "section": "",
     "text": "Basilar Artery"
   },
   {
     "objectID": "Alchemy Archive/Anatomy/anatomy_index.html#bones",
     "href": "Alchemy Archive/Anatomy/anatomy_index.html#bones",
-    "title": "Anatomy Index",
+    "title": "Bones of the Skull",
     "section": "2 Bones",
-    "text": "2 Bones\n\n2.1 Cranium\n\nSphenoid Bone\n\nForamen ovale (of the sphenoid bone)\n\nMeckel’s Cave"
+    "text": "2 Bones\n\n2.1 Bones of the skull\n\n2.1.1 Neurocranium\n\nEthmoid bone (cribriform plate)\nFrontal bone\nOccipital bone\nParietal bone\nSphenoid bone\nTemporal bone (petrous and squamous parts)\n\n\n\n2.1.2 Visccerocranium\n\nEthmoid bone\nHyoid bone\nInferior nasal concha\nLacrimal bone\nMandible\nMaxilla\nNasal bone\nPalatine bone\nSphenoid bone (pterygoid process)\nTemporal bone\nVomer\n\n\n\n\n\n\n\nNeurocranium vs Viscerocranium\n\n\n\n\n\nMost of the ethmoid bone is in the viscerocranium; most of the sphenoid bone is in the neurocranium. The temporal bone is divided between the two1\n\n\n\n\nSphenoid Bone\n\nForamen ovale (of the sphenoid bone)\n\nMeckel’s Cave"
   },
   {
     "objectID": "Alchemy Archive/Anatomy/anatomy_index.html#muscles",
     "href": "Alchemy Archive/Anatomy/anatomy_index.html#muscles",
-    "title": "Anatomy Index",
+    "title": "Bones of the Skull",
     "section": "3 Muscles",
     "text": "3 Muscles\nOIANs"
   },
   {
     "objectID": "Alchemy Archive/Anatomy/anatomy_index.html#nerves",
     "href": "Alchemy Archive/Anatomy/anatomy_index.html#nerves",
-    "title": "Anatomy Index",
+    "title": "Bones of the Skull",
     "section": "4 Nerves",
     "text": "4 Nerves\nSuboccipital Nerve\nSpinal nn."
   },
@@ -2397,50 +2397,50 @@
     "objectID": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN5_Trigeminal.html#brainstem",
     "href": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN5_Trigeminal.html#brainstem",
     "title": "CNV Trigeminal Nerve",
-    "section": "2.1 Brainstem",
-    "text": "2.1 Brainstem\nWithin the brainstem there are 4 central nuclei of CN V: - Mesencephalic nucleus (Conveys afferent proprioceptive fibers from extraocular and masticatory muscles and allows for bite modulation2) - Trigeminal sensory nucleus Conveys tactile and pressure sense2 - Trigeminal motor nucleus (Modulates degree of bite) - Spinal trigeminal nucleus & Spinal Trigeminal tract"
+    "section": "3.1 Brainstem",
+    "text": "3.1 Brainstem"
   },
   {
     "objectID": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN5_Trigeminal.html#trigeminal-root-cisternal-segment",
     "href": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN5_Trigeminal.html#trigeminal-root-cisternal-segment",
     "title": "CNV Trigeminal Nerve",
-    "section": "2.2 Trigeminal Root (Cisternal Segment)",
-    "text": "2.2 Trigeminal Root (Cisternal Segment)\n\nThe 4 trigeminal nuclei (3 sensory, 1 motor) extend throughout most of the brain stem2\n“The trigeminal root is composed of the large sensory root and the small motor root”2\n“The sensory root receives somatosensory sensation from the entire face , temple, external acoustic meatus, and the anterior scalp as far posterior as the vertex of the skull”2\n\n\n\n\n\n\n\nNote\n\n\n\n\n\nThe trigeminal nerve supplies somatosensation to the entire face except the angle of the jaw innervated by the cervical plexus2\n\n\n\nThe proprioceptive impulses from the masticatory muscle run through the motor root to enter the mesencephalic nucleus2\n\n\n\n\n\nflowchart BT\n\n  mesencephalic_response[Modulating the bite]\n  mesencephalic_response --&gt; mesencephalic_nucleus[Mesencephalic Nucleus]\n  proprioceptive_fibers[Proprioceptive fibers from extraocular muscles and masticatory muscles]\n  \n  teeth[Teeth] -- proprioception --&gt; proprioceptive_fibers\n  periodontium[Periodontium] -- proprioception --&gt; proprioceptive_fibers\n  hard_palate[Hard Palate] -- proprioception --&gt; proprioceptive_fibers\n  temporomandibular_joint_capsule[Temperomandibular Joint Capsule] -- proprioception --&gt; proprioceptive_fibers\n\ntrigeminal_ganglion[Trigeminal Ganglion]\n\n\n\ntactile_and_pressure_receptors[Receptors] -- Tactile & Pressure --&gt; upper_face[Skin of Upper Face]\ntactile_and_pressure_receptors -- Tactile & Pressure --&gt; middle_face[Skin of Middle face]\ntactile_and_pressure_receptors -- Tactile & Pressure --&gt; lower_face[Skin of Lower Face]\n\nupper_face --&gt; opthalmic[Opthalmic Division V1]\nmiddle_face --&gt; maxillary[Maxillary Division V2]\nlower_face --&gt; mandibular[Mandibular Division V3]\n\nopthalmic --&gt; trigeminal_ganglion\nmaxillary --&gt; trigeminal_ganglion\nmandibular --&gt; trigeminal_ganglion\n\ntrigeminal_ganglion -- Tactile & Pressure --&gt; trigeminal_sensory_nucleus[Trigeminal Sensory Nucleus]\n\ntrigeminal_sensory_nucleus -- Tactile & Pressure --&gt; VPM[Thalamus VPM]\n\n\n\n\n\n\n\n\n\n\n\nflowchart TD"
+    "section": "3.2 Trigeminal Root (Cisternal Segment)",
+    "text": "3.2 Trigeminal Root (Cisternal Segment)\n\nThe 4 trigeminal nuclei (3 sensory, 1 motor) extend throughout most of the brain stem2\n“The trigeminal root is composed of the large sensory root and the small motor root”2\n“The sensory root receives somatosensory sensation from the entire face , temple, external acoustic meatus, and the anterior scalp as far posterior as the vertex of the skull”2\n\n\n\n\n\n\n\nNote\n\n\n\n\n\nThe trigeminal nerve supplies somatosensation to the entire face except the angle of the jaw innervated by the cervical plexus2\n\n\n\nThe proprioceptive impulses from the masticatory muscle run through the motor root to enter the mesencephalic nucleus2\n\n\n\n\n\nflowchart BT\n\n  mesencephalic_response[Modulating the bite]\n  mesencephalic_response --&gt; mesencephalic_nucleus[Mesencephalic Nucleus]\n  proprioceptive_fibers[Proprioceptive fibers from extraocular muscles and masticatory muscles]\n  \n  teeth[Teeth] -- proprioception --&gt; proprioceptive_fibers\n  periodontium[Periodontium] -- proprioception --&gt; proprioceptive_fibers\n  hard_palate[Hard Palate] -- proprioception --&gt; proprioceptive_fibers\n  temporomandibular_joint_capsule[Temperomandibular Joint Capsule] -- proprioception --&gt; proprioceptive_fibers\n\ntrigeminal_ganglion[Trigeminal Ganglion]\n\n\n\ntactile_and_pressure_receptors[Receptors] -- Tactile & Pressure --&gt; upper_face[Skin of Upper Face]\ntactile_and_pressure_receptors -- Tactile & Pressure --&gt; middle_face[Skin of Middle face]\ntactile_and_pressure_receptors -- Tactile & Pressure --&gt; lower_face[Skin of Lower Face]\n\nupper_face --&gt; opthalmic[Opthalmic Division V1]\nmiddle_face --&gt; maxillary[Maxillary Division V2]\nlower_face --&gt; mandibular[Mandibular Division V3]\n\nopthalmic --&gt; trigeminal_ganglion\nmaxillary --&gt; trigeminal_ganglion\nmandibular --&gt; trigeminal_ganglion\n\ntrigeminal_ganglion -- Tactile & Pressure --&gt; trigeminal_sensory_nucleus[Trigeminal Sensory Nucleus]\n\ntrigeminal_sensory_nucleus -- Tactile & Pressure --&gt; VPM[Thalamus VPM]\n\n\n\n\n\n\n\n\n\n\n\nflowchart TD"
   },
   {
     "objectID": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN5_Trigeminal.html#sensory-pathway",
     "href": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN5_Trigeminal.html#sensory-pathway",
     "title": "CNV Trigeminal Nerve",
-    "section": "3.1 Sensory Pathway",
-    "text": "3.1 Sensory Pathway\n\n\n\nTrigeminal Sensory System Nuclei and Pathways (from Blumenfeld figure 12.81)\n\n\n\nSomatosensory afferent nerves convey crude touch, pain, and temperature sensation from the face and mouth to the lateral pons1.\nThese nerve fibers then descend the spinal trigeminal tract to synapse in the spinal trigeminal nucleus1.\n. Similarly, the spinal trigeminal tract is analogous to Lissauer’s tract (see Figures 6.4 and 7.2). Secondary sensory neurons from the spinal trigeminal nucleus cross the brainstem to ascend as the trigeminothalamic tract (or ventral trigeminothalamic tract). The trigeminothalamic tract is analogous to the spinothalamic tract (see Table 12.6), and the pathways travel together to the thalamus (see Figures 12.8 and 14.3). Trigeminothalamic tract fibers synapse in the thalamic ventral posterior medial nucleus (VPM), and tertiary sensory neurons then travel in the internal capsule to the primary somatosensory cortex. Like the anterolateral systems in the spinal cord, there are also pathways from the spinal trigeminal nucleus to intralaminar thalamic nuclei, the reticular formation, and other areas, to mediate the affective and arousal aspects of facial pain.\n\nIn summary, it is generally believed that sensory fibers involved in the conduction of pain and temperature spread over the trigeminal sensory nucleus complex (TSNC) and then cross over to the contralateral thalamus and cerebral cortex4"
+    "section": "4.1 Sensory Pathway",
+    "text": "4.1 Sensory Pathway\n\n\n\nTrigeminal Sensory System Nuclei and Pathways (from Blumenfeld figure 12.81)\n\n\n\nSomatosensory afferent nerves convey crude touch, pain, and temperature sensation from the face and mouth to the lateral pons1.\nThese nerve fibers then descend the spinal trigeminal tract to synapse in the spinal trigeminal nucleus1.\n. Similarly, the spinal trigeminal tract is analogous to Lissauer’s tract (see Figures 6.4 and 7.2). Secondary sensory neurons from the spinal trigeminal nucleus cross the brainstem to ascend as the trigeminothalamic tract (or ventral trigeminothalamic tract). The trigeminothalamic tract is analogous to the spinothalamic tract (see Table 12.6), and the pathways travel together to the thalamus (see Figures 12.8 and 14.3). Trigeminothalamic tract fibers synapse in the thalamic ventral posterior medial nucleus (VPM), and tertiary sensory neurons then travel in the internal capsule to the primary somatosensory cortex. Like the anterolateral systems in the spinal cord, there are also pathways from the spinal trigeminal nucleus to intralaminar thalamic nuclei, the reticular formation, and other areas, to mediate the affective and arousal aspects of facial pain.\n\nIn summary, it is generally believed that sensory fibers involved in the conduction of pain and temperature spread over the trigeminal sensory nucleus complex (TSNC) and then cross over to the contralateral thalamus and cerebral cortex4"
   },
   {
     "objectID": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN5_Trigeminal.html#sensory-function",
     "href": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN5_Trigeminal.html#sensory-function",
     "title": "CNV Trigeminal Nerve",
-    "section": "3.2 Sensory Function",
-    "text": "3.2 Sensory Function\n\nV1 Opthalmic supplies the upper face\nV2 Maxillary supplies the middle face\nV3 Mandibular supplies the lower face\n\nThe trigeminal nerve also provides touch and pain sensation for the nasal sinuses, inside of the nose, mouth, and anterior two-thirds of the tongue."
+    "section": "4.2 Sensory Function",
+    "text": "4.2 Sensory Function\n\nV1 Opthalmic supplies the upper face\nV2 Maxillary supplies the middle face\nV3 Mandibular supplies the lower face\n\nThe trigeminal nerve also provides touch and pain sensation for the nasal sinuses, inside of the nose, mouth, and anterior two-thirds of the tongue."
   },
   {
     "objectID": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN5_Trigeminal.html#dysfunction",
     "href": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN5_Trigeminal.html#dysfunction",
     "title": "CNV Trigeminal Nerve",
-    "section": "3.3 Dysfunction",
-    "text": "3.3 Dysfunction\n\nTrigeminal neuralgia"
+    "section": "4.3 Dysfunction",
+    "text": "4.3 Dysfunction\n\nTrigeminal neuralgia"
   },
   {
     "objectID": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN5_Trigeminal.html#motor-pathway",
     "href": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN5_Trigeminal.html#motor-pathway",
     "title": "CNV Trigeminal Nerve",
-    "section": "4.1 Motor Pathway",
-    "text": "4.1 Motor Pathway\n\nThe motor plan is sent from the cerebrum/cerebellum inferiorly to the trigeminal motor nucleus\nFrom there, the motor signal exits the trigeminal motor nucleus and passes anteriorly in the pons5\nThe motor root emerges from the ant-lat aspect of the pons5\n\nThe motor root is anterior and medial relative to sensory root5\n\nNext, the motor root passes through the posterior fossa and then through the dura mater below the attachment of the tentorium5\nThe motor root then enters Meckel Cave5\n\ntravels beneath the trigeminal ganglia5\nExits the skull through foramen ovale5\n\nUpon its exodus from the skull, the motor root joins the sensory fibers in the mandibular (V3) division to form the mandibular nerve\nThe mandibular nerve (V3) connects the motor root to the masticatory muscles (masseter, temporalis, and medial and lateral pterygoid muscles)5\n\nIn addition, motor fibers are given off to the tensor tympani, tensor veli palatini, and mylohyoid muscles, and to the anterior belly of the digastric muscle”5"
+    "section": "5.1 Motor Pathway",
+    "text": "5.1 Motor Pathway\n\nThe motor plan is sent from the cerebrum/cerebellum inferiorly to the trigeminal motor nucleus\nFrom there, the motor signal exits the trigeminal motor nucleus and passes anteriorly in the pons5\nThe motor root emerges from the ant-lat aspect of the pons5\n\nThe motor root is anterior and medial relative to sensory root5\n\nNext, the motor root passes through the posterior fossa and then through the dura mater below the attachment of the tentorium5\nThe motor root then enters Meckel Cave5\n\ntravels beneath the trigeminal ganglia5\nExits the skull through foramen ovale5\n\nUpon its exodus from the skull, the motor root joins the sensory fibers in the mandibular (V3) division to form the mandibular nerve\nThe mandibular nerve (V3) connects the motor root to the masticatory muscles (masseter, temporalis, and medial and lateral pterygoid muscles)5\n\nIn addition, motor fibers are given off to the tensor tympani, tensor veli palatini, and mylohyoid muscles, and to the anterior belly of the digastric muscle”5"
   },
   {
     "objectID": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN5_Trigeminal.html#motor-function",
     "href": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN5_Trigeminal.html#motor-function",
     "title": "CNV Trigeminal Nerve",
-    "section": "4.2 Motor Function",
-    "text": "4.2 Motor Function"
+    "section": "5.2 Motor Function",
+    "text": "5.2 Motor Function"
   },
   {
     "objectID": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/mesencephalic_nucleus.html",
@@ -2468,7 +2468,7 @@
     "href": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/trigeminal_sensory_nuclei.html",
     "title": "Trigeminal Sensory Nuclei",
     "section": "",
-    "text": "AKA Principal sensory nucleus"
+    "text": "AKA\n\n\n\n\n\n\nPrincipal sensory nucleus of CN V\nCentral sensory nucleus of CN V"
   },
   {
     "objectID": "Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/trigeminal_sensory_nuclei.html#pathway",
@@ -2938,5 +2938,54 @@
     "title": "Yomogida & Kerstein Lab",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/Bones/Bones of the Skull/skull_bones.html",
+    "href": "Alchemy Archive/Anatomy/Bones/Bones of the Skull/skull_bones.html",
+    "title": "Bones of the Skull",
+    "section": "",
+    "text": "Ethmoid bone (cribriform plate)\nFrontal bone\nOccipital bone\nParietal bone\nSphenoid bone\nTemporal bone (petrous and squamous parts)"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/Bones/Bones of the Skull/skull_bones.html#neurocranium",
+    "href": "Alchemy Archive/Anatomy/Bones/Bones of the Skull/skull_bones.html#neurocranium",
+    "title": "Bones of the Skull",
+    "section": "",
+    "text": "Ethmoid bone (cribriform plate)\nFrontal bone\nOccipital bone\nParietal bone\nSphenoid bone\nTemporal bone (petrous and squamous parts)"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/Bones/Bones of the Skull/skull_bones.html#visccerocranium",
+    "href": "Alchemy Archive/Anatomy/Bones/Bones of the Skull/skull_bones.html#visccerocranium",
+    "title": "Bones of the Skull",
+    "section": "2 Visccerocranium",
+    "text": "2 Visccerocranium\n\nEthmoid bone\nHyoid bone\nInferior nasal concha\nLacrimal bone\nMandible\nMaxilla\nNasal bone\nPalatine bone\nSphenoid bone (pterygoid process)\nTemporal bone\nVomer\n\n\n\n\n\n\n\nNeurocranium vs Viscerocranium\n\n\n\n\n\nMost of the ethmoid bone is in the viscerocranium; most of the sphenoid bone is in the neurocranium. The temporal bone is divided between the two1"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/Bones/Bones of the Skull/Meckel's_cave.html",
+    "href": "Alchemy Archive/Anatomy/Bones/Bones of the Skull/Meckel's_cave.html",
+    "title": "Meckel’s Cave",
+    "section": "",
+    "text": "The motor root of trigeminal nerve enters a cavity in the dura mater overlying the apex of the petrous bone (Meckel cave)1\n\n\n\n\nReferences\n\n1. Brazis PW, Masdeu JC, Biller J. Localization in Clinical Neurology. 8th ed. Wolters Kluwer Health; 2022."
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/Bones/Bones of the Skull/Sphenoid bone/foramen_ovale_sphenoid_bone.html",
+    "href": "Alchemy Archive/Anatomy/Bones/Bones of the Skull/Sphenoid bone/foramen_ovale_sphenoid_bone.html",
+    "title": "Foramen Ovale of the Sphenoid bone",
+    "section": "",
+    "text": "Trigeminal motor root exits the skull via the foramen ovale"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/anatomy_index.html#neurocranium",
+    "href": "Alchemy Archive/Anatomy/anatomy_index.html#neurocranium",
+    "title": "Bones of the Skull",
+    "section": "3 Neurocranium",
+    "text": "3 Neurocranium\n\nEthmoid bone (cribriform plate)\nFrontal bone\nOccipital bone\nParietal bone\nSphenoid bone\nTemporal bone (petrous and squamous parts)"
+  },
+  {
+    "objectID": "Alchemy Archive/Anatomy/anatomy_index.html#visccerocranium",
+    "href": "Alchemy Archive/Anatomy/anatomy_index.html#visccerocranium",
+    "title": "Bones of the Skull",
+    "section": "4 Visccerocranium",
+    "text": "4 Visccerocranium\n\nEthmoid bone\nHyoid bone\nInferior nasal concha\nLacrimal bone\nMandible\nMaxilla\nNasal bone\nPalatine bone\nSphenoid bone (pterygoid process)\nTemporal bone\nVomer\n\n\n\n\n\n\n\nNeurocranium vs Viscerocranium\n\n\n\n\n\nMost of the ethmoid bone is in the viscerocranium; most of the sphenoid bone is in the neurocranium. The temporal bone is divided between the two1\n\n\n\n\nSphenoid Bone\n\nForamen ovale (of the sphenoid bone)\n\nMeckel’s Cave"
   }
 ]

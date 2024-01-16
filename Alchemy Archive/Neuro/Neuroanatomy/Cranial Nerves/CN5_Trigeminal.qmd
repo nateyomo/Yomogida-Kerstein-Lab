@@ -41,13 +41,27 @@ Why should I care about this nerve?
 - The trigeminal nerve is the anatomical substrate of several pathologies or conditions, including: Headaches (primary or secondary), trigeminal neuralgia, and alternate types of orofacial pains @terrierTrigeminalPathways2022.
 - Understanding the complex anatomical arrangement of CN V's pathway is crucial to understand these conditions’ pathophysiology and treatment @terrierTrigeminalPathways2022.
 
+# Trigeminal Nuclei
+There are 4 trigeminal nuclei (3 sensory and 1 motor):
+
+- [Mesencephalic nucleus]({{< var ref-mesencephalic-nucleus.path >}}) (Conveys afferent proprioceptive fibers from extraocular and masticatory muscles and allows for bite modulation @jooMicrosurgicalAnatomyTrigeminal2014)
+- [Trigeminal sensory nucleus]({{< var ref-trigeminal-sensory-nucleus.path >}}) 
+  - Conveys touch and proprioception of the jaw area -ninjanerd
+  - Conveys tactile and pressure sense @jooMicrosurgicalAnatomyTrigeminal2014
+- [Trigeminal motor nucleus]({{< var ref-trigeminal-motor-nucleus.path >}}) (Modulates degree of bite)
+- [Spinal trigeminal nucleus]({{< var ref-spinal-trigeminal-nucleus.path >}}) Conveys touch, pain, pressure, and proprioception from the entire face
+  - [Spinal Trigeminal tract]({{< var ref-spinal-trigeminal-tract.path >}})
+
 # Anatomy
 ## Brainstem
+
+<!--
 Within the brainstem there are 4 central nuclei of CN V:
-- [Mesencephalic nucleus]({{< var ref-mesencephalic-nucleus.path >}}) (Conveys afferent proprioceptive fibers from extraocular and masticatory muscles and allows for bite modulation @jooMicrosurgicalAnatomyTrigeminal2014)
+- [Mesencephalic nucleus]({{< var ref-mesencephalic-nucleus.path >}}) (Proprioception of the face(NN) vs Conveys afferent proprioceptive fibers from extraocular and masticatory muscles and allows for bite modulation @jooMicrosurgicalAnatomyTrigeminal2014)
 - [Trigeminal sensory nucleus]({{< var ref-trigeminal-sensory-nucleus.path >}}) Conveys tactile and pressure sense @jooMicrosurgicalAnatomyTrigeminal2014
 - [Trigeminal motor nucleus]({{< var ref-trigeminal-motor-nucleus.path >}}) (Modulates degree of bite)
 - [Spinal trigeminal nucleus]({{< var ref-spinal-trigeminal-nucleus.path >}}) & [Spinal Trigeminal tract]({{< var ref-spinal-trigeminal-tract.path >}})
+-->
 
 ## Trigeminal Root (Cisternal Segment)
 
@@ -175,6 +189,10 @@ Skin of face --> Receptor --> Proprioception --> DIVISION --> Mesencephalic trig
 
 Skin of face --> Receptor --> Crude touch / Pain / Temperature --> DIVISION --> trigeminothalamic tract --> VPM of Thalamus
 
+
+
+
+
 # Trigeminal Ganglion
 (AKA "semilunar ganglion" or "gasserian ganglion")
 
@@ -194,3 +212,10 @@ Skin of face --> Receptor --> Crude touch / Pain / Temperature --> DIVISION --> 
 | Dorsal horn | Crude touch; Pain; Temperature | Spinothalamic Tract | VPL |
 
 : Analagous Trigeminal and Spinal Somatosensory Systems {.striped .hover}
+
+
+
+# External Resources
+
+- [Ninja Nerd's Trigeminal Nerve video]({{< https://youtu.be/WQjcaCblig8 >}})
+- Brazis's localization in neurology contains a solid overview and really good DDX @brazisLocalizationClinicalNeurology2022

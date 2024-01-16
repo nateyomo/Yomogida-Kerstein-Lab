@@ -8,7 +8,10 @@ Conveys afferent proprioceptive fibers from extraocular and masticatory muscles 
 
 "Afferent fibers of the mesencephalic nucleus convey pressure and kinesthesis sense from the teeth, periodontium, hard palate, and temporomandibular joint capsule" @jooMicrosurgicalAnatomyTrigeminal2014
 
-
+::: {.callout-note collapse="true"}
+# Name origin
+Mesencephalic Nucleus gets its name "mesencephalic" since it comes from the midbrain, which develops out of the mesencephalon
+:::
 
 # Anatomy
 
