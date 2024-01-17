@@ -1,0 +1,22 @@
+---
+title: Icing as a modality and intervention
+---
+
+
+
+
+# Contusion tx
+
+
+
+::: {.callout-note collapse="true"}
+# Singh et al. (2017) Effects of Topical Icing on Inflammation, Angiogenesis, Revascularization, and Myofiber Regeneration in Skeletal Muscle Following Contusion Injury @singhEffectsTopicalIcing2017b
+
+- Independent variable: Icing vs sham treatment
+- Dependent variable: presence of [neutrophils]({{< var ref-neutrophil.path >}}) and [macrophages]({{< var ref-macrophage.path >}}); expression of CD34, von Willebrands factor (vWF), vascular endothelial growth factor (VEGF), and nestin; vessel volume; capillary density; and myofiber regeneration in skeletal after muscle contusion injury in rats
+    - Muscle tissue was collected 1, 3, 7, and 28 d after injury
+- Population
+    - Rats
+    - n = 
+- Statistical analysis: 
+:::

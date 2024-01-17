@@ -1,0 +1,14 @@
+---
+title: Macrophages
+---
+
+Resources
+
+- Ch9 @cavaillon2018inflammation
+
+
+
+# Interventions
+
+## Response to icing
+[See icing cryotherapy article]({{< var ref-icing-cryotherapy.path >}})

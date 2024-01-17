@@ -2,6 +2,6 @@
 title: Index of Tests & Measures
 ---
 
-## Cervical Spine Tests 
+### Cervical Spine Tests 
 
 [Vertebrobasilar insufficiency Test (VBI)]({{< var ref-VBI-vertebrobasilar-insufficiency-test.path >}})

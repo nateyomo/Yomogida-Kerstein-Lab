@@ -366,6 +366,13 @@ ref-nuchal-ligament:
 ref-sod1: 
   path: "/Alchemy Archive/Genetics and genomics/SOD1_superoxide_dismutase_1.qmd"
 
+# Interventions
+ref-interventions-index:
+  path: "/Alchemy Archive/Interventions/interventions_index.qmd"
+## Cryotherapy
+ref-icing-cryotherapy:
+  path: "/Alchemy Archive/Interventions/Cryotherapy/icing_cryotherapy.qmd"
+
 # Physiology
 ## Enzymes
 ref-superoxide-dismutases-group: 
@@ -373,6 +380,15 @@ ref-superoxide-dismutases-group:
 
 ref-CuZnSOD-copper-zinc-superoxide-dismutase:
   path: "/Alchemy Archive/Physiology/Enzymes/CuZnSOD_copper-zinc_superoxide_dismutase.qmd"
+
+## Inflammation
+ref-inflammation-index:
+  path: "/Alchemy Archive/Physiology/Inflammation/inflammation_index.qmd"
+### Inflammatory cells
+ref-neutrophil:
+  path: "/Alchemy Archive/Physiology/Inflammation/Inflammatory Cells/neutrophils.qmd"
+ref-macrophage:
+  path: "/Alchemy Archive/Physiology/Inflammation/Inflammatory Cells/macrophages.qmd"
 
 ## Minerals
 ref-copper: 
@@ -630,6 +646,14 @@ ref-chronic-low-back-pain:
 ref-acute-low-back-pain: 
   path: "/Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/acute_low_back_pain.qmd"
 
+# Psychosocial
+ref-psychosocial-index:
+  path: "/Alchemy Archive/Psychosocial/psychosocial_index.qmd"
+
+ref-biomedical-model:
+  path: "/Alchemy Archive/Psychosocial/biomedical_model.qmd"
+ref-biopsychosocial-model:
+  path: "/Alchemy Archive/Psychosocial/biopsychosocial_model.qmd"
 
 # Symptoms
 

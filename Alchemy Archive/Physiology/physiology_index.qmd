@@ -8,6 +8,9 @@ title: "Physiology Index"
 
 ## Hormones
 
+## Inflammation
+{{< include "/Alchemy Archive/Physiology/Inflammation/inflammation_index.qmd" >}}
+
 ## Minerals
 [Copper [Cu]]({{< var ref-copper.path >}})
 

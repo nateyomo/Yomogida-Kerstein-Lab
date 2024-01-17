@@ -9,6 +9,8 @@ title: "The Archive"
 # Physiology
 {{< include Physiology/physiology_index.qmd >}}
 
+# Psychosocial
+{{< include "Psychosocial/psychosocial_index.qmd" >}}
 
 # MSK Pathologies & Rehabilitation
 
@@ -29,5 +31,5 @@ title: "The Archive"
 # Genetics & Genomics
 {{< include "Genetics and genomics/genetics_and_genomics_index.qmd" >}}
 
-# Tests & Measures
-{{< include "Tests and Measures/tests_and_measures_index.qmd" >}}
+# Examination
+{{< include "Examination/examination_index.qmd" >}}
