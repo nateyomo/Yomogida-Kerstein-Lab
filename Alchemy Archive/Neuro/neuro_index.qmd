@@ -83,7 +83,7 @@ Sensory Nuclei:
     - [Fasciculus Cuneatus]({{< var ref-fasciculus-cuneatus.path >}})
     - [Fasciculus Gracilis]({{< var ref-fasciculus-gracilis.path >}})
 - [Cuneocerebellar Tract]({{< var ref-cuneocerebellar-tract.path >}})
-- [Dorsal Spinocerebellar Tract]({{< var ref-ref-dorsal-spinocerebellar-tract >}})
+- [Dorsal Spinocerebellar Tract]({{< var ref-ref-dorsal-spinocerebellar-tract.path >}})
 - [Ventral Spinocerebellar Tract]({{< var ref-ventral-spinocerebellar-tract.path >}})
 - [Spinothalamic Tract]({{< var ref-spinothalamic-tract.path >}})
 - [Trigeminothalamic Tract]({{< var ref-trigeminothalamic-tract.path >}})

@@ -464,7 +464,7 @@ ref-graded-motor-imagery:
 # Pathologies & Rehab
 ## Spine-cervical
 ref-VBI-vertebrobasilar-insufficiency:
-  path: "/Alchemy Archive/Pathologies-and-Rehab/Spine-Cervical/vertebrobasilar_insufficiency.qmd"
+  path: "/Alchemy Archive/Examination/Tests and Measures/Cervical Tests and Measures/VBI_vertebrobasilar_insufficiency_test.qmd"
 
 # Pathologies
 ## Endocrine pathologies
