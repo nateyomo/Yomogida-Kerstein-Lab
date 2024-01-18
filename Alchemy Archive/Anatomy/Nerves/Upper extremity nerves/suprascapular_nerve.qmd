@@ -1,0 +1,13 @@
+---
+title: Suprascapular nerve
+---
+
+
+# Motor Innervation
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Supraspinatus]({{< var ref-supraspinatus.path >}}) | {{< var ref-supraspinatus.origin >}} | {{< var ref-supraspinatus.insertion >}} | {{< var ref-supraspinatus.nerve >}} | {{< var ref-supraspinatus.action >}} |
+| [Infraspinatus]({{< var ref-infraspinatus.path >}}) | {{< var ref-infraspinatus.origin >}} | {{< var ref-infraspinatus.insertion >}} | {{< var ref-infraspinatus.nerve >}} | {{< var ref-infraspinatus.action >}} |
+
+: Suprascapular nerve motor innervation {.striped .hover}

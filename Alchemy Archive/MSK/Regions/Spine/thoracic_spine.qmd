@@ -59,13 +59,13 @@ SB limited throughout d/t rib stacking @duttonDuttonOrthopaedicExamination2020
 - Fracture: 
     - Old (>50) = Minor trauma (hx of osteoporosis or steroid use)
     - Young = Major trauma in younger pop
-- Infection: Fever, night sweats, risk factors of inf (wound, etc
+- Infection: Fever, night sweats, risk factors of inf (wound, etc)
 - Tumor: Hx of malignant dx, age > 50 , no improvement w txt, unexplained weight loss, pain at multiple sites, rest, night pain
 
 
 # T/S Pathologies
 
-- TOS (see t/s pathologies)
+- [TOS]({{< var ref-thoracic-outlet-syndrome.path >}})
 - Spinal nerve root syndrome— radiculopathy 
 - Osteoporosis: (10% of ppl 50 +)
 - Chest wall variations

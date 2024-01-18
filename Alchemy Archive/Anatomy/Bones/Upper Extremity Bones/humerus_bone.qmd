@@ -1,0 +1,67 @@
+---
+title: Humerus (bone)
+---
+
+
+
+# Sites
+
+## Deltoid tuberosity
+
+:::{.callout collapse="true"}
+### Deltoid tuberosity Muscular attachments
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Anterior Deltoid]({{< var ref-deltoid-muscle-anterior.path >}}) | {{< var ref-deltoid-muscle-anterior.origin >}} | {{< var ref-deltoid-muscle-anterior.insertion >}} | {{< var ref-deltoid-muscle-anterior.nerve >}} | {{< var ref-deltoid-muscle-anterior.action >}} |
+| [Lateral Deltoid]({{< var ref-deltoid-muscle-lateral.path >}}) | {{< var ref-deltoid-muscle-lateral.origin >}} | {{< var ref-deltoid-muscle-lateral.insertion >}} | {{< var ref-deltoid-muscle-lateral.nerve >}} | {{< var ref-deltoid-muscle-lateral.action >}} |
+| [Posterior Deltoid]({{< var ref-deltoid-muscle-posterior.path >}}) | {{< var ref-deltoid-muscle-posterior.origin >}} | {{< var ref-deltoid-muscle-posterior.insertion >}} | {{< var ref-deltoid-muscle-posterior.nerve >}} | {{< var ref-deltoid-muscle-posterior.action >}} |
+
+: Deltoid Muscles OIAN {.striped .hover}
+:::
+
+## Greater Tubercle
+
+:::{.callout collapse="true"}
+### Greater tubercle Muscular attachments
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Supraspinatus]({{< var ref-supraspinatus.path >}}) | {{< var ref-supraspinatus.origin >}} | {{< var ref-supraspinatus.insertion >}} | {{< var ref-supraspinatus.nerve >}} | {{< var ref-supraspinatus.action >}} |
+| [Infraspinatus]({{< var ref-infraspinatus.path >}}) | {{< var ref-infraspinatus.origin >}} | {{< var ref-infraspinatus.insertion >}} | {{< var ref-infraspinatus.nerve >}} | {{< var ref-infraspinatus.action >}} |
+| [Teres Minor]({{< var ref-teres-minor.path >}}) | {{< var ref-teres-minor.origin >}} | {{< var ref-teres-minor.insertion >}} | {{< var ref-teres-minor.nerve >}} | {{< var ref-teres-minor.action >}} |
+
+:  {.striped .hover}
+:::
+
+## Lesser Tubercle
+
+:::{.callout collapse="true"}
+### Lesser Tubercle Muscular attachments
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Subscapularis]({{< var ref-subscapularis.path >}}) | {{< var ref-subscapularis.origin >}} | {{< var ref-subscapularis.insertion >}} | {{< var ref-subscapularis.nerve >}} | {{< var ref-subscapularis.action >}} |
+
+: Lesser tubercle of humerus attachment OIAN {.striped .hover}
+:::
+
+## Lateral Epicondyle of Humerus
+
+<!--
+:::{.callout collapse="true"}
+### Lesser Tubercle Muscular attachments
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| | | | | |
+:::
+-->
+
+Dysfunction:
+
+- [Lateral epicondylitis (Tennis elbow)]({{< var ref-lateral-epicondylitis.path >}})
+
+
+# Dysfunction
+
+- [Lateral epicondylitis (Tennis elbow)]({{< var ref-lateral-epicondylitis.path >}})

@@ -1,0 +1,27 @@
+---
+title: Subscapularis Muscle
+---
+
+# OIAN
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Subscapularis]({{< var ref-subscapularis.path >}}) | {{< var ref-subscapularis.origin >}} | {{< var ref-subscapularis.insertion >}} | {{< var ref-subscapularis.nerve >}} | {{< var ref-subscapularis.action >}} |
+: Subscapularis OIAN {.striped .hover}
+
+## Origin
+Subscapular fossa of [scapula]({{< var ref-scapula-bone.path >}}) @gilroyAtlasAnatomy2020
+
+## Insertion
+Lesser tubercle of [Humerus]({{< var ref-humerus-bone.path >}}) @gilroyAtlasAnatomy2020
+
+## Innervation
+[Upper and Lower subscapular nerves (C5, C6)]({{< var ref-upper-subscapular-nerve.path >}})
+
+## Action
+Internal Rotation @gilroyAtlasAnatomy2020
+
+# Test
+
+- Lift-off test
+- Bear hug test

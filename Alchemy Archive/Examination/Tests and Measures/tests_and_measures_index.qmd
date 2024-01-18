@@ -2,6 +2,17 @@
 title: Index of Tests & Measures
 ---
 
-### Cervical Spine Tests 
+### Head and neck Tests
 
 [Vertebrobasilar insufficiency Test (VBI)]({{< var ref-VBI-vertebrobasilar-insufficiency-test.path >}})
+
+### Upper Extremity Tests
+
+- [ERLS (Possibly)]({{< var ref-ERLS-external-rotation-lag-sign.path >}})
+- Champagne Toast
+- [Infraspinatus muscle test]({{< var ref-infraspinatus-muscle-test.path >}})
+
+### Lower Extremity Tests
+
+- [Fulcrum Test (Femoral stress Fx)]({{< var ref-fulcrum-test-stress-fracture.path >}})
+

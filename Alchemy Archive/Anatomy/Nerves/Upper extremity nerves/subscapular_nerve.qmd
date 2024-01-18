@@ -1,0 +1,11 @@
+---
+title: Upper and Lower Subscapular nerve
+---
+
+
+# Motor innervations
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Subscapularis]({{< var ref-subscapularis.path >}}) | {{< var ref-subscapularis.origin >}} | {{< var ref-subscapularis.insertion >}} | {{< var ref-subscapularis.nerve >}} | {{< var ref-subscapularis.action >}} |
+: Subscapularis OIAN {.striped .hover}

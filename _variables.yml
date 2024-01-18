@@ -5,6 +5,21 @@ ref-basilar-artery:
   path: "/Alchemy Archive/Anatomy/Arteries/basilar_artery.qmd"
 
 ## Bones
+
+### Upper extremity bones
+ref-clavicle-bone:
+  path: "/Alchemy Archive/Anatomy/Bones/Upper Extremity Bones/clavicle_bone.qmd"
+ref-scapula-bone:
+  path: "/Alchemy Archive/Anatomy/Bones/Upper Extremity Bones/scapula_bone.qmd"
+ref-humerus-bone:
+  path: "/Alchemy Archive/Anatomy/Bones/Upper Extremity Bones/humerus_bone.qmd"
+ref-ulna-bone:
+  path: "/Alchemy Archive/Anatomy/Bones/Upper Extremity Bones/ulna_bone.qmd"
+ref-radius-bone:
+  path: "/Alchemy Archive/Anatomy/Bones/Upper Extremity Bones/radius_bone.qmd"
+ref-capitate-bone:
+  path: "/Alchemy Archive/Anatomy/Bones/Upper Extremity Bones/capitate_bone.qmd"
+
 ### Bones of the skull
 
 ref-sphenoid-bone:
@@ -349,6 +364,61 @@ ref-medial-pterygoid:
   nerve: "[Mandibular (V~3~) divison of CN V via medial pterygoid n.]({{< var ref-cn5.path >}})"
   action: "**BIL:** Elevates mandible with masseter and contributes to protrusion; **UNIL:** Small grinding movements"
 
+### Shoulder and arm muscles
+
+ref-deltoid-muscle:
+  path: "/Alchemy Archive/Anatomy/OIANs/Shoulder and Arm Muscles/deltoid_muscle.qmd"
+ref-deltoid-muscle-anterior:
+  path: "/Alchemy Archive/Anatomy/OIANs/Shoulder and Arm Muscles/deltoid_muscle.qmd"
+  origin: "Lateral 1/3 of clavicle"
+  insertion: "Humerus (deltoid tuberosity)"
+  nerve: "[Axillary n. {{< var ref-axillary-nerve.roots >}}]({{< var ref-axillary-nerve.path >}})"
+  action: "Flexion, internal rotation, adduction"
+ref-deltoid-muscle-lateral:
+  path: "/Alchemy Archive/Anatomy/OIANs/Shoulder and Arm Muscles/deltoid_muscle.qmd"
+  origin: "Acromion"
+  insertion: "Humerus (deltoid tuberosity)"
+  nerve: "[Axillary n. {{< var ref-axillary-nerve.roots >}}]({{< var ref-axillary-nerve.path >}})"
+  action: "Abduction"
+ref-deltoid-muscle-posterior:
+  path: "/Alchemy Archive/Anatomy/OIANs/Shoulder and Arm Muscles/deltoid_muscle.qmd"
+  origin: "Scapular spine"
+  insertion: "Humerus (deltoid tuberosity)"
+  nerve: "[Axillary n. {{< var ref-axillary-nerve.roots >}}]({{< var ref-axillary-nerve.path >}})"
+  action: "Extension, external rotation, adduction"
+
+#### Rotator cuff
+ref-supraspinatus:
+  path: "/Alchemy Archive/Anatomy/OIANs/Shoulder and Arm Muscles/supraspinatus_muscle.qmd"
+  origin: "Supraspinous Fossa of [scapula]({{< var ref-scapula-bone.path >}})"
+  insertion: "Greater tubercle of [Humerus]({{< var ref-humerus-bone.path >}})"
+  nerve: "[Suprascapular nerve (C4-C6)]({{< var ref-suprascapular-nerve.path >}})"
+  action: "Initiates abduction"
+ref-infraspinatus:
+  path: "/Alchemy Archive/Anatomy/OIANs/Shoulder and Arm Muscles/infraspinatus_muscle.qmd"
+  origin: "Infraspinous Fossa of [scapula]({{< var ref-scapula-bone.path >}})"
+  insertion: "Greater tubercle of [Humerus]({{< var ref-humerus-bone.path >}})"
+  nerve: "[Suprascapular nerve {{< var ref-suprascapular-nerve.roots >}}]({{< var ref-suprascapular-nerve.path >}})"
+  action: "External rotation"
+ref-subscapularis:
+  path: "/Alchemy Archive/Anatomy/OIANs/Shoulder and Arm Muscles/subscapularis_muscle.qmd"
+  origin: "Subscapular fossa of [scapula]({{< var ref-scapula-bone.path >}})"
+  insertion: "Lesser tubercle of [Humerus]({{< var ref-humerus-bone.path >}})"
+  nerve: "[Upper and Lower subscapular nerves (C5, C6)]({{< var ref-upper-subscapular-nerve.path >}})"
+  action: "Internal Rotation"
+ref-teres-minor:
+  path: "/Alchemy Archive/Anatomy/OIANs/Shoulder and Arm Muscles/teres_minor_muscle.qmd"
+  origin: "Lateral border of [scapula]({{< var ref-scapula-bone.path >}})"
+  insertion: "Greater tubercle of [Humerus]({{< var ref-humerus-bone.path >}})"
+  nerve: "[Axillary n. (C5, C6)]({{< var ref-axillary-nerve.path >}})"
+  action: "External rotation, weak adduction, stabilizes GHJ"
+ref-teres-major:
+  path: "/"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+
 ## Nerve
 ref-suboccipital-nerve: 
   path: /Alchemy Archive/Anatomy/Nerves/suboccipital_nerve.qmd
@@ -356,11 +426,45 @@ ref-suboccipital-nerve:
 ref-spinal-nerves: 
   path: /Alchemy Archive/Anatomy/Nerves/spinal_nerves.qmd
 
+### Upper extremity nerve
+ref-axillary-nerve:
+  path: "/Alchemy Archive/Anatomy/Nerves/Upper extremity nerves/axillary_nerve.qmd"
+  roots: (C5, C6)
+ref-suprascapular-nerve:
+  path: "/Alchemy Archive/Anatomy/Nerves/Upper extremity nerves/suprascapular_nerve.qmd"
+  roots: "(C4-C6)"
+ref-upper-subscapular-nerve:
+  path: "/Alchemy Archive/Anatomy/Nerves/Upper extremity nerves/subscapular_nerve.qmd"
+  roots: ""
+
 ## Ligaments
 
 ref-nuchal-ligament:
   path: "/Alchemy Archive/Anatomy/Ligaments/nuchal_ligament.qmd"
 
+
+# Evidence Based Practice (EBP)
+
+# Examination
+## Movement Analysis
+
+## Tests and measures
+
+### Cervical T&M
+ref-VBI-vertebrobasilar-insufficiency-test:
+  path: "/Alchemy Archive/Tests and Measures/Cervical Tests and Measures/VBI_vertebrobasilar_insufficiency_test.qmd"
+  sensitivity: ""
+  specificity: ""
+
+### Upper Extremity tests
+ref-infraspinatus-muscle-test:
+  path: "/Alchemy Archive/Examination/Tests and Measures/Upper Extremity Tests/infraspinatus_muscle_test.qmd"
+ref-ERLS-external-rotation-lag-sign:
+  path: "/Alchemy Archive/Examination/Tests and Measures/Upper Extremity Tests/ERLS_external_rotation_lag_sign_test.qmd"
+
+### Lower extremity tests
+ref-fulcrum-test-stress-fracture:
+  path: "/Alchemy Archive/Examination/Tests and Measures/Lower extremity tests/fulcrum_test_stress_fracture.qmd"
 
 # genetics & Genomics
 ref-sod1: 
@@ -461,12 +565,12 @@ ref-hyperalgesia:
 ref-graded-motor-imagery: 
   path: "/Alchemy Archive/Pain_science/interventions/graded_motor_imagery.qmd"
 
-# Pathologies & Rehab
-## Spine-cervical
-ref-VBI-vertebrobasilar-insufficiency:
-  path: "/Alchemy Archive/Examination/Tests and Measures/Cervical Tests and Measures/VBI_vertebrobasilar_insufficiency_test.qmd"
 
 # Pathologies
+## Bone pathologies
+ref-periostitis:
+  path: "/Alchemy Archive/Pathologies/Bone pathologies/periostitis.qmd"
+
 ## Endocrine pathologies
 ### Pituitary system pathologies
 #### Pituitary Hypofunction
@@ -475,6 +579,66 @@ ref-gonadotropin-deficiency:
   path: "/Alchemy Archive/Pathologies/Endocrine Pathologies/Disorders of the Pituitary Hormone System/Pituitary Hypofunction/Gonadotropin Deficiency/gonadotropin_deficiency.qmd"
 ref-kallmann-syndrome:
   path: "/Alchemy Archive/Pathologies/Endocrine Pathologies/Disorders of the Pituitary Hormone System/Pituitary Hypofunction/Gonadotropin Deficiency/kallmann_syndrome.qmd"
+
+## MSK Pathologies
+### Head and Neck
+ref-VBI-vertebrobasilar-insufficiency:
+  path: "/Alchemy Archive/Pathologies/MSK Pathologies/Head and neck/vertebrobasilar_insufficiency.qmd"
+### Trunk
+ref-chronic-low-back-pain: 
+  path: "/Alchemy Archive/Pathologies/MSK Pathologies/Trunk/chronic_low_back_pain.qmd"
+ref-acute-low-back-pain: 
+  path: "/Alchemy Archive/Pathologies/MSK Pathologies/Trunk/acute_low_back_pain.qmd"
+ref-rib-fracture:
+  path: "/Alchemy Archive/Pathologies/MSK Pathologies/Trunk/rib_fracture.qmd"
+ref-rib-stress-fracture:
+  path: "/Alchemy Archive/Pathologies/MSK Pathologies/Trunk/rib_fracture.qmd"
+### Upper Extremity
+ref-lateral-epicondylitis:
+  path: "/Alchemy Archive/Pathologies/MSK Pathologies/Upper extremity/lateral_epicondylitis.qmd"
+ref-thoracic-outlet-syndrome:
+  path: "/Alchemy Archive/Pathologies/MSK Pathologies/Upper extremity/thoracic_outlet_syndrome.qmd"
+### Lower Extremity
+pelvic-stress-fracture:
+  path: "/Alchemy Archive/Pathophysiology/stress_reactions_and_fractures.qmd"
+femoral-shaft-stress-fracture:
+  path: "/Alchemy Archive/Pathophysiology/stress_reactions_and_fractures.qmd"
+adductor-muscle-strain:
+  path: "/Alchemy Archive/Pathologies/MSK Pathologies/Lower extremity/adductor_muscle_strain.qmd"
+
+# Pathophysiology
+ref-stress-reactions-and-fractures:
+  path: "/Alchemy Archive/Pathophysiology/stress_reactions_and_fractures.qmd"
+
+# Performance training
+## Golf
+ref-golf-overview:
+  path: "/Alchemy Archive/Performance Training/Golf/golf_overview.qmd"
+ref-golf-injuries:
+  path: "/Alchemy Archive/Performance Training/Golf/golf_injuries.qmd"
+## Surfing
+ref-surfing-aerials:
+  path: "/Alchemy Archive/Performance Training/Surfing/surfing_aerials.qmd"
+ref-surfing-carve:
+  path: "/Alchemy Archive/Performance Training/Surfing/surfing_carve.qmd"
+ref-surfing-cutback:
+  path: "/Alchemy Archive/Performance Training/Surfing/surfing_cutback.qmd"
+ref-surfing-definitions:
+  path: "/Alchemy Archive/Performance Training/Surfing/surfing_definitions.qmd"
+ref-surfing-index:
+  path: "/Alchemy Archive/Performance Training/Surfing/surfing_index.qmd"
+ref-surfing-injuries:
+  path: "/Alchemy Archive/Performance Training/Surfing/surfing_injuries.qmd"
+ref-surfing-overview:
+  path: "/Alchemy Archive/Performance Training/Surfing/surfing_overview.qmd"
+ref-surfing-paddling:
+  path: "/Alchemy Archive/Performance Training/Surfing/surfing_paddling.qmd"
+ref-surfing-resources:
+  path: "/Alchemy Archive/Performance Training/Surfing/surfing_resources.qmd"
+ref-surfing-takeoff:
+  path: "/Alchemy Archive/Performance Training/Surfing/surfing_takeoff_popup.qmd"
+
+  
 
 # Neuroscience
 
@@ -639,12 +803,7 @@ ref-anosmia:
 ref-amyotrophic-lateral-sclerosis: 
   path: "/Alchemy Archive/Neuro/Neuropathology/Amyotrophic Lateral Sclerosis/amyotrophic_lateral_sclerosis.qmd"
 
-# Pathologies & Rehab
-ref-chronic-low-back-pain: 
-  path: "/Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/chronic_low_back_pain.qmd"
 
-ref-acute-low-back-pain: 
-  path: "/Alchemy Archive/Pathologies-and-Rehab/Spine-Lumbar/acute_low_back_pain.qmd"
 
 # Psychosocial
 ref-psychosocial-index:
@@ -657,11 +816,3 @@ ref-biopsychosocial-model:
 
 # Symptoms
 
-# Tests & Measures
-
-## Cervical T&M
-
-ref-VBI-vertebrobasilar-insufficiency-test:
-  path: "/Alchemy Archive/Tests and Measures/Cervical Tests and Measures/VBI_vertebrobasilar_insufficiency_test.qmd"
-  sensitivity: ""
-  specificity: ""

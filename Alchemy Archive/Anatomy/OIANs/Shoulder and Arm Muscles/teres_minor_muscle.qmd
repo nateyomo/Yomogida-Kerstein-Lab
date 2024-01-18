@@ -1,0 +1,31 @@
+---
+title: Teres Minor Muscle
+---
+
+# OIAN
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Teres Minor]({{< var ref-teres-minor.path >}}) | {{< var ref-teres-minor.origin >}} | {{< var ref-teres-minor.insertion >}} | {{< var ref-teres-minor.nerve >}} | {{< var ref-teres-minor.action >}} |
+
+: Teres Minor OIAN {.striped .hover}
+
+## Origin
+Lateral border of [scapula]({{< var ref-scapula-bone.path >}}) @gilroyAtlasAnatomy2020
+
+## Insertion
+Greater tubercle of [Humerus]({{< var ref-humerus-bone.path >}}) @gilroyAtlasAnatomy2020
+
+## Innervation
+[Axillary n. (C5, C6)]({{< var ref-axillary-nerve.path >}}) @gilroyAtlasAnatomy2020
+
+## Action
+External rotation, weak adduction, stabilizes GHJ @gilroyAtlasAnatomy2020
+
+# Palpation
+
+# Test
+
+- [ERLS (Possibly)]({{< var ref-ERLS-external-rotation-lag-sign.path >}})
+
+# Dysfunction

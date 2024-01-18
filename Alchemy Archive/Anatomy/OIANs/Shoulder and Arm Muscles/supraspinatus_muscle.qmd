@@ -1,0 +1,33 @@
+---
+title: Supraspinatus muscle
+---
+
+
+# OIAN
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Supraspinatus]({{< var ref-supraspinatus.path >}}) | {{< var ref-supraspinatus.origin >}} | {{< var ref-supraspinatus.insertion >}} | {{< var ref-supraspinatus.nerve >}} | {{< var ref-supraspinatus.action >}} |
+
+: Supraspinatus OIAN {.striped .hover}
+
+## Origin
+Supraspinous Fossa of [scapula]({{< var ref-scapula-bone.path >}}) (from DPT 725)
+
+## Insertion
+Greater tubercle of [Humerus]({{< var ref-humerus-bone.path >}}) from DPT 725
+
+## Innervation
+[Suprascapular nerve {{< var ref-suprascapular-nerve.roots >}}]({{< var ref-suprascapular-nerve.path >}}) @gilroyAtlasAnatomy2020
+
+## Action
+Initiates abduction @gilroyAtlasAnatomy2020
+
+# Palpation
+
+# Tests
+
+- Champagne toast
+- [ERLS (Possibly)]({{< var ref-ERLS-external-rotation-lag-sign.path >}})
+
+# Dysfunction

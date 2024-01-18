@@ -1,0 +1,46 @@
+---
+title: Scapula (bone)
+---
+
+
+
+# Sites
+
+## Supraspinous fossa
+
+:::{.callout collapse="true"}
+### Supraspinous muscle attachments
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Supraspinatus]({{< var ref-supraspinatus.path >}}) | {{< var ref-supraspinatus.origin >}} | {{< var ref-supraspinatus.insertion >}} | {{< var ref-supraspinatus.nerve >}} | {{< var ref-supraspinatus.action >}} |
+
+: Muscles attachments to Supraspinous fossa of scapula {.striped .hover}
+:::
+
+## Infraspinous fossa
+
+:::{.callout collapse="true"}
+### Infraspinous Fossa Muscular attachments
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Infraspinatus]({{< var ref-infraspinatus.path >}}) | {{< var ref-infraspinatus.origin >}} | {{< var ref-infraspinatus.insertion >}} | {{< var ref-infraspinatus.nerve >}} | {{< var ref-infraspinatus.action >}} |
+:::
+
+## Lateral border of Scapula
+
+:::{.callout collapse="true"}
+### Laterael border of scapula muscular attachments
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Infraspinatus]({{< var ref-infraspinatus.path >}}) | {{< var ref-infraspinatus.origin >}} | {{< var ref-infraspinatus.insertion >}} | {{< var ref-infraspinatus.nerve >}} | {{< var ref-infraspinatus.action >}} |
+:::
+
+## Subscapular fossa of scapula
+
+:::{.callout collapse="true"}
+### Subscapular fossa attachments
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Subscapularis]({{< var ref-subscapularis.path >}}) | {{< var ref-subscapularis.origin >}} | {{< var ref-subscapularis.insertion >}} | {{< var ref-subscapularis.nerve >}} | {{< var ref-subscapularis.action >}} |
+:{.striped .hover}
+:::

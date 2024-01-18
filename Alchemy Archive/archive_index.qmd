@@ -14,10 +14,7 @@ title: "The Archive"
 
 # MSK Pathologies & Rehabilitation
 
-## Lumbar spine
-[Chronic Low Back Pain]({{< var ref-chronic-low-back-pain.path >}})
 
-[Acute Low Back Pain](Pathologies-and-Rehab/Spine-Lumbar/acute_low_back_pain.qmd)
 
 # Pain Science
 {{< include Pain_science/pain_index.qmd >}}
