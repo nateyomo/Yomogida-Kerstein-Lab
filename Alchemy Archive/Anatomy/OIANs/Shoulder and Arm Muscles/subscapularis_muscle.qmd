@@ -24,4 +24,13 @@ Internal Rotation @gilroyAtlasAnatomy2020
 # Test
 
 - Lift-off test
+
+<!--
+- Some researchers suggest that the lift-off test can be positive for pts with biceps tendon injury @gillPhysicalExaminationPartial2007
+- Theorizing that attempting to lift the affected arm off the back might provoke pain or weakness secondary to biceps tendon tear @gillPhysicalExaminationPartial2007
+--> 
+
 - Bear hug test
+- Belly press test
+    - "performed by having the patient place the affected hand on the abdomen and attempt to move the elbow anteriorly. The test was considered positive if the patient could not move the elbow forward" @gillPhysicalExaminationPartial2007
+

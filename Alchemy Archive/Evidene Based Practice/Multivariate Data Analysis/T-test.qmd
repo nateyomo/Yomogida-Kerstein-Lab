@@ -1,0 +1,10 @@
+---
+title: T-Test (statistical analysis)
+---
+
+See [T-test in relation to other tests]({{< var ref-statistical-analysis-overview.path >}})
+
+Function:
+
+- Determines difference from in mean values between 2 groups
+

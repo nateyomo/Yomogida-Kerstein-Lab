@@ -1,0 +1,49 @@
+---
+title: Correlation (Statistical overview)
+---
+
+
+# Definition
+## Correlation
+
+Monotonic association between 2 variables(Schober et al., 2018)
+
+1. one variable increases → other increases
+1. One variable increases → Other Decreases
+
+## Variance
+
+Measure of the variability of a single variable @schoberCorrelationCoefficientsAppropriate2018
+
+:::{.callout collapse="false"}
+### Covariance vs Variance
+Covariance is similar to variance, but whereas variance describes the variability of a single variable @schoberCorrelationCoefficientsAppropriate2018
+:::
+
+
+## Covariance
+
+Defined as the Degree to which the change in 1 continuous variable is associated with the change in another continuous variable @schoberCorrelationCoefficientsAppropriate2018
+
+Covariance is a measure of how 2 variables vary together @schoberCorrelationCoefficientsAppropriate2018
+
+:::{.callout collapse="false"}
+### Covariance vs Variance
+Covariance is similar to variance, but whereas variance describes the variability of a single variable @schoberCorrelationCoefficientsAppropriate2018
+:::
+
+## Intra-class Coefficient (ICC)
+
+- 0-1 (higher is better)
+- Correlations between repeated measurements within a class of data @liljequistIntraclassCorrelationDiscussion2019
+
+## Correlation coefficient
+Describes Strength & Direction of association between variables 
+
+## Coefficient of Determination (R^2)
+Proportion of variance in 1 variable that is accounted for by the other @schoberCorrelationCoefficientsAppropriate2018 .
+
+
+## Linear correlation
+
+[See more about linear correlation]({{< var ref-linear-correlation.path >}})

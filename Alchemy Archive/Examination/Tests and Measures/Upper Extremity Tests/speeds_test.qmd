@@ -1,0 +1,9 @@
+---
+title: Speed's Test
+---
+
+
+For bicep tear @gillPhysicalExaminationPartial2007
+
+- a sensitivity of 50%, a specificity of 67%, an accuracy of 66%, and a likelihood ratio of 1.51
+- "None of the other tests had a sensitivity of more than 68% for partial biceps tears." @gillPhysicalExaminationPartial2007
