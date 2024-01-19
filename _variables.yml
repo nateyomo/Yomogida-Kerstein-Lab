@@ -6,6 +6,14 @@ ref-basilar-artery:
 
 ## Bones
 
+### Bones of the Trunk
+ref-sternum-bone:
+  path: "/Alchemy Archive/Anatomy/Bones/Bones of the trunk/sternum_bone.qmd"
+ref-1st-rib:
+  path: "/Alchemy Archive/Anatomy/Bones/Bones of the trunk/1st_rib.qmd"
+ref-ribs-bones:
+  path: "/Alchemy Archive/Anatomy/Bones/Bones of the trunk/ribs_bone.qmd"
+
 ### Upper extremity bones
 ref-clavicle-bone:
   path: "/Alchemy Archive/Anatomy/Bones/Upper Extremity Bones/clavicle_bone.qmd"
@@ -28,6 +36,14 @@ ref-foramen-ovale-sphenoid-bone:
   path: "/Alchemy Archive/Anatomy/Bones/Bones of the Skull/sphenoid_bone.qmd"
 ref-meckel's-cave:
   path: "/Alchemy Archive/Anatomy/Bones/Cranium/Meckel's_cave.qmd"
+
+## Cartilage
+ref-costal-cartilages:
+  path: "/Alchemy Archive/Anatomy/Cartilage/costal_cartilages.qmd"
+
+## Connective Tissue
+ref-rectus-sheath:
+  path: "/Alchemy Archive/Anatomy/Connective tissue/rectus_sheath.qmd"
 
 ## OIAN
 ref-oians: 
@@ -419,6 +435,33 @@ ref-teres-major:
   nerve: ""
   action: ""
 
+### Pectoral Girdle
+ref-pectoralis-major:
+  path: "/Alchemy Archive/Anatomy/OIANs/Shoulder and Arm Muscles/pectoralis_major_muscle.qmd"
+  origin: "[Clavicle (medial half)]({{< var ref-clavicle-bone.path >}}), [sternum]({{< var ref-sternum-bone.path >}}), [costal cartilages 1–6]({{< var ref-costal-cartilages.path >}}), [rectus sheath (anterior layer)]({{< var ref-rectus-sheath.path >}})"
+  insertion: "[Humerus (crest of greater tubercle)]({{< var ref-humerus-bone.path >}})"
+  nerve: "[Lateral pectoral nerve]({{< var ref-lateral-pectoral-nerve.path >}}) and [Medial pectoral nerve]({{< var ref-medial-pectoral-nerve.path >}}) (C5-T1)"
+  action: "**Entire muscle**: adduction, internal rotation; **Clavicular and sternocostal parts**: flexion; assist in respiration when shoulder is fixed"
+ref-pectoralis-minor:
+  path: "/Alchemy Archive/Anatomy/OIANs/Shoulder and Arm Muscles/pectoralis_minor_muscle.qmd"
+  origin: "[3rd to 5th ribs]({{< var ref-ribs-bones.path >}})"
+  insertion: "[Coracoid process]({{< var ref-scapula-bone.path >}})"
+  nerve: "[Medial Pectoral n. (C8, T1)]({{< var ref-medial-pectoral-nerve.path >}})"
+  action: "Draws scapula downward, causing inferior angle to move posteromedially; rotates glenoid inferiorly; assists in respiration"
+ref-coracobrachialis:
+  path: "/Alchemy Archive/Anatomy/OIANs/Shoulder and Arm Muscles/coracobrachialis_muscle.qmd"
+  origin: "[Scapula (coracoid process)]({{< var ref-scapula-bone.path >}})"
+  insertion: "[Humerus (in line with crest of lesser tubercle)]({{< var ref-humerus-bone.path >}})"
+  nerve: "[Musculocutaneous n. (C5–C7)]({{< var ref-musculocutaneous-nerve.path >}})"
+  action: "Flexion, adduction, internal rotation"
+ref-subclavius:
+  path: "/Alchemy Archive/Anatomy/OIANs/Shoulder and Arm Muscles/subclavius_muscle.qmd"
+  origin: "[1st rib]({{< var ref-1st-rib.path >}})"
+  insertion: "[Clavicle (inferior surface)]({{< var ref-clavicle-bone.path >}})"
+  nerve: "[N. to subclavius (C5, C6)]({{< var ref-nerve-to-subclavius.path >}})"
+  action: "Steadies the clavicle in the sternoclavicular joint"
+
+
 ## Nerve
 ref-suboccipital-nerve: 
   path: /Alchemy Archive/Anatomy/Nerves/suboccipital_nerve.qmd
@@ -436,6 +479,14 @@ ref-suprascapular-nerve:
 ref-upper-subscapular-nerve:
   path: "/Alchemy Archive/Anatomy/Nerves/Upper extremity nerves/subscapular_nerve.qmd"
   roots: ""
+ref-lateral-pectoral-nerve:
+  path: "/Alchemy Archive/Anatomy/Nerves/Upper extremity nerves/lateral_pectoral_nerve.qmd"
+ref-medial-pectoral-nerve:
+  path: "/Alchemy Archive/Anatomy/Nerves/Upper extremity nerves/medial_pectoral_nerve.qmd"
+ref-musculocutaneous-nerve:
+  path: "/Alchemy Archive/Anatomy/Nerves/Upper extremity nerves/musculocutaneous_nerve.qmd"
+ref-nerve-to-subclavius:
+  path: "/Alchemy Archive/Anatomy/Nerves/Upper extremity nerves/nerve_to_subclavius.qmd"
 
 ## Ligaments
 
@@ -612,6 +663,8 @@ ref-stress-reactions-and-fractures:
 
 # Performance training
 ## Golf
+ref-golf-index:
+  path: "/Alchemy Archive/Performance Training/Golf/golf_index.qmd"
 ref-golf-overview:
   path: "/Alchemy Archive/Performance Training/Golf/golf_overview.qmd"
 ref-golf-injuries:

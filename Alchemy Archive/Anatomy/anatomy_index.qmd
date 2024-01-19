@@ -6,18 +6,18 @@ title: Anatomy Index
 - [Basilar Artery]({{< var ref-basilar-artery.path >}})
 
 ## Bones
-### Bones of the skull
 
-{{< include "/Alchemy Archive/Anatomy/Bones/Bones of the Skull/skull_bones.qmd" >}}
-
-- Sphenoid Bone
-    - [Foramen ovale]({{< var ref-foramen-ovale-sphenoid-bone.path >}}) (of the sphenoid bone)
-- [Meckel's Cave]({{< var ref-meckel's-cave.path >}})
+{{< include "/Alchemy Archive/Anatomy/Bones/bones_index.qmd" >}}
 
 ## Muscles
 [OIANs]({{< var ref-oians.path >}})
 
 ## Nerves
-[Suboccipital Nerve]({{< var ref-suboccipital-nerve.path >}})
 
-[Spinal nn.]({{< var ref-spinal-nerves.path >}})
+- [Suboccipital Nerve]({{< var ref-suboccipital-nerve.path >}})
+- [Spinal nn.]({{< var ref-spinal-nerves.path >}})
+- [Axillary nerve]({{< var ref-axillary-nerve.path >}})
+- [Lateral Pectoral nerve]({{< var ref-lateral-pectoral-nerve.path >}})
+- [Medial Pectoral nerve]({{< var ref-medial-pectoral-nerve.path >}})
+- [Subscapular nerve]({{< var ref-subcapular-nerve.path >}})
+- [Suprascapular nerve]({{< var ref-suprascapular-nerve.path >}})

@@ -1,0 +1,32 @@
+---
+title: Pectoralis Major
+---
+
+# OIAN
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Pec Major]({{< var ref-pectoralis-major.path >}}) | {{< var ref-pectoralis-major.origin >}} | {{< var ref-pectoralis-major.insertion >}} | {{< var ref-pectoralis-major.nerve >}} | {{< var ref-pectoralis-major.action >}} |
+
+: Pectoralis Major OIAN {.striped .hover}
+
+## Origin
+
+
+
+- Clavicular part: [Clavicle (medial half)]({{< var ref-clavicle-bone.path >}}) @gilroyAtlasAnatomy2020
+- Sternocostal part: [sternum]({{< var ref-sternum-bone.path >}}), [costal cartilages 1–6]({{< var ref-costal-cartilages.path >}}) @gilroyAtlasAnatomy2020
+- Abdominal part: [rectus sheath (anterior layer)]({{< var ref-rectus-sheath.path >}}) @gilroyAtlasAnatomy2020
+
+
+## Insertion
+[Humerus (crest of greater tubercle)]({{< var ref-humerus-bone.path >}}) @gilroyAtlasAnatomy2020
+
+## Innervation
+
+[Lateral pectoral nerve]({{< var ref-lateral-pectoral-nerve.path >}}) and [Medial pectoral nerve]({{< var ref-medial-pectoral-nerve.path >}}) (C5-T1) @gilroyAtlasAnatomy2020
+
+## Action
+
+Entire muscle: adduction, internal rotation 
+Clavicular and sternocostal parts: flexion; assist in respiration when shoulder is fixed

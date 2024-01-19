@@ -12,12 +12,11 @@ title: "The Archive"
 # Psychosocial
 {{< include "Psychosocial/psychosocial_index.qmd" >}}
 
-# MSK Pathologies & Rehabilitation
-
-
-
 # Pain Science
 {{< include Pain_science/pain_index.qmd >}}
+
+# Pathophysiology
+{{< include "/Alchemy Archive/Pathophysiology/pathophysiology_index.qmd" >}}
 
 # Pathologies
 {{< include Pathologies/pathologies_index.qmd >}}
@@ -33,3 +32,6 @@ title: "The Archive"
 
 # Examination
 {{< include "Examination/examination_index.qmd" >}}
+
+# Performance Training
+{{< include "/Alchemy Archive/Performance Training/performance_training_index.qmd" >}}

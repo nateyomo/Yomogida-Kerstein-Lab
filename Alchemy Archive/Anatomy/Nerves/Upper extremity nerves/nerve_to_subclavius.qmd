@@ -1,0 +1,12 @@
+---
+title: Nerve to Subclavius
+---
+
+
+# Motor Innervations
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Subclavius]({{< var ref-subclavius.path >}}) | {{< var ref-subclavius.origin >}} | {{< var ref-subclavius.insertion >}} | {{< var ref-subclavius.nerve >}} | {{< var ref-subclavius.action >}} |
+
+: {.striped .hover}

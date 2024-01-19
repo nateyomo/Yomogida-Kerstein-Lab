@@ -1,0 +1,13 @@
+---
+title: Musculocutaneous nerve
+---
+
+
+
+# Motor innervation
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Coracobrachialis]({{< var ref-coracobrachialis.path >}}) | {{< var ref-coracobrachialis.origin >}} | {{< var ref-coracobrachialis.insertion >}} | {{< var ref-coracobrachialis.nerve >}} | {{< var ref-coracobrachialis.action >}} |
+
+: Motor innervation of Musculocutaneous nerve {.striped .hover}

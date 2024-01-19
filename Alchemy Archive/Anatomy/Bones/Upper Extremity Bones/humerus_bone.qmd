@@ -41,7 +41,7 @@ title: Humerus (bone)
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
 | [Subscapularis]({{< var ref-subscapularis.path >}}) | {{< var ref-subscapularis.origin >}} | {{< var ref-subscapularis.insertion >}} | {{< var ref-subscapularis.nerve >}} | {{< var ref-subscapularis.action >}} |
-
+| [Pec Major]({{< var ref-pectoralis-major.path >}}) | {{< var ref-pectoralis-major.origin >}} | {{< var ref-pectoralis-major.insertion >}} | {{< var ref-pectoralis-major.nerve >}} | {{< var ref-pectoralis-major.action >}} |
 : Lesser tubercle of humerus attachment OIAN {.striped .hover}
 :::
 
@@ -61,6 +61,17 @@ Dysfunction:
 
 - [Lateral epicondylitis (Tennis elbow)]({{< var ref-lateral-epicondylitis.path >}})
 
+## Humerus in line with crest of less tubercle
+
+:::{.callout collapse="true"}
+### Lesser Tubercle Muscular attachments
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Coracobrachialis]({{< var ref-coracobrachialis.path >}}) | {{< var ref-coracobrachialis.origin >}} | {{< var ref-coracobrachialis.insertion >}} | {{< var ref-coracobrachialis.nerve >}} | {{< var ref-coracobrachialis.action >}} |
+
+: {.striped .hover}
+:::
 
 # Dysfunction
 

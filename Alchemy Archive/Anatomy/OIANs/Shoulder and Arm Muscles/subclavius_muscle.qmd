@@ -1,0 +1,24 @@
+---
+title: Subclavius Muscle
+---
+
+
+# OIAN
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Subclavius]({{< var ref-subclavius.path >}}) | {{< var ref-subclavius.origin >}} | {{< var ref-subclavius.insertion >}} | {{< var ref-subclavius.nerve >}} | {{< var ref-subclavius.action >}} |
+
+: Subclavius OIAN {.striped .hover}
+
+## Origin
+[1st rib]({{< var ref-1st-rib.path >}}) @gilroyAtlasAnatomy2020
+
+## Insertion
+[Clavicle (inferior surface)]({{< var ref-clavicle-bone.path >}}) @gilroyAtlasAnatomy2020
+
+## Innervation
+[N. to subclavius (C5, C6)]({{< var ref-nerve-to-subclavius.path >}}) @gilroyAtlasAnatomy2020
+
+## Action
+Steadies the clavicle in the sternoclavicular joint @gilroyAtlasAnatomy2020

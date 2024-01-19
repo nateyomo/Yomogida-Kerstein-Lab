@@ -8,6 +8,8 @@ title: Infraspinatus muscle
 |------|--------|-------|----------|--------|
 | [Infraspinatus]({{< var ref-infraspinatus.path >}}) | {{< var ref-infraspinatus.origin >}} | {{< var ref-infraspinatus.insertion >}} | {{< var ref-infraspinatus.nerve >}} | {{< var ref-infraspinatus.action >}} |
 
+: Infraspinatus OIAN {.striped .hover}
+
 ## Origin
 Infraspinous Fossa of [scapula]({{< var ref-scapula-bone.path >}}) 
 

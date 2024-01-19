@@ -11,7 +11,7 @@ title: Psychosocial index
 
 - Socioeconomic Determinants of health
 
-# Population Health Disparities
+## Population Health Disparities
 
 - Health disparities in historically marginalized populations
 - Health disparities in LGBT populations

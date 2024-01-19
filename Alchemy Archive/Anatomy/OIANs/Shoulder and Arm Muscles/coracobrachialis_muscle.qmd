@@ -1,0 +1,23 @@
+---
+title: Coracobrachialis Muscle
+---
+
+# OIAN
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Coracobrachialis]({{< var ref-coracobrachialis.path >}}) | {{< var ref-coracobrachialis.origin >}} | {{< var ref-coracobrachialis.insertion >}} | {{< var ref-coracobrachialis.nerve >}} | {{< var ref-coracobrachialis.action >}} |
+
+: Coracobrachialis OIAN {.striped .hover}
+
+## Origin
+[Scapula (coracoid process)]({{< var ref-scapula-bone.path >}}) @gilroyAtlasAnatomy2020
+
+## Insertion
+[Humerus (in line with crest of lesser tubercle)]({{< var ref-humerus-bone.path >}}) @gilroyAtlasAnatomy2020
+
+## Nerve
+[Musculocutaneous n. (C5–C7)]({{< var ref-musculocutaneous-nerve.path >}})  @gilroyAtlasAnatomy2020
+
+## Action
+Flexion, adduction, internal rotation @gilroyAtlasAnatomy2020
