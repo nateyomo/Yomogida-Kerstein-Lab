@@ -1,4 +1,7 @@
 ---
 title: Journal Club
-
+listing:
+    contents: Journal club
+    type: table
 ---
+

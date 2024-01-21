@@ -6,6 +6,9 @@ title: "The Archive"
 # Anatomy 
 {{< include Anatomy/anatomy_index.qmd >}}
 
+# Microbiology
+{{< include "/Alchemy Archive/Microbiology/microbiology_index.qmd" >}}
+
 # Physiology
 {{< include Physiology/physiology_index.qmd >}}
 

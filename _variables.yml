@@ -551,7 +551,23 @@ ref-interventions-index:
 ref-icing-cryotherapy:
   path: "/Alchemy Archive/Interventions/Cryotherapy/icing_cryotherapy.qmd"
 
+# Microbiology
+ref-microbiology-index:
+  path: "/Alchemy Archive/Microbiology/microbiology_index.qmd"
+## Cells
+ref-CD34:
+  path: "/Alchemy Archive/Microbiology/Cells/CD34_cell.qmd"
+## Proteins
+ref-von-willebrand-factor:
+  path: "/Alchemy Archive/Microbiology/Proteins/Von_Willebrand_factor.qmd"
+ref-vascular-endothelial-growth-factor:
+  path: "/Alchemy Archive/Microbiology/Proteins/vascular_endothelial_growth_factor.qmd"
+
 # Physiology
+
+## Blood
+
+
 ## Enzymes
 ref-superoxide-dismutases-group: 
   path: "/Alchemy Archive/Physiology/Enzymes/superoxide_dismutases_group.qmd"
@@ -564,9 +580,9 @@ ref-inflammation-index:
   path: "/Alchemy Archive/Physiology/Inflammation/inflammation_index.qmd"
 ### Inflammatory cells
 ref-neutrophil:
-  path: "/Alchemy Archive/Physiology/Inflammation/Inflammatory Cells/neutrophils.qmd"
+  path: "/Alchemy Archive/Physiology/Immune system/Immune cells/neutrophils.qmd"
 ref-macrophage:
-  path: "/Alchemy Archive/Physiology/Inflammation/Inflammatory Cells/macrophages.qmd"
+  path: "/Alchemy Archive/Physiology/Immune system/Immune cells/macrophages.qmd"
 
 ## Minerals
 ref-copper: 
