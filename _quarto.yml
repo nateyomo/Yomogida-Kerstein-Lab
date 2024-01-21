@@ -34,7 +34,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - href: Alchemy Archive/archive_index.qmd
+      - href: The Archive/archive_index.qmd
         text: Archive
       - href: guide.qmd
         text: Guide
@@ -42,8 +42,8 @@ website:
         text: Journal Club
 
 
-bibliography: Alchemy Archive/Bibliography/NGY CAK JVC Bibliography.bib
-csl: Alchemy Archive/Bibliography/american-medical-association.csl
+bibliography: The Archive/Bibliography/NGY CAK JVC Bibliography.bib
+csl: The Archive/Bibliography/american-medical-association.csl
 
 format:
   html:

@@ -1,11 +1,11 @@
 ---
-title: Cryotherapy for contusions
+title: Cryotherapy for Contusions
 date: 1/20/2024
 ---
 
 # Article
 
-Singh (2017) Effects of Topical Icing on Inflammation, Angiogenesis, Revascularization, and Myofiber Regeneration in Skeletal Muscle Following Contusion Injury @singhEffectsTopicalIcing2017b
+Singh et al., (2017)@singhEffectsTopicalIcing2017b Effects of Topical Icing on Inflammation, Angiogenesis, Revascularization, and Myofiber Regeneration in Skeletal Muscle Following Contusion Injury @singhEffectsTopicalIcing2017b
 
 # Study Question
 
@@ -31,8 +31,8 @@ Does icing vs a sham treatment effect contusion recovery in rats?
         - [Neutrophils](#neutrophil-results)
         - [Macrophages](#macrophage-results)
         - [Expression of CD34](#cd34-expression-results)
-        - [Von willebrands factor (vWF)](#von-willebrand-factor-(vwf-results)
-        - [Vascular endothelial growth factor (VEGF)](#vascular-endothelial-growth-factor-(vegf-results)
+        - [Von willebrands factor (vWF)](#von-willebrand-factor-(vwf-results))
+        - [Vascular endothelial growth factor (VEGF)](#vascular-endothelial-growth-factor-(vegf-results))
         - [Nestin](#nestin-results)
         - [Vessel volume](#vessel-volume-results)
         - [Capillary density](#capillary-density-results)
@@ -89,9 +89,10 @@ This indicates that the control group passed through the phases of healing faste
 
 ## CD34 Expression results
 
-[CD34]({{< var ref-CD34.path >}}) expression is a measure of capillary density
+[CD34]({{< var ref-cd34.path >}}) expression is a measure of capillary density.
 
-percent of CD34 stained area was greater in muscle from sham group than icing on days 3 and 7, but after 28 days, the icing group had a greater percent of CD34 than the sham group. 
+Singh et al., found that by day 3 and 7, the control group had a greater percent of CD34 stained area in muscle @singhEffectsTopicalIcing2017b.
+By day 28, the icing group had a greater percent of CD34 than the sham group @singhEffectsTopicalIcing2017b. 
 
 ## Von Willebrand Factor (vWF) Results
 
@@ -108,7 +109,7 @@ Singh (2017) found that the percent of VEGF stained area in muscle was greater i
 [Read more about Nestin]({{< var ref-nestin-protein.path >}})
 
 Singh (2017) used Nestin count as a measure of of maturing endothelial cells @singhEffectsTopicalIcing2017b.
-Singh @singhEffectsTopicalIcing2017b found that the area of nestin in the muscle was greater in the control group than the experimental (ice) group by day 3 post injury @singhEffectsTopicalIcing2017b.
+Singh et al. @singhEffectsTopicalIcing2017b found that the area of nestin in the muscle was greater in the control group than the experimental (ice) group by day 3 post injury @singhEffectsTopicalIcing2017b.
 By day 7 the experimental (ice) group had a greater amount of nestin in the muscle, indicating that the control group had progressed into the next stage of healing before the exerpimental group @singhEffectsTopicalIcing2017b.
 
 ## Vessel volume results
@@ -128,11 +129,19 @@ Percentage of regenerating fibers relative to number of fibers was greater in th
 
 ## Results Overview
 
-Compared to the control group, Icing attenuated and/or delayed [neutrophil]({{< var ref-neutrophil.path >}}) and macrophage infiltration, expression of vWF, VEGF and nestin, and change in vessel volume within muscle 7 days after injury. Icing did not influence capillary density in mm 28 days post injury. The percentage of immature myofibers relative to the total number of fibers was greater in the icing group than sham 28 d after injury. Myofiber CSA did not differ between groups after 7 or 28 days.
+Compared to the control group, Icing attenuated and/or delayed [neutrophil]({{< var ref-neutrophil.path >}}) and macrophage infiltration, expression of vWF, VEGF and nestin, and change in vessel volume within muscle 7 days after injury. 
+Icing did not influence capillary density in mm 28 days post injury @singhEffectsTopicalIcing2017b. 
+The percentage of immature myofibers relative to the total number of fibers was greater in the icing group than sham 28 d after injury. Myofiber CSA did not differ between groups after 7 or 28 days @singhEffectsTopicalIcing2017b.
 
 # Study Limitations
-Icing was applied once soon after injury, it is possible other effects could be seen if more frequent icing was applied
-Only used male rats. Icing could have different effects in female rats due to estrogens that could affect muscle regeneration. 
+
+- Icing was applied once soon after injury, it is possible other effects could be seen if more frequent icing was applied @singhEffectsTopicalIcing2017b
+- This study only used male rats. Icing could have different effects in female rats due to estrogens that could affect muscle regeneration @singhEffectsTopicalIcing2017b. 
 
 # Conclusion
-Icing may mildly suppress/disrupt inflammation, angiogenesis, revascularization, but these effects do not stop or slow muscle regeneration/capillary density after contusion injury
+Icing may mildly suppress/disrupt inflammation, angiogenesis, and revascularization within the first few days.
+These effects do not stop or slow muscle regeneration/capillary density after contusion injury @singhEffectsTopicalIcing2017b.
+
+# Clinical Significance
+
+Icing does not seem to improve or be beneficial to the healing process post-contusion, however if a patient enjoys icing, it will not slow or stop muscle regeneration.

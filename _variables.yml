@@ -1,77 +1,84 @@
+# Journal Club
+ref-jc-cryotherapy-contusion:
+  path: "/Journal club/jc1_cryotherapy_contusions.qmd"
+ref-jc-2-post-exercise-cold-immersion:
+  path: "/Journal club/jc2_post-exercise_cold_immersion.qmd"
+
+
 # Anatomy
 
 ## Arteries 
 ref-basilar-artery:
-  path: "/Alchemy Archive/Anatomy/Arteries/basilar_artery.qmd"
+  path: "/The Archive/Anatomy/Arteries/basilar_artery.qmd"
 
 ## Bones
 
 ### Bones of the Trunk
 ref-sternum-bone:
-  path: "/Alchemy Archive/Anatomy/Bones/Bones of the trunk/sternum_bone.qmd"
+  path: "/The Archive/Anatomy/Bones/Bones of the trunk/sternum_bone.qmd"
 ref-1st-rib:
-  path: "/Alchemy Archive/Anatomy/Bones/Bones of the trunk/1st_rib.qmd"
+  path: "/The Archive/Anatomy/Bones/Bones of the trunk/1st_rib.qmd"
 ref-ribs-bones:
-  path: "/Alchemy Archive/Anatomy/Bones/Bones of the trunk/ribs_bone.qmd"
+  path: "/The Archive/Anatomy/Bones/Bones of the trunk/ribs_bone.qmd"
 
 ### Upper extremity bones
 ref-clavicle-bone:
-  path: "/Alchemy Archive/Anatomy/Bones/Upper Extremity Bones/clavicle_bone.qmd"
+  path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/clavicle_bone.qmd"
 ref-scapula-bone:
-  path: "/Alchemy Archive/Anatomy/Bones/Upper Extremity Bones/scapula_bone.qmd"
+  path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/scapula_bone.qmd"
 ref-humerus-bone:
-  path: "/Alchemy Archive/Anatomy/Bones/Upper Extremity Bones/humerus_bone.qmd"
+  path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/humerus_bone.qmd"
 ref-ulna-bone:
-  path: "/Alchemy Archive/Anatomy/Bones/Upper Extremity Bones/ulna_bone.qmd"
+  path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/ulna_bone.qmd"
 ref-radius-bone:
-  path: "/Alchemy Archive/Anatomy/Bones/Upper Extremity Bones/radius_bone.qmd"
+  path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/radius_bone.qmd"
 ref-capitate-bone:
-  path: "/Alchemy Archive/Anatomy/Bones/Upper Extremity Bones/capitate_bone.qmd"
+  path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/capitate_bone.qmd"
 
 ### Bones of the skull
 
 ref-sphenoid-bone:
-  path: "/Alchemy Archive/Anatomy/Bones/Bones of the Skull/sphenoid_bone.qmd"
+  path: "/The Archive/Anatomy/Bones/Bones of the Skull/sphenoid_bone.qmd"
 ref-foramen-ovale-sphenoid-bone:
-  path: "/Alchemy Archive/Anatomy/Bones/Bones of the Skull/sphenoid_bone.qmd"
+  path: "/The Archive/Anatomy/Bones/Bones of the Skull/sphenoid_bone.qmd"
 ref-meckel's-cave:
-  path: "/Alchemy Archive/Anatomy/Bones/Cranium/Meckel's_cave.qmd"
+  path: "/The Archive/Anatomy/Bones/Cranium/Meckel's_cave.qmd"
 
 ## Cartilage
 ref-costal-cartilages:
-  path: "/Alchemy Archive/Anatomy/Cartilage/costal_cartilages.qmd"
+  path: "/The Archive/Anatomy/Cartilage/costal_cartilages.qmd"
 
 ## Connective Tissue
 ref-rectus-sheath:
-  path: "/Alchemy Archive/Anatomy/Connective tissue/rectus_sheath.qmd"
+  path: "/The Archive/Anatomy/Connective tissue/rectus_sheath.qmd"
 
 ## OIAN
 ref-oians: 
-  path: /Alchemy Archive/Anatomy/OIAN.qmd
+  path: /The Archive/Anatomy/OIAN.qmd
 
 ### Muscles of the back 
 ref-suboccipital-muscle-group:
-  path: "/Alchemy Archive/Anatomy/OIANs/muscles_of_the_back_index.qmd"
+  path: "/The Archive/Anatomy/OIANs/muscles_of_the_back_index.qmd"
 ref-rectus-capitis-posterior-major: 
-  path: "/Alchemy Archive/Anatomy/OIANs/Muscles of the back/rectus_capitis_posterior_major.qmd"
+  path: "/The Archive/Anatomy/OIANs/Muscles of the back/rectus_capitis_posterior_major.qmd"
   origin: "C2 (SP)"
   insertion: "Occipital bone (inferior nuchal line, middle third)"
   nerve: "[Suboccipital N.]({{< var ref-suboccipital-nerve.path >}})"
   action: "**BIL**: Extend head; **UNIL**: I/L head rotation"
 ref-rectus-capitis-posterior-minor: 
-  path: /Alchemy Archive/Anatomy/OIANs/Muscles of the back/rectus_capitis_posterior_minor.qmd
+  path: /The Archive/Anatomy/OIANs/Muscles of the back/rectus_capitis_posterior_minor.qmd
   origin: "C1 (posterior tubercle)"
   insertion: "Occipital bone (inferior nuchal line, inner 1/3)"
   nerve: "[Suboccipital N.]({{< var ref-suboccipital-nerve.path >}})"
   action: "**BIL**: Extend head; **UNIL**: I/L head rotation"
 ref-obliquus-capitis-superior: 
-  path: /Alchemy Archive/Anatomy/OIANs/Muscles of the back/obliquus_capitis_superior.qmd
+  path: /The Archive/Anatomy/OIANs/Muscles of the back/obliquus_capitis_superior.qmd
   origin: "C1 (TP)"
   insertion: "Occipital bone (inferior nuchal line, middle third"
   nerve: "[Suboccipital N.]({{< var ref-suboccipital-nerve.path >}})"
   action: "**BIL**: Extend head; **UNIL**: I/L SB, C/L rotation"
 ref-obliquus-capitis-inferior: 
-  path: /Alchemy Archive/Anatomy/OIANs/Muscles of the back/obliquus_capitis_inferior.qmd
+  path: /The Archive/Anatomy/OIANs/Muscles of the back/obliquus_capitis_inferior.qmd
   origin: "C2 (SP)"
   insertion: "C1 TP"
   nerve: "[Suboccipital N.]({{< var ref-suboccipital-nerve.path >}})"
@@ -79,153 +86,153 @@ ref-obliquus-capitis-inferior:
  **UNIL**: I/L rotation"
 
 ref-longus-capitis: 
-  path: /Alchemy Archive/Anatomy/OIANs/Muscles of the back/longus_capitis.qmd
+  path: /The Archive/Anatomy/OIANs/Muscles of the back/longus_capitis.qmd
   origin: C3-C6\ (TP, ant tubercles) 
   insertion: Occipital bone (basilar part) 
   nerve: Direct branches from cervical plexus (C1-C3) 
   action: "**BIL** flexes head; **UNIL** flexes and slight I/L rotation "
 ref-longus-colli-cervicis: 
-  path: /Alchemy Archive/Anatomy/OIANs/Muscles of the back/longus_colli_cervicis.qmd
+  path: /The Archive/Anatomy/OIANs/Muscles of the back/longus_colli_cervicis.qmd
   origin: "**Vertical part:** C5-T3 (ant side of vertebral body);\ **Sup-oblique** C3-C5 (TP, Ant tubercle) \ **Inf-Oblique:** T1-T3 (ant side of vertebral body)"
   insertion: "**Vertical part:** C2-C4 (ant sides of vertebral bodies);\ **Sup-oblique** C1 (TP, ant tubercle) \ **Inf-Oblique:** C5-C6 (TP, Ant tubercles)"
   nerve: "Direct branches from cervical plexus (C2-C6)"
   action: "**BIL**: Flex AO Joint; **UNIL**: Lat flex at AO joint"
 ref-rectus-capitis-anterior: 
-  path: /Alchemy Archive/Anatomy/OIANs/Muscles of the back/rectus_capitis_anterior.qmd
+  path: /The Archive/Anatomy/OIANs/Muscles of the back/rectus_capitis_anterior.qmd
   origin: "C1 (lateral mass)"
   insertion: "Occipital bone (basilar part)"
   nerve: "C1 Ant ramus"
   action: "**BIL**: flex AO Joint; **UNIL**: Lateral Flexion of AO joint"
 ref-rectus-capitis-lateralis: 
-  path: /Alchemy Archive/Anatomy/OIANs/Muscles of the back/rectus_capitis_lateralis.qmd
+  path: /The Archive/Anatomy/OIANs/Muscles of the back/rectus_capitis_lateralis.qmd
   origin: "C1 (TP)"
   insertion: "Occipital bone (basilar part, lateral to occipital condyles)"
   nerve: "C1 Anterior Ramus"
   action: "**BIL**: flex AO Joint; **UNIL**: Lateral Flexion of AO joint"
 
 ref-serratus-posterior-superior: 
-  path: /Alchemy Archive/Anatomy/OIANs/Muscles of the back/serratus_posterior_superior.qmd
+  path: /The Archive/Anatomy/OIANs/Muscles of the back/serratus_posterior_superior.qmd
   origin: "[Nuchal ligament]({{< var ref-nuchal-ligament.path >}}), C7-T3 SP"
   insertion: "2-4th ribs (sup border)"
   nerve: "[Spinal nn. ]({{< var ref-spinal-nerves.path >}}) T2-T5 (Ant ramus)"
   action: "Elevates ribs"
 ref-serratus-posterior-inferior: 
-  path: /Alchemy Archive/Anatomy/OIANs/Muscles of the back/serratus_posterior_inferior.qmd
+  path: /The Archive/Anatomy/OIANs/Muscles of the back/serratus_posterior_inferior.qmd
   origin: "T11-L2 (SP)"
   insertion: "8-12th ribs (inferior borders near angles)"
   nerve: "[Spinal nn.]({{< var ref-spinal-nerves.path >}}) T9-T12 (Anterior rami)"
   action: "Depresses ribs"
 ref-splenius-capitis: 
-  path: /Alchemy Archive/Anatomy/OIANs/Muscles of the back/splenius_capitis.qmd
+  path: /The Archive/Anatomy/OIANs/Muscles of the back/splenius_capitis.qmd
   origin: "[Nuchal ligament]({{< var ref-nuchal-ligament.path >}}), C7-T3/T4 SP"
   insertion: "Lateral 1/3 nuchal line (occipital bone), Mastoid process (temporal bone)"
   nerve: "[spinal nn.]({{< var ref-spinal-nerves.path >}}) C1-C6 (Post rami, lateral branches)"
   action: "**BIL:** Extends C/S and head; **UNIL:** I/L head SB and Rotation "
 ref-splenius-cervicis: 
-  path: /Alchemy Archive/Anatomy/OIANs/Muscles of the back/splenius_cervicis.qmd
+  path: /The Archive/Anatomy/OIANs/Muscles of the back/splenius_cervicis.qmd
   origin: "T3-T6/T7 (SP)"
   insertion: "C1–C3/4 (TP)"
   nerve: "[Spinal nn. C1-C6]({{< var ref-spinal-nerves.path >}}) (Post rami, lateral branches)"
   action: "**BIL:** Extends C/S and head; **UNIL:** I/L head SB and Rotation"
 
 ref-iliocostalis-cervicis:
-  path: /Alchemy Archive/Anatomy/OIANs/Muscles of the back/iliocostalis.qmd
+  path: /The Archive/Anatomy/OIANs/Muscles of the back/iliocostalis.qmd
   origin: "3rd-7th ribs "
   insertion: "C4-C6 TP"
   nerve: "[Spinal nn. ]({{< var ref-spinal-nerves.path >}}) C8-L1 (Post rami, lateral branches)"
   action: "**BIL:** Extends spine; **UNIL:** I/L spine lat-flexion"
 ref-iliocostalis-thoracis:
-  path: /Alchemy Archive/Anatomy/OIANs/Muscles of the back/iliocostalis.qmd
+  path: /The Archive/Anatomy/OIANs/Muscles of the back/iliocostalis.qmd
   origin: "7-12th ribs"
   insertion: "1st-6th ribs"
   nerve: "[Spinal nn.]({{< var ref-spinal-nerves.path >}}) C8-L1 (Post rami, lateral branches)"
   action: "**BIL:** Extends spine; **UNIL:** I/L spine lat-flexion"
 ref-iliocostalis-lumborum:
-  path: /Alchemy Archive/Anatomy/OIANs/Muscles of the back/iliocostalis.qmd
+  path: /The Archive/Anatomy/OIANs/Muscles of the back/iliocostalis.qmd
   origin: "Sacrum, iliac crest, lumbar vertebrae SP; lower thoracic vertebrae TP"
   insertion: "6-12th ribs, thoracolumbar fascia (posterior layer), upper lumbar vertebrae (TP)"
   nerve: "[Spinal nn. ]({{< var ref-spinal-nerves.path >}}) C8-L1 (Post rami, lateral branches)"
   action: "**BIL:** Extends spine; **UNIL:** I/L spine lat-flexion"
 
 ref-longissimus-capitis:
-  path: "/Alchemy Archive/Anatomy/OIANs/Muscles of the back/longissimus.qmd"
+  path: "/The Archive/Anatomy/OIANs/Muscles of the back/longissimus.qmd"
   origin: "T1-T3 (TP), C4-C7 (TP & articular process)"
   insertion: "Temporal bone (Mastoid process)"
   nerve: "[Spinal nn. ]({{< var ref-spinal-nerves.path >}}) C1-L5 (Post rami, lateral branches)"
   action: "**BIL**: Extends head; **UNIL**: Flexes and I/L rotation"
 ref-longissimus-cervicis:
-  path: "/Alchemy Archive/Anatomy/OIANs/Muscles of the back/longissimus.qmd"
+  path: "/The Archive/Anatomy/OIANs/Muscles of the back/longissimus.qmd"
   origin: "T1-T6 (TP)"
   insertion: "C2-C5 (TP)"
   nerve: "[Spinal nn. ]({{< var ref-spinal-nerves.path >}}) C1-L5 (Post rami, lateral branches)"
   action: "**BIL**: Extends spine; **UNIL**: I/L SB"
 ref-longissimus-thoracis:
-  path: "/Alchemy Archive/Anatomy/OIANs/Muscles of the back/longissimus.qmd"
+  path: "/The Archive/Anatomy/OIANs/Muscles of the back/longissimus.qmd"
   origin: "Sacrum; Iliac crest; Lumbar vertebrae (SP); Lower thoracic vertebrae (TP)"
   insertion: "2nd-12th ribs; Thoracic & Lumbar vertebrae (TP)"
   nerve: "[Spinal nn. ]({{< var ref-spinal-nerves.path >}}) C1-L5 (Post rami, lateral branches)"
   action: "**BIL**: Extends spine; **UNIL**: I/L SB"
 
 ref-spinalis-cervicis:
-  path: "/Alchemy Archive/Anatomy/OIANs/Muscles of the back/spinalis.qmd"
+  path: "/The Archive/Anatomy/OIANs/Muscles of the back/spinalis.qmd"
   origin: "C5-T2 (SP)"
   insertion: "C2-C5 (SP)"
   nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
   action: "**BIL**: Extends C/S and T/S; **UNIL**: I/L SB cervical and thoracic spine"
 ref-spinalis-thoracis:
-  path: "/Alchemy Archive/Anatomy/OIANs/Muscles of the back/spinalis.qmd"
+  path: "/The Archive/Anatomy/OIANs/Muscles of the back/spinalis.qmd"
   origin: "T10-L3 (SP, lat surface)"
   insertion: "T2-T8 (SP, lat surface)"
   nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
   action: "**BIL**: Extends C/S and T/S; **UNIL**: I/L SB cervical and thoracic spine"
 
 ref-rotatores-breves:
-  path: "/Alchemy Archive/Anatomy/OIANs/Muscles of the back/rotatores.qmd"
+  path: "/The Archive/Anatomy/OIANs/Muscles of the back/rotatores.qmd"
   origin: "T1-T12 TP of lower vertebrae"
   insertion: "T1-T12: SP of adjacent vertebrae"
   nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
   action: "**BIL**: Extends T/S; **UNIL**: C/L Rotation of T/S"
 ref-rotatores-longi:
-  path: "/Alchemy Archive/Anatomy/OIANs/Muscles of the back/rotatores.qmd"
+  path: "/The Archive/Anatomy/OIANs/Muscles of the back/rotatores.qmd"
   origin: "T1-T12 TP of lower vertebrae"
   insertion: "T1-T12: SP of vertebrae 2 above (it skips a vertebrae)"
   nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
   action: "**BIL**: Extends T/S; **UNIL**: C/L Rotation of T/S"
 
 ref-multifidi:
-  path: "/Alchemy Archive/Anatomy/OIANs/Muscles of the back/multifidus.qmd"
+  path: "/The Archive/Anatomy/OIANs/Muscles of the back/multifidus.qmd"
   origin: "Sacrum, ilium, mamillary process of L1-L5, T1-T4 (TP and Articular process), C4-C7"
   insertion: "Superomedially to SP (skipping 2-4 vertebrae)"
   nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
   action: "**BIL**: Extends extends spine; **UNIL**: I/L SB and C/L Rotation"
 
 ref-semispinalis-capitis:
-  path: "/Alchemy Archive/Anatomy/OIANs/Muscles of the back/semispinalis.qmd"
+  path: "/The Archive/Anatomy/OIANs/Muscles of the back/semispinalis.qmd"
   origin: "C4-T7 (TP and Articular process)"
   insertion: "Occipital bone (between superior and inferior nuchal lines)"
   nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
   action: "**BIL**: Extends thoracic and cervical spines and head (stabilizes craniovertebral jt); **UNIL**: I/L SB of head, cervical, and thoracic spine; C/L Rotation"
 ref-semispinalis-cervicis:
-  path: "/Alchemy Archive/Anatomy/OIANs/Muscles of the back/semispinalis.qmd"
+  path: "/The Archive/Anatomy/OIANs/Muscles of the back/semispinalis.qmd"
   origin: "T1-T6 (TP)"
   insertion: "C2-C5 (SP)"
   nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
   action: "**BIL**: Extends thoracic and cervical spines and head (stabilizes craniovertebral jt); **UNIL**: I/L SB of head, cervical, and thoracic spine; C/L Rotation"
 ref-semispinalis-thoracis:
-  path: "/Alchemy Archive/Anatomy/OIANs/Muscles of the back/semispinalis.qmd"
+  path: "/The Archive/Anatomy/OIANs/Muscles of the back/semispinalis.qmd"
   origin: "T6-T12 (TP)"
   insertion: "C6-T4 (SP)"
   nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
   action: "**BIL**: Extends thoracic and cervical spines and head (stabilizes craniovertebral jt); **UNIL**: I/L SB of head, cervical, and thoracic spine; C/L Rotation"
 
 ref-interspinales-cervicis:
-  path: "/Alchemy Archive/Anatomy/OIANs/Muscles of the back/interspinales.qmd"
+  path: "/The Archive/Anatomy/OIANs/Muscles of the back/interspinales.qmd"
   origin: "C1-C7: SP of inferiorly adjacent vertebrae"
   insertion: "C1-C7: SP of superiorly adjacent vertebrae"
   nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
   action: "Extends cervical and Lumbar spines"
 ref-interspinales-lumbora:
-  path: "/Alchemy Archive/Anatomy/OIANs/Muscles of the back/interspinales.qmd"
+  path: "/The Archive/Anatomy/OIANs/Muscles of the back/interspinales.qmd"
   origin: "L1-L5: SP of inferiorly adjacent vertebrae"
   insertion: "L1-L5: SP of superiorly adjacent vertebrae"
   nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
@@ -233,122 +240,122 @@ ref-interspinales-lumbora:
 
 ### Extraocular muscles
 ref-extraocular-muscles:
-  path: "/Alchemy Archive/Anatomy/OIANs/Extraocular muscles/extraocular_muscles.qmd"
+  path: "/The Archive/Anatomy/OIANs/Extraocular muscles/extraocular_muscles.qmd"
 
 ### Head and neck
 ref-muscles-of-head-and-neck:
-  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/muscles_of_head_and_neck_index.qmd"
+  path: "/The Archive/Anatomy/OIANs/Head and Neck/muscles_of_head_and_neck_index.qmd"
 #### Muscles of Facial Expression
 ref-occipitofrontalis:
-  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/occipitofrontalis.qmd"
+  path: "/The Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/occipitofrontalis.qmd"
   origin: "Epicranial aponeurosis"
   insertion: "Skin and subcutaneous tissue of eyebrows and forehead"
   nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
   action: "Elevates eyebrows; wrinkles skin of forehead"
 ref-procerus:
-  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/procerus.qmd"
+  path: "/The Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/procerus.qmd"
   origin: "Nasal bone, Lateral nasal cartilage (upper part)"
   insertion: "Skin of lower forehead between eyebrows"
   nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
   action: "Pulls medial angle of eyebrows inferiorly, producing transverse wrinkles over bridge of nose"
 ref-orbicularis-oculi:
-  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/orbicularis_oculi.qmd"
+  path: "/The Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/orbicularis_oculi.qmd"
   origin: "Medial orbital margin, medial palpebral ligament, lacrimal bone"
   insertion: "Skin around margin of orbit, superior and inferior tarsal plates"
   nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
   action: "Acts as orbital sphincter (closes eyelids): Palpebral portion gently closes, orbital portion tightly closes (winking)"
 ref-nasalis:
-  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/nasalis.qmd"
+  path: "/The Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/nasalis.qmd"
   origin: "Maxilla (superior region of canine ridge)"
   insertion: "Nasal cartilages"
   nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
   action: "Flares nostrils by drawing ala (side) of nose toward nasal septum"
 ref-levator-labii-superioris-alaeque-nasi:
-  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/levator_labii_superioris_alaeque_nasi.qmd"
+  path: "/The Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/levator_labii_superioris_alaeque_nasi.qmd"
   origin: "Maxilla (Frontal process)"
   insertion: "Alar cartilage of nose and upper lip"
   nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
   action: "Elevates upper lip; Opens nostril"
 ref-anterior-auricular-muscle:
-  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/anterior_auricular_muscle.qmd"
+  path: "/The Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/anterior_auricular_muscle.qmd"
   origin: "Temporal fascia (ant. portion)"
   insertion: "Helix of the ear"
   nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
   action: "Pulls ear superiorly and anteriorly"
 ref-superior-auricular-muscle:
-  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/superior_auricular_muscle.qmd"
+  path: "/The Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/superior_auricular_muscle.qmd"
   origin: "Epicranial aponeurosis on side of head"
   insertion: "Upper portion of auricle"
   nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
   action: "Elevates ear"
 ref-posterior-auricular-muscle:
-  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/posterior_auricular_muscle.qmd"
+  path: "/The Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/posterior_auricular_muscle.qmd"
   origin: "Mastoid process"
   insertion: "Convexity of concha of ear"
   nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
   action: "Pulls ear superiorly and posteriorly"
 ref-zygomaticus-major:
-  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/zygomaticus_major.qmd"
+  path: "/The Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/zygomaticus_major.qmd"
   origin: "Zygomatic bone (lateral surface, post. part)"
   insertion: "Skin at the corner of the mouth"
   nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
   action: "Pulls corner of mouth superiorly and laterally"
 ref-zygomaticus-minor:
-  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/zygomaticus_minor.qmd"
+  path: "/The Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/zygomaticus_minor.qmd"
   origin: "Zygomatic bone (Lat surface, post. part)"
   insertion: "Upper lip just medial to corner of the mouth"
   nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
   action: "Pulls upper lips superiorly"
 ref-levator-labii-superioris:
-  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/levator_labii_superioris.qmd"
+  path: "/The Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/levator_labii_superioris.qmd"
   origin: "Maxilla (Frontal process) and infraorbital region"
   insertion: "Skin of upper lip, Alar cartilages of nose"
   nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
   action: "Elevates upper lip, Dilates nostril, Raises angle of mouth"
 ref-depressor-labii-inferioris:
-  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/depressor_labii_superioris.qmd"
+  path: "/The Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/depressor_labii_superioris.qmd"
   origin: "Mandible (ant portion of oblique line)"
   insertion: "Lower lip at midline; blends with muscle from opposite side"
   nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
   action: "Pulls lower lip inferiorly and laterally"
 ref-levator-anguli-oris:
-  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/levator_anguli_oris.qmd"
+  path: "/The Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/levator_anguli_oris.qmd"
   origin: "Maxilla (below infraorbital foramen)"
   insertion: "Skin at corner of mouth"
   nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
   action: "Raises angle of mouth, Helps form nasolabial furrow"
 ref-depressor-anguli-oris:
-  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/depressor_anguli_oris.qmd"
+  path: "/The Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/depressor_anguli_oris.qmd"
   origin: "Mandible (oblique line below canine, premolar, and 1st molar teeth)"
   insertion: "Skin at corner of the mouth; Blends with [orbicularis oris]({{< var ref-orbicularis-oris >}})"
   nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
   action: "Pulls angle of mouth inferiorly and laterally"
 ref-buccinator:
-  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/buccinator.qmd"
+  path: "/The Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/buccinator.qmd"
   origin: "Mandible, Alveolar process of maxilla and mandible, Pterygomandibular raphe"
   insertion: "Angle of mouth, Orbicularis Oris"
   nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
   action: "**BIL**: Presses cheek against molar teeth, working with tongue to keep food between occlusal surfaces and out of oral vestibule; expels air from oral cavity/resists distension when blowing; **UNIL**: Draws mouth to one side"
 ref-orbicularis-oris:
-  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/orbicularis_oris.qmd"
+  path: "/The Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/orbicularis_oris.qmd"
   origin: "Deep surface of skin; **Superiorly**: maxilla (median plane); **Inferiorly**: mandible"
   insertion: "Mucous membrane of lips"
   nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
   action: "Acts as oral sphincter: Compresses and protrudes lips (whistling, sucking, kissing); Resists distension (when blowing)"
 ref-risorius:
-  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/risorius.qmd"
+  path: "/The Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/risorius.qmd"
   origin: "Fascia over [masseter]({{< var ref-masseter.path >}})"
   insertion: "Skin of corner of the mouth"
   nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
   action: "Retracts corner of mouth as in grimacing"
 ref-mentalis-muscle:
-  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/mentalis_muscle.qmd"
+  path: "/The Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/mentalis_muscle.qmd"
   origin: "Mandible (incisive fossa)"
   insertion: "Skin of chin"
   nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
   action: "Elevates and protrudes lower lip"
 ref-platysma:
-  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/platysma.qmd"
+  path: "/The Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/platysma.qmd"
   origin: "Skin over lower neck and upper lateral thorax"
   insertion: "Mandible (inf border), Skin over lower face, Angle of mouth"
   nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
@@ -356,25 +363,25 @@ ref-platysma:
 
 #### Muscles of Mastication
 ref-masseter:
-  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Mastication/masseter.qmd"
+  path: "/The Archive/Anatomy/OIANs/Head and Neck/Muscles of Mastication/masseter.qmd"
   origin: "**SF layer**: zygomatic arch (ant 2/3); **Deep layer**: Zygomatic arch (post. 1/3)"
   insertion: "Mandibular angle (Masseteric tuberosity)"
   nerve: "[Trigeminal CN V: Mandibular (V~3~)]({{< var ref-cn5.path >}})"
   action: "**Entire muscle**: Elevates mandible; **SF Fibers**: Protrude mandible"
 ref-temporalis:
-  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Mastication/temporalis_muscle.qmd"
+  path: "/The Archive/Anatomy/OIANs/Head and Neck/Muscles of Mastication/temporalis_muscle.qmd"
   origin: "Temporal fossa (inferior temporal line)"
   insertion: "Coronoid process of mandible (apex and medial surface)"
   nerve: "[Mandibular (V~3~) divison of CN V via deep temporal nn]({{< var ref-cn5.path >}})"
   action: "**Vertical fibers**: Elevate mandible; **Horizontal Fibers**: Retract (retrude) mandible; **Unilateral Fibers:** Lateral movement of mandible (chewing)"
 ref-lateral-pterygoid:
-  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Mastication/lateral_pterygoid.qmd"
+  path: "/The Archive/Anatomy/OIANs/Head and Neck/Muscles of Mastication/lateral_pterygoid.qmd"
   origin: "**Superior Head:** Greater wing of sphenoid bone (infratemporal crest); **Inferior head:** Lateral surface of pterygoid plate (lat surface)"
   insertion: "**Superior Head:** Tempormandibular joint (articular disc); **Inferior head:** Mandible (condylar process)"
   nerve: "[Mandibular (V~3~) divison of CN V via lateral pterygoid n.]({{< var ref-cn5.path >}})"
   action: "**BIL:** Protrudes mandible (pulls articular disk forward); **UNIL:** Lateral movements of mandible (chewing)"
 ref-medial-pterygoid:
-  path: "/Alchemy Archive/Anatomy/OIANs/Head and Neck/Muscles of Mastication/medial_pterygoid.qmd"
+  path: "/The Archive/Anatomy/OIANs/Head and Neck/Muscles of Mastication/medial_pterygoid.qmd"
   origin: "**SF Head:** Maxilla (tuberosity); **Deep head:** Medial surface of lateral pterygoid plate and pterygoid fossa"
   insertion: "Pterygoid tuberosity on medial surface of the mandibular angle"
   nerve: "[Mandibular (V~3~) divison of CN V via medial pterygoid n.]({{< var ref-cn5.path >}})"
@@ -383,21 +390,21 @@ ref-medial-pterygoid:
 ### Shoulder and arm muscles
 
 ref-deltoid-muscle:
-  path: "/Alchemy Archive/Anatomy/OIANs/Shoulder and Arm Muscles/deltoid_muscle.qmd"
+  path: "/The Archive/Anatomy/OIANs/Shoulder and Arm Muscles/deltoid_muscle.qmd"
 ref-deltoid-muscle-anterior:
-  path: "/Alchemy Archive/Anatomy/OIANs/Shoulder and Arm Muscles/deltoid_muscle.qmd"
+  path: "/The Archive/Anatomy/OIANs/Shoulder and Arm Muscles/deltoid_muscle.qmd"
   origin: "Lateral 1/3 of clavicle"
   insertion: "Humerus (deltoid tuberosity)"
   nerve: "[Axillary n. {{< var ref-axillary-nerve.roots >}}]({{< var ref-axillary-nerve.path >}})"
   action: "Flexion, internal rotation, adduction"
 ref-deltoid-muscle-lateral:
-  path: "/Alchemy Archive/Anatomy/OIANs/Shoulder and Arm Muscles/deltoid_muscle.qmd"
+  path: "/The Archive/Anatomy/OIANs/Shoulder and Arm Muscles/deltoid_muscle.qmd"
   origin: "Acromion"
   insertion: "Humerus (deltoid tuberosity)"
   nerve: "[Axillary n. {{< var ref-axillary-nerve.roots >}}]({{< var ref-axillary-nerve.path >}})"
   action: "Abduction"
 ref-deltoid-muscle-posterior:
-  path: "/Alchemy Archive/Anatomy/OIANs/Shoulder and Arm Muscles/deltoid_muscle.qmd"
+  path: "/The Archive/Anatomy/OIANs/Shoulder and Arm Muscles/deltoid_muscle.qmd"
   origin: "Scapular spine"
   insertion: "Humerus (deltoid tuberosity)"
   nerve: "[Axillary n. {{< var ref-axillary-nerve.roots >}}]({{< var ref-axillary-nerve.path >}})"
@@ -405,25 +412,25 @@ ref-deltoid-muscle-posterior:
 
 #### Rotator cuff
 ref-supraspinatus:
-  path: "/Alchemy Archive/Anatomy/OIANs/Shoulder and Arm Muscles/supraspinatus_muscle.qmd"
+  path: "/The Archive/Anatomy/OIANs/Shoulder and Arm Muscles/supraspinatus_muscle.qmd"
   origin: "Supraspinous Fossa of [scapula]({{< var ref-scapula-bone.path >}})"
   insertion: "Greater tubercle of [Humerus]({{< var ref-humerus-bone.path >}})"
   nerve: "[Suprascapular nerve (C4-C6)]({{< var ref-suprascapular-nerve.path >}})"
   action: "Initiates abduction"
 ref-infraspinatus:
-  path: "/Alchemy Archive/Anatomy/OIANs/Shoulder and Arm Muscles/infraspinatus_muscle.qmd"
+  path: "/The Archive/Anatomy/OIANs/Shoulder and Arm Muscles/infraspinatus_muscle.qmd"
   origin: "Infraspinous Fossa of [scapula]({{< var ref-scapula-bone.path >}})"
   insertion: "Greater tubercle of [Humerus]({{< var ref-humerus-bone.path >}})"
   nerve: "[Suprascapular nerve {{< var ref-suprascapular-nerve.roots >}}]({{< var ref-suprascapular-nerve.path >}})"
   action: "External rotation"
 ref-subscapularis:
-  path: "/Alchemy Archive/Anatomy/OIANs/Shoulder and Arm Muscles/subscapularis_muscle.qmd"
+  path: "/The Archive/Anatomy/OIANs/Shoulder and Arm Muscles/subscapularis_muscle.qmd"
   origin: "Subscapular fossa of [scapula]({{< var ref-scapula-bone.path >}})"
   insertion: "Lesser tubercle of [Humerus]({{< var ref-humerus-bone.path >}})"
   nerve: "[Upper and Lower subscapular nerves (C5, C6)]({{< var ref-upper-subscapular-nerve.path >}})"
   action: "Internal Rotation"
 ref-teres-minor:
-  path: "/Alchemy Archive/Anatomy/OIANs/Shoulder and Arm Muscles/teres_minor_muscle.qmd"
+  path: "/The Archive/Anatomy/OIANs/Shoulder and Arm Muscles/teres_minor_muscle.qmd"
   origin: "Lateral border of [scapula]({{< var ref-scapula-bone.path >}})"
   insertion: "Greater tubercle of [Humerus]({{< var ref-humerus-bone.path >}})"
   nerve: "[Axillary n. (C5, C6)]({{< var ref-axillary-nerve.path >}})"
@@ -437,25 +444,25 @@ ref-teres-major:
 
 ### Pectoral Girdle
 ref-pectoralis-major:
-  path: "/Alchemy Archive/Anatomy/OIANs/Shoulder and Arm Muscles/pectoralis_major_muscle.qmd"
+  path: "/The Archive/Anatomy/OIANs/Shoulder and Arm Muscles/pectoralis_major_muscle.qmd"
   origin: "[Clavicle (medial half)]({{< var ref-clavicle-bone.path >}}), [sternum]({{< var ref-sternum-bone.path >}}), [costal cartilages 1–6]({{< var ref-costal-cartilages.path >}}), [rectus sheath (anterior layer)]({{< var ref-rectus-sheath.path >}})"
   insertion: "[Humerus (crest of greater tubercle)]({{< var ref-humerus-bone.path >}})"
   nerve: "[Lateral pectoral nerve]({{< var ref-lateral-pectoral-nerve.path >}}) and [Medial pectoral nerve]({{< var ref-medial-pectoral-nerve.path >}}) (C5-T1)"
   action: "**Entire muscle**: adduction, internal rotation; **Clavicular and sternocostal parts**: flexion; assist in respiration when shoulder is fixed"
 ref-pectoralis-minor:
-  path: "/Alchemy Archive/Anatomy/OIANs/Shoulder and Arm Muscles/pectoralis_minor_muscle.qmd"
+  path: "/The Archive/Anatomy/OIANs/Shoulder and Arm Muscles/pectoralis_minor_muscle.qmd"
   origin: "[3rd to 5th ribs]({{< var ref-ribs-bones.path >}})"
   insertion: "[Coracoid process]({{< var ref-scapula-bone.path >}})"
   nerve: "[Medial Pectoral n. (C8, T1)]({{< var ref-medial-pectoral-nerve.path >}})"
   action: "Draws scapula downward, causing inferior angle to move posteromedially; rotates glenoid inferiorly; assists in respiration"
 ref-coracobrachialis:
-  path: "/Alchemy Archive/Anatomy/OIANs/Shoulder and Arm Muscles/coracobrachialis_muscle.qmd"
+  path: "/The Archive/Anatomy/OIANs/Shoulder and Arm Muscles/coracobrachialis_muscle.qmd"
   origin: "[Scapula (coracoid process)]({{< var ref-scapula-bone.path >}})"
   insertion: "[Humerus (in line with crest of lesser tubercle)]({{< var ref-humerus-bone.path >}})"
   nerve: "[Musculocutaneous n. (C5–C7)]({{< var ref-musculocutaneous-nerve.path >}})"
   action: "Flexion, adduction, internal rotation"
 ref-subclavius:
-  path: "/Alchemy Archive/Anatomy/OIANs/Shoulder and Arm Muscles/subclavius_muscle.qmd"
+  path: "/The Archive/Anatomy/OIANs/Shoulder and Arm Muscles/subclavius_muscle.qmd"
   origin: "[1st rib]({{< var ref-1st-rib.path >}})"
   insertion: "[Clavicle (inferior surface)]({{< var ref-clavicle-bone.path >}})"
   nerve: "[N. to subclavius (C5, C6)]({{< var ref-nerve-to-subclavius.path >}})"
@@ -464,56 +471,56 @@ ref-subclavius:
 
 ## Nerve
 ref-suboccipital-nerve: 
-  path: /Alchemy Archive/Anatomy/Nerves/suboccipital_nerve.qmd
+  path: /The Archive/Anatomy/Nerves/suboccipital_nerve.qmd
 
 ref-spinal-nerves: 
-  path: /Alchemy Archive/Anatomy/Nerves/spinal_nerves.qmd
+  path: /The Archive/Anatomy/Nerves/spinal_nerves.qmd
 
 ### Upper extremity nerve
 ref-axillary-nerve:
-  path: "/Alchemy Archive/Anatomy/Nerves/Upper extremity nerves/axillary_nerve.qmd"
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/axillary_nerve.qmd"
   roots: (C5, C6)
 ref-suprascapular-nerve:
-  path: "/Alchemy Archive/Anatomy/Nerves/Upper extremity nerves/suprascapular_nerve.qmd"
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/suprascapular_nerve.qmd"
   roots: "(C4-C6)"
 ref-upper-subscapular-nerve:
-  path: "/Alchemy Archive/Anatomy/Nerves/Upper extremity nerves/subscapular_nerve.qmd"
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/subscapular_nerve.qmd"
   roots: ""
 ref-lateral-pectoral-nerve:
-  path: "/Alchemy Archive/Anatomy/Nerves/Upper extremity nerves/lateral_pectoral_nerve.qmd"
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/lateral_pectoral_nerve.qmd"
 ref-medial-pectoral-nerve:
-  path: "/Alchemy Archive/Anatomy/Nerves/Upper extremity nerves/medial_pectoral_nerve.qmd"
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/medial_pectoral_nerve.qmd"
 ref-musculocutaneous-nerve:
-  path: "/Alchemy Archive/Anatomy/Nerves/Upper extremity nerves/musculocutaneous_nerve.qmd"
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/musculocutaneous_nerve.qmd"
 ref-nerve-to-subclavius:
-  path: "/Alchemy Archive/Anatomy/Nerves/Upper extremity nerves/nerve_to_subclavius.qmd"
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/nerve_to_subclavius.qmd"
 
 ## Ligaments
 
 ref-nuchal-ligament:
-  path: "/Alchemy Archive/Anatomy/Ligaments/nuchal_ligament.qmd"
+  path: "/The Archive/Anatomy/Ligaments/nuchal_ligament.qmd"
 
 
 # Evidence Based Practice (EBP)
 ref-EBP-index:
-  path: "/Alchemy Archive/Evidene Based Practice/EBP_index.qmd"
+  path: "/The Archive/Evidene Based Practice/EBP_index.qmd"
 ## Multivariate Data analysis
 ### Correlation
 ref-correlation-overview:
-  path: "/Alchemy Archive/Evidene Based Practice/Multivariate Data Analysis/Correlation/correlation_overview.qmd"
+  path: "/The Archive/Evidene Based Practice/Multivariate Data Analysis/Correlation/correlation_overview.qmd"
 ref-linear-correlation:
-  path: "/Alchemy Archive/Evidene Based Practice/Multivariate Data Analysis/linear_correlation.qmd"
+  path: "/The Archive/Evidene Based Practice/Multivariate Data Analysis/linear_correlation.qmd"
 ref-pearson-product-moment-correlation:
-  path: "/Alchemy Archive/Evidene Based Practice/Multivariate Data Analysis/Correlation/pearson_product-moment_correlation.qmd"
+  path: "/The Archive/Evidene Based Practice/Multivariate Data Analysis/Correlation/pearson_product-moment_correlation.qmd"
 ref-spearman-rank-coefficient:
-  path: "/Alchemy Archive/Evidene Based Practice/Multivariate Data Analysis/Correlation/spearman_rank_coefficient.qmd"
+  path: "/The Archive/Evidene Based Practice/Multivariate Data Analysis/Correlation/spearman_rank_coefficient.qmd"
 
 ref-t-test:
-  path: "/Alchemy Archive/Evidene Based Practice/Multivariate Data Analysis/T-test.qmd"
+  path: "/The Archive/Evidene Based Practice/Multivariate Data Analysis/T-test.qmd"
 ref-statistical-analysis-overview:
-  path: "/Alchemy Archive/Evidene Based Practice/Multivariate Data Analysis/statistical_analysis_overview.qmd"
+  path: "/The Archive/Evidene Based Practice/Multivariate Data Analysis/statistical_analysis_overview.qmd"
 ref-mann-whitney-u-test:
-  path: "/Alchemy Archive/Evidene Based Practice/Multivariate Data Analysis/Mann-Whitney_U_test.qmd"
+  path: "/The Archive/Evidene Based Practice/Multivariate Data Analysis/Mann-Whitney_U_test.qmd"
 
 # Examination
 ## Movement Analysis
@@ -522,213 +529,220 @@ ref-mann-whitney-u-test:
 
 ### Cervical T&M
 ref-VBI-vertebrobasilar-insufficiency-test:
-  path: "/Alchemy Archive/Tests and Measures/Cervical Tests and Measures/VBI_vertebrobasilar_insufficiency_test.qmd"
+  path: "/The Archive/Tests and Measures/Cervical Tests and Measures/VBI_vertebrobasilar_insufficiency_test.qmd"
   sensitivity: ""
   specificity: ""
 
 ### Upper Extremity tests
 ref-infraspinatus-muscle-test:
-  path: "/Alchemy Archive/Examination/Tests and Measures/Upper Extremity Tests/infraspinatus_muscle_test.qmd"
+  path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/infraspinatus_muscle_test.qmd"
 ref-ERLS-external-rotation-lag-sign:
-  path: "/Alchemy Archive/Examination/Tests and Measures/Upper Extremity Tests/ERLS_external_rotation_lag_sign_test.qmd"
+  path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/ERLS_external_rotation_lag_sign_test.qmd"
 ref-neer-impingement-test:
-  path: "/Alchemy Archive/Examination/Tests and Measures/Upper Extremity Tests/neer_impingement_test.qmd"
+  path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/neer_impingement_test.qmd"
 ref-hawkins-kennedy-test:
-  path: "/Alchemy Archive/Examination/Tests and Measures/Upper Extremity Tests/hawkins-kennedy_test.qmd"
+  path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/hawkins-kennedy_test.qmd"
 
 ### Lower extremity tests
 ref-fulcrum-test-stress-fracture:
-  path: "/Alchemy Archive/Examination/Tests and Measures/Lower extremity tests/fulcrum_test_stress_fracture.qmd"
+  path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/fulcrum_test_stress_fracture.qmd"
 
 # genetics & Genomics
 ref-sod1: 
-  path: "/Alchemy Archive/Genetics and genomics/SOD1_superoxide_dismutase_1.qmd"
+  path: "/The Archive/Genetics and genomics/SOD1_superoxide_dismutase_1.qmd"
 
 # Interventions
 ref-interventions-index:
-  path: "/Alchemy Archive/Interventions/interventions_index.qmd"
+  path: "/The Archive/Interventions/interventions_index.qmd"
 ## Cryotherapy
 ref-icing-cryotherapy:
-  path: "/Alchemy Archive/Interventions/Cryotherapy/icing_cryotherapy.qmd"
+  path: "/The Archive/Interventions/Cryotherapy/icing_cryotherapy.qmd"
 
 # Microbiology
 ref-microbiology-index:
-  path: "/Alchemy Archive/Microbiology/microbiology_index.qmd"
+  path: "/The Archive/Microbiology/microbiology_index.qmd"
 ## Cells
-ref-CD34:
-  path: "/Alchemy Archive/Microbiology/Cells/CD34_cell.qmd"
+ref-cd34:
+  path: "/The Archive/Microbiology/Cells/CD34_cell.qmd"
+## Enzymes
+ref-creatine-kinase:
+  path: "/The Archive/Microbiology/Enzymes/creatine_kinase.qmd"
+ref-superoxide-dismutases-group: 
+  path: "/The Archive/Microbiology/Enzymes/superoxide_dismutases_group.qmd"
+ref-CuZnSOD-copper-zinc-superoxide-dismutase:
+  path: "/The Archive/Microbiology/Enzymes/CuZnSOD_copper-zinc_superoxide_dismutase.qmd"
+ref-diamine-oxidase:
+  path: "/The Archive/Microbiology/Enzymes/diamine_oxidase.qmd"
+
 ## Proteins
 ref-von-willebrand-factor:
-  path: "/Alchemy Archive/Microbiology/Proteins/Von_Willebrand_factor.qmd"
+  path: "/The Archive/Microbiology/Proteins/Von_Willebrand_factor.qmd"
 ref-vascular-endothelial-growth-factor:
-  path: "/Alchemy Archive/Microbiology/Proteins/vascular_endothelial_growth_factor.qmd"
+  path: "/The Archive/Microbiology/Proteins/vascular_endothelial_growth_factor.qmd"
+ref-nestin-protein:
+  path: "/The Archive/Microbiology/Proteins/nestin_protein.qmd"
 
 # Physiology
 
 ## Blood
 
 
-## Enzymes
-ref-superoxide-dismutases-group: 
-  path: "/Alchemy Archive/Physiology/Enzymes/superoxide_dismutases_group.qmd"
 
-ref-CuZnSOD-copper-zinc-superoxide-dismutase:
-  path: "/Alchemy Archive/Physiology/Enzymes/CuZnSOD_copper-zinc_superoxide_dismutase.qmd"
 
 ## Inflammation
 ref-inflammation-index:
-  path: "/Alchemy Archive/Physiology/Inflammation/inflammation_index.qmd"
+  path: "/The Archive/Physiology/Inflammation/inflammation_index.qmd"
 ### Inflammatory cells
 ref-neutrophil:
-  path: "/Alchemy Archive/Physiology/Immune system/Immune cells/neutrophils.qmd"
+  path: "/The Archive/Physiology/Immune system/Immune cells/neutrophils.qmd"
 ref-macrophage:
-  path: "/Alchemy Archive/Physiology/Immune system/Immune cells/macrophages.qmd"
+  path: "/The Archive/Physiology/Immune system/Immune cells/macrophages.qmd"
 
 ## Minerals
 ref-copper: 
-  path: "/Alchemy Archive/Physiology/Minerals/copper.qmd"
+  path: "/The Archive/Physiology/Minerals/copper.qmd"
 ref-iron:
-  path: "/Alchemy Archive/Physiology/Minerals/iron.qmd"
+  path: "/The Archive/Physiology/Minerals/iron.qmd"
 ## Muscle
 
 ## Neurotransmitters
 ref-glutamate:
-  path: "/Alchemy Archive/Physiology/Neurotransmitters/glutamate.qmd"
+  path: "/The Archive/Physiology/Neurotransmitters/glutamate.qmd"
 
 ## Neutrophic factors
 
 ref-neurotrophic-hormone-deficiency-theory: 
-  path: "/Alchemy Archive/Physiology/Neutrotrophic Factors/neurotrophic-hormone-deficiency-theory.qmd"
+  path: "/The Archive/Physiology/Neutrotrophic Factors/neurotrophic-hormone-deficiency-theory.qmd"
 
 ## Nutrients
 ref-coenzyme-q10:
-  path: "/Alchemy Archive/Physiology/Nutrients/coenzyme_Q10.qmd"
+  path: "/The Archive/Physiology/Nutrients/coenzyme_Q10.qmd"
 
 ## Physiology of stress
 ref-oxidative-stress: 
-  path: "/Alchemy Archive/Physiology/Physiology of stress/Oxidative_stress.qmd"
+  path: "/The Archive/Physiology/Physiology of stress/Oxidative_stress.qmd"
 
 ## Transporters
 ref-EAAT2-excitatory-amino-acid-transporter-2:
-  path: "/Alchemy Archive/Physiology/Transporters/EAAT2_excitatory_amino_acid_transporter_2.qmd"
+  path: "/The Archive/Physiology/Transporters/EAAT2_excitatory_amino_acid_transporter_2.qmd"
 
 # Pain science
 
 
 ## CRPS 
 ref-CRPS: 
-  path: "/Alchemy Archive/Pain_science/Complex regional pain syndrome/CRPS_complex_regional_pain_syndrome.qmd"
+  path: "/The Archive/Pain_science/Complex regional pain syndrome/CRPS_complex_regional_pain_syndrome.qmd"
 
 ref-CRPS-type1: 
-  path: "/Alchemy Archive/Pain_science/Complex regional pain syndrome/CRPS_Type1.qmd"
+  path: "/The Archive/Pain_science/Complex regional pain syndrome/CRPS_Type1.qmd"
 
 ref-CRPS-type2:
-  path: "/Alchemy Archive/Pain_science/Complex regional pain syndrome/CRPS_Type2.qmd"
+  path: "/The Archive/Pain_science/Complex regional pain syndrome/CRPS_Type2.qmd"
 
 ## Interventions
 
 ## Pain terms and Taxonomies
 ref-acute-pain:
-  path: "/Alchemy Archive/Pain_science/Pain terms and Taxonomies/acute_pain.qmd"
+  path: "/The Archive/Pain_science/Pain terms and Taxonomies/acute_pain.qmd"
 ref-chronic-pain:
-  path: "/Alchemy Archive/Pain_science/Pain terms and Taxonomies/chronic_pain.qmd"
+  path: "/The Archive/Pain_science/Pain terms and Taxonomies/chronic_pain.qmd"
 ref-cancer-pain:
-  path: "/Alchemy Archive/Pain_science/Pain terms and Taxonomies/cancer_pain.qmd"
+  path: "/The Archive/Pain_science/Pain terms and Taxonomies/cancer_pain.qmd"
 ref-recurrent-pain:
-  path: "/Alchemy Archive/Pain_science/Pain terms and Taxonomies/recurrent_pain.qmd"
+  path: "/The Archive/Pain_science/Pain terms and Taxonomies/recurrent_pain.qmd"
 ref-transient-pain:
-  path: "/Alchemy Archive/Pain_science/Pain terms and Taxonomies/transient_pain.qmd"
+  path: "/The Archive/Pain_science/Pain terms and Taxonomies/transient_pain.qmd"
 ref-pain-overview:
-  path: "/Alchemy Archive/Pain_science/Pain terms and Taxonomies/pain_overview.qmd"
+  path: "/The Archive/Pain_science/Pain terms and Taxonomies/pain_overview.qmd"
 
 ## Sensitization
 ref-allodynia:
-  path: "/Alchemy Archive/Pain_science/Sensitization/allodynia.qmd"
+  path: "/The Archive/Pain_science/Sensitization/allodynia.qmd"
 ref-analgesia:
-  path: "/Alchemy Archive/Pain_science/Sensitization/analgesia.qmd"
+  path: "/The Archive/Pain_science/Sensitization/analgesia.qmd"
 ref-central-sensitization:
-  path: "/Alchemy Archive/Pain_science/Sensitization/central_sensitization.qmd"
+  path: "/The Archive/Pain_science/Sensitization/central_sensitization.qmd"
 ref-hyperalgesia:
-  path: "/Alchemy Archive/Pain_science/Sensitization/hyperalgesia.qmd"
+  path: "/The Archive/Pain_science/Sensitization/hyperalgesia.qmd"
 
 ## PS - Interventions
 ref-graded-motor-imagery: 
-  path: "/Alchemy Archive/Pain_science/interventions/graded_motor_imagery.qmd"
+  path: "/The Archive/Pain_science/interventions/graded_motor_imagery.qmd"
 
 
 # Pathologies
 ## Bone pathologies
 ref-periostitis:
-  path: "/Alchemy Archive/Pathologies/Bone pathologies/periostitis.qmd"
+  path: "/The Archive/Pathologies/Bone pathologies/periostitis.qmd"
 
 ## Endocrine pathologies
 ### Pituitary system pathologies
 #### Pituitary Hypofunction
 ##### Gondaotropin deficiency
 ref-gonadotropin-deficiency:
-  path: "/Alchemy Archive/Pathologies/Endocrine Pathologies/Disorders of the Pituitary Hormone System/Pituitary Hypofunction/Gonadotropin Deficiency/gonadotropin_deficiency.qmd"
+  path: "/The Archive/Pathologies/Endocrine Pathologies/Disorders of the Pituitary Hormone System/Pituitary Hypofunction/Gonadotropin Deficiency/gonadotropin_deficiency.qmd"
 ref-kallmann-syndrome:
-  path: "/Alchemy Archive/Pathologies/Endocrine Pathologies/Disorders of the Pituitary Hormone System/Pituitary Hypofunction/Gonadotropin Deficiency/kallmann_syndrome.qmd"
+  path: "/The Archive/Pathologies/Endocrine Pathologies/Disorders of the Pituitary Hormone System/Pituitary Hypofunction/Gonadotropin Deficiency/kallmann_syndrome.qmd"
 
 ## MSK Pathologies
 ### Head and Neck
 ref-VBI-vertebrobasilar-insufficiency:
-  path: "/Alchemy Archive/Pathologies/MSK Pathologies/Head and neck/vertebrobasilar_insufficiency.qmd"
+  path: "/The Archive/Examination/Tests and Measures/Cervical Tests and Measures/VBI_vertebrobasilar_insufficiency_test.qmd"
 ### Trunk
 ref-chronic-low-back-pain: 
-  path: "/Alchemy Archive/Pathologies/MSK Pathologies/Trunk/chronic_low_back_pain.qmd"
+  path: "/The Archive/Pathologies/MSK Pathologies/Trunk/chronic_low_back_pain.qmd"
 ref-acute-low-back-pain: 
-  path: "/Alchemy Archive/Pathologies/MSK Pathologies/Trunk/acute_low_back_pain.qmd"
+  path: "/The Archive/Pathologies/MSK Pathologies/Trunk/acute_low_back_pain.qmd"
 ref-rib-fracture:
-  path: "/Alchemy Archive/Pathologies/MSK Pathologies/Trunk/rib_fracture.qmd"
+  path: "/The Archive/Pathologies/MSK Pathologies/Trunk/rib_fracture.qmd"
 ref-rib-stress-fracture:
-  path: "/Alchemy Archive/Pathologies/MSK Pathologies/Trunk/rib_fracture.qmd"
+  path: "/The Archive/Pathologies/MSK Pathologies/Trunk/rib_fracture.qmd"
 ### Upper Extremity
 ref-lateral-epicondylitis:
-  path: "/Alchemy Archive/Pathologies/MSK Pathologies/Upper extremity/lateral_epicondylitis.qmd"
+  path: "/The Archive/Pathologies/MSK Pathologies/Upper extremity/lateral_epicondylitis.qmd"
 ref-thoracic-outlet-syndrome:
-  path: "/Alchemy Archive/Pathologies/MSK Pathologies/Upper extremity/thoracic_outlet_syndrome.qmd"
+  path: "/The Archive/Pathologies/MSK Pathologies/Upper extremity/thoracic_outlet_syndrome.qmd"
 ### Lower Extremity
 pelvic-stress-fracture:
-  path: "/Alchemy Archive/Pathophysiology/stress_reactions_and_fractures.qmd"
+  path: "/The Archive/Pathophysiology/stress_reactions_and_fractures.qmd"
 femoral-shaft-stress-fracture:
-  path: "/Alchemy Archive/Pathophysiology/stress_reactions_and_fractures.qmd"
+  path: "/The Archive/Pathophysiology/stress_reactions_and_fractures.qmd"
 adductor-muscle-strain:
-  path: "/Alchemy Archive/Pathologies/MSK Pathologies/Lower extremity/adductor_muscle_strain.qmd"
+  path: "/The Archive/Pathologies/MSK Pathologies/Lower extremity/adductor_muscle_strain.qmd"
 
 # Pathophysiology
 ref-stress-reactions-and-fractures:
-  path: "/Alchemy Archive/Pathophysiology/stress_reactions_and_fractures.qmd"
+  path: "/The Archive/Pathophysiology/stress_reactions_and_fractures.qmd"
 
 # Performance training
 ## Golf
 ref-golf-index:
-  path: "/Alchemy Archive/Performance Training/Golf/golf_index.qmd"
+  path: "/The Archive/Performance Training/Golf/golf_index.qmd"
 ref-golf-overview:
-  path: "/Alchemy Archive/Performance Training/Golf/golf_overview.qmd"
+  path: "/The Archive/Performance Training/Golf/golf_overview.qmd"
 ref-golf-injuries:
-  path: "/Alchemy Archive/Performance Training/Golf/golf_injuries.qmd"
+  path: "/The Archive/Performance Training/Golf/golf_injuries.qmd"
 ## Surfing
 ref-surfing-aerials:
-  path: "/Alchemy Archive/Performance Training/Surfing/surfing_aerials.qmd"
+  path: "/The Archive/Performance Training/Surfing/surfing_aerials.qmd"
 ref-surfing-carve:
-  path: "/Alchemy Archive/Performance Training/Surfing/surfing_carve.qmd"
+  path: "/The Archive/Performance Training/Surfing/surfing_carve.qmd"
 ref-surfing-cutback:
-  path: "/Alchemy Archive/Performance Training/Surfing/surfing_cutback.qmd"
+  path: "/The Archive/Performance Training/Surfing/surfing_cutback.qmd"
 ref-surfing-definitions:
-  path: "/Alchemy Archive/Performance Training/Surfing/surfing_definitions.qmd"
+  path: "/The Archive/Performance Training/Surfing/surfing_definitions.qmd"
 ref-surfing-index:
-  path: "/Alchemy Archive/Performance Training/Surfing/surfing_index.qmd"
+  path: "/The Archive/Performance Training/Surfing/surfing_index.qmd"
 ref-surfing-injuries:
-  path: "/Alchemy Archive/Performance Training/Surfing/surfing_injuries.qmd"
+  path: "/The Archive/Performance Training/Surfing/surfing_injuries.qmd"
 ref-surfing-overview:
-  path: "/Alchemy Archive/Performance Training/Surfing/surfing_overview.qmd"
+  path: "/The Archive/Performance Training/Surfing/surfing_overview.qmd"
 ref-surfing-paddling:
-  path: "/Alchemy Archive/Performance Training/Surfing/surfing_paddling.qmd"
+  path: "/The Archive/Performance Training/Surfing/surfing_paddling.qmd"
 ref-surfing-resources:
-  path: "/Alchemy Archive/Performance Training/Surfing/surfing_resources.qmd"
+  path: "/The Archive/Performance Training/Surfing/surfing_resources.qmd"
 ref-surfing-takeoff:
-  path: "/Alchemy Archive/Performance Training/Surfing/surfing_takeoff_popup.qmd"
+  path: "/The Archive/Performance Training/Surfing/surfing_takeoff_popup.qmd"
 
   
 
@@ -737,174 +751,174 @@ ref-surfing-takeoff:
 ## Neuroanatomy
 ### Basal ganglia
 ref-basal-ganglia:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Basal Ganglia/basal_ganglia.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Basal Ganglia/basal_ganglia.qmd"
 ref-lentiform-nucleus:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Basal Ganglia/lentiform_nucleus.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Basal Ganglia/lentiform_nucleus.qmd"
 ref-striatum:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Basal Ganglia/striatum.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Basal Ganglia/striatum.qmd"
 ref-putamen:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Basal Ganglia/putamen.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Basal Ganglia/putamen.qmd"
 ref-caudate-nucleus:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Basal Ganglia/caudate_nucleus.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Basal Ganglia/caudate_nucleus.qmd"
 ref-globus-pallidus:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Basal Ganglia/globus_pallidus.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Basal Ganglia/globus_pallidus.qmd"
 ref-subthalamic-nucleus:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Basal Ganglia/subthalamic_nucleus.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Basal Ganglia/subthalamic_nucleus.qmd"
 ref-substantia-nigra:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Basal Ganglia/substantia_nigra.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Basal Ganglia/substantia_nigra.qmd"
 
 ### Cranial Nerves
 ref-cranial-nerve-overview:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/cranial_nerve_overview.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/cranial_nerve_overview.qmd"
 ref-cn1:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN1_Olfactory.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/CN1_Olfactory.qmd"
 ref-cn2:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN2_Optic.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/CN2_Optic.qmd"
 ref-cn3:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN3_Oculomotor.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/CN3_Oculomotor.qmd"
 ref-cn4:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN4_Trochlear.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/CN4_Trochlear.qmd"
 ref-cn5:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN5_Trigeminal.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/CN5_Trigeminal.qmd"
 ref-cn6:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN6_Abducens.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/CN6_Abducens.qmd"
 ref-cn7:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN7_Facial.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/CN7_Facial.qmd"
 ref-cn8:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN8_Vestibulocochlear.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/CN8_Vestibulocochlear.qmd"
 ref-cn9:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN9_Glossopharyngeal.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/CN9_Glossopharyngeal.qmd"
 ref-cn10:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN10_Vagus.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/CN10_Vagus.qmd"
 ref-cn11:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN11_Accessory.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/CN11_Accessory.qmd"
 ref-cn12:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/CN12_Hypoglossal.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/CN12_Hypoglossal.qmd"
 
 ref-cranial-nerve-nuclei-overview:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/cranial_nerve_nuclei_overview.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/cranial_nerve_nuclei_overview.qmd"
 ref-oculomotor-nucleus:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/oculomotor_nucleus.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/oculomotor_nucleus.qmd"
 ref-trochlear-nucleus:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/trochlear_nucleus.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/trochlear_nucleus.qmd"
 ref-abducens-nucleus:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/abducens_nucleus.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/abducens_nucleus.qmd"
 ref-trigeminal-motor-nucleus:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/trigeminal_motor_nucleus.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/trigeminal_motor_nucleus.qmd"
 ref-facial-nucleus:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/facial_nucleus.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/facial_nucleus.qmd"
 ref-hypoglossal-nucleus:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/hypoglossal_nucleus.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/hypoglossal_nucleus.qmd"
 ref-nucleus-ambiguous:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/nucleus_ambiguous.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/nucleus_ambiguous.qmd"
 ref-spinal-accessory-nucleus:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/spinal_accessory_nucleus.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/spinal_accessory_nucleus.qmd"
 ref-edinger-westphal-nucleus:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/edinger-westphal_nucleus.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/edinger-westphal_nucleus.qmd"
 ref-superior-salivatory-nucleus:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/superior_salivatory_nucleus.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/superior_salivatory_nucleus.qmd"
 ref-inferior-salivatory-nucleus:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/inferior_salivatory_nucleus.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/inferior_salivatory_nucleus.qmd"
 ref-dorsal-motor-nucleus:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/dorsal_motor_nucleus.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/dorsal_motor_nucleus.qmd"
 ref-nucleus-solitarius:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/nucleus_solitarius.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/nucleus_solitarius.qmd"
 ref-trigeminal-sensory-nuclei:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/trigeminal_sensory_nuclei.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/trigeminal_sensory_nuclei.qmd"
 ref-mesencephalic-nucleus:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/mesencephalic_nucleus.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/mesencephalic_nucleus.qmd"
 ref-main-sensory-nucleus-of-CN-V:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/main_sensory_nucleus_of_cn_v.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/main_sensory_nucleus_of_cn_v.qmd"
 ref-spinal-trigeminal-nucleus:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/spinal_trigeminal_nucleus.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/spinal_trigeminal_nucleus.qmd"
 ref-cochlear-nuclei:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/cochlear_nuclei.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/cochlear_nuclei.qmd"
 ref-vestibular-nuclei:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/vestibular_nuclei.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/vestibular_nuclei.qmd"
 
 ### Limbic System
 ref-amygdala:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Limbic System/amygdala.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Limbic System/amygdala.qmd"
 
 ### Tracts
 #### Ascending Tracts
 ref-dorsal-column-medial-lemniscus: 
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/DCML and related structures/dorsal_column-medial_lemniscus_DCML.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/DCML and related structures/dorsal_column-medial_lemniscus_DCML.qmd"
 ref-fasciculus-cuneatus:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/DCML and related structures/fasciculus_cuneatus.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/DCML and related structures/fasciculus_cuneatus.qmd"
 ref-fasciculus-gracilis:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/DCML and related structures/fasciculus_gracilis.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/DCML and related structures/fasciculus_gracilis.qmd"
 ref-cuneocerebellar-tract:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/cuneocerebellar_tract.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/cuneocerebellar_tract.qmd"
 ref-dorsal-spinocerebellar-tract:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/dorsal_spinocerebellar_tract.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/dorsal_spinocerebellar_tract.qmd"
 ref-ventral-spinocerebellar-tract:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/ventral_spinocerebellar_tract.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/ventral_spinocerebellar_tract.qmd"
 ref-spinothalamic-tract:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/spinothalamic_tract.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/spinothalamic_tract.qmd"
 ref-spinal-trigeminal-tract:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/spinal_trigeminal_tract.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/spinal_trigeminal_tract.qmd"
 ref-trigeminothalamic-tract:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/trigeminothalamic_tract.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/trigeminothalamic_tract.qmd"
 ref-spinoreticular-tract:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/spinoreticular_tract.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/spinoreticular_tract.qmd"
 ref-spinomesencephalic-tract:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/spinomesencephalic_tract.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/spinomesencephalic_tract.qmd"
 ref-spinohypothalamic-tract:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/spinohypothalamic_tract.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/spinohypothalamic_tract.qmd"
 
 
 
 
 #### Descending Tracts
 ref-extrapyramidal-tracts:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/extrapyramidal_tracts.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/extrapyramidal_tracts.qmd"
 ref-reticulospinal-tract:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/reticulospinal_tract.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/reticulospinal_tract.qmd"
 ref-rubrospinal-tract:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/rubrospinal_tract.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/rubrospinal_tract.qmd"
 ref-tectospinal-tract:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/tectospinal_tract.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/tectospinal_tract.qmd"
 ref-vestibulospinal-tract:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/vestibulospinal_tract.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/vestibulospinal_tract.qmd"
 ref-pyramidal-tracts:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Pyramidal Tract/pyramidal_tracts.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Pyramidal Tract/pyramidal_tracts.qmd"
 ref-corticobulbar-tract:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Pyramidal Tract/corticobulbar_tract.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Pyramidal Tract/corticobulbar_tract.qmd"
 ref-lateral-corticospinal-tract:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Pyramidal Tract/lateral_corticospinal_tract_LCST.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Pyramidal Tract/lateral_corticospinal_tract_LCST.qmd"
 ref-medial-corticospinal-tract:
-  path: "/Alchemy Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Pyramidal Tract/medial_corticospinal_tract_MCST.qmd"
+  path: "/The Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Pyramidal Tract/medial_corticospinal_tract_MCST.qmd"
 
 
 
 ## Neurophysiology
 ### Special Senses
 ref-gustation:
-  path: "/Alchemy Archive/Neuro/Neurophysiology/Special Senses/gustation.qmd"
+  path: "/The Archive/Neuro/Neurophysiology/Special Senses/gustation.qmd"
 ref-olfaction:
-  path: "/Alchemy Archive/Neuro/Neurophysiology/Special Senses/olfaction.qmd"
+  path: "/The Archive/Neuro/Neurophysiology/Special Senses/olfaction.qmd"
 ref-vision:
-  path: "/Alchemy Archive/Neuro/Neurophysiology/Special Senses/Vision and eye movement/vision.qmd"
+  path: "/The Archive/Neuro/Neurophysiology/Special Senses/Vision and eye movement/vision.qmd"
 
 ### Neuro Symptoms
 ref-anosmia:
-  path: "/Alchemy Archive/Symptoms/Neuro Symptoms/anosmia.qmd"
+  path: "/The Archive/Symptoms/Neuro Symptoms/anosmia.qmd"
 
 ## Neuropathology
 ref-amyotrophic-lateral-sclerosis: 
-  path: "/Alchemy Archive/Neuro/Neuropathology/Amyotrophic Lateral Sclerosis/amyotrophic_lateral_sclerosis.qmd"
+  path: "/The Archive/Neuro/Neuropathology/Amyotrophic Lateral Sclerosis/amyotrophic_lateral_sclerosis.qmd"
 
 
 
 # Psychosocial
 ref-psychosocial-index:
-  path: "/Alchemy Archive/Psychosocial/psychosocial_index.qmd"
+  path: "/The Archive/Psychosocial/psychosocial_index.qmd"
 
 ref-biomedical-model:
-  path: "/Alchemy Archive/Psychosocial/biomedical_model.qmd"
+  path: "/The Archive/Psychosocial/biomedical_model.qmd"
 ref-biopsychosocial-model:
-  path: "/Alchemy Archive/Psychosocial/biopsychosocial_model.qmd"
+  path: "/The Archive/Psychosocial/biopsychosocial_model.qmd"
 
 # Symptoms
 

@@ -1,0 +1,35 @@
+---
+title: Rectus Capitis Posterior Minor
+---
+
+# OIAN
+![Schematic view of Suboccipital muscles (posterior view) @gilroyAtlasAnatomy2020](/The Archive/Anatomy/OIANs/Muscles of the back/images/suboccipitals 3.6a gilroyAtlasAnatomy2020.png)
+
+![Suboccipital muscles (posterior view) @gilroyAtlasAnatomy2020](/The Archive/Anatomy/OIANs/Muscles of the back/images/313b Deep intrinsic back muscles.png)
+
+![suboccipital muscles (left lateral view) @gilroyAtlasAnatomy2020](/The Archive/Anatomy/OIANs/Muscles of the back/images/suboccipitals left lateral 3.6c gilroyAtlasAnatomy2020.png)
+
+| Muscle  | Origin  | Insertion | Nerve | Action |
+|--------|----------|-----------|-------|--------|
+|[Rectus Capitis Posterior Minor]({{< var ref-rectus-capitis-posterior-minor.path >}}) | {{< var ref-rectus-capitis-posterior-minor.origin >}} | {{< var ref-rectus-capitis-posterior-minor.insertion >}} | {{< var ref-rectus-capitis-posterior-minor.nerve >}} | {{< var ref-rectus-capitis-posterior-minor.action >}} |
+
+: Rectus Capitis Posterior Minor OIAN {.striped .hover}
+
+## Origin
+C1 (posterior tubercle) @gilroyAtlasAnatomy2020
+
+## Insertion
+Occipital bone (inferior nuchal line, inner 1/3) @gilroyAtlasAnatomy2020
+
+## Innervation
+[Suboccipital N.]({{< var ref-suboccipital-nerve.path >}}) AKA Posterior ramus of C1 @gilroyAtlasAnatomy2020
+
+## Action
+
+- **Bilateral**: Extend head
+- **Unilateral**: I/L head rotation
+
+# Palpation
+
+
+# Clinical significance

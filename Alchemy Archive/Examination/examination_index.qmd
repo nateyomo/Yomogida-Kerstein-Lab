@@ -1,8 +1,0 @@
----
-title: Examination index
----
-
-## Movement Analysis
-
-## Tests and measures
-{{< include "/Alchemy Archive/Examination/Tests and Measures/tests_and_measures_index.qmd" >}}

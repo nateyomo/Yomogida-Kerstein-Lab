@@ -1,0 +1,13 @@
+---
+title: Creatine Kinase (CK)
+---
+
+
+
+
+# Further reading
+
+Journal club
+
+- [Effects of Cold Bath Post-Exercise]({{< var ref-jc-2-post-exercise-cold-immersion.path >}})
+

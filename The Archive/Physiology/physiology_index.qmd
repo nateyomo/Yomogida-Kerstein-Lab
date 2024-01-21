@@ -1,0 +1,25 @@
+---
+title: "Physiology Index"
+---
+
+
+## Hormones
+
+## Inflammation
+{{< include "/The Archive/Physiology/Inflammation/inflammation_index.qmd" >}}
+
+## Minerals
+[Copper [Cu]]({{< var ref-copper.path >}})
+
+## Muscle Physiology
+
+## Neurotransmitters
+- [Glutamate]({{< var ref-glutamate.path >}})
+
+## Physiology of stress
+[Oxidative stress]({{< var ref-oxidative-stress.path >}})
+
+## Transporters
+- [Excitatory amino acid transporter 2 (EAAT2)]({{< var ref-EAAT2-excitatory-amino-acid-transporter-2.path >}})
+
+## Vitamins
