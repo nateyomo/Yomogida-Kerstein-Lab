@@ -4,7 +4,7 @@
     "href": "journal club index.html",
     "title": "Journal Club",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nJan 20, 2024\n\n\nCryotherapy for Contusions\n\n\nNathaniel Yomogida, SPT, Chloë Kerstein, SPT\n\n\n\n\nJan 21, 2024\n\n\nEffects of Cold Bath Post-Exercise\n\n\nNathaniel Yomogida, SPT, Chloë Kerstein, SPT\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nJan 21, 2024\n\n\nEffects of Cold Bath Post-Exercise\n\n\nNathaniel Yomogida, SPT, Chloë Kerstein, SPT\n\n\n\n\nJan 20, 2024\n\n\nCryotherapy for Contusions\n\n\nNathaniel Yomogida, SPT, Chloë Kerstein, SPT\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "Journal club/jc1_cryotherapy_contusions.html",
@@ -410,7 +410,7 @@
     "href": "The Archive/archive_index.html",
     "title": "Index of Performance Training",
     "section": "",
-    "text": "Basilar Artery\n\n\n\n\n\n\n\n\n\nEthmoid bone (cribriform plate)\nFrontal bone\nOccipital bone\nParietal bone\nSphenoid bone\nTemporal bone (petrous and squamous parts)\n\n\n\n\n\nEthmoid bone\nHyoid bone\nInferior nasal concha\nLacrimal bone\nMandible\nMaxilla\nNasal bone\nPalatine bone\nSphenoid bone (pterygoid process)\nTemporal bone\nVomer\n\n\n\n\n\n\n\nNeurocranium vs Viscerocranium\n\n\n\n\n\nMost of the ethmoid bone is in the viscerocranium; most of the sphenoid bone is in the neurocranium. The temporal bone is divided between the two1\n\n\n\n\nSphenoid Bone\n\nForamen ovale (of the sphenoid bone)\n\nMeckel’s Cave\n\n\n\n\n\n\nScapula\nClavicle\nHumerus\nRadius\nUlna\nCarpal bones\n2nd Carpal row\nMetacarpals\nProximal Phalanges\nMiddle Phalanges\nDistal Phalanges\n\n\n\n\n\nOIANs\n\n\n\n\nSuboccipital Nerve\nSpinal nn.\nAxillary nerve\nLateral Pectoral nerve\nMedial Pectoral nerve\nSubscapular nerve\nSuprascapular nerve"
+    "text": "Basilar Artery\n\n\n\n\nBones\n\n\n\nOIANs\n\n\n\nNerves"
   },
   {
     "objectID": "The Archive/archive_index.html#arteries",
@@ -424,7 +424,7 @@
     "href": "The Archive/archive_index.html#bones",
     "title": "Index of Performance Training",
     "section": "",
-    "text": "Ethmoid bone (cribriform plate)\nFrontal bone\nOccipital bone\nParietal bone\nSphenoid bone\nTemporal bone (petrous and squamous parts)\n\n\n\n\n\nEthmoid bone\nHyoid bone\nInferior nasal concha\nLacrimal bone\nMandible\nMaxilla\nNasal bone\nPalatine bone\nSphenoid bone (pterygoid process)\nTemporal bone\nVomer\n\n\n\n\n\n\n\nNeurocranium vs Viscerocranium\n\n\n\n\n\nMost of the ethmoid bone is in the viscerocranium; most of the sphenoid bone is in the neurocranium. The temporal bone is divided between the two1\n\n\n\n\nSphenoid Bone\n\nForamen ovale (of the sphenoid bone)\n\nMeckel’s Cave\n\n\n\n\n\n\nScapula\nClavicle\nHumerus\nRadius\nUlna\nCarpal bones\n2nd Carpal row\nMetacarpals\nProximal Phalanges\nMiddle Phalanges\nDistal Phalanges"
+    "text": "Bones"
   },
   {
     "objectID": "The Archive/archive_index.html#muscles",
@@ -438,7 +438,7 @@
     "href": "The Archive/archive_index.html#nerves",
     "title": "Index of Performance Training",
     "section": "",
-    "text": "Suboccipital Nerve\nSpinal nn.\nAxillary nerve\nLateral Pectoral nerve\nMedial Pectoral nerve\nSubscapular nerve\nSuprascapular nerve"
+    "text": "Nerves"
   },
   {
     "objectID": "The Archive/archive_index.html#cells",
@@ -2132,7 +2132,7 @@
     "href": "index.html",
     "title": "Yomogida & Kerstein Lab",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Welcome to the Yomogida & Kerstein Lab website\n\nThe Archive: A database for information, ranging from anatomy, microbiology, neurology, Patient examination, and rehabilitation.\nAbout: Read more about the authors of the site\nGuide: The best ways to use and read this website\nJournal club: A blog where we will post summaries of interesting articles"
   },
   {
     "objectID": "guide.html",
@@ -2382,37 +2382,37 @@
   {
     "objectID": "The Archive/Anatomy/anatomy_index.html",
     "href": "The Archive/Anatomy/anatomy_index.html",
-    "title": "Index of Bones",
+    "title": "Anatomy Index",
     "section": "",
     "text": "Basilar Artery"
   },
   {
     "objectID": "The Archive/Anatomy/anatomy_index.html#arteries",
     "href": "The Archive/Anatomy/anatomy_index.html#arteries",
-    "title": "Index of Bones",
+    "title": "Anatomy Index",
     "section": "",
     "text": "Basilar Artery"
   },
   {
     "objectID": "The Archive/Anatomy/anatomy_index.html#bones",
     "href": "The Archive/Anatomy/anatomy_index.html#bones",
-    "title": "Index of Bones",
+    "title": "Anatomy Index",
     "section": "2 Bones",
-    "text": "2 Bones\n\n2.1 Bones of the Skull\n\n2.1.1 Neurocranium\n\nEthmoid bone (cribriform plate)\nFrontal bone\nOccipital bone\nParietal bone\nSphenoid bone\nTemporal bone (petrous and squamous parts)\n\n\n\n2.1.2 Visccerocranium\n\nEthmoid bone\nHyoid bone\nInferior nasal concha\nLacrimal bone\nMandible\nMaxilla\nNasal bone\nPalatine bone\nSphenoid bone (pterygoid process)\nTemporal bone\nVomer\n\n\n\n\n\n\n\nNeurocranium vs Viscerocranium\n\n\n\n\n\nMost of the ethmoid bone is in the viscerocranium; most of the sphenoid bone is in the neurocranium. The temporal bone is divided between the two1\n\n\n\n\nSphenoid Bone\n\nForamen ovale (of the sphenoid bone)\n\nMeckel’s Cave\n\n\n\n\n2.2 Upper extremity bones\n\nScapula\nClavicle\nHumerus\nRadius\nUlna\nCarpal bones\n2nd Carpal row\nMetacarpals\nProximal Phalanges\nMiddle Phalanges\nDistal Phalanges"
+    "text": "2 Bones\nBones"
   },
   {
     "objectID": "The Archive/Anatomy/anatomy_index.html#muscles",
     "href": "The Archive/Anatomy/anatomy_index.html#muscles",
-    "title": "Index of Bones",
+    "title": "Anatomy Index",
     "section": "3 Muscles",
     "text": "3 Muscles\nOIANs"
   },
   {
     "objectID": "The Archive/Anatomy/anatomy_index.html#nerves",
     "href": "The Archive/Anatomy/anatomy_index.html#nerves",
-    "title": "Index of Bones",
+    "title": "Anatomy Index",
     "section": "4 Nerves",
-    "text": "4 Nerves\n\nSuboccipital Nerve\nSpinal nn.\nAxillary nerve\nLateral Pectoral nerve\nMedial Pectoral nerve\nSubscapular nerve\nSuprascapular nerve"
+    "text": "4 Nerves\nNerves"
   },
   {
     "objectID": "The Archive/Anatomy/Bones/Bones of the Skull/Meckel's_cave.html",
@@ -4401,5 +4401,33 @@
     "title": "Effects of Cold Bath Post-Exercise",
     "section": "",
     "text": "1 Article\nXiao et al.1 (2023) Effects of cold water immersion after exercise on fatigue recovery and exercise performance–meta analysis1\n\n\n2 Question\n\n\n3 Study Construct\n\nSystematic review (SR)\n20 study SR\nSubjective indicators:\n\nDelayed onset muscle soreness (DOMS)\nRate of perceived exertion (RPE)\n\nObjective measures:\n\nCountermovement jump (CMJ)\nBlood plasma markers\n\nCreatine kinase (CK)\nLactate/lactate dehydrogenase (LDH)\nC reactive protein\nIL-6\n\n\n\nMethods: Studies included CWI immersion to the iliac crest/umbilicus at temperatures from 5-15 C. Other studies included CWI submerged to mid sternal level and shoulder level at 6-15 C.\n\n\n4 Results\nCold water immersion (CWI) was found to have:\n\nA decline in DOMS (VAS scale) significantly lower VAS at 0 h and 24 hr , none at 48 h Decline in RPE immediately (0/1-10 scales) at 0 hours (none at 24 or 48 h) Reduced CMJ immediately (at 0 hr)\nCreatine kinase (CK) lowered at 24 hr, (no difference at 0 or 48 h) lactate lowered at 24 and 48 h. No evidence that CWI impacts CRP and IL6 during 48 hours They found that water temp and CWI sites have no effect on fatigue recovery\n\n\n\n\n\n\nReferences\n\n1. Xiao F, Kabachkova AV, Jiao L, Zhao H, Kapilevich LV. Effects of cold water immersion after exercise on fatigue recovery and exercise performance–meta analysis. Frontiers in Physiology. 2023;14:1006512. doi:10.3389/fphys.2023.1006512"
+  },
+  {
+    "objectID": "The Archive/Anatomy/Bones/Bones of the Skull/Meckels_cave.html",
+    "href": "The Archive/Anatomy/Bones/Bones of the Skull/Meckels_cave.html",
+    "title": "Meckel’s Cave",
+    "section": "",
+    "text": "The motor root of trigeminal nerve enters a cavity in the dura mater overlying the apex of the petrous bone (Meckel cave)1\n\n\n\n\nReferences\n\n1. Brazis PW, Masdeu JC, Biller J. Localization in Clinical Neurology. 8th ed. Wolters Kluwer Health; 2022."
+  },
+  {
+    "objectID": "The Archive/Anatomy/Nerves/nerve_index.html",
+    "href": "The Archive/Anatomy/Nerves/nerve_index.html",
+    "title": "Index of Nerves",
+    "section": "",
+    "text": "1 Trunk Nerves\n\nSuboccipital Nerve\nSpinal nn.\n\n\n\n2 Upper Extremity Nerves\n\nAxillary nerve\nLateral Pectoral nerve\nMedial Pectoral nerve\nSubscapular nerve\n\nUpper Subscapular nerve\n\nSuprascapular nerve"
+  },
+  {
+    "objectID": "The Archive/Anatomy/Bones/Bones of the Skull/sphenoid_bone.html#foramen-ovale",
+    "href": "The Archive/Anatomy/Bones/Bones of the Skull/sphenoid_bone.html#foramen-ovale",
+    "title": "Sphenoid bone",
+    "section": "2.1 Foramen Ovale",
+    "text": "2.1 Foramen Ovale\nTrigeminal motor root exits the skull via the foramen ovale"
+  },
+  {
+    "objectID": "The Archive/Anatomy/Bones/Bones of the Skull/sphenoid_bone.html#meckels-cave",
+    "href": "The Archive/Anatomy/Bones/Bones of the Skull/sphenoid_bone.html#meckels-cave",
+    "title": "Sphenoid bone",
+    "section": "2.2 Meckel’s cave",
+    "text": "2.2 Meckel’s cave\nThe motor root of trigeminal nerve enters a cavity in the dura mater overlying the apex of the petrous bone (Meckel cave)1"
   }
 ]

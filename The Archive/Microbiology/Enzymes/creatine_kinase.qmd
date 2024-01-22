@@ -2,8 +2,49 @@
 title: Creatine Kinase (CK)
 ---
 
+AKA
+
+- Creatine phosphokinase (CPK)
+- 
+
+# Overview
 
 
+Creatine Kinase (CK) is an enzyme
+
+CK functions to catalyze the reaction of [creatine]({{< var ref-creatine.path >}}) and [adenosine triphosphate (ATP)]({{< var ref-adenosine-triphosphate.path >}}) to phosphocreatine (PCr) and [adenosine diphosphate (ADP)]({{< var ref-adenosine-diphosphate.path >}}) as seen below @aujlaCreatinePhosphokinase2023 
+
+$$
+ADP + PCr ⇌ ATP + Cr ΔG′° = −12.5 kJ/mol
+$$
+
+Mg2+ 
+
+<!--
+$$
+ADP + PCr ⇌ ATP + Cr ΔG′° = −12.5 kJ/mol
+\begin{split}
+  \dot{x} & = \sigma(y-x) \\
+  \dot{y} & = \rho x- y - xz 
+\end{split}
+$$
+
+-->
+
+# Chemical structures
+
+See McLeish (2005) Relating structure to mechanism in creatine kinase @mcleishRelatingStructureMechanism2005
+
+# CK Blood levels
+
+- Increased by physical activity @moghadam-kiaApproachAsymptomaticCreatine2016
+
+## Physical activity
+
+- CK levels transiently rise after exercise or heavy manual labor
+- Serum CK levels may increase to as much as 30 times the upper limit of normal within 24 hours of strenuous physical activity, then slowly decline over the next 7 days
+- Amount of CK increase is dependent upon the type and duration of exercise
+    - Untrained individuals experience greater elevation @moghadam-kia
 
 # Further reading
 

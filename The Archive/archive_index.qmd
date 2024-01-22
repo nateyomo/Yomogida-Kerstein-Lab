@@ -18,6 +18,9 @@ title: "The Archive"
 # Pain Science
 {{< include Pain_science/pain_index.qmd >}}
 
+# Pediatrics
+{{< include "/The Archive/Pediatrics/pediatrics_index.qmd" >}}
+
 # Pathophysiology
 {{< include "/The Archive/Pathophysiology/pathophysiology_index.qmd" >}}
 

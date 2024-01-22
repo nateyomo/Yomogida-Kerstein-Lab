@@ -6,18 +6,12 @@ title: Anatomy Index
 - [Basilar Artery]({{< var ref-basilar-artery.path >}})
 
 ## Bones
-
-{{< include "/The Archive/Anatomy/Bones/bones_index.qmd" >}}
+[Bones]({{< var ref-bone-index.path >}})
 
 ## Muscles
 [OIANs]({{< var ref-oians.path >}})
 
 ## Nerves
+[Nerves]({{< var ref-nerve-index.path >}})
 
-- [Suboccipital Nerve]({{< var ref-suboccipital-nerve.path >}})
-- [Spinal nn.]({{< var ref-spinal-nerves.path >}})
-- [Axillary nerve]({{< var ref-axillary-nerve.path >}})
-- [Lateral Pectoral nerve]({{< var ref-lateral-pectoral-nerve.path >}})
-- [Medial Pectoral nerve]({{< var ref-medial-pectoral-nerve.path >}})
-- [Subscapular nerve]({{< var ref-subscapular-nerve.path >}})
-- [Suprascapular nerve]({{< var ref-suprascapular-nerve.path >}})
+

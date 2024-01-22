@@ -35,7 +35,7 @@ Most of the ethmoid bone is in the viscerocranium; most of the sphenoid bone is 
 
 - Sphenoid Bone
     - [Foramen ovale]({{< var ref-foramen-ovale-sphenoid-bone.path >}}) (of the sphenoid bone)
-- [Meckel's Cave]({{< var ref-meckel's-cave.path >}})
+- [Meckel's Cave]({{< var ref-meckels-cave.path >}})
 
 ### Upper extremity bones
 
