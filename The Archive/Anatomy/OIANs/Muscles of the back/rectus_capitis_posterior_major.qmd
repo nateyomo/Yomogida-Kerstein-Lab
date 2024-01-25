@@ -22,15 +22,15 @@ title: Rectus Capitis Posterior Major
 C2 (SP) @gilroyAtlasAnatomy2020
 
 ## Insertion
-Occipital bone (inferior nuchal line, middle third) @gilroyAtlasAnatomy2020
+[Occipital bone (inferior nuchal line, middle third)]({{< var ref-occipital-bone.path >}}) @gilroyAtlasAnatomy2020
 
 ## Innervation
 [Suboccipital N.]({{< var ref-suboccipital-nerve.path >}}) AKA Posterior ramus of C1 @gilroyAtlasAnatomy2020
 
 ## Action
 
-- **Bilateral**: Extend head
-- **Unilateral**: I/L head rotation
+- **Bilateral**: [Extend head]({{< var ref-neck-msk.path >}})
+- **Unilateral**: [I/L head rotation]({{< var ref-neck-msk.path >}})
 
 # Muscle groups
 Part of the [suboccipital muscle group]({{< var ref-suboccipital_muscle_group.path >}})

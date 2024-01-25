@@ -1,3 +1,15 @@
 ---
 title: Mandible (bone)
 ---
+
+
+
+
+# Attachment sites
+
+## Inferior border
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Platysma muscle]({{< var ref-platysma.path >}}) | {{< var ref-platysma.origin >}} | {{< var ref-platysma.insertion >}} | {{< var ref-platysma.nerve >}} | {{< var ref-platysma.action >}} |
+: Muscular attachments for the inferior border of the mandible @gilroyAtlasAnatomy2020 {.striped .hover}

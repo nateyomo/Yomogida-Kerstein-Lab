@@ -46,6 +46,33 @@ ref-foramen-ovale-sphenoid-bone:
   path: "/The Archive/Anatomy/Bones/Bones of the Skull/sphenoid_bone.qmd"
 ref-meckels-cave:
   path: "/The Archive/Anatomy/Bones/Bones of the Skull/sphenoid_bone.qmd"
+ref-ethmoid-bone:
+  path: "/The Archive/Anatomy/Bones/Bones of the Skull/ethmoid_bone.qmd"
+ref-frontal-bone:
+  path: "/The Archive/Anatomy/Bones/Bones of the Skull/frontal_bone.qmd"
+ref-hyoid-bone:
+  path: "/The Archive/Anatomy/Bones/Bones of the Skull/hyoid_bone.qmd"
+ref-inferior-nasal-concha:
+  path: "/The Archive/Anatomy/Bones/Bones of the Skull/inferior_nasal_concha.qmd"
+ref-lacrimal-bone:
+  path: "/The Archive/Anatomy/Bones/Bones of the Skull/lacrimal_bone.qmd"
+ref-mandible-bone:
+  path: "/The Archive/Anatomy/Bones/Bones of the Skull/mandible_bone.qmd"
+ref-maxilla-bone:
+  path: "/The Archive/Anatomy/Bones/Bones of the Skull/maxilla_bone.qmd"
+ref-nasal-bone:
+  path: "/The Archive/Anatomy/Bones/Bones of the Skull/nasal_bone.qmd"
+ref-occipital-bone:
+  path: "/The Archive/Anatomy/Bones/Bones of the Skull/occipital_bone.qmd"
+ref-palatine-bone:
+  path: "/The Archive/Anatomy/Bones/Bones of the Skull/palatine_bone.qmd"
+ref-parietal-bone:
+  path: "/The Archive/Anatomy/Bones/Bones of the Skull/parietal_bone.qmd"
+ref-temporal-bone:
+  path: "/The Archive/Anatomy/Bones/Bones of the Skull/temporal_bone.qmd"
+ref-vomer-bone:
+  path: "/The Archive/Anatomy/Bones/Bones of the Skull/vomer_bone.qmd"
+
 
 ## Cartilage
 ref-costal-cartilages:
@@ -65,28 +92,28 @@ ref-suboccipital-muscle-group:
 ref-rectus-capitis-posterior-major: 
   path: "/The Archive/Anatomy/OIANs/Muscles of the back/rectus_capitis_posterior_major.qmd"
   origin: "C2 (SP)"
-  insertion: "Occipital bone (inferior nuchal line, middle third)"
+  insertion: "[Occipital bone (inferior nuchal line, middle third)]({{< var ref-occipital-bone.path >}})"
   nerve: "[Suboccipital N.]({{< var ref-suboccipital-nerve.path >}})"
-  action: "**BIL**: Extend head; **UNIL**: I/L head rotation"
+  action: "**BIL**: [Extend head]({{< var ref-head-osteokinematics.path >}}); **UNIL**: [I/L head rotation]({{< var ref-head-osteokinematics.path >}})"
 ref-rectus-capitis-posterior-minor: 
   path: /The Archive/Anatomy/OIANs/Muscles of the back/rectus_capitis_posterior_minor.qmd
   origin: "C1 (posterior tubercle)"
-  insertion: "Occipital bone (inferior nuchal line, inner 1/3)"
+  insertion: "[Occipital bone (inferior nuchal line, inner 1/3)]({{< var ref-occipital-bone.path >}})"
   nerve: "[Suboccipital N.]({{< var ref-suboccipital-nerve.path >}})"
-  action: "**BIL**: Extend head; **UNIL**: I/L head rotation"
+  action: "**BIL**: [Extend head]({{< var ref-head-osteokinematics.path >}}); **UNIL**: [I/L head rotation]({{< var ref-head-osteokinematics.path >}})"
 ref-obliquus-capitis-superior: 
   path: /The Archive/Anatomy/OIANs/Muscles of the back/obliquus_capitis_superior.qmd
   origin: "C1 (TP)"
-  insertion: "Occipital bone (inferior nuchal line, middle third"
+  insertion: "[Occipital bone (inferior nuchal line, middle third)]({{< var ref-occipital-bone.path >}})"
   nerve: "[Suboccipital N.]({{< var ref-suboccipital-nerve.path >}})"
-  action: "**BIL**: Extend head; **UNIL**: I/L SB, C/L rotation"
+  action: "**BIL**: [Extend head]({{< var ref-head-osteokinematics.path >}}); **UNIL**: [I/L SB]({{< var ref-neck-osteokinematics.path >}}), [C/L rotation]({{< var ref-neck-osteokinematics.path >}})"
 ref-obliquus-capitis-inferior: 
   path: /The Archive/Anatomy/OIANs/Muscles of the back/obliquus_capitis_inferior.qmd
   origin: "C2 (SP)"
   insertion: "C1 TP"
   nerve: "[Suboccipital N.]({{< var ref-suboccipital-nerve.path >}})"
-  action: "**BIL**: Extend head;
- **UNIL**: I/L rotation"
+  action: "**BIL**: [Extend head]({{< var ref-head-osteokinematics.path >}});
+ **UNIL**: [I/L rotation]({{< var ref-neck-osteokinematics.path >}})"
 
 ref-longus-capitis: 
   path: /The Archive/Anatomy/OIANs/Muscles of the back/longus_capitis.qmd
@@ -136,7 +163,7 @@ ref-splenius-cervicis:
   origin: "T3-T6/T7 (SP)"
   insertion: "C1–C3/4 (TP)"
   nerve: "[Spinal nn. C1-C6]({{< var ref-spinal-nerves.path >}}) (Post rami, lateral branches)"
-  action: "**BIL:** Extends C/S and head; **UNIL:** I/L head SB and Rotation"
+  action: "**BIL:** [Extends C/S and head]({{< var ref-neck-osteokinematics.path >}}); **UNIL:** [I/L head SB and Rotation]({{< var ref-head-osteokinematics.path >}})"
 
 ref-iliocostalis-cervicis:
   path: /The Archive/Anatomy/OIANs/Muscles of the back/iliocostalis.qmd
@@ -360,7 +387,7 @@ ref-mentalis-muscle:
 ref-platysma:
   path: "/The Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/platysma.qmd"
   origin: "Skin over lower neck and upper lateral thorax"
-  insertion: "Mandible (inf border), Skin over lower face, Angle of mouth"
+  insertion: "[Mandible (inferior border)]({{< var ref-mandible-bone.path >}}), Skin over lower face, Angle of mouth"
   nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
   action: "Depresses and wrinkles skin of lower face and mouth; Tenses skin of neck; Aids in forced depression of the mandible"
 
@@ -390,6 +417,31 @@ ref-medial-pterygoid:
   nerve: "[Mandibular (V~3~) divison of CN V via medial pterygoid n.]({{< var ref-cn5.path >}})"
   action: "**BIL:** Elevates mandible with masseter and contributes to protrusion; **UNIL:** Small grinding movements"
 
+#### Neck Muscles
+ref-sternocleidomastoid:
+  path: "/The Archive/Anatomy/OIANs/Head and Neck/Neck Muscles/sternocleidomastoid_muscle.qmd"
+  origin: "**Sternal head**: [sternum (manubrium)]({{< var ref-sternum-bone.path >}}); **Clavicular head**: [Clavicle (medial 1/3)]({{< var ref-clavicle-bone.path >}})"
+  insertion: "[Temporal bone (mastoid process)]({{< var ref-temporal-bone.path >}}); [Occipital bone (superior nuchal line)]({{< var ref-occipital-bone.path >}})"
+  nerve: "[**Motor**: CN XI Accessory n.]({{< var ref-cn11.path >}}) and **Proprioception**: Cervical plexus (C2, C3, C4)"
+  action: "**Unilateral**: Tilts head to same side, rotates head to opposite side; **Bilateral**: Extends head, aids in respiration when head is fixed"
+ref-upper-trapezius:
+  path: "/The Archive/Anatomy/OIANs/Head and Neck/Neck Muscles/trapezius_muscle.qmd"
+  origin: "[Occipital bone]({{< var ref-occipital-bone.path >}}), SP of C1–C7"
+  insertion: "[Clavicle (lateral one third)]({{< var ref-clavicle-bone.path >}})"
+  nerve: "[**Motor**: CN XI Accessory n.]({{< var ref-cn11.path >}}) and **Proprioception**: Cervical plexus (C2, C3, C4) "
+  action: "Draws scapula obliquely upward, rotates glenoid cavity superiorly"
+ref-middle-trapezius:
+  path: "/The Archive/Anatomy/OIANs/Head and Neck/Neck Muscles/trapezius_muscle.qmd"
+  origin: "Aponeurosis at T1–T4 SP"
+  insertion: "[Acromion]({{< var ref-scapula-bone.path >}})"
+  nerve: "[**Motor**: CN XI Accessory n.]({{< var ref-cn11.path >}}) and **Proprioception**: Cervical plexus (C2, C3, C4)"
+  action: "Draws scapula medially"
+ref-lower-trapezius:
+  path: "/The Archive/Anatomy/OIANs/Head and Neck/Neck Muscles/trapezius_muscle.qmd"
+  origin: "SP of T5–T12"
+  insertion: "[Scapular Spine]({{< var ref-scapula-bone.path >}})"
+  nerve: "[**Motor**: CN XI Accessory n.]({{< var ref-cn11.path >}}) and **Proprioception**: Cervical plexus (C2, C3, C4)"
+  action: "Draws scapula medially downward"
 ### Shoulder and arm muscles
 
 ref-deltoid-muscle:
@@ -511,18 +563,25 @@ ref-nuchal-ligament:
 ref-EBP-index:
   path: "/The Archive/Evidene Based Practice/EBP_index.qmd"
 ## Multivariate Data analysis
+### Terms
+ref-homoscedasticity:
+  path: "/The Archive/Evidene Based Practice/Multivariate Data Analysis/Terms/homoscedasticity.qmd"
 ### Correlation
+ref-comparison-correlation-analysis:
+  path: "/The Archive/Evidene Based Practice/Multivariate Data Analysis/Correlation/comparison_of_correlation_statistical_analysis.qmd"
 ref-correlation-overview:
   path: "/The Archive/Evidene Based Practice/Multivariate Data Analysis/Correlation/correlation_overview.qmd"
 ref-linear-correlation:
-  path: "/The Archive/Evidene Based Practice/Multivariate Data Analysis/linear_correlation.qmd"
+  path: "/The Archive/Evidene Based Practice/Multivariate Data Analysis/Correlation/linear_correlation.qmd"
 ref-pearson-product-moment-correlation:
   path: "/The Archive/Evidene Based Practice/Multivariate Data Analysis/Correlation/pearson_product-moment_correlation.qmd"
 ref-spearman-rank-coefficient:
   path: "/The Archive/Evidene Based Practice/Multivariate Data Analysis/Correlation/spearman_rank_coefficient.qmd"
-
+### Tests of independence
 ref-t-test:
-  path: "/The Archive/Evidene Based Practice/Multivariate Data Analysis/T-test.qmd"
+  path: "/The Archive/Evidene Based Practice/Multivariate Data Analysis/Tests of independence/T-test.qmd"
+ref-chi-square-test:
+  path: "/The Archive/Evidene Based Practice/Multivariate Data Analysis/Tests of independence/chi-square-test.qmd"
 ref-statistical-analysis-overview:
   path: "/The Archive/Evidene Based Practice/Multivariate Data Analysis/statistical_analysis_overview.qmd"
 ref-mann-whitney-u-test:
@@ -535,7 +594,7 @@ ref-mann-whitney-u-test:
 
 ### Cervical T&M
 ref-VBI-vertebrobasilar-insufficiency-test:
-  path: "/The Archive/Tests and Measures/Cervical Tests and Measures/VBI_vertebrobasilar_insufficiency_test.qmd"
+  path: "/The Archive/Examination/Tests and Measures/Cervical Tests and Measures/VBI_vertebrobasilar_insufficiency_test.qmd"
   sensitivity: ""
   specificity: ""
 
@@ -595,7 +654,81 @@ ref-adenosine-triphosphate:
   path: "/The Archive/Microbiology/Non-proteins/ATP_adenosine_triphosphate.qmd"
 ref-adenosine-diphosphate:
   path: "/The Archive/Microbiology/Non-proteins/ADP_adenosine_diphosphate.qmd"
+ref-phosphocreatine:
+  path: "/The Archive/Microbiology/Non-proteins/PCr_phosphocreatine.qmd"
 
+# MSK
+ref-msk-index:
+  path: "/The Archive/MSK/MSK_index.qmd"
+ref-respiration:
+  path: "/The Archive/MSK/respiration.qmd"
+## Movements
+### Head
+ref-head-osteokinematics:
+  path: "/The Archive/MSK/Regions/Spine/neck.qmd"
+ref-neck-osteokinematics:
+  path: "/The Archive/MSK/Regions/Spine/neck.qmd"
+## Regions
+### Lower extremity
+ref-hip-msk:
+  path: "/The Archive/MSK/Regions/Lower extremity/hip.qmd"
+ref-knee-msk:
+  path: "/The Archive/MSK/Regions/Lower extremity/knee.qmd"
+ref-ankle-msk:
+  path: "/The Archive/MSK/Regions/Lower extremity/ankle.qmd"
+ref-foot-msk:
+  path: "/The Archive/MSK/Regions/Lower extremity/foot.qmd"
+### Spine
+ref-jaw-msk:
+  path: "/The Archive/MSK/Regions/Spine/jaw.qmd"
+ref-thoracic-spine-msk:
+  path: "/The Archive/MSK/Regions/Spine/thoracic_spine.qmd"
+ref-lumbar-spine-msk:
+  path: "/The Archive/MSK/Regions/Spine/lumbar_spine.qmd"
+ref-neck-msk:
+  path: "/The Archive/MSK/Regions/Spine/neck.qmd"
+### Upper extremity
+ref-shoulder-msk:
+  path: "/The Archive/MSK/Regions/Upper Extremity/shoulder.qmd"
+ref-elbow-msk:
+  path: "/The Archive/MSK/Regions/Upper Extremity/elbow.qmd"
+ref-wrist-msk:
+  path: "/The Archive/MSK/Regions/Upper Extremity/wrist.qmd"
+ref-hand-msk:
+  path: "/The Archive/MSK/Regions/Upper Extremity/hand.qmd"
+
+# Motor Control
+ref-motor-control-index:
+  path: "/The Archive/Motor Control/index_motor_control.qmd"
+ref-motor-control-overview:
+  path: "/The Archive/Motor Control/motor_control_overview.qmd"
+
+ref-motor-recovery:
+  path: "/The Archive/Motor Control/motor_recovery.qmd"
+ref-spontaneous-recovery:
+  path: "/The Archive/Motor Control/spontaneous_recovery.qmd"
+ref-degrees-of-freedom:
+  path: "/The Archive/Motor Control/degrees_of_freedom.qmd"
+ref-learned-nonuse:
+  path: "/The Archive/Motor Control/learned_nonuse.qmd"
+ref-schema:
+  path: "/The Archive/Motor Control/schema.qmd"
+ref-recall-schema:
+  path: "/The Archive/Motor Control/schema.qmd"
+ref-recognition-schema:
+  path: "/The Archive/Motor Control/schema.qmd"
+## Motor Compensation
+ref-motor-compensation:
+  path: "/The Archive/Motor Control/motor_compensation.qmd"
+ref-adaptive-compensation:
+  path: "/The Archive/Motor Control/motor_compensation.qmd"
+ref-behavioral-substitution:
+  path: "/The Archive/Motor Control/motor_compensation.qmd"
+## Motor learning
+ref-motor-learning:
+  path: "/The Archive/Motor Control/Motor learning/motor_learning.qmd"
+ref-stages-of-motor-learning:
+  path: "/The Archive/Motor Control/Motor learning/stages_of_motor_learning.qmd"
 
 # Physiology
 
@@ -923,7 +1056,9 @@ ref-anosmia:
 ## Neuropathology
 ref-amyotrophic-lateral-sclerosis: 
   path: "/The Archive/Neuro/Neuropathology/Amyotrophic Lateral Sclerosis/amyotrophic_lateral_sclerosis.qmd"
-
+### Peripheral nervous system pathologies
+ref-trigeminal-neuralgia:
+  path: "/The Archive/Neuro/Neuropathology/Peripheral Nervous System Pathologies/Peripheral Neuralgia/trigeminal_neuralgia.qmd"
 
 
 # Psychosocial

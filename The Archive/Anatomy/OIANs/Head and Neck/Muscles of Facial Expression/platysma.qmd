@@ -12,7 +12,7 @@ title: Platysma muscle
 Skin over lower neck and upper lateral thorax @gilroyAtlasAnatomy2020
 
 # Insertion
-Mandible (inf border), Skin over lower face, Angle of mouth @gilroyAtlasAnatomy2020
+[Mandible (inf border)]({{< var ref-mandible-bone.path >}}), Skin over lower face, Angle of mouth @gilroyAtlasAnatomy2020
 
 # Innervation
 

@@ -1,0 +1,39 @@
+---
+title: Trapezius (Muscle)
+---
+# OIAN
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Upper Trapezius]({{< var ref-upper-trapezius.path >}}) | {{< var ref-upper-trapezius.origin >}} | {{< var ref-upper-trapezius.insertion >}} | {{< var ref-upper-trapezius.nerve >}} | {{< var ref-upper-trapezius.action >}} |
+| [Middle Trapezius]({{< var ref-middle-trapezius.path >}}) | {{< var ref-middle-trapezius.origin >}} | {{< var ref-middle-trapezius.insertion >}} | {{< var ref-middle-trapezius.nerve >}} | {{< var ref-middle-trapezius.action >}} |
+| [Lower Trapezius]({{< var ref-lower-trapezius.path >}}) | {{< var ref-lower-trapezius.origin >}} | {{< var ref-lower-trapezius.insertion >}} | {{< var ref-lower-trapezius.nerve >}} | {{< var ref-lower-trapezius.action >}} |
+| Entire muscle | | | | Steadies scapula on thorax |
+
+: Trapezius OIAN {.striped .hover}
+
+## Upper Trapezius OIAN
+AKA Descending part of the trapezius
+
+- Origin: 
+    - [Occipital bone]({{< var ref-occipital-bone.path >}}) @gilroyAtlasAnatomy2020
+    - SP of C1–C7 @gilroyAtlasAnatomy2020
+- Insertion: [Clavicle (lateral one third)]({{< var ref-clavicle-bone.path >}}) @gilroyAtlasAnatomy2020
+- Nerve: [**Motor**: CN XI Accessory n.]({{< var ref-cn11.path >}}) and **Proprioception**: Cervical plexus (C2, C3, C4) @gilroyAtlasAnatomy2020
+- Action: Draws scapula obliquely upward, rotates glenoid cavity superiorly @gilroyAtlasAnatomy2020
+
+## Middle Trapezius OIAN
+AKA Transverse part of the trapezius
+
+- Origin: Aponeurosis at T1–T4 SP @gilroyAtlasAnatomy2020
+- Insertion: [Acromion]({{< var ref-scapula-bone.path >}}) @gilroyAtlasAnatomy2020
+- Nerve: [**Motor**: CN XI Accessory n.]({{< var ref-cn11.path >}}) and **Proprioception**: Cervical plexus (C2, C3, C4) @gilroyAtlasAnatomy2020
+- Action: Draws scapula medially @gilroyAtlasAnatomy2020
+
+
+## Lower Trapezius OIAN
+
+- Origin: SP of T5–T12
+- Insertion: [Scapular Spine]({{< var ref-scapula-bone.path >}})
+- Nerve: [**Motor**: CN XI Accessory n.]({{< var ref-cn11.path >}}) and **Proprioception**: Cervical plexus (C2, C3, C4) @gilroyAtlasAnatomy2020
+- Action: Draws scapula medially downward @gilroyAtlasAnatomy2020

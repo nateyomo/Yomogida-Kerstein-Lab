@@ -48,6 +48,11 @@ Significance
 - T-Test?
 - P-value = correlation differs significantly from Zero
 
+# Compared to other analyses
+
+[see the comparison to other correlation statistical analyses]({{< var ref-comparison-correlation-analysis.path >}})
+
+
 
 # Resources
 

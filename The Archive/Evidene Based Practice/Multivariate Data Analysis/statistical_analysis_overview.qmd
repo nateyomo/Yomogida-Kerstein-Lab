@@ -18,7 +18,7 @@ Allam (2017) @allamAssessmentStatisticalMethodologies2017 found that only 24.5% 
 - Determines difference from in mean values between 2 groups
 
 ## Mann-Whitney U Test
-[See Mann-Whitney U Test]({{< var ref- >}})
+[See Mann-Whitney U Test]({{< var ref-mann-whitney-u-test.path >}})
 
 - Difference in Rank sum
 - Does not need to be normally distributed

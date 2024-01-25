@@ -12,4 +12,11 @@ title: Clavicle (bone)
 |------|--------|-------|----------|--------|
 | [Pec Major]({{< var ref-pectoralis-major.path >}}) | {{< var ref-pectoralis-major.origin >}} | {{< var ref-pectoralis-major.insertion >}} | {{< var ref-pectoralis-major.nerve >}} | {{< var ref-pectoralis-major.action >}} |
 
-: Muscles attached to the sternum {.striped .hover}
+: Muscles attached to the clavicle {.striped .hover}
+
+## Medial 1/3
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Sternocleidomastoid]({{< var ref-sternocleidomastoid.path >}}) | {{< var ref-sternocleidomastoid.origin >}} | {{< var ref-sternocleidomastoid.insertion >}} | {{< var ref-sternocleidomastoid.nerve >}} | {{< var ref-sternocleidomastoid.action >}} |
+
+: Muscle attachments on the medial 1/3 of the clavicle {.striped .hover}

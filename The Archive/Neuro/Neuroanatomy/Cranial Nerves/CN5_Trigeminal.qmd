@@ -58,7 +58,7 @@ There are 4 trigeminal nuclei (3 sensory and 1 motor):
 <!--
 Within the brainstem there are 4 central nuclei of CN V:
 - [Mesencephalic nucleus]({{< var ref-mesencephalic-nucleus.path >}}) (Proprioception of the face(NN) vs Conveys afferent proprioceptive fibers from extraocular and masticatory muscles and allows for bite modulation @jooMicrosurgicalAnatomyTrigeminal2014)
-- [Trigeminal sensory nucleus]({{< var ref-trigeminal-sensory-nucleus.path >}}) Conveys tactile and pressure sense @jooMicrosurgicalAnatomyTrigeminal2014
+- [Trigeminal sensory nucleus]({{< var ref-trigeminal-sensory-nuclei.path >}}) Conveys tactile and pressure sense @jooMicrosurgicalAnatomyTrigeminal2014
 - [Trigeminal motor nucleus]({{< var ref-trigeminal-motor-nucleus.path >}}) (Modulates degree of bite)
 - [Spinal trigeminal nucleus]({{< var ref-spinal-trigeminal-nucleus.path >}}) & [Spinal Trigeminal tract]({{< var ref-spinal-trigeminal-tract.path >}})
 -->

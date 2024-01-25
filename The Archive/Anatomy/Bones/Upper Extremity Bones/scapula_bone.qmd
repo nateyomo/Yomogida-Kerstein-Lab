@@ -6,6 +6,15 @@ title: Scapula (bone)
 
 # Sites
 
+## Spine of Scapula
+:::{.callout collapse="true"}
+### Scapular spine muscle attachments
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Lower Trapezius]({{< var ref-lower-trapezius.path >}}) | {{< var ref-lower-trapezius.origin >}} | {{< var ref-lower-trapezius.insertion >}} | {{< var ref-lower-trapezius.nerve >}} | {{< var ref-lower-trapezius.action >}} |
+: {.striped .hover}
+:::
+
 ## Supraspinous fossa
 
 :::{.callout collapse="true"}
@@ -56,5 +65,16 @@ title: Scapula (bone)
 | **Insertions** | | | | |
 | [Pectoralis Minor]({{< var ref-pectoralis-minor.path >}}) | {{< var ref-pectoralis-minor.origin >}} | {{< var ref-pectoralis-minor.insertion >}} | {{< var ref-pectoralis-minor.nerve >}} | {{< var ref-pectoralis-minor.action >}} |
 
+: Coracoid process muscular attachments {.striped .hover}
+:::
+
+## Acromion
+
+:::{.callout collapse="true"}
+### Acromion
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| Insertions | | | ||
+| [Middle Trapezius]({{< var ref-middle-trapezius.path >}}) | {{< var ref-middle-trapezius.origin >}} | {{< var ref-middle-trapezius.insertion >}} | {{< var ref-middle-trapezius.nerve >}} | {{< var ref-middle-trapezius.action >}} |
 : Coracoid process muscular attachments {.striped .hover}
 :::

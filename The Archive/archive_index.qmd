@@ -30,6 +30,9 @@ title: "The Archive"
 # Neuroscience
 {{< include Neuro/neuro_index.qmd >}}
 
+# Motor control
+{{< include "/The Archive/Motor Control/index_motor_control.qmd" >}}
+
 # Genetics & Genomics
 {{< include "Genetics and genomics/genetics_and_genomics_index.qmd" >}}
 

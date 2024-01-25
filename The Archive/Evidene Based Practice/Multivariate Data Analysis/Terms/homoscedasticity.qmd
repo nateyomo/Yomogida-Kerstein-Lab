@@ -1,0 +1,11 @@
+---
+title: homoscedasticity
+---
+
+an assumption of equal or similar variances in different groups being compared
+
+
+# Statistical tests that require homoscedasticity
+
+
+# Statistical tests that do NOT require homoscedasticity
