@@ -1,5 +1,5 @@
 ---
-title: Scapula (bone)
+title: Scapula (Bone)
 ---
 
 
@@ -7,58 +7,55 @@ title: Scapula (bone)
 # Sites
 
 ## Spine of Scapula
-:::{.callout collapse="true"}
-### Scapular spine muscle attachments
+<details>
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
 | [Lower Trapezius]({{< var ref-lower-trapezius.path >}}) | {{< var ref-lower-trapezius.origin >}} | {{< var ref-lower-trapezius.insertion >}} | {{< var ref-lower-trapezius.nerve >}} | {{< var ref-lower-trapezius.action >}} |
 : {.striped .hover}
-:::
+</details>
 
 ## Supraspinous fossa
 
-:::{.callout collapse="true"}
-### Supraspinous muscle attachments
+<details>
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
 | [Supraspinatus]({{< var ref-supraspinatus.path >}}) | {{< var ref-supraspinatus.origin >}} | {{< var ref-supraspinatus.insertion >}} | {{< var ref-supraspinatus.nerve >}} | {{< var ref-supraspinatus.action >}} |
 
 : Muscles attachments to Supraspinous fossa of scapula {.striped .hover}
-:::
+</details>
 
 ## Infraspinous fossa
 
-:::{.callout collapse="true"}
-### Infraspinous Fossa Muscular attachments
+<details>
+
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
 | [Infraspinatus]({{< var ref-infraspinatus.path >}}) | {{< var ref-infraspinatus.origin >}} | {{< var ref-infraspinatus.insertion >}} | {{< var ref-infraspinatus.nerve >}} | {{< var ref-infraspinatus.action >}} |
-:::
+</details>
 
 ## Lateral border of Scapula
 
-:::{.callout collapse="true"}
-### Laterael border of scapula muscular attachments
+<details>
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
 | [Infraspinatus]({{< var ref-infraspinatus.path >}}) | {{< var ref-infraspinatus.origin >}} | {{< var ref-infraspinatus.insertion >}} | {{< var ref-infraspinatus.nerve >}} | {{< var ref-infraspinatus.action >}} |
-:::
+</details>
 
 ## Subscapular fossa of scapula
 
-:::{.callout collapse="true"}
-### Subscapular fossa attachments
+<details>
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
 | [Subscapularis]({{< var ref-subscapularis.path >}}) | {{< var ref-subscapularis.origin >}} | {{< var ref-subscapularis.insertion >}} | {{< var ref-subscapularis.nerve >}} | {{< var ref-subscapularis.action >}} |
-:{.striped .hover}
-:::
+
+: Muscular attachments of the Subscapular Fossa {.striped .hover}
+
+</details>
 
 
 ## Coracoid process
 
-:::{.callout collapse="true"}
-### Coracoid Process
+<details>
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
 | [Coracobrachialis]({{< var ref-coracobrachialis.path >}}) | {{< var ref-coracobrachialis.origin >}} | {{< var ref-coracobrachialis.insertion >}} | {{< var ref-coracobrachialis.nerve >}} | {{< var ref-coracobrachialis.action >}} |
@@ -66,15 +63,14 @@ title: Scapula (bone)
 | [Pectoralis Minor]({{< var ref-pectoralis-minor.path >}}) | {{< var ref-pectoralis-minor.origin >}} | {{< var ref-pectoralis-minor.insertion >}} | {{< var ref-pectoralis-minor.nerve >}} | {{< var ref-pectoralis-minor.action >}} |
 
 : Coracoid process muscular attachments {.striped .hover}
-:::
+</details>
 
 ## Acromion
 
-:::{.callout collapse="true"}
-### Acromion
+<details>
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
 | Insertions | | | ||
 | [Middle Trapezius]({{< var ref-middle-trapezius.path >}}) | {{< var ref-middle-trapezius.origin >}} | {{< var ref-middle-trapezius.insertion >}} | {{< var ref-middle-trapezius.nerve >}} | {{< var ref-middle-trapezius.action >}} |
 : Coracoid process muscular attachments {.striped .hover}
-:::
+</details>

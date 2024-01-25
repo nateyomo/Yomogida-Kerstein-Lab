@@ -1,8 +1,8 @@
 ---
-title: homoscedasticity
+title: Homoscedasticity
 ---
 
-an assumption of equal or similar variances in different groups being compared
+<q> an assumption of equal or similar variances in different groups being compared <q>
 
 
 # Statistical tests that require homoscedasticity

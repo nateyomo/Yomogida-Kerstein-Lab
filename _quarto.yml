@@ -56,10 +56,13 @@ format:
       dark: darkly
     mainfont: helvetica
     css: styles.css
-  #pdf:
-    #toc: true
-    #number-sections: true
-    #link-citations: true
-    #link-bibliography: true
+  pdf:
+    toc: true
+    number-sections: true
+    link-citations: true
+    link-bibliography: true
+    execute:
+      error: true
+      freeze: auto
     
 

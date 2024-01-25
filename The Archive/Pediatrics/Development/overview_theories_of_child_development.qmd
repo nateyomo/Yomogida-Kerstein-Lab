@@ -1,0 +1,44 @@
+---
+title: Overview of the theories of child development
+---
+
+# Neuromaturational Theory
+
+- Development follows a set, invariant sequence @effgenMeetingPhysicalTherapy2021.
+- Development is tightly tied to central nervous system development @effgenMeetingPhysicalTherapy2021.
+- Motor development is cephalocaudal and proximal to distal @effgenMeetingPhysicalTherapy2021.
+- Recent modifications acknowledge variations in the sequence and input from all systems @effgenMeetingPhysicalTherapy2021.
+
+McGraw & Gesell were the main proponents of the original theory, which consisted of a step type sequence of development and intervention, Not totally linear, but more or less linear
+
+There is a Newer version of theory; can you adapt /change pattern 
+CNS maturation drives development
+Normal sequence / hierarchy of skill development
+Classic developmental scales based on this work
+Importance of developmental reflexes and stepwise sequence of development in intervention
+
+
+Gessell
+She says: As you start to master one skill, and u introduce the other skill, u may see a regression is previous skill or new skill wont look perfect
+Development happens in a proximal to distal sequence, motor skills develop gross to fine
+Development is dynamic and characterized by alternating advancement and regression
+Crawling: initial symmetrical arm pattern, then alternates UE
+Regression to earlier patterns as more mature version occurs 
+
+
+# Cognitive Theory
+
+•Thinkingdevelopsinstagesofincreasingcomplexity. • Children organize mental schemes through the use of mental operations @effgenMeetingPhysicalTherapy2013.
+
+Piaget: cognitive development theory
+- 4 stages of cognitive development (inc complexity)
+    - Sensorimotor stage (0-2 years): reflex activity leads to purposeful mvmt
+    - Pre operational stage (2-7) : unidimensional awareness of environment
+    - Concrete operational stage (7-11) less egocentric, solve concrete probs
+    - Formal operational stage (11+): solve abstract probs, deductive reasoning
+    - Child’s active involvement in environment (not just neuromaturation) critical to infant development
+- Scaffolding: parents/therapists provide environmental challenge that encourages a child to perform higher level skill
+- Some EC programs based on this
+    - Montessori: uses cognitive and developmental theories
+        - Child given freedom to interact and engage in environment and self select activities from specialized materials
+    - Reggio emilia: investigatory and exploratory environment helps with problem solving skills

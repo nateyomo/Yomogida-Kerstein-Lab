@@ -1,0 +1,46 @@
+---
+title: Normal Child Development
+---
+
+
+# Why should we care about normal development?
+
+- Need a baseline for “normal” to identify problems
+- Identifies atypical behavior
+
+# Developmental sequence 
+
+
+:::{.callout title="Darrah et al. (1998)"}
+
+Darrah et al 1998, tested motor skills of 45 infants every month from 2 weeks to time of independent walking
+
+- Ton of variability is what he found
+- Created Alberta Infant Motor Scale (AIMS)
+- LARGE variation in motor skills in first year
+- All pts will present differently, Examination is a snapshot of what happens in that moment
+    - Could differ (dependent on emotion, sleepiness, etc) 
+- So may not be entirely accurate– must keep in mind
+:::
+
+# Variability in Development
+
+## Intrinsic and Extrinsic factors
+
+- **Individual**:  physiology (ie height weight of baby), temperament, cognition 
+<details>
+(one with lower cognition will have less motivation to move)
+</details>
+
+- **Environment**: immediate microsystem → womb, family, home, surroundings, peers 
+<details>
+    - (could also be in utero environment, was there trauma w their pregnant person)
+</details>
+
+- **Exosystem**: extended family, neighborhood, school
+- **Macrosystem**: community, economic system, culture 
+
+
+# Theories in child development
+
+[Read more about theories in child development]({{< var ref-overview-theories-of-child-development.path >}})

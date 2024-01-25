@@ -589,6 +589,13 @@ ref-mann-whitney-u-test:
 
 # Examination
 ## Movement Analysis
+### Balance
+ref-balance-strategies:
+  path: "/The Archive/Examination/Movement Analysis/Balance/balance_strategies.qmd"
+ref-ankle-balance-strategy:
+  path: "/The Archive/Examination/Movement Analysis/Balance/balance_strategies.qmd"
+ref-hip-balance-strategy:
+  path: "/The Archive/Examination/Movement Analysis/Balance/balance_strategies.qmd"
 
 ## Tests and measures
 
@@ -615,6 +622,9 @@ ref-fulcrum-test-stress-fracture:
 # genetics & Genomics
 ref-sod1: 
   path: "/The Archive/Genetics and genomics/SOD1_superoxide_dismutase_1.qmd"
+## Chromosomes
+ref-chromosome-21:
+  path: "/The Archive/Genetics and genomics/Chromosomes/chromosome_21.qmd"
 
 # Interventions
 ref-interventions-index:
@@ -862,6 +872,27 @@ adductor-muscle-strain:
 ref-stress-reactions-and-fractures:
   path: "/The Archive/Pathophysiology/stress_reactions_and_fractures.qmd"
 
+# Pediatrics
+## Development
+ref-overview-theories-of-child-development:
+  path: "/The Archive/Pediatrics/Development/overview_theories_of_child_development.qmd"
+ref-neuromaturational-theory:
+  path: "/The Archive/Pediatrics/Development/overview_theories_of_child_development.qmd"
+ref-cognitive-theory:
+  path: "/The Archive/Pediatrics/Development/overview_theories_of_child_development.qmd"
+ref-behavioral-theory:
+  path: "/The Archive/Pediatrics/Development/overview_theories_of_child_development.qmd"
+ref-ecological-contextual-theory:
+  path: "/The Archive/Pediatrics/Development/overview_theories_of_child_development.qmd"
+ref-dynamic-systems-theory:
+  path: "/The Archive/Pediatrics/Development/overview_theories_of_child_development.qmd"
+ref-psychoanalytical-psychosocial-theory:
+  path: "/The Archive/Pediatrics/Development/overview_theories_of_child_development.qmd"
+ref-neuronal-group-selection-theory:
+  path: "/The Archive/Pediatrics/Development/overview_theories_of_child_development.qmd"
+ref-normal-child-development:
+  path: "/The Archive/Pediatrics/Development/normal_child_development.qmd"
+
 # Performance training
 ## Golf
 ref-golf-index:
@@ -1056,10 +1087,13 @@ ref-anosmia:
 ## Neuropathology
 ref-amyotrophic-lateral-sclerosis: 
   path: "/The Archive/Neuro/Neuropathology/Amyotrophic Lateral Sclerosis/amyotrophic_lateral_sclerosis.qmd"
+ref-down-syndrome:
+  path: "/The Archive/Neuro/Neuropathology/Down Syndrome/down_syndrome.qmd"
 ### Peripheral nervous system pathologies
 ref-trigeminal-neuralgia:
   path: "/The Archive/Neuro/Neuropathology/Peripheral Nervous System Pathologies/Peripheral Neuralgia/trigeminal_neuralgia.qmd"
-
+ref-bell-palsy:
+  path: "/The Archive/Neuro/Neuropathology/Peripheral Nervous System Pathologies/Peripheral Neuralgia/Bell_palsy.qmd"
 
 # Psychosocial
 ref-psychosocial-index:

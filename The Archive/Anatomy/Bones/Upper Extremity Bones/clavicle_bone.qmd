@@ -8,11 +8,13 @@ title: Clavicle (bone)
 
 # Attachment Sites
 
+## General Attachment sites
+<details>
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
 | [Pec Major]({{< var ref-pectoralis-major.path >}}) | {{< var ref-pectoralis-major.origin >}} | {{< var ref-pectoralis-major.insertion >}} | {{< var ref-pectoralis-major.nerve >}} | {{< var ref-pectoralis-major.action >}} |
-
 : Muscles attached to the clavicle {.striped .hover}
+</details>
 
 ## Medial 1/3
 | Muscle  | Origin | Insertion | Nerve | Action |
