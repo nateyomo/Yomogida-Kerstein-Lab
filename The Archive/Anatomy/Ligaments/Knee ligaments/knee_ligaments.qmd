@@ -1,0 +1,26 @@
+---
+title: Ligaments of the Knee Joint
+---
+
+# Extrinsic ligaments
+
+- Anterior side
+    - Patellar ligament
+    - Medial longitudinal patellar retinaculum
+    - Lateral longitudinal patellar retinaculum
+    - Medial transverse patellar retinaculum
+    - Lateral transverse patellar retinaculum
+- Medial and Lateral sides
+    - Medial (tibial) collateral ligament
+    - Lateral (fibular) collateral lig.
+- Posterior side
+    - Oblique popliteal ligament
+    - Arcuate popliteal ligament
+
+
+# Intrinsic Ligaments
+
+- Anterior cruciate ligament
+- Posterior cruciate lig.
+- Transverse lig. of knee
+- Posterior meniscofemoral lig.

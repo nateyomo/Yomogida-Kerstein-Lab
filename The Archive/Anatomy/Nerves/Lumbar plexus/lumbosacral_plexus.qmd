@@ -1,0 +1,18 @@
+---
+title: Lumbar Plexus
+---
+
+The lumbosacral plexus refers to a union formed by the anterior primary divisions of the lumbar, sacral, and coccygeal nerves that provide cutaneous and motor innervation to the pelvis and lower limbs as well as autonomic supply to the pelvic organs @apaydinLumbosacralPlexus2016
+
+The lumbosacral plexus can be divided into 4 parts:
+
+1. Lumbar
+1. Sacral
+1. Pudendal
+1. Coccygeal
+
+:::{.callout-note}
+It must be remembered that these plexuses overlap and that there is no definite line of demarcation between their origins and distributions @apaydinLumbosacralPlexus2016
+
+The distribution of the nerves in the limbs is not typically segmental and is interrupted by the overlapping of the areas of distribution @apaydinLumbosacralPlexus2016
+:::

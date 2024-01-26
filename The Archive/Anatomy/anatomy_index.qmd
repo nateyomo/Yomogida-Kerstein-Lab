@@ -8,6 +8,15 @@ title: Anatomy Index
 ## Bones
 [Bones]({{< var ref-bone-index.path >}})
 
+## Cartilage
+
+## Connective Tissue
+
+## Joints
+
+## Ligaments
+[Ligaments]({{< var ref-index-ligaments.path >}})
+
 ## Muscles
 [OIANs]({{< var ref-oians.path >}})
 

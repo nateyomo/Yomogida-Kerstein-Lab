@@ -3,7 +3,8 @@ project:
   output-dir: docs
 
 execute:
-  freeze: true
+  freeze: auto
+  error: true
 
 filters:
   - lightbox
@@ -49,7 +50,7 @@ format:
   html:
     toc: true
     toc-title: Contents
-    toc-location: left
+    toc-location: right
     number-sections: true
     tbl-cap-location: top
     theme:
@@ -62,8 +63,6 @@ format:
     number-sections: true
     link-citations: true
     link-bibliography: true
-    execute:
-      error: true
-      freeze: auto
+    error: true
     
 

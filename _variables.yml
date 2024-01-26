@@ -82,6 +82,14 @@ ref-costal-cartilages:
 ref-rectus-sheath:
   path: "/The Archive/Anatomy/Connective tissue/rectus_sheath.qmd"
 
+## Ligaments
+ref-index-ligaments:
+  path: "/The Archive/Anatomy/Ligaments/index_ligaments.qmd"
+### Knee ligaments
+ref-knee-ligaments:
+  path: "/The Archive/Anatomy/Ligaments/Knee ligaments/knee_ligaments.qmd"
+
+
 ## OIAN
 ref-oians: 
   path: /The Archive/Anatomy/OIAN.qmd
@@ -552,6 +560,10 @@ ref-musculocutaneous-nerve:
   path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/musculocutaneous_nerve.qmd"
 ref-nerve-to-subclavius:
   path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/nerve_to_subclavius.qmd"
+### Lower Extremity Nerve
+ref-lumbosacral-plexus:
+  path: "/The Archive/Anatomy/Nerves/Lumbar plexus/lumbosacral_plexus.qmd"
+
 
 ## Ligaments
 
@@ -879,7 +891,7 @@ ref-overview-theories-of-child-development:
 ref-neuromaturational-theory:
   path: "/The Archive/Pediatrics/Development/overview_theories_of_child_development.qmd"
 ref-cognitive-theory:
-  path: "/The Archive/Pediatrics/Development/overview_theories_of_child_development.qmd"
+  path: "/The Archive/Pediatrics/Development/overview_theories_of_child_development.qmd#cognitive-theory"
 ref-behavioral-theory:
   path: "/The Archive/Pediatrics/Development/overview_theories_of_child_development.qmd"
 ref-ecological-contextual-theory:

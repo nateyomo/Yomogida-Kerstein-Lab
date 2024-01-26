@@ -33,11 +33,12 @@ Crawling: initial symmetrical arm pattern, then alternates UE
 Regression to earlier patterns as more mature version occurs 
 
 
-# Cognitive Theory
+# Cognitive Theory {#cognitive-theory}
 
 •Thinkingdevelopsinstagesofincreasingcomplexity. • Children organize mental schemes through the use of mental operations @effgenMeetingPhysicalTherapy2013.
 
 Piaget: cognitive development theory
+
 - 4 stages of cognitive development (inc complexity)
     - Sensorimotor stage (0-2 years): reflex activity leads to purposeful mvmt
     - Pre operational stage (2-7) : unidimensional awareness of environment

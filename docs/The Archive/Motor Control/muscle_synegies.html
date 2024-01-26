@@ -20,7 +20,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -66,7 +85,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="../../styles.css">
 </head>
 
-<body class="floating nav-fixed">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -114,18 +133,15 @@ ul.task-list li input[type="checkbox"] {
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation floating overflow-auto">
-    <nav id="TOC" role="doc-toc" class="toc-active">
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">Contents</h2>
    
   <ul>
   <li><a href="#tonic-phasic" id="toc-tonic-phasic" class="nav-link active" data-scroll-target="#tonic-phasic"><span class="header-section-number">1</span> Tonic &amp; Phasic</a></li>
   </ul>
 <div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="muscle_synegies.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
-</nav>
-<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
-<!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -154,7 +170,7 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>Muscle synergies refers to the hypothesis that the central nervous system (CNS) simplifies the planning and production of movement by using a combination of a limited number of spatial and/or temporal modules<span class="citation" data-cites="brambillaPhasicTonicMuscle2023"><sup><a href="#ref-brambillaPhasicTonicMuscle2023" role="doc-biblioref"><strong>brambillaPhasicTonicMuscle2023?</strong></a></sup></span></p>
+<p>Muscle synergies refers to the hypothesis that the central nervous system (CNS) simplifies the planning and production of movement by using a combination of a limited number of spatial and/or temporal modules<span class="citation" data-cites="brambillaPhasicTonicMuscle2023"><sup><a href="#ref-brambillaPhasicTonicMuscle2023" role="doc-biblioref">1</a></sup></span></p>
 <section id="tonic-phasic" class="level1" data-number="1">
 <h1 data-number="1"><span class="header-section-number">1</span> Tonic &amp; Phasic</h1>
 <div class="callout callout-style-default callout-note callout-titled" title="From MSK 2 lecture">
@@ -184,12 +200,17 @@ From MSK 2 lecture
 </ul>
 </div>
 </div>
-<p>Read this article for more information about tonic/phasic muscles:<span class="citation" data-cites="brambillaPhasicTonicMuscle2023"><sup><a href="#ref-brambillaPhasicTonicMuscle2023" role="doc-biblioref"><strong>brambillaPhasicTonicMuscle2023?</strong></a></sup></span></p>
+<p>Read this article for more information about tonic/phasic muscles:<span class="citation" data-cites="brambillaPhasicTonicMuscle2023"><sup><a href="#ref-brambillaPhasicTonicMuscle2023" role="doc-biblioref">1</a></sup></span></p>
+
 
 
 </section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-brambillaPhasicTonicMuscle2023" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Brambilla C, Russo M, d’Avella A, Scano A. Phasic and tonic muscle synergies are different in number, structure and sparseness. <em>Human Movement Science</em>. 2023;92:103148. doi:<a href="https://doi.org/10.1016/j.humov.2023.103148">10.1016/j.humov.2023.103148</a></div>
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
