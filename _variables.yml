@@ -892,6 +892,13 @@ ref-neuronal-group-selection-theory:
   path: "/The Archive/Pediatrics/Development/overview_theories_of_child_development.qmd"
 ref-normal-child-development:
   path: "/The Archive/Pediatrics/Development/normal_child_development.qmd"
+## Pediatric Tests and Measures
+ref-gross-motor-function-measure:
+  path: "/The Archive/Pediatrics/Pediatric Tests and Measures/GMFM_gross_motor_function_measure.qmd"
+ref-bayley-scales-of-infant-development:
+  path: "/The Archive/Pediatrics/Pediatric Tests and Measures/bayley_scales_of_infant_development.qmd"
+ref-peabody-developmental-motor-scales:
+  path: "/The Archive/Pediatrics/Pediatric Tests and Measures/peabody_developmental_motor_scales.qmd"
 
 # Performance training
 ## Golf
