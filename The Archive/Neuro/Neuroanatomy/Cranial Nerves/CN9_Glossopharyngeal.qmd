@@ -1,3 +1,16 @@
 ---
 title: CNIX Glossopharyngeal Nerve
 ---
+
+
+
+# Functions
+
+## Touch & Pain
+
+1. (Mucosa of Posterior Tongue, Tonsil, Middle ear, Nasopharynx, Oropharynx, Carotid Sinus & Body)
+1. Superior Glossopharyngeal ganglion
+1. [Spinal Trigeminal Tract]({{< var ref-spinal-trigeminal-tract.path >}})
+1. [Spinal Trigeminal Nucleus]({{< var ref-spinal-trigeminal-nucleus.path >}})
+1. Medial lemniscus (Touch) and Spinal lemniscus (Pain)
+1. Sensory cortex
