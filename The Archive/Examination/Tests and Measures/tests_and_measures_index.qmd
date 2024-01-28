@@ -8,9 +8,16 @@ title: Index of Tests & Measures
 
 ### Upper Extremity Tests
 
+- [Cervical Rotation Lateral Flexion Test]({{< var ref-cervical-rotation-lateral-flexion-test.path >}})
 - [ERLS (Possibly)]({{< var ref-ERLS-external-rotation-lag-sign.path >}})
 - Champagne Toast
+- [Hawkin's-Kennedy Test]({{< var ref-hawkins-kennedy-test.path >}})
 - [Infraspinatus muscle test]({{< var ref-infraspinatus-muscle-test.path >}})
+- [Neer Impingement Test]({{< var ref-neer-impingement-test.path >}})
+- Speed's Test
+- [Stretch Test (of the Brachial Plexus)]({{< var ref-brachial-plexus-stretch-test.path >}})
+- [Tinel's Sign (of the brachial plexus)]({{< var ref-tinels-test.brachial-plexus >}})
+
 
 ### Lower Extremity Tests
 

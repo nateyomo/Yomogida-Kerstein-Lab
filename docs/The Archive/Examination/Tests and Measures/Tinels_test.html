@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Yomogida &amp; Kerstein Lab - Journal Club</title>
+<title>Yomogida &amp; Kerstein Lab - Tinel’s Sign</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,29 +20,46 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../">
+<script src="../../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -63,40 +80,9 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../../styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -106,7 +92,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../../index.html">
     <span class="navbar-title">Yomogida &amp; Kerstein Lab</span>
     </a>
   </div>
@@ -117,23 +103,23 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html" rel="" target="">
+    <a class="nav-link" href="../../../index.html" rel="" target="">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html" rel="" target="">
+    <a class="nav-link" href="../../../about.html" rel="" target="">
  <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./The Archive/archive_index.html" rel="" target="">
+    <a class="nav-link" href="../../../The Archive/archive_index.html" rel="" target="">
  <span class="menu-text">Archive</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./guide.html" rel="" target="">
+    <a class="nav-link" href="../../../guide.html" rel="" target="">
  <span class="menu-text">Guide</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./journal club index.html" rel="" target="" aria-current="page">
+    <a class="nav-link" href="../../../journal club index.html" rel="" target="">
  <span class="menu-text">Journal Club</span></a>
   </li>  
 </ul>
@@ -149,14 +135,34 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Contents</h2>
+   
+  <ul>
+  <li><a href="#carpal-tunnel" id="toc-carpal-tunnel" class="nav-link active" data-scroll-target="#carpal-tunnel"><span class="header-section-number">1</span> Carpal Tunnel</a></li>
+  <li><a href="#cubital-tunnel-syndrome" id="toc-cubital-tunnel-syndrome" class="nav-link" data-scroll-target="#cubital-tunnel-syndrome"><span class="header-section-number">2</span> Cubital tunnel syndrome</a></li>
+  <li><a href="#radial-nerve-entrapment" id="toc-radial-nerve-entrapment" class="nav-link" data-scroll-target="#radial-nerve-entrapment"><span class="header-section-number">3</span> Radial nerve entrapment</a></li>
+  <li><a href="#tarsal-tunnel-syndrome" id="toc-tarsal-tunnel-syndrome" class="nav-link" data-scroll-target="#tarsal-tunnel-syndrome"><span class="header-section-number">4</span> Tarsal tunnel syndrome</a></li>
+  <li><a href="#superficial-peroneal-neuropathy" id="toc-superficial-peroneal-neuropathy" class="nav-link" data-scroll-target="#superficial-peroneal-neuropathy"><span class="header-section-number">5</span> Superficial peroneal neuropathy</a></li>
+  <li><a href="#brachial-plexus" id="toc-brachial-plexus" class="nav-link" data-scroll-target="#brachial-plexus"><span class="header-section-number">6</span> Brachial Plexus Version</a>
+  <ul class="collapse">
+  <li><a href="#technique" id="toc-technique" class="nav-link" data-scroll-target="#technique"><span class="header-section-number">6.1</span> Technique</a></li>
+  <li><a href="#interpretation" id="toc-interpretation" class="nav-link" data-scroll-target="#interpretation"><span class="header-section-number">6.2</span> Interpretation</a></li>
+  </ul></li>
+  <li><a href="#TOS" id="toc-TOS" class="nav-link" data-scroll-target="#TOS"><span class="header-section-number">7</span> TOS Version</a>
+  <ul class="collapse">
+  <li><a href="#technique-1" id="toc-technique-1" class="nav-link" data-scroll-target="#technique-1"><span class="header-section-number">7.1</span> Technique</a></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Journal Club</h1>
+<h1 class="title">Tinel’s Sign</h1>
+<p class="subtitle lead">Special test of neuropathy</p>
 </div>
 
 
@@ -178,92 +184,57 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<section id="carpal-tunnel" class="level1" data-number="1">
+<h1 data-number="1"><span class="header-section-number">1</span> Carpal Tunnel</h1>
+</section>
+<section id="cubital-tunnel-syndrome" class="level1" data-number="2">
+<h1 data-number="2"><span class="header-section-number">2</span> Cubital tunnel syndrome</h1>
+</section>
+<section id="radial-nerve-entrapment" class="level1" data-number="3">
+<h1 data-number="3"><span class="header-section-number">3</span> Radial nerve entrapment</h1>
+</section>
+<section id="tarsal-tunnel-syndrome" class="level1" data-number="4">
+<h1 data-number="4"><span class="header-section-number">4</span> Tarsal tunnel syndrome</h1>
+</section>
+<section id="superficial-peroneal-neuropathy" class="level1" data-number="5">
+<h1 data-number="5"><span class="header-section-number">5</span> Superficial peroneal neuropathy</h1>
+</section>
+<section id="brachial-plexus" class="level1" data-number="6">
+<h1 data-number="6"><span class="header-section-number">6</span> Brachial Plexus Version</h1>
+<section id="technique" class="level2" data-number="6.1">
+<h2 data-number="6.1" class="anchored" data-anchor-id="technique"><span class="header-section-number">6.1</span> Technique</h2>
+<ul>
+<li>Patient is seated<span class="citation" data-cites="duttonDuttonOrthopaedicExamination2020"><sup><a href="#ref-duttonDuttonOrthopaedicExamination2020" role="doc-biblioref">1</a></sup></span></li>
+<li>Ask the pt to to SB neck contralaterally (to uninvolved side)<span class="citation" data-cites="duttonDuttonOrthopaedicExamination2020"><sup><a href="#ref-duttonDuttonOrthopaedicExamination2020" role="doc-biblioref">1</a></sup></span></li>
+<li>Clinician taps or squeezes trunks of brachial plexus using fingers</li>
+</ul>
+</section>
+<section id="interpretation" class="level2" data-number="6.2">
+<h2 data-number="6.2" class="anchored" data-anchor-id="interpretation"><span class="header-section-number">6.2</span> Interpretation</h2>
+<ul>
+<li>Local pain<span class="citation" data-cites="duttonDuttonOrthopaedicExamination2020"><sup><a href="#ref-duttonDuttonOrthopaedicExamination2020" role="doc-biblioref">1</a></sup></span>
+<ul>
+<li>Indicates cervical plexus lesion<span class="citation" data-cites="duttonDuttonOrthopaedicExamination2020"><sup><a href="#ref-duttonDuttonOrthopaedicExamination2020" role="doc-biblioref">1</a></sup></span></li>
+</ul></li>
+<li>Tingling along one of the trunks:<span class="citation" data-cites="duttonDuttonOrthopaedicExamination2020"><sup><a href="#ref-duttonDuttonOrthopaedicExamination2020" role="doc-biblioref">1</a></sup></span> Indicates: Compression/neuroma of one or more trunks of brachial plexus<span class="citation" data-cites="duttonDuttonOrthopaedicExamination2020"><sup><a href="#ref-duttonDuttonOrthopaedicExamination2020" role="doc-biblioref">1</a></sup></span></li>
+</ul>
+</section>
+</section>
+<section id="TOS" class="level1" data-number="7">
+<h1 data-number="7"><span class="header-section-number">7</span> TOS Version</h1>
+<section id="technique-1" class="level2" data-number="7.1">
 
 
 
 
-<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Order By</option>
-       <option value="index" data-direction="asc">Default</option>
-         <option value="listing-date-sort" data-direction="asc">
-          Date - Oldest
-        </option>
-         <option value="listing-date-sort" data-direction="desc">
-          Date - Newest
-        </option>
-         <option value="listing-title-sort" data-direction="asc">
-          Title
-        </option>
-         <option value="listing-author" data-direction="asc">
-          Author
-        </option>
-     </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
+</section>
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">7.1 Technique</h2><div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-duttonDuttonOrthopaedicExamination2020" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Dutton M. <em>Dutton’s Orthopaedic Examination, Evaluation, and Intervention</em>. Fifth edition. <span>McGraw Hill Education</span>; 2020.</div>
 </div>
-
-<table class="quarto-listing-table table">
-<thead>
-<tr>
-<th>
-<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
-</th>
-<th>
-<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
-</th>
-<th>
-<a class="sort" data-sort="listing-author" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Author</a>
-</th>
-</tr>
-</thead>
-<tbody class="list">
-<tr data-index="0" data-listing-date-sort="1706083200000" data-listing-file-modified-sort="1706475690905" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="Effect of Stress on Cervical muscle activity" data-listing-filename-sort="jc3_effect_of_stress_on_cervical_muscle_activity.qmd">
-<td>
-<span class="listing-date">Jan 24, 2024</span>
-</td>
-<td>
-<a href="./Journal club/jc3_effect_of_stress_on_cervical_muscle_activity.html" class="title listing-title">Effect of Stress on Cervical muscle activity</a>
-</td>
-<td>
-<span class="listing-author">Nathaniel Yomogida, SPT, Chloë Kerstein, SPT</span>
-</td>
-</tr>
-<tr data-index="1" data-listing-date-sort="1705824000000" data-listing-file-modified-sort="1706475690905" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="Effects of Cold Bath Post-Exercise" data-listing-filename-sort="jc2_post-exercise_cold_immersion.qmd">
-<td>
-<span class="listing-date">Jan 21, 2024</span>
-</td>
-<td>
-<a href="./Journal club/jc2_post-exercise_cold_immersion.html" class="title listing-title">Effects of Cold Bath Post-Exercise</a>
-</td>
-<td>
-<span class="listing-author">Nathaniel Yomogida, SPT, Chloë Kerstein, SPT</span>
-</td>
-</tr>
-<tr data-index="2" data-listing-date-sort="1705737600000" data-listing-file-modified-sort="1706475690905" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-title-sort="Cryotherapy for Contusions" data-listing-filename-sort="jc1_cryotherapy_contusions.qmd">
-<td>
-<span class="listing-date">Jan 20, 2024</span>
-</td>
-<td>
-<a href="./Journal club/jc1_cryotherapy_contusions.html" class="title listing-title">Cryotherapy for Contusions</a>
-</td>
-<td>
-<span class="listing-author">Nathaniel Yomogida, SPT, Chloë Kerstein, SPT</span>
-</td>
-</tr>
-</tbody>
-
-</table>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

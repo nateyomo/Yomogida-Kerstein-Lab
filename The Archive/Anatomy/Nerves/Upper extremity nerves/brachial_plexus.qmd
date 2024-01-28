@@ -14,4 +14,4 @@ title: Brachial Plexus
 
 - [Stretch test]({{< var ref-brachial-plexus-stretch-test.path >}})
 - [Cervical Rotation Lateral Flexion Test]({{< var ref-cervical-rotation-lateral-flexion-test.path >}})
-- [Tinel’s Sign]({{< var ref-brachial-plexus-tinels-sign.path >}})
+- [Tinel’s Sign]({{< var ref-tinels-test.brachial-plexus >}})

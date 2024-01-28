@@ -319,7 +319,7 @@
     "href": "The Archive/Examination/Tests and Measures/tests_and_measures_index.html",
     "title": "Index of Tests & Measures",
     "section": "",
-    "text": "0.1 Head and neck Tests\nVertebrobasilar insufficiency Test (VBI)\n\n\n0.2 Upper Extremity Tests\n\nERLS (Possibly)\nChampagne Toast\nInfraspinatus muscle test\n\n\n\n0.3 Lower Extremity Tests\n\nFulcrum Test (Femoral stress Fx)"
+    "text": "0.1 Head and neck Tests\nVertebrobasilar insufficiency Test (VBI)\n\n\n0.2 Upper Extremity Tests\n\nCervical Rotation Lateral Flexion Test\nERLS (Possibly)\nChampagne Toast\nHawkin’s-Kennedy Test\nInfraspinatus muscle test\nNeer Impingement Test\nSpeed’s Test\nStretch Test (of the Brachial Plexus)\nTinel’s Sign (of the brachial plexus)\n\n\n\n0.3 Lower Extremity Tests\n\nFulcrum Test (Femoral stress Fx)"
   },
   {
     "objectID": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/hawkins-kennedy_test.html",
@@ -5444,5 +5444,40 @@
     "title": "Vertebrobasilar Insufficiency Test",
     "section": "3.2 What if I still want to perform a cervical mobilization?",
     "text": "3.2 What if I still want to perform a cervical mobilization?\nFirst, you should opt for a grade I-IV mob rather than a grade V thrust technique1. One should follow the Australian Physiotherapy Association’s Protocol for Premanipulative Testing of the Cervical Spine (although this cannot be viewed as a prescriptive guideline)1.\n\nAustralian Physiotherapy Association’s Protocol recommends that the clinician should maintain the immediate premobilization position for &gt;=10sec to test the patency of the vertebrobasilar system1.\nClinical testing for VBI should stop once (+) signs or symptoms are noted1.\nThroughout the tests, one should observe for possible nystagmus or changes in pupil size and should have the patient count backward to assess his or her quality of speech1.\nThe patient should be instructed to report any changes in symptoms (even seemingly insignificant changes)1.\n\n\n\n\n\n\n\nCaution\n\n\n\nThe sensitivity of these premanipulative protocols are unclear1. Multiple studies have found these protocols to have a poor prediction values1."
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Thoracic outlet syndrome/Adsons_vascular_test.html",
+    "href": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Thoracic outlet syndrome/Adsons_vascular_test.html",
+    "title": "Adson’s Vascular Test",
+    "section": "",
+    "text": "Warning\n\n\n\n“This seems like a bad test” - Chloë Kerstein, SPT\n\n\nPt is sitting arms at 15 degrees ABD, PT palpating radial pulse (this position theoretically tensions anterior and middle scalenes, compromising the interscalene triangle, but biomechanical evidence finds the scalene angle to increase, which should reduce likelihood of compression) Pt asked to inhale and hold breath Pt asked to tilt head back, rotate head so that chin is elevated and pointed to examined side PT records pulse as diminished, occluded and asks about presence of paresthesia"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Tinels_test.html#technique",
+    "href": "The Archive/Examination/Tests and Measures/Tinels_test.html#technique",
+    "title": "Tinel’s Sign",
+    "section": "6.1 Technique",
+    "text": "6.1 Technique\n\nPatient is seated1\nAsk the pt to to SB neck contralaterally (to uninvolved side)1\nClinician taps or squeezes trunks of brachial plexus using fingers"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Tinels_test.html#interpretation",
+    "href": "The Archive/Examination/Tests and Measures/Tinels_test.html#interpretation",
+    "title": "Tinel’s Sign",
+    "section": "6.2 Interpretation",
+    "text": "6.2 Interpretation\n\nLocal pain1\n\nIndicates cervical plexus lesion1\n\nTingling along one of the trunks:1 Indicates: Compression/neuroma of one or more trunks of brachial plexus1"
+  },
+  {
+    "objectID": "The Archive/Anatomy/Multi-system structures/thoracic_outlet.html",
+    "href": "The Archive/Anatomy/Multi-system structures/thoracic_outlet.html",
+    "title": "Thoracic Outlet",
+    "section": "",
+    "text": "Adson’s Vascular Test\nCostoclavicular Test\nRoos Test\nWright Test (Hyperabduction Maneuver)\nPassive Shoulder Shrug\n\n\n\n\n\n\n\nCaution\n\n\n\n\nLittle reliability with these tests (despite widespread use)1\nWith all: (+) test = diminution or disappearance of pulse or neuro symptoms1"
+  },
+  {
+    "objectID": "The Archive/Anatomy/Multi-system structures/thoracic_outlet.html#testing",
+    "href": "The Archive/Anatomy/Multi-system structures/thoracic_outlet.html#testing",
+    "title": "Thoracic Outlet",
+    "section": "",
+    "text": "Adson’s Vascular Test\nCostoclavicular Test\nRoos Test\nWright Test (Hyperabduction Maneuver)\nPassive Shoulder Shrug\n\n\n\n\n\n\n\nCaution\n\n\n\n\nLittle reliability with these tests (despite widespread use)1\nWith all: (+) test = diminution or disappearance of pulse or neuro symptoms1"
   }
 ]

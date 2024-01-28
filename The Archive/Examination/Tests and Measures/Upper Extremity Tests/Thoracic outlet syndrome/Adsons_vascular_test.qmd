@@ -1,0 +1,19 @@
+---
+title: Adson's Vascular Test
+subtitle: A special test for Thoracic Outlet Syndrome (TOS)
+---
+
+:::{.callout-warning}
+This test should be avoided due to the large percent of false positives @hooperThoracicOutletSyndrome2010
+:::
+
+# Technique
+Pt is sitting arms at 15 degrees ABD, PT palpating radial pulse (this position theoretically tensions anterior and middle scalenes, compromising the interscalene triangle, 
+
+:::{.callout-important title="Conflicting evidence"}
+This movement is said to "compromise (compress) the interscalene triangle" but biomechanical evidence finds the scalene angle to increase, which should reduce likelihood of compression) @duttonDuttonOrthopaedicExamination2020
+:::
+
+- Patient asked to inhale and hold breath @duttonDuttonOrthopaedicExamination2020
+- Patient asked to tilt head back, rotate head so that chin is elevated and pointed to examined side @duttonDuttonOrthopaedicExamination2020
+- Clinician records pulse as diminished, occluded and asks about presence of paresthesia @duttonDuttonOrthopaedicExamination2020
