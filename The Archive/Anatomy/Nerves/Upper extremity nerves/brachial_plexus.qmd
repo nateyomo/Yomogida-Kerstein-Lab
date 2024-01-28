@@ -1,0 +1,17 @@
+---
+title: Brachial Plexus
+---
+
+
+
+
+
+# Dysfunction
+
+## Brachial Plexus irritation {#brachial-plexus-irritation}
+
+# Tests and measures
+
+- [Stretch test]({{< var ref-brachial-plexus-stretch-test.path >}})
+- [Cervical Rotation Lateral Flexion Test]({{< var ref-cervical-rotation-lateral-flexion-test.path >}})
+- [Tinel’s Sign]({{< var ref-brachial-plexus-tinels-sign.path >}})

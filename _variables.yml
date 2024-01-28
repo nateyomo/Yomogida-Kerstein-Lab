@@ -21,6 +21,7 @@ ref-sternum-bone:
   path: "/The Archive/Anatomy/Bones/Bones of the trunk/sternum_bone.qmd"
 ref-1st-rib:
   path: "/The Archive/Anatomy/Bones/Bones of the trunk/1st_rib.qmd"
+  hypomobility: "/The Archive/Anatomy/Bones/Bones of the trunk/1st_rib.qmd#hypomobility"
 ref-ribs-bones:
   path: "/The Archive/Anatomy/Bones/Bones of the trunk/ribs_bone.qmd"
 
@@ -81,6 +82,12 @@ ref-costal-cartilages:
 ## Connective Tissue
 ref-rectus-sheath:
   path: "/The Archive/Anatomy/Connective tissue/rectus_sheath.qmd"
+
+## Joints
+ref-sacroiliac-joint:
+  path: "/The Archive/Anatomy/Joints/sacroiliac_joint.qmd"
+ref-z-joint:
+  path: "/The Archive/Anatomy/Joints/z-joint.qmd"
 
 ## Ligaments
 ref-index-ligaments:
@@ -543,6 +550,8 @@ ref-spinal-nerves:
   path: /The Archive/Anatomy/Nerves/spinal_nerves.qmd
 
 ### Upper extremity nerve
+ref-brachial-plexus:
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/brachial_plexus.qmd"
 ref-axillary-nerve:
   path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/axillary_nerve.qmd"
   roots: (C5, C6)
@@ -574,6 +583,11 @@ ref-nuchal-ligament:
 # Evidence Based Practice (EBP)
 ref-EBP-index:
   path: "/The Archive/Evidene Based Practice/EBP_index.qmd"
+## EBP Terms
+ref-odds-ratio:
+  path: "/The Archive/Evidene Based Practice/EBP Terms/odds_ratio.qmd"
+ref-relative-risk:
+  path: "/The Archive/Evidene Based Practice/EBP Terms/relative_risk.qmd"
 ## Multivariate Data analysis
 ### Terms
 ref-homoscedasticity:
@@ -613,11 +627,22 @@ ref-hip-balance-strategy:
 
 ### Cervical T&M
 ref-VBI-vertebrobasilar-insufficiency-test:
-  path: "/The Archive/Examination/Tests and Measures/Cervical Tests and Measures/VBI_vertebrobasilar_insufficiency_test.qmd"
+  path: "/The Archive/Examination/Tests and Measures/Head and Neck Tests/VBI_vertebrobasilar_insufficiency_test.qmd"
   sensitivity: ""
   specificity: ""
-
+ref-cervical-distraction-test:
+  path: "/The Archive/Examination/Tests and Measures/Head and Neck Tests/cervical_distraction_test.qmd"
+  specificity: "High"
+  sensitivity: "Low"
 ### Upper Extremity tests
+ref-brachial-plexus-stretch-test:
+  path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/stretch_test_brachial_plexus.qmd"
+ref-cervical-rotation-lateral-flexion-test:
+  path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/cervical_rotation_lateral_flexion_test.qmd"
+  interrater-reliability: "Excellent"
+
+ref-brachial-plexus-tinels-sign:
+  path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/Tinels_sign_brachial_plexus.qmd"
 ref-infraspinatus-muscle-test:
   path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/infraspinatus_muscle_test.qmd"
 ref-ERLS-external-rotation-lag-sign:
@@ -641,6 +666,9 @@ ref-chromosome-21:
 # Interventions
 ref-interventions-index:
   path: "/The Archive/Interventions/interventions_index.qmd"
+## PNF
+ref-proprioceptive-neuromuscular-facilitation:
+  path: "/The Archive/Interventions/PNF/proprioceptive_neuromuscular_facilitation.qmd"
 ## Cryotherapy
 ref-icing-cryotherapy:
   path: "/The Archive/Interventions/Cryotherapy/icing_cryotherapy.qmd"
@@ -857,7 +885,7 @@ ref-kallmann-syndrome:
 ## MSK Pathologies
 ### Head and Neck
 ref-VBI-vertebrobasilar-insufficiency:
-  path: "/The Archive/Examination/Tests and Measures/Cervical Tests and Measures/VBI_vertebrobasilar_insufficiency_test.qmd"
+  path: "/The Archive/Pathologies/MSK Pathologies/Head and neck/vertebrobasilar_insufficiency.qmd"
 ### Trunk
 ref-chronic-low-back-pain: 
   path: "/The Archive/Pathologies/MSK Pathologies/Trunk/chronic_low_back_pain.qmd"
@@ -881,8 +909,20 @@ adductor-muscle-strain:
   path: "/The Archive/Pathologies/MSK Pathologies/Lower extremity/adductor_muscle_strain.qmd"
 
 # Pathophysiology
+## Bone Pathophysiology
 ref-stress-reactions-and-fractures:
-  path: "/The Archive/Pathophysiology/stress_reactions_and_fractures.qmd"
+  path: "/The Archive/Pathophysiology/Bone Pathophysiology/stress_reactions_and_fractures.qmd"
+## Muscle pathophysiology
+ref-index-muscle-pathophysiology:
+  path: "/The Archive/Pathophysiology/Muscle pathophysiology/index_muscle_pathophysiology.qmd"
+ref-muscle-states:
+  path: "/The Archive/Pathophysiology/Muscle pathophysiology/muscle_states.qmd"
+## Joint pathophysiology
+ref-z-joint-irritation:
+  path: "/The Archive/Anatomy/Joints/z-joint.qmd#z-joint-irritation"
+## Nerve pathophysiology
+ref-brachial-plexus-irritation:
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/brachial_plexus.qmd#brachial-plexus-irritation"
 
 # Pediatrics
 ## Development
@@ -905,12 +945,19 @@ ref-neuronal-group-selection-theory:
 ref-normal-child-development:
   path: "/The Archive/Pediatrics/Development/normal_child_development.qmd"
 ## Pediatric Tests and Measures
+ref-index-pediatric-tests-and-measures:
+  path: "/The Archive/Pediatrics/Pediatric Tests and Measures/index_pediatric_tests_and_measures.qmd"
 ref-gross-motor-function-measure:
   path: "/The Archive/Pediatrics/Pediatric Tests and Measures/GMFM_gross_motor_function_measure.qmd"
 ref-bayley-scales-of-infant-development:
   path: "/The Archive/Pediatrics/Pediatric Tests and Measures/bayley_scales_of_infant_development.qmd"
 ref-peabody-developmental-motor-scales:
   path: "/The Archive/Pediatrics/Pediatric Tests and Measures/peabody_developmental_motor_scales.qmd"
+## Embryology
+ref-fetal-development:
+  path: "/The Archive/Pediatrics/Embryology/fetal_development.qmd"
+ref-neuroembryology:
+  path: "/The Archive/Pediatrics/Embryology/neuroembryology.qmd"
 
 # Performance training
 ## Golf
@@ -947,6 +994,8 @@ ref-surfing-takeoff:
 # Neuroscience
 
 ## Neuroanatomy
+ref-index-neuroanatomy:
+  path: "/The Archive/Neuro/Neuroanatomy/index_neuroanatomy.qmd"
 ### Basal ganglia
 ref-basal-ganglia:
   path: "/The Archive/Neuro/Neuroanatomy/Basal Ganglia/basal_ganglia.qmd"

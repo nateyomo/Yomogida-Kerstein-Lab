@@ -9,3 +9,17 @@ title: 1st Rib (Bone)
 | [Subclavius]({{< var ref-subclavius.path >}}) | {{< var ref-subclavius.origin >}} | {{< var ref-subclavius.insertion >}} | {{< var ref-subclavius.nerve >}} | {{< var ref-subclavius.action >}} |
 
 : {.striped .hover}
+
+
+# Hypomobility {#hypomobility}
+
+1st Rib hypomobility or restriction can be caused by:
+
+- 1st rib subluxation at costotransverse joint
+
+Can result in secondary pathologies, such as:
+
+-  Thoracic outlet syndrome (TOS)
+
+- Tests:
+    - [Cervical Rotation Lateral Flexion]({{< ref-cervical-rotation-lateral-flexion.path >}})

@@ -1,0 +1,55 @@
+---
+title: Odds Ratio (OR)
+---
+
+- Question: How to compare to Relative risk
+
+
+
+
+
+# Definition
+
+- Odds that an outcome will occur given a particular exposure, compared to the odds of the outcome occurring in the absence of that exposure
+
+:::{.callout-tip}
+I like to think of odds ratio as the reverse of an RCT
+
+In an RCT, we compare the experimental and control group, which only differ by the independent variable.
+Then the results are measured using dependent variables
+
+An odds ratio compares two groups of people who only differ based on exposure.
+You could think of exposure as the "independent variable."
+When viewing the results, you could view the exposure rates as the "dependent variables."
+Thus when comparing the two using an odds ratio, you are trying to ascertain whether the exposure was statistically significant in outcome rates.
+:::
+
+
+Odds ratio (OR):  (see 28613750)
+
+- The odds ratio (OR) is a measure of how strongly an event is associated with exposure. 
+
+
+- OR = odds that a case was exposed / Odds that a control was exposed
+
+# Practical use:
+
+- Odds ratios commonly are used to report case-control studies
+
+# Calculation
+
+
+
+- The odds ratio is a ratio of two sets of odds: the odds of the event occurring in an exposed group versus the odds of the event occurring in a non-exposed group
+
+# Interpretation
+
+- OR < 1: Odds of disease lower with exposed than non-exposed
+- OR = 1: No difference in odds of disease
+- OR > 1: Odds of disease greater in exposed than non-exposed
+
+
+# Videos
+
+{{< video https://www.youtube.com/watch?v=FVgBQN7ksxM&pp=ygUUb2RkcyByYXRpbyBleHBsYWluZWQ%3D >}}
+{{< video https://www.youtube.com/watch?v=7ymCiLPP9os&pp=ygUUb2RkcyByYXRpbyBleHBsYWluZWQ%3D >}}

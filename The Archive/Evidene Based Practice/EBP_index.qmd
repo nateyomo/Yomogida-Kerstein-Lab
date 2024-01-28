@@ -1,3 +1,8 @@
 ---
 title: EBP index
 ---
+
+
+- Article Search
+- Article Appraisal
+- Statistical Analysis

@@ -42,5 +42,9 @@ title: "The Archive"
 # Examination
 {{< include "Examination/examination_index.qmd" >}}
 
+# Evidence Based Practice
+{{< include "/The Archive/Evidene Based Practice/EBP_index.qmd" >}}
+
+
 # Performance Training
 {{< include "/The Archive/Performance Training/performance_training_index.qmd" >}}

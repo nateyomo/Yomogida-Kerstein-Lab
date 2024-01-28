@@ -1,0 +1,16 @@
+---
+title: Index of Neuropathologies
+---
+
+# Central Nervous System pathologies
+
+- [Amyotrophic Lateral Sclerosis (ALS)]({{< var ref-amyotrophic-lateral-sclerosis.path >}})
+- [Down Syndrome (Trisomy 21)]({{< var ref-down-syndrome.path >}})
+
+# Peripheral Nervous System Pathologies
+
+- [Trigeminal Neuralgia]({{< var ref-trigeminal-neuralgia.path >}})
+- [Bell's Palsy]({{< var ref-bell-palsy.path >}})
+
+
+
