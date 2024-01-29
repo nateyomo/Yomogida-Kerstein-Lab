@@ -10,6 +10,9 @@ ref-jc-2-post-exercise-cold-immersion:
 ## Arteries 
 ref-basilar-artery:
   path: "/The Archive/Anatomy/Arteries/basilar_artery.qmd"
+### Upper extremity arteries
+ref-subclavian-artery:
+  path: "/The Archive/Anatomy/Arteries/Upper Extremity/subclavian_artery.qmd"
 
 ## Bones
 
@@ -22,6 +25,7 @@ ref-sternum-bone:
 ref-1st-rib:
   path: "/The Archive/Anatomy/Bones/Bones of the trunk/1st_rib.qmd"
   hypomobility: "/The Archive/Anatomy/Bones/Bones of the trunk/1st_rib.qmd#hypomobility"
+  elevation: "/The Archive/Anatomy/Bones/Bones of the trunk/1st_rib.qmd"
 ref-ribs-bones:
   path: "/The Archive/Anatomy/Bones/Bones of the trunk/ribs_bone.qmd"
 
@@ -30,6 +34,7 @@ ref-clavicle-bone:
   path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/clavicle_bone.qmd"
 ref-scapula-bone:
   path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/scapula_bone.qmd"
+  superior-border: "/The Archive/Anatomy/Bones/Upper Extremity Bones/scapula_bone.qmd#superior-border"
 ref-humerus-bone:
   path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/humerus_bone.qmd"
 ref-ulna-bone:
@@ -559,6 +564,7 @@ ref-spinal-nerves:
 ### Upper extremity nerve
 ref-brachial-plexus:
   path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/brachial_plexus.qmd"
+  inferior-trunk: "/The Archive/Anatomy/Nerves/Upper extremity nerves/brachial_plexus.qmd#inferior-trunk"
 ref-axillary-nerve:
   path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/axillary_nerve.qmd"
   roots: (C5, C6)
@@ -586,6 +592,10 @@ ref-lumbosacral-plexus:
 ref-nuchal-ligament:
   path: "/The Archive/Anatomy/Ligaments/nuchal_ligament.qmd"
 
+## Veins
+### Upper extremity
+ref-subclavian-vein:
+  path: "/The Archive/Anatomy/Veins/Upper Extremity/subclavian_vein.qmd"
 
 # Evidence Based Practice (EBP)
 ref-EBP-index:
@@ -635,7 +645,7 @@ ref-tinels-test:
   path: "/The Archive/Examination/Tests and Measures/Tinels_test.qmd"
   brachial-plexus: "/The Archive/Examination/Tests and Measures/Tinels_test.qmd#brachial-plexus"
   carpal-tunnel: "/The Archive/Examination/Tests and Measures/Tinels_test.qmd#carpal-tunnel"
-### Cervical T&M
+### Head and neck tests
 ref-VBI-vertebrobasilar-insufficiency-test:
   path: "/The Archive/Examination/Tests and Measures/Head and Neck Tests/VBI_vertebrobasilar_insufficiency_test.qmd"
   sensitivity: ""
@@ -644,6 +654,12 @@ ref-cervical-distraction-test:
   path: "/The Archive/Examination/Tests and Measures/Head and Neck Tests/cervical_distraction_test.qmd"
   specificity: "High"
   sensitivity: "Low"
+ref-cervical-relocation-test:
+  path: "/The Archive/Examination/Tests and Measures/Head and Neck Tests/CRT_cervical_relocation_test.qmd"
+  intrarater-reliability: "Good"
+  interrater-reliability: "Variable"
+  specificity: ""
+  sensitivity: ""
 ### Upper Extremity tests
 ref-brachial-plexus-stretch-test:
   path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/stretch_test_brachial_plexus.qmd"
@@ -660,7 +676,19 @@ ref-tos-wright-test:
   path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/Thoracic outlet syndrome/tos_wright_test.qmd"
 ref-tos-passive-shoulder-shrug-test:
   path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/Thoracic outlet syndrome/tos_passive_shoulder_shrug_test.qmd"
-
+ref-tos-cyriax-test:
+  path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/Thoracic outlet syndrome/cyriax_test.qmd"
+#### ULTT
+ref-ultt:
+  overview: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/ULTT/ULTT_upper_limb_tension_test.qmd"
+  ultt1:
+    path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/ULTT/ULTT1.qmd"
+  ultt2a:
+    path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/ULTT/ULTT2a.qmd"
+  ultt2b:
+    path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/ULTT/ULTT2b.qmd"
+  ultt3:
+    path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/ULTT/ULTT3.qmd"
 
 ref-infraspinatus-muscle-test:
   path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/infraspinatus_muscle_test.qmd"
@@ -730,7 +758,7 @@ ref-phosphocreatine:
 ref-msk-index:
   path: "/The Archive/MSK/MSK_index.qmd"
 ref-respiration:
-  path: "/The Archive/MSK/respiration.qmd"
+  path: "The Archive/Physiology/Respiratory system/respiration.qmd"
 ## Movements
 ### Head
 ref-head-osteokinematics:
@@ -858,6 +886,14 @@ ref-CRPS-type2:
 
 ## Interventions
 
+## Pain by region
+ref-pain-neck:
+  path: "/The Archive/Pain_science/Pain by region/neck_pain.qmd"
+  acute: "/The Archive/Pain_science/Pain by region/neck_pain.qmd#acute-neck-pain"
+  chronic: "/The Archive/Pain_science/Pain by region/neck_pain.qmd#chronic-neck-pain"
+ref-pain-facial:
+  path: "/The Archive/Pain_science/Pain by region/facial_pain.qmd"
+
 ## Pain terms and Taxonomies
 ref-acute-pain:
   path: "/The Archive/Pain_science/Pain terms and Taxonomies/acute_pain.qmd"
@@ -905,6 +941,10 @@ ref-kallmann-syndrome:
 ### Head and Neck
 ref-VBI-vertebrobasilar-insufficiency:
   path: "/The Archive/Pathologies/MSK Pathologies/Head and neck/vertebrobasilar_insufficiency.qmd"
+ref-whiplash-injury:
+  path: "/The Archive/Pathologies/MSK Pathologies/Head and neck/whiplash_injury.qmd"
+ref-upper-crossed-syndrome:
+  path: "/The Archive/Pathologies/MSK Pathologies/Head and neck/upper_crossed_syndrome.qmd"
 ### Trunk
 ref-chronic-low-back-pain: 
   path: "/The Archive/Pathologies/MSK Pathologies/Trunk/chronic_low_back_pain.qmd"
@@ -940,6 +980,8 @@ ref-z-joint-irritation:
 ## Nerve pathophysiology
 ref-brachial-plexus-irritation:
   path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/brachial_plexus.qmd#brachial-plexus-irritation"
+ref-double-crush-syndrome:
+  path: "/The Archive/Pathophysiology/Nerve pathophysiology/double_crush_syndrome.qmd"
 
 # Pediatrics
 ## Development
@@ -1191,3 +1233,6 @@ ref-biopsychosocial-model:
 
 # Symptoms
 
+## Anesthesia
+ref-cervicocephalic-anesthesia:
+  path: "/The Archive/Symptoms/Anesthesia/cervicocephalic_anesthesia.qmd"

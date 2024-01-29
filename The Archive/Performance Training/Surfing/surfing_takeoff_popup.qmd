@@ -2,13 +2,15 @@
 title: Surfing Takeoff & Pop-up
 ---
 
+# Chloë's favorite video
+
+{{< video https://www.youtube.com/watch?v=9rz-ucDwjVU >}}
+
 # Gerr's method
 
 {{< video https://www.youtube.com/watch?v=vOUvoZL208I >}}
 
 {{< video https://www.youtube.com/watch?v=l7Rq6S0FC4c >}}
-
-
 
 
 # Exercises

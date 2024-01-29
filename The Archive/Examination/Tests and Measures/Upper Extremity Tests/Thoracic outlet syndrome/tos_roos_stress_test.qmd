@@ -7,6 +7,7 @@ subtitle: A special test for thoracic outlet syndrome
     - Roos Stress Test
     - Elevated arm stress test (EAST)
 
+The Roos Stress test is a special test that rules in thoracic outlet syndrome by loading the plexus thru TOS container @hooperThoracicOutletSyndrome2010.
 
 # Technique
 

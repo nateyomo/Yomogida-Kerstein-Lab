@@ -14,6 +14,10 @@ title: Scapula (Bone)
 : {.striped .hover}
 </details>
 
+## Superior border {#superior-border}
+
+One of the borders of the [thoracic outlet]({{< var ref-thoracic-outlet.path >}}) @duttonDuttonOrthopaedicExamination2020
+
 ## Supraspinous fossa
 
 <details>

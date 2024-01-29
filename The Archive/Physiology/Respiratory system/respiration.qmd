@@ -3,6 +3,11 @@ title: Respiration
 ---
 
 
+# Diaphragmatic breathing
+
+Important to avoid pathologies, such as [thoracic outlet syndrome]({{< var ref-thoracic-outlet.syndrome >}})
+
+
 
 
 # Muscles related to respiration
@@ -10,10 +15,17 @@ title: Respiration
 ## Primary
 
 
-## Secondary
+## Accessory
+
+- Scalenes
 
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
 | [Sternocleidomastoid]({{< var ref-sternocleidomastoid.path >}}) | {{< var ref-sternocleidomastoid.origin >}} | {{< var ref-sternocleidomastoid.insertion >}} | {{< var ref-sternocleidomastoid.nerve >}} | {{< var ref-sternocleidomastoid.action >}} |
 
 : Sternocleidomastoid OIAN {.striped .hover}
+
+
+# Dysfunctional Breathing
+
+## Stress Breathing

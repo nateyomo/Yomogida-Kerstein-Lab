@@ -4,7 +4,10 @@ subtitle: A special test for Thoracic Outlet Syndrome (TOS)
 ---
 
 :::{.callout-warning}
-This test should be avoided due to
+
+This test has some of the best validity out of other TOS tests
+
+But there are some issues:
 
 1. Conflicting evidence on the biomechanical mechanism of the test as [seen below](#technique)
 1. The large percent of false positives when using radial pulse as the main outcome measure @hooperThoracicOutletSyndrome2010

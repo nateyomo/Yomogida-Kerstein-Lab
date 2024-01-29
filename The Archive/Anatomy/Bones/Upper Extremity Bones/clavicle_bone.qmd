@@ -4,7 +4,7 @@ title: Clavicle (bone)
 
 
 
-
+Serves as one of the borders of the [thoracic outlet]({{< var ref-thoracic-outlet.path >}})
 
 # Attachment Sites
 

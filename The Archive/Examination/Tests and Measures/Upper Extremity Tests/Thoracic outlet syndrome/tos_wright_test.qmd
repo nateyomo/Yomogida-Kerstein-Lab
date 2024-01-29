@@ -5,6 +5,7 @@ subtitle: A special test for thoracic outlet syndrome
 
 {{< video https://www.youtube.com/watch?v=e-6AiDPyd2Q&pp=ygULd3JpZ2h0IHRlc3Q%3D >}}
 
+Tests for thoracic outley syndrome occurring at the Thoraco-coraco-pectoral gate @hooperThoracicOutletSyndrome2010.
 
 # Technique
 

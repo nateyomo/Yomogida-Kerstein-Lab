@@ -2,6 +2,16 @@
 title: 1st Rib (Bone)
 ---
 
+# Anatomy
+
+Types of cervical rib:
+
+- Type I: complete cervical rib articulates with the first rib or manubrium of sternum @hooperThoracicOutletSyndrome2010
+- Type II: incomplete cervical ribs with a free end expanded to form a bulbous tip @hooperThoracicOutletSyndrome2010
+- Type III: an incomplete rib that is continued by a fibrous band @hooperThoracicOutletSyndrome2010
+- Type Iv: rib that appears as a short bar of bone with a length of a few millimeters beyond the C7 TP @hooperThoracicOutletSyndrome2010
+
+
 # Muscle attachments
 
 | Muscle  | Origin | Insertion | Nerve | Action |
@@ -10,6 +20,9 @@ title: 1st Rib (Bone)
 
 : {.striped .hover}
 
+# Elevation {#elevation}
+
+1st rib elevation is a cause of [Thoracic Outlet Syndrome]({{< var ref-thoracic-outlet.syndrome >}}) @duttonDuttonOrthopaedicExamination2020
 
 # Hypomobility {#hypomobility}
 
@@ -23,3 +36,4 @@ Can result in secondary pathologies, such as:
 
 - Tests:
     - [Cervical Rotation Lateral Flexion]({{< ref-cervical-rotation-lateral-flexion.path >}})
+    - [Costoclavicular Test]({{< var ref-tos-costoclavicular-test.path >}})

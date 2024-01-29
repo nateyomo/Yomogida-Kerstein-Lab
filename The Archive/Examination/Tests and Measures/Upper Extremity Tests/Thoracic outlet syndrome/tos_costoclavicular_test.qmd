@@ -4,21 +4,22 @@ subtitle: A special test for thoracic outlet syndrome
 ---
 
 - Names
+    - Costoclavicular maneuver
     - Costoclavicular test
     - Military Brace Test
     - Eden's Test
 
-- Costoclavicular test is a special test for [thoracic outlet syndrome]({{< var ref-thoracic-outlet.syndrome >}}). 
-- This test places the patient in a position that likely that this position reduces volume of [costoclavicular space]({{< var ref-costoclavicular-space.path >}}) @duttonDuttonOrthopaedicExamination2020
+- Costoclavicular test is a special test for [thoracic outlet syndrome]({{< var ref-thoracic-outlet.syndrome >}}) occuring at the Thoraco-coraco-pectoral gate @hooperThoracicOutletSyndrome2010. 
+- This test places the patient in a position that *likely* reduces the volume of [costoclavicular space]({{< var ref-costoclavicular-space.path >}}) @duttonDuttonOrthopaedicExamination2020
 
 # Technique
 
-- Patient position: sitting straight with both arms at side ("Exaggerated military seated posture)
+- Patient position: sitting straight with both arms at side ("Exaggerated military seated posture")
 - Clinician assesses radial pulse 
 - Ask patient to retract and depress shoulders while protruding chest
     - Hold for 60 seconds
 - Clinician assesses change in radial pulse
-    - asks pt about paresthesia
+- Assess changes in symptoms (particularly paresthesia)
 
 # Interpretation
 
@@ -28,7 +29,7 @@ This test has both a quantitative (change in radial pulse) and qualitative (chan
 Using radial pulse to conclude a positive test has been shown to produce many false positives @hooperThoracicOutletSyndrome2010 
 :::
 
-A change in patient symptoms (worsening) is considered a positive test:
+A change in patient symptoms (worsening) is considered a positive test @duttonDuttonOrthopaedicExamination2020.
 
 
 

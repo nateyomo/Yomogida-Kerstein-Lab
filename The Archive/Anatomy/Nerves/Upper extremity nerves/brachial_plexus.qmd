@@ -3,6 +3,19 @@ title: Brachial Plexus
 ---
 
 
+# Trunks
+
+## Inferior trunk {#inferior-trunk}
+
+- Comes from C8, T1 Nerve roots
+- Function
+    - 4th-5th fingers of hand, motor innervation to intrinsic hand muscles @duttonDuttonOrthopaedicExamination2020
+- Dysfunction
+    - most COMMONLY compressed neural structure in TOS @duttonDuttonOrthopaedicExamination2020
+
+## Superior Trunk {#superior-trunk}
+
+
 
 
 
