@@ -16,3 +16,24 @@ Types:
 - Pec minor tight (especially at full elevation)
 - Ant/mid scalene
 - Cervical rib approximation
+
+
+## Testing
+
+- Tumor
+- 1st rib elevation
+- Pec minor tight (especially at full elevation)
+- Cervical rib approximation
+    - [Costoclavicular Test]({{< var ref-tos-costoclavicular-test.path >}})
+
+- Ant/mid scalene
+    - [Adson’s Vascular Test]({{< var ref-tos-adsons-vascular-test.path >}}) (Not recommended)
+- [Costoclavicular Test]({{< var ref-tos-costoclavicular-test.path >}})
+- [Roos Test]({{< var ref-tos-roos-stress-test.path >}})
+- [Wright Test (Hyperabduction Maneuver)]({{< var ref-tos-wright-test.path >}})
+- [Passive Shoulder Shrug]({{< var ref-tos-passive-shoulder-shrug-test.path >}})
+
+:::{.callout-caution}
+- Little reliability with these tests (despite widespread use) @duttonDuttonOrthopaedicExamination2020
+- With all of these tests: (+) test = diminution or disappearance of pulse or neuro symptoms @duttonDuttonOrthopaedicExamination2020
+:::

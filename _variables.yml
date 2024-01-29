@@ -97,10 +97,12 @@ ref-knee-ligaments:
   path: "/The Archive/Anatomy/Ligaments/Knee ligaments/knee_ligaments.qmd"
 
 ## Multi-system structures
+### Upper extremity
 ref-thoracic-outlet:
-  path: "/The Archive/Anatomy/Multi-system structures/thoracic_outlet.qmd"
-  syndrome: "/The Archive/Anatomy/Multi-system structures/thoracic_outlet.qmd#tos"
-
+  path: "/The Archive/Anatomy/Multi-system structures/Upper extremity/thoracic_outlet.qmd"
+  syndrome: "/The Archive/Pathologies/MSK Pathologies/Upper extremity/thoracic_outlet_syndrome.qmd"
+ref-costoclavicular-space:
+  path: "/The Archive/Anatomy/Multi-system structures/Upper extremity/costoclavicular_space.qmd"
 
 ## OIAN
 ref-oians: 
@@ -652,8 +654,8 @@ ref-tos-adsons-vascular-test:
   path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/Thoracic outlet syndrome/Adsons_vascular_test.qmd"
 ref-tos-costoclavicular-test:
   path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/Thoracic outlet syndrome/tos_costoclavicular_test.qmd"
-ref-tos-roos-test:
-  path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/Thoracic outlet syndrome/tos_roos_test.qmd"
+ref-tos-roos-stress-test:
+  path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/Thoracic outlet syndrome/tos_roos_stress_test.qmd"
 ref-tos-wright-test:
   path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/Thoracic outlet syndrome/tos_wright_test.qmd"
 ref-tos-passive-shoulder-shrug-test:
@@ -915,8 +917,6 @@ ref-rib-stress-fracture:
 ### Upper Extremity
 ref-lateral-epicondylitis:
   path: "/The Archive/Pathologies/MSK Pathologies/Upper extremity/lateral_epicondylitis.qmd"
-ref-thoracic-outlet-syndrome:
-  path: "/The Archive/Pathologies/MSK Pathologies/Upper extremity/thoracic_outlet_syndrome.qmd"
 ### Lower Extremity
 pelvic-stress-fracture:
   path: "/The Archive/Pathophysiology/stress_reactions_and_fractures.qmd"

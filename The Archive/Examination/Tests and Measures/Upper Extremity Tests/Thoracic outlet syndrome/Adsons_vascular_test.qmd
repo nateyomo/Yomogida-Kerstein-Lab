@@ -4,16 +4,37 @@ subtitle: A special test for Thoracic Outlet Syndrome (TOS)
 ---
 
 :::{.callout-warning}
-This test should be avoided due to the large percent of false positives @hooperThoracicOutletSyndrome2010
+This test should be avoided due to
+
+1. Conflicting evidence on the biomechanical mechanism of the test as [seen below](#technique)
+1. The large percent of false positives when using radial pulse as the main outcome measure @hooperThoracicOutletSyndrome2010
 :::
 
+Adson's Vascular test is a special test that is designed to rule in a [vascular source of thoracic outlet syndrome]({{< var ref-thoracic-outlet.syndrome >}})
+
+
 # Technique
-Pt is sitting arms at 15 degrees ABD, PT palpating radial pulse (this position theoretically tensions anterior and middle scalenes, compromising the interscalene triangle, 
+Pt is sitting arms at 15 degrees ABD, PT palpating radial pulse 
 
 :::{.callout-important title="Conflicting evidence"}
-This movement is said to "compromise (compress) the interscalene triangle" but biomechanical evidence finds the scalene angle to increase, which should reduce likelihood of compression) @duttonDuttonOrthopaedicExamination2020
+According to those who proposed the Adson's Vascular test, this position theoretically tensions anterior and middle scalenes, compromising (compressing) the interscalene triangle @duttonDuttonOrthopaedicExamination2020.
+
+Contrasting biomechanical evidence finds the scalene angle to increase, which should reduce likelihood of compression @duttonDuttonOrthopaedicExamination2020
 :::
 
 - Patient asked to inhale and hold breath @duttonDuttonOrthopaedicExamination2020
 - Patient asked to tilt head back, rotate head so that chin is elevated and pointed to examined side @duttonDuttonOrthopaedicExamination2020
-- Clinician records pulse as diminished, occluded and asks about presence of paresthesia @duttonDuttonOrthopaedicExamination2020
+
+
+# Interpretation
+
+
+- Diminished or occluded radial pulse is considered a positive test
+
+:::{.callout-caution}
+Using radial pulse to conclude a positive test has been shown to produce many false positives @hooperThoracicOutletSyndrome2010 
+:::
+
+
+- Parasthesia: Change in parasthesia can be an indication of a positive test
+    - There has been no studies performed on the validity of using change in symptoms to rule in TOS using Adson's Vascular Test.

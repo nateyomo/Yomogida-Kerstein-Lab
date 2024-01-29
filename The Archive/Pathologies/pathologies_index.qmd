@@ -19,7 +19,7 @@ title: Index of Pathologies
 
 - [Rib fracture]({{< var ref-rib-fracture.path >}})
     - [Rib stress fracture]({{< var ref-rib-stress-fracture.path >}})
-- [Thoracic outlet syndrome (TOS)]({{< var ref-thoracic-outlet-syndrome.path >}})
+- [Thoracic outlet syndrome (TOS)]({{< var ref-thoracic-outlet.syndrome.path >}})
 - Pain
     - [Chronic Low Back Pain]({{< var ref-chronic-low-back-pain.path >}})
     - [Acute Low Back Pain]({{< ref-acute-low-back-pain.path >}})

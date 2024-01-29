@@ -65,7 +65,7 @@ SB limited throughout d/t rib stacking @duttonDuttonOrthopaedicExamination2020
 
 # T/S Pathologies
 
-- [TOS]({{< var ref-thoracic-outlet-syndrome.path >}})
+- [TOS]({{< var ref-thoracic-outlet.syndrome.path >}})
 - Spinal nerve root syndrome— radiculopathy 
 - Osteoporosis: (10% of ppl 50 +)
 - Chest wall variations

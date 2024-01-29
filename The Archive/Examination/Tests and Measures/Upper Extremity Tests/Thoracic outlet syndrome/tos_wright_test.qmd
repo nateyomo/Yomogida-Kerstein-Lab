@@ -3,3 +3,19 @@ title: Wright Test
 subtitle: A special test for thoracic outlet syndrome
 ---
 
+{{< video https://www.youtube.com/watch?v=e-6AiDPyd2Q&pp=ygULd3JpZ2h0IHRlc3Q%3D >}}
+
+
+# Technique
+
+- Patient position: Relaxed sitting
+- Clinician palpates radial pulse
+- Ask patient to rotate head contralaterally
+- Ask patient to raise arm into hyperabduction
+- Help for 1-2 min
+
+# Interpretation
+
+- (+)
+    - Reproduction of paresthesia
+    - Decrease in the radial pulse
