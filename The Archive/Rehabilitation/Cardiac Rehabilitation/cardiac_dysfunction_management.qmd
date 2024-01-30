@@ -1,0 +1,89 @@
+---
+title: Cardiac dysfunction management
+---
+
+# Revascularization and reperfusion of myocardium
+
+- Thrombolytic therapy
+- Percutaneous revascularization procedures
+    - PTCA (percutaneous transluminal coronary angioplasty)
+    - Balloon procedure
+    - Vessel can not be fully occluded, only partially
+    - Can place stent in valve (keeps vessels open)
+    - A lesser intervention compared to bypass
+    - Most common
+    - Vessels cant be fully occluded
+    - May place endoluminal stents
+
+# Transmyocardial Revascularization
+
+- Catheter w laser tip
+- Creates channels from patent arteries into ischemic area
+- For chronic angina in pts unable to have PTCA or CABG
+- Last line of defense for chronic angina, and unable to target full balloon or bypass (if not great surgical candidates for other procedures)
+
+# CABG
+CABG: Coronary artery bypass graft
+
+:::{.callout title="Reading CABG Documentation"}
+
+- CABGx4 = A CABG with 4 vessels treated
+:::
+
+
+
+- Coronary artery is completely occluded (can't do balloon and stent at this point)
+- Vascular graft used to revascularize myocardium
+    - Saphenous vein  (MOST times) 
+    - Radial artery
+    - Left internal mammary artery
+    - Right internal mammary artery
+    - Artery to artery is nice, veins have valves 
+- [Median sternotomy]({{< var ref-median-sternotomy.path >}})
+    - Intense, big surgery
+    - Balloon is first line of defense if possible
+    - This will be a couple a day stay 
+
+## Minimally invasive CABG
+
+- Laparoscopic and robotic techniques
+- Avoids median sternotomy
+- Dec’d pain and infection in leg incisions
+- Best for occlusions in ant coronary arteries
+- May combine w/ PTCA for multiple blockages
+
+## Off Pump CABG
+
+- Median sternotomy
+- Grafting w beating, normothermic heart
+- Regional ischemia for 5-15 min 
+- Reduced inflammatory response, suggests less myocyte injury
+
+
+# Median sternotomy
+
+
+:::{.callout title="Sternal PRecautions"}
+
+- Premise is to reduce dehiscence
+- ? evidence
+- 8 weeks
+- Restrict UE lifting to < 10 pounds
+- No pushing, pulling 
+- No scapular ADDUCTION
+- No resistance or loading of UE past 90 in flexion or abduction
+- Minimal arm use for transfers
+:::
+
+
+# Ablation procedures
+
+Catheter ablation
+Venous access usually
+Indications
+SVT
+AV node dysfunction
+A fib
+A flutter
+V tach (certain types)
+Low power, high freq AC current to destroy cardiac tissue

@@ -1,0 +1,20 @@
+---
+title: C-Reactive Protein (CRP)
+---
+
+
+CRP was used as a measure of inflammation following ice baths, which we reviewed [here]({{< var ref-jc-2-post-exercise-cold-immersion.path >}}) in our journal club.
+
+# Serum CRP {#serum-CRP}
+
+Serum CRP can be used as a marker of acute inflammation
+
+| Value | Risk |
+|-|-|
+| <1mg/L | Low |
+| 1.0 - 3.0 mg/L | Average |
+| >3.0 mg/L | High |
+: Interpertation of CRP Values {.striped .hover}
+
+
+Test validity: High sensitivity CRP (hs-CRP) = predictive of recurrent coronary events

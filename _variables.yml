@@ -108,6 +108,8 @@ ref-thoracic-outlet:
   syndrome: "/The Archive/Pathologies/MSK Pathologies/Upper extremity/thoracic_outlet_syndrome.qmd"
 ref-costoclavicular-space:
   path: "/The Archive/Anatomy/Multi-system structures/Upper extremity/costoclavicular_space.qmd"
+ref-interscalene-triangle:
+  path: "/The Archive/Anatomy/Multi-system structures/Upper extremity/interscalene_triangle.qmd"
 
 ## OIAN
 ref-oians: 
@@ -631,6 +633,19 @@ ref-mann-whitney-u-test:
   path: "/The Archive/Evidene Based Practice/Multivariate Data Analysis/Mann-Whitney_U_test.qmd"
 
 # Examination
+## Acute Care Evaluation
+### Cardiac Evaluation
+ref-cardiac-evaluation:
+  path: "/The Archive/Examination/Acute Evaluation/Cardiac evaluation/cardiac_evaluation.qmd"
+ref-electrocardiogram:
+  path: "/The Archive/Examination/Acute Evaluation/Cardiac evaluation/electrocardiogram_EKG.qmd"
+ref-heart-sounds:
+  path: "/The Archive/Examination/Acute Evaluation/Cardiac evaluation/heart_sounds.qmd"
+
+### Pulmoanry Evaluation
+ref-lung-sounds:
+  path: "/The Archive/Examination/Acute Evaluation/Pulmonary evaluation/lung_sounds.qmd"
+
 ## Movement Analysis
 ### Balance
 ref-balance-strategies:
@@ -728,7 +743,10 @@ ref-cd34:
   path: "/The Archive/Microbiology/Cells/CD34_cell.qmd"
 ## Enzymes
 ref-creatine-kinase:
-  path: "/The Archive/Microbiology/Enzymes/creatine_kinase.qmd"
+  path: "/The Archive/Microbiology/Enzymes/Creatine Kinase/creatine_kinase.qmd"
+  mb:
+    path: "/The Archive/Microbiology/Enzymes/Creatine Kinase/creatine_kinase.qmd#creatine-kinase-mb"
+
 ref-superoxide-dismutases-group: 
   path: "/The Archive/Microbiology/Enzymes/superoxide_dismutases_group.qmd"
 ref-CuZnSOD-copper-zinc-superoxide-dismutase:
@@ -743,6 +761,19 @@ ref-vascular-endothelial-growth-factor:
   path: "/The Archive/Microbiology/Proteins/vascular_endothelial_growth_factor.qmd"
 ref-nestin-protein:
   path: "/The Archive/Microbiology/Proteins/nestin_protein.qmd"
+ref-c-reactive-protein:
+  path: "/The Archive/Microbiology/Proteins/C-reactive_protein.qmd"
+  serum:
+    path: "/The Archive/Microbiology/Proteins/C-reactive_protein.qmd#serum-CRP"
+    sensitivity: ""
+    specificity: ""
+ref-troponin:
+  overview:
+    path: "/The Archive/Microbiology/Proteins/Troponin/troponin_overview.qmd"
+  ctnt:
+    path: "/The Archive/Microbiology/Proteins/Troponin/cardiac_troponin_T_cTnT.qmd"
+  ctni:
+    path: "/The Archive/Microbiology/Proteins/Troponin/cardiac_troponin_I_cTnI.qmd"
 
 ## Non-proteins
 ref-creatine:
@@ -888,11 +919,11 @@ ref-CRPS-type2:
 
 ## Pain by region
 ref-pain-neck:
-  path: "/The Archive/Pain_science/Pain by region/neck_pain.qmd"
-  acute: "/The Archive/Pain_science/Pain by region/neck_pain.qmd#acute-neck-pain"
-  chronic: "/The Archive/Pain_science/Pain by region/neck_pain.qmd#chronic-neck-pain"
+  path: "/The Archive/Symptoms/Pain symptoms/Pain by region/neck_pain.qmd"
+  acute: "/The Archive/Symptoms/Pain symptoms/Pain by region/neck_pain.qmd#acute-neck-pain"
+  chronic: "/The Archive/Symptoms/Pain symptoms/Pain by region/neck_pain.qmd#chronic-neck-pain"
 ref-pain-facial:
-  path: "/The Archive/Pain_science/Pain by region/facial_pain.qmd"
+  path: "/The Archive/Symptoms/Pain symptoms/Pain by region/facial_pain.qmd"
 
 ## Pain terms and Taxonomies
 ref-acute-pain:
@@ -1206,6 +1237,16 @@ ref-olfaction:
   path: "/The Archive/Neuro/Neurophysiology/Special Senses/olfaction.qmd"
 ref-vision:
   path: "/The Archive/Neuro/Neurophysiology/Special Senses/Vision and eye movement/vision.qmd"
+
+### Executive Functions
+ref-executive-function:
+  path: "/The Archive/Neuro/Neurophysiology/Cognition/cognition_overview.qmd#executive-overview"
+ref-cognition:
+  overview: "/The Archive/Neuro/Neurophysiology/Cognition/cognition_overview.qmd"
+ref-perception:
+  overview: "/The Archive/Neuro/Neurophysiology/Perception/percetion_overview.qmd"
+  visual: "/The Archive/Neuro/Neurophysiology/Perception/percetion_overview.qmd#visual-perception"
+  deficits: "/The Archive/Neuro/Neurophysiology/Perception/perception_deficits.qmd"
 
 ### Neuro Symptoms
 ref-anosmia:

@@ -174,12 +174,9 @@ Clinical examination:
     - [Roos Test]({{< var ref-tos-roos-stress-test.path >}}) @hooperThoracicOutletSyndrome2010
 - Unloading the brachial plexus through the TOS container
     - [Cyriax test]({{< var ref-tos-cyriax-test.path >}}) @hooperThoracicOutletSyndrome2010
+    - [Passive Shoulder Shrug]({{< var ref-tos-passive-shoulder-shrug-test.path >}}) (Rules out TOS)
 - Neural tissue thru thoracic outlet under a tension load
     - [Upper limb tension tests (ULTT)]({{< var ref-ultt.overview >}}) @hooperThoracicOutletSyndrome2010
-
-
-- [Passive Shoulder Shrug]({{< var ref-tos-passive-shoulder-shrug-test.path >}}) (Rules out TOS)
-
 
 :::{.callout-caution}
 - Little reliability with these tests (despite widespread use) @duttonDuttonOrthopaedicExamination2020

@@ -17,8 +17,11 @@ Serves as one of the borders of the [thoracic outlet]({{< var ref-thoracic-outle
 </details>
 
 ## Medial 1/3
+
+<details>
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
 | [Sternocleidomastoid]({{< var ref-sternocleidomastoid.path >}}) | {{< var ref-sternocleidomastoid.origin >}} | {{< var ref-sternocleidomastoid.insertion >}} | {{< var ref-sternocleidomastoid.nerve >}} | {{< var ref-sternocleidomastoid.action >}} |
 
 : Muscle attachments on the medial 1/3 of the clavicle {.striped .hover}
+</details>

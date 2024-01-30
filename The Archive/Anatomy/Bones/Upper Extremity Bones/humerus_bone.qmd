@@ -8,8 +8,7 @@ title: Humerus (bone)
 
 ## Deltoid tuberosity
 
-:::{.callout collapse="true"}
-### Deltoid tuberosity Muscular attachments
+<details>
 
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
@@ -18,32 +17,31 @@ title: Humerus (bone)
 | [Posterior Deltoid]({{< var ref-deltoid-muscle-posterior.path >}}) | {{< var ref-deltoid-muscle-posterior.origin >}} | {{< var ref-deltoid-muscle-posterior.insertion >}} | {{< var ref-deltoid-muscle-posterior.nerve >}} | {{< var ref-deltoid-muscle-posterior.action >}} |
 
 : Deltoid Muscles OIAN {.striped .hover}
-:::
+</details>
 
 ## Greater Tubercle
 
-:::{.callout collapse="true"}
-### Greater tubercle Muscular attachments
+<details>
 
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
 | [Supraspinatus]({{< var ref-supraspinatus.path >}}) | {{< var ref-supraspinatus.origin >}} | {{< var ref-supraspinatus.insertion >}} | {{< var ref-supraspinatus.nerve >}} | {{< var ref-supraspinatus.action >}} |
 | [Infraspinatus]({{< var ref-infraspinatus.path >}}) | {{< var ref-infraspinatus.origin >}} | {{< var ref-infraspinatus.insertion >}} | {{< var ref-infraspinatus.nerve >}} | {{< var ref-infraspinatus.action >}} |
 | [Teres Minor]({{< var ref-teres-minor.path >}}) | {{< var ref-teres-minor.origin >}} | {{< var ref-teres-minor.insertion >}} | {{< var ref-teres-minor.nerve >}} | {{< var ref-teres-minor.action >}} |
-
 :  {.striped .hover}
-:::
+</details>
 
 ## Lesser Tubercle
 
-:::{.callout collapse="true"}
-### Lesser Tubercle Muscular attachments
+<details>
+
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
 | [Subscapularis]({{< var ref-subscapularis.path >}}) | {{< var ref-subscapularis.origin >}} | {{< var ref-subscapularis.insertion >}} | {{< var ref-subscapularis.nerve >}} | {{< var ref-subscapularis.action >}} |
 | [Pec Major]({{< var ref-pectoralis-major.path >}}) | {{< var ref-pectoralis-major.origin >}} | {{< var ref-pectoralis-major.insertion >}} | {{< var ref-pectoralis-major.nerve >}} | {{< var ref-pectoralis-major.action >}} |
 : Lesser tubercle of humerus attachment OIAN {.striped .hover}
-:::
+
+</details>
 
 ## Lateral Epicondyle of Humerus
 
@@ -63,15 +61,14 @@ Dysfunction:
 
 ## Humerus in line with crest of less tubercle
 
-:::{.callout collapse="true"}
-### Lesser Tubercle Muscular attachments
+<details>
 
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
 | [Coracobrachialis]({{< var ref-coracobrachialis.path >}}) | {{< var ref-coracobrachialis.origin >}} | {{< var ref-coracobrachialis.insertion >}} | {{< var ref-coracobrachialis.nerve >}} | {{< var ref-coracobrachialis.action >}} |
 
 : {.striped .hover}
-:::
+</details>
 
 # Dysfunction
 
