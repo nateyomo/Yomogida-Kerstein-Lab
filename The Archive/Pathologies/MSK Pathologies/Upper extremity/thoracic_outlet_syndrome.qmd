@@ -183,6 +183,8 @@ Clinical examination:
 - With all of these tests: (+) test = diminution or disappearance of pulse or neuro symptoms @duttonDuttonOrthopaedicExamination2020
 :::
 
+### Validity
+
 TOS maneuvers have low false positive rates when:
 
 - A positive test is defined as pain after adson’s test, costoclavicular maneuver or supraclavicular pressure  @plewaFalsepositiveRateThoracic1998
@@ -194,6 +196,8 @@ So there are a lot of false positives for these various tests, IN ISOLATION, EXC
 If there is a discontinuation of EAST d/t pain = low false positive rate (most ppl dont stop it , even if they feel some pain, but if they need to stop d/t pain then that has a low false positive rate) @plewaFalsepositiveRateThoracic1998
 Less false positives for combinations of these tests @plewaFalsepositiveRateThoracic1998
 
+
+Gillard et al showed a cluster of 2 provocative tests displayed the highest sensitivity (90%) while a cluster of 5 tests increased the specificity of TOS to 84% @hooperThoracicOutletSyndrome2010
 
 ## DDX
 

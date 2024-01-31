@@ -64,6 +64,7 @@ ref-lacrimal-bone:
   path: "/The Archive/Anatomy/Bones/Bones of the Skull/lacrimal_bone.qmd"
 ref-mandible-bone:
   path: "/The Archive/Anatomy/Bones/Bones of the Skull/mandible_bone.qmd"
+  mandibular-condyle: "/The Archive/Anatomy/Bones/Bones of the Skull/mandible_bone.qmd#mandibular-condyle"
 ref-maxilla-bone:
   path: "/The Archive/Anatomy/Bones/Bones of the Skull/maxilla_bone.qmd"
 ref-nasal-bone:
@@ -89,10 +90,17 @@ ref-rectus-sheath:
   path: "/The Archive/Anatomy/Connective tissue/rectus_sheath.qmd"
 
 ## Joints
+ref-joint:
+  path: "/The Archive/Anatomy/Joints/joint_overview.qmd"
+  synovial: "/The Archive/Anatomy/Joints/joint_overview.qmd#synovial-joint"
 ref-sacroiliac-joint:
   path: "/The Archive/Anatomy/Joints/sacroiliac_joint.qmd"
 ref-z-joint:
   path: "/The Archive/Anatomy/Joints/z-joint.qmd"
+ref-cervicothoracic-junction:
+  path: "/The Archive/Anatomy/Joints/Spine joints/cervicothoracic_junction.qmd"
+ref-temperomandibular-joint:
+  path: "/The Archive/Anatomy/Joints/temporomandibular_joint.qmd"
 
 ## Ligaments
 ref-index-ligaments:
@@ -438,7 +446,7 @@ ref-lateral-pterygoid:
   origin: "**Superior Head:** Greater wing of sphenoid bone (infratemporal crest); **Inferior head:** Lateral surface of pterygoid plate (lat surface)"
   insertion: "**Superior Head:** Tempormandibular joint (articular disc); **Inferior head:** Mandible (condylar process)"
   nerve: "[Mandibular (V~3~) divison of CN V via lateral pterygoid n.]({{< var ref-cn5.path >}})"
-  action: "**BIL:** Protrudes mandible (pulls articular disk forward); **UNIL:** Lateral movements of mandible (chewing)"
+  action: "**BIL:** Protrudes mandible (pulls articular disk forward); **UNIL:** C/L Lateral movements of mandible (chewing)"
 ref-medial-pterygoid:
   path: "/The Archive/Anatomy/OIANs/Head and Neck/Muscles of Mastication/medial_pterygoid.qmd"
   origin: "**SF Head:** Maxilla (tuberosity); **Deep head:** Medial surface of lateral pterygoid plate and pterygoid fossa"
@@ -599,6 +607,22 @@ ref-nuchal-ligament:
 ref-subclavian-vein:
   path: "/The Archive/Anatomy/Veins/Upper Extremity/subclavian_vein.qmd"
 
+# Cardiac System
+## Cardiac Evaluation
+ref-cardiac-evaluation:
+  path: "/The Archive/Examination/Acute Evaluation/Cardiac evaluation/cardiac_evaluation.qmd"
+ref-echocardiogram:
+  path: "/The Archive/Cardiac System/Cardiac evaluation/echocardiogram.qmd"
+  transesophageal: "/The Archive/Cardiac System/Cardiac evaluation/Transesophageal_echocardiogram.qmd"
+  transthoracic: "/The Archive/Cardiac System/Cardiac evaluation/echocardiogram.qmd#transthoracic"
+ref-electrocardiogram:
+  path: "/The Archive/Examination/Acute Evaluation/Cardiac evaluation/electrocardiogram_EKG.qmd"
+ref-heart-sounds:
+  path: "/The Archive/Examination/Acute Evaluation/Cardiac evaluation/heart_sounds.qmd"
+## Cardiac Interventions
+ref-cardiac-dysfunction-management:
+  path: "/The Archive/Cardiac System/Cardiac Interventions/Internal Medicine Interventions/cardiac_dysfunction_management.qmd"
+
 # Evidence Based Practice (EBP)
 ref-EBP-index:
   path: "/The Archive/Evidene Based Practice/EBP_index.qmd"
@@ -607,7 +631,20 @@ ref-odds-ratio:
   path: "/The Archive/Evidene Based Practice/EBP Terms/odds_ratio.qmd"
 ref-relative-risk:
   path: "/The Archive/Evidene Based Practice/EBP Terms/relative_risk.qmd"
+## Reliability
+ref-reliability:
+  path: "/The Archive/Evidene Based Practice/Reliability/reliability.qmd"
+  interrater: "/The Archive/Evidene Based Practice/Reliability/reliability.qmd#interrater"
+  intrarater: "/The Archive/Evidene Based Practice/Reliability/reliability.qmd#intrarater"
+  internal-consistency: "/The Archive/Evidene Based Practice/Reliability/reliability.qmd#internal-consistency"
+  percent-agreement: "/The Archive/Evidene Based Practice/Reliability/reliability.qmd#percent-agreement"
+  kappa-coefficient: "/The Archive/Evidene Based Practice/Reliability/reliability.qmd#kappa-coefficient"
+  cronbachs-alpha: "/The Archive/Evidene Based Practice/Reliability/reliability.qmd#cronbachs-alpha"
+  correlation-coefficient: "/The Archive/Evidene Based Practice/Reliability/reliability.qmd#correlation-coefficient"
+  icc: "/The Archive/Evidene Based Practice/Reliability/reliability.qmd#intra-class-correlation-coefficient"
+## Validity
 ## Multivariate Data analysis
+
 ### Terms
 ref-homoscedasticity:
   path: "/The Archive/Evidene Based Practice/Multivariate Data Analysis/Terms/homoscedasticity.qmd"
@@ -634,17 +671,10 @@ ref-mann-whitney-u-test:
 
 # Examination
 ## Acute Care Evaluation
-### Cardiac Evaluation
-ref-cardiac-evaluation:
-  path: "/The Archive/Examination/Acute Evaluation/Cardiac evaluation/cardiac_evaluation.qmd"
-ref-electrocardiogram:
-  path: "/The Archive/Examination/Acute Evaluation/Cardiac evaluation/electrocardiogram_EKG.qmd"
-ref-heart-sounds:
-  path: "/The Archive/Examination/Acute Evaluation/Cardiac evaluation/heart_sounds.qmd"
 
 ### Pulmoanry Evaluation
 ref-lung-sounds:
-  path: "/The Archive/Examination/Acute Evaluation/Pulmonary evaluation/lung_sounds.qmd"
+  path: "/The Archive/Pulmonary system/Pulmonary evaluation/lung_sounds.qmd"
 
 ## Movement Analysis
 ### Balance
@@ -724,6 +754,10 @@ ref-sod1:
 ## Chromosomes
 ref-chromosome-21:
   path: "/The Archive/Genetics and genomics/Chromosomes/chromosome_21.qmd"
+
+# Histology
+ref-fibrocartilage:
+  path: "/The Archive/Histology/fibrocartilage.qmd"
 
 # Interventions
 ref-interventions-index:
@@ -915,6 +949,8 @@ ref-CRPS-type1:
 ref-CRPS-type2:
   path: "/The Archive/Pain_science/Complex regional pain syndrome/CRPS_Type2.qmd"
 
+
+
 ## Interventions
 
 ## Pain by region
@@ -1000,6 +1036,9 @@ adductor-muscle-strain:
 ## Bone Pathophysiology
 ref-stress-reactions-and-fractures:
   path: "/The Archive/Pathophysiology/Bone Pathophysiology/stress_reactions_and_fractures.qmd"
+## Complications
+ref-dehiscence:
+  path: "/The Archive/Pathophysiology/Complications/dehiscence.qmd"
 ## Muscle pathophysiology
 ref-index-muscle-pathophysiology:
   path: "/The Archive/Pathophysiology/Muscle pathophysiology/index_muscle_pathophysiology.qmd"

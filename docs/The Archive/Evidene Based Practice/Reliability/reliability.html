@@ -1,0 +1,734 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.3.450">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Yomogida &amp; Kerstein Lab - Reliability</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
+
+
+<script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../">
+<script src="../../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../../../styles.css">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="../../../index.html">
+    <span class="navbar-title">Yomogida &amp; Kerstein Lab</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../../index.html" rel="" target="">
+ <span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../about.html" rel="" target="">
+ <span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../The Archive/archive_index.html" rel="" target="">
+ <span class="menu-text">Archive</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../guide.html" rel="" target="">
+ <span class="menu-text">Guide</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../journal club index.html" rel="" target="">
+ <span class="menu-text">Journal Club</span></a>
+  </li>  
+</ul>
+            <div class="quarto-navbar-tools ms-auto">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+</div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Contents</h2>
+   
+  <ul>
+  <li><a href="#reliability-significance" id="toc-reliability-significance" class="nav-link active" data-scroll-target="#reliability-significance"><span class="header-section-number">1</span> Reliability significance</a></li>
+  <li><a href="#misconceptions" id="toc-misconceptions" class="nav-link" data-scroll-target="#misconceptions"><span class="header-section-number">2</span> Misconceptions</a></li>
+  <li><a href="#types-of-reliability" id="toc-types-of-reliability" class="nav-link" data-scroll-target="#types-of-reliability"><span class="header-section-number">3</span> Types of Reliability</a>
+  <ul class="collapse">
+  <li><a href="#interrater" id="toc-interrater" class="nav-link" data-scroll-target="#interrater"><span class="header-section-number">3.1</span> Interrater Reliability</a></li>
+  <li><a href="#intrarater" id="toc-intrarater" class="nav-link" data-scroll-target="#intrarater"><span class="header-section-number">3.2</span> Intrarater Reliability</a></li>
+  <li><a href="#test-retest-reliability" id="toc-test-retest-reliability" class="nav-link" data-scroll-target="#test-retest-reliability"><span class="header-section-number">3.3</span> Test-Retest Reliability</a></li>
+  <li><a href="#internal-consistency" id="toc-internal-consistency" class="nav-link" data-scroll-target="#internal-consistency"><span class="header-section-number">3.4</span> Internal Consistency</a></li>
+  </ul></li>
+  <li><a href="#reliability-coefficients" id="toc-reliability-coefficients" class="nav-link" data-scroll-target="#reliability-coefficients"><span class="header-section-number">4</span> Reliability Coefficients</a>
+  <ul class="collapse">
+  <li><a href="#percent-agreement" id="toc-percent-agreement" class="nav-link" data-scroll-target="#percent-agreement"><span class="header-section-number">4.1</span> Percent agreement</a></li>
+  <li><a href="#kappa-coefficient" id="toc-kappa-coefficient" class="nav-link" data-scroll-target="#kappa-coefficient"><span class="header-section-number">4.2</span> Kappa Coefficient (κ)</a></li>
+  <li><a href="#cronbachs-alpha" id="toc-cronbachs-alpha" class="nav-link" data-scroll-target="#cronbachs-alpha"><span class="header-section-number">4.3</span> Cronbach’s Alpha (α)</a></li>
+  <li><a href="#correlation-coefficient" id="toc-correlation-coefficient" class="nav-link" data-scroll-target="#correlation-coefficient"><span class="header-section-number">4.4</span> Correlation coefficient (r)</a></li>
+  <li><a href="#intra-class-correlation-coefficient" id="toc-intra-class-correlation-coefficient" class="nav-link" data-scroll-target="#intra-class-correlation-coefficient"><span class="header-section-number">4.5</span> Intra-class Correlation Coefficient (ICC)</a></li>
+  </ul></li>
+  <li><a href="#interpretation" id="toc-interpretation" class="nav-link" data-scroll-target="#interpretation"><span class="header-section-number">5</span> Interpretation</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Reliability</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Authors</div>
+    <div class="quarto-title-meta-contents">
+             <p>Nathaniel Yomogida, SPT </p>
+             <p>Chloë Kerstein, SPT </p>
+          </div>
+  </div>
+    
+  
+    
+  </div>
+  
+
+</header>
+
+<p>Reliability</p>
+<p>Reliability is NOT the same as <a href="?var:ref-validity.path">validity</a></p>
+<section id="reliability-significance" class="level1" data-number="1">
+<h1 data-number="1"><span class="header-section-number">1</span> Reliability significance</h1>
+<ol type="1">
+<li>One cannot be confident in the results of a scale with poor reliability<span class="citation" data-cites="streinerReliabilityStatisticsCommentarySeries2016a"><sup><a href="#ref-streinerReliabilityStatisticsCommentarySeries2016a" role="doc-biblioref">1</a></sup></span>.</li>
+</ol>
+<p><q> If a person’s score is 10 on 1 occasion and 15 on another (again assuming the person has not changed); or if 1 rater gives a score of 7 and another a score of 12, we wouldn’t be sure which, if either, score is correct. Similarly, if the items of a scale are not related to each other, we would not be sure just what it is that the scale is measuring (assuming that the scale is measuring a homogeneous construct). It would be tantamount to measuring a piece of lumber with a rubber ruler, where each measurement yields a different length. Woe betide the carpenter who tries to cut the wood to fit into an opening. The second reason we want scales to be reliable is that an unreliable scale introduces measurement error, meaning that we would need a larger sample size in order to detect a difference between the groups; for a given difference, the lower the reliability, the larger the necessary sample size to declare the difference to be statistically significant. </q></p>
+</section>
+<section id="misconceptions" class="level1" data-number="2">
+<h1 data-number="2"><span class="header-section-number">2</span> Misconceptions</h1>
+<p>Reliability is sometimes used synonymously with ‘precision,’‘agreement,’ and ‘repeatability,’ but these are misslabeling the concept<span class="citation" data-cites="streinerReliabilityStatisticsCommentarySeries2016a"><sup><a href="#ref-streinerReliabilityStatisticsCommentarySeries2016a" role="doc-biblioref">1</a></sup></span>.</p>
+</section>
+<section id="types-of-reliability" class="level1" data-number="3">
+<h1 data-number="3"><span class="header-section-number">3</span> Types of Reliability</h1>
+<section id="interrater" class="level2" data-number="3.1">
+<h2 data-number="3.1" class="anchored" data-anchor-id="interrater"><span class="header-section-number">3.1</span> Interrater Reliability</h2>
+<ul>
+<li>INTER‐rater reliability: Consistency of a measure assessed by multiple raters</li>
+<li>Multiple PTs doing the test</li>
+<li>Purpose: Determine the agreement between scores given independently by 2 practitioners<span class="citation" data-cites="streinerReliabilityStatisticsCommentarySeries2016a"><sup><a href="#ref-streinerReliabilityStatisticsCommentarySeries2016a" role="doc-biblioref">1</a></sup></span></li>
+</ul>
+<p>The important point here is the necessity for the independence of the raters; 1 rater must be ignorant of the other’s score. Otherwise, we would have a measure of the degree to which 1 person can accurately copy from another, which tells us much about the raters, but little about the subject.</p>
+</section>
+<section id="intrarater" class="level2" data-number="3.2">
+<h2 data-number="3.2" class="anchored" data-anchor-id="intrarater"><span class="header-section-number">3.2</span> Intrarater Reliability</h2>
+<ul>
+<li>INTRA‐rater reliability refers to the consistency of a measure assessed by a single rater across multiple time points</li>
+<li>For the same therapist doing the test multiple times</li>
+</ul>
+</section>
+<section id="test-retest-reliability" class="level2" data-number="3.3">
+<h2 data-number="3.3" class="anchored" data-anchor-id="test-retest-reliability"><span class="header-section-number">3.3</span> Test-Retest Reliability</h2>
+<div class="callout callout-style-simple callout-none no-icon callout-titled" title="Example">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Example
+</div>
+</div>
+<div class="callout-body-container callout-body">
+
+</div>
+</div>
+<p>Test-Retest reliability refers to the similarity of scores when a study participant completes a test at Time 1, and then later at Time 2<span class="citation" data-cites="streinerReliabilityStatisticsCommentarySeries2016a"><sup><a href="#ref-streinerReliabilityStatisticsCommentarySeries2016a" role="doc-biblioref">1</a></sup></span>. If this test was reliable, we would expect the 2 scores to be similar, if not identical, on both occasions (assuming that the person has not changed in the interim)<span class="citation" data-cites="streinerReliabilityStatisticsCommentarySeries2016a"><sup><a href="#ref-streinerReliabilityStatisticsCommentarySeries2016a" role="doc-biblioref">1</a></sup></span>.</p>
+<p>When assessing test-retest reliability, the length of time between time 1 and 2 creates an issue since there is a fine balance the researchers must find with time since there is trade-off between 2 competing requirements<span class="citation" data-cites="streinerReliabilityStatisticsCommentarySeries2016a"><sup><a href="#ref-streinerReliabilityStatisticsCommentarySeries2016a" role="doc-biblioref">1</a></sup></span>.</p>
+<ul>
+<li>If the duration is too short, the participants will answer the questionnaire by memory in order to appear consistent<span class="citation" data-cites="streinerReliabilityStatisticsCommentarySeries2016a"><sup><a href="#ref-streinerReliabilityStatisticsCommentarySeries2016a" role="doc-biblioref">1</a></sup></span>.</li>
+<li>If the duration is too long, the person’s mood, anxiety, symptoms, or whatever we are measuring could change<span class="citation" data-cites="streinerReliabilityStatisticsCommentarySeries2016a"><sup><a href="#ref-streinerReliabilityStatisticsCommentarySeries2016a" role="doc-biblioref">1</a></sup></span>.</li>
+<li>The usual testretest interval is about 2 weeks, but this can be altered based on a number of factors<span class="citation" data-cites="streinerReliabilityStatisticsCommentarySeries2016a"><sup><a href="#ref-streinerReliabilityStatisticsCommentarySeries2016a" role="doc-biblioref">1</a></sup></span>.
+<ul>
+<li>The Longer the scale the less time is required between measurements (the person is less likely to remember all of their answers)<span class="citation" data-cites="streinerReliabilityStatisticsCommentarySeries2016a"><sup><a href="#ref-streinerReliabilityStatisticsCommentarySeries2016a" role="doc-biblioref">1</a></sup></span>.</li>
+<li>Duration is also determined by how quickly the attribute being tested can change<span class="citation" data-cites="streinerReliabilityStatisticsCommentarySeries2016a"><sup><a href="#ref-streinerReliabilityStatisticsCommentarySeries2016a" role="doc-biblioref">1</a></sup></span>.</li>
+</ul></li>
+</ul>
+</section>
+<section id="internal-consistency" class="level2" data-number="3.4">
+<h2 data-number="3.4" class="anchored" data-anchor-id="internal-consistency"><span class="header-section-number">3.4</span> Internal Consistency</h2>
+<p>Internal consistency refers to the degree to which all of the items on a scale are correlated with one another<span class="citation" data-cites="streinerReliabilityStatisticsCommentarySeries2016a"><sup><a href="#ref-streinerReliabilityStatisticsCommentarySeries2016a" role="doc-biblioref">1</a></sup></span>.</p>
+<ul>
+<li>Internal consistency does not measure the patients or cliniciancs using the scale<span class="citation" data-cites="streinerReliabilityStatisticsCommentarySeries2016a"><sup><a href="#ref-streinerReliabilityStatisticsCommentarySeries2016a" role="doc-biblioref">1</a></sup></span>.</li>
+<li>Internal consistency measures how consistem the items of a scale are<span class="citation" data-cites="streinerReliabilityStatisticsCommentarySeries2016a"><sup><a href="#ref-streinerReliabilityStatisticsCommentarySeries2016a" role="doc-biblioref">1</a></sup></span>.</li>
+</ul>
+<p>When to use internal consistency:</p>
+<p>This is important for scales that measure 1 phenomenon:</p>
+<div class="callout callout-style-simple callout-none no-icon callout-titled" title="Example">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Example
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>such as quality of life or depression</p>
+</div>
+</div>
+<p>Internal consistency is not appropriate for:</p>
+<ul>
+<li>Indices that measure things that are not expected to be correlated with each other<span class="citation" data-cites="streinerReliabilityStatisticsCommentarySeries2016a"><sup><a href="#ref-streinerReliabilityStatisticsCommentarySeries2016a" role="doc-biblioref">1</a></sup></span></li>
+</ul>
+<div class="callout callout-style-simple callout-none no-icon callout-titled" title="Example">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Example
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>The Apgar scale consists of 5 items (heart rate, respiration, muscle tone, reflex response, and skin color)<span class="citation" data-cites="streinerReliabilityStatisticsCommentarySeries2016a"><sup><a href="#ref-streinerReliabilityStatisticsCommentarySeries2016a" role="doc-biblioref">1</a></sup></span>. These may all occur together in healthy neonates, but in sick children a low score on one item does not necessarily mean there will be low scores on another item<span class="citation" data-cites="streinerReliabilityStatisticsCommentarySeries2016a"><sup><a href="#ref-streinerReliabilityStatisticsCommentarySeries2016a" role="doc-biblioref">1</a></sup></span>.</p>
+</div>
+</div>
+<p>How to measure internal consistency:</p>
+<ul>
+<li><a href="../../../The Archive/Evidene Based Practice/Reliability/reliability.html#cronbachs-alpha">Cronbach’s Alpha (α)</a></li>
+</ul>
+<p>Interpretation</p>
+<ul>
+<li>You want internal consistency results (i.e.&nbsp;<a href="?var:ref-reliabiity.cronbachs-alpha">Cronbach’s Alpha (α)</a>) to be high, we do not want it to be too high.</li>
+<li>An (α) greater than about 0.90 may indicate unnecessary redundancy among the items and means that some of them can be eliminated without jeopardizing the reliability of the scale.</li>
+</ul>
+</section>
+</section>
+<section id="reliability-coefficients" class="level1" data-number="4">
+<h1 data-number="4"><span class="header-section-number">4</span> Reliability Coefficients</h1>
+<p>Common reliability statistics include:</p>
+<ul>
+<li><a href="../../../The Archive/Evidene Based Practice/Reliability/reliability.html#percent-agreement">Percent agreement</a></li>
+<li><a href="../../../The Archive/Evidene Based Practice/Reliability/reliability.html#kappa-coefficient">Kappa Coefficient</a></li>
+<li><a href="../../../The Archive/Evidene Based Practice/Reliability/reliability.html#cronbachs-alpha">Cronbach’s Alpha</a></li>
+<li><a href="../../../The Archive/Evidene Based Practice/Reliability/reliability.html#correlation-coefficient">Correlation Coefficient</a></li>
+<li><a href="../../../The Archive/Evidene Based Practice/Reliability/reliability.html#intra-class-correlation-coefficient">Intra-Class Correlation Coefficient</a></li>
+</ul>
+<section id="percent-agreement" class="level2" data-number="4.1">
+<h2 data-number="4.1" class="anchored" data-anchor-id="percent-agreement"><span class="header-section-number">4.1</span> Percent agreement</h2>
+<p>What percentage of the time 2 different readings of the same thing give you the same result</p>
+</section>
+<section id="kappa-coefficient" class="level2" data-number="4.2">
+<h2 data-number="4.2" class="anchored" data-anchor-id="kappa-coefficient"><span class="header-section-number">4.2</span> Kappa Coefficient (κ)</h2>
+<p>Kappa (Ƙ) ‐ Percent agreement but corrected for chance (chance corrected agreement)</p>
+</section>
+<section id="cronbachs-alpha" class="level2" data-number="4.3">
+<h2 data-number="4.3" class="anchored" data-anchor-id="cronbachs-alpha"><span class="header-section-number">4.3</span> Cronbach’s Alpha (α)</h2>
+<p>AKA: Coefficient α</p>
+<ul>
+<li>Cronbach’s alpha (α) is a measure of the <a href="../../../The Archive/Evidene Based Practice/Reliability/reliability.html#internal-consistency">internal consistency</a> of multiple items or questions within a single survey</li>
+<li>Used for surveys/questionnaires</li>
+</ul>
+<p>Interpretation</p>
+<ul>
+<li>You want internal consistency results (i.e.&nbsp;<a href="?var:ref-reliabiity.cronbachs-alpha">Cronbach’s Alpha (α)</a>) to be high, we do not want it to be too high.</li>
+<li>An (α) greater than about 0.90 may indicate unnecessary redundancy among the items and means that some of them can be eliminated without jeopardizing the reliability of the scale.</li>
+</ul>
+</section>
+<section id="correlation-coefficient" class="level2" data-number="4.4">
+<h2 data-number="4.4" class="anchored" data-anchor-id="correlation-coefficient"><span class="header-section-number">4.4</span> Correlation coefficient (r)</h2>
+<p>Correlation coefficient (r )- strength of association between diff ratings of the same thing Only gives info on How closely associated the numbers are (if one increases or decreases, the other does as well) Does NOT give info on how well those actual values agree (level of agreement?)</p>
+</section>
+<section id="intra-class-correlation-coefficient" class="level2" data-number="4.5">
+<h2 data-number="4.5" class="anchored" data-anchor-id="intra-class-correlation-coefficient"><span class="header-section-number">4.5</span> Intra-class Correlation Coefficient (ICC)</h2>
+<p>Intra‐class correlation coefficient (ICC) Most comprehensive measure of reliability since it depends on level of agreement (like kappa) and on the correlation between 2 measures (like correlation coefficient)</p>
+</section>
+</section>
+<section id="interpretation" class="level1" data-number="5">
+<h1 data-number="5"><span class="header-section-number">5</span> Interpretation</h1>
+<p>Values range from 0.00 (not reliable) to 1.00 (perfectly reliable)</p>
+<table class="table-striped table-hover table">
+<caption>“Rule of thumb” Quick interpretation of reliability</caption>
+<thead>
+<tr class="header">
+<th>Score</th>
+<th>Reliability</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>0.00 – 0.20</td>
+<td>Poor</td>
+</tr>
+<tr class="even">
+<td>0.21 – 0.40</td>
+<td>Fair</td>
+</tr>
+<tr class="odd">
+<td>0.41 – 0.60</td>
+<td>Moderate</td>
+</tr>
+<tr class="even">
+<td>0.61 – 0.80</td>
+<td>Good</td>
+</tr>
+<tr class="odd">
+<td>0.81 – 1.00</td>
+<td>Excellent</td>
+</tr>
+</tbody>
+</table>
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-streinerReliabilityStatisticsCommentarySeries2016a" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Streiner DL. Statistics <span>Commentary Series</span>: <span>Commentary</span> #15-<span>Reliability</span>. <em>Journal of Clinical Psychopharmacology</em>. 2016;36(4):305-307. doi:<a href="https://doi.org/10.1097/JCP.0000000000000517">10.1097/JCP.0000000000000517</a></div>
+</div>
+</div></section></div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const disableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'prefetch';
+    }
+  }
+  const enableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'stylesheet';
+    }
+  }
+  const manageTransitions = (selector, allowTransitions) => {
+    const els = window.document.querySelectorAll(selector);
+    for (let i=0; i < els.length; i++) {
+      const el = els[i];
+      if (allowTransitions) {
+        el.classList.remove('notransition');
+      } else {
+        el.classList.add('notransition');
+      }
+    }
+  }
+  const toggleColorMode = (alternate) => {
+    // Switch the stylesheets
+    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+    manageTransitions('#quarto-margin-sidebar .nav-link', false);
+    if (alternate) {
+      enableStylesheet(alternateStylesheets);
+      for (const sheetNode of alternateStylesheets) {
+        if (sheetNode.id === "quarto-bootstrap") {
+          toggleBodyColorMode(sheetNode);
+        }
+      }
+    } else {
+      disableStylesheet(alternateStylesheets);
+      toggleBodyColorPrimary();
+    }
+    manageTransitions('#quarto-margin-sidebar .nav-link', true);
+    // Switch the toggles
+    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+    for (let i=0; i < toggles.length; i++) {
+      const toggle = toggles[i];
+      if (toggle) {
+        if (alternate) {
+          toggle.classList.add("alternate");     
+        } else {
+          toggle.classList.remove("alternate");
+        }
+      }
+    }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455)
+    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+      manageTransitions("body", false);
+      window.scrollTo(0, 1);
+      setTimeout(() => {
+        window.scrollTo(0, 0);
+        manageTransitions("body", true);
+      }, 40);  
+    }
+  }
+  const isFileUrl = () => { 
+    return window.location.protocol === 'file:';
+  }
+  const hasAlternateSentinel = () => {  
+    let styleSentinel = getColorSchemeSentinel();
+    if (styleSentinel !== null) {
+      return styleSentinel === "alternate";
+    } else {
+      return false;
+    }
+  }
+  const setStyleSentinel = (alternate) => {
+    const value = alternate ? "alternate" : "default";
+    if (!isFileUrl()) {
+      window.localStorage.setItem("quarto-color-scheme", value);
+    } else {
+      localAlternateSentinel = value;
+    }
+  }
+  const getColorSchemeSentinel = () => {
+    if (!isFileUrl()) {
+      const storageValue = window.localStorage.getItem("quarto-color-scheme");
+      return storageValue != null ? storageValue : localAlternateSentinel;
+    } else {
+      return localAlternateSentinel;
+    }
+  }
+  let localAlternateSentinel = 'default';
+  // Dark / light mode switch
+  window.quartoToggleColorScheme = () => {
+    // Read the current dark / light value 
+    let toAlternate = !hasAlternateSentinel();
+    toggleColorMode(toAlternate);
+    setStyleSentinel(toAlternate);
+  };
+  // Ensure there is a toggle, if there isn't float one in the top right
+  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+    const a = window.document.createElement('a');
+    a.classList.add('top-right');
+    a.classList.add('quarto-color-scheme-toggle');
+    a.href = "";
+    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+    const i = window.document.createElement("i");
+    i.classList.add('bi');
+    a.appendChild(i);
+    window.document.body.appendChild(a);
+  }
+  // Switch to dark mode if need be
+  if (hasAlternateSentinel()) {
+    toggleColorMode(true);
+  } else {
+    toggleColorMode(false);
+  }
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>

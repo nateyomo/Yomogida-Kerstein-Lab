@@ -2,3 +2,8 @@
 title: Index of Symptoms
 ---
 
+- Anesthesia
+- Neurological symptoms
+- Pain
+    - Angina
+    - Regional Pain
