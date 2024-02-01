@@ -1,9 +1,9 @@
 ---
 title: Cronbach's Alpha (&alpha;)
-subtitle: ff
+subtitle: A Psychometric measure of internal consistency
 ---
 
-:::{.callout title="AKA" collapse="true"}
+:::{.callout title="AKA"}
 
 - Coefficient Alpha (&alpha;)
 :::
@@ -26,7 +26,9 @@ Values range from 0.00 (not reliable) to 1.00 (perfectly reliable)
 
 : "Rule of thumb" Quick interpretation of reliability {.striped .hover}
 
+# Scoring
+
 # Interpretation
 
-- You want internal consistency results (i.e. [Cronbach's Alpha (&alpha;)]({{< var ref-reliabiity.cronbachs-alpha >}})) to be high, we do not want it to be too high.
+- You want internal consistency results (i.e. [Cronbach's Alpha (&alpha;)]({{< var ref-reliability.cronbachs-alpha >}})) to be high, we do not want it to be too high.
 - An (&alpha;) greater than about 0.90 may indicate unnecessary redundancy among the items and means that some of them can be eliminated without jeopardizing the reliability of the scale.

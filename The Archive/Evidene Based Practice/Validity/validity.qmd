@@ -31,3 +31,7 @@ If scores on the new measure are significantly associated with pain intensity sc
 Conversely if scores on the new measure are not significantly correlated with scores on the anxiety questionnaire, then there is evidence of divergent validity (good divergent validity means no correlation with a different construct)
 How to demonstrate construct validity:
 Measure the correlation (str of association) between the new measure with existing measures of either the same construct (testing convergent validity) or different construct (testing divergent validity) 
+
+# Predictive Validity
+
+Predictive validity: Predictive validity is the degree to which test scores accurately predict scores on a criterion measure

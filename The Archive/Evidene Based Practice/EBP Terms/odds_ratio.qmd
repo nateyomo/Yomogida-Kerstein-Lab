@@ -5,14 +5,21 @@ title: Odds Ratio (OR)
 - Question: How to compare to Relative risk
 
 
+The odds ratio is a ratio of two sets of odds: the odds of the event occurring in an exposed group versus the odds of the event occurring in a non-exposed group @tennyOddsRatio2024
+Odds ratios commonly are used to report case-control studies
+Odds that an outcome will occur given a particular exposure, compared to the odds of the outcome occurring in the absence of that exposure
+OR = odds that a case was exposed / Odds that a control was exposed
+
+
 
 
 
 # Definition
 
+- The odds ratio (OR) is a measure of how strongly an event is associated with exposure. 
 - Odds that an outcome will occur given a particular exposure, compared to the odds of the outcome occurring in the absence of that exposure
 
-:::{.callout-tip}
+:::{.callout-tip collapse="true"}
 I like to think of odds ratio as the reverse of an RCT
 
 In an RCT, we compare the experimental and control group, which only differ by the independent variable.
@@ -25,12 +32,6 @@ Thus when comparing the two using an odds ratio, you are trying to ascertain whe
 :::
 
 
-Odds ratio (OR):  (see 28613750)
-
-- The odds ratio (OR) is a measure of how strongly an event is associated with exposure. 
-
-
-- OR = odds that a case was exposed / Odds that a control was exposed
 
 # Practical use:
 
@@ -38,15 +39,27 @@ Odds ratio (OR):  (see 28613750)
 
 # Calculation
 
-
-
+- The odds ratio (OR) is a measure of how strongly an event is associated with exposure. 
+- OR = odds that a case was exposed / Odds that a control was exposed
 - The odds ratio is a ratio of two sets of odds: the odds of the event occurring in an exposed group versus the odds of the event occurring in a non-exposed group
+
+| | Disease (Case) | No Disease (Control) |
+|-|-|-|
+| Exposed | A | B |
+| Unexposed | C | D |
+
+
+
 
 # Interpretation
 
-- OR < 1: Odds of disease lower with exposed than non-exposed
-- OR = 1: No difference in odds of disease
-- OR > 1: Odds of disease greater in exposed than non-exposed
+
+| OR Value | Interpretation |
+|-|-|
+| <1 | Odds of disease lower with exposed than non-exposed |
+| 1 | No difference in odds of disease |
+| >1 | Odds of disease greater in exposed than non-exposed |
+: {.striped .hover}
 
 
 # Videos

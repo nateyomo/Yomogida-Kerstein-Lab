@@ -29,7 +29,7 @@ author:
 
 website:
   page-navigation: true
-  title: "Yomogida & Kerstein Lab"
+  title: "YK Lab"
   navbar:
     left:
       - href: index.qmd

@@ -28,7 +28,7 @@ title: "The Archive"
 {{< include Pathologies/pathologies_index.qmd >}}
 
 # Neuroscience
-{{< include Neuro/neuro_index.qmd >}}
+{{< include Neuroscience/neuro_index.qmd >}}
 
 # Motor control
 {{< include "/The Archive/Motor Control/index_motor_control.qmd" >}}

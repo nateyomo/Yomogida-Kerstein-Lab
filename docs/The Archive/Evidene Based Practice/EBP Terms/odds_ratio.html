@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Yomogida &amp; Kerstein Lab - Odds Ratio (OR)</title>
+<title>YK Lab - Odds Ratio (OR)</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,7 +20,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -74,7 +93,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
     <a class="navbar-brand" href="../../../index.html">
-    <span class="navbar-title">Yomogida &amp; Kerstein Lab</span>
+    <span class="navbar-title">YK Lab</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -158,31 +177,31 @@ ul.task-list li input[type="checkbox"] {
 <ul>
 <li>Question: How to compare to Relative risk</li>
 </ul>
+<p>The odds ratio is a ratio of two sets of odds: the odds of the event occurring in an exposed group versus the odds of the event occurring in a non-exposed group<span class="citation" data-cites="tennyOddsRatio2024"><sup><a href="#ref-tennyOddsRatio2024" role="doc-biblioref">1</a></sup></span> Odds ratios commonly are used to report case-control studies Odds that an outcome will occur given a particular exposure, compared to the odds of the outcome occurring in the absence of that exposure OR = odds that a case was exposed / Odds that a control was exposed</p>
 <section id="definition" class="level1" data-number="1">
 <h1 data-number="1"><span class="header-section-number">1</span> Definition</h1>
 <ul>
+<li>The odds ratio (OR) is a measure of how strongly an event is associated with exposure.</li>
 <li>Odds that an outcome will occur given a particular exposure, compared to the odds of the outcome occurring in the absence of that exposure</li>
 </ul>
 <div class="callout callout-style-default callout-tip callout-titled">
-<div class="callout-header d-flex align-content-center">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
 Tip
 </div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>I like to think of odds ratio as the reverse of an RCT</p>
 <p>In an RCT, we compare the experimental and control group, which only differ by the independent variable. Then the results are measured using dependent variables</p>
 <p>An odds ratio compares two groups of people who only differ based on exposure. You could think of exposure as the “independent variable.” When viewing the results, you could view the exposure rates as the “dependent variables.” Thus when comparing the two using an odds ratio, you are trying to ascertain whether the exposure was statistically significant in outcome rates.</p>
 </div>
 </div>
-<p>Odds ratio (OR): (see 28613750)</p>
-<ul>
-<li><p>The odds ratio (OR) is a measure of how strongly an event is associated with exposure.</p></li>
-<li><p>OR = odds that a case was exposed / Odds that a control was exposed</p></li>
-</ul>
+</div>
 </section>
 <section id="practical-use" class="level1" data-number="2">
 <h1 data-number="2"><span class="header-section-number">2</span> Practical use:</h1>
@@ -193,16 +212,57 @@ Tip
 <section id="calculation" class="level1" data-number="3">
 <h1 data-number="3"><span class="header-section-number">3</span> Calculation</h1>
 <ul>
+<li>The odds ratio (OR) is a measure of how strongly an event is associated with exposure.</li>
+<li>OR = odds that a case was exposed / Odds that a control was exposed</li>
 <li>The odds ratio is a ratio of two sets of odds: the odds of the event occurring in an exposed group versus the odds of the event occurring in a non-exposed group</li>
 </ul>
+<table class="table">
+<thead>
+<tr class="header">
+<th></th>
+<th>Disease (Case)</th>
+<th>No Disease (Control)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Exposed</td>
+<td>A</td>
+<td>B</td>
+</tr>
+<tr class="even">
+<td>Unexposed</td>
+<td>C</td>
+<td>D</td>
+</tr>
+</tbody>
+</table>
 </section>
 <section id="interpretation" class="level1" data-number="4">
 <h1 data-number="4"><span class="header-section-number">4</span> Interpretation</h1>
-<ul>
-<li>OR &lt; 1: Odds of disease lower with exposed than non-exposed</li>
-<li>OR = 1: No difference in odds of disease</li>
-<li>OR &gt; 1: Odds of disease greater in exposed than non-exposed</li>
-</ul>
+<table class="table-striped table-hover table">
+<caption></caption>
+<thead>
+<tr class="header">
+<th>OR Value</th>
+<th>Interpretation</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>&lt;1</td>
+<td>Odds of disease lower with exposed than non-exposed</td>
+</tr>
+<tr class="even">
+<td>1</td>
+<td>No difference in odds of disease</td>
+</tr>
+<tr class="odd">
+<td>&gt;1</td>
+<td>Odds of disease greater in exposed than non-exposed</td>
+</tr>
+</tbody>
+</table>
 </section>
 <section id="videos" class="level1" data-number="5">
 <h1 data-number="5"><span class="header-section-number">5</span> Videos</h1>
@@ -210,9 +270,14 @@ Tip
 <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/7ymCiLPP9os" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 
+
 </section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-tennyOddsRatio2024" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Tenny S, Hoffman MR. Odds <span>Ratio</span>. In: <em><span>StatPearls</span></em>. <span>StatPearls Publishing</span>; 2024. Accessed January 27, 2024. <a href="http://www.ncbi.nlm.nih.gov/books/NBK431098/">http://www.ncbi.nlm.nih.gov/books/NBK431098/</a></div>
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

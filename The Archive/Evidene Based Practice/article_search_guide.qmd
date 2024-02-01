@@ -1,0 +1,75 @@
+---
+title: Guide to Searching Articles
+---
+
+# Search Filtering
+
+Goal < 50 abstracts with a search
+
+## PICOS Terms
+
+- Add one term at a time, combined w AND, no long phrases
+- Key terms only
+- Too many results: add pico terms, more specific pico terms, use filters
+- Too few results: remove one or more PICO terms, use less specific PICO terms, search MeSH terms, search for related populations, interventions, outcomes that can be generalized, search alternative databases
+
+## What is a productive Search
+
+
+1. Phrase question in PICOs format 
+1. Identify simple and specific search terms from PICOs question
+1. Combine search terms (including synonyms)
+1. Search for results
+1. Modify (broaden or narrow) search terms based on quality and number of results…search again…  (Goal < 50 abstracts) 
+1. Filter results by optimal study design to identify highest quality studies first
+1. Select relevant article(s) based on best match with PICOs question:
+    - Study design (internal validity) 
+    - Population (external validity)
+    - Intervention/Indicators and Outcomes (construct/external validity)
+
+
+# Pubmed search guide
+
+- Quotation marks:
+    - No quotations around key terms: Automatically search for related MESH terms
+    - Using quotations around key terms: Searches for an exact term or phrase
+    - Always use quotation marks when searching with abbreviations or clinical jargon
+- Wildcards (*)
+    - Use wildcard "*" to truncate search terms
+    - "therap*" will search for: therapy, therapist, therapies, therapeutic, etc.
+
+
+## Pubmed Boolean operators
+Linking Terms with boolean operators: AND/OR/NOT
+
+- Must use all caps
+- Keep terms simple.  Avoid multiple word phrases!!
+
+Using the "AND" Function:
+
+
+Using the "OR" Function:
+- Parantheses: only required when grouping terms with "OR"
+
+:::{.callout title="Syntax example" collapse="true"}
+Improper syntax: "Physical therapy OR rehabilitation AND pain OR function"
+
+Proper syntax: (physical therapy OR rehabilitation) AND (pain OR function) 
+:::
+
+
+Using the "NOT" Function: 
+
+
+## Keyword vs MeSH Terms
+
+- Keyword: Single term selected by you
+    - Not standardized
+    - PubMed will search only for the “keyword” (must be in quotes)
+    - Useful to narrow down results to a very specific topic
+        - “Neck Disability Index”, “NDI”
+- MeSH: Medical Subject Heading
+    - Standardized vocabulary used by PubMed to determine which keywords will be recognized (default search)
+    - PubMed will search for MeSH term and all relevant subheadings within that term
+    - Useful to avoid missing relevant articles when there are many synonyms for your search term 
+

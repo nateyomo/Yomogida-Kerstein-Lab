@@ -628,6 +628,8 @@ ref-cardiac-dysfunction-management:
 # Evidence Based Practice (EBP)
 ref-EBP-index:
   path: "/The Archive/Evidene Based Practice/EBP_index.qmd"
+ref-article-search-guide:
+  path: "/The Archive/Evidene Based Practice/article_search_guide.qmd"
 ## EBP Terms
 ref-odds-ratio:
   path: "/The Archive/Evidene Based Practice/EBP Terms/odds_ratio.qmd"
@@ -636,6 +638,7 @@ ref-relative-risk:
 ## Reliability
 ref-reliability:
   path: "/The Archive/Evidene Based Practice/Reliability/reliability.qmd"
+  scoring: "/The Archive/Evidene Based Practice/Reliability/reliability.qmd#scoring"
   interrater: "/The Archive/Evidene Based Practice/Reliability/reliability.qmd#interrater"
   intrarater: "/The Archive/Evidene Based Practice/Reliability/reliability.qmd#intrarater"
   internal-consistency: "/The Archive/Evidene Based Practice/Reliability/reliability.qmd#internal-consistency"
@@ -788,6 +791,10 @@ ref-microbiology-index:
 ## Cells
 ref-cd34:
   path: "/The Archive/Microbiology/Cells/CD34_cell.qmd"
+### Chemokine
+ref-cxcl-13:
+  path: "/The Archive/Microbiology/Cells/Chemokines/CXCL13_chemokine.qmd"
+  csf: "/The Archive/Microbiology/Cells/Chemokines/CXCL13_chemokine.qmd#csf"
 ## Enzymes
 ref-creatine-kinase:
   path: "/The Archive/Microbiology/Enzymes/Creatine Kinase/creatine_kinase.qmd"
@@ -909,9 +916,6 @@ ref-stages-of-motor-learning:
 
 ## Blood
 
-
-
-
 ## Inflammation
 ref-inflammation-index:
   path: "/The Archive/Physiology/Inflammation/inflammation_index.qmd"
@@ -920,7 +924,9 @@ ref-neutrophil:
   path: "/The Archive/Physiology/Immune system/Immune cells/neutrophils.qmd"
 ref-macrophage:
   path: "/The Archive/Physiology/Immune system/Immune cells/macrophages.qmd"
-
+ref-chemokine:
+  path: "/The Archive/Physiology/Immune system/Immune cells/chemokines.qmd"
+ref-cytokine: "/The Archive/Physiology/Immune system/Immune cells/cytokines.qmd"
 ## Minerals
 ref-copper: 
   path: "/The Archive/Physiology/Minerals/copper.qmd"
@@ -1017,9 +1023,12 @@ ref-gonadotropin-deficiency:
 ref-kallmann-syndrome:
   path: "/The Archive/Pathologies/Endocrine Pathologies/Disorders of the Pituitary Hormone System/Pituitary Hypofunction/Gonadotropin Deficiency/kallmann_syndrome.qmd"
 ## Heart Pathologies
-## Innear ear pathologies
+## Inner ear pathologies
 ref-menieres-disease:
   path: "/The Archive/Pathologies/Inner Ear Pathologies/Menieres_disease.qmd"
+## Infections
+ref-lyme-disease:
+  path: "/The Archive/Pathologies/Infections/Bacterial Infections/Lyme_disease.qmd"
 
 
 ## MSK Pathologies
@@ -1070,7 +1079,9 @@ ref-brachial-plexus-irritation:
   path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/brachial_plexus.qmd#brachial-plexus-irritation"
 ref-double-crush-syndrome:
   path: "/The Archive/Pathophysiology/Nerve pathophysiology/double_crush_syndrome.qmd"
-
+ref-meningitis:
+  path: "/The Archive/Pathophysiology/Nerve pathophysiology/meningitis.qmd"
+  lyme: "/The Archive/Pathologies/Infections/Bacterial Infections/Lyme_disease.qmd#lyme-meningitis"
 # Pediatrics
 ## Development
 ref-overview-theories-of-child-development:
@@ -1136,174 +1147,189 @@ ref-surfing-resources:
 ref-surfing-takeoff:
   path: "/The Archive/Performance Training/Surfing/surfing_takeoff_popup.qmd"
 
-  
+# Pharmacology
+## NSAIDs
+
+## Antibiotics
+ref-ceftriaxone:
+  path: "/The Archive/Pharmacology/Antibiotics/ceftriaxone.qmd"
+## Beta-lactam
+ref-beta-lactam-antibiotics:
+  path: "/The Archive/Pharmacology/Antibiotics/beta-lactam_antibiotics.qmd"
+ref-cefotaxime:
+  path: "/The Archive/Pharmacology/Antibiotics/cefotaxime.qmd"
+ref-penicillin:
+  path: "/The Archive/Pharmacology/Antibiotics/penicillin.qmd"
+  g: "/The Archive/Pharmacology/Antibiotics/penicillin.qmd"
+ref-doxycycline:
+  path: "/The Archive/Pharmacology/Antibiotics/doxycycline.qmd"
 
 # Neuroscience
 
 ## Neuroanatomy
 ref-index-neuroanatomy:
-  path: "/The Archive/Neuro/Neuroanatomy/index_neuroanatomy.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/index_neuroanatomy.qmd"
 ### Basal ganglia
 ref-basal-ganglia:
-  path: "/The Archive/Neuro/Neuroanatomy/Basal Ganglia/basal_ganglia.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Basal Ganglia/basal_ganglia.qmd"
 ref-lentiform-nucleus:
-  path: "/The Archive/Neuro/Neuroanatomy/Basal Ganglia/lentiform_nucleus.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Basal Ganglia/lentiform_nucleus.qmd"
 ref-striatum:
-  path: "/The Archive/Neuro/Neuroanatomy/Basal Ganglia/striatum.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Basal Ganglia/striatum.qmd"
 ref-putamen:
-  path: "/The Archive/Neuro/Neuroanatomy/Basal Ganglia/putamen.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Basal Ganglia/putamen.qmd"
 ref-caudate-nucleus:
-  path: "/The Archive/Neuro/Neuroanatomy/Basal Ganglia/caudate_nucleus.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Basal Ganglia/caudate_nucleus.qmd"
 ref-globus-pallidus:
-  path: "/The Archive/Neuro/Neuroanatomy/Basal Ganglia/globus_pallidus.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Basal Ganglia/globus_pallidus.qmd"
 ref-subthalamic-nucleus:
-  path: "/The Archive/Neuro/Neuroanatomy/Basal Ganglia/subthalamic_nucleus.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Basal Ganglia/subthalamic_nucleus.qmd"
 ref-substantia-nigra:
-  path: "/The Archive/Neuro/Neuroanatomy/Basal Ganglia/substantia_nigra.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Basal Ganglia/substantia_nigra.qmd"
 
 ### Cranial Nerves
 ref-cranial-nerve-overview:
-  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/cranial_nerve_overview.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/cranial_nerve_overview.qmd"
 ref-cn1:
-  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/CN1_Olfactory.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN1_Olfactory.qmd"
 ref-cn2:
-  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/CN2_Optic.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN2_Optic.qmd"
 ref-cn3:
-  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/CN3_Oculomotor.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN3_Oculomotor.qmd"
 ref-cn4:
-  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/CN4_Trochlear.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN4_Trochlear.qmd"
 ref-cn5:
-  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/CN5_Trigeminal.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN5_Trigeminal.qmd"
 ref-cn6:
-  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/CN6_Abducens.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN6_Abducens.qmd"
 ref-cn7:
-  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/CN7_Facial.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN7_Facial.qmd"
 ref-cn8:
-  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/CN8_Vestibulocochlear.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN8_Vestibulocochlear.qmd"
 ref-cn9:
-  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/CN9_Glossopharyngeal.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN9_Glossopharyngeal.qmd"
 ref-cn10:
-  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/CN10_Vagus.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN10_Vagus.qmd"
 ref-cn11:
-  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/CN11_Accessory.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN11_Accessory.qmd"
 ref-cn12:
-  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/CN12_Hypoglossal.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN12_Hypoglossal.qmd"
 
 ref-cranial-nerve-nuclei-overview:
-  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/cranial_nerve_nuclei_overview.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/cranial_nerve_nuclei_overview.qmd"
 ref-oculomotor-nucleus:
-  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/oculomotor_nucleus.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/oculomotor_nucleus.qmd"
 ref-trochlear-nucleus:
-  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/trochlear_nucleus.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/trochlear_nucleus.qmd"
 ref-abducens-nucleus:
-  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/abducens_nucleus.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/abducens_nucleus.qmd"
 ref-trigeminal-motor-nucleus:
-  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/trigeminal_motor_nucleus.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/trigeminal_motor_nucleus.qmd"
 ref-facial-nucleus:
-  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/facial_nucleus.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/facial_nucleus.qmd"
 ref-hypoglossal-nucleus:
-  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/hypoglossal_nucleus.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/hypoglossal_nucleus.qmd"
 ref-nucleus-ambiguous:
-  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/nucleus_ambiguous.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/nucleus_ambiguous.qmd"
 ref-spinal-accessory-nucleus:
-  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/spinal_accessory_nucleus.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/spinal_accessory_nucleus.qmd"
 ref-edinger-westphal-nucleus:
-  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/edinger-westphal_nucleus.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/edinger-westphal_nucleus.qmd"
 ref-superior-salivatory-nucleus:
-  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/superior_salivatory_nucleus.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/superior_salivatory_nucleus.qmd"
 ref-inferior-salivatory-nucleus:
-  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/inferior_salivatory_nucleus.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/inferior_salivatory_nucleus.qmd"
 ref-dorsal-motor-nucleus:
-  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/dorsal_motor_nucleus.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/dorsal_motor_nucleus.qmd"
 ref-nucleus-solitarius:
-  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/nucleus_solitarius.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/nucleus_solitarius.qmd"
 ref-trigeminal-sensory-nuclei:
-  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/trigeminal_sensory_nuclei.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/trigeminal_sensory_nuclei.qmd"
 ref-mesencephalic-nucleus:
-  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/mesencephalic_nucleus.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/mesencephalic_nucleus.qmd"
 ref-main-sensory-nucleus-of-CN-V:
-  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/main_sensory_nucleus_of_cn_v.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/main_sensory_nucleus_of_cn_v.qmd"
 ref-spinal-trigeminal-nucleus:
-  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/spinal_trigeminal_nucleus.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/spinal_trigeminal_nucleus.qmd"
 ref-cochlear-nuclei:
-  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/cochlear_nuclei.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/cochlear_nuclei.qmd"
 ref-vestibular-nuclei:
-  path: "/The Archive/Neuro/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/vestibular_nuclei.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/vestibular_nuclei.qmd"
 
 ### Limbic System
 ref-amygdala:
-  path: "/The Archive/Neuro/Neuroanatomy/Limbic System/amygdala.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Limbic System/amygdala.qmd"
 
 ### Tracts
 #### Ascending Tracts
 ref-dorsal-column-medial-lemniscus: 
-  path: "/The Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/DCML and related structures/dorsal_column-medial_lemniscus_DCML.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Ascending Tracts/DCML and related structures/dorsal_column-medial_lemniscus_DCML.qmd"
 ref-fasciculus-cuneatus:
-  path: "/The Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/DCML and related structures/fasciculus_cuneatus.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Ascending Tracts/DCML and related structures/fasciculus_cuneatus.qmd"
 ref-fasciculus-gracilis:
-  path: "/The Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/DCML and related structures/fasciculus_gracilis.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Ascending Tracts/DCML and related structures/fasciculus_gracilis.qmd"
 ref-cuneocerebellar-tract:
-  path: "/The Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/cuneocerebellar_tract.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Ascending Tracts/cuneocerebellar_tract.qmd"
 ref-dorsal-spinocerebellar-tract:
-  path: "/The Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/dorsal_spinocerebellar_tract.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Ascending Tracts/dorsal_spinocerebellar_tract.qmd"
 ref-ventral-spinocerebellar-tract:
-  path: "/The Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/ventral_spinocerebellar_tract.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Ascending Tracts/ventral_spinocerebellar_tract.qmd"
 ref-spinothalamic-tract:
-  path: "/The Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/spinothalamic_tract.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Ascending Tracts/spinothalamic_tract.qmd"
 ref-spinal-trigeminal-tract:
-  path: "/The Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/spinal_trigeminal_tract.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Ascending Tracts/spinal_trigeminal_tract.qmd"
 ref-trigeminothalamic-tract:
-  path: "/The Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/trigeminothalamic_tract.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Ascending Tracts/trigeminothalamic_tract.qmd"
 ref-spinoreticular-tract:
-  path: "/The Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/spinoreticular_tract.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Ascending Tracts/spinoreticular_tract.qmd"
 ref-spinomesencephalic-tract:
-  path: "/The Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/spinomesencephalic_tract.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Ascending Tracts/spinomesencephalic_tract.qmd"
 ref-spinohypothalamic-tract:
-  path: "/The Archive/Neuro/Neuroanatomy/Tracts/Ascending Tracts/spinohypothalamic_tract.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Ascending Tracts/spinohypothalamic_tract.qmd"
 
 
 
 
 #### Descending Tracts
 ref-extrapyramidal-tracts:
-  path: "/The Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/extrapyramidal_tracts.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/extrapyramidal_tracts.qmd"
 ref-reticulospinal-tract:
-  path: "/The Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/reticulospinal_tract.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/reticulospinal_tract.qmd"
 ref-rubrospinal-tract:
-  path: "/The Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/rubrospinal_tract.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/rubrospinal_tract.qmd"
 ref-tectospinal-tract:
-  path: "/The Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/tectospinal_tract.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/tectospinal_tract.qmd"
 ref-vestibulospinal-tract:
-  path: "/The Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/vestibulospinal_tract.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/vestibulospinal_tract.qmd"
 ref-pyramidal-tracts:
-  path: "/The Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Pyramidal Tract/pyramidal_tracts.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Descending Tracts/Pyramidal Tract/pyramidal_tracts.qmd"
 ref-corticobulbar-tract:
-  path: "/The Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Pyramidal Tract/corticobulbar_tract.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Descending Tracts/Pyramidal Tract/corticobulbar_tract.qmd"
 ref-lateral-corticospinal-tract:
-  path: "/The Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Pyramidal Tract/lateral_corticospinal_tract_LCST.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Descending Tracts/Pyramidal Tract/lateral_corticospinal_tract_LCST.qmd"
 ref-medial-corticospinal-tract:
-  path: "/The Archive/Neuro/Neuroanatomy/Tracts/Descending Tracts/Pyramidal Tract/medial_corticospinal_tract_MCST.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Descending Tracts/Pyramidal Tract/medial_corticospinal_tract_MCST.qmd"
 
 
 
 ## Neurophysiology
 ### Special Senses
 ref-gustation:
-  path: "/The Archive/Neuro/Neurophysiology/Special Senses/gustation.qmd"
+  path: "/The Archive/Neuroscience/Neurophysiology/Special Senses/gustation.qmd"
 ref-olfaction:
-  path: "/The Archive/Neuro/Neurophysiology/Special Senses/olfaction.qmd"
+  path: "/The Archive/Neuroscience/Neurophysiology/Special Senses/olfaction.qmd"
 ref-vision:
-  path: "/The Archive/Neuro/Neurophysiology/Special Senses/Vision and eye movement/vision.qmd"
+  path: "/The Archive/Neuroscience/Neurophysiology/Special Senses/Vision and eye movement/vision.qmd"
 
 ### Executive Functions
 ref-executive-function:
-  path: "/The Archive/Neuro/Neurophysiology/Cognition/cognition_overview.qmd#executive-overview"
+  path: "/The Archive/Neuroscience/Neurophysiology/Cognition/cognition_overview.qmd#executive-overview"
 ref-cognition:
-  overview: "/The Archive/Neuro/Neurophysiology/Cognition/cognition_overview.qmd"
+  overview: "/The Archive/Neuroscience/Neurophysiology/Cognition/cognition_overview.qmd"
 ref-perception:
-  overview: "/The Archive/Neuro/Neurophysiology/Perception/percetion_overview.qmd"
-  visual: "/The Archive/Neuro/Neurophysiology/Perception/percetion_overview.qmd#visual-perception"
-  deficits: "/The Archive/Neuro/Neurophysiology/Perception/perception_deficits.qmd"
+  overview: "/The Archive/Neuroscience/Neurophysiology/Perception/percetion_overview.qmd"
+  visual: "/The Archive/Neuroscience/Neurophysiology/Perception/percetion_overview.qmd#visual-perception"
+  deficits: "/The Archive/Neuroscience/Neurophysiology/Perception/perception_deficits.qmd"
 
 ### Neuro Symptoms
 ref-anosmia:
@@ -1311,20 +1337,20 @@ ref-anosmia:
 
 ## Neuropathology
 ref-amyotrophic-lateral-sclerosis: 
-  path: "/The Archive/Neuro/Neuropathology/Amyotrophic Lateral Sclerosis/amyotrophic_lateral_sclerosis.qmd"
+  path: "/The Archive/Neuroscience/Neuropathology/Amyotrophic Lateral Sclerosis/amyotrophic_lateral_sclerosis.qmd"
 ref-down-syndrome:
-  path: "/The Archive/Neuro/Neuropathology/Down Syndrome/down_syndrome.qmd"
+  path: "/The Archive/Neuroscience/Neuropathology/Down Syndrome/down_syndrome.qmd"
 ### Peripheral nervous system pathologies
 ref-trigeminal-neuralgia:
-  path: "/The Archive/Neuro/Neuropathology/Peripheral Nervous System Pathologies/Peripheral Neuralgia/trigeminal_neuralgia.qmd"
+  path: "/The Archive/Neuroscience/Neuropathology/Peripheral Nervous System Pathologies/Peripheral Neuralgia/trigeminal_neuralgia.qmd"
 ref-bell-palsy:
-  path: "/The Archive/Neuro/Neuropathology/Peripheral Nervous System Pathologies/Peripheral Neuralgia/Bell_palsy.qmd"
+  path: "/The Archive/Neuroscience/Neuropathology/Peripheral Nervous System Pathologies/Peripheral Neuralgia/Bell_palsy.qmd"
 
 ## Neuro Examination
 ### Reflexes
 ref-reflex:
   path: "/"
-  jaw-jerk: "/The Archive/Neuro/Neuro Examination/Neuro Tests and Measures/Reflexes/jaw_jerk_reflex.qmd"
+  jaw-jerk: "/The Archive/Neuroscience/Neuro Examination/Neuro Tests and Measures/Reflexes/jaw_jerk_reflex.qmd"
 
 # Psychosocial
 ref-psychosocial-index:
