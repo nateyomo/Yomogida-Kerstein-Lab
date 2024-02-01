@@ -5,6 +5,7 @@ title: Musculoskeletal approach to the Jaw
 
 # Joint
 
+[Temporomandibular joint]({{< var ref-temperomandibular-joint.path >}})
 
 # Muscles
 
@@ -22,3 +23,149 @@ title: Musculoskeletal approach to the Jaw
 The muscle of mastication are divided by size and force potential into two groups: primary and secondary
 
 In addition, mechanoreceptors and sensory nerves from oral mucosa, periodontal ligaments, and muscles provide the nervous system with a rich source of proprioception. This sensory information helps protect the soft oral tissues, such as the tongue and cheeks, from trauma caused by the teeth during chewing or speaking. Furthermore, the sensation helps coordinate the neuromuscular reflexes that synchronize the functional interaction among the muscles of the TMJ and in the craniocervical region. The sensory innervation from the TMJ is carried through two branches of the mandibular nerve: auriculotemporal and masseteric
+
+# Tests and Measures
+
+Patient reported outcome measures for TMD:
+
+- Jaw functional limitation scale - 20
+    - https://muscleandspinerehab.com/wp-content/uploads/2019/05/TMJ-Jaw-Functional-Limitation-Scale.pdf
+    - Sample Questions: 
+        - Scale 0-10, rate your difficulty in:
+        - Chewing tough foods
+        - Making certain facial expressions
+        - Talk and sing
+
+
+# Evaluation
+
+
+
+
+
+
+## Assess surrounding structures
+
+- Upper cervical ROM / Postural contributions
+    - Suboccipital tightness could occur
+    - Pts w/ TMD have 70% chance of having C/S limitations
+    - Upper cervical – OAJ mobility
+    - Cervical ROM and upper quad function
+
+## Motor patterns
+
+- Jaw opening/closing patterns and mobility
+
+## TMJ
+
+functional/PROM
+
+- Palpation and auscultation of the joint
+    - Intraoral exam
+    - Signs of bruxism
+    - Scalloping
+
+# Palpation
+
+Muscle palpation: Region is usually sensitive, but increased TTP on the involved side is almost always reported by patients with TMD
+
+
+## Bite assessment
+
+- Bite Assessment
+    - Cotton roll test
+    - Alignment 
+
+## Imaging
+
+Can have advanced imaging , US → 33% false positive rates
+
+## Psychosocial assessment
+
+Always ask about psychosocial factors — stress can be a big contributor
+
+## Functional Activities
+
+Also ask about functional activity
+Speech, lip biting/nail biking, mouth breathing, tongue/jaw thrust 
+
+## Disc Assessment
+
+ADDwR or ADDwoR - ant disc displacement w reduction or without 
+
+# Pathologies and Pathokinematics
+
+Pathokinematics and mvmt classifications:
+Opening: click during opening , click during close, – disc ant to begin with not even in place (sound of disc snappinginto place on top of condyle, then it snaps back out during closing ) ADD w R  (ant disc displacement w reduction)
+Ant displaced disc: loose/stretched retrodiscal laminae or tight sup lat pterygoid
+Likely hypermobile opening (not limited opening)  
+Opening – no click – ADDwoR  → ant disc displacement without reduction 
+Disc in front of condyle when opening, so blocks condyle from sliding further forward
+Limited opening 
+Starts out limited, as condition progresses, it normalizes (disc just stays out and goes further in front)
+Harder to treat if pain is associated with it
+Retrodiscal laminae super stretched out  (so we have to manually shove the disc back ) 
+Kenny says we can :Pull jaw far open (gap it) to try to let the disc slide back, then tell them to not open their mouth as much after so that healing occurs and disc stays. (hard tho he says)
+Open lock 
+PDD posterior disc displacement
+Limits ability to close mouth
+Open, condyle slides forward, disc is stuck behind, so as you close, disc is jammed in there, so you cant close all the way
+Open locked
+
+
+# DDX
+
+True TMD:
+
+- Joint/Capsule
+- [Articular Disc]({{< var ref-temporomandibular-joint.articular-disc >}})
+- Fracture
+- TMJ Hyper/hypomobility (dislocation or subluxation of condyle)
+- FHP = leads to hypermobility
+
+Contributing to TMD symptoms:
+
+- HA and posture
+- Nerve and inner ear dysfunction (trigeminal neuralgia)
+- Stress/clenching/bruxism/myofasical pain
+- Meniere's Disease
+
+
+## Hypomobility
+
+C-curve when opening and closing mouth
+
+
+
+
+# Interventions
+
+- Joint mobility
+    - move normally and dont go to the point of aberrations
+
+- Cue
+    - Placing tongue on roof of mouth: Limits ROM and helps prevent excessive ROM
+    
+
+# Rehabilitation
+
+Best starting plan regardless of the patient: Decrease stress and treat posture
+
+- Pt education
+- Relaxation, postural correction , body mechanics
+- Oral habits – should you chew food on one side? → debatable, some ppl think that if u chew on hurt side it gaps it, but he says know chew on side that hurts less. If no pain differs→ split food on both sides
+- Consider aid of modalities 
+
+
+Awareness and mindfulness of:
+❏breathing,
+❏posture,  
+❏precise and purposeful jaw movement
+Multiple times a day, small bouts to emphasize good posture and timely stretching!
+Don’t forget C/S isometrics and DNF activation!
+
+
+
+## Hypermobility
+
+Tongue on roof of mouth - limits full opening, helps to stabilize and control for hypermobility and coordination

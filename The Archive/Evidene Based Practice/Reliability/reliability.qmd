@@ -43,6 +43,18 @@ The important point here is the necessity for the independence of the raters; 1 
 - If 1 rater gives a score of 7 and another a score of 12, we wouldn’t be sure which, if either, score is correct @streinerReliabilityStatisticsCommentarySeries2016a.
 :::
 
+:::{.callout title="What to do with poor inter-rater reliability"}
+
+How to improve inter-rater reliability:
+- The solution is usually more training of the raters @streinerReliabilityStatisticsCommentarySeries2016a
+    - A common strategy is for raters to independently evaluate about 10 people who will not be part of the final sample, and to discuss why they disagreed on specific items; were the criteria unclear, ambiguous, poorly stated, or whatever? 
+    - This is repeated on a new group until satisfactory inter-rater reliability is achieved
+    - If the study lasts more than a few months, it is usually a good idea to evaluate inter-rater reliability toward the middle to see if there has been any slippage in the level of agreement. 
+    - Problems exist with this method if thescale requires interviewing the subject @streinerReliabilityStatisticsCommentarySeries2016a.
+
+:::
+
+
 ## Intrarater Reliability {#intrarater}
 
 - INTRA‐rater reliability refers to the consistency of a measure assessed by a single rater across multiple time points
@@ -64,6 +76,11 @@ When assessing test-retest reliability, the length of time between time 1 and 2 
 - The usual testretest interval is about 2 weeks, but this can be altered based on a number of factors @streinerReliabilityStatisticsCommentarySeries2016a. 
     - The Longer the scale the less time is required between measurements (the person is less likely to remember all of their answers) @streinerReliabilityStatisticsCommentarySeries2016a.
     - Duration is also determined by how quickly the attribute being tested can change @streinerReliabilityStatisticsCommentarySeries2016a.
+
+:::{.callout title="What if my scale has low Test-Retest Reliability?"}
+- A self administered scale with poor test-retest reliability cannot be changed without altering psychometric validity @streinerReliabilityStatisticsCommentarySeries2016a
+- A clinician-administered scale can be slightly changed by insuring that the instructions are clear and understood by the participant @streinerReliabilityStatisticsCommentarySeries2016a
+:::
 
 ## Internal Consistency {#internal-consistency}
 
@@ -106,6 +123,12 @@ Interpretation
 - You want internal consistency results (i.e. [Cronbach's Alpha (&alpha;)]({{< var ref-reliabiity.cronbachs-alpha >}})) to be high, we do not want it to be too high.
 - An (&alpha;) greater than about 0.90 may indicate unnecessary redundancy among the items and means that some of them can be eliminated without jeopardizing the reliability of the scale.
 
+:::{.callout title="What if my scale has low internal consistency?"}
+If the scale you are using has already been developed and validated, you cannot change much with respect to internal consistency
+
+- Changing the items makes it impossible to compare to studies on its psychometric validity
+:::
+
 # Reliability Coefficients
 
 Common reliability statistics include:
@@ -113,40 +136,40 @@ Common reliability statistics include:
 - [Percent agreement]({{< var ref-reliability.percent-agreement >}})
 - [Kappa Coefficient]({{< var ref-reliability.kappa-coefficient >}})
 - [Cronbach's Alpha]({{< var ref-reliability.cronbachs-alpha >}})
-- [Correlation Coefficient]({{< var ref-reliability.correlation-coefficient >}})
+- [Correlation Coefficient]({{< var ref-correlation-coefficient.path >}})
 - [Intra-Class Correlation Coefficient]({{< var ref-reliability.icc >}})
 
+# Calculation
 
-## Percent agreement {#percent-agreement}
+Reliability is the proportion of the total variance in scores that is due to differences among people @streinerReliabilityStatisticsCommentarySeries2016a.
 
-What percentage of the time 2 different readings of the same thing give you the same result
+$$
+Reliability = \frac{\sigma_s^2}{\sigma_s^2 + \sigma_e^2} = \frac{\sigma_s^2}{\sigma_Total^2}
+$$
 
-## Kappa Coefficient (&kappa;) {#kappa-coefficient}
-Kappa (Ƙ) ‐ Percent agreement but corrected for chance (chance corrected agreement)
-
-## Cronbach's Alpha (&alpha;) {#cronbachs-alpha}
-AKA: Coefficient &alpha;
-
-- Cronbach’s alpha (α) is a measure of the [internal consistency]({{< var ref-reliability.internal-consistency >}}) of multiple items or questions within a single survey
-- Used for surveys/questionnaires
-
-Interpretation
-
-- You want internal consistency results (i.e. [Cronbach's Alpha (&alpha;)]({{< var ref-reliabiity.cronbachs-alpha >}})) to be high, we do not want it to be too high.
-- An (&alpha;) greater than about 0.90 may indicate unnecessary redundancy among the items and means that some of them can be eliminated without jeopardizing the reliability of the scale.
-
-## Correlation coefficient (r) {#correlation-coefficient}
-Correlation coefficient (r )- 
-strength of association between diff ratings of the same thing
-Only gives info on How closely associated the numbers are (if one increases or decreases, the other does as well)
-Does NOT give info on how well those actual values agree (level of agreement?)
-
-## Intra-class Correlation Coefficient (ICC) {#intra-class-correlation-coefficient}
-Intra‐class correlation coefficient (ICC)
-Most comprehensive measure of reliability since it depends on level of agreement (like kappa) and on the correlation between 2 measures (like correlation coefficient)
+- $\sigma_s^2$ refers to the variability between subjects @streinerReliabilityStatisticsCommentarySeries2016a
+- $\sigma_e^2$ refers to measurement error @streinerReliabilityStatisticsCommentarySeries2016a
 
 
-# Interpretation
+:::{.callout-note}
+- Terms such as ‘precision,’‘agreement,’ and ‘repeatability’ focus solely on the fact that the error term should be as small as possible @streinerReliabilityStatisticsCommentarySeries2016a.
+- These terms ignore the fact that reliability also depends on the variability among people @streinerReliabilityStatisticsCommentarySeries2016a.
+:::
+
+:::{.callout-note title="Subject variability implications"}
+
+- If there is no variability between participants ( $\sigma_s^2$ ) then $\sigma_s^2 = 0$ the reliability is 0 @streinerReliabilityStatisticsCommentarySeries2016a.
+    - The reliability of a scale reflects its ability to differentiate among people and if it cannot, then the reliability is 0 and the scale is useless @streinerReliabilityStatisticsCommentarySeries2016a.
+- Another implication about $\sigma_s^2$ is that reliability is not a fixed property, but rather dependent on the sample being studied.
+    - Reliability is is very dependent on the sample in which it is determined @streinerReliabilityStatisticsCommentarySeries2016a.
+    - Example: Applying a depression scale to ER patients vs outpatient psychiatric patients
+        - The ER Patients would consist of people who have very low depression to extremely high depression (suicidally depressed) @streinerReliabilityStatisticsCommentarySeries2016a.
+            - This sample has a very high patient variability ( $\sigma_s^2$ ) and thus a higher reliability score @streinerReliabilityStatisticsCommentarySeries2016a
+        - The outpatient psychiatric patients would likely have moderate levels of depression (those with high depression would be administered to a hospital) @streinerReliabilityStatisticsCommentarySeries2016a.
+            - Thus there will be low patient variability ($\sigma_s^2$) and the reliability will be lower @streinerReliabilityStatisticsCommentarySeries2016a.
+:::
+
+# Scoring
 
 Values range from 0.00 (not reliable) to 1.00 (perfectly reliable) 
 
@@ -159,3 +182,20 @@ Values range from 0.00 (not reliable) to 1.00 (perfectly reliable)
 | 0.81 – 1.00 | Excellent |
 
 : "Rule of thumb" Quick interpretation of reliability {.striped .hover}
+
+
+
+
+
+
+# Interpretation
+
+:::{.callout title="How High Should Reliability be?"}
+How high should reliability be? 
+
+- Scales used in new, underdeveloped research areas should have a minimum reliability of 0.70 @streinerReliabilityStatisticsCommentarySeries2016a.
+- Scales coming from mature areas of research, the minimum is 0.80 @streinerReliabilityStatisticsCommentarySeries2016a.
+- and if the scale is to be used for clinical purposes the minimum is 0.90.
+:::
+
+*Poor-moderate reliability are not good for clinical decision making since you are likely to get a different result everytime you test your patient, regardless of status

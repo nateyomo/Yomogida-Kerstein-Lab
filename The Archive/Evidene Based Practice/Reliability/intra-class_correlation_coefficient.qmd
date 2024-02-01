@@ -1,0 +1,22 @@
+---
+title: Intra-class Correlation Coefficient (ICC)
+---
+
+Intra‐class correlation coefficient (ICC)
+Most comprehensive measure of reliability since it depends on level of agreement (like kappa) and on the correlation between 2 measures (like correlation coefficient)
+
+# Scoring
+
+Values range from 0.00 (not reliable) to 1.00 (perfectly reliable) 
+
+| Score | Reliability |
+|-|-|
+| 0.00 – 0.20 | Poor |
+| 0.21 – 0.40 | Fair |
+| 0.41 – 0.60 | Moderate |
+| 0.61 – 0.80 | Good |
+| 0.81 – 1.00 | Excellent |
+
+: "Rule of thumb" Quick interpretation of reliability {.striped .hover}
+
+# Interpretation

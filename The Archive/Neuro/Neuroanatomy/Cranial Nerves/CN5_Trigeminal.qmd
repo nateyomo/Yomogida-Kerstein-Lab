@@ -52,6 +52,8 @@ There are 4 trigeminal nuclei (3 sensory and 1 motor):
 - [Spinal trigeminal nucleus]({{< var ref-spinal-trigeminal-nucleus.path >}}) Conveys touch, pain, pressure, and proprioception from the entire face
   - [Spinal Trigeminal tract]({{< var ref-spinal-trigeminal-tract.path >}})
 
+
+
 # Anatomy
 ## Brainstem
 
@@ -214,8 +216,13 @@ Skin of face --> Receptor --> Crude touch / Pain / Temperature --> DIVISION --> 
 : Analagous Trigeminal and Spinal Somatosensory Systems {.striped .hover}
 
 
+# Testing
+
+- [Jaw Jerk Reflex]({{< var ref-reflex.jaw-jerk >}})
 
 # External Resources
 
 - [Ninja Nerd's Trigeminal Nerve video]({{< https://youtu.be/WQjcaCblig8 >}})
 - Brazis's localization in neurology contains a solid overview and really good DDX @brazisLocalizationClinicalNeurology2022
+
+
