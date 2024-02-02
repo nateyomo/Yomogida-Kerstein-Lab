@@ -5856,7 +5856,7 @@
     "href": "The Archive/Pediatrics/Embryology/fetal_development.html",
     "title": "Fetal Development",
     "section": "",
-    "text": "Age definitions\n\nTerm birth: 38-40 weeks gestation\nPremature: born prior to 37 weeks gestation\nGestational age: number of months/days in utero (how long in utero, date of last menstrual period to when baby was born)\nChronological age: Time since date of birth\nAdjusted age: (40 weeks - gestational age) - chronological age\n\nHow to calculate age for premature babies"
+    "text": "Age definitions\n\nTerm birth: 38-40 weeks gestation\nPremature: born prior to 37 weeks gestation\nGestational age: number of months/days in utero (how long in utero, date of last menstrual period to when baby was born)\nChronological age: Time since date of birth\nAdjusted age: Chronological age - (Prematurity)"
   },
   {
     "objectID": "The Archive/Pediatrics/Embryology/fetal_development.html#germinal-period",
@@ -6500,21 +6500,21 @@
     "href": "The Archive/Evidene Based Practice/Reliability/reliability.html",
     "title": "Reliability",
     "section": "",
-    "text": "Reliability is defined as the extent to which measurements can be replicated1. Reliability reflects not only degree of correlation but also agreement between measurements1.\nReliability is NOT the same as validity"
+    "text": "Reliability relates to the extent of variability and error inherent in a measurement and can be interpreted as the extent to which measurements can be replicated1. Reliability reflects not only degree of correlation but also agreement between measurements1.\nReliability is NOT the same as validity\n\n1 Significance of Reliability\n\nOne cannot be confident in the results of a scale with poor reliability2.\n\n\n\n\n\n\n\nExample of Poor reliability\n\n\n\n\nIf a person’s score is 10 on 1 occasion and 15 on another (again assuming the person has not changed)2\nIf 1 rater gives a score of 7 and another a score of 12, we wouldn’t be sure which, if either, score is correct2.\nSimilarly, if the items of a scale are not related to each other, we would not be sure just what it is that the scale is measuring (assuming that the scale is measuring a homogeneous construct)2.\n\n\n\n\n\n2 Misconceptions\nReliability is sometimes used synonymously with ‘precision,’‘agreement,’ and ‘repeatability,’ but these are misslabeling the concept2.\n\n\n3 Types of Reliability\n\nInter-rater reliability (IRR): Consistency of a measure assessed by multiple raters\nInter-rater agreement (IRA)\nIntra-rater reliability\nTest-Retest Reliability\n\n\n\n4 Reliability Coefficients\n\n\n\n\n\n\nOutdated measures of reliability\n\n\n\n\n\n\nHistorically, Pearson correlation coefficient, paired t test, and Bland-Altman plot have been used to evaluate reliability1.\nThese tests only measure correlation and disregard variance, thus are are nonideal measures of reliability1.\n\n\n\n\nCommon reliability statistics include:\n\nPercent agreement\nKappa Coefficient\nKrippenndorff’s Alpha\nCronbach’s Alpha\nCorrelation Coefficient\nIntra-Class Correlation Coefficient\n\n\n\n5 Calculation\nReliability is the proportion of the total variance in scores that is due to differences among people2.\n\\[\nReliability = \\frac{\\sigma_s^2}{\\sigma_s^2 + \\sigma_e^2} = \\frac{\\sigma_s^2}{\\sigma_Total^2}\n\\]\n\n\\(\\sigma_s^2\\) refers to subject variability2,3\n\\(\\sigma_e^2\\) refers to measurement error2,3\n\n\n\n\n\n\n\nNote\n\n\n\n\nTerms such as ‘precision,’‘agreement,’ and ‘repeatability’ focus solely on the fact that the error term should be as small as possible2.\nThese terms ignore the fact that reliability also depends on the variability among people2.\n\n\n\n\n\n\n\n\n\nSubject variability implications\n\n\n\n\nIf there is no variability between participants ( \\(\\sigma_s^2\\) ) then \\(\\sigma_s^2 = 0\\) the reliability is 02.\n\nThe reliability of a scale reflects its ability to differentiate among people and if it cannot, then the reliability is 0 and the scale is useless2.\n\nAnother implication about \\(\\sigma_s^2\\) is that reliability is not a fixed property, but rather dependent on the sample being studied.\n\nReliability is is very dependent on the sample in which it is determined2.\nExample: Applying a depression scale to ER patients vs outpatient psychiatric patients\n\nThe ER Patients would consist of people who have very low depression to extremely high depression (suicidally depressed)2.\n\nThis sample has a very high patient variability ( \\(\\sigma_s^2\\) ) and thus a higher reliability score2\n\nThe outpatient psychiatric patients would likely have moderate levels of depression (those with high depression would be administered to a hospital)2.\n\nThus there will be low patient variability (\\(\\sigma_s^2\\)) and the reliability will be lower2.\n\n\n\n\n\n\n\n\n6 Scoring\nValues range from 0.00 (not reliable) to 1.00 (perfectly reliable)\n\n“Rule of thumb” Quick interpretation of reliability\n\n\nScore\nReliability\n\n\n\n\n0.00 – 0.20\nPoor\n\n\n0.21 – 0.40\nFair\n\n\n0.41 – 0.60\nModerate\n\n\n0.61 – 0.80\nGood\n\n\n0.81 – 1.00\nExcellent\n\n\n\nFor reliability measures, the confidence interval defines a range in which the true coefficient lies with a given probability4\nFor a result to show that reliability is better than chance at a confidence level of 95%, the lower limit of the CI must be above 0.64.\n\n\n7 Interpretation\n\n\n\n\n\n\nHow High Should Reliability be?\n\n\n\nHow high should reliability be?\n\nScales used in new, underdeveloped research areas should have a minimum reliability of 0.702.\nScales coming from mature areas of research, the minimum is 0.802.\nand if the scale is to be used for clinical purposes the minimum is 0.902.\n\n\n\n*Poor-moderate reliability are not good for clinical decision making since you are likely to get a different result everytime you test your patient, regardless of status\n\n\n\n\n\nReferences\n\n1. Koo TK, Li MY. A Guideline of Selecting and Reporting Intraclass Correlation Coefficients for Reliability Research. Journal of Chiropractic Medicine. 2016;15(2):155-163. doi:10.1016/j.jcm.2016.02.012\n\n\n2. Streiner DL. Statistics Commentary Series: Commentary #15-Reliability. Journal of Clinical Psychopharmacology. 2016;36(4):305-307. doi:10.1097/JCP.0000000000000517\n\n\n3. Gisev N, Bell JS, Chen TF. Interrater agreement and interrater reliability: Key concepts, approaches, and applications. Research in social & administrative pharmacy: RSAP. 2013;9(3):330-338. doi:10.1016/j.sapharm.2012.04.004\n\n\n4. Zapf A, Castell S, Morawietz L, Karch A. Measuring inter-rater reliability for nominal data - which coefficients and confidence intervals are appropriate? BMC medical research methodology. 2016;16:93. doi:10.1186/s12874-016-0200-9"
   },
   {
     "objectID": "The Archive/Evidene Based Practice/Reliability/reliability.html#interrater",
     "href": "The Archive/Evidene Based Practice/Reliability/reliability.html#interrater",
     "title": "Reliability",
-    "section": "3.1 Interrater Reliability",
-    "text": "3.1 Interrater Reliability\n\nINTER‐rater reliability: Consistency of a measure assessed by multiple raters\nMultiple PTs doing the test\nPurpose: Determine the agreement between scores given independently by 2 practitioners2\n\nThe important point here is the necessity for the independence of the raters; 1 rater must be ignorant of the other’s score. Otherwise, we would have a measure of the degree to which 1 person can accurately copy from another, which tells us much about the raters, but little about the subject.\n\n\n\n\n\n\nExample of Poor Interrater reliability\n\n\n\n\nIf 1 rater gives a score of 7 and another a score of 12, we wouldn’t be sure which, if either, score is correct2.\n\n\n\n\n\n\n\n\n\nWhat to do with poor inter-rater reliability\n\n\n\nHow to improve inter-rater reliability: - The solution is usually more training of the raters2 - A common strategy is for raters to independently evaluate about 10 people who will not be part of the final sample, and to discuss why they disagreed on specific items; were the criteria unclear, ambiguous, poorly stated, or whatever? - This is repeated on a new group until satisfactory inter-rater reliability is achieved - If the study lasts more than a few months, it is usually a good idea to evaluate inter-rater reliability toward the middle to see if there has been any slippage in the level of agreement. - Problems exist with this method if thescale requires interviewing the subject2."
+    "section": "3.1 Inter-rater Reliability (IRR)",
+    "text": "3.1 Inter-rater Reliability (IRR)\n\nINTER‐rater reliability: Consistency of a measure assessed by multiple raters\nMultiple PTs doing the test\nPurpose: Determine the agreement between scores given independently by 2 practitioners2\n\nThe important point here is the necessity for the independence of the raters; 1 rater must be ignorant of the other’s score. Otherwise, we would have a measure of the degree to which 1 person can accurately copy from another, which tells us much about the raters, but little about the subject.\nTests for Inter-Rater Reliability\n\nTotal Agreement: Percentage of examinations in which the task scores assigned by the two raters were identical (total agreement)3\nCohen’s Kappa: The chance corrected measure of agreement on tasks\nKrippendorff’s Alpha\n\nHas the advantage of high flexibility regarding the measurement scale and the number of raters, and, unlike Fleiss’ K, can also handle missing values4.\n\nPearson’s coefficients: Of the correlation between the two raters’ scores for each subscale\nT-Tests: between the two raters’ mean scores for the each subscale\nIntraclass Correlation Coefficient\n\n\n\n\n\n\n\nExample of Poor Interrater reliability\n\n\n\n\nIf 1 rater gives a score of 7 and another a score of 12, we wouldn’t be sure which, if either, score is correct2.\n\n\n\n\n\n\n\n\n\nWhat to do with poor inter-rater reliability\n\n\n\nHow to improve inter-rater reliability: - The solution is usually more training of the raters2 - A common strategy is for raters to independently evaluate about 10 people who will not be part of the final sample, and to discuss why they disagreed on specific items; were the criteria unclear, ambiguous, poorly stated, or whatever? - This is repeated on a new group until satisfactory inter-rater reliability is achieved - If the study lasts more than a few months, it is usually a good idea to evaluate inter-rater reliability toward the middle to see if there has been any slippage in the level of agreement. - Problems exist with this method if thescale requires interviewing the subject2."
   },
   {
     "objectID": "The Archive/Evidene Based Practice/Reliability/reliability.html#intrarater",
     "href": "The Archive/Evidene Based Practice/Reliability/reliability.html#intrarater",
     "title": "Reliability",
-    "section": "3.2 Intrarater Reliability",
-    "text": "3.2 Intrarater Reliability\n\nINTRA‐rater reliability refers to the consistency of a measure assessed by a single rater across multiple time points\nFor the same therapist doing the test multiple times"
+    "section": "3.3 Intrarater Reliability",
+    "text": "3.3 Intrarater Reliability\n\nINTRA‐rater reliability refers to the consistency of a measure assessed by a single rater across multiple time points\nFor the same therapist doing the test multiple times"
   },
   {
     "objectID": "The Archive/Evidene Based Practice/Reliability/reliability.html#percent-agreement",
@@ -6597,15 +6597,15 @@
     "objectID": "The Archive/Evidene Based Practice/Reliability/reliability.html#test-retest-reliability",
     "href": "The Archive/Evidene Based Practice/Reliability/reliability.html#test-retest-reliability",
     "title": "Reliability",
-    "section": "3.3 Test-Retest Reliability",
-    "text": "3.3 Test-Retest Reliability\n\n\n\n\n\n\nExample\n\n\n\n\n\n\nTest-Retest reliability reflects the variation in measurements taken by an instrument on the same subject under the same conditions1. In other words, Test-Retest reliability quantifies the similarity of scores when a study participant completes a test at 2 separate instances2. If this test was reliable, we would expect the 2 scores to be similar, if not identical, on both occasions (assuming that the person has not changed in the interim)2.\nUse case:\n\nIt is generally indicative of reliability in situations when raters are not involved or rater effect is neglectable, such as self-report survey instrument1.\n\nDuration between tests:\n\nWhen assessing test-retest reliability, the length of time between time 1 and 2 creates an issue since there is a fine balance the researchers must find with time since there is trade-off between 2 competing requirements2.\nIf the duration is too short, the participants will answer the questionnaire by memory in order to appear consistent2.\nIf the duration is too long, the person’s mood, anxiety, symptoms, or whatever we are measuring could change2.\nThe usual testretest interval is about 2 weeks, but this can be altered based on a number of factors2.\nThe Longer the scale the less time is required between measurements (the person is less likely to remember all of their answers)2.\nDuration is also determined by how quickly the attribute being tested can change2.\n\n\n\n\n\n\n\nWhat if my scale has low Test-Retest Reliability?\n\n\n\n\nA self administered scale with poor test-retest reliability cannot be changed without altering psychometric validity2\nA clinician-administered scale can be slightly changed by insuring that the instructions are clear and understood by the participant2"
+    "section": "3.4 Test-Retest Reliability",
+    "text": "3.4 Test-Retest Reliability\n\n\n\n\n\n\nExample\n\n\n\n\n\n\nTest-Retest reliability reflects the variation in measurements taken by an instrument on the same subject under the same conditions1. In other words, Test-Retest reliability quantifies the similarity of scores when a study participant completes a test at 2 separate instances2. If this test was reliable, we would expect the 2 scores to be similar, if not identical, on both occasions (assuming that the person has not changed in the interim)2.\nUse case:\n\nIt is generally indicative of reliability in situations when raters are not involved or rater effect is neglectable, such as self-report survey instrument1.\n\nDuration between tests:\n\nWhen assessing test-retest reliability, the length of time between time 1 and 2 creates an issue since there is a fine balance the researchers must find with time since there is trade-off between 2 competing requirements2.\nIf the duration is too short, the participants will answer the questionnaire by memory in order to appear consistent2.\nIf the duration is too long, the person’s mood, anxiety, symptoms, or whatever we are measuring could change2.\nThe usual testretest interval is about 2 weeks, but this can be altered based on a number of factors2.\nThe Longer the scale the less time is required between measurements (the person is less likely to remember all of their answers)2.\nDuration is also determined by how quickly the attribute being tested can change2.\n\n\n\n\n\n\n\nWhat if my scale has low Test-Retest Reliability?\n\n\n\n\nA self administered scale with poor test-retest reliability cannot be changed without altering psychometric validity2\nA clinician-administered scale can be slightly changed by insuring that the instructions are clear and understood by the participant2"
   },
   {
     "objectID": "The Archive/Evidene Based Practice/Reliability/reliability.html#internal-consistency",
     "href": "The Archive/Evidene Based Practice/Reliability/reliability.html#internal-consistency",
     "title": "Reliability",
-    "section": "3.4 Internal Consistency",
-    "text": "3.4 Internal Consistency\nInternal consistency refers to the degree to which all of the items on a scale are correlated with one another2.\n\nInternal consistency does not measure the patients or cliniciancs using the scale2.\nInternal consistency measures how consistem the items of a scale are2.\n\n\n3.4.1 Significance\n\nSimilarly, if the items of a scale are not related to each other, we would not be sure just what it is that the scale is measuring (assuming that the scale is measuring a homogeneous construct)2.\n\nWhen to use internal consistency:\nThis is important for scales that measure 1 phenomenon:\n\n\n\n\n\n\nExample\n\n\n\nsuch as quality of life or depression\n\n\nInternal consistency is not appropriate for indices that measure things that are not expected to be correlated with each other2\n\n\n\n\n\n\nExample\n\n\n\nThe Apgar scale consists of 5 items (heart rate, respiration, muscle tone, reflex response, and skin color)2. These may all occur together in healthy neonates, but in sick children a low score on one item does not necessarily mean there will be low scores on another item2.\n\n\nMeasures of Internal consistency:\n\nCronbach’s Alpha (α)\n\nInterpretation of internal consistency\n\nYou want internal consistency results (i.e. Cronbach’s Alpha (α)) to be high, we do not want it to be too high.\nAn (α) greater than about 0.90 may indicate unnecessary redundancy among the items and means that some of them can be eliminated without jeopardizing the reliability of the scale.\n\n\n\n\n\n\n\nWhat if my scale has low internal consistency?\n\n\n\nIf the scale you are using has already been developed and validated, you cannot change much with respect to internal consistency\n\nChanging the items makes it impossible to compare to studies on its psychometric validity"
+    "section": "3.5 Internal Consistency",
+    "text": "3.5 Internal Consistency\nInternal consistency refers to the degree to which all of the items on a scale are correlated with one another2.\n\nInternal consistency does not measure the patients or cliniciancs using the scale2.\nInternal consistency measures how consistem the items of a scale are2.\n\n\n3.5.1 Significance\n\nSimilarly, if the items of a scale are not related to each other, we would not be sure just what it is that the scale is measuring (assuming that the scale is measuring a homogeneous construct)2.\n\nWhen to use internal consistency:\nThis is important for scales that measure 1 phenomenon:\n\n\n\n\n\n\nExample\n\n\n\nsuch as quality of life or depression\n\n\nInternal consistency is not appropriate for indices that measure things that are not expected to be correlated with each other2\n\n\n\n\n\n\nExample\n\n\n\nThe Apgar scale consists of 5 items (heart rate, respiration, muscle tone, reflex response, and skin color)2. These may all occur together in healthy neonates, but in sick children a low score on one item does not necessarily mean there will be low scores on another item2.\n\n\nMeasures of Internal consistency:\n\nCronbach’s Alpha (α)\n\nInterpretation of internal consistency\n\nYou want internal consistency results (i.e. Cronbach’s Alpha (α)) to be high, we do not want it to be too high.\nAn (α) greater than about 0.90 may indicate unnecessary redundancy among the items and means that some of them can be eliminated without jeopardizing the reliability of the scale.\n\n\n\n\n\n\n\nWhat if my scale has low internal consistency?\n\n\n\nIf the scale you are using has already been developed and validated, you cannot change much with respect to internal consistency\n\nChanging the items makes it impossible to compare to studies on its psychometric validity"
   },
   {
     "objectID": "The Archive/Evidene Based Practice/Reliability/reliability.html#how-high-should-reliability-be",
@@ -6633,7 +6633,7 @@
     "href": "The Archive/Evidene Based Practice/Reliability/percent_agreement.html",
     "title": "Percent Agreement",
     "section": "",
-    "text": "What percentage of the time 2 different readings of the same thing give you the same result\n\n1 Scoring\nValues range from 0.00 (not reliable) to 1.00 (perfectly reliable)\n\n“Rule of thumb” Quick interpretation of reliability\n\n\nScore\nReliability\n\n\n\n\n0.00 – 0.20\nPoor\n\n\n0.21 – 0.40\nFair\n\n\n0.41 – 0.60\nModerate\n\n\n0.61 – 0.80\nGood\n\n\n0.81 – 1.00\nExcellent"
+    "text": "What percentage of the time 2 different readings of the same thing give you the same result\n\n1 Calculation\n\\[\nReliability = \\frac{\\sigma_s^2}{\\sigma_s^2 + \\sigma_e^2} = \\frac{\\sigma_s^2}{\\sigma_Total^2}\n\\]\n$$\n$$\n\n\\(\\sigma_s^2\\) refers to subject variability1,2\n\\(\\sigma_e^2\\) refers to measurement error1,2\n\n\n\n2 Scoring\nValues range from 0.00 (not reliable) to 1.00 (perfectly reliable)\n\n“Rule of thumb” Quick interpretation of reliability\n\n\nScore\nReliability\n\n\n\n\n0.00 – 0.20\nPoor\n\n\n0.21 – 0.40\nFair\n\n\n0.41 – 0.60\nModerate\n\n\n0.61 – 0.80\nGood\n\n\n0.81 – 1.00\nExcellent\n\n\n\n\n\n\n\n\nReferences\n\n1. Streiner DL. Statistics Commentary Series: Commentary #15-Reliability. Journal of Clinical Psychopharmacology. 2016;36(4):305-307. doi:10.1097/JCP.0000000000000517\n\n\n2. Gisev N, Bell JS, Chen TF. Interrater agreement and interrater reliability: Key concepts, approaches, and applications. Research in social & administrative pharmacy: RSAP. 2013;9(3):330-338. doi:10.1016/j.sapharm.2012.04.004"
   },
   {
     "objectID": "The Archive/Evidene Based Practice/Reliability/cronbachs_alpha.html",
@@ -6647,14 +6647,14 @@
     "href": "The Archive/Evidene Based Practice/Reliability/kappa_coefficient.html",
     "title": "Kappa Coefficient (κ)",
     "section": "",
-    "text": "Kappa (Ƙ) ‐\nSimilar to percent agreement but corrected for chance\n\n1 Scoring\nValues range from 0.00 (not reliable) to 1.00 (perfectly reliable)\n\n“Rule of thumb” Quick interpretation of reliability\n\n\nScore\nReliability\n\n\n\n\n0.00 – 0.20\nPoor\n\n\n0.21 – 0.40\nFair\n\n\n0.41 – 0.60\nModerate\n\n\n0.61 – 0.80\nGood\n\n\n0.81 – 1.00\nExcellent"
+    "text": "AKA\n\n\n\n\nCohen’s Kappa\nKappa Coefficient\n\n\n\nKappa Coefficient (κ) is the measure of inter-rater agreement for categorical items among two raters.\nKappa (κ) is similar to percent agreement but corrected for chance\n\n1 Scoring\nValues range from 0.00 (not reliable) to 1.00 (perfectly reliable)\n\n“Rule of thumb” Quick interpretation of reliability\n\n\nScore\nReliability\n\n\n\n\n0.00 – 0.20\nPoor\n\n\n0.21 – 0.40\nFair\n\n\n0.41 – 0.60\nModerate\n\n\n0.61 – 0.80\nGood\n\n\n0.81 – 1.00\nExcellent"
   },
   {
     "objectID": "The Archive/Evidene Based Practice/Validity/validity.html",
     "href": "The Archive/Evidene Based Practice/Validity/validity.html",
     "title": "Validity",
     "section": "",
-    "text": "1 Types of Validity\n\nConstruct validity\nKnown Groups\nConvergent\nDiscriminant (Divergent)\nContent Validity\nFace Validity\nCriterion Validity\nConcurrent Validity\nPredictive validity\n\n\n\n2 Construct Validity\n\nCorrelation coefficient (r)\n\nConvergent and divergent validity are used to provide evidence that a test or measure accurately reflects construct (or outcome) rather than some other construct For example: if you want to know if a new measure of pain intensity accurately measures pain (construct) instead of anxiety (different construct) then your PICOS question should ask about construct validity of the new measure If scores on the new measure are significantly associated with pain intensity scores on the NPRS = provides evidence of convergent validity ( both tests give similar results for similar construct = pain intensity) Conversely if scores on the new measure are not significantly correlated with scores on the anxiety questionnaire, then there is evidence of divergent validity (good divergent validity means no correlation with a different construct) How to demonstrate construct validity: Measure the correlation (str of association) between the new measure with existing measures of either the same construct (testing convergent validity) or different construct (testing divergent validity)\n\n\n3 Predictive Validity\nPredictive validity: Predictive validity is the degree to which test scores accurately predict scores on a criterion measure"
+    "text": "1 Types of Validity\n\nConstruct validity\nKnown Groups\nConvergent\nDiscriminant (Divergent)\nContent Validity\nFace Validity\nCriterion Validity\nConcurrent Validity\nPredictive validity\n\n\n\n2 Construct Validity\n\nCorrelation coefficient (r)\n\nCategories of construct validity: Convergent and divergent validity are used to provide evidence that a test or measure accurately reflects construct (or outcome) rather than some other construct\nFor example: if you want to know if a new measure of pain intensity accurately measures pain (construct) instead of anxiety (different construct) then your PICOS question should ask about construct validity of the new measure If scores on the new measure are significantly associated with pain intensity scores on the NPRS = provides evidence of convergent validity ( both tests give similar results for similar construct = pain intensity) Conversely if scores on the new measure are not significantly correlated with scores on the anxiety questionnaire, then there is evidence of divergent validity (good divergent validity means no correlation with a different construct) How to demonstrate construct validity: Measure the correlation (str of association) between the new measure with existing measures of either the same construct (testing convergent validity) or different construct (testing divergent validity)\n\n\n3 Predictive Validity\nPredictive validity: Predictive validity is the degree to which test scores accurately predict scores on a criterion measure"
   },
   {
     "objectID": "The Archive/Evidene Based Practice/Multivariate Data Analysis/Correlation/correlation_coefficient.html",
@@ -7061,5 +7061,299 @@
     "title": "Adjusted age in pediatrics",
     "section": "",
     "text": "The adjusted age is used to determine the age a premature child would be if they had been born “on time” (40 weeks of gestation). This is an important calculation since it will help the clinician understand how developed the child should be at this point in time. A premature baby may be 1 year old, but if they were born 8 weeks premature, then their level of development should be at 10 months.\n\n1 Calculation\nAdjusted age = Chronological age - (Prematurity)\nAdjusted age = Chronological age - (40 weeks - Time in gestation)\n\n\n\n\n\n\nExample Calculation\n\n\n\nBaby who was born at 30 weeks of gestation on june 6 and the current date is December 10th\nChronological age: 7 months 0 weeks 4 days\nPrematurity = (40 - 30 weeks of gestation) = 10 weeks premature\nAdjusted age = Chronological age - 10weeks\nAdjusted age = 4mo 2 weeks 4 days"
+  },
+  {
+    "objectID": "The Archive/Pediatrics/Development/1st_year_development.html",
+    "href": "The Archive/Pediatrics/Development/1st_year_development.html",
+    "title": "1st Year Infant Development",
+    "section": "",
+    "text": "1 Neonate\n\nMotor ability:\n\nGross motor- Flexion dominates posture, random movements with little control, reflexive movement\nFine motor- hands generally fisted (indwelling or indwelling thumb → does not make a difference)\nTheir muscle tone is springy\n\nFeeding: every 2-4 hours, breast or bottle feeding only\nCognitive ability:\n\nCognition- attends to sound, begins to track (used to being around background noise, quiet is odd)\n\nWB surface:on face\nInterests\n\nDon’t care about toys (visual acuity is not high)\nThey just want to be held and talked to\n\n\nTests:\n\nThey will recoil back to flexion position if stretched out → if they don’t , can be a problem NO vertebral discs , some ossification, lots of cartilage in babies\n\n\n\n2 1 Month\n\nMotor\n\nGross motor: increased extension and mobility, cont. Random mvmts, attempts head control\nFine motor: open and closes hands, reflexive grasp\nFidgety movement still\nStart to move out of physiological flexion\n\nFeeding: begins to anticipate feeding\nCognition:\n\nTracking smoother\nEye more accurate than hand\nMore visual tracking, checking things out\nCan start to swipe at things\n\nWB:\n\nWeight bearing more at trunk (moves cephalocaudal)\n\n\n\n\n3 2 Months\n\nMotor\n\nGross motor: brief head control, more variable extremity mvmt\nFine motor: beginning to swipe at toys, hands more open\n\nFeeding: cont. breast/bottle feeding\nPhonation - begins cooing\nCognition - may track 180 degrees, more attempts to explore world\n\nAssessment\n\nHard to tell if there are true delays, bc there are lots of asymmetries as babies start to move across gravity\nThis age- start to see some asymmetries:\n\nCan swat at one thing not other side\nhead turned more to one side\nmay or may not be indicate of an issue, just watch it\n\n\n\n\n4 3 Months\n\nMotor\n\nGross motor- symmetry and midline orientation, head steadier\nMovement happens from midline out (prox to distal)\nStarting to also see hands coming together at midline\nLots of hands to the mouth\nFine motor: swipes at object, gross grasp\nOral motor: strong hand to mouth\n\nFunctions\n\nPhonation: more variety of sound\n\nCognition\n\nConsistently tracking 180 degrees\nExploring world w hands\n\nWB:\n\nHead comes off of surface\nHead ext 45-90 degrees in prone, more post chain activation\n\n\nAssessment\n\nIf there’s a chance of visual problems (ie result of prematurity → retinopathy) need to pay attention to that – if not developing as it should, will affect their development\nPseudoneglect: If always turning head to one side, could develop pseudo neglect\n\nIntroduce their other side to these types of children"
+  },
+  {
+    "objectID": "The Archive/Pediatrics/Development/pediatric_adjusted_age.html",
+    "href": "The Archive/Pediatrics/Development/pediatric_adjusted_age.html",
+    "title": "Adjusted age in pediatrics",
+    "section": "",
+    "text": "The adjusted age is used to determine the age a premature child would be if they had been born “on time” (40 weeks of gestation). This is an important calculation since it will help the clinician understand how developed the child should be at this point in time. A premature baby may be 1 year old, but if they were born 8 weeks premature, then their level of development should be at 10 months.\n\n1 Calculation\nAdjusted age = Chronological age - (Prematurity)\nAdjusted age = Chronological age - (Full term - Actual term)\nAdjusted age = Chronological age - (40 weeks - Actual term)\n\n\n\n\n\n\nExample Calculation\n\n\n\nBaby who was born at 30 weeks of gestation on june 6 and the current date is December 10th\nChronological age: 7 months 0 weeks 4 days\nPrematurity = (40 - 30 weeks of gestation) = 10 weeks premature\nAdjusted age = Chronological age - 10weeks\nAdjusted age = 4mo 2 weeks 4 days"
+  },
+  {
+    "objectID": "The Archive/Pediatrics/Development/normal_child_development.html#month-1",
+    "href": "The Archive/Pediatrics/Development/normal_child_development.html#month-1",
+    "title": "Normal Child Development",
+    "section": "5.2 Month 1",
+    "text": "5.2 Month 1\n\nMotor\n\nGross motor: increased extension and mobility, cont. Random mvmts, attempts head control\nFine motor: open and closes hands, reflexive grasp\nFidgety movement still\nStart to move out of physiological flexion\n\nFeeding: begins to anticipate feeding\nCognition:\n\nTracking smoother\nEye more accurate than hand\nMore visual tracking, checking things out\nCan start to swipe at things\n\nWB:\n\nWeight bearing more at trunk (moves cephalocaudal)"
+  },
+  {
+    "objectID": "The Archive/Pediatrics/Development/normal_child_development.html#month-2",
+    "href": "The Archive/Pediatrics/Development/normal_child_development.html#month-2",
+    "title": "Normal Child Development",
+    "section": "5.3 Month 2",
+    "text": "5.3 Month 2\n\nMotor\n\nGross motor: brief head control, more variable extremity mvmt\nFine motor: beginning to swipe at toys, hands more open\n\nFeeding: cont. breast/bottle feeding\nPhonation - begins cooing\nCognition - may track 180 degrees, more attempts to explore world\n\nAssessment\n\nHard to tell if there are true delays, bc there are lots of asymmetries as babies start to move across gravity\nThis age- start to see some asymmetries:\n\nCan swat at one thing not other side\nhead turned more to one side\nmay or may not be indicate of an issue, just watch it"
+  },
+  {
+    "objectID": "The Archive/Pediatrics/Development/normal_child_development.html#month-3",
+    "href": "The Archive/Pediatrics/Development/normal_child_development.html#month-3",
+    "title": "Normal Child Development",
+    "section": "5.4 Month 3",
+    "text": "5.4 Month 3\n\nMotor\n\nGross motor- symmetry and midline orientation, head steadier\nMovement happens from midline out (prox to distal)\nStarting to also see hands coming together at midline\nLots of hands to the mouth\nFine motor: swipes at object, gross grasp\nOral motor: strong hand to mouth\n\nFunctions\n\nPhonation: more variety of sound\n\nCognition\n\nConsistently tracking 180 degrees\nExploring world w hands\n\nWB:\n\nHead comes off of surface\nHead ext 45-90 degrees in prone, more post chain activation\n\n\nAssessment\n\nIf there’s a chance of visual problems (ie result of prematurity → retinopathy) need to pay attention to that – if not developing as it should, will affect their development\nPseudoneglect: If always turning head to one side, could develop pseudo neglect\n\nIntroduce their other side to these types of children"
+  },
+  {
+    "objectID": "The Archive/Pediatrics/Development/normal_child_development.html#month-4",
+    "href": "The Archive/Pediatrics/Development/normal_child_development.html#month-4",
+    "title": "Normal Child Development",
+    "section": "5.5 Month 4",
+    "text": "5.5 Month 4\nMotor\n\nGross motor\n\nControlled, purposeful mvmts\nMay not WB in standing\n\nFine motor: accurate reaching B/L\n\nFunctions\n\nFeeding - may begin solids from spoon\n\nSome babies eat solid foods → variable on parents\nIs your baby able to sit up, maintain head control, are they able to be in a safe position, can they get enough chin tuck to safely swallow foods\nCan help Rolling up kitchen towels to provide positioning assistance w feeding\n\nPhonation - may start babbling (when strong enough torso/core strength )\n\nCognition\n\nObject permanence develops\nImproved visual control"
+  },
+  {
+    "objectID": "The Archive/Pediatrics/Development/normal_child_development.html#month-5",
+    "href": "The Archive/Pediatrics/Development/normal_child_development.html#month-5",
+    "title": "Normal Child Development",
+    "section": "5.6 Month 5",
+    "text": "5.6 Month 5\nMotor:\n\nGross motor: beginning to roll and prop sit briefly, head control should be presents in all positions\n\nNice palmar grasp - can reach for things\nGood upright sitting position\n\nFine motor- refined reach with improved eye hand coordination , uses palmer grasp\n\nFunctions:\n\nFeeding - may start to munch solids, bite soft foods\n\nMay or may not see feeding\n\nPhonation - babbling, vowel consonants sounds\n\nCognition\n\nSmiles at mirror image"
+  },
+  {
+    "objectID": "The Archive/Pediatrics/Development/normal_child_development.html#month-6",
+    "href": "The Archive/Pediatrics/Development/normal_child_development.html#month-6",
+    "title": "Normal Child Development",
+    "section": "5.7 Month 6",
+    "text": "5.7 Month 6\nGross motor - more functional and active , sits, rolls, bouncing on feet Fine motor - transferring objects, radial or palmar grasp Feeding - begin large finger foods and cup cont. breast/bottle Phonation - babbles longer, more variety Cognition - beginning cause and effect Can be bouncing and dancing a lil Transferring objects Some babies are on hands and knees (in quadruped) rocking or pushing backward\nMonth 7\nMotor\n\nGross motor - wider variety between babies , beginning mobility skills - push to sit , quad crawling, pull to stand, cruising\nFine motor - UE free in sitting, radial palmar grasp (grasping more on thumb side) , rakes small objects\n\nFunctions\n\nFeeding: more variable jaw and tongue mvmts\nPhonation - cont’d babbling, more vowel - consonant sounds\n\nCognition\n\nCognition - responds to name :::{.callout-tip} These babies respond to the name their family calls them, not necessarily their birth name. You should ask the family what they call the baby day to day. :::\n\nWalking on hands and knees , bear walking, some may stand Some cruising on furniture For good development- thing figure out lots of ways to move (variability) Children w atypical development–&gt; paucity of mvmt, lack of variability, 1 way to crawl/walk, if not available they do not know what to do"
+  },
+  {
+    "objectID": "The Archive/Pediatrics/Development/normal_child_development.html#month-8",
+    "href": "The Archive/Pediatrics/Development/normal_child_development.html#month-8",
+    "title": "Normal Child Development",
+    "section": "5.8 Month 8",
+    "text": "5.8 Month 8\nGross motor - very busy and active babies, improved pull to stand and cruising Fine motor - uses a radial digital grasp (like an OK sign almost, a pinch) and a scissor grasp and a scissor grasp w. Small objects Feeding - holds bottle, finger feeds Phonation - repeats consonant vowel string in syllables Cognition -familiar /unfamiliar items They’re ON THE MOVE!\nTransportation:\n\nCrawling = on bellies like army crawling\nCreeping = hands and knees crawling"
+  },
+  {
+    "objectID": "The Archive/Pediatrics/Development/normal_child_development.html#month-9",
+    "href": "The Archive/Pediatrics/Development/normal_child_development.html#month-9",
+    "title": "Normal Child Development",
+    "section": "5.9 Month 9",
+    "text": "5.9 Month 9\n\nGross motor - skill level differences between babies continues to inc, creeping mode of transport, cruising (stand/walking along furniture) laterally\nFine motor - inf pincer grasp emerging"
+  },
+  {
+    "objectID": "The Archive/Pediatrics/Development/normal_child_development.html#month-10",
+    "href": "The Archive/Pediatrics/Development/normal_child_development.html#month-10",
+    "title": "Normal Child Development",
+    "section": "5.10 Month 10",
+    "text": "5.10 Month 10\nMotor\n\nGross motor- cruising progression (can go across gaps of furniture, single leg balance, weight shift to one leg prepares for walking = PRE gait activities!)\nFine motor- pincer grasp, “three-jaw chuck”, reaching across midline\n\nFunctions\n\nFeeding- finger feeding, use of cup\nPhonation- playing more with sounds, pitches, inflections\n\nMay have vocalizations that mirror the language vocal pattern\n\n\nCognition\n\nGoal directed play\nContainer play\nFollow simple commands\n\nie: give me block → checks simple commands\nMay need to add a visual prompt w hand to help understand"
+  },
+  {
+    "objectID": "The Archive/Pediatrics/Development/normal_child_development.html#month-11",
+    "href": "The Archive/Pediatrics/Development/normal_child_development.html#month-11",
+    "title": "Normal Child Development",
+    "section": "5.11 Month 11",
+    "text": "5.11 Month 11\n\nGross motor: may begin independent standing and walking\nFine motor: uses both hands to clap, neat pincer grasp\nSome may start walking (not a predictor of anything)\n\nAssessment\n\nIf we are not seeing some of these things, go back and give child more support\nGive them some lateral trunk support, change angle of pelvis, give a more stable base so they can now do distal mobility (prox stability →leads to distal mobility)"
+  },
+  {
+    "objectID": "The Archive/Examination/Pediatric Evaluation/crawling_transportation.html",
+    "href": "The Archive/Examination/Pediatric Evaluation/crawling_transportation.html",
+    "title": "Crawling (Pediatrics)",
+    "section": "",
+    "text": "Crawling referes to when a baby moves on their belly, like army crawling.\n\n1 Development\nThis function develops around 8 months"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neurophysiology/Cognition/object_permanence.html",
+    "href": "The Archive/Neuroscience/Neurophysiology/Cognition/object_permanence.html",
+    "title": "Object Permanence",
+    "section": "",
+    "text": "Knowing that objects continue to exist when they cannot be directly observed or sensed is called “object permanence”1\n\n\n\n\n\n\nExample\n\n\n\nFor example, when a ball rolls under a couch and out of sight, infants who have object permanence understand that the ball exists. They may persist in attaining the ball by moving their body in various ways to look for and reach it even though it is hidden from view1\n\n\n\n1 Function\n“This fundamental cognitive skill is important for working memory and allows us to form and retain mental representations of objects”1\n“As a cognitive construct, object permanence is intimately connected to perceptual motor experiences including object exploration and self-mobility”1\n\n\n2 Measures\nA scale was developed to measure object permanence (Object Permanence Scale [OPS])1\n\n\n3 Dysfunction\n\nCompared with typical development, infants with motor delays were also delayed in development of object permanence1\nInfants demonstrated increased understanding over time and as sitting skills improved\n\n\n\n\n\n\nReferences\n\n1. An M, Marcinowski EC, Hsu LY, et al. Object Permanence and the Relationship to Sitting Development in Infants With Motor Delays. Pediatric Physical Therapy. 2022;34(3):309-316. doi:10.1097/PEP.0000000000000909"
+  },
+  {
+    "objectID": "The Archive/Examination/Pediatric Evaluation/creeping_transportation.html",
+    "href": "The Archive/Examination/Pediatric Evaluation/creeping_transportation.html",
+    "title": "Creeping (Pediatric ambulation)",
+    "section": "",
+    "text": "Creeping refers to hands and knees crawling\nDevelops around 8 months"
+  },
+  {
+    "objectID": "The Archive/Pediatrics/Development/normal_child_development.html#neonate-sub-1-month",
+    "href": "The Archive/Pediatrics/Development/normal_child_development.html#neonate-sub-1-month",
+    "title": "Normal Child Development",
+    "section": "5.1 Neonate (Sub-1 month)",
+    "text": "5.1 Neonate (Sub-1 month)\n\nMotor ability:\n\nGross motor- Flexion dominates posture, random movements with little control, reflexive movement\nFine motor- hands generally fisted (indwelling or indwelling thumb → does not make a difference)\nTheir muscle tone is springy\n\nFeeding: every 2-4 hours, breast or bottle feeding only\nCognitive ability:\n\nCognition- attends to sound, begins to track (used to being around background noise, quiet is odd)\n\nWB surface:on face\nInterests\n\nDon’t care about toys (visual acuity is not high)\nThey just want to be held and talked to\n\n\nTests:\n\nThey will recoil back to flexion position if stretched out → if they don’t , can be a problem NO vertebral discs , some ossification, lots of cartilage in babies"
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Reliability/reliability.html#IRA",
+    "href": "The Archive/Evidene Based Practice/Reliability/reliability.html#IRA",
+    "title": "Reliability",
+    "section": "3.2 Inter-rater Agreement (IRA)",
+    "text": "3.2 Inter-rater Agreement (IRA)\n\nAgreement is defined as the degree to which scores/ratings are identical\nIRA indices, therefore, relate to the extent to which different raters assign the same precise value for each5\n\n\n\n\n\n\n\nTests of inter-rater agreement\n\n\n\n\nStrictly IRA measures: Bland-Altman plots5\nothers have been used in the literature as measures of both IRA and IRR (eg, Cohen’s kappa)5"
+  },
+  {
+    "objectID": "The Archive/Examination/Pediatric Evaluation/standing_pediatric.html",
+    "href": "The Archive/Examination/Pediatric Evaluation/standing_pediatric.html",
+    "title": "Standing",
+    "section": "",
+    "text": "1 Month 4 vs 12\n12 month\n\nLordosis present\nalignment: babies can’t turn abs on and breathe when standing (can’t do both at the same time) so they use lordosis for stability (approx facets) and ant pelvic tilt is closed pack,\nGlutes not active, locking legs out, locked pelvis (ant pelvic tilt) = decreases muscle activity able to bring head up without loss of balance/manipulate distal objects while standing,\n\nIntrinsic foot muscle use,\nBalance"
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Reliability/fleiss_kappa.html",
+    "href": "The Archive/Evidene Based Practice/Reliability/fleiss_kappa.html",
+    "title": "Fleiss’ Kappa",
+    "section": "",
+    "text": "Fleiss’ K is based on the concept that the observed agreement is corrected for the agreement expected by chance. Krippendorff’s alpha in contrast is based on the observed disagreement corrected for disagreement expected by chance1.\nFrom the available kappa and kappa-like coefficients we chose Fleiss’ K [10] for this study because of its high flexibility. It can be used for two or more categories and two or more raters. However, similarly to other kappa and kappa-like coefficients, it cannot handle missing data except by excluding all observations with missing values1.\n\n1 Use\nFor nominal data with no missing values both Fleiss’ Kappa and Krippendorff’s alpha can be recommended\n\n\n2 Calculation\nFor the calculation of the expected agreement for Fleiss’ K,the sample size is taken as infinite, while for Krippendorff’s alpha the actual sample size is used1\n\n\n\n\n\nReferences\n\n1. Zapf A, Castell S, Morawietz L, Karch A. Measuring inter-rater reliability for nominal data - which coefficients and confidence intervals are appropriate? BMC medical research methodology. 2016;16:93. doi:10.1186/s12874-016-0200-9"
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Reliability/krippendorffs_alpha.html",
+    "href": "The Archive/Evidene Based Practice/Reliability/krippendorffs_alpha.html",
+    "title": "Krippendorff’s Alpha",
+    "section": "",
+    "text": "Kriffindorf’s alpha is a modified Kappa coefficient that is a measure of agreement, which is even more flexible than Fleiss’ Kappa1.\nKrippendorff’s alpha in contrast is based on the observed disagreement corrected for disagreement expected by chance1\n\n1 Use\nFor nominal data with no missing values both Fleiss’ Kappa and Krippendorff’s alpha can be recommended\nKriffindorf’s Alpha can be used for two or more raters and categories, and it is not only applicable for nominal data, but for any measurement scale, including metric data1\nKrippendorff’s alpha is also unique since it can handle missing values, given that each observation is assessed by at least two raters.\n\n\n\n\n\n\nNote\n\n\n\nObservations with only one assessment have to be excluded\n\n\n\n\n2 Distribution\nFirst, the algorithm weights for the number of ratings per individual to account for missing values.\nSecond, not the N observations, with each observation containing the associated assessments of all raters, are randomly sampled. Instead the random sample is drawn from the coincidence matrix, which is needed for the estimation of Krippendorff’s alpha\nThis means that the dependencies between the raters are not taken into account.\nThe third difference is that Krippendorff keeps the expected disagreement fixed, and only the observed disagreement is calculated anew in each bootstrap step\n\n\n3 Calculation\nFor the calculation of the expected agreement for Fleiss’ K,the sample size is taken as infinite, while for Krippendorff’s alpha the actual sample size is used1\n\n\n\n\n\nReferences\n\n1. Zapf A, Castell S, Morawietz L, Karch A. Measuring inter-rater reliability for nominal data - which coefficients and confidence intervals are appropriate? BMC medical research methodology. 2016;16:93. doi:10.1186/s12874-016-0200-9"
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Reliability/Bland-Altman_plot.html",
+    "href": "The Archive/Evidene Based Practice/Reliability/Bland-Altman_plot.html",
+    "title": "Bland-Altman Plots",
+    "section": "",
+    "text": "Bland-Altman plots are strictly only valid as IRA measures1\n\n\n\n\nReferences\n\n1. Gisev N, Bell JS, Chen TF. Interrater agreement and interrater reliability: Key concepts, approaches, and applications. Research in social & administrative pharmacy: RSAP. 2013;9(3):330-338. doi:10.1016/j.sapharm.2012.04.004"
+  },
+  {
+    "objectID": "The Archive/Examination/Pediatric Evaluation/cruising_pediatric.html",
+    "href": "The Archive/Examination/Pediatric Evaluation/cruising_pediatric.html",
+    "title": "Cruising (Pediatric function)",
+    "section": "",
+    "text": "Cruising refers to stand/walking along furniture\n\n1 Cruising progression\nMonth 9\n\nCruising\n\nMonth 10\n\n(can go across gaps of furniture, single leg balance, weight shift to one leg prepares for walking = PRE gait activities!)"
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Reliability/Reliability Tests/percent_agreement.html",
+    "href": "The Archive/Evidene Based Practice/Reliability/Reliability Tests/percent_agreement.html",
+    "title": "Percent Agreement",
+    "section": "",
+    "text": "What percentage of the time 2 different readings of the same thing give you the same result\n\n1 Calculation\nPercent agreement equation1 \\[\n\\textrm{Percent Agreement} = \\frac{\\sigma_s^2}{\\sigma_s^2 + \\sigma_e^2} = \\frac{\\textrm{Number of concordant responses} }{\\textrm{Total number of responses}}\\times 100\\%\n\\]\n\n\n2 Scoring\nValues range from 0.00 (not reliable) to 1.00 (perfectly reliable)\n\n“Rule of thumb” Quick interpretation of reliability\n\n\nScore\nReliability\n\n\n\n\n0.00 – 0.20\nPoor\n\n\n0.21 – 0.40\nFair\n\n\n0.41 – 0.60\nModerate\n\n\n0.61 – 0.80\nGood\n\n\n0.81 – 1.00\nExcellent\n\n\n\n\n\n\n\n\nReferences\n\n1. Gisev N, Bell JS, Chen TF. Interrater agreement and interrater reliability: Key concepts, approaches, and applications. Research in social & administrative pharmacy: RSAP. 2013;9(3):330-338. doi:10.1016/j.sapharm.2012.04.004"
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Reliability/inter-rater_agreement.html",
+    "href": "The Archive/Evidene Based Practice/Reliability/inter-rater_agreement.html",
+    "title": "Inter-Rater Agreement (IRA)",
+    "section": "",
+    "text": "Agreement is defined as the degree to which scores/ratings are identical\nIRA indices, therefore, relate to the extent to which different raters assign the same precise value for each1\n\n\n\n\n\n\n\nTests of inter-rater agreement\n\n\n\n\nStrictly IRA measures: Bland-Altman plots1\nothers have been used in the literature as measures of both IRA and IRR (eg, Cohen’s kappa)1"
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Reliability/inter-rater_agreement.html#IRA",
+    "href": "The Archive/Evidene Based Practice/Reliability/inter-rater_agreement.html#IRA",
+    "title": "Inter-Rater Agreement (IRA)",
+    "section": "",
+    "text": "Agreement is defined as the degree to which scores/ratings are identical\nIRA indices, therefore, relate to the extent to which different raters assign the same precise value for each1\n\n\n\n\n\n\n\nTests of inter-rater agreement\n\n\n\n\nStrictly IRA measures: Bland-Altman plots1\nothers have been used in the literature as measures of both IRA and IRR (eg, Cohen’s kappa)1"
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Reliability/internal_consistency.html",
+    "href": "The Archive/Evidene Based Practice/Reliability/internal_consistency.html",
+    "title": "Internal Consistency",
+    "section": "",
+    "text": "Internal consistency refers to the degree to which all of the items on a scale are correlated with one another1.\n\nInternal consistency does not measure the patients or cliniciancs using the scale1.\nInternal consistency measures how consistem the items of a scale are1.\n\n\n1 Significance\n\nSimilarly, if the items of a scale are not related to each other, we would not be sure just what it is that the scale is measuring (assuming that the scale is measuring a homogeneous construct)1.\n\n\n\n2 When to Assess Internal Consistency\nThis is important for scales that measure 1 phenomenon:\n\n\n\n\n\n\nExample\n\n\n\nsuch as quality of life or depression\n\n\nInternal consistency is not appropriate for indices that measure things that are not expected to be correlated with each other1\n\n\n\n\n\n\nExample\n\n\n\nThe Apgar scale consists of 5 items (heart rate, respiration, muscle tone, reflex response, and skin color)1. These may all occur together in healthy neonates, but in sick children a low score on one item does not necessarily mean there will be low scores on another item1.\n\n\n\n\n3 Measures\n\nCronbach’s Alpha (α)\n\n\n\n4 Interpretation\n\nYou want internal consistency results (i.e. Cronbach’s Alpha (α)) to be high, we do not want it to be too high.\nAn (α) greater than about 0.90 may indicate unnecessary redundancy among the items and means that some of them can be eliminated without jeopardizing the reliability of the scale.\n\n\n\n\n\n\n\nWhat if my scale has low internal consistency?\n\n\n\nIf the scale you are using has already been developed and validated, you cannot change much with respect to internal consistency\n\nChanging the items makes it impossible to compare to studies on its psychometric validity\n\n\n\n\n\n\n\n\nReferences\n\n1. Streiner DL. Statistics Commentary Series: Commentary #15-Reliability. Journal of Clinical Psychopharmacology. 2016;36(4):305-307. doi:10.1097/JCP.0000000000000517"
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Reliability/Reliability Tests/fleiss_kappa.html",
+    "href": "The Archive/Evidene Based Practice/Reliability/Reliability Tests/fleiss_kappa.html",
+    "title": "Fleiss’ Kappa",
+    "section": "",
+    "text": "Fleiss’ K is based on the concept that the observed agreement is corrected for the agreement expected by chance. Krippendorff’s alpha in contrast is based on the observed disagreement corrected for disagreement expected by chance1.\nFrom the available kappa and kappa-like coefficients we chose Fleiss’ K [10] for this study because of its high flexibility. It can be used for two or more categories and two or more raters. However, similarly to other kappa and kappa-like coefficients, it cannot handle missing data except by excluding all observations with missing values1.\n\n1 Use\nFor nominal data with no missing values both Fleiss’ Kappa and Krippendorff’s alpha can be recommended\n\n\n2 Calculation\nFor the calculation of the expected agreement for Fleiss’ K,the sample size is taken as infinite, while for Krippendorff’s alpha the actual sample size is used1\n\n\n\n\n\nReferences\n\n1. Zapf A, Castell S, Morawietz L, Karch A. Measuring inter-rater reliability for nominal data - which coefficients and confidence intervals are appropriate? BMC medical research methodology. 2016;16:93. doi:10.1186/s12874-016-0200-9"
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Reliability/Reliability Tests/Bland-Altman_plot.html",
+    "href": "The Archive/Evidene Based Practice/Reliability/Reliability Tests/Bland-Altman_plot.html",
+    "title": "Bland-Altman Plots",
+    "section": "",
+    "text": "Bland-Altman plots are strictly only valid as IRA measures1\n\n\n\n\nReferences\n\n1. Gisev N, Bell JS, Chen TF. Interrater agreement and interrater reliability: Key concepts, approaches, and applications. Research in social & administrative pharmacy: RSAP. 2013;9(3):330-338. doi:10.1016/j.sapharm.2012.04.004"
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Reliability/Reliability Tests/krippendorffs_alpha.html",
+    "href": "The Archive/Evidene Based Practice/Reliability/Reliability Tests/krippendorffs_alpha.html",
+    "title": "Krippendorff’s Alpha",
+    "section": "",
+    "text": "Kriffindorf’s alpha is a modified Kappa coefficient that is a measure of agreement, which is even more flexible than Fleiss’ Kappa1.\nKrippendorff’s alpha is used instead of Kappa Coefficient when there are multiple categories\nKrippendorff’s alpha in contrast is based on the observed disagreement corrected for disagreement expected by chance1\n\n1 Use\nFor nominal data with no missing values both Fleiss’ Kappa and Krippendorff’s alpha can be recommended\nKriffindorf’s Alpha can be used for two or more raters and categories, and it is not only applicable for nominal data, but for any measurement scale, including metric data1\nKrippendorff’s alpha is also unique since it can handle missing values, given that each observation is assessed by at least two raters.\n\n\n\n\n\n\nNote\n\n\n\nObservations with only one assessment have to be excluded\n\n\n\n\n2 Distribution\nFirst, the algorithm weights for the number of ratings per individual to account for missing values.\nSecond, not the N observations, with each observation containing the associated assessments of all raters, are randomly sampled. Instead the random sample is drawn from the coincidence matrix, which is needed for the estimation of Krippendorff’s alpha\nThis means that the dependencies between the raters are not taken into account.\nThe third difference is that Krippendorff keeps the expected disagreement fixed, and only the observed disagreement is calculated anew in each bootstrap step\n\n\n3 Calculation\nFor the calculation of the expected agreement for Fleiss’ K,the sample size is taken as infinite, while for Krippendorff’s alpha the actual sample size is used1\n\n\n\n\n\nReferences\n\n1. Zapf A, Castell S, Morawietz L, Karch A. Measuring inter-rater reliability for nominal data - which coefficients and confidence intervals are appropriate? BMC medical research methodology. 2016;16:93. doi:10.1186/s12874-016-0200-9"
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Reliability/Reliability Tests/cronbachs_alpha.html",
+    "href": "The Archive/Evidene Based Practice/Reliability/Reliability Tests/cronbachs_alpha.html",
+    "title": "Cronbach’s Alpha (α)",
+    "section": "",
+    "text": "AKA\n\n\n\n\nCoefficient Alpha (α)\n\n\n\n\nCronbach’s alpha (α) is a measure of the internal consistency of multiple items or questions within a single survey\nUsed for surveys/questionnaires\n\n\n1 Scoring\nValues range from 0.00 (not reliable) to 1.00 (perfectly reliable)\n\n“Rule of thumb” Quick interpretation of reliability\n\n\nScore\nReliability\n\n\n\n\n0.00 – 0.20\nPoor\n\n\n0.21 – 0.40\nFair\n\n\n0.41 – 0.60\nModerate\n\n\n0.61 – 0.80\nGood\n\n\n0.81 – 1.00\nExcellent\n\n\n\n\n\n2 Scoring\n\n\n3 Interpretation\n\nYou want internal consistency results (i.e. Cronbach’s Alpha (α)) to be high, we do not want it to be too high.\nAn (α) greater than about 0.90 may indicate unnecessary redundancy among the items and means that some of them can be eliminated without jeopardizing the reliability of the scale."
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Reliability/Reliability Tests/kappa_coefficient.html",
+    "href": "The Archive/Evidene Based Practice/Reliability/Reliability Tests/kappa_coefficient.html",
+    "title": "Kappa Coefficient (κ)",
+    "section": "",
+    "text": "AKA\n\n\n\n\nCohen’s Kappa\nKappa Coefficient\n\n\n\nKappa Coefficient (κ) is the measure of inter-rater agreement for categorical items among two raters.\nKappa (κ) is similar to percent agreement but corrected for chance\n(κ) can only be used for 2 categories, otherwise one should use Krippendorff’s alpha.\n\n1 Calculation\nKappa (κ) \\(= \\frac{\\textrm{Proportion observed agreement} - \\textrm{Proportion expected chance agreement}}{1 - \\textrm{Proportion expected chance agreeement}}\\)\n\n\n2 Scoring\nValues range from 0.00 (not reliable) to 1.00 (perfectly reliable)\n\n“Rule of thumb” Quick interpretation of reliability\n\n\nScore\nReliability\n\n\n\n\n0.00 – 0.20\nPoor\n\n\n0.21 – 0.40\nFair\n\n\n0.41 – 0.60\nModerate\n\n\n0.61 – 0.80\nGood\n\n\n0.81 – 1.00\nExcellent"
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Reliability/Reliability Tests/intra-class_correlation_coefficient.html",
+    "href": "The Archive/Evidene Based Practice/Reliability/Reliability Tests/intra-class_correlation_coefficient.html",
+    "title": "Intra-class Correlation Coefficient (ICC)",
+    "section": "",
+    "text": "Intra‐class correlation coefficient (ICC) is a modified pearson correlation coefficient that indexes both degree of correlation and agreement between two measurements1.\nThe ICC is the most comprehensive measure of reliability since it depends on level of agreement (like kappa) and on the correlation between 2 measures (like correlation coefficient)\nIt is sensitive for example to the extent to which subjects (individuals) keep their ranking order in repeated measurements. Moreover, itmay indicate the ability of an experimental method to detect and measure systematic differences between subjects. This ability islimited since those differences may be more or less masked by individual variations of"
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Reliability/Reliability Tests/intra-class_correlation_coefficient.html#one-way-random-effects-model",
+    "href": "The Archive/Evidene Based Practice/Reliability/Reliability Tests/intra-class_correlation_coefficient.html#one-way-random-effects-model",
+    "title": "Intra-class Correlation Coefficient (ICC)",
+    "section": "2.1 One-Way Random-Effects Model",
+    "text": "2.1 One-Way Random-Effects Model\n\nEither participants or evaluators are random\nThis is not very common\n\nIn this model, each subject is rated by a different set of raters who were randomly chosen from a larger population of possible raters. Practically, this model is rarely used in clinical reliability analysis because majority of the reliability studies typically involve the same set of raters to measure all subjects. An exception would be multicenter studies for which the physical distance between centers prohibits the same set of raters to rate all subjects. Under such circumstance, one set of raters may assess a subgroup of subjects in one center and another set of raters may assess a subgroup of subjects in another center, and hence, 1-way random-effects model should be used in this case."
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Reliability/Reliability Tests/intra-class_correlation_coefficient.html#two-way-random",
+    "href": "The Archive/Evidene Based Practice/Reliability/Reliability Tests/intra-class_correlation_coefficient.html#two-way-random",
+    "title": "Intra-class Correlation Coefficient (ICC)",
+    "section": "2.2 Two-Way Random",
+    "text": "2.2 Two-Way Random\n\nboth the patients and researchers are random"
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Reliability/Reliability Tests/intra-class_correlation_coefficient.html#two-way-mixed",
+    "href": "The Archive/Evidene Based Practice/Reliability/Reliability Tests/intra-class_correlation_coefficient.html#two-way-mixed",
+    "title": "Intra-class Correlation Coefficient (ICC)",
+    "section": "2.3 Two-Way Mixed",
+    "text": "2.3 Two-Way Mixed\n\nMost common\nRaters are fixed (not random)"
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Reliability/Reliability Tests/intra-class_correlation_coefficient.html#consistency",
+    "href": "The Archive/Evidene Based Practice/Reliability/Reliability Tests/intra-class_correlation_coefficient.html#consistency",
+    "title": "Intra-class Correlation Coefficient (ICC)",
+    "section": "3.1 Consistency",
+    "text": "3.1 Consistency\n\nEvaluating any potential or level of linear relationship between instructors"
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Reliability/Reliability Tests/intra-class_correlation_coefficient.html#absolute-agreement",
+    "href": "The Archive/Evidene Based Practice/Reliability/Reliability Tests/intra-class_correlation_coefficient.html#absolute-agreement",
+    "title": "Intra-class Correlation Coefficient (ICC)",
+    "section": "3.2 Absolute Agreement",
+    "text": "3.2 Absolute Agreement\n\nEvaluates how close the raters were in terms of their scores\nNot interested in linear relationship\nFocuses on whether raters have close or identical ratings"
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Reliability/intra-rater_reliability.html",
+    "href": "The Archive/Evidene Based Practice/Reliability/intra-rater_reliability.html",
+    "title": "Intra-Rater Reliability",
+    "section": "",
+    "text": "INTRA‐rater reliability refers to the consistency of a measure assessed by a single rater across multiple time points\nFor the same therapist doing the test multiple times"
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Reliability/test-retest_reliability.html",
+    "href": "The Archive/Evidene Based Practice/Reliability/test-retest_reliability.html",
+    "title": "Test-Retest Reliability",
+    "section": "",
+    "text": "Example\n\n\n\n\n\n\nTest-Retest reliability reflects the variation in measurements taken by an instrument on the same subject under the same conditions1. In other words, Test-Retest reliability quantifies the similarity of scores when a study participant completes a test at 2 separate instances2. If this test was reliable, we would expect the 2 scores to be similar, if not identical, on both occasions (assuming that the person has not changed in the interim)2.\nUse case:\n\nIt is generally indicative of reliability in situations when raters are not involved or rater effect is neglectable, such as self-report survey instrument1.\n\nDuration between tests:\n\nWhen assessing test-retest reliability, the length of time between time 1 and 2 creates an issue since there is a fine balance the researchers must find with time since there is trade-off between 2 competing requirements2.\nIf the duration is too short, the participants will answer the questionnaire by memory in order to appear consistent2.\nIf the duration is too long, the person’s mood, anxiety, symptoms, or whatever we are measuring could change2.\nThe usual testretest interval is about 2 weeks, but this can be altered based on a number of factors2.\nThe Longer the scale the less time is required between measurements (the person is less likely to remember all of their answers)2.\nDuration is also determined by how quickly the attribute being tested can change2.\n\n\n\n\n\n\n\nWhat if my scale has low Test-Retest Reliability?\n\n\n\n\nA self administered scale with poor test-retest reliability cannot be changed without altering psychometric validity2\nA clinician-administered scale can be slightly changed by insuring that the instructions are clear and understood by the participant2"
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Reliability/test-retest_reliability.html#test-retest-reliability",
+    "href": "The Archive/Evidene Based Practice/Reliability/test-retest_reliability.html#test-retest-reliability",
+    "title": "Test-Retest Reliability",
+    "section": "",
+    "text": "Example\n\n\n\n\n\n\nTest-Retest reliability reflects the variation in measurements taken by an instrument on the same subject under the same conditions1. In other words, Test-Retest reliability quantifies the similarity of scores when a study participant completes a test at 2 separate instances2. If this test was reliable, we would expect the 2 scores to be similar, if not identical, on both occasions (assuming that the person has not changed in the interim)2.\nUse case:\n\nIt is generally indicative of reliability in situations when raters are not involved or rater effect is neglectable, such as self-report survey instrument1.\n\nDuration between tests:\n\nWhen assessing test-retest reliability, the length of time between time 1 and 2 creates an issue since there is a fine balance the researchers must find with time since there is trade-off between 2 competing requirements2.\nIf the duration is too short, the participants will answer the questionnaire by memory in order to appear consistent2.\nIf the duration is too long, the person’s mood, anxiety, symptoms, or whatever we are measuring could change2.\nThe usual testretest interval is about 2 weeks, but this can be altered based on a number of factors2.\nThe Longer the scale the less time is required between measurements (the person is less likely to remember all of their answers)2.\nDuration is also determined by how quickly the attribute being tested can change2.\n\n\n\n\n\n\n\nWhat if my scale has low Test-Retest Reliability?\n\n\n\n\nA self administered scale with poor test-retest reliability cannot be changed without altering psychometric validity2\nA clinician-administered scale can be slightly changed by insuring that the instructions are clear and understood by the participant2"
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Reliability/inter-rater_reliability.html",
+    "href": "The Archive/Evidene Based Practice/Reliability/inter-rater_reliability.html",
+    "title": "Inter-Rater Reliability",
+    "section": "",
+    "text": "INTER‐rater reliability: Consistency of a measure assessed by multiple raters\nMultiple PTs doing the test\nPurpose: Determine the agreement between scores given independently by 2 practitioners1\n\nThe important point here is the necessity for the independence of the raters; 1 rater must be ignorant of the other’s score. Otherwise, we would have a measure of the degree to which 1 person can accurately copy from another, which tells us much about the raters, but little about the subject.\nTests for Inter-Rater Reliability\n\nTotal Agreement: Percentage of examinations in which the task scores assigned by the two raters were identical (total agreement)2\nCohen’s Kappa: The chance corrected measure of agreement on tasks\nKrippendorff’s Alpha\n\nHas the advantage of high flexibility regarding the measurement scale and the number of raters, and, unlike Fleiss’ K, can also handle missing values3.\n\nPearson’s coefficients: Of the correlation between the two raters’ scores for each subscale\nT-Tests: between the two raters’ mean scores for the each subscale\nIntraclass Correlation Coefficient\n\n\n\n\n\n\n\nExample of Poor Interrater reliability\n\n\n\n\nIf 1 rater gives a score of 7 and another a score of 12, we wouldn’t be sure which, if either, score is correct1.\n\n\n\n\n\n\n\n\n\nWhat to do with poor inter-rater reliability\n\n\n\nHow to improve inter-rater reliability: - The solution is usually more training of the raters1 - A common strategy is for raters to independently evaluate about 10 people who will not be part of the final sample, and to discuss why they disagreed on specific items; were the criteria unclear, ambiguous, poorly stated, or whatever? - This is repeated on a new group until satisfactory inter-rater reliability is achieved - If the study lasts more than a few months, it is usually a good idea to evaluate inter-rater reliability toward the middle to see if there has been any slippage in the level of agreement. - Problems exist with this method if thescale requires interviewing the subject1.\n\n\n\n\n\n\nReferences\n\n1. Streiner DL. Statistics Commentary Series: Commentary #15-Reliability. Journal of Clinical Psychopharmacology. 2016;36(4):305-307. doi:10.1097/JCP.0000000000000517\n\n\n2. Anderson KD, Acuff ME, Arp BG, et al. United States (US) multi-center study to assess the validity and reliability of the Spinal Cord Independence Measure (SCIM III). Spinal Cord. 2011;49(8):880-885. doi:10.1038/sc.2011.20\n\n\n3. Zapf A, Castell S, Morawietz L, Karch A. Measuring inter-rater reliability for nominal data - which coefficients and confidence intervals are appropriate? BMC medical research methodology. 2016;16:93. doi:10.1186/s12874-016-0200-9"
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Variability/Variability Tests/McNemars_test.html",
+    "href": "The Archive/Evidene Based Practice/Variability/Variability Tests/McNemars_test.html",
+    "title": "McNemar’s Test",
+    "section": "",
+    "text": "Resources\n\nStatpearls1\n\n\nMonroe:\n\nsimilar to chi square\nmeasures how many changed, vs didnt change\n\n\n\n\n\nReferences\n\n1. Sundjaja JH, Shrestha R, Krishan K. McNemar And Mann-Whitney U Tests. In: StatPearls. StatPearls Publishing; 2023. Accessed October 3, 2023. http://www.ncbi.nlm.nih.gov/books/NBK560699/"
   }
 ]

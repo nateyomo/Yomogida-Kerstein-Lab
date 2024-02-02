@@ -23,8 +23,9 @@ subtitle: Accuracy of a measure
 
 - [Correlation coefficient (r)]({{< var ref-correlation-coefficient.path >}})
 
+Categories of construct validity: Convergent and divergent validity are used to provide evidence that a test or measure accurately reflects construct (or outcome) rather than some other construct
 
-Convergent and divergent validity are used to provide evidence that a test or measure accurately reflects construct (or outcome) rather than some other construct
+
 For example: 
 if you want to know if a new measure of pain intensity accurately measures pain (construct) instead of anxiety (different construct) then your PICOS question should ask about construct validity of the new measure
 If scores on the new measure are significantly associated with pain intensity scores on the NPRS = provides evidence of convergent validity ( both tests give similar results for similar construct = pain intensity)

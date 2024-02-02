@@ -11,7 +11,9 @@ A premature baby may be 1 year old, but if they were born 8 weeks premature, the
 
 Adjusted age = Chronological age - (Prematurity)
 
-Adjusted age = Chronological age - (40 weeks - Time in gestation)
+Adjusted age = Chronological age - (Full term - Actual term)
+
+Adjusted age = Chronological age - (40 weeks - Actual term)
 
 :::{.callout title="Example Calculation"}
 Baby who was born at 30 weeks of gestation on june 6 and the current date is December 10th

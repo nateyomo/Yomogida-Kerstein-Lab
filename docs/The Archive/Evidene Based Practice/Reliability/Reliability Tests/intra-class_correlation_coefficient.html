@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>YK Lab - Pearson Product-Moment Correlation (r)</title>
+<title>YK Lab - Intra-class Correlation Coefficient (ICC)</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -60,9 +60,6 @@ div.csl-indent {
 <link href="../../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="../../../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<script src="../../../../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
-<link href="../../../../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
-<link href="../../../../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -144,11 +141,24 @@ div.csl-indent {
     <h2 id="toc-title">Contents</h2>
    
   <ul>
-  <li><a href="#purpose" id="toc-purpose" class="nav-link active" data-scroll-target="#purpose"><span class="header-section-number">1</span> Purpose</a></li>
-  <li><a href="#range" id="toc-range" class="nav-link" data-scroll-target="#range"><span class="header-section-number">2</span> Range</a></li>
-  <li><a href="#interpretation" id="toc-interpretation" class="nav-link" data-scroll-target="#interpretation"><span class="header-section-number">3</span> Interpretation</a></li>
-  <li><a href="#compared-to-other-analyses" id="toc-compared-to-other-analyses" class="nav-link" data-scroll-target="#compared-to-other-analyses"><span class="header-section-number">4</span> Compared to other analyses</a></li>
-  <li><a href="#resources" id="toc-resources" class="nav-link" data-scroll-target="#resources"><span class="header-section-number">5</span> Resources</a></li>
+  <li><a href="#how-to-use-this-test" id="toc-how-to-use-this-test" class="nav-link active" data-scroll-target="#how-to-use-this-test"><span class="header-section-number">1</span> How to use this test</a></li>
+  <li><a href="#models" id="toc-models" class="nav-link" data-scroll-target="#models"><span class="header-section-number">2</span> Models</a>
+  <ul class="collapse">
+  <li><a href="#one-way-random-effects-model" id="toc-one-way-random-effects-model" class="nav-link" data-scroll-target="#one-way-random-effects-model"><span class="header-section-number">2.1</span> One-Way Random-Effects Model</a></li>
+  <li><a href="#two-way-random" id="toc-two-way-random" class="nav-link" data-scroll-target="#two-way-random"><span class="header-section-number">2.2</span> Two-Way Random</a></li>
+  <li><a href="#two-way-mixed" id="toc-two-way-mixed" class="nav-link" data-scroll-target="#two-way-mixed"><span class="header-section-number">2.3</span> Two-Way Mixed</a></li>
+  </ul></li>
+  <li><a href="#type" id="toc-type" class="nav-link" data-scroll-target="#type"><span class="header-section-number">3</span> Type</a>
+  <ul class="collapse">
+  <li><a href="#consistency" id="toc-consistency" class="nav-link" data-scroll-target="#consistency"><span class="header-section-number">3.1</span> Consistency</a></li>
+  <li><a href="#absolute-agreement" id="toc-absolute-agreement" class="nav-link" data-scroll-target="#absolute-agreement"><span class="header-section-number">3.2</span> Absolute Agreement</a></li>
+  </ul></li>
+  <li><a href="#icc-forms" id="toc-icc-forms" class="nav-link" data-scroll-target="#icc-forms"><span class="header-section-number">4</span> ICC Forms</a></li>
+  <li><a href="#choosing-the-right-icc-form" id="toc-choosing-the-right-icc-form" class="nav-link" data-scroll-target="#choosing-the-right-icc-form"><span class="header-section-number">5</span> Choosing the Right ICC Form</a></li>
+  <li><a href="#calculation" id="toc-calculation" class="nav-link" data-scroll-target="#calculation"><span class="header-section-number">6</span> Calculation</a></li>
+  <li><a href="#output" id="toc-output" class="nav-link" data-scroll-target="#output"><span class="header-section-number">7</span> Output</a></li>
+  <li><a href="#scoring" id="toc-scoring" class="nav-link" data-scroll-target="#scoring"><span class="header-section-number">8</span> Scoring</a></li>
+  <li><a href="#interpretation" id="toc-interpretation" class="nav-link" data-scroll-target="#interpretation"><span class="header-section-number">9</span> Interpretation</a></li>
   </ul>
 </nav>
     </div>
@@ -157,7 +167,7 @@ div.csl-indent {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Pearson Product-Moment Correlation (r)</h1>
+<h1 class="title">Intra-class Correlation Coefficient (ICC)</h1>
 </div>
 
 
@@ -179,108 +189,230 @@ div.csl-indent {
 
 </header>
 
-<section id="purpose" class="level1" data-number="1">
-<h1 data-number="1"><span class="header-section-number">1</span> Purpose</h1>
-<p>Determine linear relationship between two continuous random variables<span class="citation" data-cites="schoberCorrelationCoefficientsAppropriate2018"><sup><a href="#ref-schoberCorrelationCoefficientsAppropriate2018" role="doc-biblioref">1</a></sup></span></p>
-<p>Measure: Strength of the linear relationship (Covariance)<span class="citation" data-cites="schoberCorrelationCoefficientsAppropriate2018"><sup><a href="#ref-schoberCorrelationCoefficientsAppropriate2018" role="doc-biblioref">1</a></sup></span></p>
+<p>Intra‐class correlation coefficient (ICC) is a modified pearson correlation coefficient that indexes both degree of correlation and agreement between two measurements<span class="citation" data-cites="kooGuidelineSelectingReporting2016"><sup><a href="#ref-kooGuidelineSelectingReporting2016" role="doc-biblioref">1</a></sup></span>.</p>
+<p>The ICC is the most comprehensive measure of reliability since it depends on level of agreement (like kappa) and on the correlation between 2 measures (like correlation coefficient)</p>
+<p><q> It is sensitive for example to the extent to which subjects (individuals) keep their ranking order in repeated measurements. Moreover, itmay indicate the ability of an experimental method to detect and measure systematic differences between subjects. This ability islimited since those differences may be more or less masked by individual variations of </q></p>
+<section id="how-to-use-this-test" class="level1" data-number="1">
+<h1 data-number="1"><span class="header-section-number">1</span> How to use this test</h1>
+<p>Dr.&nbsp;Monroe stated that ICC is the most comprehensive form of reliability. If the ICC is high, then you do not need to examine the other statistical results. If the ICC is low, then</p>
+</section>
+<section id="models" class="level1" data-number="2">
+<h1 data-number="2"><span class="header-section-number">2</span> Models</h1>
+<section id="one-way-random-effects-model" class="level2" data-number="2.1">
+<h2 data-number="2.1" class="anchored" data-anchor-id="one-way-random-effects-model"><span class="header-section-number">2.1</span> One-Way Random-Effects Model</h2>
 <ul>
-<li>Results in Correlation Coefficient</li>
+<li>Either participants or evaluators are random</li>
+<li>This is not very common</li>
+</ul>
+<p>In this model, each subject is rated by a different set of raters who were randomly chosen from a larger population of possible raters. Practically, this model is rarely used in clinical reliability analysis because majority of the reliability studies typically involve the same set of raters to measure all subjects. An exception would be multicenter studies for which the physical distance between centers prohibits the same set of raters to rate all subjects. Under such circumstance, one set of raters may assess a subgroup of subjects in one center and another set of raters may assess a subgroup of subjects in another center, and hence, 1-way random-effects model should be used in this case.</p>
+</section>
+<section id="two-way-random" class="level2" data-number="2.2">
+<h2 data-number="2.2" class="anchored" data-anchor-id="two-way-random"><span class="header-section-number">2.2</span> Two-Way Random</h2>
+<ul>
+<li>both the patients and researchers are random</li>
 </ul>
 </section>
-<section id="range" class="level1" data-number="2">
-<h1 data-number="2"><span class="header-section-number">2</span> Range</h1>
-<p>-1 to +1<span class="citation" data-cites="schoberCorrelationCoefficientsAppropriate2018"><sup><a href="#ref-schoberCorrelationCoefficientsAppropriate2018" role="doc-biblioref">1</a></sup></span></p>
-<table class="table-striped table-hover table">
-<caption>Pearson product-moment correlation (<span class="math inline">\(\rho\)</span>) interpretation</caption>
-<colgroup>
-<col style="width: 58%">
-<col style="width: 41%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>Strength</th>
-<th>Value</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Negligible</td>
-<td>0.00–0.10<span class="citation" data-cites="schoberCorrelationCoefficientsAppropriate2018"><sup><a href="#ref-schoberCorrelationCoefficientsAppropriate2018" role="doc-biblioref">1</a></sup></span></td>
-</tr>
-<tr class="even">
-<td>Weak</td>
-<td>0.10–0.39<span class="citation" data-cites="schoberCorrelationCoefficientsAppropriate2018"><sup><a href="#ref-schoberCorrelationCoefficientsAppropriate2018" role="doc-biblioref">1</a></sup></span></td>
-</tr>
-<tr class="odd">
-<td>Moderate</td>
-<td>0.40–0.69<span class="citation" data-cites="schoberCorrelationCoefficientsAppropriate2018"><sup><a href="#ref-schoberCorrelationCoefficientsAppropriate2018" role="doc-biblioref">1</a></sup></span></td>
-</tr>
-<tr class="even">
-<td>Strong</td>
-<td>0.70–0.89<span class="citation" data-cites="schoberCorrelationCoefficientsAppropriate2018"><sup><a href="#ref-schoberCorrelationCoefficientsAppropriate2018" role="doc-biblioref">1</a></sup></span></td>
-</tr>
-<tr class="odd">
-<td>Very strong</td>
-<td>0.90–1.00<span class="citation" data-cites="schoberCorrelationCoefficientsAppropriate2018"><sup><a href="#ref-schoberCorrelationCoefficientsAppropriate2018" role="doc-biblioref">1</a></sup></span></td>
-</tr>
-<tr class="even">
-<td>Perfect Correlation</td>
-<td>-1 or +1<span class="citation" data-cites="schoberCorrelationCoefficientsAppropriate2018"><sup><a href="#ref-schoberCorrelationCoefficientsAppropriate2018" role="doc-biblioref">1</a></sup></span></td>
-</tr>
-</tbody>
-</table>
-</section>
-<section id="interpretation" class="level1" data-number="3">
-<h1 data-number="3"><span class="header-section-number">3</span> Interpretation</h1>
-<p>Perfect correlation</p>
+<section id="two-way-mixed" class="level2" data-number="2.3">
+<h2 data-number="2.3" class="anchored" data-anchor-id="two-way-mixed"><span class="header-section-number">2.3</span> Two-Way Mixed</h2>
 <ul>
-<li>-1 or +1</li>
-<li>All the data points lie exactly on the straight line</li>
+<li>Most common</li>
+<li>Raters are fixed (not random)</li>
 </ul>
+</section>
+</section>
+<section id="type" class="level1" data-number="3">
+<h1 data-number="3"><span class="header-section-number">3</span> Type</h1>
+<ul>
+<li>Consistency</li>
+<li>Absolute agreement</li>
+</ul>
+<section id="consistency" class="level2" data-number="3.1">
+<h2 data-number="3.1" class="anchored" data-anchor-id="consistency"><span class="header-section-number">3.1</span> Consistency</h2>
+<ul>
+<li>Evaluating any potential or level of linear relationship between instructors</li>
+</ul>
+</section>
+<section id="absolute-agreement" class="level2" data-number="3.2">
+<h2 data-number="3.2" class="anchored" data-anchor-id="absolute-agreement"><span class="header-section-number">3.2</span> Absolute Agreement</h2>
+<ul>
+<li>Evaluates how close the raters were in terms of their scores</li>
+<li>Not interested in linear relationship</li>
+<li>Focuses on whether raters have close or identical ratings</li>
+</ul>
+</section>
+</section>
+<section id="icc-forms" class="level1" data-number="4">
+<h1 data-number="4"><span class="header-section-number">4</span> ICC Forms</h1>
+<p>10 forms of ICC based on the “Model” (1-way random effects, 2-way random effects, or 2-way fixed effects), the “Type” (single rater/ measurement or the mean of k raters/measurements), and the “Definition” of relationship considered to be important (consistency or absolute agreement)<span class="citation" data-cites="kooGuidelineSelectingReporting2016"><sup><a href="#ref-kooGuidelineSelectingReporting2016" role="doc-biblioref">1</a></sup></span>.</p>
+</section>
+<section id="choosing-the-right-icc-form" class="level1" data-number="5">
+<h1 data-number="5"><span class="header-section-number">5</span> Choosing the Right ICC Form</h1>
+<div class="callout callout-style-simple callout-none no-icon callout-titled" title="How to choose the right form">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+How to choose the right form
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>There are 4 guiding questions</p>
+<ol type="1">
+<li>Do we have the same set of raters for all subjects?<span class="citation" data-cites="kooGuidelineSelectingReporting2016"><sup><a href="#ref-kooGuidelineSelectingReporting2016" role="doc-biblioref">1</a></sup></span></li>
+<li>Do we have a sample of raters randomly selected from a larger population or a specific sample of raters?<span class="citation" data-cites="kooGuidelineSelectingReporting2016"><sup><a href="#ref-kooGuidelineSelectingReporting2016" role="doc-biblioref">1</a></sup></span></li>
+<li>Are we interested in the reliability of single rater or the mean value of multiple raters?<span class="citation" data-cites="kooGuidelineSelectingReporting2016"><sup><a href="#ref-kooGuidelineSelectingReporting2016" role="doc-biblioref">1</a></sup></span></li>
+<li>Do we concern about consistency or agreement?<span class="citation" data-cites="kooGuidelineSelectingReporting2016"><sup><a href="#ref-kooGuidelineSelectingReporting2016" role="doc-biblioref">1</a></sup></span></li>
+</ol>
+<p>The first 2 questions guide the “Model” selection, question 3 guides the “Type” selection, and the last question guides the “Definition” selection<span class="citation" data-cites="kooGuidelineSelectingReporting2016"><sup><a href="#ref-kooGuidelineSelectingReporting2016" role="doc-biblioref">1</a></sup></span></p>
+</div>
+</div>
+</div>
+</section>
+<section id="calculation" class="level1" data-number="6">
+<h1 data-number="6"><span class="header-section-number">6</span> Calculation</h1>
+<div class="callout callout-style-simple callout-none no-icon callout-titled" title="Symbols and Abbreviations">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Symbols and Abbreviations
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-2" class="callout-2-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<ul>
+<li>Model 1 = one-way random model (no bias)</li>
+<li>Model 2 = two-way random model (random bias)</li>
+<li>Model 3 = two-way mixed model (fixed bias)</li>
+<li><em>n</em> = number of subjects (targets)</li>
+<li><em>k</em> = number of measurements (conditions, raters)</li>
+<li><em>i</em> = subject index (i = 1,…, n)</li>
+<li><em>j</em> = measurement index (j = 1,…, k)</li>
+<li><em>N</em> = number of simulated matrices</li>
+<li>&lt; … &gt; = average value obtained in simulation</li>
+<li>μ = population mean of subject’s scores</li>
+<li><span class="math inline">\(r_i\)</span> = deviation from mean for subject i</li>
+<li><span class="math inline">\(c_j\)</span> = bias in measurement j</li>
+<li><span class="math inline">\(v_{ij}\)</span> = “noise” = error in measurement <em>j</em> for subject i (Model 1)</li>
+<li><span class="math inline">\(e_{ij}\)</span> = error in measurement j for subject i, Model 2 and Model 3</li>
+<li><span class="math inline">\(rcij\)</span> = interaction in measurement j for subject i, Model 2 and Model 3</li>
+<li><span class="math inline">\(v_{ij}\)</span> = “noise” = eij + rcij (Model 2 and Model 3)</li>
+<li><span class="math inline">\(\sigma_r^2\)</span> σr2 = variance of <span class="math inline">\(r_i\)</span></li>
+<li><span class="math inline">\(\sigma_c^2\)</span> = variance of <span class="math inline">\(c_j\)</span></li>
+<li><span class="math inline">\(\sigma_e^2\)</span> = variance of <span class="math inline">\(e_{ij}\)</span></li>
+<li><span class="math inline">\(\sigma_{rc}^2\)</span> = variance of <span class="math inline">\(rc_{ij}\)</span></li>
+<li><span class="math inline">\(\sigma_v^2\)</span> = variance of <span class="math inline">\(v_{ij}\)</span> (<span class="math inline">\(= \sigma_c^2 + \sigma_e^2\)</span> in Model 2 and Model 3)</li>
+<li><span class="math inline">\(\rho_1\)</span> = population ICC, Model 1</li>
+<li><span class="math inline">\(\rho_{2A}\)</span> = absolute agreement population ICC, Model 2</li>
+<li><span class="math inline">\(\rho_{2C}\)</span> = consistency population ICC, Model 2</li>
+<li><span class="math inline">\(\rho_{3A}\)</span> = absolute agreement population ICC, Model 3</li>
+<li><span class="math inline">\(\rho_{3C}\)</span> = consistency population ICC, Model 3</li>
+<li><em>MST</em> = mean square total</li>
+<li><em>MSWS</em> = mean square within subjects</li>
+<li><em>MSBS</em> = mean square between subjects</li>
+<li><em>MSWM</em> = mean square within measurements</li>
+<li><em>MSBM</em> = mean square between measurements</li>
+<li><em>MSE</em> = mean square error</li>
+<li><span class="math inline">\(\textrm{F} = \frac{\textrm{MSBM}}{\textrm{MSE}} = \textrm{F-value}\)</span></li>
+<li>ICC(1) ≡ ICC(1,1) = sample ICC formula, Model 1</li>
+<li>ICC(A,1) ≡ ICC(2,1) = sample ICC formula, absolute agreement, Model 2 and 3</li>
+<li>ICC(C,1) ≡ ICC(3,1) = sample ICC formula, consistency, Model 2 and 3</li>
+</ul>
+</div>
+</div>
+</div>
+<p>However, modern ICC is calculated by mean squares (ie, estimates of the population variances based on the variability among a given set of measures) obtained through analysis of variance.</p>
+<ul>
+<li>(<span class="math inline">\(\sigma_s^2\)</span>) = Variance of Interest<span class="citation" data-cites="liljequistIntraclassCorrelationDiscussion2019"><sup><a href="#ref-liljequistIntraclassCorrelationDiscussion2019" role="doc-biblioref">2</a></sup></span></li>
+<li>(<span class="math inline">\(\sigma_e^2\)</span>) = Unwanted variance<span class="citation" data-cites="liljequistIntraclassCorrelationDiscussion2019"><sup><a href="#ref-liljequistIntraclassCorrelationDiscussion2019" role="doc-biblioref">2</a></sup></span></li>
+</ul>
+<p><span class="math display">\[
+\textrm{ICC} = \frac{\sigma_s^2}{\sigma_s^2 + \sigma_e^2} = \frac{(\textrm{Variance of Interest})}{(\textrm{Variance of Interest}) + (\textrm{Unwanted Variance})}
+\]</span></p>
+<p>Alternative equation from<span class="citation" data-cites="gisevInterraterAgreementInterrater2013"><sup><a href="#ref-gisevInterraterAgreementInterrater2013" role="doc-biblioref">3</a></sup></span></p>
+<p><span class="math display">\[
+\textrm{ICC} = \frac{\sigma_s^2}{\sigma_s^2 + \sigma_e^2} = \frac{(Between subject variance)}{(Between subject variance) + (Within subject Variance)}
+\]</span></p>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="true" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
 Note
 </div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-1" class="callout-1-contents callout-collapse collapse show">
 <div class="callout-body-container callout-body">
-<p>You should always graph your results to ensure you arent missing correlations that <strong>are not</strong> linear</p>
+<p>the word “subject” in the previous equation likely refers to “rater” since this test assesses <a href="../../../../The Archive/Evidene Based Practice/Reliability/inter-rater_reliability.html">inter-rater reliability</a></p>
 </div>
 </div>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="../../../../The Archive/Evidene Based Practice/Multivariate Data Analysis/images/fig1 schoberCorrelationCoefficientsAppropriate2018.png" class="lightbox" title="Graphs of varying “r” values (From figure 1 of Schober et al.&nbsp;2018 @schoberCorrelationCoefficientsAppropriate2018)" data-gallery="quarto-lightbox-gallery-1"><img src="../../../../The Archive/Evidene Based Practice/Multivariate Data Analysis/images/fig1 schoberCorrelationCoefficientsAppropriate2018.png" class="img-fluid figure-img"></a></p>
-<figcaption class="figure-caption">Graphs of varying “r” values (From figure 1 of Schober et al.&nbsp;2018<span class="citation" data-cites="schoberCorrelationCoefficientsAppropriate2018"><sup><a href="#ref-schoberCorrelationCoefficientsAppropriate2018" role="doc-biblioref">1</a></sup></span>)</figcaption>
-</figure>
-</div>
-<p>NOTE: these can be used by researchers to misrepresent data that is not linearly correlated<span class="citation" data-cites="schoberCorrelationCoefficientsAppropriate2018"><sup><a href="#ref-schoberCorrelationCoefficientsAppropriate2018" role="doc-biblioref">1</a></sup></span></p>
-<p>Significance</p>
-<ul>
-<li>T-Test?</li>
-<li>P-value = correlation differs significantly from Zero</li>
-</ul>
+<p>What happens when the unwanted variance (<span class="math inline">\(\sigma_e^2\)</span>) is equal to or larger than the variance of interest (<span class="math inline">\(\sigma_s^2\)</span>) (for example, the variance between subjects)?</p>
+<p>We will use an example of this, with variance of interst being “5” and unwanted variance being “6” <span class="math display">\[
+\textrm{ICC} = \frac{(Variance of Interest)}{(Variance of Interest) + (Unwanted Variance)} = \frac{(5)}{(5) + (6)} = \frac{5}{11} = 0.455
+\]</span></p>
+<p>As a result, the reliability (ICC) of the method will be poor, resulting with a value of 0.455<span class="citation" data-cites="liljequistIntraclassCorrelationDiscussion2019"><sup><a href="#ref-liljequistIntraclassCorrelationDiscussion2019" role="doc-biblioref">2</a></sup></span>.</p>
 </section>
-<section id="compared-to-other-analyses" class="level1" data-number="4">
-<h1 data-number="4"><span class="header-section-number">4</span> Compared to other analyses</h1>
-<p><a href="../../../../The Archive/Evidene Based Practice/Multivariate Data Analysis/Correlation/comparison_of_correlation_statistical_analysis.html">see the comparison to other correlation statistical analyses</a></p>
+<section id="output" class="level1" data-number="7">
+<h1 data-number="7"><span class="header-section-number">7</span> Output</h1>
+<p>An ICC will generally provide a single measure and average measure output for ICC.</p>
+<p>Single</p>
 </section>
-<section id="resources" class="level1" data-number="5">
-<h1 data-number="5"><span class="header-section-number">5</span> Resources</h1>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/k7IctLRiZmo" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<section id="scoring" class="level1" data-number="8">
+<h1 data-number="8"><span class="header-section-number">8</span> Scoring</h1>
+<p>Values range from 0.00 (not reliable) to 1.00 (perfectly reliable)</p>
+<table class="table-striped table-hover table">
+<caption>“Rule of thumb” Quick interpretation of reliability</caption>
+<thead>
+<tr class="header">
+<th>Score</th>
+<th>Reliability</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>0.00 – 0.20</td>
+<td>Poor</td>
+</tr>
+<tr class="even">
+<td>0.21 – 0.40</td>
+<td>Fair</td>
+</tr>
+<tr class="odd">
+<td>0.41 – 0.60</td>
+<td>Moderate</td>
+</tr>
+<tr class="even">
+<td>0.61 – 0.80</td>
+<td>Good</td>
+</tr>
+<tr class="odd">
+<td>0.81 – 1.00</td>
+<td>Excellent</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="interpretation" class="level1" data-number="9">
+
 
 
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
-<div id="ref-schoberCorrelationCoefficientsAppropriate2018" class="csl-entry" role="listitem">
-<div class="csl-left-margin">1. </div><div class="csl-right-inline">Schober P, Boer C, Schwarte LA. Correlation <span>Coefficients</span>: <span>Appropriate Use</span> and <span>Interpretation</span>. <em>Anesthesia and Analgesia</em>. 2018;126(5):1763-1768. doi:<a href="https://doi.org/10.1213/ANE.0000000000002864">10.1213/ANE.0000000000002864</a></div>
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">9 Interpretation</h2><div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-kooGuidelineSelectingReporting2016" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Koo TK, Li MY. A <span>Guideline</span> of <span>Selecting</span> and <span>Reporting Intraclass Correlation Coefficients</span> for <span>Reliability Research</span>. <em>Journal of Chiropractic Medicine</em>. 2016;15(2):155-163. doi:<a href="https://doi.org/10.1016/j.jcm.2016.02.012">10.1016/j.jcm.2016.02.012</a></div>
+</div>
+<div id="ref-liljequistIntraclassCorrelationDiscussion2019" class="csl-entry" role="listitem">
+<div class="csl-left-margin">2. </div><div class="csl-right-inline">Liljequist D, Elfving B, Skavberg Roaldsen K. Intraclass correlation - <span>A</span> discussion and demonstration of basic features. <em>PloS One</em>. 2019;14(7):e0219854. doi:<a href="https://doi.org/10.1371/journal.pone.0219854">10.1371/journal.pone.0219854</a></div>
+</div>
+<div id="ref-gisevInterraterAgreementInterrater2013" class="csl-entry" role="listitem">
+<div class="csl-left-margin">3. </div><div class="csl-right-inline">Gisev N, Bell JS, Chen TF. Interrater agreement and interrater reliability: Key concepts, approaches, and applications. <em>Research in social &amp; administrative pharmacy: RSAP</em>. 2013;9(3):330-338. doi:<a href="https://doi.org/10.1016/j.sapharm.2012.04.004">10.1016/j.sapharm.2012.04.004</a></div>
 </div>
 </div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -632,7 +764,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"selector":".lightbox","closeEffect":"zoom","loop":true,"descPosition":"bottom","openEffect":"zoom"});</script>
 
 
 

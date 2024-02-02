@@ -10,30 +10,8 @@ Age definitions
 - Premature: born prior to 37 weeks gestation
 - Gestational age: number of months/days in utero (how long in utero, date of last menstrual period to when baby was born) 
 - Chronological age: Time since date of birth
-- Adjusted age: (40 weeks - gestational age) - chronological age
+- [Adjusted age]({{< var ref-pediatric-adjusted-age.path >}}): Chronological age - (Prematurity)
 
-How to calculate age for premature babies
-
-<!--
-```
-1.  Determine Chronological age
-
-- Baby is currently 13 weeks (3 months 1 week) old
-- Chronological age : 13 weeks
-
-2. Determine amount of prematurity
-
-- Baby born at 34 weeks gestation
-
-$ (Full Gestation - Actual gestation) = Amount premature $
-
-
-3. Calculate adjusted age
-$ Chronological age - (amount Premature) = Adjusted age $
-$ 13 Weeks - (40wk - 34 wk) = 7wks $
-
-```
--->
 
 # Periods
 

@@ -5,6 +5,13 @@ title: Percent Agreement
 
 What percentage of the time 2 different readings of the same thing give you the same result
 
+# Calculation
+
+Percent agreement equation @gisevInterraterAgreementInterrater2013
+$$
+ \textrm{Percent Agreement} = \frac{\sigma_s^2}{\sigma_s^2 + \sigma_e^2} = \frac{\textrm{Number of concordant responses} }{\textrm{Total number of responses}}\times 100\%
+$$ 
+
 
 # Scoring
 

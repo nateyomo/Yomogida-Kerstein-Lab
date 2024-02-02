@@ -639,13 +639,21 @@ ref-relative-risk:
 ref-reliability:
   path: "/The Archive/Evidene Based Practice/Reliability/reliability.qmd"
   scoring: "/The Archive/Evidene Based Practice/Reliability/reliability.qmd#scoring"
-  interrater: "/The Archive/Evidene Based Practice/Reliability/reliability.qmd#interrater"
-  intrarater: "/The Archive/Evidene Based Practice/Reliability/reliability.qmd#intrarater"
-  internal-consistency: "/The Archive/Evidene Based Practice/Reliability/reliability.qmd#internal-consistency"
+  interrater: "/The Archive/Evidene Based Practice/Reliability/inter-rater_reliability.qmd"
+  intrarater: "/The Archive/Evidene Based Practice/Reliability/intra-rater_reliability.qmd"
+  test-retest: "/The Archive/Evidene Based Practice/Reliability/test-retest_reliability.qmd"
+  internal-consistency: "/The Archive/Evidene Based Practice/Reliability/internal_consistency.qmd"
   percent-agreement: "/The Archive/Evidene Based Practice/Reliability/percent_agreement.qmd"
   kappa-coefficient: "/The Archive/Evidene Based Practice/Reliability/kappa_coefficient.qmd"
+  krippendorffs-alpha: "/The Archive/Evidene Based Practice/Reliability/krippendorffs_alpha.qmd"
   cronbachs-alpha: "/The Archive/Evidene Based Practice/Reliability/cronbachs_alpha.qmd"
   icc: "/The Archive/Evidene Based Practice/Reliability/intra-class_correlation_coefficient.qmd"
+  bland-altman-plot: "/The Archive/Evidene Based Practice/Reliability/Bland-Altman_plot.qmd"
+
+ref-inter-rater:
+  path: "/"
+  reliability: "/The Archive/Evidene Based Practice/Reliability/inter-rater_reliability.qmd"
+  agreement: "/The Archive/Evidene Based Practice/Reliability/inter-rater_agreement.qmd"
 ## Validity
 ref-validity:
   path: "/The Archive/Evidene Based Practice/Validity/validity.qmd"
@@ -682,6 +690,16 @@ ref-mann-whitney-u-test:
 ### Pulmonary Evaluation
 ref-lung-sounds:
   path: "/The Archive/Pulmonary system/Pulmonary evaluation/lung_sounds.qmd"
+
+## Pediatric Evaluation
+ref-creeping:
+  path: "/The Archive/Examination/Pediatric Evaluation/creeping_transportation.qmd"
+ref-crawling:
+  path: "/The Archive/Examination/Pediatric Evaluation/crawling_transportation.qmd"
+ref-standing-pediatric:
+  path: "/The Archive/Examination/Pediatric Evaluation/standing_pediatric.qmd"
+ref-cruising-pediatric:
+  path: "/The Archive/Examination/Pediatric Evaluation/cruising_pediatric.qmd"
 
 ## Movement Analysis
 
@@ -1102,6 +1120,8 @@ ref-neuronal-group-selection-theory:
   path: "/The Archive/Pediatrics/Development/overview_theories_of_child_development.qmd"
 ref-normal-child-development:
   path: "/The Archive/Pediatrics/Development/normal_child_development.qmd"
+  neonate: "/"
+  month8: "/The Archive/Pediatrics/Development/normal_child_development.qmd#month-8"
 ## Pediatric Tests and Measures
 ref-index-pediatric-tests-and-measures:
   path: "/The Archive/Pediatrics/Pediatric Tests and Measures/index_pediatric_tests_and_measures.qmd"
@@ -1116,7 +1136,8 @@ ref-fetal-development:
   path: "/The Archive/Pediatrics/Embryology/fetal_development.qmd"
 ref-neuroembryology:
   path: "/The Archive/Pediatrics/Embryology/neuroembryology.qmd"
-
+ref-pediatric-adjusted-age:
+  path: "/The Archive/Pediatrics/Development/pediatric_adjusted_age.qmd"
 # Performance training
 ## Golf
 ref-golf-index:
@@ -1330,7 +1351,8 @@ ref-perception:
   overview: "/The Archive/Neuroscience/Neurophysiology/Perception/percetion_overview.qmd"
   visual: "/The Archive/Neuroscience/Neurophysiology/Perception/percetion_overview.qmd#visual-perception"
   deficits: "/The Archive/Neuroscience/Neurophysiology/Perception/perception_deficits.qmd"
-
+ref-object-permanence:
+  path: "/The Archive/Neuroscience/Neurophysiology/Cognition/object_permanence.qmd"
 ### Neuro Symptoms
 ref-anosmia:
   path: "/The Archive/Symptoms/Neuro Symptoms/anosmia.qmd"
