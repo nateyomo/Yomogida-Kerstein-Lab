@@ -25,7 +25,16 @@ Types:
 - Venous (4%) @duttonDuttonOrthopaedicExamination2020
 - Arterial (1%) @duttonDuttonOrthopaedicExamination2020
 
+
+
+
 ## Neurogenic
+
+:::{.callout-note title="Neurogenic classification"}
+True neurogenic TOS is classified as TOS with objective findings of nerve compression @hooperpart2
+
+TOS with no specific pathological evidence is classified as disputed TOS @hooperpart2.
+:::
 
 - The [inferior trunk of the brachial plexus]({{< var ref-brachial-plexus.inferior-trunk >}}) is the most commonly compressed neural structure in TOS @duttonDuttonOrthopaedicExamination2020
 
@@ -183,7 +192,7 @@ Clinical examination:
 - With all of these tests: (+) test = diminution or disappearance of pulse or neuro symptoms @duttonDuttonOrthopaedicExamination2020
 :::
 
-### Validity
+## Validity
 
 TOS maneuvers have low false positive rates when:
 
@@ -199,7 +208,7 @@ Less false positives for combinations of these tests @plewaFalsepositiveRateThor
 
 Gillard et al showed a cluster of 2 provocative tests displayed the highest sensitivity (90%) while a cluster of 5 tests increased the specificity of TOS to 84% @hooperThoracicOutletSyndrome2010
 
-## DDX
+# DDX
 
 - MI, arthritis, fibromyalgia, cervical disk disease, stenosis, MS, causalgia, carpal tennul, pancoast tumor @plewaFalsepositiveRateThoracic1998
 
@@ -212,27 +221,61 @@ ULTTs can be used to understand whether a patient is suffering from TOS or [doub
 
 **Joint mobs**: Grade 1-2 used for pain relief for acute conditions @duttonDuttonOrthopaedicExamination2020
 
+## Costoclavicular space mobility
+
+Restoring mobility to the first rib can inc the costoclavicular space and reduce imposed load on neurovascular structures in teh thoracic outlet container @hooperpart2ThoracicOutletSyndrome2010a
+
+- Studies reported dec’d TOS symptoms by restoring mobility of first rib thru manual therapy @hooperpart2ThoracicOutletSyndrome2010a
+
+- Encouraging diaphragmatic breathing helps reduce overuse of scalenes during breathing
+Accessory muscle of breathing (scalene)
+Vigorous aerobic activities may inc scalene activity and elevation of first rib, so careful use of aerobic activities may help reduce symptoms, especially early in the rehab
+Mobilization of SCJ and ACJ is necessary to restore normal end range arthrokinematics of clavicle during elevation activities
+End range limits of DGJ motion can lead to compromise of costoclavicular space as well
+Can be addressed w mobs in the elevated arm position (ie humerus gliding ant, post and inf) 
+
+
+First rib mobilization
+
+
+CVJ mobilization 
+
 
 # Rehabilitation
 
-## Non-Surgical Management
+## Conservative Management
 
-- Conservative measures shld be attempted for pt w/ disputed neuro TOS before surgery is considered
-- Recent SR found good to very good results achieved in 76-100% of disputed neuro TOS pts at short term follow up and 59-88% in a year at least
-- If there are objective findings of nerve compression, it is called a true neurogenic TOS[6]. However, when there is no specific pathological evidence of TOS, it is classified as disputed TOS.
+When should you advise conservative treatment over surgery?
+
+- Conservative measures shld be attempted for pt w/ disputed neuro TOS before surgery is considered but arterial or venous TOS should be treated with surgery to avoid loss of limb @hooperpart2ThoracicOutletSyndrome2010a.
+- Hooper et al found success in conservative management in disputed neuro TOS patients at both short term (76-100%) and long term (59-88%) @hooperpart2ThoracicOutletSyndrome2010a.
+
+When should you advise against conservative therapy?
+
+- Conservative therapy is not recommended for venous or arterial TOS since there is a high chance of limb loss following complications @hooperpart2ThoracicOutletSyndrome2010a.
 - Poor outcomes w conservative therapy (Novak et al ) → obesity, workers compensation, double crush pathology involving the carpal or cubital tunnel.
+
+Patient education
+
+Sleep hygiene
+- Avoid provocative positions during night if pain is position dependent @hooperpart2ThoracicOutletSyndrome2010a
+- Place pillows between arm and body w/ side lying or place under each arm when lying supine @hooperpart2ThoracicOutletSyndrome2010a
+- [Cyriax Release Maneuver]({{< var ref-cyriax-release-maneuver.path >}}): Can unload the neurovascular structures prior to sleeping @hooperpart2ThoracicOutletSyndrome2010a
+
+Manual Techniques
+
+- Traction could help  @hooperpart2ThoracicOutletSyndrome2010a
+
+
+## Pharmacological options
 
 Possible Options:
 
-- NSAIDs
-- Botulinum toxin (ant to middle scalenes)
-- 64% of subjects had a min 50% decrease in pain, numbness, fatigue for at least one month following injection
-- Traction could help 
-- If pain is position dependent, avoid provocative position during night 
-- Place pillows between arm and body w/ side lying or place under each arm when lying supine
-- Cyriax release technique
-    - Fully unload neurovascular structures in thoracic outlet prior to sleeping at night, which will allow the pt to sleep thru the night without waking
-- Pt should remain in this position as long as can be tolerated (preferably until the symptoms are appreciably resolved) in order to completely unload the thoracic outlet
+- NSAIDs @hooperpart2ThoracicOutletSyndrome2010a
+- Botulinum toxin (ant to middle scalenes) @hooperpart2ThoracicOutletSyndrome2010a
+    - 64% of subjects had a min 50% decrease in pain, numbness, fatigue for at least one month following injection  @hooperpart2ThoracicOutletSyndrome2010a
+
+
 - Can take up to 2-3 hours
 - Pt education– informing pt about disease process, potential prognosis 
 - Compliance to exercise program is important for determining outcomes of conservative therapy 

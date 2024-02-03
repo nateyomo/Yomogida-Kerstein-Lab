@@ -1488,35 +1488,35 @@
     "href": "The Archive/Pathologies/MSK Pathologies/Upper extremity/thoracic_outlet_syndrome.html",
     "title": "Thoracic Outlet Syndrome (TOS)",
     "section": "",
-    "text": "Age:\n\nTOS majority is between the ages of 20-50 y/o (neuro)1\nWomen are 3-4x more likely to develop neurogenic TOS1"
+    "text": "Age:\n\nTOS majority is between the ages of 20-50 y/o (neuro)hooperThoracicOutletSyndrome2010?\nWomen are 3-4x more likely to develop neurogenic TOShooperThoracicOutletSyndrome2010?"
   },
   {
     "objectID": "The Archive/Pathologies/MSK Pathologies/Upper extremity/thoracic_outlet_syndrome.html#neurogenic",
     "href": "The Archive/Pathologies/MSK Pathologies/Upper extremity/thoracic_outlet_syndrome.html#neurogenic",
     "title": "Thoracic Outlet Syndrome (TOS)",
     "section": "2.1 Neurogenic",
-    "text": "2.1 Neurogenic\n\nThe inferior trunk of the brachial plexus is the most commonly compressed neural structure in TOS2\nLower plexus (c8,t1) irritation: Symptoms on ulnar side of arm, hand, ant shoulder, axillary regions1\nUpper plexus ( c5,6,7): Ant aspect of neck from clavicle to mandible, ear, mastoid, occasionally radiating into the side of the face1"
+    "text": "2.1 Neurogenic\n\n\n\n\n\n\nNeurogenic classification\n\n\n\nTrue neurogenic TOS is classified as TOS with objective findings of nerve compressionhooperpart2?\nTOS with no specific pathological evidence is classified as disputed TOShooperpart2?.\n\n\n\nThe inferior trunk of the brachial plexus is the most commonly compressed neural structure in TOS1\nLower plexus (c8,t1) irritation: Symptoms on ulnar side of arm, hand, ant shoulder, axillary regionshooperThoracicOutletSyndrome2010?\nUpper plexus ( c5,6,7): Ant aspect of neck from clavicle to mandible, ear, mastoid, occasionally radiating into the side of the facehooperThoracicOutletSyndrome2010?"
   },
   {
     "objectID": "The Archive/Pathologies/MSK Pathologies/Upper extremity/thoracic_outlet_syndrome.html#venous",
     "href": "The Archive/Pathologies/MSK Pathologies/Upper extremity/thoracic_outlet_syndrome.html#venous",
     "title": "Thoracic Outlet Syndrome (TOS)",
     "section": "2.2 Venous",
-    "text": "2.2 Venous\n2nd most common cause of TOS (4%)2"
+    "text": "2.2 Venous\n2nd most common cause of TOS (4%)1"
   },
   {
     "objectID": "The Archive/Pathologies/MSK Pathologies/Upper extremity/thoracic_outlet_syndrome.html#arterial",
     "href": "The Archive/Pathologies/MSK Pathologies/Upper extremity/thoracic_outlet_syndrome.html#arterial",
     "title": "Thoracic Outlet Syndrome (TOS)",
     "section": "2.3 Arterial",
-    "text": "2.3 Arterial\n3rd (least) most common cause of TOS (1% of cases)2"
+    "text": "2.3 Arterial\n3rd (least) most common cause of TOS (1% of cases)1"
   },
   {
     "objectID": "The Archive/Pathologies/MSK Pathologies/Upper extremity/thoracic_outlet_syndrome.html#clavicle",
     "href": "The Archive/Pathologies/MSK Pathologies/Upper extremity/thoracic_outlet_syndrome.html#clavicle",
     "title": "Thoracic Outlet Syndrome (TOS)",
     "section": "3.1 Clavicle",
-    "text": "3.1 Clavicle\n\nClavicular mvmt can cause TOS1\nACJ (coracoclavicular lig complex ) tension loads during arm elevation, if compromised, can load the nerve tissue1\nSCJ limitations or subluxations can lead to clavicular dysfunction1"
+    "text": "3.1 Clavicle\n\nClavicular mvmt can cause TOShooperThoracicOutletSyndrome2010?\nACJ (coracoclavicular lig complex ) tension loads during arm elevation, if compromised, can load the nerve tissuehooperThoracicOutletSyndrome2010?\nSCJ limitations or subluxations can lead to clavicular dysfunctionhooperThoracicOutletSyndrome2010?"
   },
   {
     "objectID": "The Archive/Pathologies/MSK Pathologies/Upper extremity/thoracic_outlet_syndrome.html#ddx",
@@ -7263,7 +7263,7 @@
     "href": "The Archive/Evidene Based Practice/Reliability/Reliability Tests/krippendorffs_alpha.html",
     "title": "Krippendorff’s Alpha",
     "section": "",
-    "text": "Kriffindorf’s alpha is a modified Kappa coefficient that is a measure of agreement, which is even more flexible than Fleiss’ Kappa1.\nKrippendorff’s alpha is used instead of Kappa Coefficient when there are multiple categories\nKrippendorff’s alpha in contrast is based on the observed disagreement corrected for disagreement expected by chance1\n\n1 Use\nFor nominal data with no missing values both Fleiss’ Kappa and Krippendorff’s alpha can be recommended\nKriffindorf’s Alpha can be used for two or more raters and categories, and it is not only applicable for nominal data, but for any measurement scale, including metric data1\nKrippendorff’s alpha is also unique since it can handle missing values, given that each observation is assessed by at least two raters.\n\n\n\n\n\n\nNote\n\n\n\nObservations with only one assessment have to be excluded\n\n\n\n\n2 Distribution\nFirst, the algorithm weights for the number of ratings per individual to account for missing values.\nSecond, not the N observations, with each observation containing the associated assessments of all raters, are randomly sampled. Instead the random sample is drawn from the coincidence matrix, which is needed for the estimation of Krippendorff’s alpha\nThis means that the dependencies between the raters are not taken into account.\nThe third difference is that Krippendorff keeps the expected disagreement fixed, and only the observed disagreement is calculated anew in each bootstrap step\n\n\n3 Calculation\nFor the calculation of the expected agreement for Fleiss’ K,the sample size is taken as infinite, while for Krippendorff’s alpha the actual sample size is used1\n\n\n\n\n\nReferences\n\n1. Zapf A, Castell S, Morawietz L, Karch A. Measuring inter-rater reliability for nominal data - which coefficients and confidence intervals are appropriate? BMC medical research methodology. 2016;16:93. doi:10.1186/s12874-016-0200-9"
+    "text": "Krippendorff’s Alpha is a modified Kappa coefficient that is a measure of agreement, which is even more flexible than Fleiss’ Kappa1.\nKrippendorff’s alpha is used instead of Kappa Coefficient when there are multiple categories\nKrippendorff’s alpha in contrast is based on the observed disagreement corrected for disagreement expected by chance1\n\n1 Use\nFor nominal data with no missing values both Fleiss’ Kappa and Krippendorff’s alpha can be recommended\nKrippendorff’s Alpha can be used for two or more raters and categories, and it is not only applicable for nominal data, but for any measurement scale, including metric data1\nKrippendorff’s alpha is also unique since it can handle missing values, given that each observation is assessed by at least two raters.\n\n\n\n\n\n\nNote\n\n\n\nObservations with only one assessment have to be excluded\n\n\n\n\n2 Distribution\nFirst, the algorithm weights for the number of ratings per individual to account for missing values.\nSecond, not the N observations, with each observation containing the associated assessments of all raters, are randomly sampled. Instead the random sample is drawn from the coincidence matrix, which is needed for the estimation of Krippendorff’s alpha\nThis means that the dependencies between the raters are not taken into account.\nThe third difference is that Krippendorff keeps the expected disagreement fixed, and only the observed disagreement is calculated anew in each bootstrap step\n\n\n3 Calculation\nFor the calculation of the expected agreement for Fleiss’ K,the sample size is taken as infinite, while for Krippendorff’s alpha the actual sample size is used1\n\n\n\n\n\nReferences\n\n1. Zapf A, Castell S, Morawietz L, Karch A. Measuring inter-rater reliability for nominal data - which coefficients and confidence intervals are appropriate? BMC medical research methodology. 2016;16:93. doi:10.1186/s12874-016-0200-9"
   },
   {
     "objectID": "The Archive/Evidene Based Practice/Reliability/Reliability Tests/cronbachs_alpha.html",
@@ -7355,5 +7355,61 @@
     "title": "McNemar’s Test",
     "section": "",
     "text": "Resources\n\nStatpearls1\n\n\nMonroe:\n\nsimilar to chi square\nmeasures how many changed, vs didnt change\n\n\n\n\n\nReferences\n\n1. Sundjaja JH, Shrestha R, Krishan K. McNemar And Mann-Whitney U Tests. In: StatPearls. StatPearls Publishing; 2023. Accessed October 3, 2023. http://www.ncbi.nlm.nih.gov/books/NBK560699/"
+  },
+  {
+    "objectID": "The Archive/Interventions/Upper Extremity/cyriax_release_maneuver.html",
+    "href": "The Archive/Interventions/Upper Extremity/cyriax_release_maneuver.html",
+    "title": "Cyriax Release Maneuver",
+    "section": "",
+    "text": "1 Technique\n\nThe patient is seated with elbows flexed to 90°\nPlace towels under elbows to created passive shoulder girdle elevation\nSupport the patient’s spine and instruct them to maintain a neutral head position\nThe forearms and wrists are positioned in neutral\nHold this position until peripheral symptoms are produced\nPatient should allow symptoms to occur as tolerated up to 30 minutes\nObserve for symptom decrease over time1\n\n\n\n\nCyriax Maneuver from1\n\n\n\n\n2 Indications\n\nHelps with thoracic outlet syndrome1\n\n\n\n\n\n\nReferences\n\n1. Hooper TL, Denton J, McGalliard MK, Brismée JM, Sizer PS. Thoracic outlet syndrome: A controversial clinical condition. Part 2: Non-surgical and surgical management. The Journal of Manual & Manipulative Therapy. 2010;18(3):132-138. doi:10.1179/106698110X12640740712338"
+  },
+  {
+    "objectID": "The Archive/Interventions/Head and neck/HVLAT/cervicothoracic_junction_HVLAT.html",
+    "href": "The Archive/Interventions/Head and neck/HVLAT/cervicothoracic_junction_HVLAT.html",
+    "title": "CTJ Manipulations (HVLAT)",
+    "section": "",
+    "text": "Pt position: prone\nHead turned towards you + extension\n\n“Look up at your wrist”\n\nIpsilateral arm above patient’s head\nC/L arm: Can be at side or above head as well\nClinician:\n\nIpsilateral (hand close to pt) hand on side of (T1?) lateral shifting towards clinician\nGrab muscle tissue with this hand → allows you to feel how their neck responds\nFar hand (hand further from pt) placed on:\n\npatient’s temple: for SB\nparietal/occipital bone: More rotation\n\n\nMovement\n\nCan be more SB or more rotation\nIt just depends where they are locking\nTips for relaxing the patient\n\nTake them in and out of the position\nDo the mobilization instead"
+  },
+  {
+    "objectID": "The Archive/Interventions/Head and neck/HVLAT/cervicothoracic_junction_HVLAT.html#technique",
+    "href": "The Archive/Interventions/Head and neck/HVLAT/cervicothoracic_junction_HVLAT.html#technique",
+    "title": "CTJ Manipulations (HVLAT)",
+    "section": "",
+    "text": "Pt position: prone\nHead turned towards you + extension\n\n“Look up at your wrist”\n\nIpsilateral arm above patient’s head\nC/L arm: Can be at side or above head as well\nClinician:\n\nIpsilateral (hand close to pt) hand on side of (T1?) lateral shifting towards clinician\nGrab muscle tissue with this hand → allows you to feel how their neck responds\nFar hand (hand further from pt) placed on:\n\npatient’s temple: for SB\nparietal/occipital bone: More rotation\n\n\nMovement\n\nCan be more SB or more rotation\nIt just depends where they are locking\nTips for relaxing the patient\n\nTake them in and out of the position\nDo the mobilization instead"
+  },
+  {
+    "objectID": "The Archive/Interventions/Head and neck/Mobilization/cervicothoracic_junction_mobilizations.html",
+    "href": "The Archive/Interventions/Head and neck/Mobilization/cervicothoracic_junction_mobilizations.html",
+    "title": "CTJ Mobilizations",
+    "section": "",
+    "text": "1 Dutton Seated technique\nSeated technique:1\n\nSeated Technique for the Cervicothoracic Junction1.\nThe patient is seated with the arms behind the head1.\nThe clinician stands in front of the patient and threads the arms through the patient’s arms, before resting both of the hands on the top, and back, of each of the patient’s shoulders1.\nBy gently leaning the patient forward, the cervical spine is extended until the stiff segment is located at the cervicothoracic junction1.\nGradually, the clinician increases the amount of cervicothoracic extension by gently kneading the mid-scapular area. Distraction, side flexion, or rotation motions can also be introduced1.\n\n\n\n\n\n\n\nCaution\n\n\n\nCare should be taken to avoid overextending the lumbar spine during this technique, by pulling the patient too far forward1.\n\n\n\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. Fifth edition. McGraw Hill Education; 2020."
+  },
+  {
+    "objectID": "The Archive/Pathologies/MSK Pathologies/Upper extremity/thoracic_outlet_syndrome.html#validity",
+    "href": "The Archive/Pathologies/MSK Pathologies/Upper extremity/thoracic_outlet_syndrome.html#validity",
+    "title": "Thoracic Outlet Syndrome (TOS)",
+    "section": "8.1 Validity",
+    "text": "8.1 Validity\nTOS maneuvers have low false positive rates when:\n\nA positive test is defined as pain after adson’s test, costoclavicular maneuver or supraclavicular pressure2\nDiscontinuation of elevated arm stress test d/t pain2\nPain in same arm with &gt;=2 maneuvers2\nAny symptom in the same arm with &gt;= 3 maneuvers2\n\nSo there are a lot of false positives for these various tests, IN ISOLATION, EXCEPT with pain (lower false positives for SCP, CCM, AT)2 If there is a discontinuation of EAST d/t pain = low false positive rate (most ppl dont stop it , even if they feel some pain, but if they need to stop d/t pain then that has a low false positive rate)2 Less false positives for combinations of these tests2\nGillard et al showed a cluster of 2 provocative tests displayed the highest sensitivity (90%) while a cluster of 5 tests increased the specificity of TOS to 84%hooperThoracicOutletSyndrome2010?"
+  },
+  {
+    "objectID": "The Archive/Pathologies/MSK Pathologies/Upper extremity/thoracic_outlet_syndrome.html#conservative-management",
+    "href": "The Archive/Pathologies/MSK Pathologies/Upper extremity/thoracic_outlet_syndrome.html#conservative-management",
+    "title": "Thoracic Outlet Syndrome (TOS)",
+    "section": "11.1 Conservative Management",
+    "text": "11.1 Conservative Management\nWhen should you advise conservative treatment over surgery?\n\nConservative measures shld be attempted for pt w/ disputed neuro TOS before surgery is considered but arterial or venous TOS should be treated with surgery to avoid loss of limb3.\nHooper et al found success in conservative management in disputed neuro TOS patients at both short term (76-100%) and long term (59-88%)3.\n\nWhen should you advise against conservative therapy?\n\nConservative therapy is not recommended for venous or arterial TOS since there is a high chance of limb loss following complications3.\nPoor outcomes w conservative therapy (Novak et al ) → obesity, workers compensation, double crush pathology involving the carpal or cubital tunnel.\n\nPatient education\nSleep hygiene - Avoid provocative positions during night if pain is position dependent3 - Place pillows between arm and body w/ side lying or place under each arm when lying supine3 - Use Cyriax Release Technique to unload the neurovascular structures prior to sleeping3 - Pt should remain in this position as long as can be tolerated (preferably until the symptoms are appreciably resolved) in order to completely unload the thoracic outlet\nManual Techniques\n\nTraction could help3"
+  },
+  {
+    "objectID": "The Archive/Pathologies/MSK Pathologies/Upper extremity/thoracic_outlet_syndrome.html#pharmacological-options",
+    "href": "The Archive/Pathologies/MSK Pathologies/Upper extremity/thoracic_outlet_syndrome.html#pharmacological-options",
+    "title": "Thoracic Outlet Syndrome (TOS)",
+    "section": "11.2 Pharmacological options",
+    "text": "11.2 Pharmacological options\nPossible Options:\n\nNSAIDs3\nBotulinum toxin (ant to middle scalenes)3\n\n64% of subjects had a min 50% decrease in pain, numbness, fatigue for at least one month following injection3\n\nCan take up to 2-3 hours\nPt education– informing pt about disease process, potential prognosis\nCompliance to exercise program is important for determining outcomes of conservative therapy"
+  },
+  {
+    "objectID": "The Archive/Interventions/Head and neck/HVLAT/lower_cervical_HVLAT.html",
+    "href": "The Archive/Interventions/Head and neck/HVLAT/lower_cervical_HVLAT.html",
+    "title": "Lower Cervical Spine Manipulation (HVLAT)",
+    "section": "",
+    "text": "1 Safety\n\n\n2 Technique\nYou will be moving the patient’s head into SB and Rotation. The direction you are sidebending and rotating will be considered ipsilateral.\n\nSplit stance\nHips pointing towards the direction you will HVLAT towards\nWith your I/L hand (the hand on the side of the patient you are moving them towards) you will place it at the mid C/S\n\nApply a C/L Lateral shift"
   }
 ]

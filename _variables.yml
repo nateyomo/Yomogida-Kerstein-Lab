@@ -26,6 +26,7 @@ ref-1st-rib:
   path: "/The Archive/Anatomy/Bones/Bones of the trunk/1st_rib.qmd"
   hypomobility: "/The Archive/Anatomy/Bones/Bones of the trunk/1st_rib.qmd#hypomobility"
   elevation: "/The Archive/Anatomy/Bones/Bones of the trunk/1st_rib.qmd"
+  mobilization: "/The Archive/Interventions/Manual therapy/Mobilizations/1st_rib_mobilization.qmd"
 ref-ribs-bones:
   path: "/The Archive/Anatomy/Bones/Bones of the trunk/ribs_bone.qmd"
 
@@ -118,6 +119,7 @@ ref-thoracic-outlet:
   syndrome: "/The Archive/Pathologies/MSK Pathologies/Upper extremity/thoracic_outlet_syndrome.qmd"
 ref-costoclavicular-space:
   path: "/The Archive/Anatomy/Multi-system structures/Upper extremity/costoclavicular_space.qmd"
+  compression: "/The Archive/Anatomy/Multi-system structures/Upper extremity/costoclavicular_space.qmd#compression"
 ref-interscalene-triangle:
   path: "/The Archive/Anatomy/Multi-system structures/Upper extremity/interscalene_triangle.qmd"
 
@@ -639,16 +641,15 @@ ref-relative-risk:
 ref-reliability:
   path: "/The Archive/Evidene Based Practice/Reliability/reliability.qmd"
   scoring: "/The Archive/Evidene Based Practice/Reliability/reliability.qmd#scoring"
-  interrater: "/The Archive/Evidene Based Practice/Reliability/inter-rater_reliability.qmd"
   intrarater: "/The Archive/Evidene Based Practice/Reliability/intra-rater_reliability.qmd"
   test-retest: "/The Archive/Evidene Based Practice/Reliability/test-retest_reliability.qmd"
   internal-consistency: "/The Archive/Evidene Based Practice/Reliability/internal_consistency.qmd"
-  percent-agreement: "/The Archive/Evidene Based Practice/Reliability/percent_agreement.qmd"
-  kappa-coefficient: "/The Archive/Evidene Based Practice/Reliability/kappa_coefficient.qmd"
-  krippendorffs-alpha: "/The Archive/Evidene Based Practice/Reliability/krippendorffs_alpha.qmd"
-  cronbachs-alpha: "/The Archive/Evidene Based Practice/Reliability/cronbachs_alpha.qmd"
-  icc: "/The Archive/Evidene Based Practice/Reliability/intra-class_correlation_coefficient.qmd"
-  bland-altman-plot: "/The Archive/Evidene Based Practice/Reliability/Bland-Altman_plot.qmd"
+  percent-agreement: "/The Archive/Evidene Based Practice/Reliability/Reliability Tests/percent_agreement.qmd"
+  kappa-coefficient: "/The Archive/Evidene Based Practice/Reliability/Reliability Tests/kappa_coefficient.qmd"
+  krippendorffs-alpha: "/The Archive/Evidene Based Practice/Reliability/Reliability Tests/krippendorffs_alpha.qmd"
+  cronbachs-alpha: "/The Archive/Evidene Based Practice/Reliability/Reliability Tests/cronbachs_alpha.qmd"
+  icc: "/The Archive/Evidene Based Practice/Reliability/Reliability Tests/intra-class_correlation_coefficient.qmd"
+  bland-altman-plot: "/The Archive/Evidene Based Practice/Reliability/Reliability Tests/Bland-Altman_plot.qmd"
 
 ref-inter-rater:
   path: "/"
@@ -802,6 +803,11 @@ ref-proprioceptive-neuromuscular-facilitation:
 ## Cryotherapy
 ref-icing-cryotherapy:
   path: "/The Archive/Interventions/Cryotherapy/icing_cryotherapy.qmd"
+## Manual Therapy
+
+## Upper extremity
+ref-cyriax-release-maneuver:
+  path: "/The Archive/Interventions/Upper Extremity/cyriax_release_maneuver.qmd"
 
 # Microbiology
 ref-microbiology-index:
@@ -1280,6 +1286,13 @@ ref-vestibular-nuclei:
 ### Limbic System
 ref-amygdala:
   path: "/The Archive/Neuroscience/Neuroanatomy/Limbic System/amygdala.qmd"
+### Midbrain
+ref-corpora-quadrigemina:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Midbrain/Tectum/corpora_quadrigemina.qmd"
+ref-superior-colliculus:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Midbrain/Tectum/superior_colliculus.qmd"
+ref-inferior-colliculus:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Midbrain/Tectum/inferior_colliculus.qmd"
 
 ### Tracts
 #### Ascending Tracts

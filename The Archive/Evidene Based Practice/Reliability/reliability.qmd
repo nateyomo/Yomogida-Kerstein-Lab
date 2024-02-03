@@ -28,7 +28,7 @@ Reliability is sometimes used synonymously with ‘precision,’‘agreement,’
 
 # Types of Reliability
 
-- [Inter-rater reliability (IRR)]({{< var ref-reliability.interrater >}}): Consistency of a measure assessed by multiple raters
+- [Inter-rater reliability (IRR)]({{< var ref-inter-rater.reliability >}}): Consistency of a measure assessed by multiple raters
 - [Inter-rater agreement (IRA)]({{< var ref-inter-rater.agreement >}})
 - [Intra-rater reliability]({{< var ref-reliability.intrarater >}})
 - Test-Retest Reliability
