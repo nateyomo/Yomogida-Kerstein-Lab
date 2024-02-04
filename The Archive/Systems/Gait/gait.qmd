@@ -1,0 +1,7 @@
+---
+title: Gait
+---
+
+# Motor systems
+
+[Reticulospinal tracts]({{< var ref-reticulospinal-tract.path >}}) functions in gait-related movements  @blumenfeldNeuroanatomyClinicalCases2022

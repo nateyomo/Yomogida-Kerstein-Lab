@@ -12,7 +12,7 @@ The temporomandibular joint (TMJ) is a loosely fitting articulation formed betwe
 
 
 - The disc separates the joint into two synovial joint cavities @neumannKinesiologyMusculoskeletalSystem2017.
-    - The inferior joint cavity is between the inferior aspect of the disc and the mandibular condyle.
+    - The inferior joint cavity is between the inferior aspect of the disc and the [mandibular condyle]({{< var ref-mandible-bone.mandibular-condyle >}}) @neumannKinesiologyMusculoskeletalSystem2017.
     - The larger superior joint cavity is between the superior surface of the disc and the segment of bone formed by the mandibular fossa and the articular eminence.
 
 # Biomechanics
@@ -22,7 +22,14 @@ Closing mouth: ant roll, post slide
 
 
 ## Osteokinematics Overview: 
-The primary osteokinematics of the mandible are most often described as protrusion and retrusion, lateral excursion, and depression and elevation (Figs. 11.13 to 11.15). Varying degrees of combined mandibular translation and rotation occur during all primary movements. These combined kinematics optimize the mechanical process of mastication. A thorough description of these kinematics can be found in a textbook by Okeson.
+The primary osteokinematics of the mandible are most often described as protrusion and retrusion, lateral excursion, and depression and elevation @neumannKinesiologyMusculoskeletalSystem2017.
+
+:::{.callout-note title="Combined mandibular translationa and rotation"}
+With all primary movements, there are varying degrees of combined mandibular translation and rotation @neumannKinesiologyMusculoskeletalSystem2017.
+These combined kinematics optimize the mechanical process of mastication.
+:::
+
+textbook by Okeson.
 
 ![TMJ Depression and elevation (fig 11.15 @neumannKinesiologyMusculoskeletalSystem2017)](/The Archive/Anatomy/Joints/images/TMJ depression and elevation fig11.15 neumannKinesiologyMusculoskeletalSystem2017.png)
 ![TMJ Lateral excursion (Figure 11.14 @neumannKinesiologyMusculoskeletalSystem2017)](/The Archive/Anatomy/Joints/images/TMJ lateral excursion fig11.14 neumannKinesiologyMusculoskeletalSystem2017.png)

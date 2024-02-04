@@ -39,6 +39,22 @@ Patient reported outcome measures for TMD:
 
 # Evaluation
 
+Subjective that might differ a TMJ case from a c/s case:
+
+- ADLS (eating, brushing)
+- Surgery healing risk factors (obesity, etc)
+- Why they had the replacement
+- Do they grind?
+- When is the click?
+- Sleep
+
+Key objectives:
+
+- Therabite ROM
+- When the clicking occurs
+- Lateral pterygoid palpate 
+- Palpate other muscles
+- Assessing opening and closing kinematics
 
 
 
@@ -65,7 +81,7 @@ functional/PROM
     - Signs of bruxism
     - Scalloping
 
-# Palpation
+## Palpation
 
 Muscle palpation: Region is usually sensitive, but increased TTP on the involved side is almost always reported by patients with TMD
 
@@ -76,9 +92,25 @@ Muscle palpation: Region is usually sensitive, but increased TTP on the involved
     - Cotton roll test
     - Alignment 
 
+## Postural assessment
+
+- Increased tension on infrahyoids.
+- Depresses & retrudes mandible via suprahyoids.
+- Posteriorly displaced condyle.
+- Compression of retrodiscal tissues.
+- Lateral pterygoid protrudes to prevent compression.
+- Anterior displacement of articular disc
+
+
+Posture stretches infrahyoid muscles, pulling on hyoid, pulling on suprahyoids, mandible drepssed and retrudes.
+Omohyoid is attached to scapula, depressed, downwardly rotated, or protracted scapula can place additional stretch on this muscle🡪 pull mandible.
+
+
 ## Imaging
 
-Can have advanced imaging , US → 33% false positive rates
+Can have advanced imaging
+
+- US → 33% false positive rates
 
 ## Psychosocial assessment
 
@@ -135,6 +167,9 @@ Contributing to TMD symptoms:
 
 C-curve when opening and closing mouth
 
+## Muscular weakness
+
+S-curve when opening and closing
 
 
 
@@ -145,6 +180,15 @@ C-curve when opening and closing mouth
 
 - Cue
     - Placing tongue on roof of mouth: Limits ROM and helps prevent excessive ROM
+
+- Rocabado:
+    - Tongue on roof of mouth +6 deep breaths
+    - Tongue on roof - open and close 6x
+    - Tongue on roof - resisted opening and lateral excursion (2 fingers)
+    - C/s flexion + chin nod (OA flx)
+    - C/S retraction
+    - Scap and t/s posture - retraction + neutral spine
+
     
 
 # Rehabilitation

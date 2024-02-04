@@ -22,6 +22,7 @@ Mandibular nerve exits the skull via the foramen ovale
 ## Mandibular condyle {#mandibular-condyle}
 
 The mandibular condyle is flattened from front to back, with its medial-lateral length twice as long as its anterior-posterior length @neumannKinesiologyMusculoskeletalSystem2017.
+The mandibular condyle and the articular disc form the inferior joint cavity of the TMJ @neumannKinesiologyMusculoskeletalSystem2017.
 
 - Structure
 - The condyle is generally convex
