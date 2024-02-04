@@ -21,6 +21,11 @@ How to measure DTE:
 - Motor cognitive tasks
 - Motor motor tasks
 
+$$
+\textrm{Dual Task Effect (5)} = \frac{}{} 
+$$
+
+
 # Indications
 
 Dual tasking improves:

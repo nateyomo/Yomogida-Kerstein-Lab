@@ -1,0 +1,42 @@
+---
+title: Migraine
+---
+
+
+Migraine is the most common primary headache @blumenfeldNeuroanatomicalBasisConsciousness2016. 
+
+# Epidemiology
+
+- 15% of the population @blumenfeldNeuroanatomyClinicalCases2022
+- Gender: 2:1 female-to-male @blumenfeldNeuroanatomyClinicalCases2022
+
+
+# Pathophysiology
+
+:::{.callout-note}
+Migraine and cluster headaches were previously termed "vascular disorders" but this term is innaccurate since it ignores the electrophysiological, inflammatory, autonomic, serotonergic, and neuroendocrine factors that impact their pathophysiology @blumenfeldNeuroanatomyClinicalCases2022.
+:::
+
+
+# Etiology
+
+- 75% of migraine patients have a family history of migraines, suggesting a genetic component @blumenfeldNeuroanatomyClinicalCases2022.
+
+# Triggering Factors
+
+Migraines can be provoked by:
+
+- Certain foods @blumenfeldNeuroanatomyClinicalCases2022
+- Stress @blumenfeldNeuroanatomyClinicalCases2022
+- Eye strain @blumenfeldNeuroanatomyClinicalCases2022
+- Menstrual cycle @blumenfeldNeuroanatomyClinicalCases2022
+- Changes in sleep pattern @blumenfeldNeuroanatomyClinicalCases2022
+- And more
+
+
+# Clinical presentation
+
+Preceding factors:
+
+- Possibley some of the triggering factors
+- Aura: warning symptoms (visual blurring, shimmering, scintillating distortions, or fortification scotoma) @blumenfeldNeuroanatomyClinicalCases2022

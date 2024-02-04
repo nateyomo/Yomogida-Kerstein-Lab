@@ -1361,6 +1361,13 @@ ref-olfaction:
 ref-vision:
   path: "/The Archive/Neuroscience/Neurophysiology/Special Senses/Vision and eye movement/vision.qmd"
 
+### Attention
+ref-attention:
+  path: "/"
+  selective: "/"
+  sustained: "/"
+  divided: "/"
+  alternating: "/"
 ### Executive Functions
 ref-executive-function:
   path: "/The Archive/Neuroscience/Neurophysiology/Cognition/cognition_overview.qmd#executive-overview"
@@ -1406,6 +1413,24 @@ ref-biopsychosocial-model:
 ## Anesthesia
 ref-cervicocephalic-anesthesia:
   path: "/The Archive/Symptoms/Anesthesia/cervicocephalic_anesthesia.qmd"
+## Ear symptoms
+ref-aural-fullness:
+  path: "/The Archive/Symptoms/Ear symptoms/aural_fullness.qmd"
+ref-hearing-loss:
+  path: "/The Archive/Symptoms/Ear symptoms/hearing_loss.qmd"
+ref-otalgia:
+  path: "/The Archive/Symptoms/Ear symptoms/otalgia.qmd"
+  primary: "/The Archive/Symptoms/Ear symptoms/otalgia.qmd"
+  secondary: "/The Archive/Symptoms/Ear symptoms/otalgia.qmd"
+ref-tinnitus:
+  path: "/The Archive/Symptoms/Ear symptoms/tinnitus.qmd"
+ref-vertigo:
+  path: "/The Archive/Symptoms/Ear symptoms/vertigo.qmd"
+## Headaches
+ref-headache:
+  path: "/The Archive/Symptoms/Headache/headache.qmd"
+ref-migraine:
+  path: "/The Archive/Symptoms/Headache/migraine.qmd"
 
 # Systems
 ref-somatosensory-system:

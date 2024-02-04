@@ -24,7 +24,7 @@ Visual perception refers to the brain’s ability to make sense of what the eyes
 Common visual impairments that can be mistaken for visual perceptual deficiencies:
 
 - Blindness in one eye
-- Bitemporal hemianopia (tunnel vision)
+- Bitemporal hemianopia
 - Homonymous hemianopia
 - Quadrantanopia
 - Homonymous hemianopia

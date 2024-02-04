@@ -125,6 +125,15 @@ Speech, lip biting/nail biking, mouth breathing, tongue/jaw thrust
 
 ADDwR or ADDwoR - ant disc displacement w reduction or without 
 
+## Ear symptoms
+
+- [Aural Fullness (clogged ear sensation)]({{< var ref-aural-fullness.path >}}) (74.8%) – ear clog
+- [Secondary Otalgia]({{< var ref-otalgia.secondary >}}) (55%)
+- [Tinnitus]({{< var ref-tinnitus.path >}}) (52%)
+- [Vertigo]({{< var ref-vertigo.path >}}) (40%)
+- [Hearing loss]({{< var ref-hearing-loss.path >}}) (38%)
+
+
 # Pathologies and Pathokinematics
 
 Pathokinematics and mvmt classifications:
