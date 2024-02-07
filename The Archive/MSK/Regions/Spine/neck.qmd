@@ -41,3 +41,65 @@ title: Musculoskeletal Mechanics of the head region
 : {.striped .hover}
 
 
+# Joints
+
+
+## OA Joint
+
+[Occipitoatlanto joint]({{< var ref-occipitoatlanto-joint.path >}})
+
+OA joint
+Hypermobility is considered a diagnosis
+If range of rotation exceeds 8 degrees → stability testing necessary
+
+
+## AA Joint
+
+[Atlantoaxial joint]({{< var ref-atlantoaxial-joint.path >}})
+
+Pure axial rotation
+60% of total rotation in CS is here
+
+
+
+# Kinematics
+
+## Flexion
+
+Greatest at lower C/S (C5-C6)
+
+Least flexion at C2,3
+
+
+## Extension
+
+
+
+## Rotation
+
+AA Joint performs pure axialrotation
+
+Rotation and SB are [coupled motions](#coupled-motion)
+
+
+## Lateral flexion (SB)
+Rotation and SB [coupled motions](#coupled-motion)
+
+
+
+## Coupled motion {#coupled-motion}
+
+Upper c spine: Sb and rotation — type 1 motion, OPPOSITE MOTION
+Regardless of posture
+Mid cervical: c3-c7
+Same direction
+More type 1 motion: Changes in couple patterns 
+
+
+:::{.callout-tip title="Clinical signifiance"}
+
+- If c spine motion is limited w sb and rotation to same side
+- 0 mid/lower c facet is suspected (restriction) 
+- Assess A/PROM
+- Soft tissue
+:::

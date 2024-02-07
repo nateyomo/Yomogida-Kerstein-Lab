@@ -3,20 +3,43 @@ title: Validity
 subtitle: Accuracy of a measure
 ---
 
+"In order to improve validity, attempts must be made primarily to remove systematic error, or bias" @simMeasurementValidityPhysical1993
 
+| Validity | Reliability |
+|-|-|
+| Deals with the accuracy ofinferences made from measurements @simMeasurementValidityPhysical1993 | Deals with the reproducibility of measurements themselves @simMeasurementValidityPhysical1993 |
+|Concerns the relationship between the measurement and the entity being measured @simMeasurementValidityPhysical1993 | Is a property ofthe measurement (and the person performing it) |
+| Requires independent knowledge ofthe "true" value of the entity being measured @simMeasurementValidityPhysical1993 | Is not dependent on the "true" value ofthe entity being measured @simMeasurementValidityPhysical1993 |
+| Presupposes a certain degree of reliability @simMeasurementValidityPhysical1993 | Does not presuppose validity @simMeasurementValidityPhysical1993 |
+| Is undermined by [systematic error]({{< var ref-error.systematic >}}) @simMeasurementValidityPhysical1993 | Is undermined by [random error]({{< var ref-error.random >}}) @simMeasurementValidityPhysical1993 |
+| Liable, if lacking, to distort or bias relationships among variables @simMeasurementValidityPhysical1993 | Liable, if lacking, to obscure relationships among variables @simMeasurementValidityPhysical1993 |
+: Validity vs Reliability @simMeasurementValidityPhysical1993 {.striped .hover}
 
 
 # Types of Validity
+
+There are 2 broad types of validity: External and Internal validity @simMeasurementValidityPhysical1993
+
+| Internal Validity | External Validity |
+|-|-|
+
+There are 4 main types of validity: 
+
+- Face Validity
+- Criterior-related Validity: 
+    - Concurrent Validity
+    - Predictive validity
+    - Prescriptive validity
+- Content validity
+- Construct validity
+
 
 - Construct validity
 - Known Groups
 - Convergent
 - Discriminant (Divergent)
-- Content Validity
-- Face Validity
-- Criterion Validity
-- Concurrent Validity
-- Predictive validity
+
+
 
 
 # Construct Validity
@@ -36,3 +59,32 @@ Measure the correlation (str of association) between the new measure with existi
 # Predictive Validity
 
 Predictive validity: Predictive validity is the degree to which test scores accurately predict scores on a criterion measure
+
+# External validity
+
+External validity refers to how successfuly one can apply the results of a study on a sample can be generalized to a particular population @simMeasurementValidityPhysical1993
+
+# Internal Validity
+
+Internal validity refers to the possibility taht the the conclusions drawn from the results of the study accurately reflect the experiment itself @simMeasurementValidityPhysical1993.
+Internal validity determines whether the study was setup in a way that will accurately answer the initial question without influence of other variables.
+
+:::{.callout title="What is a study with internal validity?"}
+"If a study is internally valid, this means that any effects/changes or lack thereof in the dependent variable can be directly attributed to the manipulation of the independent variable" -Polgar & Thomas @simMeasurementValidityPhysical1993.
+:::
+
+# Face Validity
+
+- Face validity refers to the extent to which a test or measure appears to measure what it purports to measure @simMeasurementValidityPhysical1993.
+- Thus, it is "really based on the personal opinions of those either taking or giving a test." @simMeasurementValidityPhysical1993
+- Indeed, the importance of face validity relates most significantly to the perceptions of research subjects @simMeasurementValidityPhysical1993
+
+:::{.callout-note}
+Face validity is often identified with content validity since is less applicable to formal scientific testing @simMeasurementValidityPhysical1993.
+:::
+
+
+
+# Types of validity to organize
+
+Measurement validity relates to the extent to which an insvumerlt measures what it is intended to measure and can refer equally to nominal, ordinal, interval, or ratio levels of measurement.

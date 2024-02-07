@@ -53,3 +53,9 @@ striatum: Caudate Nucleus + Putamen
 - Result = Measured and coordinated motor output
 
 
+
+# Dysfunction
+
+:::{.callout-note title="DPT 836"}
+Lesions result in difficulty initiating, continuing, or stopping movement
+:::

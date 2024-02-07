@@ -1,3 +1,10 @@
 ---
 title: CNX Vagus Nerve
 ---
+
+
+
+
+# Interventions
+
+[Vagal Nerve stimulation]({{< var ref-vagal-nerve-stimulation >}}) (non-invasive)

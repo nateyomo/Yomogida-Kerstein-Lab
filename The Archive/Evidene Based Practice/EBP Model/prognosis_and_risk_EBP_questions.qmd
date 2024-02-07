@@ -17,11 +17,14 @@ Use the term “cohort or prospective cohort
 # PICOS Question
 
 | | Definition |
+|-|-|
 | P | |
-| I | |
-| C | |
+| I | Indicator: What initial measure you are using to determine prognosis |
+| C | Comparative controls |
 | O | |
 | S | |
-:{.hover .striped}
+:PICOS Framework @saaiqModifyingPicoQuestion2017 {.hover .striped}
 
 Population: Prognosis depends on population so P would be rotator cuff injury not female athlete
+
+# Main prognosis question

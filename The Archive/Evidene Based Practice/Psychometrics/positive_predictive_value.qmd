@@ -1,0 +1,6 @@
+---
+title: Positive Predictive Value (PPV)
+---
+
+If the test is positive (abnormal test result, suggesting the presence of disease), what is the chance that the patient really has the disease? @motulskyIntuitiveBiostatisticsNonmathematical2018
+

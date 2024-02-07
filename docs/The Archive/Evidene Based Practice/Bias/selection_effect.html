@@ -1,17 +1,13 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
-<head>
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.3.450">
 
-<meta charset="utf-8" />
-<meta name="generator" content="quarto-1.4.536" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
 
-<meta name="author" content="Nathaniel Giovanni Yomogida, SPT" />
-<meta name="author" content="Chloë Anne Kerstein, SPT" />
-
-<title>YK Lab – Inter-Rater Agreement (IRA)</title>
+<title>YK Lab - Selection Effects</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -24,41 +20,34 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for citations */
-div.csl-bib-body { }
-div.csl-entry {
-  clear: both;
-}
-.hanging-indent div.csl-entry {
-  margin-left:2em;
-  text-indent:-2em;
-}
-div.csl-left-margin {
-  min-width:2em;
-  float:left;
-}
-div.csl-right-inline {
-  margin-left:2em;
-  padding-left:1em;
-}
-div.csl-indent {
-  margin-left: 2em;
-}</style>
+</style>
 
-<!-- htmldependencies:E3FAD763 -->
+
+<script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../">
+<script src="../../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 50,
-  "keyboard-shortcut": [
-    "f",
-    "/",
-    "s"
-  ],
-  "show-item-context": false,
+  "limit": 20,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -67,7 +56,6 @@ div.csl-indent {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
-    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -75,53 +63,51 @@ div.csl-indent {
 }</script>
 
 
-<link rel="stylesheet" href="../../../styles.css" />
+<link rel="stylesheet" href="../../../styles.css">
 </head>
 
-<body>
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="/index.html">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="../../../index.html">
     <span class="navbar-title">YK Lab</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
-  aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation"
-  onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="/index.html"> 
-<span class="menu-text">Home</span></a>
+    <a class="nav-link" href="../../../index.html" rel="" target="">
+ <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="/about.html"> 
-<span class="menu-text">About</span></a>
+    <a class="nav-link" href="../../../about.html" rel="" target="">
+ <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="/The Archive/archive_index.html"> 
-<span class="menu-text">Archive</span></a>
+    <a class="nav-link" href="../../../The Archive/archive_index.html" rel="" target="">
+ <span class="menu-text">Archive</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="/guide.html"> 
-<span class="menu-text">Guide</span></a>
+    <a class="nav-link" href="../../../guide.html" rel="" target="">
+ <span class="menu-text">Guide</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="/journal club index.html"> 
-<span class="menu-text">Journal Club</span></a>
+    <a class="nav-link" href="../../../journal club index.html" rel="" target="">
+ <span class="menu-text">Journal Club</span></a>
   </li>  
 </ul>
-          </div> <!-- /navcollapse -->
-          <div class="quarto-navbar-tools">
+            <div class="quarto-navbar-tools ms-auto">
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
+          </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -130,14 +116,21 @@ div.csl-indent {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <div id="quarto-toc-target"></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Contents</h2>
+   
+  <ul>
+  <li><a href="#assessment" id="toc-assessment" class="nav-link active" data-scroll-target="#assessment"><span class="header-section-number">1</span> Assessment</a></li>
+  <li><a href="#prevention-minimize" id="toc-prevention-minimize" class="nav-link" data-scroll-target="#prevention-minimize"><span class="header-section-number">2</span> Prevention / Minimize</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Inter-Rater Agreement (IRA)</h1>
+<h1 class="title">Selection Effects</h1>
 </div>
 
 
@@ -157,53 +150,36 @@ div.csl-indent {
   </div>
   
 
-
 </header>
 
-<nav id="TOC" role="doc-toc">
-    <h2 id="toc-title">Contents</h2>
-   
-  <ul>
-  <li><a href="#IRA" id="toc-IRA"><span class="header-section-number">1</span> Inter-rater Agreement (IRA)</a></li>
-  </ul>
-</nav>
-<section id="IRA" class="level2" data-number="1">
-<h2 data-number="1"><span class="header-section-number">1</span> Inter-rater Agreement (IRA)</h2>
-<ul>
-<li>Agreement is defined as the degree to which scores/ratings are identical</li>
-<li>IRA indices, therefore, relate to the extent to which different raters assign the same precise value for each<span class="citation" data-cites="gisevInterraterAgreementInterrater2013"><sup><a href="#ref-gisevInterraterAgreementInterrater2013" role="doc-biblioref">1</a></sup></span></li>
-</ul>
-<div class="callout callout-style-simple callout-none no-icon callout-titled" title="Tests of inter-rater agreement">
+<p>Selection effects refer to when a study uses non-equivalent experimental and control groups, who respond differently to the intervention due to their preexisting characteristics.</p>
+<p>Selection effects often cause researchers to believe that the intervention had an effect, whereas the difference is due to differences between the groups themselves.</p>
+<div class="callout callout-style-simple callout-none no-icon callout-titled" title="Example">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
-<i class='callout-icon no-icon'></i>
+<i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Tests of inter-rater agreement
+Example
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<ul>
-<li>Strictly IRA measures: Bland-Altman plots<span class="citation" data-cites="gisevInterraterAgreementInterrater2013"><sup><a href="#ref-gisevInterraterAgreementInterrater2013" role="doc-biblioref">1</a></sup></span></li>
-<li>others have been used in the literature as measures of both IRA and IRR (eg, Cohen’s kappa)<span class="citation" data-cites="gisevInterraterAgreementInterrater2013"><sup><a href="#ref-gisevInterraterAgreementInterrater2013" role="doc-biblioref">1</a></sup></span></li>
-</ul>
+<p>Patients in treatment group significantly younger than control group. Younger adults have better prognosis at baseline indepenent of tx that they receive</p>
 </div>
 </div>
-<div id="quarto-navigation-envelope" class="hidden">
-<p><span class="hidden" data-render-id="quarto-int-sidebar-title">YK Lab</span> <span class="hidden" data-render-id="quarto-int-navbar-title">YK Lab</span> <span class="hidden" data-render-id="quarto-int-navbar:Home">Home</span> <span class="hidden" data-render-id="quarto-int-navbar:/index.html">/index.html</span> <span class="hidden" data-render-id="quarto-int-navbar:About">About</span> <span class="hidden" data-render-id="quarto-int-navbar:/about.html">/about.html</span> <span class="hidden" data-render-id="quarto-int-navbar:Archive">Archive</span> <span class="hidden" data-render-id="quarto-int-navbar:/The Archive/archive_index.html">/The Archive/archive_index.html</span> <span class="hidden" data-render-id="quarto-int-navbar:Guide">Guide</span> <span class="hidden" data-render-id="quarto-int-navbar:/guide.html">/guide.html</span> <span class="hidden" data-render-id="quarto-int-navbar:Journal Club">Journal Club</span> <span class="hidden" data-render-id="quarto-int-navbar:/journal club index.html">/journal club index.html</span></p>
-</div>
-<div id="quarto-meta-markdown" class="hidden">
-<p><span class="hidden" data-render-id="quarto-metatitle">YK Lab - Inter-Rater Agreement (IRA)</span> <span class="hidden" data-render-id="quarto-twittercardtitle">YK Lab - Inter-Rater Agreement (IRA)</span> <span class="hidden" data-render-id="quarto-ogcardtitle">YK Lab - Inter-Rater Agreement (IRA)</span> <span class="hidden" data-render-id="quarto-metasitename">YK Lab</span> <span class="hidden" data-render-id="quarto-twittercarddesc"></span> <span class="hidden" data-render-id="quarto-ogcardddesc"></span></p>
-</div>
-<div id="refs" class="references csl-bib-body" role="list">
-<div id="ref-gisevInterraterAgreementInterrater2013" class="csl-entry" role="listitem">
-<div class="csl-left-margin">1. </div><div class="csl-right-inline">Gisev N, Bell JS, Chen TF. Interrater agreement and interrater reliability: Key concepts, approaches, and applications. <em>Research in social &amp; administrative pharmacy: RSAP</em>. 2013;9(3):330-338. doi:<a href="https://doi.org/10.1016/j.sapharm.2012.04.004">10.1016/j.sapharm.2012.04.004</a></div>
-</div>
-</div>
+<section id="assessment" class="level1" data-number="1">
+<h1 data-number="1"><span class="header-section-number">1</span> Assessment</h1>
+<p>It is important to determine if pt groups have similar demographics or clinical characteristics at baseline. When evaluating selection effects you can usually find them on group differences at baseline on table demographics (usually table 1). If selection effects are present to determine the potential impact of these differences on pt outcomes when interpreting study results.</p>
+</section>
+<section id="prevention-minimize" class="level1" data-number="2">
+<h1 data-number="2"><span class="header-section-number">2</span> Prevention / Minimize</h1>
+<p>Researchers an minimize selectione effects by randomly assigning pts to a treatment or a control group so that any preexisting characteristics that may impact treatment outcomes will be equally distributed between groups. Although this doesnt perfeclty prevent selection effects, it is more likely that groups will be equivalent as sample size increases.</p>
+
+
 </section>
 
 </main> <!-- /main -->
-<script id = "quarto-html-after-body" type="application/javascript">
+<script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
     const mode = bsSheetEl.getAttribute("data-mode");
@@ -244,33 +220,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       } else {
         el.classList.add('notransition');
       }
-    }
-  }
-  const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
-    const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
-    const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
-    let newTheme = '';
-    if(darkModeDefault) {
-      newTheme = isAlternate ? baseTheme : alternateTheme;
-    } else {
-      newTheme = isAlternate ? alternateTheme : baseTheme;
-    }
-    const changeGiscusTheme = () => {
-      // From: https://github.com/giscus/giscus/issues/336
-      const sendMessage = (message) => {
-        const iframe = document.querySelector('iframe.giscus-frame');
-        if (!iframe) return;
-        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
-      }
-      sendMessage({
-        setConfig: {
-          theme: newTheme
-        }
-      });
-    }
-    const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
-    if (isGiscussLoaded) {
-      changeGiscusTheme();
     }
   }
   const toggleColorMode = (alternate) => {
@@ -339,15 +288,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return localAlternateSentinel;
     }
   }
-  const darkModeDefault = false;
-  let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+  let localAlternateSentinel = 'default';
   // Dark / light mode switch
   window.quartoToggleColorScheme = () => {
     // Read the current dark / light value 
     let toAlternate = !hasAlternateSentinel();
     toggleColorMode(toAlternate);
     setStyleSentinel(toAlternate);
-    toggleGiscusIfUsed(toAlternate, darkModeDefault);
   };
   // Ensure there is a toggle, if there isn't float one in the top right
   if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
@@ -426,9 +373,10 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+  function tippyHover(el, contentFn) {
     const config = {
       allowHTML: true,
+      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -438,17 +386,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start',
+      placement: 'bottom-start'
     };
-    if (contentFn) {
-      config.content = contentFn;
-    }
-    if (onTriggerFn) {
-      config.onTrigger = onTriggerFn;
-    }
-    if (onUntriggerFn) {
-      config.onUntrigger = onUntriggerFn;
-    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -461,120 +400,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
       return note.innerHTML;
-    });
-  }
-  const xrefs = window.document.querySelectorAll('a.quarto-xref');
-  const processXRef = (id, note) => {
-    // Strip column container classes
-    const stripColumnClz = (el) => {
-      el.classList.remove("page-full", "page-columns");
-      if (el.children) {
-        for (const child of el.children) {
-          stripColumnClz(child);
-        }
-      }
-    }
-    stripColumnClz(note)
-    if (id === null || id.startsWith('sec-')) {
-      // Special case sections, only their first couple elements
-      const container = document.createElement("div");
-      if (note.children && note.children.length > 2) {
-        container.appendChild(note.children[0].cloneNode(true));
-        for (let i = 1; i < note.children.length; i++) {
-          const child = note.children[i];
-          if (child.tagName === "P" && child.innerText === "") {
-            continue;
-          } else {
-            container.appendChild(child.cloneNode(true));
-            break;
-          }
-        }
-        if (window.Quarto?.typesetMath) {
-          window.Quarto.typesetMath(container);
-        }
-        return container.innerHTML
-      } else {
-        if (window.Quarto?.typesetMath) {
-          window.Quarto.typesetMath(note);
-        }
-        return note.innerHTML;
-      }
-    } else {
-      // Remove any anchor links if they are present
-      const anchorLink = note.querySelector('a.anchorjs-link');
-      if (anchorLink) {
-        anchorLink.remove();
-      }
-      if (window.Quarto?.typesetMath) {
-        window.Quarto.typesetMath(note);
-      }
-      return note.innerHTML;
-    }
-  }
-  for (var i=0; i<xrefs.length; i++) {
-    const xref = xrefs[i];
-    tippyHover(xref, undefined, function(instance) {
-      instance.disable();
-      let url = xref.getAttribute('href');
-      let hash = undefined; 
-      if (url.startsWith('#')) {
-        hash = url;
-      } else {
-        try { hash = new URL(url).hash; } catch {}
-      }
-      if (hash) {
-        const id = hash.replace(/^#\/?/, "");
-        const note = window.document.getElementById(id);
-        if (note !== null) {
-          try {
-            const html = processXRef(id, note.cloneNode(true));
-            instance.setContent(html);
-          } finally {
-            instance.enable();
-            instance.show();
-          }
-        } else {
-          // See if we can fetch this
-          fetch(url.split('#')[0])
-          .then(res => res.text())
-          .then(html => {
-            const parser = new DOMParser();
-            const htmlDoc = parser.parseFromString(html, "text/html");
-            const note = htmlDoc.getElementById(id);
-            if (note !== null) {
-              const html = processXRef(id, note);
-              instance.setContent(html);
-            } 
-          }).finally(() => {
-            instance.enable();
-            instance.show();
-          });
-        }
-      } else {
-        // See if we can fetch a full url (with no hash to target)
-        // This is a special case and we should probably do some content thinning / targeting
-        fetch(url)
-        .then(res => res.text())
-        .then(html => {
-          const parser = new DOMParser();
-          const htmlDoc = parser.parseFromString(html, "text/html");
-          const note = htmlDoc.querySelector('main.content');
-          if (note !== null) {
-            // This should only happen for chapter cross references
-            // (since there is no id in the URL)
-            // remove the first header
-            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
-              note.children[0].remove();
-            }
-            const html = processXRef(null, note);
-            instance.setContent(html);
-          } 
-        }).finally(() => {
-          instance.enable();
-          instance.show();
-        });
-      }
-    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -618,7 +443,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
-            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -644,32 +468,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
-        // Handle positioning of the toggle
-    window.addEventListener(
-      "resize",
-      throttle(() => {
-        elRect = undefined;
-        if (selectedAnnoteEl) {
-          selectCodeLines(selectedAnnoteEl);
-        }
-      }, 10)
-    );
-    function throttle(fn, ms) {
-    let throttle = false;
-    let timer;
-      return (...args) => {
-        if(!throttle) { // first call gets through
-            fn.apply(this, args);
-            throttle = true;
-        } else { // all the others get throttled
-            if(timer) clearTimeout(timer); // cancel #2
-            timer = setTimeout(() => {
-              fn.apply(this, args);
-              timer = throttle = false;
-            }, ms);
-        }
-      };
-    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -731,6 +529,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 </div> <!-- /content -->
 
-</body>
 
-</html>
+
+</body></html>

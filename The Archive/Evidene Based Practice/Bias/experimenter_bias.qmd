@@ -1,0 +1,22 @@
+---
+title: Experimenter Bias
+---
+
+Experimenter bias can occur if the investigator is not blinded to which group the patient is in, which creates a higher chance that they may consciously or unconsciously influence the patient response during testing.
+
+Experimenter bias can occur for tests involving:
+
+- Particularly concerning for outcome measure that involve
+- Subjective judgments by the examiner
+- Unstandardized physical performance tests where the investigator can provide more/less instruction or encouragement to change performance
+- Surveys given to patients with someone with whom they’ve developed a relationship during treatment
+
+:::{.callout title="Example"}
+Same examiner who provided experimental and control treatments also assesses ROM before and after intervention could consciously or subconsciously provide more overpressure.
+
+:::
+
+
+# Prevention
+
+Blinding: In general more people who are blinded, the more confident you can be in the results

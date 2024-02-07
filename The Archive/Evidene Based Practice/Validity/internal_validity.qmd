@@ -1,0 +1,25 @@
+---
+title: Internal Validity
+---
+
+
+
+
+# Threats to Internal Validity
+
+- [Selection bias / selection effects]({{< var ref-study-effect.selection >}})
+- Testing Effects
+- Attrition Effects
+- Maturation Bias
+- Ambiguous Causation
+- History Effects
+- Regression of the Mean
+
+
+
+
+
+
+
+
+

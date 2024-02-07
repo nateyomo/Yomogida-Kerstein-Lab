@@ -52,7 +52,7 @@ Darrah et al 1998, tested motor skills of 45 infants every month from 2 weeks to
 
 - Motor ability:
     - Gross motor- Flexion dominates posture, random movements with little control, reflexive movement
-    - Fine motor- hands generally fisted (indwelling or indwelling thumb → does not make a difference) 
+    - Fine motor- hands generally fisted (indwelling or outdwelling thumb → does not make a difference) 
     - Their muscle tone is springy
 - Feeding: every 2-4 hours, breast or bottle feeding only
 - Cognitive ability:
@@ -65,7 +65,9 @@ Darrah et al 1998, tested motor skills of 45 infants every month from 2 weeks to
 Tests:
 
 - They will recoil back to flexion position if stretched out → if they don't , can be a problem 
-NO vertebral discs , some ossification, lots of cartilage in babies
+- NO vertebral discs
+- some ossification
+- lots of cartilage in babies
 
 ## Month 1
 
@@ -76,9 +78,9 @@ NO vertebral discs , some ossification, lots of cartilage in babies
     - Start to move out of physiological flexion 
 - Feeding: begins to anticipate feeding
 - Cognition: 
-    - Tracking smoother
-    - Eye more accurate than hand
-    - More visual tracking, checking things out
+    - Eye tracking is smoother
+    - Eye is more accurate than hand
+    - More visual tracking: They are checking things out
     - Can start to swipe at things
 - WB:
     - Weight bearing more at trunk (moves cephalocaudal) 
@@ -89,10 +91,10 @@ NO vertebral discs , some ossification, lots of cartilage in babies
     - Gross motor: brief head control, more variable extremity mvmt
     - Fine motor: beginning to swipe at toys, hands more open
 - Feeding: cont. breast/bottle feeding
-- Phonation - begins cooing
-- Cognition - may track 180 degrees, more attempts to explore world 
-
-
+- Phonation: begins cooing
+- Cognition:
+    - May track 180$^\circ$
+    - More attempts to explore world 
 
 Assessment
 
@@ -100,47 +102,49 @@ Assessment
 - This age- start to see some asymmetries: 
     - Can swat at one thing not other side
     - head turned more to one side
-    - may or may not be indicate of an issue, just watch it 
+    - may or may not be indicative of an issue --> just watch it 
 
 ## Month 3
 
 - Motor
-    - Gross motor- symmetry and midline orientation, head steadier
-    - Movement happens from midline out (prox to distal)
-    - Starting to also see hands coming together at midline
-    - Lots of hands to the mouth
-    - Fine motor: swipes at object, gross grasp
+    - Gross motor: symmetry and midline orientation, head steadier
+        - Movement happens from midline out (prox to distal)
+        - Starting to also see hands coming together at midline
+        - Lots of hands to the mouth
+    - Fine motor: 
+        - Swipes at object
+        - Gross grasp
     - Oral motor: strong hand to mouth
 - Functions
     - Phonation: more variety of sound
 - Cognition
-    - Consistently tracking 180 degrees
-    - Exploring world w hands
+    - Consistently tracking 180$^\circ$
+    - Exploring world with their hands
 - WB: 
     - Head comes off of surface
-    - Head ext 45-90 degrees in prone, more post chain activation
+    - Head ext 45-90$^\circ$ in prone (more post chain activation)
 
 Assessment
 
-- If there's a chance of visual problems (ie result of prematurity → retinopathy) need to pay attention to that – if not developing as it should, will affect their development 
+- If there's a chance of visual problems (ie result of prematurity → retinopathy) need to pay attention to that
+    - if not developing as it should, will affect their development 
 - Pseudoneglect: If always turning head to one side, could develop pseudo neglect 
     - Introduce their other side to these types of children 
-
 
 ## Month 4
 
 Motor
 
 - Gross motor
-    - Controlled, purposeful mvmts
+    - Controlled, purposeful movement
     - May not WB in standing
-- Fine motor: accurate reaching B/L
+- Fine motor: Symmetrical and accurate reaching
 
 Functions
 
-- Feeding - may begin solids from spoon
+- Feeding: May begin eating solids from spoon
     - Some babies eat solid foods → variable on parents
-    - Is your baby able to sit up, maintain head control, are they able to be in a safe position, can they get enough chin tuck to safely swallow foods
+    
     - Can help Rolling up kitchen towels to provide positioning assistance w feeding
 - Phonation - may start babbling (when strong enough torso/core strength ) 
 
@@ -148,6 +152,10 @@ Cognition
 
 - [Object permanence]({{< var ref-object-permanence.path >}}) develops
 - Improved visual control 
+
+Assessment: 
+
+Is the baby safe to eat solids?: Is your baby able to sit up, maintain head control, are they able to be in a safe position, can they get enough chin tuck to safely swallow foods
 
 ## Month 5
 
@@ -243,7 +251,12 @@ Cognition
 - Goal directed play
 - Container play
 - Follow simple commands
-    - ie: give me block  → checks simple commands
+    - ie: give me block
+    
+
+Assessment
+
+- Assess simple command comprehension
     - May need to add a visual prompt w hand to help understand 
 
 ## Month 11
@@ -257,7 +270,7 @@ Assessment
 -  If we are not seeing some of these things, go back and give child more support
 - Give them some lateral trunk support, change angle of pelvis, give a more stable base so they can now do distal mobility (prox stability →leads to distal mobility) 
 
-# Month 12
+## Month 12
 
 Motor
 
@@ -266,7 +279,9 @@ Fine motor: superior or fine pincer grasp, more manipulation of objects
 
 Function
 
-- Feeding: drinks from cup but still spills, lip closure with spoon feeding
+- Feeding: 
+    - Drinks from cup but still spills
+    - Lip closure with spoon feeding
 - Phonation: beginning to approximate words/jargons
 
 Cognition
@@ -275,8 +290,3 @@ Cognition
     - One step directions only (can follow a one step command)
         - "Bring me the ball"
         - "Go get shoes"
-- Depends on child’s mobility
-
-
-
-

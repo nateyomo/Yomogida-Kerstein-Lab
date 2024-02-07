@@ -13,6 +13,9 @@ Goal < 50 abstracts with a search
 - Too many results: add pico terms, more specific pico terms, use filters
 - Too few results: remove one or more PICO terms, use less specific PICO terms, search MeSH terms, search for related populations, interventions, outcomes that can be generalized, search alternative databases
 
+
+
+
 ## What is a productive Search
 
 
@@ -27,6 +30,17 @@ Goal < 50 abstracts with a search
     - Population (external validity)
     - Intervention/Indicators and Outcomes (construct/external validity)
 
+## Limit a search
+
+- Article Type 
+    - Interventions: (meta‐analysis, systematic review, randomized controlled trial, clinical trial)
+    - Diagnosis:
+    - Prognosis: cohort, prospective cohort, etc?
+- Species: Humans > animal studies
+- Publication Date: Not recommended unless there are significant medical advances
+- Language: English
+- Sex: Not recommended
+- Age: Not recommended
 
 # Pubmed search guide
 
@@ -73,3 +87,40 @@ Using the "NOT" Function:
     - PubMed will search for MeSH term and all relevant subheadings within that term
     - Useful to avoid missing relevant articles when there are many synonyms for your search term 
 
+## Pubmed Clinical Queries
+
+
+- Filter: Preset filters and search terms that automatically limit your search to relevant studies for questions about:
+    - Etiology
+    - Diagnosis
+    - Prognosis
+    - Therapy
+    - Clinical prediction rules
+- Enter PICO search terms as you normally would, then select type of question 
+- Scope:  
+    - Broad search = more articles to choose from but some not relevant to question
+    - Being with the "broad" option then move to "narrow" if there are too many articles
+- Can use for interventions, prognosis, outcomes! 
+
+:::{.callout-note title="How to find Clinical Queries in Pubmed"}
+
+1. [Pubmed](https://pubmed.ncbi.nlm.nih.gov/)
+1. Find → Clinical queries
+1. Put in picos terms
+1. Choose filter
+1. Choose scope
+
+:::
+
+# Scanning Articles
+
+Begin by scanning article titles and abstracts to find a good match.
+Key items to look for:
+
+- Good match between your clinical question and the study design (S - external validity)
+- Compare your patient to the study population (P - internal validity)
+- Intervention/indicator/ and outcomes you want to use for your patient compared to those used in the study (I/O - construct validity)
+
+:::{.callout-warning}
+Studies should NOT be selected based on whether they report the results you expect or hope for (e.g., positive treatment effects, valid measure, etc.) as this will bias your search.
+:::

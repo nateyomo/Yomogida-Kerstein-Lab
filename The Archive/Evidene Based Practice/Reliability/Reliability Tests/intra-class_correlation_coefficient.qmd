@@ -135,7 +135,7 @@ $$
 Alternative equation from @gisevInterraterAgreementInterrater2013
 
 $$
-\textrm{ICC} = \frac{\sigma_s^2}{\sigma_s^2 + \sigma_e^2} = \frac{(Between subject variance)}{(Between subject variance) + (Within subject Variance)}
+\textrm{ICC} = \frac{\sigma_s^2}{\sigma_s^2 + \sigma_e^2} = \frac{(\textrm{Between subject variance})}{(\textrm{Between subject variance}) + (\textrm{Within subject Variance})}
 $$
 
 :::{.callout-note}

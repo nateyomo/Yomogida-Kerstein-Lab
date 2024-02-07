@@ -12,39 +12,51 @@ It should be noted that none of these theories are correct.
 # Neuromaturational Theory
 
 - Development follows a set, invariant sequence @effgenMeetingPhysicalTherapy2021.
-- Development is tightly tied to central nervous system development @effgenMeetingPhysicalTherapy2021.
+- Development is tightly tied to CNS development @effgenMeetingPhysicalTherapy2021.
 - Motor development is cephalocaudal and proximal to distal @effgenMeetingPhysicalTherapy2021.
 - Recent modifications acknowledge variations in the sequence and input from all systems @effgenMeetingPhysicalTherapy2021.
 
 McGraw & Gesell were the main proponents of the original theory, which consisted of a step type sequence of development and intervention, Not totally linear, but more or less linear
 
-There is a Newer version of theory; can you adapt /change pattern 
-CNS maturation drives development
-Normal sequence / hierarchy of skill development
-Classic developmental scales based on this work
-Importance of developmental reflexes and stepwise sequence of development in intervention
+Newer version: Can you adapt /change pattern?
+
+- CNS maturation drives development
+- Normal sequence / hierarchy of skill development
+- Classic developmental scales based on this work
+- Importance of developmental reflexes and stepwise sequence of development in intervention
 
 
-Gessell
-She says: As you start to master one skill, and u introduce the other skill, u may see a regression is previous skill or new skill wont look perfect
-Development happens in a proximal to distal sequence, motor skills develop gross to fine
-Development is dynamic and characterized by alternating advancement and regression
-Crawling: initial symmetrical arm pattern, then alternates UE
+Clinical significance: Alternating progression and Regression
+
+
+- As you start to master one skill, and you introduce the other skill, you may see a regression is previous skill or new skill wont look perfect.
+- Development happens in a proximal to distal sequence, motor skills develop gross to fine
+- Development is dynamic and characterized by alternating advancement and regression
+
+
+
+:::{.callout title="Crawling Example"}
+Child beings to crawl using a symmetrical arm pattern. As they develop, the progress to an alternating UE pattern.
+:::
+
 Regression to earlier patterns as more mature version occurs 
 
 
 # Cognitive Theory {#cognitive-theory}
 
-•Thinkingdevelopsinstagesofincreasingcomplexity. • Children organize mental schemes through the use of mental operations @effgenMeetingPhysicalTherapy2013.
+In the cognitive theory, thinking develops in stages of increasing complexity @effgenMeetingPhysicalTherapy2021.
+Children organize mental schemes through the use of mental operations @effgenMeetingPhysicalTherapy2021.
 
-Piaget: cognitive development theory
+Piaget formulated the Cognitive development theory, which proposese that the child’s active involvement in environment (not just neuromaturation) critical to infant development.
 
-- 4 stages of cognitive development (inc complexity)
-    - Sensorimotor stage (0-2 years): reflex activity leads to purposeful mvmt
-    - Pre operational stage (2-7) : unidimensional awareness of environment
-    - Concrete operational stage (7-11) less egocentric, solve concrete probs
-    - Formal operational stage (11+): solve abstract probs, deductive reasoning
-    - Child’s active involvement in environment (not just neuromaturation) critical to infant development
+| Stage | Age | Action |
+|-|-|-|
+| Sensorimotor | 0-2 | Reflex activity leads to purposeful movement |
+| Pre-operational | 2-7 | Unidimensional awareness of environment |
+| Concrete operational | 7-11 | Less egocentric, solve concrete probs |
+| Formal operational | 11+ | Solve abstract probs, deductive reasoning |
+: 4 stages of Cognitive Development {.striped .hover}
+
 - Scaffolding: parents/therapists provide environmental challenge that encourages a child to perform higher level skill
 - Some EC programs based on this
     - Montessori: uses cognitive and developmental theories

@@ -8,11 +8,13 @@ title: Perceptual Deficits
 ## Unilateral neglect
 
 :::{.callout title="Example"}
-ie) eating from right side of plate, drawing right side of clock
+
+- Eating from right side of plate
+- Drawing right side of clock
 :::
 
 ## Anosognosia
-Pt unaware of condition
+[Anosognosia]({{< var ref-perceptual-deficits.anosognosia >}}): Neuropathological unawareness of a condition or impairment
 
 ## Somatoagnosia
 Pt feels parts of body have disappeared or pt has lack of awareness of part of body

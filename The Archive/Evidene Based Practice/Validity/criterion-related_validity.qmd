@@ -1,0 +1,18 @@
+---
+title: Criterion-Related Validity
+---
+
+
+
+"Criterion-relatedvalidity is the type of validity that frequently underpins quantitative research" @simMeasurementValidityPhysical1993.
+
+If the instrument gives an accurate representation of the concept or variable, criterion-related validity has been demonstrated.
+
+There are 3 types of Criterion-related validity:
+
+1. Concurrent validity @simMeasurementValidityPhysical1993
+1. Predictive validity @simMeasurementValidityPhysical1993
+1. Prescriptive validity @simMeasurementValidityPhysical1993
+
+# Calculation
+Evidence for criterion-related validity is obtained by comparing the readings or measurements obtained by the investigator with a measurable criterion that is accepted as a standard indicator of a concept or variable @simMeasurementValidityPhysical1993.

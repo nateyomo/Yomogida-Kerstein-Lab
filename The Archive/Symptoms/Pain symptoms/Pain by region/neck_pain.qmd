@@ -2,6 +2,17 @@
 title: Neck Pain
 ---
 
+
+# Epidemiology
+
+
+- 22-70% of the population will have neck pain at some point
+- 10-20% of the population reports neck problems
+    - 54% experienced neck pain within last 6 months
+    
+
+
+
 # Acute phase {#acute-neck-pain}
 
 ## Rehabilitation

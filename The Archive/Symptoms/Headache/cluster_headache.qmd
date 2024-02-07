@@ -1,0 +1,45 @@
+---
+title: Cluster Headache
+---
+
+
+# Epidemiology
+
+- Men > women
+- May be associate w Horners syndrome (myosis, ptosis, anhidrosis) 
+
+# Etiology
+
+- Unknown
+- Genetic factor: (+) Family hx
+
+
+# Pathophysiology
+
+- Trigemino-autonomic reflex
+- Hypothalamus? Unclear
+
+# Clinical Presentation
+
+## Time
+15 min to 2 hours
+
+## Triggers
+
+- Neck mvmts may trigger them or may not
+
+## Symptoms
+
+- Unilateral
+    - May change sides
+- Location: Temporal, frontal, or retroorbital , occipital pain
+- Need at least 5 attacks unilaterally, 15 min-3 hours 
+    
+    - Probs to sympathetic nerves of face
+
+# Treatment
+
+- Stress reduction
+- [Vagal nerve stimulation]({{< var ref-vagal-nerve-stimulation.path >}}) (non invasive)
+- C/s strength and mobility
+- Consider the T/S as well

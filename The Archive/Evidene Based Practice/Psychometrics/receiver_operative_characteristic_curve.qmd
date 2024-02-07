@@ -1,0 +1,25 @@
+---
+title: Receiver Operating Characteristic (ROC) Curve
+---
+
+The ROC curve is a visualization of the trade-off between high sensitivity and high specificity @motulskyIntuitiveBiostatisticsNonmathematical2018.
+
+![An ROC Curve](/The Archive/Evidene Based Practice/Psychometrics/images/Fig42.1 ROC Curve Intuitive.png)
+
+# Reading an ROC Curve
+
+- Bottom left: 
+    - An extreme where the test never returns a positive diagnosis. 
+    - At this extreme, every patient is incorrectly diagnosed as healthy (sensitivity = 0%) @motulskyIntuitiveBiostatisticsNonmathematical2018 
+    - Every control is correctly diagnosed as healthy (specificity = 100%) @motulskyIntuitiveBiostatisticsNonmathematical2018
+- Upper right extreme: The test always returns a diagnosis that the person tested has the disease @motulskyIntuitiveBiostatisticsNonmathematical2018.
+    - Every patient is correctly diagnosed (sensitivity = 100%) @motulskyIntuitiveBiostatisticsNonmathematical2018
+    - Every control is incorrectly diagnosed (specificity = 0%) @motulskyIntuitiveBiostatisticsNonmathematical2018 
+
+# What is the best cut-off?
+
+Choosing the ideal cut-off point is dependent on the consequences of a false negative or false positive.
+
+- If both consequences are equally bad: The best threshold is the one that corresponds to the point on the ROC curve that is closest to the upper-left corner of the graph.
+- Generally, the consequences are not comparable.
+- It will be difficult to decide what cut-off makes the most sense. That decision must be made by someone who understands the disease and the test. It is not a decision to be made by a computer program.

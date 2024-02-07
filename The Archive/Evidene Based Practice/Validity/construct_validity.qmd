@@ -1,0 +1,16 @@
+---
+title: Construct Validity
+---
+
+
+
+how well a test measures the concept it was designed to evaluate.
+
+# Assessing Construct Validity
+
+- Identify the constructs and their operational definitions
+    - What is the abstract characteristic or concept being measured (construct)?
+    - What methods are used to define and or measure this construct (operational definition) 
+- Is the operational definition a reasonable/clinically meaningful reflection of the construct?
+    - Does the operational definition adequately represent the construct
+    - Are the construct and its operational definition a good match for my PICO question and meaningful for my pt? (External validity)

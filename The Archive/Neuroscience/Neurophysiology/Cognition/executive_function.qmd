@@ -13,6 +13,9 @@ title: Executive Function
 - PurposiveAction-ProductivityandSelfRegulation
 - EffectivePerformance-QualityControl;Self- Correction, Self-Monitoring
 
+:::{.callout-tip title="RLAS Level"}
+Impairments in executive function are often found in 
+:::
 
 # Treatment
 

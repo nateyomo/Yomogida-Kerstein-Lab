@@ -9,6 +9,8 @@ Reliability reflects not only degree of correlation but also agreement between m
 
 Reliability is NOT the same as [validity]({{< var ref-validity.path >}})
 
+"in order to improve reliability, attempts must be made to remove random error" @simMeasurementValidityPhysical1993
+
 # Significance of Reliability
 
 1. One cannot be confident in the results of a scale with poor reliability @streinerReliabilityStatisticsCommentarySeries2016a.

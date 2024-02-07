@@ -1,0 +1,52 @@
+---
+title: Cervicogenic Headache
+---
+
+:::{.callout title="AKA"}
+
+- Occipital Neuralgia
+:::
+
+
+
+# Pathophysiology
+
+Myofascial tightness
+
+# Clinical Presentation
+
+## Onset
+
+
+
+- Warning signs
+    - Aura (potentially)
+- Precipitated or aggravated by:
+    - Neck mvmts
+    - Sustained positions/postures
+- May wake up w headache
+- Inc as day progresses
+
+## Aggravations / Eases
+
+- Influenced by daily activities
+- Stress, tension, neck flexion, head position - can trigger or relieve 
+
+## Symptoms
+
+- Non continuous unilateral neck pain associated w HA
+
+
+# Examination
+
+- C/S flexion rotation test is positive
+- HA reproduced w provocation of the involved upper C/s segments
+- Limited C/s ROM
+- Restricted upper C/s mobility
+
+# DDX
+
+- Occipital neuralgia
+
+## Occipital Neuralgia
+ See @barmherzigOccipitalNeuralgiaCervicogenic2019

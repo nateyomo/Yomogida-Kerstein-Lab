@@ -15,6 +15,8 @@ subtitle: Special test of the Brachial Plexus
 
 - Patient seated with neutral head position in the sagittal plane @duttonDuttonOrthopaedicExamination2020
 - Clinician then manually:
+    - Put patient's forehead in your C/L elbow
+    - With your I/L hand, apply a downward pressure to patient's I/L shoulder to prevent compensation (shoulder elevation)
     - Maximally rotates the C/S contralaterally (away from affected side) @duttonDuttonOrthopaedicExamination2020
     - Flexes neck forward (ear to chest) @duttonDuttonOrthopaedicExamination2020
 - Repeated on other side
@@ -47,3 +49,8 @@ However it is worth remembering that a number of additional factors may influenc
 : Validity {.striped .hover}
 
 Lindgren et al. found this test to have excellent interobserver repeatability and to have good agreement with a radiologic examination in the detection of a subluxed first rib.6
+
+# Clinical signifiance
+
+CRLF is frequently used in clinical practice to determine whether a thrust manipulation targeting the 1st or 2nd rib should be performed, but Koppenhaver et al., found that the CRLF was not predictive of clinical improvement in neck pain following manual manipulations @koppenhaverValidityCervicalRotation2022
+

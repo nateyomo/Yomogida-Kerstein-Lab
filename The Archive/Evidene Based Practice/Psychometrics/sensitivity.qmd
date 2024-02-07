@@ -1,0 +1,18 @@
+---
+title: Sensitivity
+subtitle: Measure of the true-positive rate
+---
+
+Sensitivity is a psychometric measure that quantifies the rate of true positives to total positives @monaghanFoundationalStatisticalPrinciples2021.
+Sensitivity can apply to clinical tests that output a binary result: Normal vs Abnormal
+
+
+
+
+# Calculation
+
+Sensitivity quantifies true positive rate by finding the percent of people with disease who tested positive divided by total disease population.
+
+$$
+\textrm{Sensitivity} = \frac{(\textrm{True Positive})}{(\textrm{True Positive} + \textrm{False Negative})} = \frac{(\textrm{True Positive})}{(\textrm{Total Positive})}
+$$

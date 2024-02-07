@@ -1,0 +1,12 @@
+---
+title: Psychometric Properties of Clinical tests
+---
+
+
+| Lab Test | If... | What is the chance that... |
+|-|-|-|
+| Sensitivity | The patient has a disease... | ...a lab result will be positive? |
+| Power | There is a difference between populations... | ...a result will be statistically significant? |
+| Specificity | The patient does not have the disease... | ...a lab result will be negative? |
+| 1-alpha | There is no difference between populations... | ...a result will not be statistically significant? |
+: {.striped .hover}
