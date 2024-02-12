@@ -1,0 +1,34 @@
+---
+title: Mixed Analysis of Variance (Mixed ANOVA)
+---
+
+- AKA
+    - Split-plot ANOVAs
+    - Mixed factorial ANOVAs
+    - Mixed design ANOVAs
+
+Mixed Analysis ANOVA uses 2 factors for comparison
+
+1. A between group factor
+1. A within group factor
+
+# Calculation
+
+F Ratio
+
+- MSB: Mean Squares Between
+- MSW: Mean Square Within
+
+$$
+\textrm{F-Ratio} = \frac{MSB}{MSW}
+$$
+
+
+# Interpretation
+
+
+- F-Ratio: The ratio of those two MS values
+    - "If the null hypothesis were correct, each MS value would estimate the variance among values, so the two MS values would be similar" @motulskyIntuitiveBiostatisticsNonmathematical2018
+    - If the null hypothesis is true, F-ratio would be close to 1 @motulskyIntuitiveBiostatisticsNonmathematical2018
+    - If null hypothesis is false, F-Ratio should be greater than 1
+

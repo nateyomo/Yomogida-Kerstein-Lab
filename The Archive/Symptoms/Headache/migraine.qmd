@@ -21,10 +21,13 @@ Migraine is the most common primary headache @blumenfeldNeuroanatomicalBasisCons
 Migraine and cluster headaches were previously termed "vascular disorders" but this term is innaccurate since it ignores the electrophysiological, inflammatory, autonomic, serotonergic, and neuroendocrine factors that impact their pathophysiology @blumenfeldNeuroanatomyClinicalCases2022.
 :::
 
-There is still the idea that there is a vascular component since caffeine helps to reduce migraines, presumably through vasodilation
+There is still the idea that there is a vascular component since caffeine helps to reduce migraines, presumably through vasoconstriction
+
+:::{.callout title="FROM A LECTURE"}
 
 - Drop in serotonin levels causing the trigeminal nerve to release substances called neuropeptides, which travel to the brain’s meninges. Cause BV’s to become dilated and inflamed resulting in a HA
     - Can last 4-72 hrs, generally less than 24 hrs
+:::
 
 # Etiology
 
@@ -51,6 +54,15 @@ Migraines can be provoked by:
 
 
 # Clinical presentation
+
+Precipitating factors
+
+- Stress
+- Exertion
+- Food
+- Bright lights
+- Noise
+- Menstruation
 
 Preceding factors:
 
@@ -101,9 +113,11 @@ Associated symptoms:
 ## Physical Therapy
 
 
+:::{.callout title="Recommendations for PT School"}
 - STM, MFR, 
 - Joint mobility: Traction, mobs of C/s and T/s 
 - Stretching
 - Strengthening 
 - Cardiovascular endurance
 - Patient education
+:::

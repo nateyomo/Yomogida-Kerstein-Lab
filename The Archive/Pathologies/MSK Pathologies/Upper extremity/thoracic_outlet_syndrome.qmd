@@ -9,38 +9,28 @@ title: Thoracic Outlet Syndrome (TOS)
 
 Age:
 
-- TOS majority is between the ages of 20-50 y/o (neuro) @hooperThoracicOutletSyndrome2010
-- Women are 3-4x more likely to develop neurogenic TOS @hooperThoracicOutletSyndrome2010
-
-
-
-
-
+- TOS majority is between the ages of 20-50 y/o (neuro) @hooperPart1ThoracicOutletSyndrome2010
+- Women are 3-4x more likely to develop neurogenic TOS @hooperPart1ThoracicOutletSyndrome2010
 
 # Types
-
-Types:
 
 - Neurogenic (95%) @duttonDuttonOrthopaedicExamination2020
 - Venous (4%) @duttonDuttonOrthopaedicExamination2020
 - Arterial (1%) @duttonDuttonOrthopaedicExamination2020
 
-
-
-
 ## Neurogenic
 
 :::{.callout-note title="Neurogenic classification"}
-True neurogenic TOS is classified as TOS with objective findings of nerve compression @hooperpart2
+True neurogenic TOS is classified as TOS with objective findings of nerve compression @hooperpart2ThoracicOutletSyndrome2010a
 
-TOS with no specific pathological evidence is classified as disputed TOS @hooperpart2.
+TOS with no specific pathological evidence is classified as disputed TOS @hooperpart2ThoracicOutletSyndrome2010a.
 :::
 
 - The [inferior trunk of the brachial plexus]({{< var ref-brachial-plexus.inferior-trunk >}}) is the most commonly compressed neural structure in TOS @duttonDuttonOrthopaedicExamination2020
 
-- Lower plexus (c8,t1) irritation: Symptoms on ulnar side of arm, hand, ant shoulder, axillary regions @hooperThoracicOutletSyndrome2010
+- Lower plexus (c8,t1) irritation: Symptoms on ulnar side of arm, hand, ant shoulder, axillary regions @hooperPart1ThoracicOutletSyndrome2010
 
-- Upper plexus ( c5,6,7): Ant aspect of neck from clavicle to mandible, ear, mastoid, occasionally radiating into the side of the face @hooperThoracicOutletSyndrome2010
+- Upper plexus (C5, 6, 7): Ant aspect of neck from clavicle to mandible, ear, mastoid, occasionally radiating into the side of the face @hooperPart1ThoracicOutletSyndrome2010
 
 ## Venous
 
@@ -78,13 +68,14 @@ There are 3 main entrapments:
 - Costoclavicular interval @duttonDuttonOrthopaedicExamination2020
 - Thoraco-coraco-pectoral space: As it passes thru coracoid process, pec minor, clavipectoral fascia to enter axillary fossa @duttonDuttonOrthopaedicExamination2020
 
-#1: Interscalene triangle entrapment site:
+## Interscalene triangle Entrapment
+
 - Tight scalenes, injury of scalene or scapular suspensory muscles  @duttonDuttonOrthopaedicExamination2020
 - Fibromuscular bands in scalenes or between long transverse processes of the lower cervical vertebrae @duttonDuttonOrthopaedicExamination2020
 - Entrapment here can result from cervical rib presence  @duttonDuttonOrthopaedicExamination2020
 - [Subclavian vein]({{< var ref-subclavian-vein.path >}}) not involved (bc passess anterior to ant scalene) @duttonDuttonOrthopaedicExamination2020
 
-#2: Costoclavicular interval
+## Costoclavicular interval Entrapment
 
 - Between ribcage and posterior aspect of clavicle, entrapment can occur here with:
     - clavicle depression, 
@@ -93,7 +84,9 @@ There are 3 main entrapments:
     - First rib clavicle deformity
     - Post Fracture callus formation of first rib or clavicle
 
-#3: Thoraco-coraco-pectoral space: As it passes thru coracoid process, pec minor, clavipectoral fascia to enter axillary fossa
+## Thoraco-coraco-pectoral space Entrapment
+
+This entrapment occurs as As it passes thru coracoid process, pec minor, clavipectoral fascia to enter axillary fossa
 
 - Subclavian artery/vein become axillary A/V
 - Neurovascular bundle compromised with elevation, abduction, especially if ER is added with motion

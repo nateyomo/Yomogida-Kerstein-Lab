@@ -4,6 +4,10 @@ title: Headache (Overview)
 
 Headache is one of the most common neurologic symptoms
 
+# Risk Factors
+
+- Gender: Women 3:1
+- Occupation: White collar workers > Blue collar workers
 
 # Pathophysiology
 
@@ -25,7 +29,8 @@ The supratentorial dura (most of the intracranial cavity) is innervated by the t
 ## Primary headache
 
 - Migraine
-- Cluster headache (and other trigeminal autonomic cephalgias)
+- Cluster headache 
+- Trigeminal autonomic cephalgias
 - Tension-type headache
 
 ## Secondary headache
@@ -50,3 +55,9 @@ The supratentorial dura (most of the intracranial cavity) is innervated by the t
 
 
 
+# Examination
+
+- Neurodynamic testing
+- Spurling's Test
+- Distraction test
+- Valsalva test

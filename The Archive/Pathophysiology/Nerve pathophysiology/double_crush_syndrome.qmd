@@ -13,10 +13,10 @@ another site along a peripheral nerve </q>
 # Interventions
 
 <q> When a loss of neural mobility is present, neural mobilizations are incorporated in order to improve gliding of the neural tissue in relation to its surroundings and minimize tension and adhesion formation.
-These techniques are especially important in cases of a double crush phenomenon. </q> @hooperThoracicOutletSyndrome2010a
+These techniques are especially important in cases of a double crush phenomenon. </q> @hooperPart1ThoracicOutletSyndrome2010
 
 
 # Causes
 
-Occurs in 50% of [Thoracic outlet syndrome]({{< var ref-thoracic-outlet.syndrome >}}) cases @hooperThoracicOutletSyndrome2010
+Occurs in 50% of [Thoracic outlet syndrome]({{< var ref-thoracic-outlet.syndrome >}}) cases @hooperPart1ThoracicOutletSyndrome2010
 

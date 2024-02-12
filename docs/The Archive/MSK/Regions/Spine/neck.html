@@ -20,7 +20,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -120,24 +139,29 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Contents</h2>
    
   <ul>
-  <li><a href="#osteokinematics" id="toc-osteokinematics" class="nav-link active" data-scroll-target="#osteokinematics"><span class="header-section-number">1</span> Osteokinematics</a>
+  <li><a href="#osteokinematics" id="toc-osteokinematics" class="nav-link active" data-scroll-target="#osteokinematics">Osteokinematics</a>
   <ul class="collapse">
-  <li><a href="#head-lateral-sb" id="toc-head-lateral-sb" class="nav-link" data-scroll-target="#head-lateral-sb"><span class="header-section-number">1.1</span> Head Lateral SB</a></li>
-  <li><a href="#head-rotation" id="toc-head-rotation" class="nav-link" data-scroll-target="#head-rotation"><span class="header-section-number">1.2</span> Head rotation</a></li>
-  <li><a href="#head-extension" id="toc-head-extension" class="nav-link" data-scroll-target="#head-extension"><span class="header-section-number">1.3</span> Head Extension</a></li>
+  <li><a href="#head-lateral-sb" id="toc-head-lateral-sb" class="nav-link" data-scroll-target="#head-lateral-sb">Head Lateral SB</a></li>
+  <li><a href="#head-rotation" id="toc-head-rotation" class="nav-link" data-scroll-target="#head-rotation">Head rotation</a></li>
+  <li><a href="#head-extension" id="toc-head-extension" class="nav-link" data-scroll-target="#head-extension">Head Extension</a></li>
   </ul></li>
-  <li><a href="#joints" id="toc-joints" class="nav-link" data-scroll-target="#joints"><span class="header-section-number">2</span> Joints</a>
+  <li><a href="#joints" id="toc-joints" class="nav-link" data-scroll-target="#joints">Joints</a>
   <ul class="collapse">
-  <li><a href="#oa-joint" id="toc-oa-joint" class="nav-link" data-scroll-target="#oa-joint"><span class="header-section-number">2.1</span> OA Joint</a></li>
-  <li><a href="#aa-joint" id="toc-aa-joint" class="nav-link" data-scroll-target="#aa-joint"><span class="header-section-number">2.2</span> AA Joint</a></li>
+  <li><a href="#oa-joint" id="toc-oa-joint" class="nav-link" data-scroll-target="#oa-joint">OA Joint</a></li>
+  <li><a href="#aa-joint" id="toc-aa-joint" class="nav-link" data-scroll-target="#aa-joint">AA Joint</a></li>
   </ul></li>
-  <li><a href="#kinematics" id="toc-kinematics" class="nav-link" data-scroll-target="#kinematics"><span class="header-section-number">3</span> Kinematics</a>
+  <li><a href="#kinematics" id="toc-kinematics" class="nav-link" data-scroll-target="#kinematics">Kinematics</a>
   <ul class="collapse">
-  <li><a href="#flexion" id="toc-flexion" class="nav-link" data-scroll-target="#flexion"><span class="header-section-number">3.1</span> Flexion</a></li>
-  <li><a href="#extension" id="toc-extension" class="nav-link" data-scroll-target="#extension"><span class="header-section-number">3.2</span> Extension</a></li>
-  <li><a href="#rotation" id="toc-rotation" class="nav-link" data-scroll-target="#rotation"><span class="header-section-number">3.3</span> Rotation</a></li>
-  <li><a href="#lateral-flexion-sb" id="toc-lateral-flexion-sb" class="nav-link" data-scroll-target="#lateral-flexion-sb"><span class="header-section-number">3.4</span> Lateral flexion (SB)</a></li>
-  <li><a href="#coupled-motion" id="toc-coupled-motion" class="nav-link" data-scroll-target="#coupled-motion"><span class="header-section-number">3.5</span> Coupled motion</a></li>
+  <li><a href="#flexion" id="toc-flexion" class="nav-link" data-scroll-target="#flexion">Flexion</a></li>
+  <li><a href="#extension" id="toc-extension" class="nav-link" data-scroll-target="#extension">Extension</a></li>
+  <li><a href="#rotation" id="toc-rotation" class="nav-link" data-scroll-target="#rotation">Rotation</a></li>
+  <li><a href="#lateral-flexion-sb" id="toc-lateral-flexion-sb" class="nav-link" data-scroll-target="#lateral-flexion-sb">Lateral flexion (SB)</a></li>
+  <li><a href="#coupled-motion" id="toc-coupled-motion" class="nav-link" data-scroll-target="#coupled-motion">Coupled motion</a></li>
+  </ul></li>
+  <li><a href="#dysfunction" id="toc-dysfunction" class="nav-link" data-scroll-target="#dysfunction">Dysfunction</a>
+  <ul class="collapse">
+  <li><a href="#vestibular-and-visual-symptoms" id="toc-vestibular-and-visual-symptoms" class="nav-link" data-scroll-target="#vestibular-and-visual-symptoms">Vestibular and Visual symptoms</a></li>
+  <li><a href="#sensorimotor-control" id="toc-sensorimotor-control" class="nav-link" data-scroll-target="#sensorimotor-control">Sensorimotor control</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -169,10 +193,10 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="osteokinematics" class="level1" data-number="1">
-<h1 data-number="1"><span class="header-section-number">1</span> Osteokinematics</h1>
-<section id="head-lateral-sb" class="level2" data-number="1.1">
-<h2 data-number="1.1" class="anchored" data-anchor-id="head-lateral-sb"><span class="header-section-number">1.1</span> Head Lateral SB</h2>
+<section id="osteokinematics" class="level1">
+<h1>Osteokinematics</h1>
+<section id="head-lateral-sb" class="level2">
+<h2 class="anchored" data-anchor-id="head-lateral-sb">Head Lateral SB</h2>
 <table class="table-striped table-hover table">
 <caption></caption>
 <thead>
@@ -209,8 +233,8 @@ ul.task-list li input[type="checkbox"] {
 </tbody>
 </table>
 </section>
-<section id="head-rotation" class="level2" data-number="1.2">
-<h2 data-number="1.2" class="anchored" data-anchor-id="head-rotation"><span class="header-section-number">1.2</span> Head rotation</h2>
+<section id="head-rotation" class="level2">
+<h2 class="anchored" data-anchor-id="head-rotation">Head rotation</h2>
 <table class="table-striped table-hover table">
 <caption></caption>
 <thead>
@@ -275,8 +299,8 @@ ul.task-list li input[type="checkbox"] {
 </tbody>
 </table>
 </section>
-<section id="head-extension" class="level2" data-number="1.3">
-<h2 data-number="1.3" class="anchored" data-anchor-id="head-extension"><span class="header-section-number">1.3</span> Head Extension</h2>
+<section id="head-extension" class="level2">
+<h2 class="anchored" data-anchor-id="head-extension">Head Extension</h2>
 <table class="table-striped table-hover table">
 <caption></caption>
 <thead>
@@ -328,40 +352,40 @@ ul.task-list li input[type="checkbox"] {
 </table>
 </section>
 </section>
-<section id="joints" class="level1" data-number="2">
-<h1 data-number="2"><span class="header-section-number">2</span> Joints</h1>
-<section id="oa-joint" class="level2" data-number="2.1">
-<h2 data-number="2.1" class="anchored" data-anchor-id="oa-joint"><span class="header-section-number">2.1</span> OA Joint</h2>
+<section id="joints" class="level1">
+<h1>Joints</h1>
+<section id="oa-joint" class="level2">
+<h2 class="anchored" data-anchor-id="oa-joint">OA Joint</h2>
 <p><a href="?var:ref-occipitoatlanto-joint.path">Occipitoatlanto joint</a></p>
 <p>OA joint Hypermobility is considered a diagnosis If range of rotation exceeds 8 degrees → stability testing necessary</p>
 </section>
-<section id="aa-joint" class="level2" data-number="2.2">
-<h2 data-number="2.2" class="anchored" data-anchor-id="aa-joint"><span class="header-section-number">2.2</span> AA Joint</h2>
+<section id="aa-joint" class="level2">
+<h2 class="anchored" data-anchor-id="aa-joint">AA Joint</h2>
 <p><a href="?var:ref-atlantoaxial-joint.path">Atlantoaxial joint</a></p>
 <p>Pure axial rotation 60% of total rotation in CS is here</p>
 </section>
 </section>
-<section id="kinematics" class="level1" data-number="3">
-<h1 data-number="3"><span class="header-section-number">3</span> Kinematics</h1>
-<section id="flexion" class="level2" data-number="3.1">
-<h2 data-number="3.1" class="anchored" data-anchor-id="flexion"><span class="header-section-number">3.1</span> Flexion</h2>
+<section id="kinematics" class="level1">
+<h1>Kinematics</h1>
+<section id="flexion" class="level2">
+<h2 class="anchored" data-anchor-id="flexion">Flexion</h2>
 <p>Greatest at lower C/S (C5-C6)</p>
 <p>Least flexion at C2,3</p>
 </section>
-<section id="extension" class="level2" data-number="3.2">
-<h2 data-number="3.2" class="anchored" data-anchor-id="extension"><span class="header-section-number">3.2</span> Extension</h2>
+<section id="extension" class="level2">
+<h2 class="anchored" data-anchor-id="extension">Extension</h2>
 </section>
-<section id="rotation" class="level2" data-number="3.3">
-<h2 data-number="3.3" class="anchored" data-anchor-id="rotation"><span class="header-section-number">3.3</span> Rotation</h2>
+<section id="rotation" class="level2">
+<h2 class="anchored" data-anchor-id="rotation">Rotation</h2>
 <p>AA Joint performs pure axialrotation</p>
 <p>Rotation and SB are <a href="#coupled-motion">coupled motions</a></p>
 </section>
-<section id="lateral-flexion-sb" class="level2" data-number="3.4">
-<h2 data-number="3.4" class="anchored" data-anchor-id="lateral-flexion-sb"><span class="header-section-number">3.4</span> Lateral flexion (SB)</h2>
+<section id="lateral-flexion-sb" class="level2">
+<h2 class="anchored" data-anchor-id="lateral-flexion-sb">Lateral flexion (SB)</h2>
 <p>Rotation and SB <a href="#coupled-motion">coupled motions</a></p>
 </section>
-<section id="coupled-motion" class="level2" data-number="3.5">
-<h2 data-number="3.5" class="anchored" data-anchor-id="coupled-motion"><span class="header-section-number">3.5</span> Coupled motion</h2>
+<section id="coupled-motion" class="level2">
+<h2 class="anchored" data-anchor-id="coupled-motion">Coupled motion</h2>
 <p>Upper c spine: Sb and rotation — type 1 motion, OPPOSITE MOTION Regardless of posture Mid cervical: c3-c7 Same direction More type 1 motion: Changes in couple patterns</p>
 <div class="callout callout-style-default callout-tip callout-titled" title="Clinical signifiance">
 <div class="callout-header d-flex align-content-center">
@@ -381,12 +405,43 @@ Clinical signifiance
 </ul>
 </div>
 </div>
+</section>
+</section>
+<section id="dysfunction" class="level1">
+<h1>Dysfunction</h1>
+<section id="vestibular-and-visual-symptoms" class="level2">
+<h2 class="anchored" data-anchor-id="vestibular-and-visual-symptoms">Vestibular and Visual symptoms</h2>
+<ul>
+<li>Upper c spine has more connections to vestib and visual systems than low c spine</li>
+<li>So upper c spine dysfunction can cause more balance/visual disturbances</li>
+</ul>
+</section>
+<section id="sensorimotor-control" class="level2">
+<h2 class="anchored" data-anchor-id="sensorimotor-control">Sensorimotor control</h2>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Wearing a hard collar for 5 days has been shown to lead to altered eye mvmt control, increased postural sway and disturbed head neck awareness in healthy people<span class="citation" data-cites="kristjanssonSensorimotorFunctionDizziness2009"><sup><a href="#ref-kristjanssonSensorimotorFunctionDizziness2009" role="doc-biblioref">1</a></sup></span></p>
+</div>
+</div>
+
 
 
 </section>
 </section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-kristjanssonSensorimotorFunctionDizziness2009" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Kristjansson E, Treleaven J. Sensorimotor function and dizziness in neck pain: Implications for assessment and management. <em>The Journal of Orthopaedic and Sports Physical Therapy</em>. 2009;39(5):364-377. doi:<a href="https://doi.org/10.2519/jospt.2009.2834">10.2519/jospt.2009.2834</a></div>
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

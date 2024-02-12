@@ -1,0 +1,22 @@
+---
+title: Parkinson's Disease (PD)
+---
+
+
+
+# Symptoms
+
+- Freezing of gait (FOG)
+
+## Gait Symptoms
+
+- [Parkinsonian Gait]({{< var ref-gait.symptom.parkinsonian >}})
+
+# Interventions
+
+# Motor Control
+
+- Facilitate Bigger amplitude
+
+# Rehabilitation
+

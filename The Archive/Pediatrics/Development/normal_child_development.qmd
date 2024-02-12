@@ -178,17 +178,18 @@ Cognition
 
 
 ## Month 6
-Gross motor - more functional and active , sits, rolls, bouncing on feet
-Fine motor - transferring objects, radial or palmar grasp
-Feeding - begin large finger foods and cup cont. breast/bottle
-Phonation - babbles longer, more variety
-Cognition - beginning cause and effect
-Can be bouncing and dancing a lil 
-Transferring objects 
-Some babies are on hands and knees (in quadruped) rocking or pushing backward
+
+- Gross motor - more functional and active , sits, rolls, bouncing on feet
+- Fine motor - transferring objects, radial or palmar grasp
+- Feeding - begin large finger foods and cup cont. breast/bottle
+- Phonation - babbles longer, more variety
+- Cognition - beginning cause and effect
+    - Can be bouncing and dancing a lil 
+    - Transferring objects 
+- Some babies are on hands and knees (in quadruped) rocking or pushing backward
 
 
-Month 7
+## Month 7
 
 Motor
 
@@ -207,10 +208,10 @@ Cognition
 These babies respond to the name their family calls them, not necessarily their birth name. You should ask the family what they call the baby day to day.
 :::
 
-Walking on hands and knees , bear walking, some may [stand]({{< var ref-standing-pediatric.path >}})
-Some cruising on furniture 
-For good development- thing figure out lots of ways to move  (variability) 
-Children w atypical development–> paucity of mvmt, lack of variability, 1 way to crawl/walk, if not available they do not know what to do
+- Walking on hands and knees , bear walking, some may [stand]({{< var ref-standing-pediatric.path >}})
+- Some cruising on furniture 
+- For good development- thing figure out lots of ways to move  (variability) 
+- Children w atypical development–> paucity of mvmt, lack of variability, 1 way to crawl/walk, if not available they do not know what to do
 
 
 ## Month 8 {#month-8}
@@ -290,3 +291,133 @@ Cognition
     - One step directions only (can follow a one step command)
         - "Bring me the ball"
         - "Go get shoes"
+
+
+# Toddler & Preschool Development
+
+## Month 12-18
+
+- Gross motor (generally walking):
+    - Locomotion: Independent ambulation, walks fast, stairs w rail
+    - Needs some single leg stance ability  → or in prep for 
+        - More time in SLS, important ⇒ main balance center: glute meds
+    - Must have pre walking skills mastered: stepping, balance, environmental responses
+        - Look at surface changes, some kids don't like certain surfaces
+        - Shoes vs barefoot
+
+
+Fine motor
+
+- beginning to "draw"
+- stacking cubes
+
+Feeding: independent w spoon
+
+Cognition
+
+- Language: 10 word vocab
+
+:::{.callout}
+Limited vocabular could include things like "ba" to refer to a ball
+:::
+
+Cognition has developed to include imitative play: Banana = phone
+
+When kids are mastering one skill, they are experiencing one skill down the line
+
+
+## Months 18-24
+
+Gross Motor:
+
+- Locomotion: 
+    - Attempts to run but does not achieve flight, some steps unsupported
+    - Gait: 
+        - Heel strike
+        - Reciprocal arm swing (closer to 24 months)
+
+Fine Motor:
+
+- Scribble
+- Turns pages of book
+- Stacks 4 cubes
+
+Feeding: Uses cup and spoon
+
+:::{.callout-note}
+
+- SLPs no longer recommend sippy cups
+- Open cup or straw
+:::
+
+Language:
+
+- More understandable
+- Combines words 
+
+
+
+## Year 2
+
+Gross motor:
+
+- Running
+    - Unable to vary speed
+    - Achieves flight
+- Stairs alone
+    - Tries to jump up and down from step
+- Gait
+    - Dependent on "Gait Age"
+    - Heel strike
+
+Fine motor:
+
+- Stack 6 cubes
+- Turn doorknobs
+- Vertical stroke w crayon, 
+
+Feeding: spills less from cup
+
+
+## Year 3
+
+:::{.callout-note}
+All of this depends!
+:::
+
+Gross motor:
+
+- Stairs: Independent
+- Balance: Can SLS
+- Tricycle 30-36 mos
+- Gait: more mature gait pattern
+
+Fine motor:
+
+- Cuts with scissors
+- Undresses
+- Begins to dress independently
+
+
+## Year 4
+
+- Gross motor - running is more smooth/ fluid , jumps well, hops on one foot (solid milestone, makes assumptions that they have met other skills)
+- Fine motor- cuts around pictures, simple puzzles, button and unbutton
+
+## Year 5
+
+- Gross motor, running mature, jump rope and kick ball well (within vicinity of target)
+    - Can they do 2 things at the same time basically
+- Fine motor- print letters, dresses independently
+
+
+# School aged (5+)
+
+## Year 7-8
+7-8 years = longer attention span
+
+## Year 9-10
+9-10 years = increased strength and endurance
+
+## Year 11-12
+11-12 years= nearly adult skills

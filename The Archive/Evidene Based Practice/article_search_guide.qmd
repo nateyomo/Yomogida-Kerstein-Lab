@@ -44,6 +44,7 @@ Goal < 50 abstracts with a search
 
 # Pubmed search guide
 
+<details>
 - Quotation marks:
     - No quotations around key terms: Automatically search for related MESH terms
     - Using quotations around key terms: Searches for an exact term or phrase
@@ -111,6 +112,8 @@ Using the "NOT" Function:
 1. Choose scope
 
 :::
+
+</details>
 
 # Scanning Articles
 

@@ -1,0 +1,43 @@
+---
+title: Median Nerve
+---
+
+
+# Origin
+
+C6-T1 @gilroyAtlasAnatomy2020
+
+
+# Motor Branches
+
+Direct Muscular branches @gilroyAtlasAnatomy2020
+
+- Pronator teres 
+- Flexor carpi radialis 
+- Palmaris longus 
+- Flexor digitorum superficialis (FDS)
+
+Indirect Muscular brs. via anterior interosseous n. @gilroyAtlasAnatomy2020
+
+- Pronator quadratus 
+- Flexor pollicis longus 
+- Flexor digitorum profundus (radial $\frac{1}{2}$)
+
+Recurrent br. @gilroyAtlasAnatomy2020
+
+- Abductor pollicis brevis 
+- Flexor pollicis brevis (superficial head) 
+- Opponens pollicis
+
+Indirect Muscular brs. via common palmar digital nn. @gilroyAtlasAnatomy2020
+
+- 1st and 2nd lumbricals
+
+
+# Sensory Branches
+
+- Articular brs.: Capsules of the elbow and wrist joints 
+- Palmar br. of median n. (thenar eminence) 
+- Communicating br. to ulnar n. 
+- Common palmar digital nn. 
+- Proper palmar digital nn.

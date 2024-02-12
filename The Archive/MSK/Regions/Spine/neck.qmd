@@ -103,3 +103,20 @@ More type 1 motion: Changes in couple patterns
 - Assess A/PROM
 - Soft tissue
 :::
+
+
+# Dysfunction
+
+## Vestibular and Visual symptoms
+
+- Upper c spine has more connections to vestib and visual systems than low c spine
+- So upper c spine dysfunction can cause more balance/visual disturbances
+
+
+## Sensorimotor control
+
+
+:::{.callout-tip}
+Wearing a hard collar for 5 days has been shown to lead to altered eye mvmt control, increased postural sway and disturbed head neck awareness in healthy people @kristjanssonSensorimotorFunctionDizziness2009
+
+:::

@@ -60,6 +60,9 @@ div.csl-indent {
 <link href="../../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="../../../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../../../../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../../../../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../../../../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -80,6 +83,9 @@ div.csl-indent {
     "search-label": "Search"
   }
 }</script>
+<script src="../../../../site_libs/quarto-diagram/mermaid.min.js"></script>
+<script src="../../../../site_libs/quarto-diagram/mermaid-init.js"></script>
+<link href="../../../../site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
 
 
 <link rel="stylesheet" href="../../../../styles.css">
@@ -139,16 +145,16 @@ div.csl-indent {
     <h2 id="toc-title">Contents</h2>
    
   <ul>
-  <li><a href="#trunks" id="toc-trunks" class="nav-link active" data-scroll-target="#trunks"><span class="header-section-number">1</span> Trunks</a>
+  <li><a href="#trunks" id="toc-trunks" class="nav-link active" data-scroll-target="#trunks">Trunks</a>
   <ul class="collapse">
-  <li><a href="#inferior-trunk" id="toc-inferior-trunk" class="nav-link" data-scroll-target="#inferior-trunk"><span class="header-section-number">1.1</span> Inferior trunk</a></li>
-  <li><a href="#superior-trunk" id="toc-superior-trunk" class="nav-link" data-scroll-target="#superior-trunk"><span class="header-section-number">1.2</span> Superior Trunk</a></li>
+  <li><a href="#inferior-trunk" id="toc-inferior-trunk" class="nav-link" data-scroll-target="#inferior-trunk">Inferior trunk</a></li>
+  <li><a href="#superior-trunk" id="toc-superior-trunk" class="nav-link" data-scroll-target="#superior-trunk">Superior Trunk</a></li>
   </ul></li>
-  <li><a href="#dysfunction" id="toc-dysfunction" class="nav-link" data-scroll-target="#dysfunction"><span class="header-section-number">2</span> Dysfunction</a>
+  <li><a href="#dysfunction" id="toc-dysfunction" class="nav-link" data-scroll-target="#dysfunction">Dysfunction</a>
   <ul class="collapse">
-  <li><a href="#brachial-plexus-irritation" id="toc-brachial-plexus-irritation" class="nav-link" data-scroll-target="#brachial-plexus-irritation"><span class="header-section-number">2.1</span> Brachial Plexus irritation</a></li>
+  <li><a href="#brachial-plexus-irritation" id="toc-brachial-plexus-irritation" class="nav-link" data-scroll-target="#brachial-plexus-irritation">Brachial Plexus irritation</a></li>
   </ul></li>
-  <li><a href="#tests-and-measures" id="toc-tests-and-measures" class="nav-link" data-scroll-target="#tests-and-measures"><span class="header-section-number">3</span> Tests and measures</a></li>
+  <li><a href="#tests-and-measures" id="toc-tests-and-measures" class="nav-link" data-scroll-target="#tests-and-measures">Tests and measures</a></li>
   </ul>
 </nav>
     </div>
@@ -179,34 +185,79 @@ div.csl-indent {
 
 </header>
 
-<section id="trunks" class="level1" data-number="1">
-<h1 data-number="1"><span class="header-section-number">1</span> Trunks</h1>
-<section id="inferior-trunk" class="level2" data-number="1.1">
-<h2 data-number="1.1" class="anchored" data-anchor-id="inferior-trunk"><span class="header-section-number">1.1</span> Inferior trunk</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../../../../The Archive/Anatomy/Nerves/Upper extremity nerves/brachial_plexus.html" class="lightbox" title="Brachial Plexus @gilroyAtlasAnatomy2020" data-gallery="quarto-lightbox-gallery-1"><img src="../../../../The Archive/Anatomy/Nerves/Upper extremity nerves/brachial_plexus.qmd" class="img-fluid figure-img"></a></p>
+<figcaption class="figure-caption">Brachial Plexus<span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span></figcaption>
+</figure>
+</div>
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<div>
+<pre class="mermaid mermaid-js">flowchart LR
+  c5-root[C5 Root] --&gt; superior-trunk[Superior Trunk] 
+  c5-root --&gt; dorsal-scapular-nerve[Dorsal Scapular Nerve]
+  c5-root --&gt; long-thoracic-nerve[Long Thoracic Nerve]
+
+
+  c6-root[C6 Root] --&gt; superior-trunk
+  c6-root --&gt; long-thoracic-nerve
+  
+  c7-root[C7 Root] --&gt; middle-trunk[Middle Trunk]
+  c7-root --&gt; long-thoracic-nerve
+
+  c8-root[C8 Root] --&gt; inferior-trunk[Inferior Trunk]
+  t1-root[T1 Root] --&gt; inferior-trunk
+
+  superior-trunk --&gt; suprascapular-nerve[Suprascapular nerve]
+  superior-trunk --&gt; nerve-to-subclavius[Nerve to Subclavius]
+  superior-trunk -- Ant. Div. --&gt; lateral-cord[Lateral Cord]
+  superior-trunk -- Post. Div. --&gt; posterior-cord[Posterior Cord]
+
+  
+  middle-trunk -- Ant. Div. --&gt; lateral-cord
+  middle-trunk -- Post. Div. --&gt; posterior-cord
+
+  inferior-trunk -- Post. Div. --&gt; posterior-cord
+  inferior-trunk -- Ant. Div. --&gt; medial-cord[Medial Cord]
+
+
+
+
+</pre>
+</div>
+</div>
+</div>
+</div>
+<section id="trunks" class="level1">
+<h1>Trunks</h1>
+<section id="inferior-trunk" class="level2">
+<h2 class="anchored" data-anchor-id="inferior-trunk">Inferior trunk</h2>
 <ul>
 <li>Comes from C8, T1 Nerve roots</li>
 <li>Function
 <ul>
-<li>4th-5th fingers of hand, motor innervation to intrinsic hand muscles<span class="citation" data-cites="duttonDuttonOrthopaedicExamination2020"><sup><a href="#ref-duttonDuttonOrthopaedicExamination2020" role="doc-biblioref">1</a></sup></span></li>
+<li>4th-5th fingers of hand, motor innervation to intrinsic hand muscles<span class="citation" data-cites="duttonDuttonOrthopaedicExamination2020"><sup><a href="#ref-duttonDuttonOrthopaedicExamination2020" role="doc-biblioref">2</a></sup></span></li>
 </ul></li>
 <li>Dysfunction
 <ul>
-<li>most COMMONLY compressed neural structure in TOS<span class="citation" data-cites="duttonDuttonOrthopaedicExamination2020"><sup><a href="#ref-duttonDuttonOrthopaedicExamination2020" role="doc-biblioref">1</a></sup></span></li>
+<li>most COMMONLY compressed neural structure in TOS<span class="citation" data-cites="duttonDuttonOrthopaedicExamination2020"><sup><a href="#ref-duttonDuttonOrthopaedicExamination2020" role="doc-biblioref">2</a></sup></span></li>
 </ul></li>
 </ul>
 </section>
-<section id="superior-trunk" class="level2" data-number="1.2">
-<h2 data-number="1.2" class="anchored" data-anchor-id="superior-trunk"><span class="header-section-number">1.2</span> Superior Trunk</h2>
+<section id="superior-trunk" class="level2">
+<h2 class="anchored" data-anchor-id="superior-trunk">Superior Trunk</h2>
 </section>
 </section>
-<section id="dysfunction" class="level1" data-number="2">
-<h1 data-number="2"><span class="header-section-number">2</span> Dysfunction</h1>
-<section id="brachial-plexus-irritation" class="level2" data-number="2.1">
-<h2 data-number="2.1" class="anchored" data-anchor-id="brachial-plexus-irritation"><span class="header-section-number">2.1</span> Brachial Plexus irritation</h2>
+<section id="dysfunction" class="level1">
+<h1>Dysfunction</h1>
+<section id="brachial-plexus-irritation" class="level2">
+<h2 class="anchored" data-anchor-id="brachial-plexus-irritation">Brachial Plexus irritation</h2>
 </section>
 </section>
-<section id="tests-and-measures" class="level1" data-number="3">
-<h1 data-number="3"><span class="header-section-number">3</span> Tests and measures</h1>
+<section id="tests-and-measures" class="level1">
+<h1>Tests and measures</h1>
 <ul>
 <li><a href="../../../../The Archive/Examination/Tests and Measures/Upper Extremity Tests/stretch_test_brachial_plexus.html">Stretch test</a></li>
 <li><a href="../../../../The Archive/Examination/Tests and Measures/Upper Extremity Tests/cervical_rotation_lateral_flexion_test.html">Cervical Rotation Lateral Flexion Test</a></li>
@@ -218,8 +269,11 @@ div.csl-indent {
 </section>
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-gilroyAtlasAnatomy2020" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Gilroy AM, MacPherson BR, Wikenheiser JC, Voll MM, Wesker K, Schünke M, eds. <em>Atlas of Anatomy</em>. 4th ed. <span>Thieme</span>; 2020.</div>
+</div>
 <div id="ref-duttonDuttonOrthopaedicExamination2020" class="csl-entry" role="listitem">
-<div class="csl-left-margin">1. </div><div class="csl-right-inline">Dutton M. <em>Dutton’s Orthopaedic Examination, Evaluation, and Intervention</em>. Fifth edition. <span>McGraw Hill Education</span>; 2020.</div>
+<div class="csl-left-margin">2. </div><div class="csl-right-inline">Dutton M. <em>Dutton’s Orthopaedic Examination, Evaluation, and Intervention</em>. Fifth edition. <span>McGraw Hill Education</span>; 2020.</div>
 </div>
 </div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -571,6 +625,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"openEffect":"zoom","selector":".lightbox","descPosition":"bottom","loop":true,"closeEffect":"zoom"});</script>
 
 
 

@@ -10,7 +10,7 @@ This test has some of the best validity out of other TOS tests
 But there are some issues:
 
 1. Conflicting evidence on the biomechanical mechanism of the test as [seen below](#technique)
-1. The large percent of false positives when using radial pulse as the main outcome measure @hooperThoracicOutletSyndrome2010
+1. The large percent of false positives when using radial pulse as the main outcome measure @hooperPart1ThoracicOutletSyndrome2010
 :::
 
 Adson's Vascular test is a special test that is designed to rule in a [vascular source of thoracic outlet syndrome]({{< var ref-thoracic-outlet.syndrome >}})
@@ -35,7 +35,7 @@ Contrasting biomechanical evidence finds the scalene angle to increase, which sh
 - Diminished or occluded radial pulse is considered a positive test
 
 :::{.callout-caution}
-Using radial pulse to conclude a positive test has been shown to produce many false positives @hooperThoracicOutletSyndrome2010 
+Using radial pulse to conclude a positive test has been shown to produce many false positives @hooperPart1ThoracicOutletSyndrome2010 
 :::
 
 

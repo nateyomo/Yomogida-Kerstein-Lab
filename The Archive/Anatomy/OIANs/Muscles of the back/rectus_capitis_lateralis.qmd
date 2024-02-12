@@ -18,7 +18,7 @@ C1 (TP) @gilroyAtlasAnatomy2020
 Occipital bone (basilar part, lateral to occipital condyles) @gilroyAtlasAnatomy2020
 
 ## Innervation
-C1 Anterior Ramus @gilroyAtlasAnatomy2020
+[C1]({{< var ref-nerve-root.c1 >}}) Anterior Ramus @gilroyAtlasAnatomy2020
 
 ## Action
 

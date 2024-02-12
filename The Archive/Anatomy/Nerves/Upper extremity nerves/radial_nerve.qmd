@@ -1,0 +1,49 @@
+---
+title: Radial Nerve
+---
+
+
+# Origin
+
+Nerve roots: C5-T1 @gilroyAtlasAnatomy2020
+
+
+
+# Motor branches
+
+Direct Muscular branches to:
+
+- Brachialis (partial)
+- Triceps brachii
+- Anconeus
+- Brachioradialis
+- Extensors carpi radialis longus (ECRL)
+- Extensors carpi radialis brevis (ECRB)
+
+Indirect Muscular branches via Posterior Interosseous Nerve @gilroyAtlasAnatomy2020
+
+- Supinator
+- Extensor digitorum
+- Extensor digiti minimi
+- Extensor carpi ulnaris
+- Extensors pollicis brevis
+- Extensors pollicis longus 
+- Extensor indicis
+- Abductor pollicis longus
+
+
+# Cutaneous Branches
+
+![Radial Nerve Cutaneous Branches @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Nerves/Upper extremity nerves/images/gilroyatlasofanatomy fig28.16 radial nerve cutaneous.png)
+
+- Articular brs. from radial n.: Capsule of the shoulder joint 
+- Articular brs. from posterior interosseous n.: Joint capsule of the wrist and four radial metacarpophalangeal joints
+- Posterior brachial cutaneous n. 
+- Inferior lateral brachial cutaneous n. 
+- Posterior antebrachial cutaneous n.
+
+
+Superficial Branches
+
+- Dorsal digital nn.
+- Ulnar communicating br.

@@ -51,12 +51,13 @@ format:
     toc: true
     toc-title: Contents
     toc-location: right
-    number-sections: true
+    number-sections: false
     tbl-cap-location: top
     theme:
       light: cosmo
       dark: darkly
     mainfont: helvetica
+    fontsize: 14px
     css: styles.css
   #pdf:
     #toc: true

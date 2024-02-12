@@ -1,0 +1,13 @@
+---
+title: Guillain-Barre Syndrome
+---
+
+
+
+
+
+# Symptoms
+
+## Gait
+
+- [Steppage Gait]({{< var ref-gait.symptom.steppage >}})

@@ -4,7 +4,7 @@ title: Receiver Operating Characteristic (ROC) Curve
 
 The ROC curve is a visualization of the trade-off between high sensitivity and high specificity @motulskyIntuitiveBiostatisticsNonmathematical2018.
 
-![An ROC Curve](/The Archive/Evidene Based Practice/Psychometrics/images/Fig42.1 ROC Curve Intuitive.png)
+![An ROC Curve](/The Archive/Evidene Based Practice/Psychometrics/images/Fig42.1 ROC Curve Intuitive.png){fig-}
 
 # Reading an ROC Curve
 

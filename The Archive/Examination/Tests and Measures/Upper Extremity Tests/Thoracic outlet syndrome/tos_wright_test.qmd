@@ -1,11 +1,11 @@
 ---
-title: Wright Test
+title: Wright's Test
 subtitle: A special test for thoracic outlet syndrome
 ---
 
 {{< video https://www.youtube.com/watch?v=e-6AiDPyd2Q&pp=ygULd3JpZ2h0IHRlc3Q%3D >}}
 
-Tests for thoracic outley syndrome occurring at the Thoraco-coraco-pectoral gate @hooperThoracicOutletSyndrome2010.
+Tests for thoracic outley syndrome occurring at the Thoraco-coraco-pectoral gate @hooperPart1ThoracicOutletSyndrome2010.
 
 # Technique
 
@@ -15,8 +15,8 @@ Tests for thoracic outley syndrome occurring at the Thoraco-coraco-pectoral gate
 - Ask patient to raise arm into hyperabduction
 - Help for 1-2 min
 
-# Interpretation
+# Scoring
 
-- (+)
-    - Reproduction of paresthesia
-    - Decrease in the radial pulse
+- Positive Test
+    - (+) Reproduction of paresthesia
+    - (+) Decrease in the radial pulse

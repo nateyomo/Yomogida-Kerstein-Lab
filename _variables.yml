@@ -101,7 +101,7 @@ ref-z-joint:
   path: "/The Archive/Anatomy/Joints/z-joint.qmd"
 ref-cervicothoracic-junction:
   path: "/The Archive/Anatomy/Joints/Spine joints/cervicothoracic_junction.qmd"
-ref-temperomandibular-joint:
+ref-temporomandibular-joint:
   path: "/The Archive/Anatomy/Joints/temporomandibular_joint.qmd"
   articular-disc: "/The Archive/Anatomy/Joints/temporomandibular_joint.qmd#articular-disc"
 
@@ -564,7 +564,10 @@ ref-subclavius:
   nerve: "[N. to subclavius (C5, C6)]({{< var ref-nerve-to-subclavius.path >}})"
   action: "Steadies the clavicle in the sternoclavicular joint"
 
-
+## Nerve root
+ref-nerve-root:
+  path: "/"
+  c1: "/The Archive/Anatomy/Nerve Roots/c1_nerve_root.qmd"
 ## Nerve
 ref-nerve-index:
   path: "/The Archive/Anatomy/Nerves/nerve_index.qmd"
@@ -599,6 +602,8 @@ ref-nerve-to-subclavius:
 ### Lower Extremity Nerve
 ref-lumbosacral-plexus:
   path: "/The Archive/Anatomy/Nerves/Lumbar plexus/lumbosacral_plexus.qmd"
+
+
 
 
 ## Ligaments
@@ -664,6 +669,15 @@ ref-validity:
   criterion-related: "/The Archive/Evidene Based Practice/Validity/criterion-related_validity.qmd"
   predictive: "/The Archive/Evidene Based Practice/Validity/predictive_validity.qmd"
   prescriptive: "/The Archive/Evidene Based Practice/Validity/prescriptive_validity.qmd"
+## Variability
+ref-grand-mean:
+  path: "/The Archive/Evidene Based Practice/Variability/grand_mean.qmd"
+ref-weighted-mean:
+  path: "/The Archive/Evidene Based Practice/Variability/weighted_mean.qmd"
+ref-variation-percentage:
+  path: "/The Archive/Evidene Based Practice/Variability/variation_percentage.qmd"
+### ANOVA
+
 
 ## Error
 ref-error:
@@ -1265,6 +1279,7 @@ ref-cn9:
   path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN9_Glossopharyngeal.qmd"
 ref-cn10:
   path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN10_Vagus.qmd"
+  vagal-nerve-stimulation: "/The Archive/Interventions/vagal_nerve_stimulation.qmd"
 ref-cn11:
   path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN11_Accessory.qmd"
 ref-cn12:
@@ -1306,6 +1321,7 @@ ref-main-sensory-nucleus-of-CN-V:
   path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/main_sensory_nucleus_of_cn_v.qmd"
 ref-spinal-trigeminal-nucleus:
   path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/spinal_trigeminal_nucleus.qmd"
+  trigeminocervical-nucleus: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/spinal_trigeminal_nucleus.qmd"
 ref-cochlear-nuclei:
   path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/cochlear_nuclei.qmd"
 ref-vestibular-nuclei:
@@ -1402,23 +1418,49 @@ ref-perception:
   deficits:
     path: "/The Archive/Neuroscience/Neurophysiology/Perception/perception_deficits.qmd"
     anosognosia: "/The Archive/Symptoms/Neuro Symptoms/Perceptual deficits/anosognosia.qmd"
+ref-neglect:
+  path: "/The Archive/Symptoms/Neuro Symptoms/Perceptual deficits/neglect.qmd"
 
 ref-object-permanence:
   path: "/The Archive/Neuroscience/Neurophysiology/Cognition/object_permanence.qmd"
+
+### Reflex
+ref-trigeminal-autonomic-reflex:
+  path: "/The Archive/Neuroscience/Neurophysiology/Reflex/trigeminal_autonomic_reflex.qmd"
+
 ### Neuro Symptoms
 ref-anosmia:
   path: "/The Archive/Symptoms/Neuro Symptoms/anosmia.qmd"
+ref-ataxia:
+  path: "/The Archive/Symptoms/Neuro Symptoms/Ataxia/ataxia.qmd"
+  vestibular: "/The Archive/Symptoms/Neuro Symptoms/Ataxia/vestibular_ataxia.qmd"
+  visual: "/The Archive/Symptoms/Neuro Symptoms/Ataxia/visual_ataxia.qmd"
 
 ## Neuropathology
+ref-alzheimers-disease:
+  path: "/The Archive/Neuroscience/Neuropathology/Alzheimers Disease/alzheimers_disease.qmd"
 ref-amyotrophic-lateral-sclerosis: 
   path: "/The Archive/Neuroscience/Neuropathology/Amyotrophic Lateral Sclerosis/amyotrophic_lateral_sclerosis.qmd"
 ref-down-syndrome:
   path: "/The Archive/Neuroscience/Neuropathology/Down Syndrome/down_syndrome.qmd"
+ref-multiple-sclerosis:
+  path: "/"
+ref-parkinsons-disease:
+  path: "/The Archive/Neuroscience/Neuropathology/Parkinsons Disease/parkinsons_disease.qmd"
+  fog: "/The Archive/Neuroscience/Neuropathology/Parkinsons Disease/freezing_of_gait_FOG.qmd"
+ref-spinal-cord-injury:
+  path: "/The Archive/Neuroscience/Neuropathology/SCI/spinal_cord_injury.qmd"
+ref-stroke:
+  path: "/The Archive/Neuroscience/Neuropathology/Stroke/Stroke.qmd"
+ref-traumatic-brain-injury:
+  path: "/The Archive/Neuroscience/Neuropathology/TBI/traumatic_brain_injury.qmd"
 ### Peripheral nervous system pathologies
 ref-trigeminal-neuralgia:
   path: "/The Archive/Neuroscience/Neuropathology/Peripheral Nervous System Pathologies/Peripheral Neuralgia/trigeminal_neuralgia.qmd"
 ref-bell-palsy:
   path: "/The Archive/Neuroscience/Neuropathology/Peripheral Nervous System Pathologies/Peripheral Neuralgia/Bell_palsy.qmd"
+ref-guillain-barre-syndrome:
+  path: "/The Archive/Neuroscience/Neuropathology/Peripheral Nervous System Pathologies/Peripheral Neuralgia/guillain-barre-syndrome.qmd"
 
 ## Neuro Examination
 ### Reflexes
@@ -1453,12 +1495,13 @@ ref-tinnitus:
 ref-vertigo:
   path: "/The Archive/Symptoms/Ear symptoms/vertigo.qmd"
 ## Eye Symptoms
-ref-eye-symptoms:
+ref-eye-symptom:
   path: "/"
   hemianopsia: "/The Archive/Symptoms/Eye Symptoms/hemianopsia.qmd"
 ## Headaches
 ref-headache:
   path: "/The Archive/Symptoms/Headache/headache.qmd"
+  cluster: "/The Archive/Symptoms/Headache/cluster_headache.qmd"
 ref-migraine:
   path: "/The Archive/Symptoms/Headache/migraine.qmd"
 
@@ -1471,6 +1514,12 @@ ref-balance:
 ## Gait
 ref-gait:
   path: "/The Archive/Systems/Gait/gait.qmd"
+  symptom:
+    steppage: "/The Archive/Systems/Gait/Gait Symptoms/steppage_gait.qmd"
+    waddling: "/The Archive/Systems/Gait/Gait Symptoms/waddling_gait.qmd"
+    parkinsonian: "/The Archive/Systems/Gait/Gait Symptoms/parkinsonian_gait.qmd"
+    cerebellar-ataxic: "/The Archive/Systems/Gait/Gait Symptoms/cerebellar_ataxic_gait.qmd"
+    cautious: "/The Archive/Systems/Gait/Gait Symptoms/cautious_gait.qmd"
 ## Posture
 ref-posture:
   path: "/The Archive/Systems/Posture/posture.qmd"

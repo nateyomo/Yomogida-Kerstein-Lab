@@ -9,7 +9,7 @@ title: Doxycycline
 
 Treatment:
 
-- Oral was found to be as effective as IV antibiotics for neuroborreliosis @roosneuro
+- Oral was found to be as effective as IV antibiotics for neuroborreliosis @roosNeurologicComplicationsLyme2021
 
 # Contraindications
 

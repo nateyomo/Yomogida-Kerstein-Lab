@@ -14,7 +14,7 @@ title: Perceptual Deficits
 :::
 
 ## Anosognosia
-[Anosognosia]({{< var ref-perceptual-deficits.anosognosia >}}): Neuropathological unawareness of a condition or impairment
+[Anosognosia]({{< var ref-perception.deficits.anosognosia >}}): Neuropathological unawareness of a condition or impairment
 
 ## Somatoagnosia
 Pt feels parts of body have disappeared or pt has lack of awareness of part of body

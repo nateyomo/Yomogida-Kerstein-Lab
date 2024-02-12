@@ -21,7 +21,7 @@ C2 (SP) @gilroyAtlasAnatomy2020
 C1 TP @gilroyAtlasAnatomy2020
 
 ## Innervation
-[Suboccipital N.]({{< var ref-suboccipital-nerve.path >}}) AKA Posterior ramus of C1 @gilroyAtlasAnatomy2020
+[Suboccipital N.]({{< var ref-suboccipital-nerve.path >}}) AKA [Posterior ramus of C1]({{< var ref-nerve-root.c1 >}}) @gilroyAtlasAnatomy2020
 
 ## Action
 

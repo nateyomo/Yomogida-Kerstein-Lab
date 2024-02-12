@@ -1,0 +1,23 @@
+---
+title: MSK of the Hand
+---
+
+
+
+# Kinematics
+
+
+:::{.callout title="Wrist Extension"}
+PRIMARY SET (ACT ON WRIST ONLY) @neumannKinesiologyMusculoskeletalSystem2017
+
+- Extensor carpi radialis longus
+- Extensor carpi radialis brevis
+- Extensor carpi ulnaris
+
+SECONDARY SET (ACT ON WRIST AND HAND) @neumannKinesiologyMusculoskeletalSystem2017
+
+- Extensor digitorum
+- Extensor indicis
+- Extensor digiti minimi
+- Extensor pollicis longus
+:::

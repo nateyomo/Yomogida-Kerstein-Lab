@@ -7,6 +7,8 @@ A structure that is part of the [Corpora Quadrigemina]({{< var ref-corpora-quadr
 # Pathway
 ## Input
 
+Mechanoreceptor input from upper cervical segments (OA, AA, A-c3) from cervical spine muscles have direct input on the superior colliculus @kristjanssonSensorimotorFunctionDizziness2009
+
 ## Pathway
 
 Decussate: in midbrain (Dorsal tegmental decussation)
@@ -26,3 +28,10 @@ The afferent information from the superior colliculus allows
 - Visual orienting:
     - Tracking a moving object
     - Orients head & eyes (turns head away or towards flash of light)
+
+
+# Clinical Significance
+
+Mechanoreceptor input(OA, AA, A-c3) and C/S muscles to the superior colliculus can cause problems with sensorimotor control as well as cervicogenic headaches @kristjanssonSensorimotorFunctionDizziness2009.
+
+Even stimulation of these muscle afferents (via nuck muscle vibration) can induce eye position changes, visual illusory mvmts and head mvmt illusions)

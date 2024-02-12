@@ -12,18 +12,53 @@ Important to avoid pathologies, such as [thoracic outlet syndrome]({{< var ref-t
 
 # Muscles related to respiration
 
-## Primary
+## Inspiration
 
+Primary
 
-## Accessory
+- Diaphragm
+- Levator costarum
+- External intercostals
+- Internal intercostals (ant) 
 
-- Scalenes
+Accessory
+
+- Scaleni
+- Sternocleidomastoid (SCM)
+- Trapezius (UT, MT, LT)
+- Serratus Anterior (SA)
+- Serratus Posterior Sup/Inf (SP)
+- Pectoralis Major
+- Pectoralis Minor
+- Lat dorsi
+- Subclavius
 
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
 | [Sternocleidomastoid]({{< var ref-sternocleidomastoid.path >}}) | {{< var ref-sternocleidomastoid.origin >}} | {{< var ref-sternocleidomastoid.insertion >}} | {{< var ref-sternocleidomastoid.nerve >}} | {{< var ref-sternocleidomastoid.action >}} |
 
-: Sternocleidomastoid OIAN {.striped .hover}
+: Accessory Muscles of Inspiration {.striped .hover}
+
+## Expiration
+
+Primary
+
+- abs: 
+    - Internal Obliques (IO)
+    - External obliques (EO)
+    - Rectus Abdominis (RA)
+    - Transverse Abdominis (TA)
+- Transverse Intercostal
+- Internal intercostal
+- Transversus Thoracis
+
+Accessory
+
+- Lat dorsi
+- Serratus post inf
+- Quadratus Lumborum (QL)
+- Iliocostalis lumborum
+
 
 
 # Dysfunctional Breathing

@@ -6,44 +6,59 @@ title: Tension Type Headache
 
 Women > men
 
+# Etiology
+
+- Myofascial tension
+- Postural dysfunction
+- Genetic component (Familial history)
+
 # Clinical Presentation
-
-- Typically bilateral
-    - muscles of the head
-    - Periorbital, temporal and occipital
-
-
-- May occur daily for several hours a day
-- Chronic potentially in nature
 
 Precipitating factors:
 
 - Stress
 - Tension
 
-
 Onset:
 
-- Usually u dont wake up w this
+- Usually you don't wake up w this type of headache
 - Builds over the course of the day
 - No warning signs
+    - No aura
+
+Area of symptoms:
+
+- Typically bilateral
+    - muscles of the head
+    - Periorbital, temporal and occipital
+
+Duration:
+
+- May occur daily for several hours a day
+- Chronic potentially in nature
 
 
-## Symptoms
+# Symptoms
 
 Quality:
 
-- Dull ache, tight band, heavy weight on head
+- Dull ache
+- Tight band
+- Heavy weight on head
 - Mod to severe
 
 Associated symptoms:
 
+- Nausea
+- Vomiting
+- C/S Pain
+- Photophobia
 
 # Treatment
 
 ## Physical therapy
 
-
+:::{.callout title="PT School recommendations"}
 - Trigger point release
 - STM/MFR
 - Upper C/S HVLAT or mobs
@@ -51,4 +66,4 @@ Associated symptoms:
 - Stretching
 - Strengthening
 - Pt education
-
+:::

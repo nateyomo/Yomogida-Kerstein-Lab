@@ -3,12 +3,14 @@ title: Interscalene Triangle
 ---
 
 
+![Brachial Plexus @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Nerves/Upper extremity nerves/images/gilroyatlas fig28.11 brachial plexus course.png)
+![Interscalene Space @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Multi-system structures/Upper extremity/images/gilroyatlasofanatomy fig 28.33 interscalene triangle.png)
+
 The borders of the triangle are the lateral border of the scalenus anterior muscle, the medial border of the scalenus medius muscle, and the first rib inferiorly @georgakopoulosAnatomyHeadNeck2024
 
-# Compression
+# Dysfunction
 
 Interscalene space compression can cause pathologies, such as thoracic outlet syndrome
-
 
 - Thoracic outlet syndrome
     - The Adson's Test is believed to improve

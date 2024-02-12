@@ -6,10 +6,17 @@ title: 1st Rib (Bone)
 
 Types of cervical rib:
 
-- Type I: complete cervical rib articulates with the first rib or manubrium of sternum @hooperThoracicOutletSyndrome2010
-- Type II: incomplete cervical ribs with a free end expanded to form a bulbous tip @hooperThoracicOutletSyndrome2010
-- Type III: an incomplete rib that is continued by a fibrous band @hooperThoracicOutletSyndrome2010
-- Type Iv: rib that appears as a short bar of bone with a length of a few millimeters beyond the C7 TP @hooperThoracicOutletSyndrome2010
+- Type I: complete cervical rib articulates with the first rib or manubrium of sternum @hooperPart1ThoracicOutletSyndrome2010
+- Type II: incomplete cervical ribs with a free end expanded to form a bulbous tip @hooperPart1ThoracicOutletSyndrome2010
+- Type III: an incomplete rib that is continued by a fibrous band @hooperPart1ThoracicOutletSyndrome2010
+- Type Iv: rib that appears as a short bar of bone with a length of a few millimeters beyond the C7 TP @hooperPart1ThoracicOutletSyndrome2010
+
+# Variations
+
+- Type I: complete cervical rib articulates with the first rib or manubrium of sternum @hooperPart1ThoracicOutletSyndrome2010
+- Type II: incomplete cervical ribs with a free end expanded to form a bulbous tip @hooperPart1ThoracicOutletSyndrome2010
+- Type III: an incomplete rib that is continued by a fibrous band @hooperPart1ThoracicOutletSyndrome2010
+- Type IV: rib that appears as a short bar of bone with a length of a few millimeters beyond the C7 TP @hooperPart1ThoracicOutletSyndrome2010
 
 
 # Muscle attachments

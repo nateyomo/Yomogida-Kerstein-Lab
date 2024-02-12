@@ -2,7 +2,7 @@
 title: Krippendorff's Alpha
 ---
 
-Krippendorff's Alpha is a modified [Kappa coefficient]({{< var ref-kappa-coefficient.path >}}) that is a measure of agreement, which is even more flexible than Fleiss’ Kappa @zapfMeasuringInterraterReliability2016.
+Krippendorff's Alpha is a modified [Kappa coefficient]({{< var ref-reliablity.kappa-coefficient >}}) that is a measure of agreement, which is even more flexible than Fleiss’ Kappa @zapfMeasuringInterraterReliability2016.
 
 Krippendorff's alpha is used instead of Kappa Coefficient when there are multiple categories
 
@@ -12,7 +12,7 @@ Krippendorff’s alpha in contrast is based on the observed disagreement correct
 
 
 # Use
-For nominal data with no missing values both [Fleiss’ Kappa]({{< var ref-fleiss-kappa.path >}}) and Krippendorff’s alpha can be recommended
+For nominal data with no missing values both [Fleiss’ Kappa]({{< var ref-reliability-fleiss-kappa >}}) and Krippendorff’s alpha can be recommended
 
 
 Krippendorff's Alpha can be used for two or more raters and categories, and it is not only applicable for nominal data, but for any measurement scale, including metric data @zapfMeasuringInterraterReliability2016

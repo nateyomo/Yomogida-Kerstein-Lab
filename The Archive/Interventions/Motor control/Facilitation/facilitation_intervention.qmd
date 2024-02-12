@@ -142,3 +142,54 @@ Approximate the R side inferiorly
 Traction the L side superiorly (elongates the trunk)
 Side shift
 Translate both sides horizontally (i.e. approximate left shoulder and traction the other shoulder along the horizontal plane)
+
+
+# Sitting
+
+- As much loading as possible! 
+- Feet on ground
+- Load thru the elbow, hand and elbow, or AC joint or scapula itself
+- Approximate tibia
+
+
+
+# Kneeling
+
+## Transitioning to Kneeling
+
+Standing to kneeling
+
+- Hand placement
+    - Place your hands where the impairment is to provide the most support.
+    - Otherwise, place your hands at the pelvis (ASIS) to facilitate PPT and APT.
+- Have pt crawl on to table from standing to QP
+- Facilitate from upper trunk for extension and/ or hip for extension
+- Careful to allow weight shift posteriorly before extension
+- From there go to heel sitting, to tall kneeling
+
+
+
+
+## Sidelying / Sidesitting
+
+
+## Sidelying / Heel
+
+## Stabilizing reversals
+
+“Hold, don’t let me move/push/pull you”
+
+- Ant/Post or Med/Lat direction
+    - You can provide resistance at
+        - Pelvis
+        - Upper Trunk
+- Posterior Scapular Depression/ Anterior Scapular Depression
+    - BIL or UNIL with approx. to opposite pelvis
+
+# Facilitation Treatment
+
+General Focus on treatment: 
+
+- Bigger amplitude ([PD]({{< var ref-parkinsons-disease.path >}}))
+- Forced use (stroke)
+- For BIL impairments: Focus more on stability (i.e. MS)

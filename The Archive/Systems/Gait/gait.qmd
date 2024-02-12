@@ -5,3 +5,32 @@ title: Gait
 # Motor systems
 
 [Reticulospinal tracts]({{< var ref-reticulospinal-tract.path >}}) functions in gait-related movements  @blumenfeldNeuroanatomyClinicalCases2022
+
+
+
+
+# Gait Disorders
+
+## Sensory and Lower motor Gait disorders
+
+- [Steppage Gait]({{< var ref-gait.symptom.steppage >}})
+- [Vestibular Ataxia]({{< var ref-ataxia.vestibular >}})
+- [Visual Ataxia]({{< var ref-ataxia.visual >}})
+- [Waddling Gait]({{< var ref-gait.symptom.waddling >}})
+
+## Simpler Central Origin Gait disorders
+
+Simpler gait disorders of central origin follow lesions located more centrally than the ones causing sensory and lower motor gait disorders. Disorders of pyramidal, cerebellar, or nigral motor systems cause distortion of appropriate postural and locomotor synergies [44]. In general, the correct postural and locomotor responses are selected, but their execution is faulty @brazisLocalizationClinicalNeurology2022
+
+- Spastic Gait
+- Cerebellar Ataxic Gait
+- Parkinsonian gait
+- CHOREIC, HEMIBALLISTIC, AND DYSTONIC GAITS
+
+## Complex Central Origin Gait Disorders
+
+Complex gait disorders of central origin are less well characterized than the ones previously described. Nonetheless, they are probably more common, particularly in the elderly population. In some cases, they are caused by lesions of brainstem nuclei. Some others are due to damage of the control loop that begins in the paracentral cortex and PMC and projects to the putamen. Through direct and indirect pathways, modified by input from the substantia nigra and subthalamic nucleus, the putamen projects to the medial globus pallidus, which inhibits the activity of thalamic neurons in the ventrolateral and ventral anterior nuclei. These thalamic nuclei send facilitatory projections to the frontal cortex. This loop probably plays an important role in mediating overlearned, unconscious motor activity that runs in the background, such as gait and postural reflexes. Patients with lesions in this loop can markedly improve their gait by paying attention to it. They have a faulty “automatic pilot” for postural reflexes. Finally, other gait disorders result from direct dysfunction of the cortex in the posterior portion of the medial frontal region.
+
+
+
+- Cautious Gait

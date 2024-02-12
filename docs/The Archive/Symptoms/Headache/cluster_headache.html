@@ -20,7 +20,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -120,16 +139,28 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Contents</h2>
    
   <ul>
-  <li><a href="#epidemiology" id="toc-epidemiology" class="nav-link active" data-scroll-target="#epidemiology"><span class="header-section-number">1</span> Epidemiology</a></li>
-  <li><a href="#etiology" id="toc-etiology" class="nav-link" data-scroll-target="#etiology"><span class="header-section-number">2</span> Etiology</a></li>
-  <li><a href="#pathophysiology" id="toc-pathophysiology" class="nav-link" data-scroll-target="#pathophysiology"><span class="header-section-number">3</span> Pathophysiology</a></li>
-  <li><a href="#clinical-presentation" id="toc-clinical-presentation" class="nav-link" data-scroll-target="#clinical-presentation"><span class="header-section-number">4</span> Clinical Presentation</a>
+  <li><a href="#epidemiology" id="toc-epidemiology" class="nav-link active" data-scroll-target="#epidemiology">Epidemiology</a></li>
+  <li><a href="#etiology" id="toc-etiology" class="nav-link" data-scroll-target="#etiology">Etiology</a></li>
+  <li><a href="#types" id="toc-types" class="nav-link" data-scroll-target="#types">Types</a></li>
+  <li><a href="#pathophysiology" id="toc-pathophysiology" class="nav-link" data-scroll-target="#pathophysiology">Pathophysiology</a></li>
+  <li><a href="#clinical-presentation" id="toc-clinical-presentation" class="nav-link" data-scroll-target="#clinical-presentation">Clinical Presentation</a>
   <ul class="collapse">
-  <li><a href="#time" id="toc-time" class="nav-link" data-scroll-target="#time"><span class="header-section-number">4.1</span> Time</a></li>
-  <li><a href="#triggers" id="toc-triggers" class="nav-link" data-scroll-target="#triggers"><span class="header-section-number">4.2</span> Triggers</a></li>
-  <li><a href="#symptoms" id="toc-symptoms" class="nav-link" data-scroll-target="#symptoms"><span class="header-section-number">4.3</span> Symptoms</a></li>
+  <li><a href="#precipitating-factors" id="toc-precipitating-factors" class="nav-link" data-scroll-target="#precipitating-factors">Precipitating factors</a></li>
+  <li><a href="#onset" id="toc-onset" class="nav-link" data-scroll-target="#onset">Onset</a></li>
+  <li><a href="#time" id="toc-time" class="nav-link" data-scroll-target="#time">Time</a></li>
   </ul></li>
-  <li><a href="#treatment" id="toc-treatment" class="nav-link" data-scroll-target="#treatment"><span class="header-section-number">5</span> Treatment</a></li>
+  <li><a href="#symptoms" id="toc-symptoms" class="nav-link" data-scroll-target="#symptoms">Symptoms</a>
+  <ul class="collapse">
+  <li><a href="#area-of-symptoms" id="toc-area-of-symptoms" class="nav-link" data-scroll-target="#area-of-symptoms">Area of Symptoms</a></li>
+  <li><a href="#quality" id="toc-quality" class="nav-link" data-scroll-target="#quality">Quality</a></li>
+  <li><a href="#associated-symptoms" id="toc-associated-symptoms" class="nav-link" data-scroll-target="#associated-symptoms">Associated Symptoms</a></li>
+  </ul></li>
+  <li><a href="#treatment" id="toc-treatment" class="nav-link" data-scroll-target="#treatment">Treatment</a>
+  <ul class="collapse">
+  <li><a href="#vagal-nerve-stimulation" id="toc-vagal-nerve-stimulation" class="nav-link" data-scroll-target="#vagal-nerve-stimulation">Vagal Nerve Stimulation</a></li>
+  <li><a href="#patient-education" id="toc-patient-education" class="nav-link" data-scroll-target="#patient-education">Patient education</a></li>
+  <li><a href="#bloodflow-improvement" id="toc-bloodflow-improvement" class="nav-link" data-scroll-target="#bloodflow-improvement">Bloodflow improvement</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -160,67 +191,171 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="epidemiology" class="level1" data-number="1">
-<h1 data-number="1"><span class="header-section-number">1</span> Epidemiology</h1>
+<section id="epidemiology" class="level1">
+<h1>Epidemiology</h1>
 <ul>
 <li>Men &gt; women</li>
 <li>May be associate w Horners syndrome (myosis, ptosis, anhidrosis)</li>
 </ul>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Cluster is greater in men than women, which is unlike the other headache types</p>
+</div>
+</div>
 </section>
-<section id="etiology" class="level1" data-number="2">
-<h1 data-number="2"><span class="header-section-number">2</span> Etiology</h1>
+<section id="etiology" class="level1">
+<h1>Etiology</h1>
 <ul>
 <li>Unknown</li>
-<li>Genetic factor: (+) Family hx</li>
+<li>No Genetic factors</li>
+</ul>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Lack of familial history or genetic factors is different from other headache types</p>
+</div>
+</div>
+</section>
+<section id="types" class="level1">
+<h1>Types</h1>
+<ul>
+<li>Episodic Cluster Headache (ECH)<span class="citation" data-cites="weiClusterHeadachePathophysiology2021"><sup><a href="#ref-weiClusterHeadachePathophysiology2021" role="doc-biblioref">1</a></sup></span></li>
+<li>Chronic Cluster Headache (CCH)<span class="citation" data-cites="weiClusterHeadachePathophysiology2021"><sup><a href="#ref-weiClusterHeadachePathophysiology2021" role="doc-biblioref">1</a></sup></span></li>
 </ul>
 </section>
-<section id="pathophysiology" class="level1" data-number="3">
-<h1 data-number="3"><span class="header-section-number">3</span> Pathophysiology</h1>
+<section id="pathophysiology" class="level1">
+<h1>Pathophysiology</h1>
 <ul>
-<li>Trigemino-autonomic reflex</li>
+<li>Trigeminal autonomic reflex</li>
 <li>Hypothalamus? Unclear</li>
 </ul>
 </section>
-<section id="clinical-presentation" class="level1" data-number="4">
-<h1 data-number="4"><span class="header-section-number">4</span> Clinical Presentation</h1>
-<section id="time" class="level2" data-number="4.1">
-<h2 data-number="4.1" class="anchored" data-anchor-id="time"><span class="header-section-number">4.1</span> Time</h2>
-<p>15 min to 2 hours</p>
-</section>
-<section id="triggers" class="level2" data-number="4.2">
-<h2 data-number="4.2" class="anchored" data-anchor-id="triggers"><span class="header-section-number">4.2</span> Triggers</h2>
+<section id="clinical-presentation" class="level1">
+<h1>Clinical Presentation</h1>
+<section id="precipitating-factors" class="level2">
+<h2 class="anchored" data-anchor-id="precipitating-factors">Precipitating factors</h2>
 <ul>
 <li>Neck mvmts may trigger them or may not</li>
 </ul>
 </section>
-<section id="symptoms" class="level2" data-number="4.3">
-<h2 data-number="4.3" class="anchored" data-anchor-id="symptoms"><span class="header-section-number">4.3</span> Symptoms</h2>
+<section id="onset" class="level2">
+<h2 class="anchored" data-anchor-id="onset">Onset</h2>
+<ul>
+<li>No warning signs
+<ul>
+<li>No aura</li>
+</ul></li>
+</ul>
+</section>
+<section id="time" class="level2">
+<h2 class="anchored" data-anchor-id="time">Time</h2>
+<ul>
+<li>Headaches can last from 15 min to 3 h<span class="citation" data-cites="weiClusterHeadachePathophysiology2021"><sup><a href="#ref-weiClusterHeadachePathophysiology2021" role="doc-biblioref">1</a></sup></span></li>
+</ul>
+</section>
+</section>
+<section id="symptoms" class="level1">
+<h1>Symptoms</h1>
+<section id="area-of-symptoms" class="level2">
+<h2 class="anchored" data-anchor-id="area-of-symptoms">Area of Symptoms</h2>
 <ul>
 <li><p>Unilateral</p>
 <ul>
 <li>May change sides</li>
 </ul></li>
-<li><p>Location: Temporal, frontal, or retroorbital , occipital pain</p></li>
+<li><p>Trigeminal nerve distribution<span class="citation" data-cites="weiClusterHeadachePathophysiology2021"><sup><a href="#ref-weiClusterHeadachePathophysiology2021" role="doc-biblioref">1</a></sup></span></p></li>
 <li><p>Need at least 5 attacks unilaterally, 15 min-3 hours</p>
 <ul>
 <li>Probs to sympathetic nerves of face</li>
 </ul></li>
 </ul>
 </section>
+<section id="quality" class="level2">
+<h2 class="anchored" data-anchor-id="quality">Quality</h2>
+<ul>
+<li>Burning</li>
+<li>Piercing</li>
+<li>Severe</li>
+</ul>
 </section>
-<section id="treatment" class="level1" data-number="5">
-<h1 data-number="5"><span class="header-section-number">5</span> Treatment</h1>
+<section id="associated-symptoms" class="level2">
+<h2 class="anchored" data-anchor-id="associated-symptoms">Associated Symptoms</h2>
+<ul>
+<li>Nausea, vomiting, bradycardia</li>
+<li>Photophobia</li>
+<li>Nasal congestion, flush face</li>
+<li>Possible mild neck symptoms</li>
+<li>Autonomic response (lacrimation, ptosis)</li>
+</ul>
+</section>
+</section>
+<section id="treatment" class="level1">
+<h1>Treatment</h1>
+<div class="callout callout-style-simple callout-none no-icon callout-titled" title="from PT School">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+from PT School
+</div>
+</div>
+<div class="callout-body-container callout-body">
 <ul>
 <li>Stress reduction</li>
-<li><a href="?var:ref-vagal-nerve-stimulation.path">Vagal nerve stimulation</a> (non invasive)</li>
+<li><a href="../../../The Archive/Interventions/vagal_nerve_stimulation.html">Vagal nerve stimulation</a> (non invasive)</li>
 <li>C/s strength and mobility</li>
 <li>Consider the T/S as well</li>
 </ul>
+</div>
+</div>
+<section id="vagal-nerve-stimulation" class="level2">
+<h2 class="anchored" data-anchor-id="vagal-nerve-stimulation">Vagal Nerve Stimulation</h2>
+<ul>
+<li><a href="../../../The Archive/Interventions/vagal_nerve_stimulation.html">vagal nerve stimulation</a> was found to have pain relief within 15 minutes for ECH and not CCH<span class="citation" data-cites="weiClusterHeadachePathophysiology2021"><sup><a href="#ref-weiClusterHeadachePathophysiology2021" role="doc-biblioref">1</a></sup></span>.</li>
+<li><a href="../../../The Archive/Interventions/vagal_nerve_stimulation.html">vagal nerve stimulation</a> was found to significantly reduce CCH attacks when performed in addition to standard of care<span class="citation" data-cites="weiClusterHeadachePathophysiology2021"><sup><a href="#ref-weiClusterHeadachePathophysiology2021" role="doc-biblioref">1</a></sup></span>.
+<ul>
+<li>ECH was not tested</li>
+</ul></li>
+</ul>
+</section>
+<section id="patient-education" class="level2">
+<h2 class="anchored" data-anchor-id="patient-education">Patient education</h2>
+<ul>
+<li>Stress reduction techniques<span class="citation" data-cites="weiClusterHeadachePathophysiology2021"><sup><a href="#ref-weiClusterHeadachePathophysiology2021" role="doc-biblioref">1</a></sup></span></li>
+</ul>
+</section>
+<section id="bloodflow-improvement" class="level2">
+<h2 class="anchored" data-anchor-id="bloodflow-improvement">Bloodflow improvement</h2>
+<ul>
+<li>Cardiovascular could help to improve bloodflow through the brain, resulting in reduction in symptoms</li>
+</ul>
+
 
 
 </section>
+</section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-weiClusterHeadachePathophysiology2021" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Wei DY, Goadsby PJ. Cluster headache pathophysiology <span></span> insights from current and emerging treatments. <em>Nature Reviews Neurology</em>. 2021;17(5):308-324. doi:<a href="https://doi.org/10.1038/s41582-021-00477-w">10.1038/s41582-021-00477-w</a></div>
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
