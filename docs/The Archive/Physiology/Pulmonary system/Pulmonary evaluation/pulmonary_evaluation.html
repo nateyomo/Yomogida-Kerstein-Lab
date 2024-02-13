@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>YK Lab - Parkinson’s Disease (PD)</title>
+<title>YK Lab - Pulmonary Evaluation</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,26 +20,7 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for citations */
-div.csl-bib-body { }
-div.csl-entry {
-  clear: both;
-}
-.hanging-indent div.csl-entry {
-  margin-left:2em;
-  text-indent:-2em;
-}
-div.csl-left-margin {
-  min-width:2em;
-  float:left;
-}
-div.csl-right-inline {
-  margin-left:2em;
-  padding-left:1em;
-}
-div.csl-indent {
-  margin-left: 2em;
-}</style>
+</style>
 
 
 <script src="../../../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -80,6 +61,9 @@ div.csl-indent {
     "search-label": "Search"
   }
 }</script>
+<script src="../../../../site_libs/quarto-diagram/mermaid.min.js"></script>
+<script src="../../../../site_libs/quarto-diagram/mermaid-init.js"></script>
+<link href="../../../../site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
 
 
 <link rel="stylesheet" href="../../../../styles.css">
@@ -139,42 +123,32 @@ div.csl-indent {
     <h2 id="toc-title">Contents</h2>
    
   <ul>
-  <li><a href="#epidemiology" id="toc-epidemiology" class="nav-link active" data-scroll-target="#epidemiology">Epidemiology</a></li>
-  <li><a href="#etiology" id="toc-etiology" class="nav-link" data-scroll-target="#etiology">Etiology</a>
+  <li><a href="#subjective" id="toc-subjective" class="nav-link active" data-scroll-target="#subjective">Subjective</a>
   <ul class="collapse">
-  <li><a href="#primary-parkinsonism-idiopathic" id="toc-primary-parkinsonism-idiopathic" class="nav-link" data-scroll-target="#primary-parkinsonism-idiopathic">Primary Parkinsonism (Idiopathic)</a></li>
-  <li><a href="#secondary-parkinsonism" id="toc-secondary-parkinsonism" class="nav-link" data-scroll-target="#secondary-parkinsonism">Secondary Parkinsonism</a>
+  <li><a href="#environment" id="toc-environment" class="nav-link" data-scroll-target="#environment">Environment</a></li>
+  <li><a href="#history" id="toc-history" class="nav-link" data-scroll-target="#history">History</a></li>
+  </ul></li>
+  <li><a href="#physical-exam" id="toc-physical-exam" class="nav-link" data-scroll-target="#physical-exam">Physical Exam</a>
   <ul class="collapse">
-  <li><a href="#toxic-parkinsonismosullivan-schmitz-and-fulk-2019" id="toc-toxic-parkinsonismosullivan-schmitz-and-fulk-2019" class="nav-link" data-scroll-target="#toxic-parkinsonismosullivan-schmitz-and-fulk-2019">Toxic Parkinsonism(O’Sullivan, Schmitz, and Fulk 2019)</a></li>
-  <li><a href="#drug-induced-parkinsonism" id="toc-drug-induced-parkinsonism" class="nav-link" data-scroll-target="#drug-induced-parkinsonism">Drug-Induced Parkinsonism</a></li>
-  <li><a href="#metabolic-pd" id="toc-metabolic-pd" class="nav-link" data-scroll-target="#metabolic-pd">Metabolic PD</a></li>
-  </ul></li>
-  <li><a href="#parkinson-plus" id="toc-parkinson-plus" class="nav-link" data-scroll-target="#parkinson-plus">Parkinson-Plus</a></li>
-  </ul></li>
-  <li><a href="#pathophysiology" id="toc-pathophysiology" class="nav-link" data-scroll-target="#pathophysiology">Pathophysiology</a>
+  <li><a href="#observation" id="toc-observation" class="nav-link" data-scroll-target="#observation">Observation</a></li>
+  <li><a href="#auscultation" id="toc-auscultation" class="nav-link" data-scroll-target="#auscultation">Auscultation</a>
   <ul class="collapse">
-  <li><a href="#degeneration" id="toc-degeneration" class="nav-link" data-scroll-target="#degeneration">Degeneration</a></li>
-  <li><a href="#lewy-bodies" id="toc-lewy-bodies" class="nav-link" data-scroll-target="#lewy-bodies">Lewy Bodies</a></li>
-  <li><a href="#basal-ganglia-loop-dysfunction" id="toc-basal-ganglia-loop-dysfunction" class="nav-link" data-scroll-target="#basal-ganglia-loop-dysfunction">Basal Ganglia Loop Dysfunction</a></li>
+  <li><a href="#documentation" id="toc-documentation" class="nav-link" data-scroll-target="#documentation">Documentation</a></li>
   </ul></li>
-  <li><a href="#clinical-presentation" id="toc-clinical-presentation" class="nav-link" data-scroll-target="#clinical-presentation">Clinical Presentation</a>
+  <li><a href="#pulmonary-palpation" id="toc-pulmonary-palpation" class="nav-link" data-scroll-target="#pulmonary-palpation">Pulmonary Palpation</a></li>
+  <li><a href="#cough-evaluation" id="toc-cough-evaluation" class="nav-link" data-scroll-target="#cough-evaluation">Cough Evaluation</a></li>
+  <li><a href="#oximetry" id="toc-oximetry" class="nav-link" data-scroll-target="#oximetry">Oximetry</a></li>
+  <li><a href="#arterial-blood-gas" id="toc-arterial-blood-gas" class="nav-link" data-scroll-target="#arterial-blood-gas">Arterial blood gas</a></li>
+  <li><a href="#venous-blood-gases" id="toc-venous-blood-gases" class="nav-link" data-scroll-target="#venous-blood-gases">Venous Blood gases</a></li>
+  <li><a href="#chest-x-rays" id="toc-chest-x-rays" class="nav-link" data-scroll-target="#chest-x-rays">Chest X-rays</a></li>
+  <li><a href="#sputum-analysis" id="toc-sputum-analysis" class="nav-link" data-scroll-target="#sputum-analysis">Sputum analysis</a></li>
+  <li><a href="#bronchoscopy" id="toc-bronchoscopy" class="nav-link" data-scroll-target="#bronchoscopy">Bronchoscopy</a></li>
+  </ul></li>
+  <li><a href="#pulmonary-function-tests" id="toc-pulmonary-function-tests" class="nav-link" data-scroll-target="#pulmonary-function-tests">Pulmonary Function Tests</a></li>
+  <li><a href="#pulmonary-embolism" id="toc-pulmonary-embolism" class="nav-link" data-scroll-target="#pulmonary-embolism">Pulmonary Embolism</a>
   <ul class="collapse">
-  <li><a href="#symptoms" id="toc-symptoms" class="nav-link" data-scroll-target="#symptoms">Symptoms</a></li>
-  <li><a href="#gait-symptoms" id="toc-gait-symptoms" class="nav-link" data-scroll-target="#gait-symptoms">Gait Symptoms</a></li>
+  <li><a href="#diagnosing-pe" id="toc-diagnosing-pe" class="nav-link" data-scroll-target="#diagnosing-pe">Diagnosing PE</a></li>
   </ul></li>
-  <li><a href="#diagnosis" id="toc-diagnosis" class="nav-link" data-scroll-target="#diagnosis">Diagnosis</a>
-  <ul class="collapse">
-  <li><a href="#subgroups" id="toc-subgroups" class="nav-link" data-scroll-target="#subgroups">Subgroups</a></li>
-  </ul></li>
-  <li><a href="#assessment" id="toc-assessment" class="nav-link" data-scroll-target="#assessment">Assessment</a></li>
-  <li><a href="#considerations" id="toc-considerations" class="nav-link" data-scroll-target="#considerations">Considerations</a>
-  <ul class="collapse">
-  <li><a href="#psychosocial" id="toc-psychosocial" class="nav-link" data-scroll-target="#psychosocial">Psychosocial</a></li>
-  </ul></li>
-  <li><a href="#interventions" id="toc-interventions" class="nav-link" data-scroll-target="#interventions">Interventions</a></li>
-  <li><a href="#motor-control" id="toc-motor-control" class="nav-link" data-scroll-target="#motor-control">Motor Control</a></li>
-  <li><a href="#rehabilitation" id="toc-rehabilitation" class="nav-link" data-scroll-target="#rehabilitation">Rehabilitation</a></li>
-  <li><a href="#resources" id="toc-resources" class="nav-link" data-scroll-target="#resources">Resources</a></li>
   </ul>
 </nav>
     </div>
@@ -183,7 +157,7 @@ div.csl-indent {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Parkinson’s Disease (PD)</h1>
+<h1 class="title">Pulmonary Evaluation</h1>
 </div>
 
 
@@ -205,76 +179,262 @@ div.csl-indent {
 
 </header>
 
-<section id="epidemiology" class="level1">
-<h1>Epidemiology</h1>
-</section>
-<section id="etiology" class="level1">
-<h1>Etiology</h1>
+<section id="subjective" class="level1">
+<h1>Subjective</h1>
+<p>Patient history/chart review—as per all patients</p>
+<section id="environment" class="level2">
+<h2 class="anchored" data-anchor-id="environment">Environment</h2>
 <ul>
-<li>Primary PD (idiopathic)</li>
-<li>Secondary PD</li>
-<li>Parkinson-Plus</li>
+<li>Environmental or occupational toxins</li>
 </ul>
-<section id="primary-parkinsonism-idiopathic" class="level2">
-<h2 class="anchored" data-anchor-id="primary-parkinsonism-idiopathic">Primary Parkinsonism (Idiopathic)</h2>
 </section>
-<section id="secondary-parkinsonism" class="level2">
-<h2 class="anchored" data-anchor-id="secondary-parkinsonism">Secondary Parkinsonism</h2>
+<section id="history" class="level2">
+<h2 class="anchored" data-anchor-id="history">History</h2>
 <ul>
-<li>Postencephalitic Parkinsonism</li>
-<li>Toxic Parkinsonism</li>
-<li>Drug-Induced Parkinsonism</li>
-</ul>
-<p>Postencephalitic Parkinsonism<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">1</a></sup></span></p>
+<li>Smoking history</li>
+<li>History of pneumonia, thoracic procedures or surgery</li>
+<li>History of assisted ventilation or mechanical ventilation</li>
+<li>History or current reports of dyspnea</li>
+<li>History of baseline sputum production
 <ul>
-<li>Viral brain infection</li>
-<li>Not seen today</li>
-</ul>
-<section id="toxic-parkinsonismosullivan-schmitz-and-fulk-2019" class="level3">
-<h3 class="anchored" data-anchor-id="toxic-parkinsonismosullivan-schmitz-and-fulk-2019">Toxic Parkinsonism(O’Sullivan, Schmitz, and Fulk 2019)</h3>
-<p>Exposure to environmental toxins Pesticides Industrial chemicals (manganese, CO, cyanide, methanol) Synthetic heroin + MPTP</p>
-</section>
-<section id="drug-induced-parkinsonism" class="level3">
-<h3 class="anchored" data-anchor-id="drug-induced-parkinsonism">Drug-Induced Parkinsonism</h3>
-<p>Drug-Induced Parkinsonism<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">1</a></sup></span> - Drugs that result in extra-pyramidal dysfunction → Pseudo PD symptoms - Neuroleptic drugs: (chlorpromazine) (Thorazine®), haloperidol (Haldol®), thioridazine (Mellaril®), and thiothixene (Navane®) - Antidepressant drugs: amitriptyline (Triavil®), amoxapine (Asendin®), and trazodone (Desyrel®) - Antihypertensive drugs: Methyldopa (Aldomet®) and reserpine</p>
-</section>
-<section id="metabolic-pd" class="level3">
-<h3 class="anchored" data-anchor-id="metabolic-pd">Metabolic PD</h3>
-<ul>
-<li>PD d/t metabolic conditions</li>
-<li>Rare</li>
-<li>Calcium metabolism dysfunction → BG Calcification</li>
-<li>Hypothyroidism</li>
-<li>Hyperparathyroidism</li>
-<li>Wilson’s Disease</li>
+<li>Color</li>
+<li>Consistency (is it sticky, thin, fluid) (if smelly– cld indicate infection)</li>
+<li>Amount</li>
+</ul></li>
+<li>Sleeping position, number of pillows</li>
 </ul>
 </section>
 </section>
-<section id="parkinson-plus" class="level2">
-<h2 class="anchored" data-anchor-id="parkinson-plus">Parkinson-Plus</h2>
-<p>Parkinson-Plus refers to a group of neurodegenerative diseases can affect the substantia nigra and produce parkinsonian symptoms along with other neurological signs<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">1</a></sup></span></p>
-<p>Pathologies</p>
+<section id="physical-exam" class="level1">
+<h1>Physical Exam</h1>
+<section id="observation" class="level2">
+<h2 class="anchored" data-anchor-id="observation">Observation</h2>
 <ul>
-<li>Cortical–basal ganglionic degeneration (CBGD)</li>
-<li>Progressive supranuclear palsy (PSP)</li>
-<li>Multiple system atrophy (MSA) syndromes (striatonigral degeneration [SND])</li>
-<li>Shy-Drager syndrome</li>
-<li>Sporadic olivopontocerebellar atrophy [OPCA]</li>
-<li>Motor neuron disease parkinsonism</li>
+<li>General appearance, alertness</li>
+<li>Ease of phonation</li>
+<li>Skin color</li>
+<li>Posture and chest shape</li>
+<li>Breathing pattern</li>
+<li>Supplemental O2 needs (nasal cannula, mask, ventilator etc)</li>
+<li>Surgical incisions</li>
 </ul>
-<p>Parkinson-like symptoms</p>
+</section>
+<section id="auscultation" class="level2">
+<h2 class="anchored" data-anchor-id="auscultation">Auscultation</h2>
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<section id="normal" class="level3 quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<h3 class="anchored" data-anchor-id="normal">Normal</h3>
 <ul>
-<li>Multi-infarct vascular disease</li>
-<li>Dementia syndromes (Alzheimer’s disease, diffuse Lewy body disease [DLBD], and frontotemporal dementia [FTD])</li>
-<li>Normal pressure hydrocephalus (NPH)</li>
-<li>Creutzfeldt-Jakob disease (CJD)</li>
-<li>Wilson’s disease (WD)</li>
-<li>Juvenile Huntington’s disease</li>
+<li><a href="http://www.easyauscultation.com/lung-sounds.aspx">Example</a></li>
+<li>Tracheal or bronchial (normal, named where u should hear them)</li>
+<li>Bronchovesicular</li>
+<li>Vesicular</li>
+</ul>
+</section>
+<section id="abnormal" class="level3 quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<h3 class="anchored" data-anchor-id="abnormal">Abnormal</h3>
+<ul>
+<li>Adventitious (crackles, rales)</li>
+<li>Added (showing up in areas where they should not be)</li>
+<li>Location: Abnormal if heard outside normal location or changed in some way</li>
+<li>Bronchial (where should be vesicular):
+<ul>
+<li>Could mean there is fluid or secretion consolidation; pneumonia</li>
+</ul></li>
+<li>Decreased or diminished
+<ul>
+<li>Hypoventilation, severe congestion, emphysema</li>
+</ul></li>
+<li>Absent
+<ul>
+<li>Pneumothorax or lung collapse (emergency situation- chest tube needed)</li>
+</ul></li>
+<li>Adventitious breath sounds:
+<ul>
+<li>Continuous
+<ul>
+<li>Wheezes</li>
+<li>Rhonchi</li>
+<li>Stridor</li>
+</ul></li>
+<li>Discontinuous
+<ul>
+<li>Crackles</li>
+</ul></li>
+</ul></li>
+</ul>
+</section>
+</div>
+</div>
+<section id="documentation" class="level3">
+<h3 class="anchored" data-anchor-id="documentation">Documentation</h3>
+<ul>
+<li>Location: (base, Right vs Left etc)</li>
+<li>Phase of respiration (inspiration, expiration)</li>
+<li>Comparison to opposite lung</li>
 </ul>
 </section>
 </section>
-<section id="pathophysiology" class="level1">
-<h1>Pathophysiology</h1>
+<section id="pulmonary-palpation" class="level2">
+<h2 class="anchored" data-anchor-id="pulmonary-palpation">Pulmonary Palpation</h2>
+<ul>
+<li>Presence of fremitus (where u can feel chest pain/congestion location)</li>
+<li>Presence of pain, tenderness</li>
+<li>Skin temp (ie could mean pneumonia on R vs L)</li>
+<li>Bony abnormalities, rib fx</li>
+<li>Chest expansion (try to breathe in to my hands, PT - put your hands around bottom of rib cage on side)</li>
+</ul>
+</section>
+<section id="cough-evaluation" class="level2">
+<h2 class="anchored" data-anchor-id="cough-evaluation">Cough Evaluation</h2>
+<ul>
+<li>Effectiveness</li>
+<li>Control</li>
+<li>Quality</li>
+<li>Frequency</li>
+<li>Sputum Production</li>
+<li>Hemoptysis</li>
+</ul>
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<section id="effectiveness" class="level3 quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<h3 class="anchored" data-anchor-id="effectiveness">Effectiveness</h3>
+<ul>
+<li>Effectiveness (clearing secretions) → weak cough = hear junk in lungs, they cant cough well, OR sci injury, cant produce enough force to clear secretions)</li>
+<li>Example: SCI may not be able to produce enough force to clear their airway</li>
+</ul>
+</section>
+<section id="control" class="level3 quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<h3 class="anchored" data-anchor-id="control">Control</h3>
+<ul>
+<li>Control (start and stop cough)– can they voluntarily cough then stop?</li>
+</ul>
+</section>
+<section id="quality" class="level3 quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<h3 class="anchored" data-anchor-id="quality">Quality</h3>
+<ul>
+<li>Wet vs Dry</li>
+<li>Cough and if you hear wet stuff, or is it dry</li>
+</ul>
+</section>
+</div>
+<div class="quarto-layout-row quarto-layout-valign-top">
+<section id="frequency" class="level3 quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<h3 class="anchored" data-anchor-id="frequency">Frequency</h3>
+<ul>
+<li>Do they cough every couple of min</li>
+<li>Do they cough w activity</li>
+<li>etc</li>
+</ul>
+</section>
+<section id="sputum-production" class="level3 quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<h3 class="anchored" data-anchor-id="sputum-production">Sputum Production</h3>
+<ul>
+<li>look what they are coughing up</li>
+<li>Color</li>
+<li>Quantity</li>
+<li>Odor</li>
+<li>Consistency– tenacious, clinging to sides of someone’s lungs– sticky, clay, silly putty</li>
+</ul>
+</section>
+<section id="hemoptysis" class="level3 quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<h3 class="anchored" data-anchor-id="hemoptysis">Hemoptysis</h3>
+<ul>
+<li>Color: Dark red vs.&nbsp;bright red (blood)
+<ul>
+<li>Dark red= after surgery (like a scab type)</li>
+<li>Bright red= someone actively bleeding. Can make difference in if you continue clearance or no</li>
+</ul></li>
+<li>Volume
+<ul>
+<li>&lt;5ml CAN continue airway clearance techniques (about a teaspoon)</li>
+<li>.&gt;5ml—unclear
+<ul>
+<li>Autogenic drainage (gentle)
+<ul>
+<li>Focused on breathing– can use in combo w postural drainage, but focused on moving it up the mucociliary ladder she says</li>
+</ul></li>
+<li>Active cycle of breathing</li>
+</ul></li>
+</ul></li>
+</ul>
+</section>
+</div>
+</div>
+</section>
+<section id="oximetry" class="level2">
+<h2 class="anchored" data-anchor-id="oximetry">Oximetry</h2>
+<ul>
+<li>Signs and symptoms of hypoxemia (cld indicate lack of o2)
+<ul>
+<li>Tachypnea</li>
+<li>Tachycardia</li>
+<li>Restlessness</li>
+<li>Malaise</li>
+<li>Impaired judgment</li>
+<li>Incoordination</li>
+<li>Vertigo</li>
+<li>Nausea</li>
+<li>Labored respiration</li>
+<li>Cardiac dysrhythmia</li>
+<li>Confusion</li>
+</ul></li>
+</ul>
+</section>
+<section id="arterial-blood-gas" class="level2">
+<h2 class="anchored" data-anchor-id="arterial-blood-gas">Arterial blood gas</h2>
+<ul>
+<li>Acid base balance (pH) – ie respiratory or metabolic alkalosis or acidosis can affect it)</li>
+<li>Ventilation (CO2)</li>
+<li>Oxygenation (O2)</li>
+<li>Imbalances due to pulmonary or metabolic reasons
+<ul>
+<li>Acidosis
+<ul>
+<li>Respiratory or metabolic</li>
+</ul></li>
+<li>Alkalosis
+<ul>
+<li>Respiratory or metabolic</li>
+</ul></li>
+</ul></li>
+</ul>
+<p>Normal ABG values</p>
+<ul>
+<li>PaO2 &gt;80 mmHg</li>
+<li>PaCO2 35-45 mmHg</li>
+<li>pH 7.35-7.45</li>
+<li>HCO3 → 22-26 mEq/liter</li>
+</ul>
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<div>
+<pre class="mermaid mermaid-js">flowchart TD
+
+  pH[pH] --&gt; low-ph[Low pH]
+  pH --&gt; normal-ph[Normal pH]
+  pH --&gt; high-pH[High pH]
+
+  low-ph --&gt; acidemia[Acidemia]
+  acidemia --&gt; highPCO2[high PCO2]
+  acidemia --&gt; lowHCO3[Low HCO3]
+  highPCO2 --&gt; respiratory-acidosis[Respiratory Acidosis]
+  lowHCO3 --&gt; metabolic-acidosis[Metabolic Acidosis]
+
+  normal-ph --&gt; normal-acid-base[No abnormally or Mixed Acid-base Disorder]
+
+  high-pH --&gt; alkalemia[Alkelemia]
+  alkalemia --&gt; low-PCO2[Low PCO2]
+  alkalemia --&gt; high-HCO3[High HCO3]
+  low-PCO2 --&gt; respiratory-alkalosis[Respiratory Alkalosis]
+  high-HCO3 --&gt; metabolic-alkalosis[Metabolic Alkalosis]
+</pre>
+</div>
+</div>
+</div>
+</div>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -285,135 +445,88 @@ Note
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>“Physical manifestation of <a href="../../../../The Archive/Neuroscience/Neuropathophysiology/lewy_bodies.html">lewy bodies</a> in the brain, whereas Dementia is the cognitive manifestation of <a href="../../../../The Archive/Neuroscience/Neuropathophysiology/lewy_bodies.html">lewy bodies</a> in the brain” -Adria Thompson</p>
+<p>Another step after metabolic vs respiratory== compensated vs uncompensated (dont need to know but interesting)</p>
 </div>
 </div>
-<p>Primary disturbances in the dopamine systems of basal ganglia (BG)<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">1</a></sup></span></p>
-<p>The pathophysiology of PD is characterized by 2 phases<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">1</a></sup></span></p>
-<ol type="1">
-<li>Degeneration of dopaminergic neurons in the SNpc<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">1</a></sup></span></li>
-<li>Addition of Lewy Bodies<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">1</a></sup></span></li>
-</ol>
-<section id="degeneration" class="level2">
-<h2 class="anchored" data-anchor-id="degeneration">Degeneration</h2>
+</section>
+<section id="venous-blood-gases" class="level2">
+<h2 class="anchored" data-anchor-id="venous-blood-gases">Venous Blood gases</h2>
 <ul>
-<li>Loss of the melanin-containing neurons produces characteristic <strong>results in</strong> Depigmentation in the substantia nigra with a characteristic pallor<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">1</a></sup></span>.</li>
-<li>Numerous other brain regions of people with PD show structural and functional changes <strong>resulting in</strong> impaired modulation of other neurotransmitters (acetylcholine, serotonin, noradrenaline, glutamate, and GABA)<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">1</a></sup></span>.</li>
-</ul>
-</section>
-<section id="lewy-bodies" class="level2">
-<h2 class="anchored" data-anchor-id="lewy-bodies">Lewy Bodies</h2>
-<p>The second characteristic of PD is the <em>addition</em> of <a href="../../../../The Archive/Neuroscience/Neuropathophysiology/lewy_bodies.html">Lewy Bodies</a> in the brain.</p>
-<p>Changes are seen in the pedunculopontine nucleus (PPN) and nucleus basalis of Meynert (nbM) that release acetylcholine (ACh) Degeneration &amp; Alpha Synuclein deposition (early in PD) at Locus coeruleus that releases noradrenaline</p>
-</section>
-<section id="basal-ganglia-loop-dysfunction" class="level2">
-<h2 class="anchored" data-anchor-id="basal-ganglia-loop-dysfunction">Basal Ganglia Loop Dysfunction</h2>
-<p>Direct Loop</p>
+<li>Also called mixed blood gases</li>
+<li>Less common that ABG</li>
+<li>Provides info about body’s metabolic workload/efficiecy</li>
+<li>Large inc in Sv CO2 (in venous system= co2)
 <ul>
-<li>Consists of signals transmitted from the cortex to putamen to globus pallidus, to ventrolateral (VL) nucleus of the thalamus, and back to cortex (supplementary motor area [SMA]).</li>
-<li>This VL-SMA connection is excitatory and facilitates discharge of cells in the SMA<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">1</a></sup></span>.</li>
-<li>The BG thus serves to activate the cortex via a positive-feedback loop and assists in the initiation of voluntary movement<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">1</a></sup></span></li>
-<li>Inhibition of the thalamus by the BG is thought to underlie the hypokinesia seen in PD<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">1</a></sup></span></li>
-</ul>
-<p>Indirect Loop<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">1</a></sup></span></p>
-<ul>
-<li>STn, Gpi, and SNpr → Superior colliculus and midbrain tegmentum<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">1</a></sup></span>.</li>
-<li>Serves to decrease thalamocortical activation<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">1</a></sup></span>.</li>
-<li>BG projection to the superior colliculus assists in regulation of saccadic eye movements<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">1</a></sup></span>.</li>
-<li>The BG projection to the reticular formation assists in the regulation of trunk and limb musculature (via extrapyramidal pathways), sleep and wakefulness, and arousal. Other circuits in the BG are involved with memory and cognitive functions<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">1</a></sup></span>.</li>
-</ul>
-</section>
-</section>
-<section id="clinical-presentation" class="level1">
-<h1>Clinical Presentation</h1>
-<section id="symptoms" class="level2">
-<h2 class="anchored" data-anchor-id="symptoms">Symptoms</h2>
-<ul>
-<li>Freezing of gait (FOG)</li>
-</ul>
-</section>
-<section id="gait-symptoms" class="level2">
-<h2 class="anchored" data-anchor-id="gait-symptoms">Gait Symptoms</h2>
-<ul>
-<li><a href="../../../../The Archive/Systems/Gait/Gait Symptoms/parkinsonian_gait.html">Parkinsonian Gait</a></li>
-</ul>
-</section>
-</section>
-<section id="diagnosis" class="level1">
-<h1>Diagnosis</h1>
-<section id="subgroups" class="level2">
-<h2 class="anchored" data-anchor-id="subgroups">Subgroups</h2>
-<p>The subgroups of PD are not pathophysiologically different, but are used to describe which symptoms the patient presented with first:</p>
-<ul>
-<li>Tremulous (Tremor predominant)</li>
-<li>Akinetic Rigidity or Postural Instability and Gait Disturbances</li>
-</ul>
-</section>
-</section>
-<section id="assessment" class="level1">
-<h1>Assessment</h1>
-<p><a href="../../../../The Archive/Neuroscience/Neuropathology/Parkinsons Disease/hoehn_and_yahr_scale.html">Hoehn and Yahr Scale</a> can be used to assess symptom severity<span class="citation" data-cites="modestinoHoehnYahrStaging2018"><sup><a href="#ref-modestinoHoehnYahrStaging2018" role="doc-biblioref">2</a></sup></span>.</p>
-<ul>
-<li>Higher H&amp;Y scores have been linked with a more rapid cognitive decline in PD patients<span class="citation" data-cites="modestinoHoehnYahrStaging2018"><sup><a href="#ref-modestinoHoehnYahrStaging2018" role="doc-biblioref">2</a></sup></span>.</li>
-<li>In general, patients with higher H&amp;Y scores report poorer quality of life<span class="citation" data-cites="modestinoHoehnYahrStaging2018"><sup><a href="#ref-modestinoHoehnYahrStaging2018" role="doc-biblioref">2</a></sup></span>.</li>
-</ul>
-</section>
-<section id="considerations" class="level1">
-<h1>Considerations</h1>
-<section id="psychosocial" class="level2">
-<h2 class="anchored" data-anchor-id="psychosocial">Psychosocial</h2>
-<ul>
-<li>The severity of idiopathic PD (IPD) has been associated with patients’ degree of depression<span class="citation" data-cites="modestinoHoehnYahrStaging2018"><sup><a href="#ref-modestinoHoehnYahrStaging2018" role="doc-biblioref">2</a></sup></span>.
-<ul>
-<li>as studies have revealed a direct correlation with Hoehn-Yahr scores/stages, as well as elevated scores on depression rating scales including the Geriatric Depression Scale (GDS) and the Montgomery Asberg Depression Rating Scale (MADRS)</li>
+<li>Inefficient/deconditioned peripheral mm</li>
+<li>Overall deconditioning</li>
 </ul></li>
 </ul>
 </section>
+<section id="chest-x-rays" class="level2">
+<h2 class="anchored" data-anchor-id="chest-x-rays">Chest X-rays</h2>
+<p>Diagnosis and monitor progression</p>
 </section>
-<section id="interventions" class="level1">
-<h1>Interventions</h1>
-</section>
-<section id="motor-control" class="level1">
-<h1>Motor Control</h1>
+<section id="sputum-analysis" class="level2">
+<h2 class="anchored" data-anchor-id="sputum-analysis">Sputum analysis</h2>
 <ul>
-<li>Facilitate Bigger amplitude</li>
+<li>(cough sputum in clean tube)</li>
+<li>Identify organisms in lungs for treatment</li>
+<li>Indications
+<ul>
+<li>Rise in pt temp</li>
+<li>Change in sputum color or consistency</li>
+<li>Sterile containers req’d</li>
+<li>PT may assist or collect during bronchopulmonary hygiene</li>
+</ul></li>
 </ul>
 </section>
-<section id="rehabilitation" class="level1">
-<h1>Rehabilitation</h1>
+<section id="bronchoscopy" class="level2">
+<h2 class="anchored" data-anchor-id="bronchoscopy">Bronchoscopy</h2>
+<ul>
+<li>Directly visualize and aspirate the bronchopulmonary tree (trying to see blockage, and try to clear)
+<ul>
+<li>If struggling to maintain appropriate O2 ventilation</li>
+<li>Pts are FATIGUED after this</li>
+<li>Box 4-2 , p 71 for indications</li>
+</ul></li>
+<li>Fatigue post procedure</li>
+</ul>
 </section>
-<section id="resources" class="level1">
-<h1>Resources</h1>
+</section>
+<section id="pulmonary-function-tests" class="level1">
+<h1>Pulmonary Function Tests</h1>
 <ul>
-<li>DPT 835 recommended readings
+<li>Measures lung volumes, capacities, flow rates</li>
+<li>Distinguishes between obstructive or restrictive dx</li>
+<li>Determines contribution of pulmonary function to activity limitations</li>
+<li>Compare between normal and previous test results</li>
+<li><strong>TOTAL LUNG CAPACITY INC</strong> = Obstructive! - widened rib cage, lots of capacity, not good air exchange at alveoli</li>
+<li>Reduced total lung capacity - restrictive</li>
+</ul>
+</section>
+<section id="pulmonary-embolism" class="level1">
+<h1>Pulmonary Embolism</h1>
+<section id="diagnosing-pe" class="level2">
+<h2 class="anchored" data-anchor-id="diagnosing-pe">Diagnosing PE</h2>
 <ul>
-<li>O’Sullivan – CH 18</li>
-<li>Blumenfeld – CH 16; page 251-254</li>
-<li>Shumway-Cook – CH 11, 15</li>
-<li>Neuroanatomy: Blumenfield 2022</li>
+<li>V/Q scan (if u see this scan, WITHHOLD PT TXT, bc cld have PE)
+<ul>
+<li>Rule out pulmonary embolism</li>
+<li>Looking for mismatch in ventilation and perfusion</li>
 </ul></li>
-<li>Continuum:
+<li>Computed tomographic pulmonary angiography (CT-PA) (if u see this scan, WITHHOLD PT TXT, bc cld have PE)
 <ul>
-<li>Parkinson Disease(Zesiewicz 2019)</li>
+<li>Direct visualization of pulmonary artery</li>
+<li>Rapid detection of thrombus</li>
+<li>Now preferred method of diagnosing PE</li>
 </ul></li>
-<li>Textbook</li>
-<li>Localization in clinical neurology</li>
-<li>CPG:</li>
-<li>Physical Therapist Management of Parkinson Disease: A Clinical Practice Guideline From the American Physical Therapy Association (Osborne et al.&nbsp;2022)</li>
 </ul>
 
 
-
+</section>
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
-<div id="ref-osullivanPhysicalRehabilitation2019" class="csl-entry" role="listitem">
-<div class="csl-left-margin">1. </div><div class="csl-right-inline">O’Sullivan SB, Schmitz TJ, Fulk GD, eds. <em>Physical Rehabilitation</em>. 7th ed. <span>F.A. Davis Company</span>; 2019.</div>
-</div>
-<div id="ref-modestinoHoehnYahrStaging2018" class="csl-entry" role="listitem">
-<div class="csl-left-margin">2. </div><div class="csl-right-inline">Modestino EJ, Reinhofer A, Blum K, Amenechi C, O’Toole P. Hoehn and <span>Yahr</span> staging of <span>Parkinson</span>’s disease in relation to neuropsychological measures. <em>Frontiers in Bioscience (Landmark Edition)</em>. 2018;23(7):1370-1379. doi:<a href="https://doi.org/10.2741/4649">10.2741/4649</a></div>
-</div>
-</div></section></div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

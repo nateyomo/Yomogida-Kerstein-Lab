@@ -73,3 +73,9 @@ Dysfunction:
 # Dysfunction
 
 - [Lateral epicondylitis (Tennis elbow)]({{< var ref-lateral-epicondylitis.path >}})
+
+## Fracture
+
+- Proximal humeral fx: Can have associated neural complications
+    - Radial n: Wrist ext & Elbow str
+    - Axillary n: Deltoid weakness

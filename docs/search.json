@@ -3741,8 +3741,8 @@
     "objectID": "The Archive/Neuroscience/Neuropathology/Parkinsons Disease/parkinsons_disease.html#gait-symptoms",
     "href": "The Archive/Neuroscience/Neuropathology/Parkinsons Disease/parkinsons_disease.html#gait-symptoms",
     "title": "Parkinson’s Disease (PD)",
-    "section": "",
-    "text": "Parkinsonian Gait"
+    "section": "Gait Symptoms",
+    "text": "Gait Symptoms\n\nParkinsonian Gait"
   },
   {
     "objectID": "The Archive/Neuroscience/Neuropathology/Peripheral Nervous System Pathologies/Peripheral Neuralgia/cn7_palsy.html",
@@ -5252,21 +5252,21 @@
   {
     "objectID": "The Archive/Anatomy/Joints/Spine joints/cervicothoracic_junction.html#coupled-motions",
     "href": "The Archive/Anatomy/Joints/Spine joints/cervicothoracic_junction.html#coupled-motions",
-    "title": "Cervicothoracic Junction",
+    "title": "Cervicothoracic Junction (C7-T1)",
     "section": "Coupled motions",
     "text": "Coupled motions\n\nMid C/s coupled motions are ipsilateral SB and rotation1\nThe coupled motions at the cervicothoracic junction are more difficult to discern due to the influence of the more rigid thoracic spine and ribcage1\nAlso, due to the fact that the superior articular facets of C3 lie slightly inferiorly in relation to their vertebral body compared to the rest of the typical cervical levels, the expected coupling of ipsilateral rotation and side flexion does not seem to exist at this level1\nInstead, because the orientation of the facets at this level serve to minimize rotation, thus stabilizing C2 during rotation, a contralateral rotation and side flexion appears to occur1"
   },
   {
     "objectID": "The Archive/Anatomy/Joints/Spine joints/cervicothoracic_junction.html#causes",
     "href": "The Archive/Anatomy/Joints/Spine joints/cervicothoracic_junction.html#causes",
-    "title": "Cervicothoracic Junction",
+    "title": "Cervicothoracic Junction (C7-T1)",
     "section": "Causes",
     "text": "Causes\nforward head increases the stresses at the cervicothoracic junction1"
   },
   {
     "objectID": "The Archive/Anatomy/Joints/Spine joints/cervicothoracic_junction.html#restriction",
     "href": "The Archive/Anatomy/Joints/Spine joints/cervicothoracic_junction.html#restriction",
-    "title": "Cervicothoracic Junction",
+    "title": "Cervicothoracic Junction (C7-T1)",
     "section": "Restriction",
     "text": "Restriction\n\nAn adaptively shortened and overactive SCM muscle can alter the realtionships between the head, neck, and shoulderes which will result in restrictions at the craniovertebral and cervicothoracic junctions1"
   },
@@ -5352,7 +5352,7 @@
     "href": "The Archive/Anatomy/Ligaments/nuchal_ligament.html",
     "title": "Nuchal Ligament",
     "section": "",
-    "text": "Muscular Origins\n\nSerratus Posterior Superior"
+    "text": "AKA\n\n\n\n\nLigamentum Nuchae\nNuchal Ligament\n\n\n\n\nAnatomy\n\nComprised of four portions formed by traps, splenius capitus, rhomboid major and serratus posterior1\nContinues as supraspinous ligament @ C71\n\n\n\nMuscular Attachments\n\nSerratus Posterior Superior\n\n\n\nFunction\n\nAids in suspension of head and neck1\nFxn is controversial1\nStability of C7, occiput1\nPotential Role in cervicogenic headaches1\nLimits anterior translation of head and flexion1\n\n\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. Fifth edition. McGraw Hill Education; 2020."
   },
   {
     "objectID": "The Archive/Anatomy/Bones/Bones of the Skull/temporal_bone.html",
@@ -5611,7 +5611,7 @@
     "href": "The Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/platysma.html",
     "title": "Platysma muscle",
     "section": "",
-    "text": "OIAN\n\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nPlatysma muscle\nSkin over lower neck and upper lateral thorax\nMandible (inferior border), Skin over lower face, Angle of mouth\nFacial Nerve CN VII\nDepresses and wrinkles skin of lower face and mouth; Tenses skin of neck; Aids in forced depression of the mandible\n\n\n\n\n\nOrigin\nSkin over lower neck and upper lateral thorax1\n\n\nInsertion\nMandible (inf border), Skin over lower face, Angle of mouth1\n\n\nInnervation\nFacial Nerve CN VII1\n\n\nAction\nDepresses and wrinkles skin of lower face and mouth; Tenses skin of neck; Aids in forced depression of the mandible1\n\n\n\n\n\n\n\n\nClinical Significance\n\n1. Gilroy AM, MacPherson BR, Wikenheiser JC, Voll MM, Wesker K, Schünke M, eds. Atlas of Anatomy. 4th ed. Thieme; 2020."
+    "text": "the platysma is the most superficial mm in cervical region. The platysma covers the pec and deltoid and extends to inferior margin of body of mandible. It functions as one of the muscles of facial expression and can restrain head extension.\n\nOIAN\n\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nPlatysma muscle\nSkin over lower neck and upper lateral thorax\nMandible (inferior border), Skin over lower face, Angle of mouth\nFacial Nerve CN VII\nDepresses and wrinkles skin of lower face and mouth; Tenses skin of neck; Aids in forced depression of the mandible\n\n\n\n\n\nOrigin\nSkin over lower neck and upper lateral thorax1\n\n\nInsertion\nMandible (inf border), Skin over lower face, Angle of mouth1\n\n\nInnervation\nFacial Nerve CN VII1\n\n\nAction\nDepresses and wrinkles skin of lower face and mouth; Tenses skin of neck; Aids in forced depression of the mandible1\n\n\n\n\n\n\n\n\nClinical Significance\n\n1. Gilroy AM, MacPherson BR, Wikenheiser JC, Voll MM, Wesker K, Schünke M, eds. Atlas of Anatomy. 4th ed. Thieme; 2020."
   },
   {
     "objectID": "The Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/levator_anguli_oris.html",
@@ -7305,28 +7305,28 @@
     "href": "The Archive/MSK/Regions/Spine/neck.html",
     "title": "Musculoskeletal Mechanics of the head region",
     "section": "",
-    "text": "Muscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nSternocleidomastoid\nSternal head: sternum (manubrium); Clavicular head: Clavicle (medial 1/3)\nTemporal bone (mastoid process); Occipital bone (superior nuchal line)\nMotor: CN XI Accessory n. and Proprioception: Cervical plexus (C2, C3, C4)\nUnilateral: Tilts head to same side, rotates head to opposite side; Bilateral: Extends head, aids in respiration when head is fixed\n\n\nI/L SB\n\n\n\n\n\n\nObliquus Capitis Superior\nC1 (TP)\nOccipital bone (inferior nuchal line, middle third)\nSuboccipital N.\nBIL: Extend head; UNIL: I/L SB, C/L rotation\n\n\n\n\n\n\n\n\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nC/L head rotators\n\n\n\n\n\n\nObliquus Capitis Superior\nC1 (TP)\nOccipital bone (inferior nuchal line, middle third)\nSuboccipital N.\nBIL: Extend head; UNIL: I/L SB, C/L rotation\n\n\nSternocleidomastoid\nSternal head: sternum (manubrium); Clavicular head: Clavicle (medial 1/3)\nTemporal bone (mastoid process); Occipital bone (superior nuchal line)\nMotor: CN XI Accessory n. and Proprioception: Cervical plexus (C2, C3, C4)\nUnilateral: Tilts head to same side, rotates head to opposite side; Bilateral: Extends head, aids in respiration when head is fixed\n\n\nI/L Head Rotators\n\n\n\n\n\n\nRectus Capitis Posterior Major\nC2 (SP)\nOccipital bone (inferior nuchal line, middle third)\nSuboccipital N.\nBIL: Extend head; UNIL: I/L head rotation\n\n\nRectus Capitis Posterior Minor\nC1 (posterior tubercle)\nOccipital bone (inferior nuchal line, inner 1/3)\nSuboccipital N.\nBIL: Extend head; UNIL: I/L head rotation\n\n\nObliquus Capitis Inferior\nC2 (SP)\nC1 TP\nSuboccipital N.\nBIL: Extend head; UNIL: I/L rotation\n\n\n\n\n\n\n\n\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nRectus Capitis Posterior Major\nC2 (SP)\nOccipital bone (inferior nuchal line, middle third)\nSuboccipital N.\nBIL: Extend head; UNIL: I/L head rotation\n\n\nRectus Capitis Posterior Minor\nC1 (posterior tubercle)\nOccipital bone (inferior nuchal line, inner 1/3)\nSuboccipital N.\nBIL: Extend head; UNIL: I/L head rotation\n\n\nObliquus Capitis Superior\nC1 (TP)\nOccipital bone (inferior nuchal line, middle third)\nSuboccipital N.\nBIL: Extend head; UNIL: I/L SB, C/L rotation\n\n\nObliquus Capitis Inferior\nC2 (SP)\nC1 TP\nSuboccipital N.\nBIL: Extend head; UNIL: I/L rotation\n\n\nSternocleidomastoid\nSternal head: sternum (manubrium); Clavicular head: Clavicle (medial 1/3)\nTemporal bone (mastoid process); Occipital bone (superior nuchal line)\nMotor: CN XI Accessory n. and Proprioception: Cervical plexus (C2, C3, C4)\nUnilateral: Tilts head to same side, rotates head to opposite side; Bilateral: Extends head, aids in respiration when head is fixed"
+    "text": "Superficial layer:\n\nTraps\nSCM\nLev scap\nRhomboids\nscalenes\n\nDeeper layer:\n\nSplenius capitis\nSemispinalis Capitis\nLongissimus Capitis\n\nDeepest layer:\n\nLinks cervical and thoracic vertebrae\n\n\n\nDeepest Layer OIAN\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nSplenius Cervicis\nT3-T6/T7 (SP)\nC1–C3/4 (TP)\nSpinal nn. C1-C6 (Post rami, lateral branches)\nBIL: Extends C/S and head; UNIL: I/L head SB and Rotation\n\n\nSemispinalis Cervicis\nT1-T6 (TP)\nC2-C5 (SP)\nSpinal nn. (Posterior Rami)\nBIL: Extends thoracic and cervical spines and head (stabilizes craniovertebral jt); UNIL: I/L SB of head, cervical, and thoracic spine; C/L Rotation\n\n\nLongissimus Cervicis\nT1-T6 (TP)\nC2-C5 (TP)\nSpinal nn.  C1-L5 (Post rami, lateral branches)\nBIL: Extends spine; UNIL: I/L SB\n\n\n\n\n\n\n\n\n5x discs in C/S1\nFirst IVD between C2 and 31\n\n\n\n\n\n\n\nNote\n\n\n\nNamed after vert above it1\n\n\nThe main dysfunction at the IVD is a herniation"
   },
   {
     "objectID": "The Archive/MSK/Regions/Spine/neck.html#head-lateral-sb",
     "href": "The Archive/MSK/Regions/Spine/neck.html#head-lateral-sb",
     "title": "Musculoskeletal Mechanics of the head region",
-    "section": "",
-    "text": "Muscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nSternocleidomastoid\nSternal head: sternum (manubrium); Clavicular head: Clavicle (medial 1/3)\nTemporal bone (mastoid process); Occipital bone (superior nuchal line)\nMotor: CN XI Accessory n. and Proprioception: Cervical plexus (C2, C3, C4)\nUnilateral: Tilts head to same side, rotates head to opposite side; Bilateral: Extends head, aids in respiration when head is fixed\n\n\nI/L SB\n\n\n\n\n\n\nObliquus Capitis Superior\nC1 (TP)\nOccipital bone (inferior nuchal line, middle third)\nSuboccipital N.\nBIL: Extend head; UNIL: I/L SB, C/L rotation"
+    "section": "Head Lateral SB",
+    "text": "Head Lateral SB\nOsteokinematics: Side bend: 40 deg\n\n\n\n\n\n\nNote\n\n\n\nSidebending: closer to 75 in supine because of hte muscles that limit SB with gravity: traps, scalenes, SCM (all are more lengthened in standing/sitting bc gravity pulling at insertions)(Harper 2023)\n\n\n\n\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nSternocleidomastoid\nSternal head: sternum (manubrium); Clavicular head: Clavicle (medial 1/3)\nTemporal bone (mastoid process); Occipital bone (superior nuchal line)\nMotor: CN XI Accessory n. and Proprioception: Cervical plexus (C2, C3, C4)\nUnilateral: Tilts head to same side, rotates head to opposite side; Bilateral: Extends head, aids in respiration when head is fixed\n\n\nI/L SB\n\n\n\n\n\n\nObliquus Capitis Superior\nC1 (TP)\nOccipital bone (inferior nuchal line, middle third)\nSuboccipital N.\nBIL: Extend head; UNIL: I/L SB, C/L rotation\n\n\n\nArthrokinematics\n\nSuperoanterior glide of contra superior facet posteroinferior glide of ipsi facet\nC/L translation of vertebra on disk\nInferomedial glide of ipsi uncovertebral joint, superolateral glide of contral uncovertebral joint Limited by contra scalenes, intertransverse ligs, facet jt motions limited by joint capsule and translation limited by IVD"
   },
   {
     "objectID": "The Archive/MSK/Regions/Spine/neck.html#head-rotation",
     "href": "The Archive/MSK/Regions/Spine/neck.html#head-rotation",
     "title": "Musculoskeletal Mechanics of the head region",
-    "section": "",
-    "text": "Muscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nC/L head rotators\n\n\n\n\n\n\nObliquus Capitis Superior\nC1 (TP)\nOccipital bone (inferior nuchal line, middle third)\nSuboccipital N.\nBIL: Extend head; UNIL: I/L SB, C/L rotation\n\n\nSternocleidomastoid\nSternal head: sternum (manubrium); Clavicular head: Clavicle (medial 1/3)\nTemporal bone (mastoid process); Occipital bone (superior nuchal line)\nMotor: CN XI Accessory n. and Proprioception: Cervical plexus (C2, C3, C4)\nUnilateral: Tilts head to same side, rotates head to opposite side; Bilateral: Extends head, aids in respiration when head is fixed\n\n\nI/L Head Rotators\n\n\n\n\n\n\nRectus Capitis Posterior Major\nC2 (SP)\nOccipital bone (inferior nuchal line, middle third)\nSuboccipital N.\nBIL: Extend head; UNIL: I/L head rotation\n\n\nRectus Capitis Posterior Minor\nC1 (posterior tubercle)\nOccipital bone (inferior nuchal line, inner 1/3)\nSuboccipital N.\nBIL: Extend head; UNIL: I/L head rotation\n\n\nObliquus Capitis Inferior\nC2 (SP)\nC1 TP\nSuboccipital N.\nBIL: Extend head; UNIL: I/L rotation"
+    "section": "Head rotation",
+    "text": "Head rotation\nRotation 70-90 deg Virtually all rotation in UPPER C/S occurs between Atlas & Axis\n\n\n\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nC/L head rotators\n\n\n\n\n\n\nObliquus Capitis Superior\nC1 (TP)\nOccipital bone (inferior nuchal line, middle third)\nSuboccipital N.\nBIL: Extend head; UNIL: I/L SB, C/L rotation\n\n\nSternocleidomastoid\nSternal head: sternum (manubrium); Clavicular head: Clavicle (medial 1/3)\nTemporal bone (mastoid process); Occipital bone (superior nuchal line)\nMotor: CN XI Accessory n. and Proprioception: Cervical plexus (C2, C3, C4)\nUnilateral: Tilts head to same side, rotates head to opposite side; Bilateral: Extends head, aids in respiration when head is fixed\n\n\nI/L Head Rotators\n\n\n\n\n\n\nRectus Capitis Posterior Major\nC2 (SP)\nOccipital bone (inferior nuchal line, middle third)\nSuboccipital N.\nBIL: Extend head; UNIL: I/L head rotation\n\n\nRectus Capitis Posterior Minor\nC1 (posterior tubercle)\nOccipital bone (inferior nuchal line, inner 1/3)\nSuboccipital N.\nBIL: Extend head; UNIL: I/L head rotation\n\n\nObliquus Capitis Inferior\nC2 (SP)\nC1 TP\nSuboccipital N.\nBIL: Extend head; UNIL: I/L rotation\n\n\n\n\n\nArthrokinematics\nMuscles: Global neck mm: SCM and semispinalis capitis and splenius captius Local neck: longus captius and colli, semispinalis cervicis, multifidus longus colli and post neck mm for a sleeve that supports spinal segments during mvmt\n\n\n\n\n\n\nTip\n\n\n\n*same as sidebending motions"
   },
   {
     "objectID": "The Archive/MSK/Regions/Spine/neck.html#head-extension",
     "href": "The Archive/MSK/Regions/Spine/neck.html#head-extension",
     "title": "Musculoskeletal Mechanics of the head region",
-    "section": "",
-    "text": "Muscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nRectus Capitis Posterior Major\nC2 (SP)\nOccipital bone (inferior nuchal line, middle third)\nSuboccipital N.\nBIL: Extend head; UNIL: I/L head rotation\n\n\nRectus Capitis Posterior Minor\nC1 (posterior tubercle)\nOccipital bone (inferior nuchal line, inner 1/3)\nSuboccipital N.\nBIL: Extend head; UNIL: I/L head rotation\n\n\nObliquus Capitis Superior\nC1 (TP)\nOccipital bone (inferior nuchal line, middle third)\nSuboccipital N.\nBIL: Extend head; UNIL: I/L SB, C/L rotation\n\n\nObliquus Capitis Inferior\nC2 (SP)\nC1 TP\nSuboccipital N.\nBIL: Extend head; UNIL: I/L rotation\n\n\nSternocleidomastoid\nSternal head: sternum (manubrium); Clavicular head: Clavicle (medial 1/3)\nTemporal bone (mastoid process); Occipital bone (superior nuchal line)\nMotor: CN XI Accessory n. and Proprioception: Cervical plexus (C2, C3, C4)\nUnilateral: Tilts head to same side, rotates head to opposite side; Bilateral: Extends head, aids in respiration when head is fixed"
+    "section": "Head Extension",
+    "text": "Head Extension\n\n\n\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nRectus Capitis Posterior Major\nC2 (SP)\nOccipital bone (inferior nuchal line, middle third)\nSuboccipital N.\nBIL: Extend head; UNIL: I/L head rotation\n\n\nRectus Capitis Posterior Minor\nC1 (posterior tubercle)\nOccipital bone (inferior nuchal line, inner 1/3)\nSuboccipital N.\nBIL: Extend head; UNIL: I/L head rotation\n\n\nObliquus Capitis Superior\nC1 (TP)\nOccipital bone (inferior nuchal line, middle third)\nSuboccipital N.\nBIL: Extend head; UNIL: I/L SB, C/L rotation\n\n\nObliquus Capitis Inferior\nC2 (SP)\nC1 TP\nSuboccipital N.\nBIL: Extend head; UNIL: I/L rotation\n\n\nSternocleidomastoid\nSternal head: sternum (manubrium); Clavicular head: Clavicle (medial 1/3)\nTemporal bone (mastoid process); Occipital bone (superior nuchal line)\nMotor: CN XI Accessory n. and Proprioception: Cervical plexus (C2, C3, C4)\nUnilateral: Tilts head to same side, rotates head to opposite side; Bilateral: Extends head, aids in respiration when head is fixed\n\n\n\n\nArthrokinematics:\n\nPosterior osteokinematic sagittal rock, an inferoposterior glide and approximation of the superior facets of the zygapophyseal joints, and a posterior translation of the vertebra on the disk.\nUncovertebral joint undergoes a posterior arthrokinematic spin osteokinematic motion of extension is restricted by anterior prevertebral mm and ALL"
   },
   {
     "objectID": "The Archive/MSK/Regions/Spine/neck.html#oa-joint",
@@ -8376,7 +8376,7 @@
     "href": "The Archive/MSK/Regions/Spine/neck.html#sensorimotor-control",
     "title": "Musculoskeletal Mechanics of the head region",
     "section": "Sensorimotor control",
-    "text": "Sensorimotor control\n\n\n\n\n\n\nTip\n\n\n\nWearing a hard collar for 5 days has been shown to lead to altered eye mvmt control, increased postural sway and disturbed head neck awareness in healthy people1"
+    "text": "Sensorimotor control\n\n\n\n\n\n\nTip\n\n\n\nWearing a hard collar for 5 days has been shown to lead to altered eye mvmt control, increased postural sway and disturbed head neck awareness in healthy people2"
   },
   {
     "objectID": "The Archive/Anatomy/Nerves/Upper extremity nerves/brachial_plexus.html#superior-trunk",
@@ -8475,5 +8475,523 @@
     "title": "MSK of the Hand",
     "section": "",
     "text": "Kinematics\n\n\n\n\n\n\nWrist Extension\n\n\n\nPRIMARY SET (ACT ON WRIST ONLY)1\n\nExtensor carpi radialis longus\nExtensor carpi radialis brevis\nExtensor carpi ulnaris\n\nSECONDARY SET (ACT ON WRIST AND HAND)1\n\nExtensor digitorum\nExtensor indicis\nExtensor digiti minimi\nExtensor pollicis longus\n\n\n\n\n\n\n\n\nReferences\n\n1. Neumann DA, Kelly ER, Kiefer CL, Martens K, Grosz CM. Kinesiology of the Musculoskeletal System: Foundations for Rehabilitation. 3rd ed. Elsevier; 2017."
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Parkinsons Disease/hoehn_and_yahr_scale.html",
+    "href": "The Archive/Neuroscience/Neuropathology/Parkinsons Disease/hoehn_and_yahr_scale.html",
+    "title": "Hoehn and Yahr Scale",
+    "section": "",
+    "text": "The Hoehn & Yahr (H&Y) system for grading severity of Parkinson’s disease (PD) symptoms uses a scale of 1 to 5 to evaluate the extent of patients’ clinical disability\nHY scale has remained the most commonly and most widely used scale to describe severity of PD worldwide1."
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Parkinsons Disease/hoehn_and_yahr_scale.html#stages-1-3",
+    "href": "The Archive/Neuroscience/Neuropathology/Parkinsons Disease/hoehn_and_yahr_scale.html#stages-1-3",
+    "title": "Hoehn and Yahr Scale",
+    "section": "Stages 1-3",
+    "text": "Stages 1-3\n\nConsidered “minimally disabled”\nStill able to lead independent lives"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Parkinsons Disease/hoehn_and_yahr_scale.html#stage-4-5",
+    "href": "The Archive/Neuroscience/Neuropathology/Parkinsons Disease/hoehn_and_yahr_scale.html#stage-4-5",
+    "title": "Hoehn and Yahr Scale",
+    "section": "Stage 4-5",
+    "text": "Stage 4-5\n\nConsidered “severely disabled”\nMotor symptom severity has been associated with various neurocognitive issues:\n\nDementia\nDepression\nHallucinations"
+  },
+  {
+    "objectID": "The Archive/MSK/Regions/Spine/neck.html#muscles",
+    "href": "The Archive/MSK/Regions/Spine/neck.html#muscles",
+    "title": "Musculoskeletal Mechanics of the head region",
+    "section": "",
+    "text": "Superficial layer:\n\nTraps\nSCM\nLev scap\nRhomboids\nscalenes\n\nDeeper layer:\n\nSplenius capitis\nSemispinalis Capitis\nLongissimus Capitis\n\nDeepest layer:\n\nLinks cervical and thoracic vertebrae\n\n\n\nDeepest Layer OIAN\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nSplenius Cervicis\nT3-T6/T7 (SP)\nC1–C3/4 (TP)\nSpinal nn. C1-C6 (Post rami, lateral branches)\nBIL: Extends C/S and head; UNIL: I/L head SB and Rotation\n\n\nSemispinalis Cervicis\nT1-T6 (TP)\nC2-C5 (SP)\nSpinal nn. (Posterior Rami)\nBIL: Extends thoracic and cervical spines and head (stabilizes craniovertebral jt); UNIL: I/L SB of head, cervical, and thoracic spine; C/L Rotation\n\n\nLongissimus Cervicis\nT1-T6 (TP)\nC2-C5 (TP)\nSpinal nn.  C1-L5 (Post rami, lateral branches)\nBIL: Extends spine; UNIL: I/L SB"
+  },
+  {
+    "objectID": "The Archive/MSK/Regions/Spine/neck.html#intervertebral-disc-ivd",
+    "href": "The Archive/MSK/Regions/Spine/neck.html#intervertebral-disc-ivd",
+    "title": "Musculoskeletal Mechanics of the head region",
+    "section": "",
+    "text": "5x discs in C/S1\nFirst IVD between C2 and 31\n\n\n\n\n\n\n\nNote\n\n\n\nNamed after vert above it1\n\n\nThe main dysfunction at the IVD is a herniation"
+  },
+  {
+    "objectID": "The Archive/MSK/Regions/Spine/neck.html#head-flexion",
+    "href": "The Archive/MSK/Regions/Spine/neck.html#head-flexion",
+    "title": "Musculoskeletal Mechanics of the head region",
+    "section": "Head Flexion",
+    "text": "Head Flexion\nOsteokinematics: Flexion: 45-50 deg\nArthrokinematics:\n\nInitial phase: begins in low c spine(C4-7) ,\nSecond phase: occurs initially in C0-2 then c2-3, C3-4\nFlexion is described as an anterior osteokinematic rock (tilt) of the superior vertebra in the sag- ittal plane, a superoanterior glide of both superior facets of the zygapophyseal joints, and an anterior translation slide of the superior vertebra on the IVD\nUncovertebral joint: anterior spin1\n\nRestriction: Anterior osteokinematic motion restricted by: PLL, interspinous, lig flavum, and extensor mm"
+  },
+  {
+    "objectID": "The Archive/MSK/Regions/Spine/neck.html#screening",
+    "href": "The Archive/MSK/Regions/Spine/neck.html#screening",
+    "title": "Musculoskeletal Mechanics of the head region",
+    "section": "Screening",
+    "text": "Screening\n\n\n\n\n\n\nCanada C-spine rules\n\n\n\n\nAge &gt;= 65\nDangerous mech:\n\nFall from &gt;=3 feet or 5 stairs\nAxial load to head (ie diving)\nMVC high speed &gt;= 100 km/hr, 60 mph\nBike collision w object\nMotorized rec vehicles\n\n&lt;= 45 deg of rotation\nNew onset of neural sx (paresthesias in extremities)\n\n\n\nWarning signs of cervical region:\n\nSubjective\n\nUnexplained weight loss\nSB away from painful side that causes pain (if this is the only motion causing pain)\nEvidence of compromise of 2-3 spinal nerve roots\n\nPain\n\nGradual inc in pain\nExpansion of pain in terms of the regions involved\nArm pain in pt younger than 35 or pt for more than 6 months\n\nROM: Spasms w PROM\nMotor\n\npainful/weak resistive testing\nLimited scapular elevation\nT1 palsy (weakness / atrophy of the intrinsic mm of hand)\n\nVisual disturbances\nHoarseness\nHorner syndrome–\nVBI and cervical myelopathy"
+  },
+  {
+    "objectID": "The Archive/MSK/Regions/Spine/neck.html#cervical-radiculopathy",
+    "href": "The Archive/MSK/Regions/Spine/neck.html#cervical-radiculopathy",
+    "title": "Musculoskeletal Mechanics of the head region",
+    "section": "Cervical Radiculopathy",
+    "text": "Cervical Radiculopathy\nWainner et al 2003 Cervical radiculoapthy diagnostic tests\n\nPositive ULTT1 (median nerve)\nInvolved sign cervical rotation range of motion &lt; 60 deg Positive distraction test\nPositive spurlings test\n4/4 = 99 % specific, 30 x more likely to have cervical radiculopathy\n¾ = 94% specific, 6 x more likely to have cervical radiculopathy"
+  },
+  {
+    "objectID": "The Archive/Anatomy/Ligaments/ligamentum_flavum.html",
+    "href": "The Archive/Anatomy/Ligaments/ligamentum_flavum.html",
+    "title": "Ligamentum Flavum",
+    "section": "",
+    "text": "Anatomy\nLigamentum flavum: from C1/2, laminae of successive vertebrae.\n\n\nFunction\nRestricts flexion"
+  },
+  {
+    "objectID": "The Archive/Anatomy/Ligaments/posterior_longitudinal_ligament.html",
+    "href": "The Archive/Anatomy/Ligaments/posterior_longitudinal_ligament.html",
+    "title": "Posterior Longitudinal Ligament (PLL)",
+    "section": "",
+    "text": "Anatomy\n\nSacrum to body of C2\nContinuous w tectoral membrane\n\n\n\nFunction\n\nPrevents disk protrusions and restrains flexion of vert column\nDural mater strongly adhered to PLL at C3 and higher, diminishes lower"
+  },
+  {
+    "objectID": "The Archive/Anatomy/Joints/sternoclavicular_joint.html",
+    "href": "The Archive/Anatomy/Joints/sternoclavicular_joint.html",
+    "title": "Sternoclavicular Joint (SCJ)",
+    "section": "",
+    "text": "Kinematics\n\n\nClinical Significance\nBiomechanical studies have shown a variation of 15-31 degrees in the SC joint through the rotation of the clavicle during the movements of the arm in the frontal plane (abduction) and less in the sagittal plane (flexion)1 (Ludewig et al. 2004)\n\n\nClinical Presentation\nAROM limitations - ABD is most limited when missing a clavicle\n\n\n\n\n\nReferences\n\n1. Ludewig PM, Behrens SA, Meyer SM, Spoden SM, Wilson LA. Three-dimensional clavicular motion during arm elevation: Reliability and descriptive data. The Journal of Orthopaedic and Sports Physical Therapy. 2004;34(3):140-149. doi:10.2519/jospt.2004.34.3.140"
+  },
+  {
+    "objectID": "The Archive/Anatomy/Regions/Head and Neck/Ligaments/anterior_longitudinal_ligament.html",
+    "href": "The Archive/Anatomy/Regions/Head and Neck/Ligaments/anterior_longitudinal_ligament.html",
+    "title": "Anterior Longitudinal Ligament (ALL)",
+    "section": "",
+    "text": "Anatomy\nThe Anterior longitudinal ligament spans vertically from the Sacrum to anterior part of C2\n\n\nFunction\nFXN: Restricts extension1\n\n\nDysfunction\nThe ALL is vulnerable to hyperextension trauma1\n\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. Fifth edition. McGraw Hill Education; 2020."
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathophysiology/lewy_bodies.html",
+    "href": "The Archive/Neuroscience/Neuropathophysiology/lewy_bodies.html",
+    "title": "Lewy Bodies",
+    "section": "",
+    "text": "Lewy Bodies refer to alpha-synuclein cytoplasmic inclusions, which are misfolded proteins that clump together1.\n\n\n\n\n\n\nNote\n\n\n\n“Physical manifestation of lewy bodies in the brain, whereas Dementia is the cognitive manifestation of lewy bodies in the brain” -Adria Thompson\n\n\n\n\n\n\nReferences\n\n1. O’Sullivan SB, Schmitz TJ, Fulk GD, eds. Physical Rehabilitation. 7th ed. F.A. Davis Company; 2019."
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Parkinsons Disease/parkinsons_disease.html#primary-parkinsonism-idiopathic",
+    "href": "The Archive/Neuroscience/Neuropathology/Parkinsons Disease/parkinsons_disease.html#primary-parkinsonism-idiopathic",
+    "title": "Parkinson’s Disease (PD)",
+    "section": "Primary Parkinsonism (Idiopathic)",
+    "text": "Primary Parkinsonism (Idiopathic)"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Parkinsons Disease/parkinsons_disease.html#secondary-parkinsonism",
+    "href": "The Archive/Neuroscience/Neuropathology/Parkinsons Disease/parkinsons_disease.html#secondary-parkinsonism",
+    "title": "Parkinson’s Disease (PD)",
+    "section": "Secondary Parkinsonism",
+    "text": "Secondary Parkinsonism\n\nPostencephalitic Parkinsonism\nToxic Parkinsonism\nDrug-Induced Parkinsonism\n\nPostencephalitic Parkinsonism1\n\nViral brain infection\nNot seen today\n\n\nToxic Parkinsonism(O’Sullivan, Schmitz, and Fulk 2019)\nExposure to environmental toxins Pesticides Industrial chemicals (manganese, CO, cyanide, methanol) Synthetic heroin + MPTP\n\n\nDrug-Induced Parkinsonism\nDrug-Induced Parkinsonism1 - Drugs that result in extra-pyramidal dysfunction → Pseudo PD symptoms - Neuroleptic drugs: (chlorpromazine) (Thorazine®), haloperidol (Haldol®), thioridazine (Mellaril®), and thiothixene (Navane®) - Antidepressant drugs: amitriptyline (Triavil®), amoxapine (Asendin®), and trazodone (Desyrel®) - Antihypertensive drugs: Methyldopa (Aldomet®) and reserpine\n\n\nMetabolic PD\n\nPD d/t metabolic conditions\nRare\nCalcium metabolism dysfunction → BG Calcification\nHypothyroidism\nHyperparathyroidism\nWilson’s Disease"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Parkinsons Disease/parkinsons_disease.html#parkinson-plus",
+    "href": "The Archive/Neuroscience/Neuropathology/Parkinsons Disease/parkinsons_disease.html#parkinson-plus",
+    "title": "Parkinson’s Disease (PD)",
+    "section": "Parkinson-Plus",
+    "text": "Parkinson-Plus\nParkinson-Plus refers to a group of neurodegenerative diseases can affect the substantia nigra and produce parkinsonian symptoms along with other neurological signs1\nPathologies\n\nCortical–basal ganglionic degeneration (CBGD)\nProgressive supranuclear palsy (PSP)\nMultiple system atrophy (MSA) syndromes (striatonigral degeneration [SND])\nShy-Drager syndrome\nSporadic olivopontocerebellar atrophy [OPCA]\nMotor neuron disease parkinsonism\n\nParkinson-like symptoms\n\nMulti-infarct vascular disease\nDementia syndromes (Alzheimer’s disease, diffuse Lewy body disease [DLBD], and frontotemporal dementia [FTD])\nNormal pressure hydrocephalus (NPH)\nCreutzfeldt-Jakob disease (CJD)\nWilson’s disease (WD)\nJuvenile Huntington’s disease"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Parkinsons Disease/parkinsons_disease.html#degeneration",
+    "href": "The Archive/Neuroscience/Neuropathology/Parkinsons Disease/parkinsons_disease.html#degeneration",
+    "title": "Parkinson’s Disease (PD)",
+    "section": "Degeneration",
+    "text": "Degeneration\n\nLoss of the melanin-containing neurons produces characteristic results in Depigmentation in the substantia nigra with a characteristic pallor1.\nNumerous other brain regions of people with PD show structural and functional changes resulting in impaired modulation of other neurotransmitters (acetylcholine, serotonin, noradrenaline, glutamate, and GABA)1."
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Parkinsons Disease/parkinsons_disease.html#lewy-bodies",
+    "href": "The Archive/Neuroscience/Neuropathology/Parkinsons Disease/parkinsons_disease.html#lewy-bodies",
+    "title": "Parkinson’s Disease (PD)",
+    "section": "Lewy Bodies",
+    "text": "Lewy Bodies\nThe second characteristic of PD is the addition of Lewy Bodies in the brain.\nChanges are seen in the pedunculopontine nucleus (PPN) and nucleus basalis of Meynert (nbM) that release acetylcholine (ACh) Degeneration & Alpha Synuclein deposition (early in PD) at Locus coeruleus that releases noradrenaline"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Parkinsons Disease/parkinsons_disease.html#basal-ganglia-loop-dysfunction",
+    "href": "The Archive/Neuroscience/Neuropathology/Parkinsons Disease/parkinsons_disease.html#basal-ganglia-loop-dysfunction",
+    "title": "Parkinson’s Disease (PD)",
+    "section": "Basal Ganglia Loop Dysfunction",
+    "text": "Basal Ganglia Loop Dysfunction\nDirect Loop\n\nConsists of signals transmitted from the cortex to putamen to globus pallidus, to ventrolateral (VL) nucleus of the thalamus, and back to cortex (supplementary motor area [SMA]).\nThis VL-SMA connection is excitatory and facilitates discharge of cells in the SMA1.\nThe BG thus serves to activate the cortex via a positive-feedback loop and assists in the initiation of voluntary movement1\nInhibition of the thalamus by the BG is thought to underlie the hypokinesia seen in PD1\n\nIndirect Loop1\n\nSTn, Gpi, and SNpr → Superior colliculus and midbrain tegmentum1.\nServes to decrease thalamocortical activation1.\nBG projection to the superior colliculus assists in regulation of saccadic eye movements1.\nThe BG projection to the reticular formation assists in the regulation of trunk and limb musculature (via extrapyramidal pathways), sleep and wakefulness, and arousal. Other circuits in the BG are involved with memory and cognitive functions1."
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Parkinsons Disease/parkinsons_disease.html#symptoms",
+    "href": "The Archive/Neuroscience/Neuropathology/Parkinsons Disease/parkinsons_disease.html#symptoms",
+    "title": "Parkinson’s Disease (PD)",
+    "section": "Symptoms",
+    "text": "Symptoms\n\nFreezing of gait (FOG)"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Parkinsons Disease/parkinsons_disease.html#subgroups",
+    "href": "The Archive/Neuroscience/Neuropathology/Parkinsons Disease/parkinsons_disease.html#subgroups",
+    "title": "Parkinson’s Disease (PD)",
+    "section": "Subgroups",
+    "text": "Subgroups\nThe subgroups of PD are not pathophysiologically different, but are used to describe which symptoms the patient presented with first:\n\nTremulous (Tremor predominant)\nAkinetic Rigidity or Postural Instability and Gait Disturbances"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Parkinsons Disease/parkinsons_disease.html#hoehn-and-yahr-scale",
+    "href": "The Archive/Neuroscience/Neuropathology/Parkinsons Disease/parkinsons_disease.html#hoehn-and-yahr-scale",
+    "title": "Parkinson’s Disease (PD)",
+    "section": "Hoehn and Yahr Scale",
+    "text": "Hoehn and Yahr Scale"
+  },
+  {
+    "objectID": "The Archive/Anatomy/Regions/Head and Neck/Ligaments/alar_ligament.html",
+    "href": "The Archive/Anatomy/Regions/Head and Neck/Ligaments/alar_ligament.html",
+    "title": "Alar Ligament",
+    "section": "",
+    "text": "Dysfunction\n\nDysfxn: Insufficiency = Occipito-axial instability\nDegree of instability is determined by neurological findings/sx\n\nVascular compromise\nPain level\nPROM = Increase\nAROM = Decrease\n\n\n\n\nAssessment"
+  },
+  {
+    "objectID": "The Archive/Anatomy/Regions/Head and Neck/cervical_intervertebral_disc.html",
+    "href": "The Archive/Anatomy/Regions/Head and Neck/cervical_intervertebral_disc.html",
+    "title": "Cervical Intervertebral Disc",
+    "section": "",
+    "text": "Height to body ratio: 2:5\nIVDs make up approx 25% of the superior to inferior height of the C/S"
+  },
+  {
+    "objectID": "The Archive/Anatomy/Joints/Spine joints/cervicothoracic_junction.html",
+    "href": "The Archive/Anatomy/Joints/Spine joints/cervicothoracic_junction.html",
+    "title": "Cervicothoracic Junction (C7-T1)",
+    "section": "",
+    "text": "Cervicothoracic junction (C7-T1) is located between the highly mobile C/S and immobile upper T/S\nArea where powerful mm of UE and shoulder girdle insert\nNeurovascular structures of UE pass"
+  },
+  {
+    "objectID": "The Archive/Anatomy/Bones/Upper Extremity Bones/humerus_bone.html#fracture",
+    "href": "The Archive/Anatomy/Bones/Upper Extremity Bones/humerus_bone.html#fracture",
+    "title": "Humerus (bone)",
+    "section": "Fracture",
+    "text": "Fracture\n\nProximal humeral fx: Can have associated neural complications\n\nRadial n: Wrist ext & Elbow str\nAxillary n: Deltoid weakness"
+  },
+  {
+    "objectID": "The Archive/Pathologies/MSK Pathologies/Head and neck/cervical_IVD_herniation.html",
+    "href": "The Archive/Pathologies/MSK Pathologies/Head and neck/cervical_IVD_herniation.html",
+    "title": "Cervical Disc Herniation",
+    "section": "",
+    "text": "Cervical Herniation protection\nThe Cervical spine has multiple protective measures to prevent herniations.\n\nThe nucleus pulposus (NP) is contained by PLL thus under or thru the material must pass during a herniation1\nUncovertebral joints reinforce posterolateral aspect of IVD1\n\n\n\nEpidemiology\nMost rare herniation in C/S = C2/31\n\n\nExamination\nDifficult to diagnose = because there’s no motor reflexes you can test above it/at it.\n\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. Fifth edition. McGraw Hill Education; 2020."
+  },
+  {
+    "objectID": "The Archive/Physiology/Pulmonary system/Pulmonary evaluation/pulmonary_evaluation.html",
+    "href": "The Archive/Physiology/Pulmonary system/Pulmonary evaluation/pulmonary_evaluation.html",
+    "title": "Pulmonary Evaluation",
+    "section": "",
+    "text": "Patient history/chart review—as per all patients\n\n\n\nEnvironmental or occupational toxins\n\n\n\n\n\nSmoking history\nHistory of pneumonia, thoracic procedures or surgery\nHistory of assisted ventilation or mechanical ventilation\nHistory or current reports of dyspnea\nHistory of baseline sputum production\n\nColor\nConsistency (is it sticky, thin, fluid) (if smelly– cld indicate infection)\nAmount\n\nSleeping position, number of pillows"
+  },
+  {
+    "objectID": "The Archive/Physiology/Pulmonary system/Pulmonary evaluation/pulmonary_evaluation.html#environment",
+    "href": "The Archive/Physiology/Pulmonary system/Pulmonary evaluation/pulmonary_evaluation.html#environment",
+    "title": "Pulmonary Evaluation",
+    "section": "",
+    "text": "Environmental or occupational toxins"
+  },
+  {
+    "objectID": "The Archive/Physiology/Pulmonary system/Pulmonary evaluation/pulmonary_evaluation.html#history",
+    "href": "The Archive/Physiology/Pulmonary system/Pulmonary evaluation/pulmonary_evaluation.html#history",
+    "title": "Pulmonary Evaluation",
+    "section": "",
+    "text": "Smoking history\nHistory of pneumonia, thoracic procedures or surgery\nHistory of assisted ventilation or mechanical ventilation\nHistory or current reports of dyspnea\nHistory of baseline sputum production\n\nColor\nConsistency (is it sticky, thin, fluid) (if smelly– cld indicate infection)\nAmount\n\nSleeping position, number of pillows"
+  },
+  {
+    "objectID": "The Archive/Physiology/Pulmonary system/Pulmonary evaluation/pulmonary_evaluation.html#observation",
+    "href": "The Archive/Physiology/Pulmonary system/Pulmonary evaluation/pulmonary_evaluation.html#observation",
+    "title": "Pulmonary Evaluation",
+    "section": "Observation",
+    "text": "Observation\n\nGeneral appearance, alertness\nEase of phonation\nSkin color\nPosture and chest shape\nBreathing pattern\nSupplemental O2 needs (nasal cannula, mask, ventilator etc)\nSurgical incisions"
+  },
+  {
+    "objectID": "The Archive/Physiology/Pulmonary system/Pulmonary evaluation/pulmonary_evaluation.html#auscultation",
+    "href": "The Archive/Physiology/Pulmonary system/Pulmonary evaluation/pulmonary_evaluation.html#auscultation",
+    "title": "Pulmonary Evaluation",
+    "section": "Auscultation",
+    "text": "Auscultation\n\n\n\nNormal\n\nExample\nTracheal or bronchial (normal, named where u should hear them)\nBronchovesicular\nVesicular\n\n\n\nAbnormal\n\nAdventitious (crackles, rales)\nAdded (showing up in areas where they should not be)\nLocation: Abnormal if heard outside normal location or changed in some way\nBronchial (where should be vesicular):\n\nCould mean there is fluid or secretion consolidation; pneumonia\n\nDecreased or diminished\n\nHypoventilation, severe congestion, emphysema\n\nAbsent\n\nPneumothorax or lung collapse (emergency situation- chest tube needed)\n\nAdventitious breath sounds:\n\nContinuous\n\nWheezes\nRhonchi\nStridor\n\nDiscontinuous\n\nCrackles\n\n\n\n\n\n\n\nDocumentation\n\nLocation: (base, Right vs Left etc)\nPhase of respiration (inspiration, expiration)\nComparison to opposite lung"
+  },
+  {
+    "objectID": "The Archive/Physiology/Pulmonary system/Pulmonary evaluation/pulmonary_evaluation.html#pulmonary-palpation",
+    "href": "The Archive/Physiology/Pulmonary system/Pulmonary evaluation/pulmonary_evaluation.html#pulmonary-palpation",
+    "title": "Pulmonary Evaluation",
+    "section": "Pulmonary Palpation",
+    "text": "Pulmonary Palpation\n\nPresence of fremitus (where u can feel chest pain/congestion location)\nPresence of pain, tenderness\nSkin temp (ie could mean pneumonia on R vs L)\nBony abnormalities, rib fx\nChest expansion (try to breathe in to my hands, PT - put your hands around bottom of rib cage on side)"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Balance Tests/RPS_rate_of_perceived_stability.html",
+    "href": "The Archive/Examination/Tests and Measures/Balance Tests/RPS_rate_of_perceived_stability.html",
+    "title": "Rate of Perceived Stability (RPS)",
+    "section": "",
+    "text": "Data Gathered from Shenoy et al. 2022\n\n\nSample\npatients\n\n:::{layout-ncol=“2”}\n\n\n\n\nHemiparesis post-stroke\nAbility to walk 10m with/without AD\nat least 1-year post-stroke\n\n\n\n\n\nCohort study"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Balance Tests/RPS_rate_of_perceived_stability.html#reliability-and-validity",
+    "href": "The Archive/Examination/Tests and Measures/Balance Tests/RPS_rate_of_perceived_stability.html#reliability-and-validity",
+    "title": "Rate of Perceived Stability (RPS)",
+    "section": "",
+    "text": "Data Gathered from Shenoy et al. 2022\n\n\nSample\npatients\n\n:::{layout-ncol=“2”}"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Balance Tests/RPS_rate_of_perceived_stability.html#inclusion-criteria",
+    "href": "The Archive/Examination/Tests and Measures/Balance Tests/RPS_rate_of_perceived_stability.html#inclusion-criteria",
+    "title": "Rate of Perceived Stability (RPS)",
+    "section": "",
+    "text": "Hemiparesis post-stroke\nAbility to walk 10m with/without AD\nat least 1-year post-stroke"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Balance Tests/RPS_rate_of_perceived_stability.html#exclusion-criteria",
+    "href": "The Archive/Examination/Tests and Measures/Balance Tests/RPS_rate_of_perceived_stability.html#exclusion-criteria",
+    "title": "Rate of Perceived Stability (RPS)",
+    "section": "",
+    "text": "Cohort study"
+  },
+  {
+    "objectID": "The Archive/Physiology/Pulmonary system/respiration.html",
+    "href": "The Archive/Physiology/Pulmonary system/respiration.html",
+    "title": "Respiration",
+    "section": "",
+    "text": "Important to avoid pathologies, such as thoracic outlet syndrome"
+  },
+  {
+    "objectID": "The Archive/Physiology/Pulmonary system/respiration.html#inspiration",
+    "href": "The Archive/Physiology/Pulmonary system/respiration.html#inspiration",
+    "title": "Respiration",
+    "section": "Inspiration",
+    "text": "Inspiration\nPrimary\n\nDiaphragm\nLevator costarum\nExternal intercostals\nInternal intercostals (ant)\n\nAccessory\n\nScaleni\nSternocleidomastoid (SCM)\nTrapezius (UT, MT, LT)\nSerratus Anterior (SA)\nSerratus Posterior Sup/Inf (SP)\nPectoralis Major\nPectoralis Minor\nLat dorsi\nSubclavius\n\n\nAccessory Muscles of Inspiration\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nSternocleidomastoid\nSternal head: sternum (manubrium); Clavicular head: Clavicle (medial 1/3)\nTemporal bone (mastoid process); Occipital bone (superior nuchal line)\nMotor: CN XI Accessory n. and Proprioception: Cervical plexus (C2, C3, C4)\nUnilateral: Tilts head to same side, rotates head to opposite side; Bilateral: Extends head, aids in respiration when head is fixed"
+  },
+  {
+    "objectID": "The Archive/Physiology/Pulmonary system/respiration.html#expiration",
+    "href": "The Archive/Physiology/Pulmonary system/respiration.html#expiration",
+    "title": "Respiration",
+    "section": "Expiration",
+    "text": "Expiration\nPrimary\n\nabs:\n\nInternal Obliques (IO)\nExternal obliques (EO)\nRectus Abdominis (RA)\nTransverse Abdominis (TA)\n\nTransverse Intercostal\nInternal intercostal\nTransversus Thoracis\n\nAccessory\n\nLat dorsi\nSerratus post inf\nQuadratus Lumborum (QL)\nIliocostalis lumborum"
+  },
+  {
+    "objectID": "The Archive/Physiology/Pulmonary system/respiration.html#stress-breathing",
+    "href": "The Archive/Physiology/Pulmonary system/respiration.html#stress-breathing",
+    "title": "Respiration",
+    "section": "Stress Breathing",
+    "text": "Stress Breathing"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Parkinsons Disease/parkinsons_disease.html#psychosocial",
+    "href": "The Archive/Neuroscience/Neuropathology/Parkinsons Disease/parkinsons_disease.html#psychosocial",
+    "title": "Parkinson’s Disease (PD)",
+    "section": "Psychosocial",
+    "text": "Psychosocial\n\nThe severity of idiopathic PD (IPD) has been associated with patients’ degree of depression2.\n\nas studies have revealed a direct correlation with Hoehn-Yahr scores/stages, as well as elevated scores on depression rating scales including the Geriatric Depression Scale (GDS) and the Montgomery Asberg Depression Rating Scale (MADRS)"
+  },
+  {
+    "objectID": "The Archive/Physiology/Pulmonary system/Pulmonary evaluation/lung_sounds.html",
+    "href": "The Archive/Physiology/Pulmonary system/Pulmonary evaluation/lung_sounds.html",
+    "title": "Practice",
+    "section": "",
+    "text": "Practice\n\nPractical Clinical Skills website"
+  },
+  {
+    "objectID": "The Archive/Physiology/Pulmonary system/Pulmonary evaluation/pulmonary_evaluation.html#cough-evaluation",
+    "href": "The Archive/Physiology/Pulmonary system/Pulmonary evaluation/pulmonary_evaluation.html#cough-evaluation",
+    "title": "Pulmonary Evaluation",
+    "section": "Cough Evaluation",
+    "text": "Cough Evaluation\n\nEffectiveness\nControl\nQuality\nFrequency\nSputum Production\nHemoptysis\n\n\n\n\nEffectiveness\n\nEffectiveness (clearing secretions) → weak cough = hear junk in lungs, they cant cough well, OR sci injury, cant produce enough force to clear secretions)\nExample: SCI may not be able to produce enough force to clear their airway\n\n\n\nControl\n\nControl (start and stop cough)– can they voluntarily cough then stop?\n\n\n\nQuality\n\nWet vs Dry\nCough and if you hear wet stuff, or is it dry\n\n\n\n\n\nFrequency\n\nDo they cough every couple of min\nDo they cough w activity\netc\n\n\n\nSputum Production\n\nlook what they are coughing up\nColor\nQuantity\nOdor\nConsistency– tenacious, clinging to sides of someone’s lungs– sticky, clay, silly putty\n\n\n\nHemoptysis\n\nColor: Dark red vs. bright red (blood)\n\nDark red= after surgery (like a scab type)\nBright red= someone actively bleeding. Can make difference in if you continue clearance or no\n\nVolume\n\n&lt;5ml CAN continue airway clearance techniques (about a teaspoon)\n.&gt;5ml—unclear\n\nAutogenic drainage (gentle)\n\nFocused on breathing– can use in combo w postural drainage, but focused on moving it up the mucociliary ladder she says\n\nActive cycle of breathing"
+  },
+  {
+    "objectID": "The Archive/Physiology/Pulmonary system/pulmonary_health_conditions.html",
+    "href": "The Archive/Physiology/Pulmonary system/pulmonary_health_conditions.html",
+    "title": "Pulmonary Health Conditions",
+    "section": "",
+    "text": "Dec’d air flow out of lungs\nNarrowing of airway lumen\nThey have room for good lung capacity, but it just wont occur\nInc dead space\nDec surface area for gas exchange\n\n\n\n\nAirflow limitation that is not reversible\nUsually progressive\nTypically combo of disorders:\n\nChronic bronchitis,\nEmphysema\nSmall airway obstruction\n\n\n\n\n\n\nCough and secretions for at least 3 months, 2 years in a row\nNarrowing of large and then small airways (inflammation of mucosa )\nMucous glands hyperplasia\nDec’d mucociliary function\n\nMay have infection, change in medication in hospital if already diagnosed\n\n\n\n\n\n\nProgressive destruction of alveolar walls and adjacent capillaries\nDecreased pulmonary elasticity (harder to breathe)\nPremature airway collapse (more at risk for lung collapse, not good gas exchange)\n\n\n\n\n\nImmunologic response to allergens\nCharacterized by:\n\nBronchial smooth muscle constriction\nMucus production (no infection)Bronchial mucosa inflammation and thickening\nStatus asthmaticus\n\nLife threatening\nMechanical ventilation\n\n\n\n\n\n\n\nUltimately Lethal\nAutosomal-recessive trait\n\n\n\n\n\n\nBronchial and bronchiolar walls become inflamed\nGland cells hypertrophy—tenacious secretions\nDecreased mucociliary clearance\n\nMore mucus, very tenacious, very thick and almost brown ish!!!\n\n\n\n\n\n\nCan be variable in presentation\nLife expectancy- ppl in 30s but we’ve gotten better w meds, so depends very variable on severity\n\n\n\n\n\nHave them maintain their routine at home (ie percussion vest, then take med, etc)\nTry to help them maintain this routine\nCan do percussion with them – big help in PT\n\n\n\n\n\n\n\n\nPermanent dilation of airways\nDestruction of elastic bronchiole walls\nDestruction of mucociliary cells\nBronchial dilation\nBronchial artery enlargement"
+  },
+  {
+    "objectID": "The Archive/Physiology/Pulmonary system/pulmonary_health_conditions.html#copd",
+    "href": "The Archive/Physiology/Pulmonary system/pulmonary_health_conditions.html#copd",
+    "title": "Pulmonary Health Conditions",
+    "section": "",
+    "text": "Airflow limitation that is not reversible\nUsually progressive\nTypically combo of disorders:\n\nChronic bronchitis,\nEmphysema\nSmall airway obstruction"
+  },
+  {
+    "objectID": "The Archive/Physiology/Pulmonary system/pulmonary_health_conditions.html#chronic-bronchitis",
+    "href": "The Archive/Physiology/Pulmonary system/pulmonary_health_conditions.html#chronic-bronchitis",
+    "title": "Pulmonary Health Conditions",
+    "section": "",
+    "text": "Cough and secretions for at least 3 months, 2 years in a row\nNarrowing of large and then small airways (inflammation of mucosa )\nMucous glands hyperplasia\nDec’d mucociliary function\n\nMay have infection, change in medication in hospital if already diagnosed"
+  },
+  {
+    "objectID": "The Archive/Physiology/Pulmonary system/pulmonary_health_conditions.html#emphysema",
+    "href": "The Archive/Physiology/Pulmonary system/pulmonary_health_conditions.html#emphysema",
+    "title": "Pulmonary Health Conditions",
+    "section": "",
+    "text": "Progressive destruction of alveolar walls and adjacent capillaries\nDecreased pulmonary elasticity (harder to breathe)\nPremature airway collapse (more at risk for lung collapse, not good gas exchange)"
+  },
+  {
+    "objectID": "The Archive/Physiology/Pulmonary system/pulmonary_health_conditions.html#asthma",
+    "href": "The Archive/Physiology/Pulmonary system/pulmonary_health_conditions.html#asthma",
+    "title": "Pulmonary Health Conditions",
+    "section": "",
+    "text": "Immunologic response to allergens\nCharacterized by:\n\nBronchial smooth muscle constriction\nMucus production (no infection)Bronchial mucosa inflammation and thickening\nStatus asthmaticus\n\nLife threatening\nMechanical ventilation"
+  },
+  {
+    "objectID": "The Archive/Physiology/Pulmonary system/pulmonary_health_conditions.html#cystic-fibrosis",
+    "href": "The Archive/Physiology/Pulmonary system/pulmonary_health_conditions.html#cystic-fibrosis",
+    "title": "Pulmonary Health Conditions",
+    "section": "",
+    "text": "Ultimately Lethal\nAutosomal-recessive trait\n\n\n\n\n\n\nBronchial and bronchiolar walls become inflamed\nGland cells hypertrophy—tenacious secretions\nDecreased mucociliary clearance\n\nMore mucus, very tenacious, very thick and almost brown ish!!!\n\n\n\n\n\n\nCan be variable in presentation\nLife expectancy- ppl in 30s but we’ve gotten better w meds, so depends very variable on severity\n\n\n\n\n\nHave them maintain their routine at home (ie percussion vest, then take med, etc)\nTry to help them maintain this routine\nCan do percussion with them – big help in PT"
+  },
+  {
+    "objectID": "The Archive/Physiology/Pulmonary system/pulmonary_health_conditions.html#bronchiectasis",
+    "href": "The Archive/Physiology/Pulmonary system/pulmonary_health_conditions.html#bronchiectasis",
+    "title": "Pulmonary Health Conditions",
+    "section": "",
+    "text": "Permanent dilation of airways\nDestruction of elastic bronchiole walls\nDestruction of mucociliary cells\nBronchial dilation\nBronchial artery enlargement"
+  },
+  {
+    "objectID": "The Archive/Physiology/Pulmonary system/pulmonary_health_conditions.html#blue-bloaters",
+    "href": "The Archive/Physiology/Pulmonary system/pulmonary_health_conditions.html#blue-bloaters",
+    "title": "Pulmonary Health Conditions",
+    "section": "Blue Bloaters",
+    "text": "Blue Bloaters\n\nClinical dx: daily productive cough for 3 months or more in at least 2 consectuive years\nBlue\n\nCyanotic\n\nBloater\n\nOverweight\nPeripheral edema\n\nRhochi\nWheezing"
+  },
+  {
+    "objectID": "The Archive/Physiology/Pulmonary system/pulmonary_health_conditions.html#pink-puffers",
+    "href": "The Archive/Physiology/Pulmonary system/pulmonary_health_conditions.html#pink-puffers",
+    "title": "Pulmonary Health Conditions",
+    "section": "Pink Puffers",
+    "text": "Pink Puffers\n\nPathologic diagnosis , permanent enlargement and destruction of airspaces distal to the terminal bronchiole\nOlder and thin\nDyspnea\nQuiet chest\nPuffer:\n\nX ray - hyperinflation w flattened diaphragms"
+  },
+  {
+    "objectID": "The Archive/Physiology/Pulmonary system/Pulmonary evaluation/pulmonary_evaluation.html#oximetry",
+    "href": "The Archive/Physiology/Pulmonary system/Pulmonary evaluation/pulmonary_evaluation.html#oximetry",
+    "title": "Pulmonary Evaluation",
+    "section": "Oximetry",
+    "text": "Oximetry\n\nSigns and symptoms of hypoxemia (cld indicate lack of o2)\n\nTachypnea\nTachycardia\nRestlessness\nMalaise\nImpaired judgment\nIncoordination\nVertigo\nNausea\nLabored respiration\nCardiac dysrhythmia\nConfusion"
+  },
+  {
+    "objectID": "The Archive/Physiology/Pulmonary system/Pulmonary evaluation/pulmonary_evaluation.html#arterial-blood-gas",
+    "href": "The Archive/Physiology/Pulmonary system/Pulmonary evaluation/pulmonary_evaluation.html#arterial-blood-gas",
+    "title": "Pulmonary Evaluation",
+    "section": "Arterial blood gas",
+    "text": "Arterial blood gas\n\nAcid base balance (pH) – ie respiratory or metabolic alkalosis or acidosis can affect it)\nVentilation (CO2)\nOxygenation (O2)\nImbalances due to pulmonary or metabolic reasons\n\nAcidosis\n\nRespiratory or metabolic\n\nAlkalosis\n\nRespiratory or metabolic\n\n\n\nNormal ABG values\n\nPaO2 &gt;80 mmHg\nPaCO2 35-45 mmHg\npH 7.35-7.45\nHCO3 → 22-26 mEq/liter\n\n\n\n\n\nflowchart TD\n\n  pH[pH] --&gt; low-ph[Low pH]\n  pH --&gt; normal-ph[Normal pH]\n  pH --&gt; high-pH[High pH]\n\n  low-ph --&gt; acidemia[Acidemia]\n  acidemia --&gt; highPCO2[high PCO2]\n  acidemia --&gt; lowHCO3[Low HCO3]\n  highPCO2 --&gt; respiratory-acidosis[Respiratory Acidosis]\n  lowHCO3 --&gt; metabolic-acidosis[Metabolic Acidosis]\n\n  normal-ph --&gt; normal-acid-base[No abnormally or Mixed Acid-base Disorder]\n\n  high-pH --&gt; alkalemia[Alkelemia]\n  alkalemia --&gt; low-PCO2[Low PCO2]\n  alkalemia --&gt; high-HCO3[High HCO3]\n  low-PCO2 --&gt; respiratory-alkalosis[Respiratory Alkalosis]\n  high-HCO3 --&gt; metabolic-alkalosis[Metabolic Alkalosis]\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nAnother step after metabolic vs respiratory== compensated vs uncompensated (dont need to know but interesting)"
+  },
+  {
+    "objectID": "The Archive/Physiology/Pulmonary system/Pulmonary evaluation/pulmonary_evaluation.html#venous-blood-gases",
+    "href": "The Archive/Physiology/Pulmonary system/Pulmonary evaluation/pulmonary_evaluation.html#venous-blood-gases",
+    "title": "Pulmonary Evaluation",
+    "section": "Venous Blood gases",
+    "text": "Venous Blood gases\n\nAlso called mixed blood gases\nLess common that ABG\nProvides info about body’s metabolic workload/efficiecy\nLarge inc in Sv CO2 (in venous system= co2)\n\nInefficient/deconditioned peripheral mm\nOverall deconditioning"
+  },
+  {
+    "objectID": "The Archive/Physiology/Pulmonary system/Pulmonary evaluation/pulmonary_evaluation.html#chest-x-rays",
+    "href": "The Archive/Physiology/Pulmonary system/Pulmonary evaluation/pulmonary_evaluation.html#chest-x-rays",
+    "title": "Pulmonary Evaluation",
+    "section": "Chest X-rays",
+    "text": "Chest X-rays\nDiagnosis and monitor progression"
+  },
+  {
+    "objectID": "The Archive/Physiology/Pulmonary system/Pulmonary evaluation/pulmonary_evaluation.html#sputum-analysis",
+    "href": "The Archive/Physiology/Pulmonary system/Pulmonary evaluation/pulmonary_evaluation.html#sputum-analysis",
+    "title": "Pulmonary Evaluation",
+    "section": "Sputum analysis",
+    "text": "Sputum analysis\n\n(cough sputum in clean tube)\nIdentify organisms in lungs for treatment\nIndications\n\nRise in pt temp\nChange in sputum color or consistency\nSterile containers req’d\nPT may assist or collect during bronchopulmonary hygiene"
+  },
+  {
+    "objectID": "The Archive/Physiology/Pulmonary system/Pulmonary evaluation/pulmonary_evaluation.html#bronchoscopy",
+    "href": "The Archive/Physiology/Pulmonary system/Pulmonary evaluation/pulmonary_evaluation.html#bronchoscopy",
+    "title": "Pulmonary Evaluation",
+    "section": "Bronchoscopy",
+    "text": "Bronchoscopy\n\nDirectly visualize and aspirate the bronchopulmonary tree (trying to see blockage, and try to clear)\n\nIf struggling to maintain appropriate O2 ventilation\nPts are FATIGUED after this\nBox 4-2 , p 71 for indications\n\nFatigue post procedure"
+  },
+  {
+    "objectID": "The Archive/Physiology/Pulmonary system/Pulmonary evaluation/pulmonary_evaluation.html#diagnosing-pe",
+    "href": "The Archive/Physiology/Pulmonary system/Pulmonary evaluation/pulmonary_evaluation.html#diagnosing-pe",
+    "title": "Pulmonary Evaluation",
+    "section": "Diagnosing PE",
+    "text": "Diagnosing PE\n\nV/Q scan (if u see this scan, WITHHOLD PT TXT, bc cld have PE)\n\nRule out pulmonary embolism\nLooking for mismatch in ventilation and perfusion\n\nComputed tomographic pulmonary angiography (CT-PA) (if u see this scan, WITHHOLD PT TXT, bc cld have PE)\n\nDirect visualization of pulmonary artery\nRapid detection of thrombus\nNow preferred method of diagnosing PE"
+  },
+  {
+    "objectID": "The Archive/Physiology/Pulmonary system/Pulmonary management/pulmonary_management_overview.html",
+    "href": "The Archive/Physiology/Pulmonary system/Pulmonary management/pulmonary_management_overview.html",
+    "title": "Pulmonary Management",
+    "section": "",
+    "text": "Adrenocortical steroids\nAntihistamines\nBronchodilators\nLeukotriene modifiers\nMast cell stabilizers\n\n\n\n\n\n\n\nNote\n\n\n\nPTs should time their treatment with the patient’s medications in mind"
+  },
+  {
+    "objectID": "The Archive/Physiology/Pulmonary system/Pulmonary management/pulmonary_management_overview.html#goals",
+    "href": "The Archive/Physiology/Pulmonary system/Pulmonary management/pulmonary_management_overview.html#goals",
+    "title": "Pulmonary Management",
+    "section": "Goals",
+    "text": "Goals\n\nIndependence in mobility\nMaximize gas exchange (improve ventilation and airway clearance)\nIncrease aerobic capacity\nIncrease respiratory mm endurance"
+  },
+  {
+    "objectID": "The Archive/Physiology/Pulmonary system/Pulmonary management/pulmonary_management_overview.html#patient-education",
+    "href": "The Archive/Physiology/Pulmonary system/Pulmonary management/pulmonary_management_overview.html#patient-education",
+    "title": "Pulmonary Management",
+    "section": "Patient education",
+    "text": "Patient education\nReview the condition and offer advice on how to help patient maximize rehab or perform compensations to maximize current level of function"
+  },
+  {
+    "objectID": "The Archive/Physiology/Pulmonary system/Pulmonary management/pulmonary_management_overview.html#contraindications",
+    "href": "The Archive/Physiology/Pulmonary system/Pulmonary management/pulmonary_management_overview.html#contraindications",
+    "title": "Pulmonary Management",
+    "section": "Contraindications",
+    "text": "Contraindications\n\nBlood in lungs\nBurns\nRecent incision sites\nLung contusion, empyema– in pleural space so NO = pleural effusion or something, dont do it! , rib fx etc can be reasons to not do airway clearance"
+  },
+  {
+    "objectID": "The Archive/Physiology/Pulmonary system/Pulmonary management/pulmonary_management_overview.html#cough-effectiveness",
+    "href": "The Archive/Physiology/Pulmonary system/Pulmonary management/pulmonary_management_overview.html#cough-effectiveness",
+    "title": "Pulmonary Management",
+    "section": "Cough effectiveness",
+    "text": "Cough effectiveness\n\n\n\nMedications\n\nPain meds (if pain is limiting issue to the cough)\n\n\n\nSplinting\n\nUse splints if they have incisions\ncan be w pillow (ie heart pillow for sternal precaution)\nProvide counterpressure w arms\n\n\n\nPositioning\n\nPositioning\n\n\n\n\n\nHydration\n\nEspecially important with older patients\ndehydration makes secretions harder to mobilize"
+  },
+  {
+    "objectID": "The Archive/Physiology/Pulmonary system/Pulmonary management/pulmonary_management_overview.html#examples-of-act",
+    "href": "The Archive/Physiology/Pulmonary system/Pulmonary management/pulmonary_management_overview.html#examples-of-act",
+    "title": "Pulmonary Management",
+    "section": "Examples of ACT",
+    "text": "Examples of ACT\n\nPercussion\nVibration\nAutogenic drainage\nActive cycle of breathing\nPostural drainage (see Ch22 of Paz1)\n\n\n\n\nPostural Drainage Positions1\n\n\n\nNT suctioning (nasotracheal suctioning)\n\n\nFlutter valve\nFlutter valves should be used in adjunct to manual ACT"
+  },
+  {
+    "objectID": "The Archive/Physiology/Pulmonary system/pulmonary_health_conditions.html#atelectasis",
+    "href": "The Archive/Physiology/Pulmonary system/pulmonary_health_conditions.html#atelectasis",
+    "title": "Pulmonary Health Conditions",
+    "section": "Atelectasis",
+    "text": "Atelectasis\nPartial or total collapse of lung\n\nInactivity\nAbdominal or thoracic incision pain (they don’t breathe deeply, can be at risk for collapsed lung)\nCompression of lung (accidents) (ie steering wheel comes in a collapses chest)\nDiaphragm restriction—weakness, paralysis\nPneumonia- not breathing as deeply\nPresence of foreign body"
+  },
+  {
+    "objectID": "The Archive/Physiology/Pulmonary system/pulmonary_health_conditions.html#pneumonia",
+    "href": "The Archive/Physiology/Pulmonary system/pulmonary_health_conditions.html#pneumonia",
+    "title": "Pulmonary Health Conditions",
+    "section": "Pneumonia",
+    "text": "Pneumonia\n\nCommunity acquired\nHospital acquired\n48 hrs of admission (if it happens within then = hospital acquired)\nSingle or multiple lobes\nUnilateral or bilateral"
+  },
+  {
+    "objectID": "The Archive/Physiology/Pulmonary system/pulmonary_health_conditions.html#acute-respiratory-distress-syndrome",
+    "href": "The Archive/Physiology/Pulmonary system/pulmonary_health_conditions.html#acute-respiratory-distress-syndrome",
+    "title": "Pulmonary Health Conditions",
+    "section": "Acute Respiratory Distress Syndrome",
+    "text": "Acute Respiratory Distress Syndrome\n\nARDS\nCritical illness\nLengthley recovery\nHigh mortality rate\nProne position may be used in ICU !! good evidence that this can improve oxygenation\nPeople w covid – prone seemed to help w recovery"
+  },
+  {
+    "objectID": "The Archive/Physiology/Pulmonary system/pulmonary_health_conditions.html#pulmonary-embolism-pe",
+    "href": "The Archive/Physiology/Pulmonary system/pulmonary_health_conditions.html#pulmonary-embolism-pe",
+    "title": "Pulmonary Health Conditions",
+    "section": "Pulmonary Embolism (PE)",
+    "text": "Pulmonary Embolism (PE)\n\nPartial or full occlusion of pulmonary vasculature due to emboli\n\n90% due to DVT\n\nSigns and symptoms (STOP TXT)\n\nRapid onset tachypnea,\nChest pain?\nAnxiety\nDysrhythmia\nLightheadedness\nHypotension\nTachycardia"
+  },
+  {
+    "objectID": "The Archive/Physiology/Pulmonary system/pulmonary_health_conditions.html#interstitial-lung-disease",
+    "href": "The Archive/Physiology/Pulmonary system/pulmonary_health_conditions.html#interstitial-lung-disease",
+    "title": "Pulmonary Health Conditions",
+    "section": "Interstitial lung disease",
+    "text": "Interstitial lung disease\n\nDestruction of respiratory membranes in multiple lung regressions\nInflammatory phase\nFibrosis phase"
+  },
+  {
+    "objectID": "The Archive/Physiology/Pulmonary system/pulmonary_health_conditions.html#lung-contusion",
+    "href": "The Archive/Physiology/Pulmonary system/pulmonary_health_conditions.html#lung-contusion",
+    "title": "Pulmonary Health Conditions",
+    "section": "Lung contusion",
+    "text": "Lung contusion\n\nCompression and decompression of lung tissue against chest wall\nShearing of alveolar capillary membrane\nMicrohemorrhage\nUsually below rib fxs\nAssociated w PTX and flail chest\n\nMVAs or Boxers"
+  },
+  {
+    "objectID": "The Archive/Physiology/Pulmonary system/pulmonary_health_conditions.html#restrictive-extrapulmonary-conditions",
+    "href": "The Archive/Physiology/Pulmonary system/pulmonary_health_conditions.html#restrictive-extrapulmonary-conditions",
+    "title": "Pulmonary Health Conditions",
+    "section": "Restrictive extrapulmonary conditions",
+    "text": "Restrictive extrapulmonary conditions\n\n\n\nPleural effusion\n\nFluid in pleural space\n\n\n\nPneumothorax\nAir in the pleural space\n\n\nHemothorax\nBlood in pleural space\n\n\n\n\nFlail chest\nDouble tx of 3 + adjacent ribs\n\n\nEmphysema\nPus in the pleural space"
+  },
+  {
+    "objectID": "The Archive/Physiology/Pulmonary system/Pulmonary management/pulmonary_management_overview.html#choosing-act-based-on-disorder",
+    "href": "The Archive/Physiology/Pulmonary system/Pulmonary management/pulmonary_management_overview.html#choosing-act-based-on-disorder",
+    "title": "Pulmonary Management",
+    "section": "Choosing ACT based on disorder",
+    "text": "Choosing ACT based on disorder\n\n\n\nObstructive disorders\n\nPursed lip breathing\nRest breaks between coughs\n\n\n\nRestrictive disorders\n\nDiaphragmatic breathing\nChest wall stretching"
   }
 ]

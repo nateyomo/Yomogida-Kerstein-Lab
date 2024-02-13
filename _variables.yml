@@ -1105,6 +1105,8 @@ ref-whiplash-injury:
   path: "/The Archive/Pathologies/MSK Pathologies/Head and neck/whiplash_injury.qmd"
 ref-upper-crossed-syndrome:
   path: "/The Archive/Pathologies/MSK Pathologies/Head and neck/upper_crossed_syndrome.qmd"
+ref-cervical-disc-herniation:
+  path: "/The Archive/Pathologies/MSK Pathologies/Head and neck/cervical_IVD_herniation.qmd"
 ### Trunk
 ref-chronic-low-back-pain: 
   path: "/The Archive/Pathologies/MSK Pathologies/Trunk/chronic_low_back_pain.qmd"
@@ -1445,9 +1447,12 @@ ref-down-syndrome:
   path: "/The Archive/Neuroscience/Neuropathology/Down Syndrome/down_syndrome.qmd"
 ref-multiple-sclerosis:
   path: "/"
+### Parkinsons Disease
 ref-parkinsons-disease:
   path: "/The Archive/Neuroscience/Neuropathology/Parkinsons Disease/parkinsons_disease.qmd"
   fog: "/The Archive/Neuroscience/Neuropathology/Parkinsons Disease/freezing_of_gait_FOG.qmd"
+  hoehn-and-yahr-scale: "/The Archive/Neuroscience/Neuropathology/Parkinsons Disease/hoehn_and_yahr_scale.qmd"
+### Spinal Cord Injury
 ref-spinal-cord-injury:
   path: "/The Archive/Neuroscience/Neuropathology/SCI/spinal_cord_injury.qmd"
 ref-stroke:
@@ -1461,6 +1466,11 @@ ref-bell-palsy:
   path: "/The Archive/Neuroscience/Neuropathology/Peripheral Nervous System Pathologies/Peripheral Neuralgia/Bell_palsy.qmd"
 ref-guillain-barre-syndrome:
   path: "/The Archive/Neuroscience/Neuropathology/Peripheral Nervous System Pathologies/Peripheral Neuralgia/guillain-barre-syndrome.qmd"
+
+## Neuropathophysiology
+ref-lewy-bodies:
+  path: "/The Archive/Neuroscience/Neuropathophysiology/lewy_bodies.qmd"
+
 
 ## Neuro Examination
 ### Reflexes
