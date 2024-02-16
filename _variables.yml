@@ -1008,10 +1008,7 @@ ref-neurotrophic-hormone-deficiency-theory:
 ref-coenzyme-q10:
   path: "/The Archive/Physiology/Nutrients/coenzyme_Q10.qmd"
 
-## Proprioception
-ref-proprioception:
-  path: "/The Archive/Physiology/Proprioception/proprioception.qmd"
-  cervical: "/The Archive/Physiology/Proprioception/proprioception.qmd#cervical"
+
 
 ## Physiology of stress
 ref-oxidative-stress: 
@@ -1339,9 +1336,14 @@ ref-superior-colliculus:
   path: "/The Archive/Neuroscience/Neuroanatomy/Midbrain/Tectum/superior_colliculus.qmd"
 ref-inferior-colliculus:
   path: "/The Archive/Neuroscience/Neuroanatomy/Midbrain/Tectum/inferior_colliculus.qmd"
+### Spinal Cord
+ref-spinal-cord:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Spinal Cord/spinal_cord.qmd"
 
 ### Tracts
 #### Ascending Tracts
+ref-ascending-tracts:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Ascending Tracts/ascending_tracts.qmd"
 ref-dorsal-column-medial-lemniscus: 
   path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Ascending Tracts/DCML and related structures/dorsal_column-medial_lemniscus_DCML.qmd"
 ref-fasciculus-cuneatus:
@@ -1368,6 +1370,8 @@ ref-spinohypothalamic-tract:
   path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Ascending Tracts/spinohypothalamic_tract.qmd"
 
 #### Descending Tracts
+ref-descending-tracts:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Descending Tracts/descending_tracts.qmd"
 ref-medial-motor-systems:
   path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/medial_motor_systems.qmd"
 ref-extrapyramidal-tracts:
@@ -1380,8 +1384,8 @@ ref-tectospinal-tract:
   path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/tectospinal_tract.qmd"
 ref-vestibulospinal-tract:
   path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/vestibulospinal_tract.qmd"
-  medial: "/"
-  lateral: "/"
+  medial: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/vestibulospinal_tract.qmd"
+  lateral: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/vestibulospinal_tract.qmd"
 ref-pyramidal-tracts:
   path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Descending Tracts/Pyramidal Tract/pyramidal_tracts.qmd"
 ref-corticobulbar-tract:
@@ -1455,6 +1459,9 @@ ref-parkinsons-disease:
 ### Spinal Cord Injury
 ref-spinal-cord-injury:
   path: "/The Archive/Neuroscience/Neuropathology/SCI/spinal_cord_injury.qmd"
+  isncsci: "/The Archive/Neuroscience/Neuropathology/SCI/SCI Examination/ISNCSCI.qmd"
+  anterior-cord-syndrome: "/The Archive/Neuroscience/Neuropathology/SCI/Clinical Syndromes/anterior_cord_syndrome.qmd"
+  brown-sequard-syndrome: "/The Archive/Neuroscience/Neuropathology/SCI/Clinical Syndromes/brown-sequard_syndrome.qmd"
 ref-stroke:
   path: "/The Archive/Neuroscience/Neuropathology/Stroke/Stroke.qmd"
 ref-traumatic-brain-injury:
@@ -1516,8 +1523,22 @@ ref-migraine:
   path: "/The Archive/Symptoms/Headache/migraine.qmd"
 
 # Systems
+## Sensation system
 ref-somatosensory-system:
   path: "/The Archive/Systems/somatosensory_subsystem.qmd"
+ref-sensation:
+  path: "/The Archive/Systems/Sensation/sensation_overview.qmd"
+  vibratory: "/The Archive/Systems/Sensation/vibratory_sensation.qmd"
+  deep-touch: "/The Archive/Systems/Sensation/deep_touch_sensation.qmd"
+## Movement systems
+ref-movement-system:
+  path: "/The Archive/Systems/Movement/movement_system_overview.qmd"
+  voluntary: "/The Archive/Systems/Movement/voluntary_movement.qmd"
+## Proprioception
+ref-proprioception:
+  path: "/The Archive/Systems/Sensation/Proprioception/proprioception.qmd"
+  cervical: "/The Archive/Systems/Sensation/Proprioception/proprioception.qmd#cervical"
+
 ## Balance
 ref-balance:
   path: "/The Archive/Systems/Balance/balance.qmd"

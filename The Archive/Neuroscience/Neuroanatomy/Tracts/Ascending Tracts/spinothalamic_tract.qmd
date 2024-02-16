@@ -1,3 +1,16 @@
 ---
 title: Spinothalamic Tract
 ---
+
+
+
+
+
+# Decussation
+Lateral spinothalamic tracts ascend two to four segments on the same side before crossing and the descending motor tract decussating in the medulla @osullivanPhysicalRehabilitation2019
+
+
+::: {.callout-note title="Clinical Significance"}
+
+Since the spinothalamic tract moves up a few segments before decussating, symptoms of a hemisection (brown-sequard syndrome) begin several dermatome segments below the level of injury @osullivanPhysicalRehabilitation2019
+:::

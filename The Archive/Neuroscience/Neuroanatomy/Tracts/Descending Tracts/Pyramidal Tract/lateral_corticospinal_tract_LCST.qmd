@@ -2,3 +2,5 @@
 title: Lateral Corticospinal Tract (LCST)
 ---
 
+Primary ascending tract that relays signals for [voluntary movement]({{< var ref-movement-system.voluntary >}}) @osullivanPhysicalRehabilitation2019
+

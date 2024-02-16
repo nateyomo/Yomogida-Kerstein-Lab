@@ -1,0 +1,57 @@
+---
+title: Brown-Sequard Syndrome
+---
+
+Brown-Sequard syndrome is a clinical syndrome of SCI involving a hemisection
+
+# Types
+
+:::{layout-ncol="2"}
+
+### Brown-Sequard Syndrome
+
+- Complete hemisection
+- True hemisections are rare
+
+
+### Brown-Sequard Plus Syndrome
+
+- Partial hemisection
+- More common @osullivanPhysicalRehabilitation2019
+
+
+# Etiology
+
+Typically caused by penetration wounds—that is, gunshot or stab @osullivanPhysicalRehabilitation2019
+
+# Clinical Presentations
+
+
+
+## Asymmetry
+
+:::{layout-ncol="2"}
+
+## Ipsilateral
+
+- Paralysis & Sensory Loss
+- DCML
+    - Proprioception
+    - Light touch
+    - Vibratory sense
+- [LCST]({{< var ref-lateral-corticospinal-tract.path >}})
+    - Paralysis
+
+## Contralateral
+
+- Spinothalamic tract
+    - Pain
+    - Temperature
+    - note: these symptoms will begin several dermatome segments below the level of injury @osullivanImprovingFunctionalOutcomes2016
+
+:::
+
+
+# Prognosis
+
+- Good functional gains are typically achieved during inpatient rehab @osullivanPhysicalRehabilitation2019.
