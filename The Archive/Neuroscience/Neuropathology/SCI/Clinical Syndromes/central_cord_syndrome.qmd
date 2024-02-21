@@ -14,6 +14,37 @@ title: Central Cord Syndrome
     
 # Clinical Presentation
 
-There is characteristically more severe neurological involvement of the upper extremities (UEs) (cervical tracts are more centrally located) than of the LEs (lumbar and sacral tracts are located more peripherally).
 
-Varying degrees of sensory impairment occur but tend to be less severe than motor deficits. With complete preservation of sacral tracts, normal sexual, bowel, and bladder function may be retained. Patients with central cord syndrome typically recover the ability to ambulate. Some distal UE weakness and loss of fine motor control remain, which can result in moderate to severe limitations in the ability to perform functional tasks.
+:::{layout-ncol="3"}
+
+### UE Impacts
+
+- More severe UE neurological impairment due to central location
+
+### Motor > Sensory
+
+- Varying degrees of sensory impairment @osullivanPhysicalRehabilitation2019
+- Sensory tends to be less severe than motor deficits @osullivanPhysicalRehabilitation2019
+
+### Completeness
+
+- With complete preservation of sacral tracts, normal sexual, bowel, and bladder function may be retained @osullivanPhysicalRehabilitation2019. 
+
+:::
+
+# Prognosis
+
+:::{layout-ncol="2"}
+
+### Functional Tasks
+
+- Mod-severe impairments @osullivanPhysicalRehabilitation2019
+- Functional tasks tend to be limited due to:
+    - Some distal UE weakness @osullivanPhysicalRehabilitation2019
+    - Loss of fine motor control @osullivanPhysicalRehabilitation2019
+
+### Ambulation
+
+- Typically recover the ability to ambulate @osullivanPhysicalRehabilitation2019
+
+:::

@@ -1,0 +1,41 @@
+---
+title: Functional Neurologic Disorder (FND)
+---
+
+- HYSTERIA @ropperAdamsVictorPrinciples2023
+- BRIQUET DISEASE @ropperAdamsVictorPrinciples2023
+- SOMATIZATION DISORDER @ropperAdamsVictorPrinciples2023
+- PSYCHOGENIC NEUROLOGIC DISORDER @ropperAdamsVictorPrinciples2023
+
+
+
+
+# History
+
+## Conversion Disorder
+
+These disorders were traditionally termed "Conversion disorder" by Freud and his followers to describe the conversion of "psychic energy" into physical symptoms @ropperAdamsVictorPrinciples2023
+
+
+# Psychogenic Neurologic Disorder
+
+2 types of clinical psychogenic neurologic disorders: 
+
+:::{.callout-note}
+Both of these disorders are considered to have no physical explanation of symptoms @ropperAdamsVictorPrinciples2023
+:::
+
+:::{layout-ncol="2"} 
+
+### Chronic illness + Classical Hysteria
+
+- A chronic illness marked by multiple and often dramatically presented symptoms and somatic abnormalities of “classic hysteria,”
+- Predominantly in women (there is potential sexism and acquisition bias in this categorization but we report our and our colleagues contemporary experience) and 
+
+### Compensation Neurosis
+
+- Inexplicable disability or symptomology
+- Individual is  obtaining compensation, influencing litigation, avoiding military duty or imprisonment, or for the manipulation of some other interpersonal or societal situation.
+    - This latter state has been called compensation neurosis, compensation hysteria, or hysteria with sociopathy, in other words, malingering.
+- Predominantly of men but also of women who
+:::
