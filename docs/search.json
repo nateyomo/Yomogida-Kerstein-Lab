@@ -6696,7 +6696,7 @@
     "href": "The Archive/Evidene Based Practice/Multivariate Data Analysis/Mann-Whitney_U_test.html",
     "title": "Mann-Whitney U Test",
     "section": "",
-    "text": "AKA:"
+    "text": "AKA:\n\nWilcoxon Rank Sum test\n\n\nPractical uses\n\nNon-parametric counterpart to the T-Test for independent samples\n\n\n\nDefinition\n\nAn analog of the parametric Student’s t-test1\nCompares the means between two independent groups with the assumption that the data is not in a normal distribution1.\nUseful for numerical/continuous variables1.\n\n\n\n\n\n\n\nExample\n\n\n\n\n\nFor example, 2 different groups’ age or height (continuous variables), in a study with non-normally distributed data1\n\n\n\n\n\nVariables\n\n\n\n\n\n\nIndependent variables\nNominal/ordinal variable with 2 expressions\n\n\n\n\n\n\n\n\nExamples\n\n\n\n\n\nE.g. Meds: Drug & Placebo\n\n\n\n\n\n\n\nDependent variables\nMetric/ordinal variable\n\n\n\n\n\n\n\n\nExamples\n\n\n\n\n\nE.G.: Salary, wellbeing, weight\n\n\n\n\n\n\n\n\nProcessing\nRank sum\n\n\nRequirements\n\nOnly 2 independent random samples\nAt least ordinally scaled characteristics\n\n\n\nBenefits\n\nDoes not need to be normally distributed\n\n\n\nHypothesis\n\nNull hypothesis: There is no difference (in terms of central tendency) between the two groups in the population.\nAlternative hypothesis: There is a difference (with respect to the central tendency) between the two groups in the population\n\n\n\n\n\n\nReferences\n\n1. Sundjaja JH, Shrestha R, Krishan K. McNemar And Mann-Whitney U Tests. In: StatPearls. StatPearls Publishing; 2023."
   },
   {
     "objectID": "The Archive/Evidene Based Practice/Multivariate Data Analysis/Mann-Whitney_U_test.html#independent-variables",
@@ -6710,7 +6710,7 @@
     "href": "The Archive/Evidene Based Practice/Multivariate Data Analysis/Mann-Whitney_U_test.html#dependent-variables",
     "title": "Mann-Whitney U Test",
     "section": "Dependent variables",
-    "text": "Dependent variables\nMetric/ordinal variable\n\n\n\n\n\n\nCommon Examples\n\n\n\n\n\nE.G.: Salary, wellbeing, weight"
+    "text": "Dependent variables\nMetric/ordinal variable"
   },
   {
     "objectID": "The Archive/Cardiac System/Cardiac Interventions/Internal Medicine Interventions/cardiac_dysfunction_management.html",
@@ -9266,5 +9266,47 @@
     "title": "Functional Neurologic Disorder (FND)",
     "section": "Conversion Disorder",
     "text": "Conversion Disorder\nThese disorders were traditionally termed “Conversion disorder” by Freud and his followers to describe the conversion of “psychic energy” into physical symptoms1"
+  },
+  {
+    "objectID": "The Archive/Anatomy/Joints/Spine joints/atlanto-axial_joint.html",
+    "href": "The Archive/Anatomy/Joints/Spine joints/atlanto-axial_joint.html",
+    "title": "Atlanto-Axial Joint",
+    "section": "",
+    "text": "The atlanto-axial joint complex has two articular components: a median joint and a pair of laterally positioned apophyseal joints. The median joint is formed by the dens of the axis (C2) projecting through an osseous-ligamentous ring created by the anterior arch of the atlas and the transverse ligament (Fig. 9.43). Because the dens serves as a vertical axis for horizontal plane rotation of the atlas, the atlanto-axial joint is often described as a pivot joint.\nThe median joint within the atlanto-axial joint complex has two synovial cavities. The smaller, anterior cavity is formed between the anterior side of the dens and the posterior border of the anterior arch of the atlas (see Fig. 9.43). An anterior facet on the anterior side of the dens marks this articulation (see Fig. 9.20A). The much larger posterior cavity separates the posterior side of the dens and a cartilage-lined section of the transverse ligament of the atlas. This strong, 2-cm long ligament is essential to the horizontal plane stability of the atlanto-axial articulation.35 Without its restraint, the atlas (and articulated cranium) can slip anteriorly relative to the axis, possibly damaging the spinal cord."
+  },
+  {
+    "objectID": "docs/The Archive/Anatomy/Nerves/Upper extremity nerves/brachial_plexus.html",
+    "href": "docs/The Archive/Anatomy/Nerves/Upper extremity nerves/brachial_plexus.html",
+    "title": "Brachial Plexus",
+    "section": "",
+    "text": "Brachial Plexus1\nflowchart LR\n  c5-root[C5 Root] --&gt; superior-trunk[Superior Trunk] \n  c5-root --&gt; dorsal-scapular-nerve[Dorsal Scapular Nerve]\n  c5-root --&gt; long-thoracic-nerve[Long Thoracic Nerve]\n\n\n  c6-root[C6 Root] --&gt; superior-trunk\n  c6-root --&gt; long-thoracic-nerve\n  \n  c7-root[C7 Root] --&gt; middle-trunk[Middle Trunk]\n  c7-root --&gt; long-thoracic-nerve\n\n  c8-root[C8 Root] --&gt; inferior-trunk[Inferior Trunk]\n  t1-root[T1 Root] --&gt; inferior-trunk\n\n  superior-trunk --&gt; suprascapular-nerve[Suprascapular nerve]\n  superior-trunk --&gt; nerve-to-subclavius[Nerve to Subclavius]\n  superior-trunk -- Ant. Div. --&gt; lateral-cord[Lateral Cord]\n  superior-trunk -- Post. Div. --&gt; posterior-cord[Posterior Cord]\n\n  \n  middle-trunk -- Ant. Div. --&gt; lateral-cord\n  middle-trunk -- Post. Div. --&gt; posterior-cord\n\n  inferior-trunk -- Post. Div. --&gt; posterior-cord\n  inferior-trunk -- Ant. Div. --&gt; medial-cord[Medial Cord]"
+  },
+  {
+    "objectID": "docs/The Archive/Anatomy/Nerves/Upper extremity nerves/brachial_plexus.html#inferior-trunk",
+    "href": "docs/The Archive/Anatomy/Nerves/Upper extremity nerves/brachial_plexus.html#inferior-trunk",
+    "title": "Brachial Plexus",
+    "section": "Inferior trunk",
+    "text": "Inferior trunk\n\nComes from C8, T1 Nerve roots\nFunction\n\n4th-5th fingers of hand, motor innervation to intrinsic hand muscles2\n\nDysfunction\n\nmost COMMONLY compressed neural structure in TOS2"
+  },
+  {
+    "objectID": "docs/The Archive/Anatomy/Nerves/Upper extremity nerves/brachial_plexus.html#superior-trunk",
+    "href": "docs/The Archive/Anatomy/Nerves/Upper extremity nerves/brachial_plexus.html#superior-trunk",
+    "title": "Brachial Plexus",
+    "section": "Superior Trunk",
+    "text": "Superior Trunk"
+  },
+  {
+    "objectID": "docs/The Archive/Anatomy/Nerves/Upper extremity nerves/brachial_plexus.html#brachial-plexus-irritation",
+    "href": "docs/The Archive/Anatomy/Nerves/Upper extremity nerves/brachial_plexus.html#brachial-plexus-irritation",
+    "title": "Brachial Plexus",
+    "section": "Brachial Plexus irritation",
+    "text": "Brachial Plexus irritation"
+  },
+  {
+    "objectID": "The Archive/Anatomy/Arteries/Trunk/vertebral_artery.html",
+    "href": "The Archive/Anatomy/Arteries/Trunk/vertebral_artery.html",
+    "title": "Vertebral Artery",
+    "section": "",
+    "text": "Pathway\nAs depicted on the right side of Fig. 9.42, the vertebral artery pierces the posterior atlanto-occipital membrane to enter the foramen magnum1.\n\n\n\n\n\nReferences\n\n1. Neumann DA, Kelly ER, Kiefer CL, Martens K, Grosz CM. Kinesiology of the Musculoskeletal System: Foundations for Rehabilitation. 3rd ed. Elsevier; 2017."
   }
 ]

@@ -9,7 +9,7 @@
 <meta name="author" content="Nathaniel Giovanni Yomogida, SPT">
 <meta name="author" content="Chloë Anne Kerstein, SPT">
 
-<title>YK Lab - Chi Square Test of Independence (\(\chi^{2}\))</title>
+<title>YK Lab - Vertebral Artery</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -90,35 +90,6 @@ div.csl-indent {
   }
 }</script>
 
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="../../../../styles.css">
 </head>
@@ -177,11 +148,7 @@ window.Quarto = {
     <h2 id="toc-title">Contents</h2>
    
   <ul>
-  <li><a href="#what-makes-this-test-unique" id="toc-what-makes-this-test-unique" class="nav-link active" data-scroll-target="#what-makes-this-test-unique">what makes this test unique?</a>
-  <ul class="collapse">
-  <li><a href="#similarities-to-other-non-parametric-statistics" id="toc-similarities-to-other-non-parametric-statistics" class="nav-link" data-scroll-target="#similarities-to-other-non-parametric-statistics">Similarities to other non-parametric statistics</a></li>
-  <li><a href="#dissimilarities-from-non-parametric-statistics" id="toc-dissimilarities-from-non-parametric-statistics" class="nav-link" data-scroll-target="#dissimilarities-from-non-parametric-statistics">Dissimilarities from non-parametric statistics</a></li>
-  </ul></li>
+  <li><a href="#pathway" id="toc-pathway" class="nav-link active" data-scroll-target="#pathway">Pathway</a></li>
   </ul>
 </nav>
     </div>
@@ -190,7 +157,7 @@ window.Quarto = {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Chi Square Test of Independence (<span class="math inline">\(\chi^{2}\)</span>)</h1>
+<h1 class="title">Vertebral Artery</h1>
 </div>
 
 
@@ -214,43 +181,17 @@ window.Quarto = {
 </header>
 
 
-<ul>
-<li>AKA
-<ul>
-<li>Abbreviated: (<span class="math inline">\(\chi^{2}\)</span>)</li>
-<li>Pearson Chi-square test<span class="citation" data-cites="mchughChisquareTestIndependence2013"><sup><a href="#ref-mchughChisquareTestIndependence2013" role="doc-biblioref">1</a></sup></span></li>
-<li>Chi-square<span class="citation" data-cites="mchughChisquareTestIndependence2013"><sup><a href="#ref-mchughChisquareTestIndependence2013" role="doc-biblioref">1</a></sup></span></li>
-</ul></li>
-<li>Chi-square (<span class="math inline">\(\chi^{2}\)</span>) statistic is a non-parametric (distribution free) tool designed to analyze group differences when the dependent variable is measured at a nominal level<span class="citation" data-cites="mchughChisquareTestIndependence2013"><sup><a href="#ref-mchughChisquareTestIndependence2013" role="doc-biblioref">1</a></sup></span></li>
-<li>This is one of the most useful statistics for testing hypotheses when the variables are nominal<span class="citation" data-cites="mchughChisquareTestIndependence2013"><sup><a href="#ref-mchughChisquareTestIndependence2013" role="doc-biblioref">1</a></sup></span>.</li>
-</ul>
-<section id="what-makes-this-test-unique" class="level1">
-<h1>what makes this test unique?</h1>
-<section id="similarities-to-other-non-parametric-statistics" class="level2">
-<h2 class="anchored" data-anchor-id="similarities-to-other-non-parametric-statistics">Similarities to other non-parametric statistics</h2>
-<ul>
-<li>the Chi-square (<span class="math inline">\(\chi^{2}\)</span>) is robust with respect to the distribution of the data (This is true for all non-parametric statistics)<span class="citation" data-cites="mchughChisquareTestIndependence2013"><sup><a href="#ref-mchughChisquareTestIndependence2013" role="doc-biblioref">1</a></sup></span></li>
-<li>Specifically, it does not require equality of variances among the study groups or <a href="../../../../The Archive/Evidene Based Practice/Multivariate Data Analysis/Terms/homoscedasticity.html">homoscedasticity</a> in the data<span class="citation" data-cites="mchughChisquareTestIndependence2013"><sup><a href="#ref-mchughChisquareTestIndependence2013" role="doc-biblioref">1</a></sup></span>.
-<ul>
-<li>It permits evaluation of both dichotomous independent variables, and of multiple group studies<span class="citation" data-cites="mchughChisquareTestIndependence2013"><sup><a href="#ref-mchughChisquareTestIndependence2013" role="doc-biblioref">1</a></sup></span>.</li>
-</ul></li>
-</ul>
-</section>
-<section id="dissimilarities-from-non-parametric-statistics" class="level2">
-<h2 class="anchored" data-anchor-id="dissimilarities-from-non-parametric-statistics">Dissimilarities from non-parametric statistics</h2>
-<ul>
-<li>The calculations needed to compute the Chi-square provide considerable information about how each of the groups performed in the study.</li>
-<li>This richness of detail allows the researcher to understand the results and thus to derive more detailed information from this statistic than from many others.</li>
-</ul>
+<section id="pathway" class="level1">
+<h1>Pathway</h1>
+<p>As depicted on the right side of Fig. 9.42, the vertebral artery pierces the posterior atlanto-occipital membrane to enter the foramen magnum<span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">1</a></sup></span>.</p>
 
 
 
-</section>
 </section>
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
-<div id="ref-mchughChisquareTestIndependence2013" class="csl-entry" role="listitem">
-<div class="csl-left-margin">1. </div><div class="csl-right-inline">McHugh ML. The chi-square test of independence. <em>Biochemia Medica</em>. 2013;23(2):143-149. doi:<a href="https://doi.org/10.11613/bm.2013.018">10.11613/bm.2013.018</a></div>
+<div id="ref-neumannKinesiologyMusculoskeletalSystem2017" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Neumann DA, Kelly ER, Kiefer CL, Martens K, Grosz CM. <em>Kinesiology of the Musculoskeletal System: Foundations for Rehabilitation</em>. 3rd ed. <span>Elsevier</span>; 2017.</div>
 </div>
 </div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

@@ -23,23 +23,25 @@ For example, 2 different groups' age or height (continuous variables), in a stud
 
 # Variables
 
-## Independent variables
+:::{layout-ncol="2"}
+
+### Independent variables
 Nominal/ordinal variable with 2 expressions
 
 
-:::{.callout collapse="true"}
-### Common Examples
+:::{.callout collapse="true" title="Examples"}
 E.g. Meds: Drug & Placebo
 :::
 
 
-## Dependent variables
+### Dependent variables
 Metric/ordinal variable
 
 
-:::{.callout collapse="true"}
-### Common Examples
+:::{.callout collapse="true" title="Examples"}
 E.G.: Salary, wellbeing, weight
+:::
+
 :::
 
 # Processing
