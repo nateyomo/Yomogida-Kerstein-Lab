@@ -1,0 +1,45 @@
+---
+title: Main Effect & Interaction
+---
+
+
+{{< video https://www.youtube.com/watch?v=OE46w0RqmQA >}}
+
+
+# Effect of Time
+
+The Main Effect for Time is represented by the slope of the lines. 
+Flat lines mean no differences over time and no statistically significant effects.
+Sloped lines mean there may be a statistically significant main effect for time, or change over time.
+Think about the overall main effect for time as a test of whether the line that would represent the overall means for each time point is a flat or sloped line.
+
+
+A significant main effect of time means that there are significant differences between your repeated measures. You then either interpret means or do post hoc testing
+
+
+# Effect of Group
+
+A significant main effect of group means that there are significant differences between your groups. You then interpret the means of each group. If your group has more than two levels, you do post hoc testing. 
+
+# Interaction (Group x Time)
+
+is represented on the graph by the parallelism of the lines.
+If the lines are parallel, there is not a statistically significant interaction effect. If the lines
+are not parallel, then there may be a statistically significant interaction effect. This means
+that the groups were changing at different rates and the overall average line may not
+represent the real patterns in the data.
+
+
+Group x time compares the difference between repeated measures of group 1 with the repeated measures of group 2.
+
+
+A significant interaction effect means that there are significant differences between your groups and over time. In other words, the change in scores over time is different depending on group membership. If you have a significant interaction, you will want to examine means, a line-plot, or use post hoc testing to determine the exact nature of the interaction.
+
+
+
+
+# Interpretation
+
+If you have significant a significant interaction effect and non-significant main effects, would you interpret the interaction effect?
+
+- 

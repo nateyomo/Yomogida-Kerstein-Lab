@@ -1,0 +1,15 @@
+---
+title: Wilcoxon Test
+---
+
+
+:::{.callout-note title="AKA"}
+
+- Wilcoxon's Signed-Rank Test (WSR)
+- Signed-rank test
+
+:::
+
+# Overview
+
+two rank-based statistical tests for analyzing data from experiments comparing two treatments @liWilcoxonSignedrankStatistic2014 
