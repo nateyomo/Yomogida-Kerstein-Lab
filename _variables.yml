@@ -721,7 +721,18 @@ ref-statistical-analysis-overview:
   path: "/The Archive/Evidene Based Practice/Multivariate Data Analysis/statistical_analysis_overview.qmd"
 ref-mann-whitney-u-test:
   path: "/The Archive/Evidene Based Practice/Multivariate Data Analysis/Mann-Whitney_U_test.qmd"
-
+## Statistical Significance
+ref-statistical-significance:
+  path: "/"
+ref-effect-size:
+  path: "/The Archive/Evidene Based Practice/Statistical Significance/effect_size.qmd"
+ref-decision-error:
+  path: "/The Archive/Evidene Based Practice/Statistical Significance/Decision Errors/decision_errors.qmd"
+  type1: "/The Archive/Evidene Based Practice/Statistical Significance/Decision Errors/decision_errors.qmd#type1"
+  type2: "/The Archive/Evidene Based Practice/Statistical Significance/Decision Errors/decision_errors.qmd#type2"
+ref-statistical-power:
+  path: "/The Archive/Evidene Based Practice/Statistical Significance/statistical_power.qmd"
+  analysis: "/The Archive/Evidene Based Practice/Statistical Significance/statistical_power.qmd#power-analysis"
 # Examination
 ## Acute Care Evaluation
 
