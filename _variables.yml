@@ -1542,15 +1542,19 @@ ref-proprioception:
 ## Balance
 ref-balance:
   path: "/The Archive/Systems/Balance/balance.qmd"
+## Locomotion
+ref-locomotion:
+  path: "/The Archive/Systems/Locomotion/locomotion.qmd"
+  interventions: "/The Archive/Systems/Locomotion/locomotion_interventions.qmd"
 ## Gait
 ref-gait:
-  path: "/The Archive/Systems/Gait/gait.qmd"
+  path: "/The Archive/Systems/Locomotion/Gait/gait.qmd"
   symptom:
-    steppage: "/The Archive/Systems/Gait/Gait Symptoms/steppage_gait.qmd"
-    waddling: "/The Archive/Systems/Gait/Gait Symptoms/waddling_gait.qmd"
-    parkinsonian: "/The Archive/Systems/Gait/Gait Symptoms/parkinsonian_gait.qmd"
-    cerebellar-ataxic: "/The Archive/Systems/Gait/Gait Symptoms/cerebellar_ataxic_gait.qmd"
-    cautious: "/The Archive/Systems/Gait/Gait Symptoms/cautious_gait.qmd"
+    steppage: "/The Archive/Systems/Locomotion/Gait/Gait Symptoms/steppage_gait.qmd"
+    waddling: "/The Archive/Systems/Locomotion/Gait/Gait Symptoms/waddling_gait.qmd"
+    parkinsonian: "/The Archive/Systems/Locomotion/Gait/Gait Symptoms/parkinsonian_gait.qmd"
+    cerebellar-ataxic: "/The Archive/Systems/Locomotion/Gait/Gait Symptoms/cerebellar_ataxic_gait.qmd"
+    cautious: "/The Archive/Systems/Locomotion/Gait/Gait Symptoms/cautious_gait.qmd"
 ## Posture
 ref-posture:
   path: "/The Archive/Systems/Posture/posture.qmd"
