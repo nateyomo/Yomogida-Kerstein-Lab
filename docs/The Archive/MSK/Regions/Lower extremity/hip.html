@@ -20,7 +20,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -120,7 +139,11 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Contents</h2>
    
   <ul>
-  <li><a href="#testing" id="toc-testing" class="nav-link active" data-scroll-target="#testing">Testing</a>
+  <li><a href="#lumbopelvic-movement" id="toc-lumbopelvic-movement" class="nav-link active" data-scroll-target="#lumbopelvic-movement">Lumbopelvic Movement</a>
+  <ul class="collapse">
+  <li><a href="#pelvic-pronation" id="toc-pelvic-pronation" class="nav-link" data-scroll-target="#pelvic-pronation">pelvic pronation</a></li>
+  </ul></li>
+  <li><a href="#testing" id="toc-testing" class="nav-link" data-scroll-target="#testing">Testing</a>
   <ul class="collapse">
   <li><a href="#functional-tests" id="toc-functional-tests" class="nav-link" data-scroll-target="#functional-tests">Functional Tests</a></li>
   </ul></li>
@@ -154,6 +177,17 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<section id="lumbopelvic-movement" class="level1">
+<h1>Lumbopelvic Movement</h1>
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<section id="pelvic-pronation" class="level3 quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<h3 class="anchored" data-anchor-id="pelvic-pronation">pelvic pronation</h3>
+<p>lumbopelvic hip complex during ground impact is a combination of 3-D shock-absorbing movements driving the pelvis into an anterior tilt, forward rotation, contralateral drop, and concomitant spinal extension/rotation and relative sacral nutation. Triplanar pelvic motion is analogous to pronation at the foot—an important mechanism for absorbing ground reaction forces6 and a key antecedent for effective propulsion during gait<span class="citation" data-cites="dischiaviRethinkingDynamicKnee2019"><sup><a href="#ref-dischiaviRethinkingDynamicKnee2019" role="doc-biblioref">1</a></sup></span></p>
+</section>
+</div>
+</div>
+</section>
 <section id="testing" class="level1">
 <h1>Testing</h1>
 <section id="functional-tests" class="level2">
@@ -163,10 +197,15 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 
 
+
 </section>
 </section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-dischiaviRethinkingDynamicKnee2019" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Dischiavi SL, Wright AA, Hegedus EJ, Bleakley CM. Rethinking <span>Dynamic Knee Valgus</span> and <span>Its Relation</span> to <span>Knee Injury</span>: <span>Normal Movement Requiring Control</span>, <span>Not Avoidance</span>. <em>The Journal of Orthopaedic and Sports Physical Therapy</em>. 2019;49(4):216-218. doi:<a href="https://doi.org/10.2519/jospt.2019.0606">10.2519/jospt.2019.0606</a></div>
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

@@ -3,6 +3,13 @@ title: Hip examination and treatment
 ---
 
 
+# Lumbopelvic Movement
+
+:::{layout-ncol="3"}
+### pelvic pronation
+lumbopelvic hip complex during ground impact is a combination of 3-D shock-absorbing movements driving the pelvis into an anterior tilt, forward rotation, contralateral drop, and concomitant spinal extension/rotation and relative sacral nutation. Triplanar pelvic motion is analogous to pronation at the foot—an important mechanism for absorbing ground reaction forces6 and a key antecedent for effective propulsion during gait @dischiaviRethinkingDynamicKnee2019
+:::
+
 # Testing
 
 ## Functional Tests

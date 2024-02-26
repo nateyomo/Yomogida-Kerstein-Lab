@@ -1,0 +1,15 @@
+---
+title: Musculoskeletal Approach to the Knee
+---
+
+
+
+# Valgus
+
+:::{layout-ncol="3"}
+### Kinematics
+Valgus consists of femoral IR and Adduction, concomitant contralateral pelvic drop @dischiaviRethinkingDynamicKnee2019
+
+
+
+# Injury prediction
