@@ -1,0 +1,34 @@
+---
+title: Predictive Values
+subtitle: ""
+---
+
+
+# Positive Predictive Values
+If the test is positive (abnormal test result, suggesting the presence of disease), what is the chance that the patient really has the disease? @motulskyIntuitiveBiostatisticsNonmathematical2018
+
+
+$$
+\textrm{PPV} = \frac{\textrm{True Positives}}{\textrm{Test Positives}} = \frac{\textrm{True Positives}}{\textrm{True Positives} + \textrm{Test Positives}}
+$$
+
+
+# Negative Predictive Value
+Answers the question "if the test is negative (normal test result), what is the chance that the patient really doesn’t have the disease?" @motulskyIntuitiveBiostatisticsNonmathematical2018
+
+
+
+
+$$
+\textrm{NPV} = \frac{\textrm{True Negatives}}{\textrm{Test Negatives}} = \frac{\textrm{True Negatives}}{\textrm{True Negatives} + \textrm{Test Negatives}}
+$$
+$$
+\textrm{PPV} = \frac{(\textrm{True negatives})}{(\textrm{All Negatives})} = \frac{A}{A + B}
+$$
+
+
+# Factors
+
+Sensitivity and specificity are properties of the test, whereas positive predictive value (PPV) and negative predictive value (NPV) are influenced by disease prevalence @motulskyIntuitiveBiostatisticsNonmathematical2018.
+
+

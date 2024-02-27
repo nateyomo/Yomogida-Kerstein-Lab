@@ -536,7 +536,7 @@
     "href": "The Archive/Performance Training/Baseball/baseball_pitching.html",
     "title": "Baseball Pitching",
     "section": "",
-    "text": "The key to efficient pitching mechanics is to connect the global kinetic chain as it spirals from the ground up toward the hand in a form of kinetic linking1\nTension increases as energy moves up the kinetic chain. However, when there is a loss of system tension (eg, with a lax anterior shoulder capsule or poor scapular stability), adequate transfer of force to the ball is lost (loss of stored energy), and the velocity of the ball is decreased1\n\n\n\n\nReferences\n\n1. Dischiavi SL, Wright AA, Hegedus EJ, Bleakley CM. Rethinking Dynamic Knee Valgus and Its Relation to Knee Injury: Normal Movement Requiring Control, Not Avoidance. The Journal of Orthopaedic and Sports Physical Therapy. 2019;49(4):216-218. doi:10.2519/jospt.2019.0606"
+    "text": "The key to efficient pitching mechanics is to connect the global kinetic chain as it spirals from the ground up toward the hand in a form of kinetic linking1\nTension increases as energy moves up the kinetic chain. However, when there is a loss of system tension (eg, with a lax anterior shoulder capsule or poor scapular stability), adequate transfer of force to the ball is lost (loss of stored energy), and the velocity of the ball is decreased1\n\nPitching Biomechanics\n\nWind Up: Initial Movement to Maximum Knee Lift\nEarly Cocking: Maximum Knee Lift to Lead Foot Contact\nLate Cocking: Lead Foot Contact to Maximal Shoulder ER\nAcceleration: Maximal Shoulder ER to Ball Release\nDeceleration: Ball Release to Maximum Shoulder IR\nFollow Through: Maximum Shoulder IR to Body Stops Moving\n\n\n\n\n\n\nReferences\n\n1. Dischiavi SL, Wright AA, Hegedus EJ, Bleakley CM. Rethinking Dynamic Knee Valgus and Its Relation to Knee Injury: Normal Movement Requiring Control, Not Avoidance. The Journal of Orthopaedic and Sports Physical Therapy. 2019;49(4):216-218. doi:10.2519/jospt.2019.0606"
   },
   {
     "objectID": "The Archive/Performance Training/Surfing/surfing_takeoff_popup.html",
@@ -7088,7 +7088,7 @@
     "href": "The Archive/Evidene Based Practice/Psychometrics/sensitivity.html",
     "title": "Sensitivity",
     "section": "",
-    "text": "Sensitivity is a psychometric measure that quantifies the rate of true positives to total positives1. Sensitivity can apply to clinical tests that output a binary result: Normal vs Abnormal\n\nCalculation\nSensitivity quantifies true positive rate by finding the percent of people with disease who tested positive divided by total disease population.\n\\[\n\\textrm{Sensitivity} = \\frac{(\\textrm{True Positive})}{(\\textrm{True Positive} + \\textrm{False Negative})} = \\frac{(\\textrm{True Positive})}{(\\textrm{Total Positive})}\n\\]\n\n\n\n\n\nReferences\n\n1. Monaghan TF, Rahman SN, Agudelo CW, et al. Foundational Statistical Principles in Medical Research: Sensitivity, Specificity, Positive Predictive Value, and Negative Predictive Value. Medicina (Kaunas, Lithuania). 2021;57(5):503. doi:10.3390/medicina57050503"
+    "text": "Sensitivity is a psychometric measure that quantifies the rate of true positives to total positives1. Sensitivity can apply to clinical tests that output a binary result: Normal vs Abnormal\n\nCalculation\nSensitivity quantifies true positive rate by finding the percent of people with disease who tested positive divided by total disease population.\n\\[\n\\textrm{Sensitivity} = \\frac{(\\textrm{True Positive})}{(\\textrm{True Positive} + \\textrm{False Negative})} = \\frac{(\\textrm{True Positive})}{(\\textrm{Total Positive})}\n\\]\n\n\nClinical Relevance\nOne should use sensitivity (and specificity) as a way to assess the performance of a diagnostic test1. To predict whether a particular person will truly have the disease based on a positive or negative test result, one should use Positive predicitve value (PPV) and Negative predictive value (NPV)1.\n\n\n\n\n\nReferences\n\n1. Monaghan TF, Rahman SN, Agudelo CW, et al. Foundational Statistical Principles in Medical Research: Sensitivity, Specificity, Positive Predictive Value, and Negative Predictive Value. Medicina (Kaunas, Lithuania). 2021;57(5):503. doi:10.3390/medicina57050503"
   },
   {
     "objectID": "The Archive/Evidene Based Practice/Psychometrics/positive_likelihood_ratio.html",
@@ -9329,5 +9329,236 @@
     "title": "Effect of Stress on Cervical muscle activity",
     "section": "",
     "text": "Article\nShahidi et al. (2013) Differential effects of mental concentration and acute psychosocial stress on cervical muscle activity and posture1\n\n\nArticle question\nDoes a psychological stressor affect cervical muscle activity and posture?\n\n\nStudy construct\n\nPopulation:\n\n60 healthy office workers\nHigher proportion of women d/t a higher incidence of female office workers developing pain\nNo hx of neck pain in previous year\nWorked at least 30 h a week, 75% of workday at the computer\n\nElectromyography\nMuscles observed:\n\nUpper trapezius\nCervical extensors\nSternocleidomastoid\n\nSeated posture\nLow stress (LS) condition + mental concentration\nHigh stress (HS) condition + mental concentration and psychosocial stress\nConstant variables:\n\nAsked to do a Psychomotor task:\n\noperation span (OpSpan) test: complex arithmetic problems while memorizing and selecting lists of 2-8 words in sequential order using a computer mouse with their dominant arm.\n\n\nIntervention: Repeated under low and high stress conditions with a 15 min rest break\nDependent variable:\n\nTask performance scored 0-40, higher = better accuracy\nSeated posture\nLow stress (LS) condition + mental concentration\nHigh stress (HS) condition + mental concentration and psychosocial stress\n\n\n\n\nStatistical analysis\nDemographic characteristics of participants in the experimental and control sessions were compared using independent t-tests for continuous variables and chi-squared tests for categorical variables1.\nCervical angle, RPP, and STAI-State scores were analyzed using a one-way repeated measures analysis of variance (ANOVA) to compare baseline, LS, and HS conditions1. Post hoc comparisons using Tukey’s HSD procedure were performed for outcomes with significant main effects1.\nPaired T-Tests were used to compare the ormalized activity of UT, CE, and SCM muscles across the two stress conditions1.\nPearson’s correlation coefficients were used to assess the association between change in muscle activity, cervical angle, and task duration between test conditions1.\n\n\n\n\n\nReferences\n\n1. Shahidi B, Haight A, Maluf K. Differential effects of mental concentration and acute psychosocial stress on cervical muscle activity and posture. Journal of Electromyography and Kinesiology: Official Journal of the International Society of Electrophysiological Kinesiology. 2013;23(5):1082-1089. doi:10.1016/j.jelekin.2013.05.009"
+  },
+  {
+    "objectID": "The Archive/Psychosocial/Grief and Loss/grief.html",
+    "href": "The Archive/Psychosocial/Grief and Loss/grief.html",
+    "title": "Grief",
+    "section": "",
+    "text": "Manifests as\n\nAvoidance, confusion, shock, fear\nDisbelief in diagnosis\nIgnoring precautions\n\n\n\n\n\n\nFrustration, irritation, anxiety\n\n\n\n\n\nStruggling to find meaning, reaching out\n\n\n\n\n\n\n\nOverwhelmed, helplessness, flight , sadness\n\n\n\n\n\nPatients can regress to previous stages\nClinical manifestation:\n\nExploring options\nPlanning for future\n\n\n\n\n\n\n\n\n\n\n\n\nRecognize loss1\n\n\n\n\n\nReact: Experience emotion1\nRecollect: Move from how the loss is currently impacting your situation to a place of remembrance1\nRelinquish: Revising beliefs to realize that the world is forever changed1\n\n\n\n\n\nReadjust\n\nReinvest\n\n\n\n\n\n\n\n\n\n\n\n\nFamily life disrupted2\nFeelings of sadness, anxiety, guilt often unexpressed2\n\n\n\n\n\nPatient needs are prioritized2\nTask oriented2\n\n\n\n\n\nProtracted illness disrupts lives, relationships, and routines2\n\n\n\n\n\n\n\nAcceptance of impending death2\nResolution of interpersonal relationships2\n\n\n\n\n\nAdjustment to changed roles following death or disability2\n\n\n\n\n\n\n\nGrieving is a highly individualized process that varies w family and environmental context, personality, culture and religion3. All grieving individuals experience a psychosocial transition – forced to give up one life view for another within a relatively short period of time3. Successful grieving culminates in the acceptance that life will not be the same but can still be meaningful3."
+  },
+  {
+    "objectID": "The Archive/Psychosocial/Grief and Loss/grief.html#randos-6-r-theories-of-grief",
+    "href": "The Archive/Psychosocial/Grief and Loss/grief.html#randos-6-r-theories-of-grief",
+    "title": "Grief",
+    "section": "",
+    "text": "Recognize loss1\n\n\n\n\n\nReact: Experience emotion1\nRecollect: Move from how the loss is currently impacting your situation to a place of remembrance1\nRelinquish: Revising beliefs to realize that the world is forever changed1\n\n\n\n\n\nReadjust\n\nReinvest"
+  },
+  {
+    "objectID": "The Archive/Psychosocial/Grief and Loss/grief.html#preparatory-grief-theory",
+    "href": "The Archive/Psychosocial/Grief and Loss/grief.html#preparatory-grief-theory",
+    "title": "Grief",
+    "section": "",
+    "text": "Family life disrupted2\nFeelings of sadness, anxiety, guilt often unexpressed2\n\n\n\n\n\nPatient needs are prioritized2\nTask oriented2\n\n\n\n\n\nProtracted illness disrupts lives, relationships, and routines2\n\n\n\n\n\n\n\nAcceptance of impending death2\nResolution of interpersonal relationships2\n\n\n\n\n\nAdjustment to changed roles following death or disability2"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Quality of Life Tests/sickness_impact_profile_68.html",
+    "href": "The Archive/Examination/Tests and Measures/Quality of Life Tests/sickness_impact_profile_68.html",
+    "title": "Sickness Impact Profile 68",
+    "section": "",
+    "text": "Recommended for Subacute Stroke patients via ANPT’s SCI-EDGE document\n\nGeneral Application\n\nReliability\nSee1\n\n\nValidity\nSee1\n\n\n\nSCI Application\n\nReliability\n\n\nValidity\nInternal Consistency - α = 0.92 (high) (Post et al. 1996; N=315, 75% male, mixed injury types, mean (SD) time since injury = 3.6 (1.9) years)\n\n\n\n\n\n\nReferences\n\n1. Nanda U, McLendon PM, Andresen EM, Armbrecht E. The SIP68: An abbreviated sickness impact profile for disability outcomes research. Quality of Life Research: An International Journal of Quality of Life Aspects of Treatment, Care and Rehabilitation. 2003;12(5):583-595. doi:10.1023/a:1025036325886"
+  },
+  {
+    "objectID": "The Archive/Psychosocial/Grief and Loss/grief.html#psychosocial-transition-theory-of-grief",
+    "href": "The Archive/Psychosocial/Grief and Loss/grief.html#psychosocial-transition-theory-of-grief",
+    "title": "Grief",
+    "section": "",
+    "text": "Grieving is a highly individualized process that varies w family and environmental context, personality, culture and religion3. All grieving individuals experience a psychosocial transition – forced to give up one life view for another within a relatively short period of time3. Successful grieving culminates in the acceptance that life will not be the same but can still be meaningful3."
+  },
+  {
+    "objectID": "The Archive/Psychosocial/Grief and Loss/grief.html#stages",
+    "href": "The Archive/Psychosocial/Grief and Loss/grief.html#stages",
+    "title": "Grief",
+    "section": "Stages",
+    "text": "Stages\n\n\n\nAdaptation\nAcute physical and psychological adjustments to a disabling event\n\n\nAdjustment\n\nIndependence w ADLs, without being preoccupied by disability\nPersonal mastery of physical and social environment\nAbility to problem solve thru new challenges\nPositive self concept\n\n\n\nAcceptance\nDisability no longer reduces self worth or future outlook"
+  },
+  {
+    "objectID": "The Archive/Psychosocial/Grief and Loss/grief.html#dual-process-coping",
+    "href": "The Archive/Psychosocial/Grief and Loss/grief.html#dual-process-coping",
+    "title": "Grief",
+    "section": "Dual Process Coping",
+    "text": "Dual Process Coping\n\n\n\nLoss orientation\n\nBreaking bonds\nIntrusion of grief\n\n\n\nRestoration orientation\n\nNew roles\nNew relationships\nNew activities"
+  },
+  {
+    "objectID": "The Archive/Psychosocial/Grief and Loss/grief.html#problem-focused-coping",
+    "href": "The Archive/Psychosocial/Grief and Loss/grief.html#problem-focused-coping",
+    "title": "Grief",
+    "section": "Problem focused coping",
+    "text": "Problem focused coping\nPractical problem solving to lessen impact of the loss"
+  },
+  {
+    "objectID": "The Archive/Psychosocial/Grief and Loss/grief.html#emotion-focused-coping",
+    "href": "The Archive/Psychosocial/Grief and Loss/grief.html#emotion-focused-coping",
+    "title": "Grief",
+    "section": "Emotion focused coping",
+    "text": "Emotion focused coping\nEmotional regulation to lessen stress response to the bloss"
+  },
+  {
+    "objectID": "The Archive/Psychosocial/Grief and Loss/grief.html#appraisal-focused-coping",
+    "href": "The Archive/Psychosocial/Grief and Loss/grief.html#appraisal-focused-coping",
+    "title": "Grief",
+    "section": "Appraisal focused coping",
+    "text": "Appraisal focused coping\nAltering cognitive perception of the less"
+  },
+  {
+    "objectID": "The Archive/Psychosocial/Grief and Loss/grief.html#spiritual-religious-coping-styles",
+    "href": "The Archive/Psychosocial/Grief and Loss/grief.html#spiritual-religious-coping-styles",
+    "title": "Grief",
+    "section": "Spiritual & Religious Coping styles",
+    "text": "Spiritual & Religious Coping styles\n\nSelf directed: Emphasis of the ability of the individual to impact situation\nDeferring: Higher associated w dec QOL???\nCollaborative: ???"
+  },
+  {
+    "objectID": "The Archive/Interventions/PNF/proprioceptive_neuromuscular_facilitation.html",
+    "href": "The Archive/Interventions/PNF/proprioceptive_neuromuscular_facilitation.html",
+    "title": "Proprioceptive Neuromuscular Facilitation (PNF)",
+    "section": "",
+    "text": "Progression\n\nROM\n\nEnd range: Move from neutral to slight ROM\n\nEventually build up to end ROM\n\nMoving through ROM: Start moving through small ROM\nFor extreme ROM:\n\nStart moving into it\n\n\n\n\n\nPNF for the Overhead Athlete\n\nPerturbation training\n\nRTC highly involved in the dynamic stabilization unit of the shoulder\n\nGive opportunity to recruit fast twitch mm fibers due to faster mvmts"
+  },
+  {
+    "objectID": "The Archive/Performance Training/Volleyball/volleyball_athlete.html",
+    "href": "The Archive/Performance Training/Volleyball/volleyball_athlete.html",
+    "title": "Volleyball Athlete",
+    "section": "",
+    "text": "“One of the most important technical parts of the game is the spike attack, which was identified as a major performance indicator (Drikos and Vagenas, 2011)”1\n\nPositions\nThe development of the game has led to anthropometric differences between attacking players (middle blockers, outside hitters, and opposites) compared to non-attacking players (setters and liberos) in females and males (Gualdi-Russo and Zaccagni, 2001; Palao et al., 2014)1\n\n\nInjuries & Adaptations\nSee: The volleyball athlete’s shoulder: biomechanical adaptations and injury associations1\n“since shoulder injuries in indoor volleyball, like other overhead sports, are very common (16-19% of all overuse injuries, Seminati and Minetti, 2013) due to the high amount of more than 40000 attacks/year (Kugler et al., 1996)”1\n\n\n\n\n\nReferences\n\n1. Challoumas D, Stavrou A, Dimitrakakis G. The volleyball athlete’s shoulder: Biomechanical adaptations and injury associations. Sports Biomechanics. 2017;16(2):220-237. doi:10.1080/14763141.2016.1222629"
+  },
+  {
+    "objectID": "The Archive/Performance Training/Overhead Athlete/throwing_athlete.html",
+    "href": "The Archive/Performance Training/Overhead Athlete/throwing_athlete.html",
+    "title": "The Throwing Athlete",
+    "section": "",
+    "text": "Baseball pitching"
+  },
+  {
+    "objectID": "The Archive/Performance Training/Overhead Athlete/throwing_athlete.html#kinetic-chain-contributions",
+    "href": "The Archive/Performance Training/Overhead Athlete/throwing_athlete.html#kinetic-chain-contributions",
+    "title": "The Throwing Athlete",
+    "section": "Kinetic chain contributions",
+    "text": "Kinetic chain contributions\n\nGround leg, hips, trunk are force generators\n\n50-54% of force and kinetic energy\n\nShoulder is a funnel and force regulator\nArm is a force delivery mechanism\n20% dec in kinetic energy delivered from the hip and trunk necessitates a 34% inc in rotational velocity at the shoulder to deliver the same amt of resultant force to the hand"
+  },
+  {
+    "objectID": "The Archive/Performance Training/Overhead Athlete/throwing_athlete.html#stable-baseregional-interdependence",
+    "href": "The Archive/Performance Training/Overhead Athlete/throwing_athlete.html#stable-baseregional-interdependence",
+    "title": "The Throwing Athlete",
+    "section": "Stable base/regional interdependence",
+    "text": "Stable base/regional interdependence\n\nScap base and biomechanics\n\nExample: protraction → negatiev effects\n\nRTC lose length tension relationship\nLose force generation capacity and stability aspect\nMid trap, rhomboids, low trap, serratus– altered length tension relationship too in protraction"
+  },
+  {
+    "objectID": "The Archive/Performance Training/Overhead Athlete/throwing_athlete.html#what-is-normal-arom",
+    "href": "The Archive/Performance Training/Overhead Athlete/throwing_athlete.html#what-is-normal-arom",
+    "title": "The Throwing Athlete",
+    "section": "What is normal AROM",
+    "text": "What is normal AROM\n\n“Normal” might be &gt;180°\nSomeone like a gymnast may require 190° to perform their sport. By not helping them reach this ROM, you may be putting them at risk"
+  },
+  {
+    "objectID": "The Archive/Performance Training/Overhead Athlete/throwing_athlete.html#other-breakdowns-in-the-kinetic-chain",
+    "href": "The Archive/Performance Training/Overhead Athlete/throwing_athlete.html#other-breakdowns-in-the-kinetic-chain",
+    "title": "The Throwing Athlete",
+    "section": "Other breakdowns in the kinetic chain?",
+    "text": "Other breakdowns in the kinetic chain?\n\nCore weakness/control deficits?\n\nGreater shoulder dysfunction is correlated with greater stability deficiency (hazar et al 2014)\n\nLE deficits\n\nLimitations to hip flexion and Ir at 90 of hip flexion were risk factors for elbow injury\nAltered hip Rotational rom has effect on amount of ER torqueue and horiz add ROM"
+  },
+  {
+    "objectID": "The Archive/Performance Training/Overhead Athlete/throwing_athlete.html#mobility",
+    "href": "The Archive/Performance Training/Overhead Athlete/throwing_athlete.html#mobility",
+    "title": "The Throwing Athlete",
+    "section": "Mobility",
+    "text": "Mobility\n\nEven 5° GIRD = increased risk for injury and subsequent shoulder surgery\n\nGIRD Criteria: total of 180° of shoulder ROM (ER + IR = 180°)\nER : IR ratio we would love to see 2:3 (he said even a 3:4 would be good)\nER will never match the IR strength, but needed to help w deceleration load"
+  },
+  {
+    "objectID": "The Archive/Performance Training/Overhead Athlete/throwing_athlete.html#strength-power-and-endurance",
+    "href": "The Archive/Performance Training/Overhead Athlete/throwing_athlete.html#strength-power-and-endurance",
+    "title": "The Throwing Athlete",
+    "section": "Strength, power and endurance",
+    "text": "Strength, power and endurance\n\nNormative data (athlete) - ER/IR ratio 72-76%, ER torque to body weight ratio of 19-23% , IR torque to body weight ratio of 26=32% , bilateral comparison of ER 95-100% and bilateral comparison of IR 100-115%\nScap dyskinesia and dysfunction = reduced shoulder strength"
+  },
+  {
+    "objectID": "The Archive/Performance Training/Overhead Athlete/throwing_athlete.html#le-core-and-stability-assessments",
+    "href": "The Archive/Performance Training/Overhead Athlete/throwing_athlete.html#le-core-and-stability-assessments",
+    "title": "The Throwing Athlete",
+    "section": "LE, core and stability assessments",
+    "text": "LE, core and stability assessments\n\nPatient with UCL tears demonstrated dec’d performance for stance and lead lower extremities during the Y balance test"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/push-up_test.html",
+    "href": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/push-up_test.html",
+    "title": "Push-Up Test",
+    "section": "",
+    "text": "Endurance\nMax pushups\n\n\nPower\nMax pushups in 15sec with 45 sec rest (protocol from negrete 20111)\nNegrete (2011) found this to be the best predictor of softball throwing distance1\n\n\n\n\n\nReferences\n\n1. Negrete RJ, Hanney WJ, Kolber MJ, Davies GJ, Riemann B. Can upper extremity functional tests predict the softball throw for distance: A predictive validity investigation. International Journal of Sports Physical Therapy. 2011;6(2):104-111."
+  },
+  {
+    "objectID": "The Archive/Performance Training/Baseball/baseball_athlete.html#retrotorsion",
+    "href": "The Archive/Performance Training/Baseball/baseball_athlete.html#retrotorsion",
+    "title": "Baseball Athlete",
+    "section": "Retrotorsion",
+    "text": "Retrotorsion\nIn US Professional baseball pitchers, humeral retrotorsion and GRV were both significantly greater on the throwing side compared with the non-throwing side1"
+  },
+  {
+    "objectID": "The Archive/Performance Training/Overhead Athlete/overhead_athlete.html",
+    "href": "The Archive/Performance Training/Overhead Athlete/overhead_athlete.html",
+    "title": "Overhead athlete",
+    "section": "",
+    "text": "Chronic shouler pain\n\nImpingement secondary to another condition:\n\n“Athletes with chronic shoulder pain present symptoms of impingement as a result from different shoulder conditions like rotator cuff tendinopathy, shoulder instability, scapular dyskinesis, biceps pathology, SLAP (superior labrum anterior-superior) lesions, and GIRD (glenohumeral internal rotation deficit) (Cools and Reeser, 2017)”1"
+  },
+  {
+    "objectID": "The Archive/Performance Training/Overhead Athlete/overhead_athlete.html#mobility",
+    "href": "The Archive/Performance Training/Overhead Athlete/overhead_athlete.html#mobility",
+    "title": "Overhead athlete",
+    "section": "Mobility",
+    "text": "Mobility\n\nAROM in OKC,\nAROM in CKC? –&gt; depends on sport ie gymnastics\nKinetic chain rotation\nThoracic rotation\nDissociated rotation"
+  },
+  {
+    "objectID": "The Archive/Performance Training/Overhead Athlete/overhead_athlete.html#strength",
+    "href": "The Archive/Performance Training/Overhead Athlete/overhead_athlete.html#strength",
+    "title": "Overhead athlete",
+    "section": "Strength",
+    "text": "Strength\n\nHHD\nER:IR ratio,\nMax or mod press/push/pull data bench press, push up, pull\n\n\n\nT\n\n\n\n\n- Nagatomi et al 2016 found that MMTs were not effective at determining muscle strength symmetry above 75–85%.\n\n\n- MMT was only able to detect problems when there one muscle was 25% weaker (75% as strong) compared to other side"
+  },
+  {
+    "objectID": "The Archive/Performance Training/Volleyball/volleyball_hit.html",
+    "href": "The Archive/Performance Training/Volleyball/volleyball_hit.html",
+    "title": "Volleyball Hit Technique",
+    "section": "",
+    "text": "Indoor\nSpike Arm Swing Techniques of Olympics Male and Female Elite Volleyball Players (1984-2021)1\n\n\nAnalysis\nSubdivided into\n\nWind-up phase2\nCocking phase2\nAcceleration phase2\nFollow through phase2\n\n\n\n\n\n\n\nNote\n\n\n\nThe take off phase and landing phase should also be considered\n\n\n\n\nVariability\n\nThere is ittle inter-individual variety in the acceleration and follow through phases (Coleman et al., 1993; Oka et al., 1976; Selinger and Ackermann-Blount, 1986)2\nThere are different techniques applied during the wind-up and cocking phase (Seminati et al., 2015)2\n\n“Seminati et al. (2015) analyzed the kinematics of different arm swing techniques. Based on their experimental findings of unfavorable range of motion and trajectories of the humerus in traditional techniques, they hypothesized that alternative techniques might be less harmful for the shoulder joint.”2\n\n\n\n\n\nReferences\n\n1. Giatsis G, Tilp M. Spike Arm Swing Techniques of Olympics Male and Female Elite Volleyball Players (1984-2021). Journal of Sports Science & Medicine. 2022;21(3):465-472. doi:10.52082/jssm.2022.465\n\n\n2. Challoumas D, Stavrou A, Dimitrakakis G. The volleyball athlete’s shoulder: Biomechanical adaptations and injury associations. Sports Biomechanics. 2017;16(2):220-237. doi:10.1080/14763141.2016.1222629"
+  },
+  {
+    "objectID": "The Archive/Interventions/Therex/Plyometrics/plyometric.html",
+    "href": "The Archive/Interventions/Therex/Plyometrics/plyometric.html",
+    "title": "Plyometric",
+    "section": "",
+    "text": "The proprioceptors of the body include the muscle spindle, the Golgi tendon organ (GTO), and the mechanoreceptors located in joint capsules and ligaments.\nStimulation of these receptors can cause facilitation, inhibition, and modulation of both agonist and antagonistic muscles.7,65-67\nWhen the muscle spindle is stretched, there is an increase in afferent nerve firing1.\nThe strength of the signal that is sent to the spinal cord from the muscle spindle is dependent on the rate of the applied stretch1. The faster the rate of the stretch, the stronger the neurological signal sent from the muscle spindle, and as a result, the greater the efferent muscle contraction (the shortening cycle of the plyometric movement). The other mechanoreceptor that plays a significant role in the plyometric stretch-shorten cycle is the GTO. The function of the GTO is to act as a protective reflex preventing over-contraction or too much tension in the muscle. Thus, the GTO assists with modulating forces during plyometric exercises. Consequently, the purpose of plyometric training is to increase the excitability of the neurologic receptors for improved reactivity of the neuromuscular system while desensitizing the GTO.66-69 Explosive plyometric exercises may improve the neural efficiency through enhancement of neuromuscular coordi-"
+  },
+  {
+    "objectID": "The Archive/Interventions/Therex/Plyometrics/plyometric.html#neurophysiological-basis",
+    "href": "The Archive/Interventions/Therex/Plyometrics/plyometric.html#neurophysiological-basis",
+    "title": "Plyometric",
+    "section": "",
+    "text": "The proprioceptors of the body include the muscle spindle, the Golgi tendon organ (GTO), and the mechanoreceptors located in joint capsules and ligaments.\nStimulation of these receptors can cause facilitation, inhibition, and modulation of both agonist and antagonistic muscles.7,65-67\nWhen the muscle spindle is stretched, there is an increase in afferent nerve firing1.\nThe strength of the signal that is sent to the spinal cord from the muscle spindle is dependent on the rate of the applied stretch1. The faster the rate of the stretch, the stronger the neurological signal sent from the muscle spindle, and as a result, the greater the efferent muscle contraction (the shortening cycle of the plyometric movement). The other mechanoreceptor that plays a significant role in the plyometric stretch-shorten cycle is the GTO. The function of the GTO is to act as a protective reflex preventing over-contraction or too much tension in the muscle. Thus, the GTO assists with modulating forces during plyometric exercises. Consequently, the purpose of plyometric training is to increase the excitability of the neurologic receptors for improved reactivity of the neuromuscular system while desensitizing the GTO.66-69 Explosive plyometric exercises may improve the neural efficiency through enhancement of neuromuscular coordi-"
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Psychometrics/psychometric.html#sensitivity-reliability",
+    "href": "The Archive/Evidene Based Practice/Psychometrics/psychometric.html#sensitivity-reliability",
+    "title": "Psychometric Properties of Clinical tests",
+    "section": "Sensitivity & Reliability",
+    "text": "Sensitivity & Reliability\nSensitivity and Reliability are used to assess the performance of an alternative test against the gold standard1"
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Psychometrics/psychometric.html#ppv-npv",
+    "href": "The Archive/Evidene Based Practice/Psychometrics/psychometric.html#ppv-npv",
+    "title": "Psychometric Properties of Clinical tests",
+    "section": "PPV & NPV",
+    "text": "PPV & NPV\n\nPPV and NPV reflect the proportion of positive and negative results that are true positives and true negatives2.\nPPV answers the question: “if I have a positive test, what is the probability that I actually have the disease?”2\nNPV answers the question: “if I have a negative test, what is the probability that I actually don’t have the disease?”2\n\n\\[\n\\textrm{PPV} = \\frac{\\textrm{True Positives}}{\\textrm{Test Positives}} = \\frac{\\textrm{True Positives}}{\\textrm{True Positives} + \\textrm{Test Positives}}\n\\]\n\\[\n\\textrm{NPV} = \\frac{\\textrm{True Negatives}}{\\textrm{Test Negatives}} = \\frac{\\textrm{True Negatives}}{\\textrm{True Negatives} + \\textrm{Test Negatives}}\n\\]"
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Psychometrics/specificity.html",
+    "href": "The Archive/Evidene Based Practice/Psychometrics/specificity.html",
+    "title": "Specificity",
+    "section": "",
+    "text": "Negative predictive value reflect the proportion of positive and negative results that are true negatives1. NPV answers the question: “if I have a negative test, what is the probability that I actually don’t have the disease?”1\n\nClinical Significance\nOne should use specificity (and sensitivity) as a way to assess the performance of a diagnostic test1. To predict whether a particular person will truly have the disease based on a positive or negative test result, one should use Positive predicitve value (PPV) and Negative predictive value (NPV)1.\n\n\n\n\n\nReferences\n\n1. Monaghan TF, Rahman SN, Agudelo CW, et al. Foundational Statistical Principles in Medical Research: Sensitivity, Specificity, Positive Predictive Value, and Negative Predictive Value. Medicina (Kaunas, Lithuania). 2021;57(5):503. doi:10.3390/medicina57050503"
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Psychometrics/psychometric.html#predictive-values",
+    "href": "The Archive/Evidene Based Practice/Psychometrics/psychometric.html#predictive-values",
+    "title": "Psychometric Properties of Clinical tests",
+    "section": "Predictive Values",
+    "text": "Predictive Values\n\nPPV and NPV reflect the proportion of positive and negative results that are true positives and true negatives2.\nPPV answers the question: “if I have a positive test, what is the probability that I actually have the disease?”2\nNPV answers the question: “if I have a negative test, what is the probability that I actually don’t have the disease?”2\n\n\\[\n\\textrm{PPV} = \\frac{\\textrm{True Positives}}{\\textrm{Test Positives}} = \\frac{\\textrm{True Positives}}{\\textrm{True Positives} + \\textrm{Test Positives}}\n\\]\n\\[\n\\textrm{NPV} = \\frac{\\textrm{True Negatives}}{\\textrm{Test Negatives}} = \\frac{\\textrm{True Negatives}}{\\textrm{True Negatives} + \\textrm{Test Negatives}}\n\\]"
   }
 ]

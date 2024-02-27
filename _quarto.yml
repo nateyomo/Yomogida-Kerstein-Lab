@@ -28,6 +28,7 @@ author:
 
 
 website:
+  favicon: "/images/icons8-brain-64.png"
   page-navigation: true
   title: "YK Lab"
   navbar:
