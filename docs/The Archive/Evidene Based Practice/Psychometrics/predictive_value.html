@@ -144,11 +144,10 @@ div.csl-indent {
   <ul>
   <li><a href="#positive-predictive-values" id="toc-positive-predictive-values" class="nav-link active" data-scroll-target="#positive-predictive-values">Positive Predictive Values</a></li>
   <li><a href="#negative-predictive-value" id="toc-negative-predictive-value" class="nav-link" data-scroll-target="#negative-predictive-value">Negative Predictive Value</a></li>
-  <li><a href="#factors" id="toc-factors" class="nav-link" data-scroll-target="#factors">Factors</a>
-  <ul class="collapse">
-  <li><a href="#pre-test-probability-impact" id="toc-pre-test-probability-impact" class="nav-link" data-scroll-target="#pre-test-probability-impact">Pre-test probability Impact</a></li>
-  </ul></li>
-  <li><a href="#why-do-we-need-predictive-values" id="toc-why-do-we-need-predictive-values" class="nav-link" data-scroll-target="#why-do-we-need-predictive-values">Why do we need predictive values?</a></li>
+  <li><a href="#purpose" id="toc-purpose" class="nav-link" data-scroll-target="#purpose">Purpose</a></li>
+  <li><a href="#factors" id="toc-factors" class="nav-link" data-scroll-target="#factors">Factors</a></li>
+  <li><a href="#example" id="toc-example" class="nav-link" data-scroll-target="#example">Example</a></li>
+  <li><a href="#calculation" id="toc-calculation" class="nav-link" data-scroll-target="#calculation">Calculation</a></li>
   </ul>
 </nav>
     </div>
@@ -158,7 +157,7 @@ div.csl-indent {
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Predictive Values</h1>
-<p class="subtitle lead">Probability of having an outcome</p>
+<p class="subtitle lead">Probability of having the outcome of interest</p>
 </div>
 
 
@@ -183,18 +182,89 @@ div.csl-indent {
 <section id="positive-predictive-values" class="level1">
 <h1>Positive Predictive Values</h1>
 <p>If the test is positive (abnormal test result, suggesting the presence of disease), what is the chance that the patient really has the disease?<span class="citation" data-cites="motulskyIntuitiveBiostatisticsNonmathematical2018"><sup><a href="#ref-motulskyIntuitiveBiostatisticsNonmathematical2018" role="doc-biblioref">1</a></sup></span></p>
+</section>
+<section id="negative-predictive-value" class="level1">
+<h1>Negative Predictive Value</h1>
+<p>Answers the question “if the test is negative (normal test result), what is the chance that the patient really doesn’t have the disease?”<span class="citation" data-cites="motulskyIntuitiveBiostatisticsNonmathematical2018"><sup><a href="#ref-motulskyIntuitiveBiostatisticsNonmathematical2018" role="doc-biblioref">1</a></sup></span></p>
+</section>
+<section id="purpose" class="level1">
+<h1>Purpose</h1>
+<p>Unlike sens/specificity, PPV and NPV depend on the pre-test probability (i.e., probability of the presence of the disease before a diagnostic test), which is determined by baseline risk factors such as disease prevalence<span class="citation" data-cites="monaghanFoundationalStatisticalPrinciples2021"><sup><a href="#ref-monaghanFoundationalStatisticalPrinciples2021" role="doc-biblioref">2</a></sup></span></p>
+</section>
+<section id="factors" class="level1">
+<h1>Factors</h1>
+<p>Sensitivity and specificity are properties of the test, whereas positive predictive value (PPV) and negative predictive value (NPV) are influenced by disease prevalence<span class="citation" data-cites="motulskyIntuitiveBiostatisticsNonmathematical2018"><sup><a href="#ref-motulskyIntuitiveBiostatisticsNonmathematical2018" role="doc-biblioref">1</a></sup></span>.</p>
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<section id="positive-predictive-value-will-increase-with-increased-disease-prevalence" class="level3 quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<h3 class="anchored" data-anchor-id="positive-predictive-value-will-increase-with-increased-disease-prevalence">Positive predictive value will increase with increased disease prevalence</h3>
+<ul>
+<li>The less prevalent the disease is, the higher proportion of false positives you will see, thus you are less confident that a patient has the disease.</li>
+<li>The more prevalent the disease is, the lower proportion of false positives to true positives you will see, thus you will be more confident the patient has the disease.</li>
+</ul>
+</section>
+<section id="negative-predictive-value-will-decrease-with-increased-disease-prevalence" class="level3 quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<h3 class="anchored" data-anchor-id="negative-predictive-value-will-decrease-with-increased-disease-prevalence">Negative predictive value will decrease with increased disease prevalence</h3>
+<ul>
+<li>The more prevalent the disease is, the higher proportion of false negatives you will see, thus you are less confident that a patient does not have the disease.</li>
+<li>The less prevalent the disease is, the lower proportion of true negatives to false negatives you will see, thus you will be more confident the patient does not have the disease.</li>
+</ul>
+</section>
+</div>
+</div>
+</section>
+<section id="example" class="level1">
+<h1>Example</h1>
+<p>We are applying a diagnostic test for prostate cancer on two populations (A &amp; B).</p>
+<ul>
+<li>Same Cutoff value: ≥0.08 ng/mL/cc</li>
+<li>Sensitivity: 0.85</li>
+<li>Specificity: 0.25</li>
+</ul>
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<section id="population-a" class="level3 quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<h3 class="anchored" data-anchor-id="population-a">Population A</h3>
+<ul>
+<li>n = 10,000</li>
+<li>5% prevalance of colon cancer</li>
+<li>Absolute prevalence: <span class="math inline">\(\frac{500}{10,000}\)</span></li>
+</ul>
+</section>
+<section id="population-b" class="level3 quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<h3 class="anchored" data-anchor-id="population-b">Population B</h3>
+<ul>
+<li>n = 10,000</li>
+<li>20% prevalence of colon cancer</li>
+<li>Absolute prevalence: <span class="math inline">\(\frac{2,000}{10,000}\)</span></li>
+</ul>
+</section>
+<section id="population-c" class="level3 quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<h3 class="anchored" data-anchor-id="population-c">Population C</h3>
+<ul>
+<li>n = 10,000</li>
+<li>1% prevalence of colon cancer</li>
+<li>Absolute prevalence: <span class="math inline">\(\frac{100}{10,000}\)</span></li>
+</ul>
+</section>
+</div>
+</div>
+<p>The increased prevalence in population B means that more study subjects will have the disease in an absolute sense (<span class="math inline">\(\frac{500}{10,000}\)</span> vs <span class="math inline">\(\frac{2,000}{10,000}\)</span>)<span class="citation" data-cites="monaghanFoundationalStatisticalPrinciples2021"><sup><a href="#ref-monaghanFoundationalStatisticalPrinciples2021" role="doc-biblioref">2</a></sup></span>. Since we are using the exact same test and cutoff value, we would expect the number of people correctly identified as positive (true positive rate) to stay the same<span class="citation" data-cites="monaghanFoundationalStatisticalPrinciples2021"><sup><a href="#ref-monaghanFoundationalStatisticalPrinciples2021" role="doc-biblioref">2</a></sup></span>. This is why sensitivity and specificity is not affected by disease prevalence.</p>
+<p>If a patient asks you “what are the chances I actually have prostate cancer?” your confidence would depend on which population the individual came from<span class="citation" data-cites="monaghanFoundationalStatisticalPrinciples2021"><sup><a href="#ref-monaghanFoundationalStatisticalPrinciples2021" role="doc-biblioref">2</a></sup></span>. The probability the individual is higher if he is in population B (20%), compared to population A (5%), and Population C (1%).@monaghanFoundationalStatisticalPrinciples2021.</p>
+</section>
+<section id="calculation" class="level1">
+<h1>Calculation</h1>
 <!--
 $$
 \textrm{PPV} = \frac{\textrm{True Positives}}{\textrm{Test Positives}} = \frac{\textrm{True Positives}}{\textrm{True Positives} + \textrm{Test Positives}}
 $$
 -->
 <p><span class="math display">\[
-\textrm{PPV} = \frac{\textrm{Sens} \times \textrm{Prevalence}}{\textrm{Sens} \times \textrm{Prevalence} + (1-\textrm{Spec}) \times (1-\textrm{Prevalence})} = \frac{\textrm{Sens} \times \textrm{Prevalence}}{\textrm{Sens} \times \textrm{Prevalence} + (False Positive Rate) \times (1-\textrm{Prevalence})}
+\begin{aligned}
+    \textrm{PPV} = \frac{\textrm{Sens} \times \textrm{Prevalence}}{\textrm{Sens} \times \textrm{Prevalence} + (1-\textrm{Spec}) \times (1-\textrm{Prevalence})} \\
+    \textrm{PPV} = \frac{\textrm{Sens} \times \textrm{Prevalence}}{\textrm{Sens} \times \textrm{Prevalence} + (False Positive Rate) \times (1-\textrm{Prevalence})} \\
+\end{aligned}
 \]</span></p>
-</section>
-<section id="negative-predictive-value" class="level1">
-<h1>Negative Predictive Value</h1>
-<p>Answers the question “if the test is negative (normal test result), what is the chance that the patient really doesn’t have the disease?”<span class="citation" data-cites="motulskyIntuitiveBiostatisticsNonmathematical2018"><sup><a href="#ref-motulskyIntuitiveBiostatisticsNonmathematical2018" role="doc-biblioref">1</a></sup></span></p>
 <!--
 $$
 \textrm{NPV} = \frac{\textrm{True Negatives}}{\textrm{Test Negatives}} = \frac{\textrm{True Negatives}}{\textrm{True Negatives} + \textrm{Test Negatives}}
@@ -204,72 +274,11 @@ $$
 $$
 -->
 <p><span class="math display">\[
-\textrm{PPV} = \frac{\textrm{Spec} \times (1-\textrm{Prevalence})}{(1-\textrm{Sens}) \times \textrm{Prevalence} + \textrm{Spec} \times (1-\textrm{Prevalence})} = \frac{\textrm{Spec} \times (1-\textrm{Prevalence})}{(False positive Rate) \times \textrm{Prevalence} + \textrm{Spec} \times (1-\textrm{Prevalence})}
+\begin{aligned}
+    \textrm{NPV} = \frac{\textrm{Spec} \times (1-\textrm{Prevalence})}{(1-\textrm{Sens}) \times \textrm{Prevalence} + \textrm{Spec} \times (1-\textrm{Prevalence})} \\
+    \textrm{NPV} = \frac{\textrm{Spec} \times (1-\textrm{Prevalence})}{(False positive Rate) \times \textrm{Prevalence} + \textrm{Spec} \times (1-\textrm{Prevalence})}
+\end{aligned}
 \]</span></p>
-</section>
-<section id="factors" class="level1">
-<h1>Factors</h1>
-<p>Sensitivity and specificity are properties of the test, whereas positive predictive value (PPV) and negative predictive value (NPV) are influenced by disease prevalence<span class="citation" data-cites="motulskyIntuitiveBiostatisticsNonmathematical2018"><sup><a href="#ref-motulskyIntuitiveBiostatisticsNonmathematical2018" role="doc-biblioref">1</a></sup></span>.</p>
-<section id="pre-test-probability-impact" class="level2">
-<h2 class="anchored" data-anchor-id="pre-test-probability-impact">Pre-test probability Impact</h2>
-<p>Example:</p>
-<p>We are applying a diagnostic test for prostate cancer on two populations (A &amp; B).</p>
-<ul>
-<li>Same Cutoff value: ≥0.08 ng/mL/cc</li>
-<li></li>
-</ul>
-<div class="quarto-layout-panel">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<section id="population-a" class="level3 quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<h3 class="anchored" data-anchor-id="population-a">Population A</h3>
-<ul>
-<li>n = 10,000</li>
-<li>5% prevalance of colon cancer</li>
-<li>Absolute prevalence: <span class="math inline">\(\frac{500}{10,000}\)</span></li>
-</ul>
-</section>
-<section id="population-b" class="level3 quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<h3 class="anchored" data-anchor-id="population-b">Population B</h3>
-<ul>
-<li>n = 10,000</li>
-<li>20% prevalence of colon cancer</li>
-<li>Absolute prevalence: <span class="math inline">\(\frac{2,000}{10,000}\)</span></li>
-</ul>
-</section>
-</div>
-</div>
-<p>The increased prevalence in population B means that more study subjects will have the disease in an absolute sense (<span class="math inline">\(\frac{500}{10,000}\)</span> vs <span class="math inline">\(\frac{2,000}{10,000}\)</span>)<span class="citation" data-cites="monaghanFoundationalStatisticalPrinciples2021"><sup><a href="#ref-monaghanFoundationalStatisticalPrinciples2021" role="doc-biblioref">2</a></sup></span>. Since we are using the exact same test and cutoff value, we would expect the number of people correctly identified as positive (true positive rate) to stay the same<span class="citation" data-cites="monaghanFoundationalStatisticalPrinciples2021"><sup><a href="#ref-monaghanFoundationalStatisticalPrinciples2021" role="doc-biblioref">2</a></sup></span>. This is why sensitivity and specificity is not affected by disease prevalence.</p>
-<p>If a patient asks you “what are the chances I actually have prostate cancer?” your confidence would depend on which population the individual came from<span class="citation" data-cites="monaghanFoundationalStatisticalPrinciples2021"><sup><a href="#ref-monaghanFoundationalStatisticalPrinciples2021" role="doc-biblioref">2</a></sup></span>. The probability the individual is higher if he is in population B (20%), compared to population A (5%)<span class="citation" data-cites="monaghanFoundationalStatisticalPrinciples2021"><sup><a href="#ref-monaghanFoundationalStatisticalPrinciples2021" role="doc-biblioref">2</a></sup></span>.</p>
-<div class="callout callout-style-default callout-important callout-titled" title="Summary">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Summary
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-1" class="callout-1-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<p>Positive predictive value will increase with increased disease prevalence</p>
-<ul>
-<li>The less prevalent the disease is, the higher proportion of false positives you will see, thus you are less confident that a patient has the disease.</li>
-<li>The more prevalent the disease is, the lower proportion of false positives to true positives you will see, thus you will be more confident the patient has the disease.</li>
-</ul>
-<p>Negative predictive value will decrease with increased disease prevalence:</p>
-<ul>
-<li>The more prevalent the disease is, the higher proportion of false negatives you will see, thus you are less confident that a patient does not have the disease.</li>
-<li>The less prevalent the disease is, the lower proportion of true negatives to false negatives you will see, thus you will be more confident the patient does not have the disease.</li>
-</ul>
-</div>
-</div>
-</div>
-</section>
-</section>
-<section id="why-do-we-need-predictive-values" class="level1">
-<h1>Why do we need predictive values?</h1>
-<p>Unlike sens/specificity, PPV and NPV depend on the pre-test probability (i.e., probability of the presence of the disease before a diagnostic test), which is determined by baseline risk factors such as disease prevalence<span class="citation" data-cites="monaghanFoundationalStatisticalPrinciples2021"><sup><a href="#ref-monaghanFoundationalStatisticalPrinciples2021" role="doc-biblioref">2</a></sup></span></p>
 
 
 

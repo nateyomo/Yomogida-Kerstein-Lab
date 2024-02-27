@@ -49,6 +49,7 @@ div.csl-indent {
 <script src="../../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../../">
+<link href="../../..//images/icons8-brain-64.png" rel="icon" type="image/png">
 <script src="../../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -151,8 +152,6 @@ div.csl-indent {
   <li><a href="#standardized-effect-size" id="toc-standardized-effect-size" class="nav-link" data-scroll-target="#standardized-effect-size">Standardized Effect Size</a></li>
   </ul></li>
   <li><a href="#example" id="toc-example" class="nav-link" data-scroll-target="#example">Example</a></li>
-  <li><a href="#eta-squared-eta2" id="toc-eta-squared-eta2" class="nav-link" data-scroll-target="#eta-squared-eta2">Eta Squared (<span class="math inline">\(\eta^2\)</span>)</a></li>
-  <li><a href="#partial-eta-squared-eta2" id="toc-partial-eta-squared-eta2" class="nav-link" data-scroll-target="#partial-eta-squared-eta2">Partial Eta Squared (<span class="math inline">\(\eta^2\)</span>)</a></li>
   </ul>
 </nav>
     </div>
@@ -300,69 +299,68 @@ Note
 <div class="quarto-layout-row quarto-layout-valign-top">
 <div class="quarto-figure quarto-figure-center" style="flex-basis: 50.0%;justify-content: center;">
 <figure class="figure">
-<p><a href="../../../The Archive/Evidene Based Practice/Statistical Significance/images/aron fig6.2a effect size.png" class="lightbox" title="Experiment A Effect size compares the means of the control group (200) with the experimental group (220)" data-gallery="quarto-lightbox-gallery-1"><img src="../../../The Archive/Evidene Based Practice/Statistical Significance/images/aron fig6.2a effect size.png" class="img-fluid figure-img"></a></p>
+<p><a href="../../../The Archive/Evidene Based Practice/Statistical Significance/images/aron fig6.2a effect size.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Experiment A Effect size compares the means of the control group (200) with the experimental group (220)"><img src="../../../The Archive/Evidene Based Practice/Statistical Significance/images/aron fig6.2a effect size.png" class="img-fluid figure-img"></a></p>
 <figcaption class="figure-caption">Experiment A Effect size compares the means of the control group (200) with the experimental group (220)</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center" style="flex-basis: 50.0%;justify-content: center;">
 <figure class="figure">
-<p><a href="../../../The Archive/Evidene Based Practice/Statistical Significance/images/aron fig6.2b effect size.png" class="lightbox" title="Experiment B Effect size compares the means of the control group (200) with the experimental group (210)" data-gallery="quarto-lightbox-gallery-2"><img src="../../../The Archive/Evidene Based Practice/Statistical Significance/images/aron fig6.2b effect size.png" class="img-fluid figure-img"></a></p>
+<p><a href="../../../The Archive/Evidene Based Practice/Statistical Significance/images/aron fig6.2b effect size.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2" title="Experiment B Effect size compares the means of the control group (200) with the experimental group (210)"><img src="../../../The Archive/Evidene Based Practice/Statistical Significance/images/aron fig6.2b effect size.png" class="img-fluid figure-img"></a></p>
 <figcaption class="figure-caption">Experiment B Effect size compares the means of the control group (200) with the experimental group (210)</figcaption>
 </figure>
 </div>
 </div>
 </div>
 <p>When comparing these two experiments, we can visually see that Experiment A has a much larger effect size.</p>
-</section>
-<section id="eta-squared-eta2" class="level1">
-<h1>Eta Squared (<span class="math inline">\(\eta^2\)</span>)</h1>
-<p>Eta squared measures the proportion of variance that a given variable accounts for out of the total variance in an ANOVA model. It is calculated as:</p>
-<p>$$</p>
-<p>^2 = </p>
-<p>$$</p>
-<p>where:</p>
-<p>SSeffect: The sum of squares of an effect for one variable. SStotal: The total sum of squares in the ANOVA model. When there is only one predictor variable in the model (i.e.&nbsp;a one-way ANOVA), then the value for eta squared and partial eta squared will be equal.</p>
-</section>
-<section id="partial-eta-squared-eta2" class="level1">
-<h1>Partial Eta Squared (<span class="math inline">\(\eta^2\)</span>)</h1>
-<p>Partial eta squared is a way to measure the effect size of different variables in ANOVA models.</p>
-<p>It measures the proportion of variance explained by a given variable of the total variance remaining after accounting for variance explained by other variables in the model.</p>
-<p>How to Calculate Partial Eta Squared The formula to calculate Partial eta squared is as follows:</p>
-<p>$$</p>
-<p> ^2 = </p>
-<p>$$</p>
-<ul>
-<li><span class="math inline">\(\textrm{SS}_\textrm{effect}\)</span>: The sum of squares of an effect for one variable.</li>
-<li><span class="math inline">\(\textrm{SS}_\textrm{error}\)</span>: The sum of squares error in the ANOVA model.</li>
-</ul>
-<p>Interpretation</p>
-<ul>
-<li>The value for Partial eta squared ranges from 0 to 1</li>
-<li>Values closer to 1 indicate a higher proportion of variance that can be explained by a given variable in the model after accounting for variance explained by other variables in the model.</li>
-<li>The following rules of thumb are used to interpret values for Partial eta squared:</li>
-</ul>
-<table class="table">
-<thead>
-<tr class="header">
-<th><span class="math inline">\(\eta^2\)</span></th>
-<th>Interpretation</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>0.01</td>
-<td>Small effect size</td>
-</tr>
-<tr class="even">
-<td>0.06</td>
-<td>Medium effect size</td>
-</tr>
-<tr class="odd">
-<td>0.14 or higher</td>
-<td>Large effect size</td>
-</tr>
-</tbody>
-</table>
+<!--
+# Eta Squared ($\eta^2$)
+
+Eta squared measures the proportion of variance that a given variable accounts for out of the total variance in an ANOVA model. It is calculated as:
+
+
+$$
+
+\eta^2 = \frac{\textrm{SS}_\textrm{effect}}{(\textrm{SS}_\textrm{total})} 
+
+$$
+
+where:
+
+SSeffect: The sum of squares of an effect for one variable.
+SStotal: The total sum of squares in the ANOVA model.
+When there is only one predictor variable in the model (i.e. a one-way ANOVA), then the value for eta squared and partial eta squared will be equal.
+
+# Partial Eta Squared ($\eta^2$)
+
+
+Partial eta squared is a way to measure the effect size of different variables in ANOVA models.
+
+It measures the proportion of variance explained by a given variable of the total variance remaining after accounting for variance explained by other variables in the model.
+
+How to Calculate Partial Eta Squared
+The formula to calculate Partial eta squared is as follows:
+
+$$
+
+\textrm{partial} \space \eta^2 = \frac{\textrm{SS}_\textrm{effect}}{(\textrm{SS}_\textrm{effect} + \textrm{SS}_\textrm{error})} 
+
+$$
+
+- $\textrm{SS}_\textrm{effect}$: The sum of squares of an effect for one variable.
+- $\textrm{SS}_\textrm{error}$: The sum of squares error in the ANOVA model.
+
+Interpretation
+
+- The value for Partial eta squared ranges from 0 to 1
+- Values closer to 1 indicate a higher proportion of variance that can be explained by a given variable in the model after accounting for variance explained by other variables in the model.
+- The following rules of thumb are used to interpret values for Partial eta squared:
+
+| $\eta^2$ | Interpretation |
+|-|-|
+|0.01 | Small effect size |
+|0.06 | Medium effect size |
+| 0.14 or higher | Large effect size |
+-->
 
 
 
@@ -722,7 +720,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"selector":".lightbox","closeEffect":"zoom","loop":true,"descPosition":"bottom","openEffect":"zoom"});</script>
+<script>var lightboxQuarto = GLightbox({"openEffect":"zoom","loop":true,"closeEffect":"zoom","descPosition":"bottom","selector":".lightbox"});</script>
 
 
 
