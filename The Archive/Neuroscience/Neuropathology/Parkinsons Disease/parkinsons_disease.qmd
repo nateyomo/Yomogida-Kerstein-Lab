@@ -147,6 +147,14 @@ The subgroups of PD are not pathophysiologically different, but are used to desc
 - Higher H&Y scores have been linked with a more rapid cognitive decline in PD patients @modestinoHoehnYahrStaging2018. 
 - In general, patients with higher H&Y scores report poorer quality of life @modestinoHoehnYahrStaging2018.
 
+:::{layout-ncol="3"}
+
+### Sleep
+
+- Parkinson Disease Sleep Scale
+
+
+:::
 
 # Considerations
 
@@ -157,7 +165,40 @@ The subgroups of PD are not pathophysiologically different, but are used to desc
 
 
 
+# Symptom Treatment
+
+:::{layout-ncol="3"}
+
+### Motor Disease Severity
+
+### Depression
+
+- Community-based exercise improved depression @osbornePhysicalTherapistManagement2022
+
+
+### Cognition
+
+- Community-based exercise improved cognition @osbornePhysicalTherapistManagement2022
+
+### Sleep
+
+- Community-based exercise improved the Parkinson Disease Sleep Scale @osbornePhysicalTherapistManagement2022 
+
+
+:::
+
+
 # Interventions
+
+:::{layout-ncol="3"}
+
+### Community-Based Exercise
+
+- High level of evidence and recommendation by APTA's CPG @osbornePhysicalTherapistManagement2022
+- studies that improved nonmotor symptoms all included interventions for breathing and relaxation, with frequency and duration ranging from 1 to 2 hours per week for 8 to 25 weeks.
+
+:::
+
 
 # Motor Control
 

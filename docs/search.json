@@ -2468,7 +2468,7 @@
     "href": "The Archive/Evidene Based Practice/Psychometrics/receiver_operative_characteristic_curve.html",
     "title": "Receiver Operating Characteristic (ROC) Curve",
     "section": "",
-    "text": "The ROC curve is a visualization of the trade-off between high sensitivity and high specificity1.\n{fig-}\n\nReading an ROC Curve\n\nBottom left:\n\nAn extreme where the test never returns a positive diagnosis.\nAt this extreme, every patient is incorrectly diagnosed as healthy (sensitivity = 0%)1\nEvery control is correctly diagnosed as healthy (specificity = 100%)1\n\nUpper right extreme: The test always returns a diagnosis that the person tested has the disease1.\n\nEvery patient is correctly diagnosed (sensitivity = 100%)1\nEvery control is incorrectly diagnosed (specificity = 0%)1\n\n\n\n\nWhat is the best cut-off?\nChoosing the ideal cut-off point is dependent on the consequences of a false negative or false positive.\n\nIf both consequences are equally bad: The best threshold is the one that corresponds to the point on the ROC curve that is closest to the upper-left corner of the graph.\nGenerally, the consequences are not comparable.\nIt will be difficult to decide what cut-off makes the most sense. That decision must be made by someone who understands the disease and the test. It is not a decision to be made by a computer program.\n\n\n\n\n\n\nReferences\n\n1. Motulsky H. Intuitive Biostatistics: A Nonmathematical Guide to Statistical Thinking. Fourth edition. Oxford University Press; 2018."
+    "text": "The ROC curve is a visualization of the trade-off between high sensitivity and high specificity1.\n{fig-}\n\nReading an ROC Curve\n\nBottom left:\n\nAn extreme where the test never returns a positive diagnosis.\nAt this extreme, every patient is incorrectly diagnosed as healthy (sensitivity = 0%)1\nEvery control is correctly diagnosed as healthy (specificity = 100%)1\n\nUpper right extreme: The test always returns a diagnosis that the person tested has the disease1.\n\nEvery patient is correctly diagnosed (sensitivity = 100%)1\nEvery control is incorrectly diagnosed (specificity = 0%)1\n\n\n\n\nWhat is the best cut-off?\nChoosing the ideal cut-off point is dependent on the consequences of a false negative or false positive.\n\nIf both consequences are equally bad: The best threshold is the one that corresponds to the point on the ROC curve that is closest to the upper-left corner of the graph.\nGenerally, the consequences are not comparable.\nIt will be difficult to decide what cut-off makes the most sense. That decision must be made by someone who understands the disease and the test. It is not a decision to be made by a computer program.\n\n\n\n\n\n\nReferences\n\n1. Motulsky H. Intuitive Biostatistics: A Nonmathematical Guide to Statistical Thinking. 4th ed. Oxford University Press; 2018."
   },
   {
     "objectID": "The Archive/Evidene Based Practice/Psychometrics/psychometric.html",
@@ -9559,6 +9559,76 @@
     "href": "The Archive/Evidene Based Practice/Psychometrics/psychometric.html#predictive-values",
     "title": "Psychometric Properties of Clinical tests",
     "section": "Predictive Values",
-    "text": "Predictive Values\n\nPPV and NPV reflect the proportion of positive and negative results that are true positives and true negatives2.\nPPV answers the question: “if I have a positive test, what is the probability that I actually have the disease?”2\nNPV answers the question: “if I have a negative test, what is the probability that I actually don’t have the disease?”2\n\n\\[\n\\textrm{PPV} = \\frac{\\textrm{True Positives}}{\\textrm{Test Positives}} = \\frac{\\textrm{True Positives}}{\\textrm{True Positives} + \\textrm{Test Positives}}\n\\]\n\\[\n\\textrm{NPV} = \\frac{\\textrm{True Negatives}}{\\textrm{Test Negatives}} = \\frac{\\textrm{True Negatives}}{\\textrm{True Negatives} + \\textrm{Test Negatives}}\n\\]"
+    "text": "Predictive Values\n\nPPV and NPV reflect the proportion of positive and negative results that are true positives and true negatives2.\nPPV answers the question: “if I have a positive test, what is the probability that I actually have the disease?”2\nNPV answers the question: “if I have a negative test, what is the probability that I actually don’t have the disease?”2\n\n\\[\n\\textrm{PPV} = \\frac{\\textrm{True Positives}}{\\textrm{Test Positives}} = \\frac{\\textrm{True Positives}}{\\textrm{True Positives} + \\textrm{Test Positives}}\n\\]\n\\[\n\\textrm{NPV} = \\frac{\\textrm{True Negatives}}{\\textrm{Test Negatives}} = \\frac{\\textrm{True Negatives}}{\\textrm{True Negatives} + \\textrm{Test Negatives}}\n\\]\nWhat makes Predictive values unique?\n\nUnlike sens/specificity, PPV and NPV depend on the pre-test probability (determined by baseline risk factors)\n\n(i.e., probability of the presence of the disease before a diagnostic test), which is determined by baseline risk factors such as disease prevalence"
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Psychometrics/predictive_value.html",
+    "href": "The Archive/Evidene Based Practice/Psychometrics/predictive_value.html",
+    "title": "Predictive Values",
+    "section": "",
+    "text": "If the test is positive (abnormal test result, suggesting the presence of disease), what is the chance that the patient really has the disease?1\n\n\\[\n\\textrm{PPV} = \\frac{\\textrm{Sens} \\times \\textrm{Prevalence}}{\\textrm{Sens} \\times \\textrm{Prevalence} + (1-\\textrm{Spec}) \\times (1-\\textrm{Prevalence})} = \\frac{\\textrm{Sens} \\times \\textrm{Prevalence}}{\\textrm{Sens} \\times \\textrm{Prevalence} + (False Positive Rate) \\times (1-\\textrm{Prevalence})}\n\\]"
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Psychometrics/likelihood_ratio.html",
+    "href": "The Archive/Evidene Based Practice/Psychometrics/likelihood_ratio.html",
+    "title": "Likelihood ratio",
+    "section": "",
+    "text": "The likelihood ratio is defined as the probability of obtaining a positive test result in a patient with the disease divided by the probability of obtaining a positive test result in a patient without the disease1.\n\nCalculation\n\\[\n\\textrm{+LR} = \\frac{(\\textrm{Probability of obtaining a positive test in a patient with the disease})}{\\textrm{Probability of attaining a positive test in a person without the disease}}\n\\]\n\\[\n\\textrm{+LR} = \\frac{Sensitivity}{1 - Specificity} = \\frac{(\\textrm{True Positive Rate})}{(\\textrm{False Positive Rate})}\n\\]\n\n\n\n\n\n\nExample\n\n\n\n\n\nA test for intermittent porphyria\n\nSensitivity: 82%\nSpecificity: 96.3%\n\n\\[\n\\textrm{+LR} = \\frac{Sensitivity}{1 - Specificity} = \\frac{0.82}{1-0.963} = 22.2\n\\]\nSince the +LR is “22.2”, this indicates that a person with the condition is 22.2x more likely to test positive than someone without the disease1.\n\n\n\n\n\nLikelihood ratio vs Sensitivity\nThe likelihood ratio is defined as the probability of obtaining a positive test result in a patient with the disease divided by the probability of obtaining a positive test result in a patient without the disease1.\nSensitivity is the probability of obtaining a positive test result in a patient with the disease1.\n\n\n\n\n\nReferences\n\n1. Motulsky H. Intuitive Biostatistics: A Nonmathematical Guide to Statistical Thinking. 4th ed. Oxford University Press; 2018."
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Psychometrics/predictive_value.html#pre-test-probability-impact",
+    "href": "The Archive/Evidene Based Practice/Psychometrics/predictive_value.html#pre-test-probability-impact",
+    "title": "Predictive Values",
+    "section": "Pre-test probability Impact",
+    "text": "Pre-test probability Impact\nExample:\nWe are applying a diagnostic test for prostate cancer on two populations (A & B).\n\nSame Cutoff value: ≥0.08 ng/mL/cc\n\n\n\n\n\nPopulation A\n\nn = 10,000\n5% prevalance of colon cancer\nAbsolute prevalence: \\(\\frac{500}{10,000}\\)\n\n\n\nPopulation B\n\nn = 10,000\n20% prevalence of colon cancer\nAbsolute prevalence: \\(\\frac{2,000}{10,000}\\)\n\n\n\n\nThe increased prevalence in population B means that more study subjects will have the disease in an absolute sense (\\(\\frac{500}{10,000}\\) vs \\(\\frac{2,000}{10,000}\\))2. Since we are using the exact same test and cutoff value, we would expect the number of people correctly identified as positive (true positive rate) to stay the same2. This is why sensitivity and specificity is not affected by disease prevalence.\nIf a patient asks you “what are the chances I actually have prostate cancer?” your confidence would depend on which population the individual came from2. The probability the individual is higher if he is in population B (20%), compared to population A (5%)2.\n\n\n\n\n\n\nSummary\n\n\n\n\n\nPositive predictive value will increase with increased disease prevalence\n\nThe less prevalent the disease is, the higher proportion of false positives you will see, thus you are less confident that a patient has the disease.\nThe more prevalent the disease is, the lower proportion of false positives to true positives you will see, thus you will be more confident the patient has the disease.\n\nNegative predictive value will decrease with increased disease prevalence:\n\nThe more prevalent the disease is, the higher proportion of false negatives you will see, thus you are less confident that a patient does not have the disease.\nThe less prevalent the disease is, the lower proportion of true negatives to false negatives you will see, thus you will be more confident the patient does not have the disease."
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Parkinsons Disease/PD_gait.html",
+    "href": "The Archive/Neuroscience/Neuropathology/Parkinsons Disease/PD_gait.html",
+    "title": "Parkinson’s Disease Gait Treatment",
+    "section": "",
+    "text": "Stride length\n\n\n\nEffective Treatments\n\nGait training was found to increase stride length in PD patients1\nStep length improved with treadmill and RGAT1\nThere is no consensus on which type of gait training is best for stride length1\n\n\n\nIneffective Treatments\n\nPNF based (nonambulatory) gait training (rhythmic initiation, slow reversal, and agonistic reversal exercises applied to the pelvic region) did not improve step length1\n\n\n\n\n\n\n\n\n\n\n\n\nGait Speed\n\n1. Osborne JA, Botkin R, Colon-Semenza C, et al. Physical Therapist Management of Parkinson Disease: A Clinical Practice Guideline From the American Physical Therapy Association. Physical Therapy. 2022;102(4):pzab302. doi:10.1093/ptj/pzab302"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Parkinsons Disease/PD Tests and Measures/UPDRS_unified_parkinsons_disease_rating_scale.html",
+    "href": "The Archive/Neuroscience/Neuropathology/Parkinsons Disease/PD Tests and Measures/UPDRS_unified_parkinsons_disease_rating_scale.html",
+    "title": "Unified Parkinson’s Disease Rating Scale (UPDRS)",
+    "section": "",
+    "text": "Part I: Mentation, Behavior, Mood\nPart II: Activities of Daily Living (Determine for “on” or “off”, indicating either a “good” or “bad” day, respectively.)\nPart III: Motor Examination\nPart IV: Complications of Therapy (in the past week)\nPart V: H&Y staging scale\nPart VI: S&E ADL scale\n\n\nClinical Use\n\nUsed in studies to measure motor disease severity1\n\n\n\n\n\n\nReferences\n\n1. Osborne JA, Botkin R, Colon-Semenza C, et al. Physical Therapist Management of Parkinson Disease: A Clinical Practice Guideline From the American Physical Therapy Association. Physical Therapy. 2022;102(4):pzab302. doi:10.1093/ptj/pzab302"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Parkinsons Disease/PD_motor_disease_severity.html",
+    "href": "The Archive/Neuroscience/Neuropathology/Parkinsons Disease/PD_motor_disease_severity.html",
+    "title": "Motor Disease Severity for Parkinson’s Disease",
+    "section": "",
+    "text": "Assessment\n\nUPDRS III\n\n\n\nTreatment\n\nGait Training\n\nGait training has mixed evidence, some studies demonstrate significant improvements in motor disease severity and other studies showing no improvement1.\n\n\n\n\n\n\n\nReferences\n\n1. Osborne JA, Botkin R, Colon-Semenza C, et al. Physical Therapist Management of Parkinson Disease: A Clinical Practice Guideline From the American Physical Therapy Association. Physical Therapy. 2022;102(4):pzab302. doi:10.1093/ptj/pzab302"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Parkinsons Disease/freezing_of_gait_FOG.html",
+    "href": "The Archive/Neuroscience/Neuropathology/Parkinsons Disease/freezing_of_gait_FOG.html",
+    "title": "Freezing of Gait (FOG)",
+    "section": "",
+    "text": "Do you experience FOG\nHow often\nHow long does a FOG last\nWhat are the triggers?\n\n\n\n\n\nFOG-Q\n\n\n\n\nPatients who experience freezing of gait, you should include a cognitive exam or ensure someone else has conducted one.\n\nMocha"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Parkinsons Disease/freezing_of_gait_FOG.html#subjective",
+    "href": "The Archive/Neuroscience/Neuropathology/Parkinsons Disease/freezing_of_gait_FOG.html#subjective",
+    "title": "Freezing of Gait (FOG)",
+    "section": "",
+    "text": "Do you experience FOG\nHow often\nHow long does a FOG last\nWhat are the triggers?"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Parkinsons Disease/freezing_of_gait_FOG.html#tm",
+    "href": "The Archive/Neuroscience/Neuropathology/Parkinsons Disease/freezing_of_gait_FOG.html#tm",
+    "title": "Freezing of Gait (FOG)",
+    "section": "",
+    "text": "FOG-Q"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Parkinsons Disease/freezing_of_gait_FOG.html#paired-assessments",
+    "href": "The Archive/Neuroscience/Neuropathology/Parkinsons Disease/freezing_of_gait_FOG.html#paired-assessments",
+    "title": "Freezing of Gait (FOG)",
+    "section": "",
+    "text": "Patients who experience freezing of gait, you should include a cognitive exam or ensure someone else has conducted one.\n\nMocha"
   }
 ]

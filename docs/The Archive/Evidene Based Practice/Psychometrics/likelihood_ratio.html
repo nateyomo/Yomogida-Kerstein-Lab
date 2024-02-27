@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>YK Lab - Specificity</title>
+<title>YK Lab - Likelihood ratio</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -82,6 +82,8 @@ div.csl-indent {
   }
 }</script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="../../../styles.css">
 </head>
@@ -140,7 +142,8 @@ div.csl-indent {
     <h2 id="toc-title">Contents</h2>
    
   <ul>
-  <li><a href="#clinical-significance" id="toc-clinical-significance" class="nav-link active" data-scroll-target="#clinical-significance">Clinical Significance</a></li>
+  <li><a href="#calculation" id="toc-calculation" class="nav-link active" data-scroll-target="#calculation">Calculation</a></li>
+  <li><a href="#likelihood-ratio-vs-sensitivity" id="toc-likelihood-ratio-vs-sensitivity" class="nav-link" data-scroll-target="#likelihood-ratio-vs-sensitivity">Likelihood ratio vs Sensitivity</a></li>
   </ul>
 </nav>
     </div>
@@ -149,8 +152,7 @@ div.csl-indent {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Specificity</h1>
-<p class="subtitle lead">True negative rate</p>
+<h1 class="title">Likelihood ratio</h1>
 </div>
 
 
@@ -172,18 +174,52 @@ div.csl-indent {
 
 </header>
 
-<p>Negative predictive value reflect the proportion of positive and negative results that are true negatives<span class="citation" data-cites="monaghanFoundationalStatisticalPrinciples2021"><sup><a href="#ref-monaghanFoundationalStatisticalPrinciples2021" role="doc-biblioref">1</a></sup></span>. NPV answers the question: “if I have a negative test, what is the probability that I actually don’t have the disease?”<span class="citation" data-cites="monaghanFoundationalStatisticalPrinciples2021"><sup><a href="#ref-monaghanFoundationalStatisticalPrinciples2021" role="doc-biblioref">1</a></sup></span></p>
-<section id="clinical-significance" class="level1">
-<h1>Clinical Significance</h1>
-<p>One should use specificity (and sensitivity) as a way to assess the performance of a diagnostic test<span class="citation" data-cites="monaghanFoundationalStatisticalPrinciples2021"><sup><a href="#ref-monaghanFoundationalStatisticalPrinciples2021" role="doc-biblioref">1</a></sup></span>. To predict whether a particular person will truly have the disease based on a positive or negative test result, one should use <a href="../../../The Archive/Evidene Based Practice/Psychometrics/negative_predictive_value.qmd">Positive predicitve value (PPV)</a> and <a href="../../../The Archive/Evidene Based Practice/Psychometrics/positive_predictive_value.qmd">Negative predictive value (NPV)</a><span class="citation" data-cites="monaghanFoundationalStatisticalPrinciples2021"><sup><a href="#ref-monaghanFoundationalStatisticalPrinciples2021" role="doc-biblioref">1</a></sup></span>.</p>
+<p>The likelihood ratio is defined as the probability of obtaining a positive test result in a patient with the disease divided by the probability of obtaining a positive test result in a patient without the disease<span class="citation" data-cites="motulskyIntuitiveBiostatisticsNonmathematical2018"><sup><a href="#ref-motulskyIntuitiveBiostatisticsNonmathematical2018" role="doc-biblioref">1</a></sup></span>.</p>
+<section id="calculation" class="level1">
+<h1>Calculation</h1>
+<p><span class="math display">\[
+\textrm{+LR} = \frac{(\textrm{Probability of obtaining a positive test in a patient with the disease})}{\textrm{Probability of attaining a positive test in a person without the disease}}
+\]</span></p>
+<p><span class="math display">\[
+\textrm{+LR} = \frac{Sensitivity}{1 - Specificity} = \frac{(\textrm{True Positive Rate})}{(\textrm{False Positive Rate})}
+\]</span></p>
+<div class="callout callout-style-simple callout-none no-icon callout-titled" title="Example">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Example
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>A test for intermittent porphyria</p>
+<ul>
+<li>Sensitivity: 82%</li>
+<li>Specificity: 96.3%</li>
+</ul>
+<p><span class="math display">\[
+\textrm{+LR} = \frac{Sensitivity}{1 - Specificity} = \frac{0.82}{1-0.963} = 22.2
+\]</span></p>
+<p>Since the +LR is “22.2”, this indicates that a person with the condition is 22.2x more likely to test positive than someone without the disease<span class="citation" data-cites="motulskyIntuitiveBiostatisticsNonmathematical2018"><sup><a href="#ref-motulskyIntuitiveBiostatisticsNonmathematical2018" role="doc-biblioref">1</a></sup></span>.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="likelihood-ratio-vs-sensitivity" class="level1">
+<h1>Likelihood ratio vs Sensitivity</h1>
+<p>The likelihood ratio is defined as the probability of obtaining a positive test result in a patient with the disease divided by the probability of obtaining a positive test result in a patient without the disease<span class="citation" data-cites="motulskyIntuitiveBiostatisticsNonmathematical2018"><sup><a href="#ref-motulskyIntuitiveBiostatisticsNonmathematical2018" role="doc-biblioref">1</a></sup></span>.</p>
+<p>Sensitivity is the probability of obtaining a positive test result in a patient with the disease<span class="citation" data-cites="motulskyIntuitiveBiostatisticsNonmathematical2018"><sup><a href="#ref-motulskyIntuitiveBiostatisticsNonmathematical2018" role="doc-biblioref">1</a></sup></span>.</p>
 
 
 
 </section>
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
-<div id="ref-monaghanFoundationalStatisticalPrinciples2021" class="csl-entry" role="listitem">
-<div class="csl-left-margin">1. </div><div class="csl-right-inline">Monaghan TF, Rahman SN, Agudelo CW, et al. Foundational <span>Statistical Principles</span> in <span>Medical Research</span>: <span>Sensitivity</span>, <span>Specificity</span>, <span>Positive Predictive Value</span>, and <span>Negative Predictive Value</span>. <em>Medicina (Kaunas, Lithuania)</em>. 2021;57(5):503. doi:<a href="https://doi.org/10.3390/medicina57050503">10.3390/medicina57050503</a></div>
+<div id="ref-motulskyIntuitiveBiostatisticsNonmathematical2018" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Motulsky H. <em>Intuitive Biostatistics: A Nonmathematical Guide to Statistical Thinking</em>. 4th ed. <span>Oxford University Press</span>; 2018.</div>
 </div>
 </div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

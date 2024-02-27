@@ -1480,6 +1480,11 @@ ref-parkinsons-disease:
   path: "/The Archive/Neuroscience/Neuropathology/Parkinsons Disease/parkinsons_disease.qmd"
   fog: "/The Archive/Neuroscience/Neuropathology/Parkinsons Disease/freezing_of_gait_FOG.qmd"
   hoehn-and-yahr-scale: "/The Archive/Neuroscience/Neuropathology/Parkinsons Disease/hoehn_and_yahr_scale.qmd"
+  tests:
+    UPDRS: "/The Archive/Neuroscience/Neuropathology/Parkinsons Disease/PD Tests and Measures/UPDRS_unified_parkinsons_disease_rating_scale.qmd"
+  intervention:
+    gait: "/The Archive/Neuroscience/Neuropathology/Parkinsons Disease/PD_gait.qmd"
+    motor-disease-severity: "/The Archive/Neuroscience/Neuropathology/Parkinsons Disease/PD_motor_disease_severity.qmd"
 ### Spinal Cord Injury
 ref-spinal-cord-injury:
   path: "/The Archive/Neuroscience/Neuropathology/SCI/spinal_cord_injury.qmd"

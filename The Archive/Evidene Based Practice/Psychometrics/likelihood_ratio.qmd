@@ -1,5 +1,5 @@
 ---
-title: Positive Likelihood ratio
+title: Likelihood ratio
 ---
 
 The likelihood ratio is defined as the probability of obtaining a positive test result in a patient with the disease divided by the probability of obtaining a positive test result in a patient without the disease @motulskyIntuitiveBiostatisticsNonmathematical2018.

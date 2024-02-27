@@ -77,7 +77,7 @@ For example, standardized effect size allows a researcher to compare a pain scal
 
 When comparing these two experiments, we can visually see that Experiment A has a much larger effect size.
 
-
+<!--
 # Eta Squared ($\eta^2$)
 
 Eta squared measures the proportion of variance that a given variable accounts for out of the total variance in an ANOVA model. It is calculated as:
@@ -125,3 +125,4 @@ Interpretation
 |0.01 | Small effect size |
 |0.06 | Medium effect size |
 | 0.14 or higher | Large effect size |
+-->

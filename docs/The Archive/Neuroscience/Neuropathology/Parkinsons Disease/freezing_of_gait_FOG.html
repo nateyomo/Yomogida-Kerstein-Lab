@@ -20,7 +20,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -30,6 +49,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../../../">
+<link href="../../../..//images/icons8-brain-64.png" rel="icon" type="image/png">
 <script src="../../../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../../../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -116,7 +136,19 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Contents</h2>
+   
+  <ul>
+  <li><a href="#examination" id="toc-examination" class="nav-link active" data-scroll-target="#examination">Examination</a>
+  <ul class="collapse">
+  <li><a href="#subjective" id="toc-subjective" class="nav-link" data-scroll-target="#subjective">Subjective</a></li>
+  <li><a href="#tm" id="toc-tm" class="nav-link" data-scroll-target="#tm">T&amp;M</a></li>
+  <li><a href="#paired-assessments" id="toc-paired-assessments" class="nav-link" data-scroll-target="#paired-assessments">Paired assessments</a></li>
+  </ul></li>
+  <li><a href="#interventions" id="toc-interventions" class="nav-link" data-scroll-target="#interventions">Interventions</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -145,10 +177,59 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<section id="examination" class="level1">
+<h1>Examination</h1>
+<section id="subjective" class="level2">
+<h2 class="anchored" data-anchor-id="subjective">Subjective</h2>
+<ul>
+<li>Do you experience FOG</li>
+<li>How often</li>
+<li>How long does a FOG last</li>
+<li>What are the triggers?</li>
+</ul>
+</section>
+<section id="tm" class="level2">
+<h2 class="anchored" data-anchor-id="tm">T&amp;M</h2>
+<ul>
+<li>FOG-Q</li>
+</ul>
+</section>
+<section id="paired-assessments" class="level2">
+<h2 class="anchored" data-anchor-id="paired-assessments">Paired assessments</h2>
+<p>Patients who experience freezing of gait, you <strong>should</strong> include a cognitive exam or ensure someone else has conducted one.</p>
+<ul>
+<li>Mocha</li>
+</ul>
+</section>
+</section>
+<section id="interventions" class="level1">
+<h1>Interventions</h1>
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<section id="external-cueing" class="level3 quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<h3 class="anchored" data-anchor-id="external-cueing">External Cueing</h3>
+<ul>
+<li>When a subgroup of freezers was analyzed, there was a significant reduction in freezing severity (FOG-Q140 scores) with cueing compared with a no-cueing condition<span class="citation" data-cites="osbornePhysicalTherapistManagement2022"><sup><a href="#ref-osbornePhysicalTherapistManagement2022" role="doc-biblioref">1</a></sup></span></li>
+</ul>
+</section>
+<section id="gait-training" class="level3 quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<h3 class="anchored" data-anchor-id="gait-training">Gait Training</h3>
+<ul>
+<li>Greater improvement in FOG was shown with treadmill training plus visual and auditory cues compared with overground gait training with visual and auditory cues<span class="citation" data-cites="osbornePhysicalTherapistManagement2022"><sup><a href="#ref-osbornePhysicalTherapistManagement2022" role="doc-biblioref">1</a></sup></span></li>
+</ul>
+</section>
+</div>
+</div>
 
 
 
-</main> <!-- /main -->
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-osbornePhysicalTherapistManagement2022" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Osborne JA, Botkin R, Colon-Semenza C, et al. Physical <span>Therapist Management</span> of <span>Parkinson Disease</span>: <span>A Clinical Practice Guideline From</span> the <span>American Physical Therapy Association</span>. <em>Physical Therapy</em>. 2022;102(4):pzab302. doi:<a href="https://doi.org/10.1093/ptj/pzab302">10.1093/ptj/pzab302</a></div>
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
