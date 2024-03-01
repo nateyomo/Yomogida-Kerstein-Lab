@@ -1,0 +1,88 @@
+---
+title: Sever's Disease (Calcaneal Apophysitis)
+---
+
+Sever disease (calcaneal apophysitis) is a cause of heel pain in adolescents (8-15) with immature skeletons resulting from repetitive microtrauma due to overuse @smithSeverDiseaseCalcaneal2024.
+
+
+
+# Etiology
+
+The microtrauma of Sever's Disease can be caused by repetitive strain and microtrauma of the strong Achilles tendon on the relatively soft calcaneal apophysis @smithSeverDiseaseCalcaneal2024. 
+
+### Increased Achilles Tendon Tension
+
+A shortened triceps surae directly correlates to the irritation of the apophysis @smithSeverDiseaseCalcaneal2024.
+
+### Factors Impacting Severity
+
+- High BMI @smithSeverDiseaseCalcaneal2024
+- Limited ankle range of motion @smithBiochemistryOrganicChemistry2020
+- Activity
+    - Increased/excessive sports activity @smithSeverDiseaseCalcaneal2024
+    - Running on hard surfaces
+- Shoewear
+    - Poorly cushioned or worn-out athletic shoes @smithSeverDiseaseCalcaneal2024
+    - Cleated athletic shoes
+- Biomechanics
+    - Genu varum @smithSeverDiseaseCalcaneal2024 
+    - Forefoot varus @smithSeverDiseaseCalcaneal2024 
+    - Overpronation @smithSeverDiseaseCalcaneal2024 
+    - Pes cavus @smithSeverDiseaseCalcaneal2024 
+    - Pes planus @smithSeverDiseaseCalcaneal2024 
+
+
+
+Sever disease is not generally associated with traumatic events; however, in rare cases, trauma may lead to a complete avulsion fracture.[10]
+'
+
+# Epidemiology
+
+- Sever's Disease is one of the leading causes of heel pain in adolescents @smithSeverDiseaseCalcaneal2024.
+- Sever disease contributes to 2% to 16% of all musculoskeletal complaints in children @smithSeverDiseaseCalcaneal2024
+
+:::{layout-ncol="3"}
+### Sports
+
+The most prevalent sports associated with this condition involve repetitive running and jumping
+
+- Basketball @smithSeverDiseaseCalcaneal2024 
+- Soccer @smithSeverDiseaseCalcaneal2024 
+- Track @smithSeverDiseaseCalcaneal2024 
+- Cross-country @smithSeverDiseaseCalcaneal2024 
+- Gymnastics  @smithSeverDiseaseCalcaneal2024 
+
+### Age
+Sever's Disease primarily occurs during the rapid growth phase from ages 8-15 years old @smithSeverDiseaseCalcaneal2024.
+
+### Gender
+
+
+- Males are more likely to develop this condition (2-3:1) @smithSeverDiseaseCalcaneal2024.
+
+
+### Onset
+
+- The typical age of onset is around 12 for males and 11 for females.
+
+:::
+
+# Pathophysiology
+
+The posterior calcaneus develops as a secondary ossification center that provides the attachment point for the Achilles tendon. During the early adolescent growth spurt, bone growth exceeds the ability of the muscle-tendon unit to stretch sufficiently to maintain previous flexibility. 
+
+Consequently, increased tension is exerted across the unossified or incompletely ossified apophysis. The apophysis represents the most vulnerable point in the muscle-tendon-bone attachment, unlike the tendon in an adult. Therefore, the apophysis is susceptible to overuse injuries resulting from repetitive stress.
+
+Repetitive and excessive traction exerted by the strong Achilles tendon leads to microtrauma and chronic irritation, resulting in thickening and pain at the apophysis.[12] Thus, the leading theory that attempts to explain the mechanism behind Sever disease relies on the ongoing shear stress and repetitive impact on the open calcaneal apophysis. A study aiming to quantify this mechanism reveals that peak plantar pressure reaches 880 kPa in patients with Sever disease compared to 88 kPa in healthy controls during walking.[10] Intuitively, the peak plantar pressure would further exacerbate during running and jumping, explaining the pain experienced by patients with Sever disease.   
+
+
+
+
+# Presentation
+
+## Unilateral vs Bilateral
+
+Up to 60% of patients experience pain in both feet
+
+
+

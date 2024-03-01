@@ -20,7 +20,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -30,6 +49,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../../../">
+<link href="../../../..//images/icons8-brain-64.png" rel="icon" type="image/png">
 <script src="../../../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../../../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -120,10 +140,15 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Contents</h2>
    
   <ul>
-  <li><a href="#effect-of-time" id="toc-effect-of-time" class="nav-link active" data-scroll-target="#effect-of-time">Effect of Time</a></li>
+  <li><a href="#simple-effects-vs-main-effects" id="toc-simple-effects-vs-main-effects" class="nav-link active" data-scroll-target="#simple-effects-vs-main-effects">Simple Effects vs Main Effects</a></li>
+  <li><a href="#effect-of-time" id="toc-effect-of-time" class="nav-link" data-scroll-target="#effect-of-time">Effect of Time</a></li>
   <li><a href="#effect-of-group" id="toc-effect-of-group" class="nav-link" data-scroll-target="#effect-of-group">Effect of Group</a></li>
-  <li><a href="#interaction-group-x-time" id="toc-interaction-group-x-time" class="nav-link" data-scroll-target="#interaction-group-x-time">Interaction (Group x Time)</a></li>
+  <li><a href="#interaction-effect-group-x-time" id="toc-interaction-effect-group-x-time" class="nav-link" data-scroll-target="#interaction-effect-group-x-time">Interaction Effect (Group x Time)</a></li>
   <li><a href="#interpretation" id="toc-interpretation" class="nav-link" data-scroll-target="#interpretation">Interpretation</a></li>
+  <li><a href="#common-mistakes" id="toc-common-mistakes" class="nav-link" data-scroll-target="#common-mistakes">Common Mistakes</a>
+  <ul class="collapse">
+  <li><a href="#oversimplification" id="toc-oversimplification" class="nav-link" data-scroll-target="#oversimplification">Oversimplification</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -155,6 +180,14 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/OE46w0RqmQA" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<section id="simple-effects-vs-main-effects" class="level1">
+<h1>Simple Effects vs Main Effects</h1>
+<p>A comparison of differences between means are termed “simple effects.”<span class="citation" data-cites="rosnowDefinitionInterpretationInteraction1989"><sup><a href="#ref-rosnowDefinitionInterpretationInteraction1989" role="doc-biblioref">1</a></sup></span></p>
+<ul>
+<li>Simple effects are only partially of interaction effects<span class="citation" data-cites="rosnowDefinitionInterpretationInteraction1989"><sup><a href="#ref-rosnowDefinitionInterpretationInteraction1989" role="doc-biblioref">1</a></sup></span></li>
+<li>Main effects may contribute to simple effects even more than interactions do<span class="citation" data-cites="rosnowDefinitionInterpretationInteraction1989"><sup><a href="#ref-rosnowDefinitionInterpretationInteraction1989" role="doc-biblioref">1</a></sup></span></li>
+</ul>
+</section>
 <section id="effect-of-time" class="level1">
 <h1>Effect of Time</h1>
 <p>The Main Effect for Time is represented by the slope of the lines. Flat lines mean no differences over time and no statistically significant effects. Sloped lines mean there may be a statistically significant main effect for time, or change over time. Think about the overall main effect for time as a test of whether the line that would represent the overall means for each time point is a flat or sloped line.</p>
@@ -164,8 +197,9 @@ ul.task-list li input[type="checkbox"] {
 <h1>Effect of Group</h1>
 <p>A significant main effect of group means that there are significant differences between your groups. You then interpret the means of each group. If your group has more than two levels, you do post hoc testing.</p>
 </section>
-<section id="interaction-group-x-time" class="level1">
-<h1>Interaction (Group x Time)</h1>
+<section id="interaction-effect-group-x-time" class="level1">
+<h1>Interaction Effect (Group x Time)</h1>
+<p>Interaction effects in a factorial experimental design are observed if the impact of one factor changes based on the levels of another factor<span class="citation" data-cites="garofaloInteractionEffectAre2022"><sup><a href="#ref-garofaloInteractionEffectAre2022" role="doc-biblioref">2</a></sup></span>.</p>
 <p>is represented on the graph by the parallelism of the lines. If the lines are parallel, there is not a statistically significant interaction effect. If the lines are not parallel, then there may be a statistically significant interaction effect. This means that the groups were changing at different rates and the overall average line may not represent the real patterns in the data.</p>
 <p>Group x time compares the difference between repeated measures of group 1 with the repeated measures of group 2.</p>
 <p>A significant interaction effect means that there are significant differences between your groups and over time. In other words, the change in scores over time is different depending on group membership. If you have a significant interaction, you will want to examine means, a line-plot, or use post hoc testing to determine the exact nature of the interaction.</p>
@@ -176,11 +210,29 @@ ul.task-list li input[type="checkbox"] {
 <ul>
 <li></li>
 </ul>
+</section>
+<section id="common-mistakes" class="level1">
+<h1>Common Mistakes</h1>
+<p>A frequent mistake when using this approach, isthe tendency to read interaction effects even where there are none<span class="citation" data-cites="garofaloInteractionEffectAre2022"><sup><a href="#ref-garofaloInteractionEffectAre2022" role="doc-biblioref">2</a></sup></span>.</p>
+<p>For example, a difference between fearful and neutral stimuli in the control group and the absence of such difference in the lesion group tends to be interpreted as evidence for a difference between the two groups [12]. Critically, this kind of conclusion is often reported even in absence of a statistically significant interaction or a direct comparison between the effect sizes of the contrasts between the two groups [12]. This erroneous interpretation can be found both in null hypothesis significance testing (NHST) and Bayesian perspective</p>
+<section id="oversimplification" class="level2">
+<h2 class="anchored" data-anchor-id="oversimplification">Oversimplification</h2>
+<p>Oversimplification of the interaction effect based on the comparison between all factorial sub-groups/sub-conditions on a two-by-two basis (i.e., pairwise comparisons) is a common mistake<span class="citation" data-cites="garofaloInteractionEffectAre2022"><sup><a href="#ref-garofaloInteractionEffectAre2022" role="doc-biblioref">2</a></sup></span>.</p>
+<p>This approach seems easier than looking at the “big picture” of the interaction, it can result in methodological and statistical pitfalls that actually complicate or mislead the interpretation of the results<span class="citation" data-cites="garofaloInteractionEffectAre2022"><sup><a href="#ref-garofaloInteractionEffectAre2022" role="doc-biblioref">2</a></sup></span>.</p>
+
 
 
 </section>
+</section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-rosnowDefinitionInterpretationInteraction1989" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Rosnow RL, Rosenthal R. Definition and interpretation of interaction effects. <em>Psychological Bulletin</em>. 1989;105(1):143-146. doi:<a href="https://doi.org/10.1037/0033-2909.105.1.143">10.1037/0033-2909.105.1.143</a></div>
+</div>
+<div id="ref-garofaloInteractionEffectAre2022" class="csl-entry" role="listitem">
+<div class="csl-left-margin">2. </div><div class="csl-right-inline">Garofalo S, Giovagnoli S, Orsoni M, Starita F, Benassi M. Interaction effect: <span>Are</span> you doing the right thing? <em>PloS One</em>. 2022;17(7):e0271668. doi:<a href="https://doi.org/10.1371/journal.pone.0271668">10.1371/journal.pone.0271668</a></div>
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

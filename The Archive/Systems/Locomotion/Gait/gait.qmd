@@ -26,6 +26,28 @@ title: Gait
 # Gait Analysis
 
 
+# Subcomponents of Gait
+
+see: [ANPT's Biomechanical Subcomponents of Gait](https://www.neuropt.org/docs/default-source/cpgs/locomotor/biomechanical-subcomponents-explained---rg-2022.pdf?sfvrsn=8f535d43_0)
+
+# Role of the Pelvis
+
+| | Phase Segment | Motion of the Pelvis|
+|-|---|---|
+| Swing | Initial swing (acceleration) to midswing  | The pelvis moves into anterior elevation |
+| Swing | Terminal swing <br/> (deceleration) | The pelvis moves eccentrically into anterior depression to allow for heel strike |
+| Stance | Initial contact (heel strike) | The pelvis continues to move into anterior depression eccentrically to achieve heel strike. |
+| Stance | Loading response (foot flat) to midstance | From loading response to midstance, the pelvis moves into posterior depression to allow for weight shift and weight acceptance onto the stance limb |
+| Stance | Terminal stance (heel-off) | From midstance toward terminal stance, the pelvis continues to move into posterior depression to allow for efficient push-off; at heel-off, the pelvis moves into relative posterior elevation with combined anterior and posterior elevation as the opposite limb moves toward heel strike |
+| Stance | Preswing <br/> (toe-off) | The pelvis begins to move into anterior elevation engaging a dynamically stable core for the limb to move into swing |
+
+: Three-Dimensional Motion of the Pelvis During Swing and Stance @osullivanImprovingFunctionalOutcomes2016 {.striped .hover}
+
+|Phase|Lower Extremity Motion| Pelvic Motion |
+|-|---|---|
+|Swing | Flexion, adduction, external rotation | Anterior elevation Flexion (posterior rotation), slight adduction, and external rotation |
+| Stance | Extension, abduction, internal rotation | Posterior depression Extension (anterior rotation), slight abduction, and internal rotation |
+: Position of the Lower Extremity Relative to the Pelvis During Swing and Stance @osullivanImprovingFunctionalOutcomes2016 {.striped .hover}
 
 # Common Gait Deviations
 

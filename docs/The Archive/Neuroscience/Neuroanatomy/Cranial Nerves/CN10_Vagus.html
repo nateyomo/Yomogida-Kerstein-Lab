@@ -20,7 +20,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -30,6 +49,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../../../">
+<link href="../../../..//images/icons8-brain-64.png" rel="icon" type="image/png">
 <script src="../../../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../../../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -120,7 +140,11 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Contents</h2>
    
   <ul>
-  <li><a href="#interventions" id="toc-interventions" class="nav-link active" data-scroll-target="#interventions">Interventions</a></li>
+  <li><a href="#clinical-significance" id="toc-clinical-significance" class="nav-link active" data-scroll-target="#clinical-significance">Clinical Significance</a>
+  <ul class="collapse">
+  <li><a href="#parkinsons-disease" id="toc-parkinsons-disease" class="nav-link" data-scroll-target="#parkinsons-disease">Parkinson’s Disease</a></li>
+  </ul></li>
+  <li><a href="#interventions" id="toc-interventions" class="nav-link" data-scroll-target="#interventions">Interventions</a></li>
   </ul>
 </nav>
     </div>
@@ -151,14 +175,26 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<section id="clinical-significance" class="level1">
+<h1>Clinical Significance</h1>
+<section id="parkinsons-disease" class="level2">
+<h2 class="anchored" data-anchor-id="parkinsons-disease">Parkinson’s Disease</h2>
+<p>Furthermore, it was observed that vagal nerve sections prevented the intestine-to-brain propagation of fibrils and neurodegeneration [11]. Thus, the vagus nerve seems to serve as the conduit for α-syn propagation from the gut to the CNS<span class="citation" data-cites="montalban-rodriguezGutBrainRole2024"><sup><a href="#ref-montalban-rodriguezGutBrainRole2024" role="doc-biblioref">1</a></sup></span></p>
+</section>
+</section>
 <section id="interventions" class="level1">
 <h1>Interventions</h1>
 <p><a href="../../../../The Archive/Interventions/vagal_nerve_stimulation.html">Vagal Nerve stimulation</a> (non-invasive)</p>
 
 
+
 </section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-montalban-rodriguezGutBrainRole2024" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Montalbán-Rodríguez A, Abalo R, López-Gómez L. From the <span>Gut</span> to the <span>Brain</span>: <span>The Role</span> of <span>Enteric Glial Cells</span> and <span>Their Involvement</span> in the <span>Pathogenesis</span> of <span>Parkinson</span>’s <span>Disease</span>. <em>International Journal of Molecular Sciences</em>. 2024;25(2):1294. doi:<a href="https://doi.org/10.3390/ijms25021294">10.3390/ijms25021294</a></div>
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

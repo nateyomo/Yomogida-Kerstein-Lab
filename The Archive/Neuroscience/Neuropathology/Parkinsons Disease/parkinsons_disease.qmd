@@ -2,16 +2,38 @@
 title: Parkinson's Disease (PD)
 ---
 
+- Parkinson’s disease (PD) is the most common movement disorder @montalban-rodriguezGutBrainRole2024
+- 2nd most common neurodegenerative disease, after Alzheimer’s disease @montalban-rodriguezGutBrainRole2024
 
 # Epidemiology
 
+
+## Genetic 
+
+- Pathogenesis of DJ-1/PARK7-Mediated Parkinson's Disease @skouPathogenesisDJ1PARK7Mediated2024
+
+# Gut Brain Axis
+The relationship between the gut brain axis and pathogenesis of Parkinson's Disease was suggested in Braak’s hypothesis @montalban-rodriguezGutBrainRole2024
+
+- This hypothesis builds upon that idea that in PD, &alpha;-synclein aggregates in other areas in the body, not just the substantia nigra (the hallmark site)
+- Braak's Hypothesis places emphasis on the gastrointestinal tract @montalban-rodriguezGutBrainRole2024.
+
+:::{.callout-note title="Animal studies"}
+Researchers have found a bidirectional spread of α-syn from the duodenum to the brainstem and the stomach after injecting α-syn in rats @montalban-rodriguezGutBrainRole2024
+:::
+
 # Etiology
+
+- Most cases of PD are likely the result of a combination of environmental and genetic factors @montalban-rodriguezGutBrainRole2024
+
 
 - Primary PD (idiopathic)
 - Secondary PD
 - Parkinson-Plus
 
 ## Primary Parkinsonism (Idiopathic)
+
+
 
 
 ## Secondary Parkinsonism
@@ -120,7 +142,35 @@ Indirect Loop @osullivanPhysicalRehabilitation2019
 
 # Clinical Presentation
 
-## Symptoms
+# Onset
+
+- It is currently believed that PD begins many years before motor symptoms become clinically relevant, but the non-motor symptoms may appear around onset @montalban-rodriguezGutBrainRole2024
+
+
+# Symptoms
+
+Symptons can be divided into "motor" and "non-motor" symptoms.
+
+:::{layout-ncol="2"}
+
+## Hallmark Motor Symptoms
+
+- Bradykinesia @montalban-rodriguezGutBrainRole2024
+- Gait disturbances @montalban-rodriguezGutBrainRole2024
+- Tremors @montalban-rodriguezGutBrainRole2024
+- Rigidity @montalban-rodriguezGutBrainRole2024
+- Speech deficits @montalban-rodriguezGutBrainRole2024
+
+## Non-Motor Symptoms
+
+- Depression @montalban-rodriguezGutBrainRole2024
+- Hyposmia (reduced sense of smell) @montalban-rodriguezGutBrainRole2024
+- Cognitive impairment @montalban-rodriguezGutBrainRole2024
+- Sleep disorders @montalban-rodriguezGutBrainRole2024
+- Constipation @montalban-rodriguezGutBrainRole2024
+
+:::
+
 
 - Freezing of gait (FOG)
 

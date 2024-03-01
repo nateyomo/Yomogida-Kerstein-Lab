@@ -4,9 +4,14 @@ ref-jc-cryotherapy-contusion:
 ref-jc-2-post-exercise-cold-immersion:
   path: "/Journal club/jc2_post-exercise_cold_immersion.qmd"
 
+# Index
+ref-index:
+  path: "/"
+  muscle: "/The Archive/Index/muscle_index.qmd"
 
 # Anatomy
-
+ref-anatomy-index:
+  path: "/The Archive/Anatomy/anatomy_index.qmd"
 ## Arteries 
 ref-basilar-artery:
   path: "/The Archive/Anatomy/Arteries/basilar_artery.qmd"
@@ -82,6 +87,14 @@ ref-temporal-bone:
 ref-vomer-bone:
   path: "/The Archive/Anatomy/Bones/Bones of the Skull/vomer_bone.qmd"
 
+### LE Bones
+
+ref-calcaneus-bone:
+  path: "/The Archive/Anatomy/Bones/Lower Extremity Bones/calcaneus_bone.qmd"
+  apophysis: "/The Archive/Anatomy/Bones/Lower Extremity Bones/calcaneus_bone.qmd#apophysis"
+  pathology: "/"
+  osteomyelitis: "/The Archive/Pathologies/Bone pathologies/Calcaneus/calcaneal_osteomyelitis.qmd"
+  apophysitis: "/"
 
 ## Cartilage
 ref-costal-cartilages:
@@ -135,7 +148,7 @@ ref-rectus-capitis-posterior-major:
   origin: "C2 (SP)"
   insertion: "[Occipital bone (inferior nuchal line, middle third)]({{< var ref-occipital-bone.path >}})"
   nerve: "[Suboccipital N.]({{< var ref-suboccipital-nerve.path >}})"
-  action: "**BIL**: [Extend head]({{< var ref-head-osteokinematics.path >}}); **UNIL**: [I/L head rotation]({{< var ref-head-osteokinematics.path >}})"
+  action: "**BIL**: [Extend head]({{< var ref-head-osteokinematics.path >}}) <br/> **UNIL**: [I/L head rotation]({{< var ref-head-osteokinematics.path >}})"
 ref-rectus-capitis-posterior-minor: 
   path: /The Archive/Anatomy/OIANs/Muscles of the back/rectus_capitis_posterior_minor.qmd
   origin: "C1 (posterior tubercle)"
@@ -147,13 +160,13 @@ ref-obliquus-capitis-superior:
   origin: "C1 (TP)"
   insertion: "[Occipital bone (inferior nuchal line, middle third)]({{< var ref-occipital-bone.path >}})"
   nerve: "[Suboccipital N.]({{< var ref-suboccipital-nerve.path >}})"
-  action: "**BIL**: [Extend head]({{< var ref-head-osteokinematics.path >}}); **UNIL**: [I/L SB]({{< var ref-neck-osteokinematics.path >}}), [C/L rotation]({{< var ref-neck-osteokinematics.path >}})"
+  action: "**BIL**: [Extend head]({{< var ref-head-osteokinematics.path >}}); <br/> **UNIL**: [I/L SB]({{< var ref-neck-osteokinematics.path >}}), [C/L rotation]({{< var ref-neck-osteokinematics.path >}})"
 ref-obliquus-capitis-inferior: 
   path: /The Archive/Anatomy/OIANs/Muscles of the back/obliquus_capitis_inferior.qmd
   origin: "C2 (SP)"
   insertion: "C1 TP"
   nerve: "[Suboccipital N.]({{< var ref-suboccipital-nerve.path >}})"
-  action: "**BIL**: [Extend head]({{< var ref-head-osteokinematics.path >}});
+  action: "**BIL**: [Extend head]({{< var ref-head-osteokinematics.path >}}); <br/>
  **UNIL**: [I/L rotation]({{< var ref-neck-osteokinematics.path >}})"
 
 ref-longus-capitis: 
@@ -164,22 +177,22 @@ ref-longus-capitis:
   action: "**BIL** flexes head; **UNIL** flexes and slight I/L rotation "
 ref-longus-colli-cervicis: 
   path: /The Archive/Anatomy/OIANs/Muscles of the back/longus_colli_cervicis.qmd
-  origin: "**Vertical part:** C5-T3 (ant side of vertebral body);\ **Sup-oblique** C3-C5 (TP, Ant tubercle) \ **Inf-Oblique:** T1-T3 (ant side of vertebral body)"
-  insertion: "**Vertical part:** C2-C4 (ant sides of vertebral bodies);\ **Sup-oblique** C1 (TP, ant tubercle) \ **Inf-Oblique:** C5-C6 (TP, Ant tubercles)"
+  origin: "**Vertical part:** C5-T3 (ant side of vertebral body); <br/> **Sup-oblique** C3-C5 (TP, Ant tubercle) <br/> **Inf-Oblique:** T1-T3 (ant side of vertebral body)"
+  insertion: "**Vertical part:** C2-C4 (ant sides of vertebral bodies); <br/> **Sup-oblique** C1 (TP, ant tubercle) <br/> **Inf-Oblique:** C5-C6 (TP, Ant tubercles)"
   nerve: "Direct branches from cervical plexus (C2-C6)"
-  action: "**BIL**: Flex AO Joint; **UNIL**: Lat flex at AO joint"
+  action: "**BIL**: Flex AO Joint; <br/> **UNIL**: Lat flex at AO joint"
 ref-rectus-capitis-anterior: 
   path: /The Archive/Anatomy/OIANs/Muscles of the back/rectus_capitis_anterior.qmd
   origin: "C1 (lateral mass)"
   insertion: "Occipital bone (basilar part)"
   nerve: "C1 Ant ramus"
-  action: "**BIL**: flex AO Joint; **UNIL**: Lateral Flexion of AO joint"
+  action: "**BIL**: flex AO Joint; <br/> **UNIL**: Lateral Flexion of AO joint"
 ref-rectus-capitis-lateralis: 
   path: /The Archive/Anatomy/OIANs/Muscles of the back/rectus_capitis_lateralis.qmd
   origin: "C1 (TP)"
   insertion: "Occipital bone (basilar part, lateral to occipital condyles)"
   nerve: "C1 Anterior Ramus"
-  action: "**BIL**: flex AO Joint; **UNIL**: Lateral Flexion of AO joint"
+  action: "**BIL**: flex AO Joint; <br/> **UNIL**: Lateral Flexion of AO joint"
 
 ref-serratus-posterior-superior: 
   path: /The Archive/Anatomy/OIANs/Muscles of the back/serratus_posterior_superior.qmd
@@ -195,106 +208,106 @@ ref-serratus-posterior-inferior:
   action: "Depresses ribs"
 ref-splenius-capitis: 
   path: /The Archive/Anatomy/OIANs/Muscles of the back/splenius_capitis.qmd
-  origin: "[Nuchal ligament]({{< var ref-nuchal-ligament.path >}}), C7-T3/T4 SP"
-  insertion: "Lateral 1/3 nuchal line (occipital bone), Mastoid process (temporal bone)"
+  origin: "[Nuchal ligament]({{< var ref-nuchal-ligament.path >}}) <br/> C7-T3/T4 SP"
+  insertion: "Lateral 1/3 nuchal line (occipital bone), <br/> Mastoid process (temporal bone)"
   nerve: "[spinal nn.]({{< var ref-spinal-nerves.path >}}) C1-C6 (Post rami, lateral branches)"
-  action: "**BIL:** Extends C/S and head; **UNIL:** I/L head SB and Rotation "
+  action: "**BIL:** Extends C/S and head; <br/> **UNIL:** I/L head SB and Rotation "
 ref-splenius-cervicis: 
   path: /The Archive/Anatomy/OIANs/Muscles of the back/splenius_cervicis.qmd
   origin: "T3-T6/T7 (SP)"
   insertion: "C1–C3/4 (TP)"
   nerve: "[Spinal nn. C1-C6]({{< var ref-spinal-nerves.path >}}) (Post rami, lateral branches)"
-  action: "**BIL:** [Extends C/S and head]({{< var ref-neck-osteokinematics.path >}}); **UNIL:** [I/L head SB and Rotation]({{< var ref-head-osteokinematics.path >}})"
+  action: "**BIL:** [Extends C/S and head]({{< var ref-neck-osteokinematics.path >}}); <br/> **UNIL:** [I/L head SB and Rotation]({{< var ref-head-osteokinematics.path >}})"
 
 ref-iliocostalis-cervicis:
   path: /The Archive/Anatomy/OIANs/Muscles of the back/iliocostalis.qmd
   origin: "3rd-7th ribs "
   insertion: "C4-C6 TP"
   nerve: "[Spinal nn. ]({{< var ref-spinal-nerves.path >}}) C8-L1 (Post rami, lateral branches)"
-  action: "**BIL:** Extends spine; **UNIL:** I/L spine lat-flexion"
+  action: "**BIL:** Extends spine; <br/> **UNIL:** I/L spine lat-flexion"
 ref-iliocostalis-thoracis:
   path: /The Archive/Anatomy/OIANs/Muscles of the back/iliocostalis.qmd
   origin: "7-12th ribs"
   insertion: "1st-6th ribs"
   nerve: "[Spinal nn.]({{< var ref-spinal-nerves.path >}}) C8-L1 (Post rami, lateral branches)"
-  action: "**BIL:** Extends spine; **UNIL:** I/L spine lat-flexion"
+  action: "**BIL:** Extends spine; <br/> **UNIL:** I/L spine lat-flexion"
 ref-iliocostalis-lumborum:
   path: /The Archive/Anatomy/OIANs/Muscles of the back/iliocostalis.qmd
-  origin: "Sacrum, iliac crest, lumbar vertebrae SP; lower thoracic vertebrae TP"
-  insertion: "6-12th ribs, thoracolumbar fascia (posterior layer), upper lumbar vertebrae (TP)"
+  origin: "Sacrum, <br/> iliac crest, <br/> lumbar vertebrae SP; <br/> lower thoracic vertebrae TP"
+  insertion: "6-12th ribs, <br/> thoracolumbar fascia (posterior layer), <br/> upper lumbar vertebrae (TP)"
   nerve: "[Spinal nn. ]({{< var ref-spinal-nerves.path >}}) C8-L1 (Post rami, lateral branches)"
-  action: "**BIL:** Extends spine; **UNIL:** I/L spine lat-flexion"
+  action: "**BIL:** Extends spine; <br/> **UNIL:** I/L spine lat-flexion"
 
 ref-longissimus-capitis:
   path: "/The Archive/Anatomy/OIANs/Muscles of the back/longissimus.qmd"
-  origin: "T1-T3 (TP), C4-C7 (TP & articular process)"
+  origin: "T1-T3 (TP), <br/> C4-C7 (TP & articular process)"
   insertion: "Temporal bone (Mastoid process)"
   nerve: "[Spinal nn. ]({{< var ref-spinal-nerves.path >}}) C1-L5 (Post rami, lateral branches)"
-  action: "**BIL**: Extends head; **UNIL**: Flexes and I/L rotation"
+  action: "**BIL**: Extends head; <br/> **UNIL**: Flexes and I/L rotation"
 ref-longissimus-cervicis:
   path: "/The Archive/Anatomy/OIANs/Muscles of the back/longissimus.qmd"
   origin: "T1-T6 (TP)"
   insertion: "C2-C5 (TP)"
   nerve: "[Spinal nn. ]({{< var ref-spinal-nerves.path >}}) C1-L5 (Post rami, lateral branches)"
-  action: "**BIL**: Extends spine; **UNIL**: I/L SB"
+  action: "**BIL**: Extends spine; <br/> **UNIL**: I/L SB"
 ref-longissimus-thoracis:
   path: "/The Archive/Anatomy/OIANs/Muscles of the back/longissimus.qmd"
-  origin: "Sacrum; Iliac crest; Lumbar vertebrae (SP); Lower thoracic vertebrae (TP)"
-  insertion: "2nd-12th ribs; Thoracic & Lumbar vertebrae (TP)"
+  origin: "Sacrum; Iliac crest; <br/> Lumbar vertebrae (SP); <br/> Lower thoracic vertebrae (TP)"
+  insertion: "2nd-12th ribs; <br/> Thoracic & Lumbar vertebrae (TP)"
   nerve: "[Spinal nn. ]({{< var ref-spinal-nerves.path >}}) C1-L5 (Post rami, lateral branches)"
-  action: "**BIL**: Extends spine; **UNIL**: I/L SB"
+  action: "**BIL**: Extends spine; <br/> **UNIL**: I/L SB"
 
 ref-spinalis-cervicis:
   path: "/The Archive/Anatomy/OIANs/Muscles of the back/spinalis.qmd"
   origin: "C5-T2 (SP)"
   insertion: "C2-C5 (SP)"
   nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
-  action: "**BIL**: Extends C/S and T/S; **UNIL**: I/L SB cervical and thoracic spine"
+  action: "**BIL**: Extends C/S and T/S; <br/> **UNIL**: I/L SB cervical and thoracic spine"
 ref-spinalis-thoracis:
   path: "/The Archive/Anatomy/OIANs/Muscles of the back/spinalis.qmd"
   origin: "T10-L3 (SP, lat surface)"
   insertion: "T2-T8 (SP, lat surface)"
   nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
-  action: "**BIL**: Extends C/S and T/S; **UNIL**: I/L SB cervical and thoracic spine"
+  action: "**BIL**: Extends C/S and T/S; <br/> **UNIL**: I/L SB cervical and thoracic spine"
 
 ref-rotatores-breves:
   path: "/The Archive/Anatomy/OIANs/Muscles of the back/rotatores.qmd"
   origin: "T1-T12 TP of lower vertebrae"
   insertion: "T1-T12: SP of adjacent vertebrae"
   nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
-  action: "**BIL**: Extends T/S; **UNIL**: C/L Rotation of T/S"
+  action: "**BIL**: Extends T/S; <br/> **UNIL**: C/L Rotation of T/S"
 ref-rotatores-longi:
   path: "/The Archive/Anatomy/OIANs/Muscles of the back/rotatores.qmd"
   origin: "T1-T12 TP of lower vertebrae"
   insertion: "T1-T12: SP of vertebrae 2 above (it skips a vertebrae)"
   nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
-  action: "**BIL**: Extends T/S; **UNIL**: C/L Rotation of T/S"
+  action: "**BIL**: Extends T/S; <br/> **UNIL**: C/L Rotation of T/S"
 
 ref-multifidi:
   path: "/The Archive/Anatomy/OIANs/Muscles of the back/multifidus.qmd"
   origin: "Sacrum, ilium, mamillary process of L1-L5, T1-T4 (TP and Articular process), C4-C7"
   insertion: "Superomedially to SP (skipping 2-4 vertebrae)"
   nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
-  action: "**BIL**: Extends extends spine; **UNIL**: I/L SB and C/L Rotation"
+  action: "**BIL**: Extends extends spine; <br/> **UNIL**: I/L SB and C/L Rotation"
 
 ref-semispinalis-capitis:
   path: "/The Archive/Anatomy/OIANs/Muscles of the back/semispinalis.qmd"
   origin: "C4-T7 (TP and Articular process)"
   insertion: "Occipital bone (between superior and inferior nuchal lines)"
   nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
-  action: "**BIL**: Extends thoracic and cervical spines and head (stabilizes craniovertebral jt); **UNIL**: I/L SB of head, cervical, and thoracic spine; C/L Rotation"
+  action: "**BIL**: Extends thoracic and cervical spines and head (stabilizes craniovertebral jt); <br/> **UNIL**: I/L SB of head, cervical, and thoracic spine; C/L Rotation"
 ref-semispinalis-cervicis:
   path: "/The Archive/Anatomy/OIANs/Muscles of the back/semispinalis.qmd"
   origin: "T1-T6 (TP)"
   insertion: "C2-C5 (SP)"
   nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
-  action: "**BIL**: Extends thoracic and cervical spines and head (stabilizes craniovertebral jt); **UNIL**: I/L SB of head, cervical, and thoracic spine; C/L Rotation"
+  action: "**BIL**: Extends thoracic and cervical spines and head (stabilizes craniovertebral jt); <br/> **UNIL**: I/L SB of head, cervical, and thoracic spine; C/L Rotation"
 ref-semispinalis-thoracis:
   path: "/The Archive/Anatomy/OIANs/Muscles of the back/semispinalis.qmd"
   origin: "T6-T12 (TP)"
   insertion: "C6-T4 (SP)"
   nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
-  action: "**BIL**: Extends thoracic and cervical spines and head (stabilizes craniovertebral jt); **UNIL**: I/L SB of head, cervical, and thoracic spine; C/L Rotation"
+  action: "**BIL**: Extends thoracic and cervical spines and head (stabilizes craniovertebral jt); <br/> **UNIL**: I/L SB of head, cervical, and thoracic spine; C/L Rotation"
 
 ref-interspinales-cervicis:
   path: "/The Archive/Anatomy/OIANs/Muscles of the back/interspinales.qmd"
@@ -307,7 +320,7 @@ ref-interspinales-lumbora:
   origin: "L1-L5: SP of inferiorly adjacent vertebrae"
   insertion: "L1-L5: SP of superiorly adjacent vertebrae"
   nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
-  action: "**BIL**: Stabilizes and extends cervical and lumbar vertebrae; **UNIL**: I/L SB cervical and lumbar spines"
+  action: "**BIL**: Stabilizes and extends cervical and lumbar vertebrae; <br/> **UNIL**: I/L SB cervical and lumbar spines"
 
 ### Extraocular muscles
 ref-extraocular-muscles:
@@ -322,16 +335,16 @@ ref-occipitofrontalis:
   origin: "Epicranial aponeurosis"
   insertion: "Skin and subcutaneous tissue of eyebrows and forehead"
   nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
-  action: "Elevates eyebrows; wrinkles skin of forehead"
+  action: "Elevates eyebrows; <br/> wrinkles skin of forehead"
 ref-procerus:
   path: "/The Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/procerus.qmd"
-  origin: "Nasal bone, Lateral nasal cartilage (upper part)"
+  origin: "Nasal bone, <br/> Lateral nasal cartilage (upper part)"
   insertion: "Skin of lower forehead between eyebrows"
   nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
   action: "Pulls medial angle of eyebrows inferiorly, producing transverse wrinkles over bridge of nose"
 ref-orbicularis-oculi:
   path: "/The Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/orbicularis_oculi.qmd"
-  origin: "Medial orbital margin, medial palpebral ligament, lacrimal bone"
+  origin: "Medial orbital margin, <br/> medial palpebral ligament, <br/> lacrimal bone"
   insertion: "Skin around margin of orbit, superior and inferior tarsal plates"
   nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
   action: "Acts as orbital sphincter (closes eyelids): Palpebral portion gently closes, orbital portion tightly closes (winking)"
@@ -346,7 +359,7 @@ ref-levator-labii-superioris-alaeque-nasi:
   origin: "Maxilla (Frontal process)"
   insertion: "Alar cartilage of nose and upper lip"
   nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
-  action: "Elevates upper lip; Opens nostril"
+  action: "Elevates upper lip; <br/> Opens nostril"
 ref-anterior-auricular-muscle:
   path: "/The Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/anterior_auricular_muscle.qmd"
   origin: "Temporal fascia (ant. portion)"
@@ -394,7 +407,7 @@ ref-levator-anguli-oris:
   origin: "Maxilla (below infraorbital foramen)"
   insertion: "Skin at corner of mouth"
   nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
-  action: "Raises angle of mouth, Helps form nasolabial furrow"
+  action: "Raises angle of mouth, <br/> Helps form nasolabial furrow"
 ref-depressor-anguli-oris:
   path: "/The Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/depressor_anguli_oris.qmd"
   origin: "Mandible (oblique line below canine, premolar, and 1st molar teeth)"
@@ -406,10 +419,10 @@ ref-buccinator:
   origin: "Mandible, Alveolar process of maxilla and mandible, Pterygomandibular raphe"
   insertion: "Angle of mouth, Orbicularis Oris"
   nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
-  action: "**BIL**: Presses cheek against molar teeth, working with tongue to keep food between occlusal surfaces and out of oral vestibule; expels air from oral cavity/resists distension when blowing; **UNIL**: Draws mouth to one side"
+  action: "**BIL**: Presses cheek against molar teeth, working with tongue to keep food between occlusal surfaces and out of oral vestibule; expels air from oral cavity/resists distension when blowing; <br/> **UNIL**: Draws mouth to one side"
 ref-orbicularis-oris:
   path: "/The Archive/Anatomy/OIANs/Head and Neck/Muscles of Facial Expression/orbicularis_oris.qmd"
-  origin: "Deep surface of skin; **Superiorly**: maxilla (median plane); **Inferiorly**: mandible"
+  origin: "Deep surface of skin; <br/> **Superiorly**: maxilla (median plane); <br/> **Inferiorly**: mandible"
   insertion: "Mucous membrane of lips"
   nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
   action: "Acts as oral sphincter: Compresses and protrudes lips (whistling, sucking, kissing); Resists distension (when blowing)"
@@ -430,58 +443,58 @@ ref-platysma:
   origin: "Skin over lower neck and upper lateral thorax"
   insertion: "[Mandible (inferior border)]({{< var ref-mandible-bone.path >}}), Skin over lower face, Angle of mouth"
   nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
-  action: "Depresses and wrinkles skin of lower face and mouth; Tenses skin of neck; Aids in forced depression of the mandible"
+  action: "Depresses and wrinkles skin of lower face and mouth; Tenses skin of neck; <br/> Aids in forced depression of the mandible"
 
 #### Muscles of Mastication
 ref-masseter:
   path: "/The Archive/Anatomy/OIANs/Head and Neck/Muscles of Mastication/masseter.qmd"
-  origin: "**SF layer**: zygomatic arch (ant 2/3); **Deep layer**: Zygomatic arch (post. 1/3)"
+  origin: "**SF layer**: zygomatic arch (ant 2/3); <br/> **Deep layer**: Zygomatic arch (post. 1/3)"
   insertion: "Mandibular angle (Masseteric tuberosity)"
   nerve: "[Trigeminal CN V: Mandibular (V~3~)]({{< var ref-cn5.path >}})"
-  action: "**Entire muscle**: Elevates mandible; **SF Fibers**: Protrude mandible"
+  action: "**Entire muscle**: Elevates mandible; <br/> **SF Fibers**: Protrude mandible"
 ref-temporalis:
   path: "/The Archive/Anatomy/OIANs/Head and Neck/Muscles of Mastication/temporalis_muscle.qmd"
   origin: "Temporal fossa (inferior temporal line)"
   insertion: "Coronoid process of mandible (apex and medial surface)"
   nerve: "[Mandibular (V~3~) divison of CN V via deep temporal nn]({{< var ref-cn5.path >}})"
-  action: "**Vertical fibers**: Elevate mandible; **Horizontal Fibers**: Retract (retrude) mandible; **Unilateral Fibers:** Lateral movement of mandible (chewing)"
+  action: "**Vertical fibers**: Elevate mandible; <br/> **Horizontal Fibers**: Retract (retrude) mandible; <br/> **Unilateral Fibers:** Lateral movement of mandible (chewing)"
 ref-lateral-pterygoid:
   path: "/The Archive/Anatomy/OIANs/Head and Neck/Muscles of Mastication/lateral_pterygoid.qmd"
-  origin: "**Superior Head:** Greater wing of sphenoid bone (infratemporal crest); **Inferior head:** Lateral surface of pterygoid plate (lat surface)"
-  insertion: "**Superior Head:** Tempormandibular joint (articular disc); **Inferior head:** Mandible (condylar process)"
+  origin: "**Superior Head:** Greater wing of sphenoid bone (infratemporal crest); <br/> **Inferior head:** Lateral surface of pterygoid plate (lat surface)"
+  insertion: "**Superior Head:** Tempormandibular joint (articular disc); <br/> **Inferior head:** Mandible (condylar process)"
   nerve: "[Mandibular (V~3~) divison of CN V via lateral pterygoid n.]({{< var ref-cn5.path >}})"
-  action: "**BIL:** Protrudes mandible (pulls articular disk forward); **UNIL:** C/L Lateral movements of mandible (chewing)"
+  action: "**BIL:** Protrudes mandible (pulls articular disk forward); <br/> **UNIL:** C/L Lateral movements of mandible (chewing)"
 ref-medial-pterygoid:
   path: "/The Archive/Anatomy/OIANs/Head and Neck/Muscles of Mastication/medial_pterygoid.qmd"
-  origin: "**SF Head:** Maxilla (tuberosity); **Deep head:** Medial surface of lateral pterygoid plate and pterygoid fossa"
+  origin: "**SF Head:** Maxilla (tuberosity); <br/> **Deep head:** Medial surface of lateral pterygoid plate and pterygoid fossa"
   insertion: "Pterygoid tuberosity on medial surface of the mandibular angle"
   nerve: "[Mandibular (V~3~) divison of CN V via medial pterygoid n.]({{< var ref-cn5.path >}})"
-  action: "**BIL:** Elevates mandible with masseter and contributes to protrusion; **UNIL:** Small grinding movements"
+  action: "**BIL:** Elevates mandible with masseter and contributes to protrusion; <br/> **UNIL:** Small grinding movements"
 
 #### Neck Muscles
 ref-sternocleidomastoid:
   path: "/The Archive/Anatomy/OIANs/Head and Neck/Neck Muscles/sternocleidomastoid_muscle.qmd"
-  origin: "**Sternal head**: [sternum (manubrium)]({{< var ref-sternum-bone.path >}}); **Clavicular head**: [Clavicle (medial 1/3)]({{< var ref-clavicle-bone.path >}})"
-  insertion: "[Temporal bone (mastoid process)]({{< var ref-temporal-bone.path >}}); [Occipital bone (superior nuchal line)]({{< var ref-occipital-bone.path >}})"
-  nerve: "[**Motor**: CN XI Accessory n.]({{< var ref-cn11.path >}}) and **Proprioception**: Cervical plexus (C2, C3, C4)"
-  action: "**Unilateral**: Tilts head to same side, rotates head to opposite side; **Bilateral**: Extends head, aids in respiration when head is fixed"
+  origin: "**Sternal head**: [sternum (manubrium)]({{< var ref-sternum-bone.path >}}); <br/> **Clavicular head**: [Clavicle (medial 1/3)]({{< var ref-clavicle-bone.path >}})"
+  insertion: "[Temporal bone (mastoid process)]({{< var ref-temporal-bone.path >}}); <br/> [Occipital bone (superior nuchal line)]({{< var ref-occipital-bone.path >}})"
+  nerve: "[**Motor**: CN XI Accessory n.]({{< var ref-cn11.path >}}) <br/> **Proprioception**: Cervical plexus (C2, C3, C4)"
+  action: "**Unilateral**: Tilts head to same side, rotates head to opposite side; <br/> **Bilateral**: Extends head, aids in respiration when head is fixed"
 ref-upper-trapezius:
   path: "/The Archive/Anatomy/OIANs/Head and Neck/Neck Muscles/trapezius_muscle.qmd"
   origin: "[Occipital bone]({{< var ref-occipital-bone.path >}}), SP of C1–C7"
   insertion: "[Clavicle (lateral one third)]({{< var ref-clavicle-bone.path >}})"
-  nerve: "[**Motor**: CN XI Accessory n.]({{< var ref-cn11.path >}}) and **Proprioception**: Cervical plexus (C2, C3, C4) "
-  action: "Draws scapula obliquely upward, rotates glenoid cavity superiorly"
+  nerve: "[**Motor**: CN XI Accessory n.]({{< var ref-cn11.path >}}) <br/> **Proprioception**: Cervical plexus (C2, C3, C4) "
+  action: "Draws scapula obliquely upward, <br/> rotates glenoid cavity superiorly"
 ref-middle-trapezius:
   path: "/The Archive/Anatomy/OIANs/Head and Neck/Neck Muscles/trapezius_muscle.qmd"
   origin: "Aponeurosis at T1–T4 SP"
   insertion: "[Acromion]({{< var ref-scapula-bone.path >}})"
-  nerve: "[**Motor**: CN XI Accessory n.]({{< var ref-cn11.path >}}) and **Proprioception**: Cervical plexus (C2, C3, C4)"
+  nerve: "[**Motor**: CN XI Accessory n.]({{< var ref-cn11.path >}}) <br/> **Proprioception**: Cervical plexus (C2, C3, C4)"
   action: "Draws scapula medially"
 ref-lower-trapezius:
   path: "/The Archive/Anatomy/OIANs/Head and Neck/Neck Muscles/trapezius_muscle.qmd"
   origin: "SP of T5–T12"
   insertion: "[Scapular Spine]({{< var ref-scapula-bone.path >}})"
-  nerve: "[**Motor**: CN XI Accessory n.]({{< var ref-cn11.path >}}) and **Proprioception**: Cervical plexus (C2, C3, C4)"
+  nerve: "[**Motor**: CN XI Accessory n.]({{< var ref-cn11.path >}}) <br/> **Proprioception**: Cervical plexus (C2, C3, C4)"
   action: "Draws scapula medially downward"
 ### Shoulder and arm muscles
 
@@ -492,7 +505,7 @@ ref-deltoid-muscle-anterior:
   origin: "Lateral 1/3 of clavicle"
   insertion: "Humerus (deltoid tuberosity)"
   nerve: "[Axillary n. {{< var ref-axillary-nerve.roots >}}]({{< var ref-axillary-nerve.path >}})"
-  action: "Flexion, internal rotation, adduction"
+  action: "**GHJ:** Flexion, internal rotation, adduction"
 ref-deltoid-muscle-lateral:
   path: "/The Archive/Anatomy/OIANs/Shoulder and Arm Muscles/deltoid_muscle.qmd"
   origin: "Acromion"
@@ -504,7 +517,7 @@ ref-deltoid-muscle-posterior:
   origin: "Scapular spine"
   insertion: "Humerus (deltoid tuberosity)"
   nerve: "[Axillary n. {{< var ref-axillary-nerve.roots >}}]({{< var ref-axillary-nerve.path >}})"
-  action: "Extension, external rotation, adduction"
+  action: "**GHJ:** Extension, external rotation, adduction"
 
 #### Rotator cuff
 ref-supraspinatus:
@@ -550,7 +563,7 @@ ref-pectoralis-minor:
   origin: "[3rd to 5th ribs]({{< var ref-ribs-bones.path >}})"
   insertion: "[Coracoid process]({{< var ref-scapula-bone.path >}})"
   nerve: "[Medial Pectoral n. (C8, T1)]({{< var ref-medial-pectoral-nerve.path >}})"
-  action: "Draws scapula downward, causing inferior angle to move posteromedially; rotates glenoid inferiorly; assists in respiration"
+  action: "Draws scapula downward, causing inferior angle to move posteromedially; <br/> rotates glenoid inferiorly; assists in respiration"
 ref-coracobrachialis:
   path: "/The Archive/Anatomy/OIANs/Shoulder and Arm Muscles/coracobrachialis_muscle.qmd"
   origin: "[Scapula (coracoid process)]({{< var ref-scapula-bone.path >}})"
@@ -763,6 +776,9 @@ ref-standing-pediatric:
 ref-cruising-pediatric:
   path: "/The Archive/Examination/Pediatric Evaluation/cruising_pediatric.qmd"
 
+ref-heel-up-sign:
+  path: "/The Archive/Examination/Pediatric Evaluation/Signs/heel-up_sign.qmd"
+
 ## Movement Analysis
 
 ### Functions
@@ -861,6 +877,10 @@ ref-interventions-index:
 ## PNF
 ref-proprioceptive-neuromuscular-facilitation:
   path: "/The Archive/Interventions/PNF/proprioceptive_neuromuscular_facilitation.qmd"
+  chop: "/The Archive/Interventions/PNF/Exercises/chop_PNF.qmd"
+  reverse-chop: "/The Archive/Interventions/PNF/Exercises/reverse_chop_PNF.qmd"
+  lift: "/The Archive/Interventions/PNF/Exercises/lift_PNF.qmd"
+  reverse-lift: "/The Archive/Interventions/PNF/Exercises/reverse_lift_PNF.qmd"
 ## Cryotherapy
 ref-icing-cryotherapy:
   path: "/The Archive/Interventions/Cryotherapy/icing_cryotherapy.qmd"
@@ -873,6 +893,11 @@ ref-cyriax-release-maneuver:
 # Microbiology
 ref-microbiology-index:
   path: "/The Archive/Microbiology/microbiology_index.qmd"
+  cell: "/The Archive/Microbiology/microbiology_index.qmd#cell"
+  chemokine: "/The Archive/Microbiology/microbiology_index.qmd#chemokine"
+  enzyme: "/The Archive/Microbiology/microbiology_index.qmd#enzyme"
+  protein: "/The Archive/Microbiology/microbiology_index.qmd#protein"
+  non-protein: "/The Archive/Microbiology/microbiology_index.qmd#non-protein"
 ## Cells
 ref-cd34:
   path: "/The Archive/Microbiology/Cells/CD34_cell.qmd"
@@ -885,7 +910,6 @@ ref-creatine-kinase:
   path: "/The Archive/Microbiology/Enzymes/Creatine Kinase/creatine_kinase.qmd"
   mb:
     path: "/The Archive/Microbiology/Enzymes/Creatine Kinase/creatine_kinase.qmd#creatine-kinase-mb"
-
 ref-superoxide-dismutases-group: 
   path: "/The Archive/Microbiology/Enzymes/superoxide_dismutases_group.qmd"
 ref-CuZnSOD-copper-zinc-superoxide-dismutase:
@@ -1101,6 +1125,7 @@ ref-graded-motor-imagery:
 ref-periostitis:
   path: "/The Archive/Pathologies/Bone pathologies/periostitis.qmd"
 
+
 ## Endocrine pathologies
 ### Pituitary system pathologies
 #### Pituitary Hypofunction
@@ -1261,6 +1286,9 @@ ref-doxycycline:
 ## Neuroanatomy
 ref-index-neuroanatomy:
   path: "/The Archive/Neuroscience/Neuroanatomy/index_neuroanatomy.qmd"
+  basal-ganglia: "/The Archive/Neuroscience/Neuroanatomy/index_neuroanatomy.qmd#basal-ganglia"
+  cranial-nerve: "/The Archive/Neuroscience/Neuroanatomy/index_neuroanatomy.qmd#cranial-nerve"
+  tract: "/The Archive/Neuroscience/Neuroanatomy/index_neuroanatomy.qmd#tract"
 ### Basal ganglia
 ref-basal-ganglia:
   path: "/The Archive/Neuroscience/Neuroanatomy/Basal Ganglia/basal_ganglia.qmd"
@@ -1501,7 +1529,7 @@ ref-trigeminal-neuralgia:
 ref-bell-palsy:
   path: "/The Archive/Neuroscience/Neuropathology/Peripheral Nervous System Pathologies/Peripheral Neuralgia/Bell_palsy.qmd"
 ref-guillain-barre-syndrome:
-  path: "/The Archive/Neuroscience/Neuropathology/Peripheral Nervous System Pathologies/Peripheral Neuralgia/guillain-barre-syndrome.qmd"
+  path: "/The Archive/Neuroscience/Neuropathology/Peripheral Nervous System Pathologies/Guillain-barre_syndrome.qmd/guillain-barre-syndrome.qmd"
 
 ## Neuropathophysiology
 ref-lewy-bodies:

@@ -73,6 +73,51 @@ Clinicians should use clinical syndromes to anticipate sensory and motor functio
 - The most common SCI syndrome @osullivanPhysicalRehabilitation2019
 - C/S Hyperextension injury @osullivanPhysicalRehabilitation2019
 
+# Cardiovascular complications
+
+Disruptions of cardiovascular control following spinal cord injury are directly related
+to the level and degree of the injury @hagenCardiovascularComplicationsSpinal2012
+
+## Timing
+
+:::{layout-ncol="2"}
+### Acute
+"Immediately after a spinal cord injury, there is in almost all patients a sudden loss of the autonomic effect of the smooth muscle in the walls of the blood vessels, and as a result vasodilation occurs. The acute loss of sympathetic stimulation results in bradycardia. During the acute phase, the arterial hypotension (neurogenic shock) may be misinterpreted as loss of volume." @hagenCardiovascularComplicationsSpinal2012
+:::
+
+## Peripheral Nerves
+
+:::{layout-ncol="3"}
+
+### Vagus Nerve
+
+- The vagus nerve is hypersensitive immediately after an injury @hagenCardiovascularComplicationsSpinal2012.
+- This normally lasts for 2–3 weeks, but can last longer @hagenCardiovascularComplicationsSpinal2012.
+- Treatment
+    - Implantation of a temporary or permanent pacemaker is required.
+    - Atropine should be available @hagenCardiovascularComplicationsSpinal2012
+- Precautions:
+    -  During this period, it is important to avoid activating the n. vagus to avoid reinforcing the vagal reflexes.
+    - Avoid Hyperventilation (Hypoxia increases vagal activity) @hagenCardiovascularComplicationsSpinal2012
+    - All forms of tube in the nose/mouth and throat may cause bradycardia and increased vagal reflexes @hagenCardiovascularComplicationsSpinal2012.
+- This can be a life-long problem in patients with high, complete injuries, whereas in patients with lower and/or incomplete injuries the situation may normalise after 4–5 weeks @hagenCardiovascularComplicationsSpinal2012
+:::
+
+## Complete Cervical
+
+"complete cervical injury, the connection between the upper autonomic centres in the brain and the intermediolateral cell column at level T1–L2 of the spinal cord will be destroyed. Patients with cervical injuries have a higher risk of bradycardia (29 %), sudden unprovoked cardiac arrest (16 %) and conduction system disturbances, particularly in the first few weeks after the injury (5). Sudden death is not unusual either." @hagenCardiovascularComplicationsSpinal2012
+
+
+# Intervention
+
+## Stem Cells
+
+- Paul video: 
+    - one guy said that it significantly worsened pain and spasticity
+- See "Systematic Review of Cell Therapy Efficacy in Human Chronic Spinal Cord Injury" @abolghasemiSystematicReviewCell2023 
+
+## Virtual Reality
+
 
 
 # Examination
@@ -83,3 +128,4 @@ Clinicians should use clinical syndromes to anticipate sensory and motor functio
 QOL:
 
 - Sickness Impact Profile 68 (SIP-68)
+

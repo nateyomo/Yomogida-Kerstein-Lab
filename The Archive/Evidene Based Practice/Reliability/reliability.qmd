@@ -30,20 +30,29 @@ Reliability is sometimes used synonymously with ‘precision,’‘agreement,’
 
 # Types of Reliability
 
+:::{layout-ncol="3"}
+
+### Inter-rater Reliability
+
 - [Inter-rater reliability (IRR)]({{< var ref-inter-rater.reliability >}}): Consistency of a measure assessed by multiple raters
-- [Inter-rater agreement (IRA)]({{< var ref-inter-rater.agreement >}})
-- [Intra-rater reliability]({{< var ref-reliability.intrarater >}})
-- Test-Retest Reliability
 
+### Inter-rater Agreement
 
+[Inter-rater agreement (IRA)]({{< var ref-inter-rater.agreement >}}) measures the variation in results of a test when performed by *different* assessors on the same patient at the same time point.
 
+### Intra-rater Reliability
 
+[Intra-rater reliability]({{< var ref-reliability.intrarater >}}) measures the variation of results of an assessor across multiple time points.
 
+### Test-Retest Reliability
 
+[Test-Retest Reliability]({{< var ref-reliability.test-retest >}}) measures the reliability of the *instrument* across multiple time points.
 
+### Internal Consistency
 
+- [Internal Consistency]({{< var ref-reliability.internal-consistency >}})
 
-
+:::
 
 # Reliability Coefficients
 
@@ -65,14 +74,17 @@ Common reliability statistics include:
 
 # Calculation
 
-Reliability is the proportion of the total variance in scores that is due to differences among people @streinerReliabilityStatisticsCommentarySeries2016a.
+Reliability is the proportion of the total variance ($\sigma_Total^2$) in scores that is due to differences among people @streinerReliabilityStatisticsCommentarySeries2016a.
 
 $$
 Reliability = \frac{\sigma_s^2}{\sigma_s^2 + \sigma_e^2} = \frac{\sigma_s^2}{\sigma_Total^2}
 $$
 
-- $\sigma_s^2$ refers to subject variability [@streinerReliabilityStatisticsCommentarySeries2016a; @gisevInterraterAgreementInterrater2013]
-- $\sigma_e^2$ refers to measurement error [@streinerReliabilityStatisticsCommentarySeries2016a;@gisevInterraterAgreementInterrater2013]
+| Symbol | Meaning |
+|-|-|
+| $\sigma_s^2$ | Subject variability [@streinerReliabilityStatisticsCommentarySeries2016a; @gisevInterraterAgreementInterrater2013] |
+| $\sigma_e^2$ | Measurement error [@streinerReliabilityStatisticsCommentarySeries2016a;@gisevInterraterAgreementInterrater2013] |
+| $\sigma_Total^2$ | Total variance [@streinerReliabilityStatisticsCommentarySeries2016a;@gisevInterraterAgreementInterrater2013] |
 
 
 :::{.callout-note}

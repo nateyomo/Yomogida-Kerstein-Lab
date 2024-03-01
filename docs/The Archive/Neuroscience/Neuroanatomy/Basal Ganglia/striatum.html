@@ -20,7 +20,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -30,6 +49,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../../../">
+<link href="../../../..//images/icons8-brain-64.png" rel="icon" type="image/png">
 <script src="../../../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../../../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -116,7 +136,13 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Contents</h2>
+   
+  <ul>
+  <li><a href="#interventions" id="toc-interventions" class="nav-link active" data-scroll-target="#interventions">Interventions</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -151,10 +177,24 @@ ul.task-list li input[type="checkbox"] {
 <li><a href="../../../../The Archive/Neuroscience/Neuroanatomy/Basal Ganglia/caudate_nucleus.html">Caudate Nucleus</a></li>
 <li><a href="../../../../The Archive/Neuroscience/Neuroanatomy/Basal Ganglia/putamen.html">Putamen</a></li>
 </ul>
+<section id="interventions" class="level1">
+<h1>Interventions</h1>
+<ul>
+<li>Exercise is associated with increases in responsivity of the ventral striatum<span class="citation" data-cites="sacheliExerciseIncreasesCaudate2019"><sup><a href="#ref-sacheliExerciseIncreasesCaudate2019" role="doc-biblioref">1</a></sup></span>
+<ul>
+<li>Problem: This article based the conclusion off of percent change which has inherent issues</li>
+</ul></li>
+</ul>
 
 
 
-</main> <!-- /main -->
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-sacheliExerciseIncreasesCaudate2019" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Sacheli MA, Neva JL, Lakhani B, et al. Exercise increases caudate dopamine release and ventral striatal activation in <span>Parkinson</span>’s disease. <em>Movement Disorders: Official Journal of the Movement Disorder Society</em>. 2019;34(12):1891-1900. doi:<a href="https://doi.org/10.1002/mds.27865">10.1002/mds.27865</a></div>
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

@@ -5,6 +5,13 @@ title: CNX Vagus Nerve
 
 
 
+# Clinical Significance
+
+## Parkinson's Disease
+
+Furthermore, it was observed that vagal nerve sections prevented the intestine-to-brain propagation of fibrils and neurodegeneration [11]. Thus, the vagus nerve seems to serve as the conduit for α-syn propagation from the gut to the CNS @montalban-rodriguezGutBrainRole2024
+
+
 # Interventions
 
 [Vagal Nerve stimulation]({{< var ref-cn10.vagal-nerve-stimulation >}}) (non-invasive)

@@ -2,7 +2,7 @@
 title: Neuroanatomy index
 ---
 
-# Basal Ganglia 
+# Basal Ganglia {#basal-ganglia}
 [Basal ganglia (Overview)]({{< var ref-basal-ganglia.path >}})
 
 - [Striatum]({{< var ref-striatum.path >}}) (Caudate nucleus & Putamen)
@@ -25,8 +25,11 @@ Basal ganglia pathways:
 - Direct Pathway 
 - Nigrostriatal Pathway 
 
-# Cranial Nerves & Nuclei
+# Cranial Nerves & Nuclei {#cranial-nerve}
 [Cranial Nerve Nuclei]({{< var ref-cranial-nerve-nuclei-overview.path >}})
+
+:::{layout-ncol="2"}
+### Motor Nuclei
 
 - Somatic motor nuclei:
     - [Oculomotor Nucleus]({{< var ref-oculomotor-nucleus.path >}})
@@ -44,7 +47,7 @@ Basal ganglia pathways:
     - [Inferior Salivatory Nucleus]({{< var ref-inferior-salivatory-nucleus.path >}}) 
     - [Dorsal Motor Nucleus of the Vagus]({{< var ref-dorsal-motor-nucleus >}}) 
 
-Sensory Nuclei:
+### Sensory Nuclei
 
 - Visceral Sensory Column:
     - [Rostral portion of Nucleus Solitarius]({{< var ref-nucleus-solitarius.path >}}) 
@@ -57,6 +60,7 @@ Sensory Nuclei:
 - Special Somatic Sensory Nuclei: Hearing & Balance
     - [Cochlear Nuclei]({{< var ref-cochlear-nuclei.path >}}) 
     - [Vestibular Nuclei]({{< var ref-vestibular-nuclei.path >}}) 
+:::
 
 [Cranial Nerves]({{< var ref-cranial-nerve-overview.path >}})
 
@@ -73,7 +77,8 @@ Sensory Nuclei:
 - [CN XI Accessory Nerve]({{< var ref-cn11.path >}})
 - [CN XII Hypoglossal Nerve]({{< var ref-cn12.path >}})
 
-# Tracts
+# Tracts {#tract}
+:::{layout-ncol="2"}
 ## Ascending Tracts
 
 - [Dorsal Column Medial Lemniscus (DCML)]({{< var ref-dorsal-column-medial-lemniscus.path >}})
@@ -102,4 +107,5 @@ Sensory Nuclei:
     - [Vestibulospinal Tract]({{< var ref-vestibulospinal-tract.path >}})
     - [Tectospinal Tract]({{< var ref-tectospinal-tract.path >}})
     - [Reticulospinal Tract]({{< var ref-reticulospinal-tract.path >}})
+:::
 

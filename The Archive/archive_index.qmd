@@ -4,10 +4,30 @@ title: "The Archive"
 ---
 
 # Anatomy 
-{{< include Anatomy/anatomy_index.qmd >}}
+
+- Vasculature
+    - Arteries
+    - Veins
+- [Bones Index]({{< var ref-bone-index.path >}})
+- Muscle Index
+    - [Muscle OIAN List]({{< var ref-OIAN.path >}})
+- Connective Tissue
+    - Ligaments
+    - 
+- Nervous System
+    - [Nerves]({{< var ref-nerve-index.path >}})
+    - [Neuroanatomy]({{< var ref-index-neuroanatomy.path >}})
 
 # Microbiology
-{{< include "/The Archive/Microbiology/microbiology_index.qmd" >}}
+
+[Microbiology]({{< var ref-microbiology-index.path >}})
+
+- [Cells]({{< var ref-microbiology-index.cell >}})
+    - [Chemokines]({{< var ref-microbiology-index.chemokine >}})
+- [Enzymes]({{< var ref-microbiology-index.enzyme >}})
+- [Proteins]({{< var ref-microbiology-index.protein >}})
+- [Non-Proteins]({{< var ref-microbiology-index.non-protein >}})
+
 
 # Physiology
 {{< include Physiology/physiology_index.qmd >}}
