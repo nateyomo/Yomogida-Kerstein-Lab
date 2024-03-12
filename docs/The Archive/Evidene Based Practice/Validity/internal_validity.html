@@ -20,7 +20,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -121,7 +140,11 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Contents</h2>
    
   <ul>
-  <li><a href="#threats-to-internal-validity" id="toc-threats-to-internal-validity" class="nav-link active" data-scroll-target="#threats-to-internal-validity">Threats to Internal Validity</a></li>
+  <li><a href="#types" id="toc-types" class="nav-link active" data-scroll-target="#types">Types</a></li>
+  <li><a href="#threat" id="toc-threat" class="nav-link" data-scroll-target="#threat">Threats to Internal Validity</a>
+  <ul class="collapse">
+  <li><a href="#systematic-error" id="toc-systematic-error" class="nav-link" data-scroll-target="#systematic-error">Systematic Error</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -152,22 +175,65 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="threats-to-internal-validity" class="level1">
-<h1>Threats to Internal Validity</h1>
+<p>Internal validity refers to the possibility that the the conclusions drawn from the results of the study accurately reflect the experiment itself<span class="citation" data-cites="simMeasurementValidityPhysical1993"><sup><a href="#ref-simMeasurementValidityPhysical1993" role="doc-biblioref">1</a></sup></span>. Internal validity determines whether the study was setup in a way that will accurately answer the initial question without influence of other variables.</p>
+<div class="callout callout-style-simple callout-none no-icon callout-titled" title="What is a study with internal validity?">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+What is a study with internal validity?
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>“If a study is internally valid, this means that any effects/changes or lack thereof in the dependent variable can be directly attributed to the manipulation of the independent variable” -Polgar &amp; Thomas<span class="citation" data-cites="simMeasurementValidityPhysical1993"><sup><a href="#ref-simMeasurementValidityPhysical1993" role="doc-biblioref">1</a></sup></span>.</p>
+</div>
+</div>
+<section id="types" class="level1">
+<h1>Types</h1>
 <ul>
-<li><a href="../../../">Selection bias / selection effects</a></li>
-<li>Testing Effects</li>
-<li>Attrition Effects</li>
-<li>Maturation Bias</li>
-<li>Ambiguous Causation</li>
-<li>History Effects</li>
-<li>Regression of the Mean</li>
+<li>Statistical Validity</li>
+<li>Face Validity</li>
+<li>Criterior-related Validity:
+<ul>
+<li>Concurrent Validity</li>
+<li>Predictive validity</li>
+<li>Prescriptive validity</li>
+</ul></li>
+<li>Content validity</li>
+<li>Construct validity</li>
+<li>Convergent</li>
+<li>Discriminant (Divergent)</li>
 </ul>
+</section>
+<section id="threat" class="level1">
+<h1>Threats to Internal Validity</h1>
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<section id="systematic-error" class="level3 quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<h3 class="anchored" data-anchor-id="systematic-error">Systematic Error</h3>
+<ul>
+<li><p><a href="../../../The Archive/Evidene Based Practice/Error/Systematic Error/attrition_effects.html">Attrition Effects</a></p></li>
+<li><p><a href="../../../The Archive/Evidene Based Practice/Validity/Threats to internal validity/maturation_bias.qmd">Maturation Bias</a> refers to the error of assuming group change over time is due to the independent variable and not natural improvement over time.</p></li>
+<li><p><a href="../../../">Selection bias / selection effects</a></p></li>
+<li><p><a href="../../../The Archive/Evidene Based Practice/Error/Systematic Error/testing_effect.html">Testing Effects</a>: Systematic error created by a problem with the experimental setup that will create a difference in one group and not the other.</p></li>
+<li><p>Ambiguous Causation: Error that occurs when researchers incorrectly interpret correlations/associations between variables as causal effects.</p></li>
+<li><p>History Effects</p></li>
+<li><p>Regression of the Mean</p></li>
+</ul>
+</section>
+</div>
+</div>
+
 
 
 </section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-simMeasurementValidityPhysical1993" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Sim J, Arnell P. Measurement validity in physical therapy research. <em>Physical Therapy</em>. 1993;73(2):102-110; discussion 110-115. doi:<a href="https://doi.org/10.1093/ptj/73.2.102">10.1093/ptj/73.2.102</a></div>
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

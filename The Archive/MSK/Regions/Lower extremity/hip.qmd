@@ -15,3 +15,31 @@ lumbopelvic hip complex during ground impact is a combination of 3-D shock-absor
 ## Functional Tests
 
 - Squat Analysis
+- Deep Squat Test
+
+
+## Femoroacetabular Impingement & Labral Pathology Tests 
+
+- Flexion-Adduction-Internal Rotation (FADDIR) @wongPhysicalExaminationHip2022 
+- Scour Test (Labral Stress Test) @wongPhysicalExaminationHip2022 
+- Internal Rotation Over Pressure (IROP) @wongPhysicalExaminationHip2022 
+- Posterior Impingement Test
+- Flexion-Abduction-External Rotation (FABER/Patrick Sign)
+
+## Other/Extra-Articular Maneuvers
+
+- Resisted Straight Leg Raise (Stinchfield Test) @wongPhysicalExaminationHip2022 
+- Thomas Test @wongPhysicalExaminationHip2022 
+- Gear Stick Sign @wongPhysicalExaminationHip2022 
+
+## Microinstability
+
+## Provocative maneuvers
+In addition to astandardexamofthehip,thereareanumberofprovocative maneuvers that assess apprehension, range of motion, and joint stability
+
+- Anterior Apprehension Test (Hyperextension, External Rotation Test) @wongPhysicalExaminationHip2022 
+- Abduction-Extension-External Rotation Test @wongPhysicalExaminationHip2022 
+- Prone External Rotation Test @wongPhysicalExaminationHip2022 
+- Log Roll Test (Dial Test) @wongPhysicalExaminationHip2022 
+- Posterior Apprehension Test @wongPhysicalExaminationHip2022 
+- Axial Distraction Test @wongPhysicalExaminationHip2022 

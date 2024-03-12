@@ -4,7 +4,7 @@ title: Muscle Index
 
 
 # OIANs
-- [OIAN Sheet]({{< var ref-oian.path >}})
+- [OIAN Sheet]({{< var ref-oians.path >}})
 
 # Anatomy
 

@@ -10,7 +10,7 @@ title: "The Archive"
     - Veins
 - [Bones Index]({{< var ref-bone-index.path >}})
 - Muscle Index
-    - [Muscle OIAN List]({{< var ref-OIAN.path >}})
+    - [Muscle OIAN List]({{< var ref-oians.path >}})
 - Connective Tissue
     - Ligaments
     - 

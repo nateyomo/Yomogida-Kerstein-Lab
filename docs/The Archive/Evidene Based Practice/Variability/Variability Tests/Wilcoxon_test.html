@@ -20,26 +20,7 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for citations */
-div.csl-bib-body { }
-div.csl-entry {
-  clear: both;
-}
-.hanging-indent div.csl-entry {
-  margin-left:2em;
-  text-indent:-2em;
-}
-div.csl-left-margin {
-  min-width:2em;
-  float:left;
-}
-div.csl-right-inline {
-  margin-left:2em;
-  padding-left:1em;
-}
-div.csl-indent {
-  margin-left: 2em;
-}</style>
+</style>
 
 
 <script src="../../../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -82,6 +63,8 @@ div.csl-indent {
   }
 }</script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="../../../../styles.css">
 </head>
@@ -140,7 +123,23 @@ div.csl-indent {
     <h2 id="toc-title">Contents</h2>
    
   <ul>
-  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
+  <li><a href="#samples" id="toc-samples" class="nav-link active" data-scroll-target="#samples">Samples</a></li>
+  <li><a href="#when-to-apply" id="toc-when-to-apply" class="nav-link" data-scroll-target="#when-to-apply">When to apply</a></li>
+  <li><a href="#how-the-test-works" id="toc-how-the-test-works" class="nav-link" data-scroll-target="#how-the-test-works">How the test Works</a></li>
+  <li><a href="#calculation" id="toc-calculation" class="nav-link" data-scroll-target="#calculation">Calculation</a>
+  <ul class="collapse">
+  <li><a href="#rank-differences" id="toc-rank-differences" class="nav-link" data-scroll-target="#rank-differences">Rank Differences</a></li>
+  <li><a href="#determine-rank-sums" id="toc-determine-rank-sums" class="nav-link" data-scroll-target="#determine-rank-sums">Determine Rank Sums</a></li>
+  <li><a href="#calculate-test-statistic-w" id="toc-calculate-test-statistic-w" class="nav-link" data-scroll-target="#calculate-test-statistic-w">Calculate Test Statistic W</a></li>
+  <li><a href="#standard-deviation" id="toc-standard-deviation" class="nav-link" data-scroll-target="#standard-deviation">Standard deviation</a></li>
+  <li><a href="#z-value" id="toc-z-value" class="nav-link" data-scroll-target="#z-value">Z-Value</a></li>
+  </ul></li>
+  <li><a href="#hypothesis" id="toc-hypothesis" class="nav-link" data-scroll-target="#hypothesis">Hypothesis</a>
+  <ul class="collapse">
+  <li><a href="#null-hypothesis" id="toc-null-hypothesis" class="nav-link" data-scroll-target="#null-hypothesis">Null Hypothesis</a></li>
+  </ul></li>
+  <li><a href="#interpreting-the-results" id="toc-interpreting-the-results" class="nav-link" data-scroll-target="#interpreting-the-results">Interpreting the results</a></li>
+  <li><a href="#videos" id="toc-videos" class="nav-link" data-scroll-target="#videos">Videos</a></li>
   </ul>
 </nav>
     </div>
@@ -187,19 +186,130 @@ AKA
 </ul>
 </div>
 </div>
-<section id="overview" class="level1">
-<h1>Overview</h1>
-<p>two rank-based statistical tests for analyzing data from experiments comparing two treatments<span class="citation" data-cites="liWilcoxonSignedrankStatistic2014"><sup><a href="#ref-liWilcoxonSignedrankStatistic2014" role="doc-biblioref">1</a></sup></span></p>
-
+<p>Wilcoxon test analyzes whether there is a difference between 2 dependent samples (alt hypothesis) or not (null hypothesis).</p>
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<section id="t-test" class="level3 quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<h3 class="anchored" data-anchor-id="t-test">T-Test</h3>
+<ul>
+<li>Parametric test for 2 dependent groups ()</li>
+<li>T-Test tests whether the average difference between two observations is 0</li>
+<li>Requires <strong>normally</strong> distributed data</li>
+<li>Answers the question: “Is there a difference in mean?”</li>
+</ul>
+</section>
+<section id="wilcoxon-test" class="level3 quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<h3 class="anchored" data-anchor-id="wilcoxon-test">Wilcoxon Test</h3>
+<ul>
+<li>Wilcoxon test is the nonparametric counterpart to the T-Test.</li>
+<li>Tests whether the difference between two observations has a mean signed rank of 0</li>
+<li>Does <strong>not</strong> require normally distributed data</li>
+<li>Compares the differences in ranks</li>
+</ul>
+</section>
+</div>
+</div>
+<p>Wilcoxon rank-sum test is a popular nonparametric test for comparing two independent populations (groups)<span class="citation" data-cites="duttaRanksumTestClustered2016"><sup><a href="#ref-duttaRanksumTestClustered2016" role="doc-biblioref"><strong>duttaRanksumTestClustered2016?</strong></a></sup></span></p>
+<p>One important assumption for applicability of Wilcoxon ranksum test is that all the observations under the study are independent<span class="citation" data-cites="duttaRanksumTestClustered2016"><sup><a href="#ref-duttaRanksumTestClustered2016" role="doc-biblioref"><strong>duttaRanksumTestClustered2016?</strong></a></sup></span></p>
+<section id="samples" class="level1">
+<h1>Samples</h1>
+<p>Dependent samples have measured values that come in pairs. Often, the pairs of data come from repeated samples of the same participant.</p>
+</section>
+<section id="when-to-apply" class="level1">
+<h1>When to apply</h1>
+<ul>
+<li>You should <em>always</em> use the T-Test when possible, unless the data is not normally distributed.</li>
+<li>Only 2 dependent samples with at least ordinally scaled characteristics need to be available.</li>
+</ul>
+</section>
+<section id="how-the-test-works" class="level1">
+<h1>How the test Works</h1>
+<p>The Wilcoxon Test determines whether there is a difference in rank totals between 2 dependent groups.</p>
+</section>
+<section id="calculation" class="level1">
+<h1>Calculation</h1>
+<section id="rank-differences" class="level2">
+<h2 class="anchored" data-anchor-id="rank-differences">Rank Differences</h2>
+<p>The ranks are based on the magnitude of difference between one pair. The pair with the difference closest to 0 gets rank 1. A (+) is assigned to all positive values and a (-) is assigned to all negative values.</p>
+</section>
+<section id="determine-rank-sums" class="level2">
+<h2 class="anchored" data-anchor-id="determine-rank-sums">Determine Rank Sums</h2>
+<p>Next you sum the positive ranks <span class="math inline">\(T^+\)</span> and the negative ranks <span class="math inline">\(T^-\)</span>.</p>
+<p><span class="math display">\[
+T^+ = \sum{\textbf{All positive ranks}}
+\]</span></p>
+<p><span class="math display">\[
+T^- = \sum{\textbf{All Negative ranks}}
+\]</span></p>
+</section>
+<section id="calculate-test-statistic-w" class="level2">
+<h2 class="anchored" data-anchor-id="calculate-test-statistic-w">Calculate Test Statistic W</h2>
+<p><span class="math display">\[
+W = \textbf{min}(T^+, T^-)
+\]</span></p>
+<p>Expected value of W (<span class="math inline">\(\mu_W\)</span>) refers to the value of W we would expect if there were no difference between within the pairs. If the null hypothesis is true, we would expect <span class="math inline">\(W\)</span> to be equal to <span class="math inline">\(\mu_W\)</span></p>
+<p><span class="math display">\[
+\mu_W = \frac{n(n+1)}{4}
+\]</span></p>
+</section>
+<section id="standard-deviation" class="level2">
+<h2 class="anchored" data-anchor-id="standard-deviation">Standard deviation</h2>
+<p>Standard deviation of</p>
+<p><span class="math display">\[
+\sigma_W = \sqrt{\frac{n(n+1)(2n+1)-\sum\frac{t^3_i-t_i}{2}}{24}}
+\]</span></p>
+</section>
+<section id="z-value" class="level2">
+<h2 class="anchored" data-anchor-id="z-value">Z-Value</h2>
+<p>Z-Value (<span class="math inline">\(Z\)</span>) calculates the value that we would expect if there was no difference (<span class="math inline">\(\mu_W\)</span>) with the value that actually occured (<span class="math inline">\(W\)</span>) divided by the standard deviation (<span class="math inline">\(\sigma_W\)</span>) <span class="math display">\[
+Z = \frac{W - \mu_W}{\sigma_W}
+\]</span></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>If there are <em>more</em> than 25 cases, normal distribution is assumed and you can use the method above.</p>
+<p>If there are less than 25 cases, you should use a table.</p>
+</div>
+</div>
+</section>
+</section>
+<section id="hypothesis" class="level1">
+<h1>Hypothesis</h1>
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<section id="null-hypothesis" class="level3 quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<h3 class="anchored" data-anchor-id="null-hypothesis">Null Hypothesis</h3>
+<p>Both rank sums are equal.</p>
+</section>
+</div>
+</div>
+</section>
+<section id="interpreting-the-results" class="level1">
+<h1>Interpreting the results</h1>
+<ul>
+<li>Z-value:
+<ul>
+<li>A negative value indicates that group 1 had lower values than group 2.</li>
+<li>If the groups are evenly distributed, then the z-score will be closer to 0.</li>
+</ul></li>
+<li>p-value: indicates whether the difference was statistically significant.</li>
+</ul>
+</section>
+<section id="videos" class="level1">
+<h1>Videos</h1>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/NZsL2eDQiDQ" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
-<div id="ref-liWilcoxonSignedrankStatistic2014" class="csl-entry" role="listitem">
-<div class="csl-left-margin">1. </div><div class="csl-right-inline">Li H, Johnson T. Wilcoxon’s signed-rank statistic: What null hypothesis and why it matters. <em>Pharmaceutical Statistics</em>. 2014;13(5):281-285. doi:<a href="https://doi.org/10.1002/pst.1628">10.1002/pst.1628</a></div>
-</div>
-</div></section></div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

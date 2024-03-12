@@ -5,7 +5,7 @@ subtitle: Accuracy of a measure
 
 "In order to improve validity, attempts must be made primarily to remove systematic error, or bias" @simMeasurementValidityPhysical1993
 
-| Validity | Reliability |
+| Validity | [Reliability]({{< var ref-reliability.path >}}) |
 |-|-|
 | Deals with the accuracy ofinferences made from measurements @simMeasurementValidityPhysical1993 | Deals with the reproducibility of measurements themselves @simMeasurementValidityPhysical1993 |
 |Concerns the relationship between the measurement and the entity being measured @simMeasurementValidityPhysical1993 | Is a property ofthe measurement (and the person performing it) |
@@ -18,66 +18,26 @@ subtitle: Accuracy of a measure
 
 # Types of Validity
 
+
+
 There are 2 broad types of validity: External and Internal validity @simMeasurementValidityPhysical1993
 
-| Internal Validity | External Validity |
-|-|-|
+:::{layout-ncol="2"}
 
-There are 4 main types of validity: 
+### Internal Validity
+[Internal validity]({{< var ref-validity.internal >}}) refers to the possibility that the the conclusions drawn from the results of the study accurately reflect the experiment itself @simMeasurementValidityPhysical1993.
 
-- Face Validity
-- Criterior-related Validity: 
-    - Concurrent Validity
-    - Predictive validity
-    - Prescriptive validity
-- Content validity
-- Construct validity
+Includes:
 
+- [Construct validity]({{< var ref-validity.construct >}}): Does the study design correctly answer its research question?
+- [Statistical Conclusion validity]({{< var ref-validity.statistical-conclusion >}}): Were the correct statistical tests used and were they interpreted correctly?
 
-- Construct validity
-- Known Groups
-- Convergent
-- Discriminant (Divergent)
+### External Validity
 
+External validity refers to how successfuly one can apply the results of a study on a sample can be generalized to a particular population @simMeasurementValidityPhysical1993.
 
-
-
-# Construct Validity
-
-- [Correlation coefficient (r)]({{< var ref-correlation-coefficient.path >}})
-
-Categories of construct validity: Convergent and divergent validity are used to provide evidence that a test or measure accurately reflects construct (or outcome) rather than some other construct
-
-
-For example: 
-if you want to know if a new measure of pain intensity accurately measures pain (construct) instead of anxiety (different construct) then your PICOS question should ask about construct validity of the new measure
-If scores on the new measure are significantly associated with pain intensity scores on the NPRS = provides evidence of convergent validity ( both tests give similar results for similar construct = pain intensity)
-Conversely if scores on the new measure are not significantly correlated with scores on the anxiety questionnaire, then there is evidence of divergent validity (good divergent validity means no correlation with a different construct)
-How to demonstrate construct validity:
-Measure the correlation (str of association) between the new measure with existing measures of either the same construct (testing convergent validity) or different construct (testing divergent validity) 
-
-# Predictive Validity
-
-Predictive validity: Predictive validity is the degree to which test scores accurately predict scores on a criterion measure
-
-# External validity
-
-External validity refers to how successfuly one can apply the results of a study on a sample can be generalized to a particular population @simMeasurementValidityPhysical1993
-
-# Internal Validity
-
-Internal validity refers to the possibility taht the the conclusions drawn from the results of the study accurately reflect the experiment itself @simMeasurementValidityPhysical1993.
-Internal validity determines whether the study was setup in a way that will accurately answer the initial question without influence of other variables.
-
-:::{.callout title="What is a study with internal validity?"}
-"If a study is internally valid, this means that any effects/changes or lack thereof in the dependent variable can be directly attributed to the manipulation of the independent variable" -Polgar & Thomas @simMeasurementValidityPhysical1993.
 :::
 
-# Face Validity
-
-- Face validity refers to the extent to which a test or measure appears to measure what it purports to measure @simMeasurementValidityPhysical1993.
-- Thus, it is "really based on the personal opinions of those either taking or giving a test." @simMeasurementValidityPhysical1993
-- Indeed, the importance of face validity relates most significantly to the perceptions of research subjects @simMeasurementValidityPhysical1993
 
 :::{.callout-note}
 Face validity is often identified with content validity since is less applicable to formal scientific testing @simMeasurementValidityPhysical1993.
@@ -85,6 +45,3 @@ Face validity is often identified with content validity since is less applicable
 
 
 
-# Types of validity to organize
-
-Measurement validity relates to the extent to which an insvumerlt measures what it is intended to measure and can refer equally to nominal, ordinal, interval, or ratio levels of measurement.

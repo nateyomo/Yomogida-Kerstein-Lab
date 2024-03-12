@@ -27,6 +27,56 @@ Reliability is NOT the same as [validity]({{< var ref-validity.path >}})
 Reliability is sometimes used synonymously with ‘precision,’‘agreement,’ and ‘repeatability,’ but these are  misslabeling the concept @streinerReliabilityStatisticsCommentarySeries2016a.
 
 
+# Non-mathematical explanation
+
+Reliability is made up of 2 parts: Correlation and Agreement.
+:::{layout-ncol="2"}
+### Correlation
+
+- Correlation refers to the fact that there is a pattern between results.
+- For example, results iwth high correlation would mean that Test 2 is always greater than test 1.
+    - Or Test 2 is always slightly smaller than test 1.
+
+### Agreement
+
+- Agreement quantifies the *magnitude* of difference from Test 1 and Test 2.
+- It does not indicate whether the results follow a similar pattern, but how much they differ from eachother.
+
+
+:::
+
+# Calculation
+
+Reliability is the proportion of the total variance ($\sigma_Total^2$) in scores that is due to differences among people @streinerReliabilityStatisticsCommentarySeries2016a.
+
+$$
+Reliability = \frac{\sigma_s^2}{\sigma_s^2 + \sigma_e^2} = \frac{\sigma_s^2}{\sigma_Total^2}
+$$
+
+| Symbol | Meaning |
+|-|-|
+| $\sigma_s^2$ | Subject variability [@streinerReliabilityStatisticsCommentarySeries2016a; @gisevInterraterAgreementInterrater2013] |
+| $\sigma_e^2$ | Measurement error [@streinerReliabilityStatisticsCommentarySeries2016a;@gisevInterraterAgreementInterrater2013] |
+| $\sigma_Total^2$ | Total variance [@streinerReliabilityStatisticsCommentarySeries2016a;@gisevInterraterAgreementInterrater2013] |
+
+
+:::{.callout-note}
+- Terms such as ‘precision,’‘agreement,’ and ‘repeatability’ focus solely on the fact that the error term should be as small as possible @streinerReliabilityStatisticsCommentarySeries2016a.
+- These terms ignore the fact that reliability also depends on the variability among people @streinerReliabilityStatisticsCommentarySeries2016a.
+:::
+
+:::{.callout-note title="Subject variability implications"}
+
+- If there is no variability between participants ( $\sigma_s^2$ ) then $\sigma_s^2 = 0$ the reliability is 0 @streinerReliabilityStatisticsCommentarySeries2016a.
+    - The reliability of a scale reflects its ability to differentiate among people and if it cannot, then the reliability is 0 and the scale is useless @streinerReliabilityStatisticsCommentarySeries2016a.
+- Another implication about $\sigma_s^2$ is that reliability is not a fixed property, but rather dependent on the sample being studied.
+    - Reliability is is very dependent on the sample in which it is determined @streinerReliabilityStatisticsCommentarySeries2016a.
+    - Example: Applying a depression scale to ER patients vs outpatient psychiatric patients
+        - The ER Patients would consist of people who have very low depression to extremely high depression (suicidally depressed) @streinerReliabilityStatisticsCommentarySeries2016a.
+            - This sample has a very high patient variability ( $\sigma_s^2$ ) and thus a higher reliability score @streinerReliabilityStatisticsCommentarySeries2016a
+        - The outpatient psychiatric patients would likely have moderate levels of depression (those with high depression would be administered to a hospital) @streinerReliabilityStatisticsCommentarySeries2016a.
+            - Thus there will be low patient variability ($\sigma_s^2$) and the reliability will be lower @streinerReliabilityStatisticsCommentarySeries2016a.
+:::
 
 # Types of Reliability
 
@@ -72,38 +122,9 @@ Common reliability statistics include:
 - [Correlation Coefficient]({{< var ref-correlation-coefficient.path >}})
 - [Intra-Class Correlation Coefficient]({{< var ref-reliability.icc >}})
 
-# Calculation
-
-Reliability is the proportion of the total variance ($\sigma_Total^2$) in scores that is due to differences among people @streinerReliabilityStatisticsCommentarySeries2016a.
-
-$$
-Reliability = \frac{\sigma_s^2}{\sigma_s^2 + \sigma_e^2} = \frac{\sigma_s^2}{\sigma_Total^2}
-$$
-
-| Symbol | Meaning |
-|-|-|
-| $\sigma_s^2$ | Subject variability [@streinerReliabilityStatisticsCommentarySeries2016a; @gisevInterraterAgreementInterrater2013] |
-| $\sigma_e^2$ | Measurement error [@streinerReliabilityStatisticsCommentarySeries2016a;@gisevInterraterAgreementInterrater2013] |
-| $\sigma_Total^2$ | Total variance [@streinerReliabilityStatisticsCommentarySeries2016a;@gisevInterraterAgreementInterrater2013] |
 
 
-:::{.callout-note}
-- Terms such as ‘precision,’‘agreement,’ and ‘repeatability’ focus solely on the fact that the error term should be as small as possible @streinerReliabilityStatisticsCommentarySeries2016a.
-- These terms ignore the fact that reliability also depends on the variability among people @streinerReliabilityStatisticsCommentarySeries2016a.
-:::
 
-:::{.callout-note title="Subject variability implications"}
-
-- If there is no variability between participants ( $\sigma_s^2$ ) then $\sigma_s^2 = 0$ the reliability is 0 @streinerReliabilityStatisticsCommentarySeries2016a.
-    - The reliability of a scale reflects its ability to differentiate among people and if it cannot, then the reliability is 0 and the scale is useless @streinerReliabilityStatisticsCommentarySeries2016a.
-- Another implication about $\sigma_s^2$ is that reliability is not a fixed property, but rather dependent on the sample being studied.
-    - Reliability is is very dependent on the sample in which it is determined @streinerReliabilityStatisticsCommentarySeries2016a.
-    - Example: Applying a depression scale to ER patients vs outpatient psychiatric patients
-        - The ER Patients would consist of people who have very low depression to extremely high depression (suicidally depressed) @streinerReliabilityStatisticsCommentarySeries2016a.
-            - This sample has a very high patient variability ( $\sigma_s^2$ ) and thus a higher reliability score @streinerReliabilityStatisticsCommentarySeries2016a
-        - The outpatient psychiatric patients would likely have moderate levels of depression (those with high depression would be administered to a hospital) @streinerReliabilityStatisticsCommentarySeries2016a.
-            - Thus there will be low patient variability ($\sigma_s^2$) and the reliability will be lower @streinerReliabilityStatisticsCommentarySeries2016a.
-:::
 
 # Scoring {#scoring}
 
