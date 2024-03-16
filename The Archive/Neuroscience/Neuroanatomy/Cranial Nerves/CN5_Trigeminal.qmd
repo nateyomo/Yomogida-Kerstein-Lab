@@ -18,6 +18,13 @@ title: CNV Trigeminal Nerve
 ::: 
 
 
+:::{.callout-note}
+
+- Welzack Chapter 56 Trigeminal Mechanisms of Nociception @mcmahonWallMelzackTextbook2013
+- Welzack Chapter 58 Migraine and the Trigeminal Autonomic Cephalalgias @mcmahonWallMelzackTextbook2013
+- Welzack Chapter 66 Trigeminal and Glossopharyngeal Neuralgia @mcmahonWallMelzackTextbook2013
+:::
+
 
 
 # Overview

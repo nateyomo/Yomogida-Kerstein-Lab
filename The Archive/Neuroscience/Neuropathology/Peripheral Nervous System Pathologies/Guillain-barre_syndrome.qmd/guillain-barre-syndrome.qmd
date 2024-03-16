@@ -4,7 +4,9 @@ title: Guillain-Barre Syndrome
 
 
 :::{.callout title="Resources"}
-See Guillain-Barre Syndrome section on p1289 of @ropperAdamsVictorPrinciples2023 
+
+- See Guillain-Barre Syndrome section on p1289 of @ropperAdamsVictorPrinciples2023 
+- Suzanne - Ch14 p.547 @martinNeurologicInterventionsPhysical2021a 
 :::
 
 

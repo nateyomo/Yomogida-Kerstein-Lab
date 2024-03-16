@@ -50,8 +50,9 @@ Thus when comparing the two using an odds ratio, you are trying to ascertain whe
 
 
 
-
 # Interpretation
+
+To interpret the OR, you need to first determine what part of the test is considered the "exposure" and what part of the test is the "outcome."
 
 
 | OR Value | Interpretation |
@@ -61,6 +62,11 @@ Thus when comparing the two using an odds ratio, you are trying to ascertain whe
 | >1 | Odds of disease greater in exposed than non-exposed |
 : {.striped .hover}
 
+:::{.callout-note title="Example"}
+
+- An odds ratio of 0.98 indicates that the group who were exposed to the variable were 2% *less* likely to have the outcome.
+- An odds ratio of 1.02 indicates that the group who was exposed to the variable were 2% *more* likely to have the outcome.
+:::
 
 # Videos
 

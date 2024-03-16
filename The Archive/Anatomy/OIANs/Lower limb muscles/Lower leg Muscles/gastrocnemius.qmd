@@ -1,0 +1,14 @@
+---
+title: Gastrocnemius Muscle
+---
+
+
+
+# Examination
+
+:::{layout-ncol="3"}
+
+### Length Test
+Gastroc: knee extended + DF
+
+:::

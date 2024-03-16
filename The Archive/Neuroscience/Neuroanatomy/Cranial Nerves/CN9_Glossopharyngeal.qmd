@@ -2,7 +2,10 @@
 title: CNIX Glossopharyngeal Nerve
 ---
 
+:::{.callout-note}
 
+- Welzack Chapter 66 Trigeminal and Glossopharyngeal Neuralgia @mcmahonWallMelzackTextbook2013
+:::
 
 # Functions
 

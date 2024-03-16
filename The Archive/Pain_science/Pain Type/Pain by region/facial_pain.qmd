@@ -1,0 +1,18 @@
+---
+title: Facial Pain
+---
+
+:::{.callout-note title="Books to read later"}
+
+- Bonicas ch66 Cranial Neuralgias @ballantyneBonicaManagementPain2019
+- Bonicas Ch67 Facial Pain @ballantyneBonicaManagementPain2019
+:::
+
+
+
+# DDX
+
+Facial pain is a vague term that can be elicited by many factors:
+
+- Trigeminal neuralgia @henssenNewInsightsTrigeminal2016
+

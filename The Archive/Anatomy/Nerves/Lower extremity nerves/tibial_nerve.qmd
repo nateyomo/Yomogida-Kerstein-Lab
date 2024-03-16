@@ -1,0 +1,9 @@
+---
+title: Tibial Nerve
+---
+
+# Motor Innervation
+
+- Gastroc
+- Soleus
+- Plantaris

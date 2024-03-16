@@ -2,6 +2,11 @@
 title: Parkinson's Disease (PD)
 ---
 
+:::{.callout title="Resources"}
+
+- Suzanne - Ch14 @martinNeurologicInterventionsPhysical2021a 
+:::
+
 - Parkinson’s disease (PD) is the most common movement disorder @montalban-rodriguezGutBrainRole2024
 - 2nd most common neurodegenerative disease, after Alzheimer’s disease @montalban-rodriguezGutBrainRole2024
 

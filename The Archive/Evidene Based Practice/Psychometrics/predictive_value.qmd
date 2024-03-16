@@ -4,6 +4,11 @@ subtitle: "Probability of having the outcome of interest"
 ---
 
 
+:::{.callout title="Resources"}
+
+- Ch42 @motulskyIntuitiveBiostatisticsNonmathematical2018
+:::
+
 
 # Positive Predictive Values
 If the test is positive (abnormal test result, suggesting the presence of disease), what is the chance that the patient really has the disease? @motulskyIntuitiveBiostatisticsNonmathematical2018
@@ -14,8 +19,18 @@ $$
 $$
 -->
 
+| | Disease Present | Disease Absent | Total |
+|-|-|-|-|
+| Abnormal (positive) test result | A | B (false positives) | A + B |
+| Normal (negative) test result | C (false negative) | D | C + D |
+| Total|  A + C | B + D | A + B + C + D |
+: {.striped .hover}
+
+
+
 $$
 \begin{aligned}
+    \textrm{PPV} = \frac{\textrm{True Positives}}{\textrm{All Positives}} = \frac{A}{A+B} \\
     \textrm{PPV} = \frac{\textrm{Sens} \times \textrm{Prevalence}}{\textrm{Sens} \times \textrm{Prevalence} + (1-\textrm{Spec}) \times (1-\textrm{Prevalence})} \\
     \textrm{PPV} = \frac{\textrm{Sens} \times \textrm{Prevalence}}{\textrm{Sens} \times \textrm{Prevalence} + (False Positive Rate) \times (1-\textrm{Prevalence})} \\
 \end{aligned}
@@ -23,6 +38,7 @@ $$
 
 # Negative Predictive Value
 Answers the question "if the test is negative (normal test result), what is the chance that the patient really doesn’t have the disease?" @motulskyIntuitiveBiostatisticsNonmathematical2018
+
 
 <!--
 $$
@@ -32,6 +48,13 @@ $$
 \textrm{NPV} = \frac{(\textrm{True negatives})}{(\textrm{All Negatives})} = \frac{A}{A + B}
 $$
 -->
+
+| | Disease Present | Disease Absent | Total |
+|-|-|-|-|
+| Abnormal (positive) test result | A | B (false positives) | A + B |
+| Normal (negative) test result | C (false negative) | D | C + D |
+| Total|  A + C | B + D | A + B + C + D |
+: {.striped .hover}
 
 $$
 \begin{aligned}

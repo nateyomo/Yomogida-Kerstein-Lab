@@ -1,0 +1,33 @@
+---
+title: Tibialis Posterior Muscle
+
+---
+
+# OIAN
+
+:::{layout-ncol="2"}
+### Origin
+
+- Interosseous membrane @gilroyAtlasAnatomy2020
+- Adjacent borders of tibia and fibula @gilroyAtlasAnatomy2020
+
+### Insertion
+
+- Navicular tuberosity
+- Cuneiforms (medial, intermediate, and lateral)
+- 2nd to 4th metatarsals (bases) @gilroyAtlasAnatomy2020
+
+### Nerve
+Tibial n. (L4, L5)
+
+### Action
+
+- Talocrural joint: plantar flexion
+- Subtalar joint: inversion (supination)
+- Supports the longitudinal and transverse arches @gilroyAtlasAnatomy2020
+
+:::
+# Dysfunction
+
+
+[Tibialis Posterior tendonitis]({{< var ref-muscle.tibialis-posterior.tendonitis >}})

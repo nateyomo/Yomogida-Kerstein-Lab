@@ -2,9 +2,10 @@
 title: Plyometric
 ---
 
+:::{.callout title="Resources"}
 
-
-
+- Davies - Current Concepts of Plyometric Exercise @daviesCurrentConceptsPlyometric2015
+:::
 
 
 # Scientific mechanisms

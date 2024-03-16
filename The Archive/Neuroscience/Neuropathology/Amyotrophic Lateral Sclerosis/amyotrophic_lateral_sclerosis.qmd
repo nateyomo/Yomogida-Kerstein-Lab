@@ -3,6 +3,10 @@ title: "Amyotrophic Lateral Sclerosis (ALS)"
  
 ---
 
+:::{.callout title="Resources"}
+
+- Suzanne - Ch14 P546 @martinNeurologicInterventionsPhysical2021a 
+:::
 
 # How to study ALS 
 To study ALS, I would begin with a 5 minute video to get a quick overview and lay the mental foundation for the future topics such as: [Khan academy ALS video](https://www.youtube.com/watch?v=tKDET9t8VTI).

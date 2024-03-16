@@ -2,6 +2,10 @@
 title: Proprioceptive Neuromuscular Facilitation (PNF)
 ---
 
+:::{.callout title="Resources"}
+
+- Suzanne - Ch10 PNF @martinNeurologicInterventionsPhysical2021a 
+:::
 
 
 # Progression

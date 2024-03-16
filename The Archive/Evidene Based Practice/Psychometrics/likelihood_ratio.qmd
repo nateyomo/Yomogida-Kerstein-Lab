@@ -15,8 +15,7 @@ $$
 $$
 
 
-:::{.callout title="Example" collapse="true"}
-A test for intermittent porphyria
+:::{.callout title="Example" collapse="false"}
 
 - Sensitivity: 82%
 - Specificity: 96.3%
@@ -25,7 +24,7 @@ $$
 \textrm{+LR} = \frac{Sensitivity}{1 - Specificity} = \frac{0.82}{1-0.963} = 22.2
 $$
 
-Since the +LR is "22.2", this indicates that a person with the condition is 22.2x more likely to test positive than someone without the disease @motulskyIntuitiveBiostatisticsNonmathematical2018.
+Since the +LR is "22.2", this indicates that a person *with* the condition is 22.2x more likely to test positive than someone without the disease @motulskyIntuitiveBiostatisticsNonmathematical2018.
 :::
 
 

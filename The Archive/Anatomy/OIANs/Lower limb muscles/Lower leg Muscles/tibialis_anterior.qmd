@@ -1,0 +1,43 @@
+---
+title: Tibialis Anterior Muscle
+---
+
+# OIAN
+
+:::{layout-ncol="2"}
+### Origin
+
+- Tibia (upper two thirds of the lateral surface)
+- Interosseous membrane
+- Superficial crural fascia (highest part)
+
+### Insertion
+
+- Medial cuneiform (medial and plantar surface)
+- 1st metatarsal (medial base)
+
+### Nerve
+Deep fibular n. (L4, L5)
+
+### Action
+
+- Talocrural joint: dorsiflexion
+- Subtalar joint: inversion (supination)
+
+:::
+
+# Examination
+
+:::{layout-ncol="3"}
+### MMT
+
+- DF/inv
+
+### ROM
+
+- PF + EV
+
+### Palpation
+
+
+:::

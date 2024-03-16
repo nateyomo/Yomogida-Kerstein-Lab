@@ -1,0 +1,11 @@
+---
+title: Subtalar Joint (STJ)
+---
+
+# Osteokinematics
+
+| Movement | Normal ROM|
+|-|-|
+| Inversion | 35&deg; |
+| Eversion | 15&deg; |
+: {.striped .hover}

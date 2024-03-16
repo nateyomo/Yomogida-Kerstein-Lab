@@ -2,6 +2,10 @@
 title: Spinal Cord Injury (SCI)
 ---
 
+:::{.callout title="Resources"}
+
+- Suzanne - Ch13 SCI @martinNeurologicInterventionsPhysical2021a 
+:::
 
 
 
@@ -107,6 +111,15 @@ to the level and degree of the injury @hagenCardiovascularComplicationsSpinal201
 
 "complete cervical injury, the connection between the upper autonomic centres in the brain and the intermediolateral cell column at level T1–L2 of the spinal cord will be destroyed. Patients with cervical injuries have a higher risk of bradycardia (29 %), sudden unprovoked cardiac arrest (16 %) and conduction system disturbances, particularly in the first few weeks after the injury (5). Sudden death is not unusual either." @hagenCardiovascularComplicationsSpinal2012
 
+
+# Clinical Presentation
+
+## Pain
+:::{.callout-note}
+
+- Bonica's Managmenet of Pain ch40: Pain Following Spinal Cord Injury @ballantyneBonicaManagementPain2019 
+- Welzack Chapter 68 Pain Following Spinal Cord Injury @mcmahonWallMelzackTextbook2013
+:::
 
 # Intervention
 

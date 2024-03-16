@@ -3,6 +3,10 @@ title: "Multiple Sclerosis"
 subtitle: "A progressive autoimmune disease of the CNS"
 ---
 
+:::{.callout title="Resources"}
+
+- Suzanne - Ch14 @martinNeurologicInterventionsPhysical2021a 
+:::
 
 
 :::{.callout-note title="AKA"}

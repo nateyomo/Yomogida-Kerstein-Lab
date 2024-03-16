@@ -1,0 +1,15 @@
+---
+title: Soleus Muscle
+---
+
+
+
+# Examination
+
+:::{layout-ncol="3"}
+
+### Length Test
+
+- Test DF with Knee flexed to 45&deg;
+
+:::

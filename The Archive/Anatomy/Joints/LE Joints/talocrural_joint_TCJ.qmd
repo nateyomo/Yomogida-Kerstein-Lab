@@ -1,0 +1,13 @@
+---
+title: Talocrural Joint (TCJ)
+---
+
+
+# Osteokinematics
+
+| Movement | Normal ROM|
+|-|-|
+| DF | 20&deg; |
+| PF | 50&deg; |
+: {.striped .hover}
+
