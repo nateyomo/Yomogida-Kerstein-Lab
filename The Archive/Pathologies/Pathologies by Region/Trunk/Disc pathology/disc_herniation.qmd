@@ -1,0 +1,43 @@
+---
+title: Disc Herniation
+---
+
+
+# Types of HNP
+
+:::{layout-ncol="3"}
+
+### Lateral
+
+Could be a single nerve root
+
+### Posterior lateral
+Could impinge cord and/or nerve roots
+
+:::
+
+
+# Nerve involvement
+
+:::{layout-ncol="2"}
+### Spinal Cord
+
+- DTR
+    - LMN at the segment
+    - UMN Below the segment
+- Symptoms
+    - Bilateral
+    - Sensation: 
+    - Motor: 
+
+### Nerve Root
+
+- DTR
+    - LMN at the segment
+    - No sx below the segment
+- Symptoms
+    - Unilateral
+    - Sensation: Dermatomal pattern
+    - Motor: Myotome pattern
+
+:::

@@ -47,7 +47,6 @@ Often, the pairs of data come from repeated samples of the same participant.
 
 # How the test Works
 
-
 The Wilcoxon Test determines whether there is a difference in rank totals between 2 dependent groups.
 
 # Calculation

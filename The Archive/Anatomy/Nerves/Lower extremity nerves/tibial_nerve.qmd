@@ -2,8 +2,16 @@
 title: Tibial Nerve
 ---
 
+
+
 # Motor Innervation
 
 - Gastroc
 - Soleus
 - Plantaris
+
+# Overview
+
+"The tibial nerve, the larger of the two branches of the sciatic nerve, begins its own course in the upper part of the popliteal space. It descends vertically through this space, passing between the heads of the gastrocnemius muscle to the posterior aspect of the leg, and to the posteromedial aspect of the ankle, where its terminal branches serve the foot and ankle (see Chapter 21)." @duttonDuttonOrthopaedicExamination2020 
+
+"The tibial nerve supplies the gastrocnemius, plantaris, soleus, popliteus, tibialis posterior, flexor digitorum longus, and flexor hallucis longus muscles. Articular branches pass to the knee and ankle joints." @duttonDuttonOrthopaedicExamination2020 

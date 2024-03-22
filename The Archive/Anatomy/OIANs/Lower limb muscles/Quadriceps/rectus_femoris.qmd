@@ -1,0 +1,42 @@
+---
+title: Rectus Femoris Muscle
+---
+
+
+
+# OIAN
+
+:::{layout-ncol="2"}
+
+### Origin
+
+- [Anterior inferior iliac spine (AIIS)]({{< var ref-coxal-bone.aiis >}}) @gilroyAtlasAnatomy2020
+- Acetabular roof of hip joint @gilroyAtlasAnatomy2020 
+
+### Insertion
+
+Tibial tuberosity (via patellar lig.) @gilroyAtlasAnatomy2020 
+
+
+### Nerve
+
+[Femoral nerve]({{< var ref-femoral-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}), [L4]({{< var ref-nerve-root.l4 >}})) @gilroyAtlasAnatomy2020
+
+### Action
+
+- Hip joint: flexion @gilroyAtlasAnatomy2020
+- Knee joint: extension @gilroyAtlasAnatomy2020
+
+
+:::
+
+Since the rectus femoris crosses both the hip and knee, "this gives the hip joint substantial significance with respect to the knee extensor mechanism in the examination and intervention" @duttonDuttonOrthopaedicExamination2020
+
+:::{.callout-note}
+"The line of pull of the rectus femoris, with respect to the patella, is at an angle of about 5 degrees with the femoral shaft (see Fig. 20-12)." @duttonDuttonOrthopaedicExamination2020 
+:::
+
+
+# Notes
+
+"The rectus femoris attaches to the pelvis near the anterior-inferior iliac spine and immediately superior to the acetabulum. The vastus muscles, however, attach to an extensive part of the femur, particularly the anterior-lateral shaft and the linea aspera (see Fig. 12.5). Although the vastus lateralis has the largest cross-sectional area of the quadriceps muscles, the vastus medialis extends farther distally toward the knee." @neumannKinesiologyMusculoskeletalSystem2017

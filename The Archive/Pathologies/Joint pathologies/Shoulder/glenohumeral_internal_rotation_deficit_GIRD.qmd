@@ -1,0 +1,13 @@
+---
+title: Glenohumeral Internal Rotation Deficit (GIRD)
+---
+
+GIRD refers to a $\leq 20^\circ$ loss of GHJ IR in the throwing shoulder compared with the nonthrowing shoulder @kellerGlenohumeralInternalRotation2018
+
+# Etiology
+"This repetitive overhead motion in skeletally immature athletes leads to osseous adaptations initially, but with skeletal maturity, the torque and force experienced through the shoulder leads to changes in range of motion, specifically increased external rotation and decreased internal rotation, which could lead to glenohumeral internal rotation deficit." @kellerGlenohumeralInternalRotation2018 
+
+
+# Significance
+
+Wilk et al. demonstrated that pitchers with GIRD are almost twice as likely to be injured than those without GIRD @kellerGlenohumeralInternalRotation2018

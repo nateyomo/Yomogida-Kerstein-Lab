@@ -2,7 +2,13 @@
 title: Gastrocnemius Muscle
 ---
 
+# Overview
 
+The gastrocnemius is the only muscle that crosses the posterior knee that does *not* have the ability to flex and to internally or externally rotate the knee @neumannKinesiologyMusculoskeletalSystem2017 
+
+"The gastrocnemius originates from above the knee by two heads, each head connected to a femoral condyle and to the joint capsule (Fig. 20-4). Approximately halfway down the leg, the gastrocnemius muscles merge to form an aponeurosis. As the aponeurosis gradually contracts, it accepts the tendon of the soleus, a flat, broad muscle deep to the gastrocnemius. The aponeurosis and the soleus tendon end in a flat tendon called the Achilles tendon, which attaches to the posterior aspect of the calcaneus. The two heads of the gastrocnemius and the soleus are collectively known as the triceps surae (see Chapter 21)" @duttonDuttonOrthopaedicExamination2020 
+
+"Although the primary function of the gastrocnemiussoleus complex is to plantar flex the ankle and to supinate the subtalar joint, the gastrocnemius also functions to flex or extend the knee, depending on whether the lower extremity is WB or not. It has been proposed that weakness of the gastrocnemius may cause knee hyperextension." @duttonDuttonOrthopaedicExamination2020 
 
 # Examination
 
@@ -11,4 +17,11 @@ title: Gastrocnemius Muscle
 ### Length Test
 Gastroc: knee extended + DF
 
+:::
+
+
+# Function
+
+:::{.callout-note title="Theoretical Function"}
+"In addition, it has been theorized that the gastrocnemius acts as an antagonist to the ACL, exerting an anteriorly directed pull on the tibia throughout the range of knee flexion–extension motion, particularly when the knee is near extension." @duttonDuttonOrthopaedicExamination2020 
 :::

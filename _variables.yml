@@ -95,15 +95,70 @@ ref-calcaneus-bone:
   pathology: "/"
   osteomyelitis: "/The Archive/Pathologies/Bone pathologies/Calcaneus/calcaneal_osteomyelitis.qmd"
   apophysitis: "/"
-
+ref-coxal-bone:
+  path: "/The Archive/Anatomy/Bones/Lower Extremity Bones/coxal_bone.qmd"
+  asis: "/The Archive/Anatomy/Bones/Lower Extremity Bones/coxal_bone.qmd#asis"
+  aiis: "/The Archive/Anatomy/Bones/Lower Extremity Bones/coxal_bone.qmd#aiis"
+ref-femur-bone:
+  path: "/The Archive/Anatomy/Bones/Lower Extremity Bones/femur_bone.qmd"
+  intertrochanteric-line: "/The Archive/Anatomy/Bones/Lower Extremity Bones/femur_bone.qmd#intertrochanteric-line"
+  linea-aspera: "/The Archive/Anatomy/Bones/Lower Extremity Bones/femur_bone.qmd#linea-aspera"
+ref-tibia-bone:
+  path: "/The Archive/Anatomy/Bones/Lower Extremity Bones/tibia_bone.qmd"
 ## Cartilage
 ref-costal-cartilages:
   path: "/The Archive/Anatomy/Cartilage/costal_cartilages.qmd"
+
+ref-meniscus:
+  path: "/The Archive/Anatomy/Cartilage/Fibrocartilage/Meniscus/menisci.qmd"
+  medial: "/The Archive/Anatomy/Cartilage/Fibrocartilage/Meniscus/medial_meniscus.qmd"
+  lateral: "/The Archive/Anatomy/Cartilage/Fibrocartilage/Meniscus/lateral_meniscus.qmd"
+  test:
+    overview: "/The Archive/Examination/Tests and Measures/Lower extremity tests/Meniscus tests/overview_of_meniscus_tests.qmd"
+    mcmurrays:
+      path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/Meniscus tests/McMurrays_test.qmd"
+      sens: "0.70"
+      spec: "0.71"
+      pediatric:
+        sens: "0.39"
+        spec: "0.86"
+        ppv: "0.62"
+        npv: "0.71"
+    apleys:
+      path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/Meniscus tests/Apleys_test.qmd"
+      sens: "0.60"
+      spec: "0.70"
+      pediatric:
+        sens: ""
+        spec: ""
+        ppv: ""
+        npv: ""
+    joint-line-palpation:
+      path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/Meniscus tests/meniscus_joint_line_palpation.qmd"
+      sens: "0.63"
+      spec: "0.77"
+      pediatric:
+        sens: ""
+        spec: ""
+        ppv: ""
+        npv: ""
+    thessalys:
+      path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/Meniscus tests/thessaly_test.qmd"
+      sens: ""
+      spec: ""
+      pediatric:
+        sens: ""
+        spec: ""
+        ppv: ""
+        npv: ""
 
 ## Connective Tissue
 ref-rectus-sheath:
   path: "/The Archive/Anatomy/Connective tissue/rectus_sheath.qmd"
 
+ref-plica:
+  path: "/The Archive/Anatomy/Connective tissue/plica.qmd"
+  syndrome: "/The Archive/Pathologies/Pathologies by Region/Lower extremity/Knee/plica_syndrome.qmd"
 ## Joints
 ref-joint:
   path: "/The Archive/Anatomy/Joints/joint_overview.qmd"
@@ -117,7 +172,12 @@ ref-cervicothoracic-junction:
 ref-temporomandibular-joint:
   path: "/The Archive/Anatomy/Joints/temporomandibular_joint.qmd"
   articular-disc: "/The Archive/Anatomy/Joints/temporomandibular_joint.qmd#articular-disc"
-
+## Tendon
+ref-pes-anserine:
+  path: "/The Archive/Anatomy/Connective tissue/Tendon/pes_anserine.qmd"
+ref-patellar-tendon:
+  path: "/The Archive/Anatomy/Connective tissue/Tendon/patellar_tendon.qmd"
+  tendinopathy: "/The Archive/Pathologies/Pathologies by Region/Lower extremity/Knee/Patellar_tendinopathy.qmd"
 ## Ligaments
 ref-index-ligaments:
   path: "/The Archive/Anatomy/Ligaments/index_ligaments.qmd"
@@ -580,6 +640,21 @@ ref-subclavius:
 ### Lower Extremity muscles
 #### Gluteal muscles
 
+#### Thigh
+ref-quadricep:
+  path: "/The Archive/Anatomy/OIANs/Lower limb muscles/Quadriceps/quadriceps_muscle_group.qmd"
+  tendon: "/"
+ref-rectus-femoris:
+  path: "/The Archive/Anatomy/OIANs/Lower limb muscles/Quadriceps/rectus_femoris.qmd"
+ref-vastus-lateralis:
+  path: "/The Archive/Anatomy/OIANs/Lower limb muscles/Quadriceps/vastus_lateralis.qmd"
+ref-vastus-intermedius:
+  path: "/The Archive/Anatomy/OIANs/Lower limb muscles/Quadriceps/vastus_intermedius.qmd"
+ref-vastus-medialis:
+  path: "/The Archive/Anatomy/OIANs/Lower limb muscles/Quadriceps/vastus_medialis.qmd"
+ref-articular-genus:
+  path: "/The Archive/Anatomy/OIANs/Lower limb muscles/Quadriceps/articularis_genus.qmd"
+
 #### Lower Leg muscles
 ref-muscle:
   soleus:
@@ -592,6 +667,35 @@ ref-muscle:
 ref-nerve-root:
   path: "/"
   c1: "/The Archive/Anatomy/Nerve Roots/c1_nerve_root.qmd"
+  c2: "/The Archive/Anatomy/Nerve Roots/c2_nerve_root.qmd"
+  c3: "/The Archive/Anatomy/Nerve Roots/c3_nerve_root.qmd"
+  c4: "/The Archive/Anatomy/Nerve Roots/c4_nerve_root.qmd"
+  c5: "/The Archive/Anatomy/Nerve Roots/c5_nerve_root.qmd"
+  c6: "/The Archive/Anatomy/Nerve Roots/c6_nerve_root.qmd"
+  c7: "/The Archive/Anatomy/Nerve Roots/c7_nerve_root.qmd"
+  c8: "/The Archive/Anatomy/Nerve Roots/c8_nerve_root.qmd"
+  t1: "/The Archive/Anatomy/Nerve Roots/t1_nerve_root.qmd"
+  t2: "/The Archive/Anatomy/Nerve Roots/t2_nerve_root.qmd"
+  t3: "/The Archive/Anatomy/Nerve Roots/t3_nerve_root.qmd"
+  t4: "/The Archive/Anatomy/Nerve Roots/t4_nerve_root.qmd"
+  t5: "/The Archive/Anatomy/Nerve Roots/t5_nerve_root.qmd"
+  t6: "/The Archive/Anatomy/Nerve Roots/t6_nerve_root.qmd"
+  t7: "/The Archive/Anatomy/Nerve Roots/t7_nerve_root.qmd"
+  t8: "/The Archive/Anatomy/Nerve Roots/t8_nerve_root.qmd"
+  t9: "/The Archive/Anatomy/Nerve Roots/t9_nerve_root.qmd"
+  t10: "/The Archive/Anatomy/Nerve Roots/t10_nerve_root.qmd"
+  t11: "/The Archive/Anatomy/Nerve Roots/t11_nerve_root.qmd"
+  t12: "/The Archive/Anatomy/Nerve Roots/t12_nerve_root.qmd"
+  l1: "/The Archive/Anatomy/Nerve Roots/L1_nerve_root.qmd"
+  l2: "/The Archive/Anatomy/Nerve Roots/L2_nerve_root.qmd"
+  l3: "/The Archive/Anatomy/Nerve Roots/L3_nerve_root.qmd"
+  l4: "/The Archive/Anatomy/Nerve Roots/L4_nerve_root.qmd"
+  l5: "/The Archive/Anatomy/Nerve Roots/L5_nerve_root.qmd"
+  s1: "/The Archive/Anatomy/Nerve Roots/S1_nerve_root.qmd"
+  s2: "/The Archive/Anatomy/Nerve Roots/S2_nerve_root.qmd"
+  s3: "/The Archive/Anatomy/Nerve Roots/S3_nerve_root.qmd"
+  s4: "/The Archive/Anatomy/Nerve Roots/S4_nerve_root.qmd"
+  s5: "/The Archive/Anatomy/Nerve Roots/S5_nerve_root.qmd"
 ## Nerve
 ref-nerve-index:
   path: "/The Archive/Anatomy/Nerves/nerve_index.qmd"
@@ -626,7 +730,8 @@ ref-nerve-to-subclavius:
 ### Lower Extremity Nerve
 ref-lumbosacral-plexus:
   path: "/The Archive/Anatomy/Nerves/Lumbar plexus/lumbosacral_plexus.qmd"
-
+ref-femoral-nerve:
+  path: "/The Archive/Anatomy/Nerves/Lumbar plexus/femoral_nerve.qmd"
 
 
 
@@ -669,16 +774,16 @@ ref-relative-risk:
 ## Psychometrics
 ref-psychometric:
   path: "/"
-  sensitivity: "/"
-  specificity: "/"
+  sensitivity: "/The Archive/Evidene Based Practice/Psychometrics/sensitivity.qmd"
+  specificity: "/The Archive/Evidene Based Practice/Psychometrics/specificity.qmd"
   likelihood-ratio:
     path: "/"
     positive: "/"
     negative: "/"
   predictive-value:
-    path: "/"
-    positive: "/The Archive/Evidene Based Practice/Psychometrics/negative_predictive_value.qmd"
-    negative: "/The Archive/Evidene Based Practice/Psychometrics/positive_predictive_value.qmd"
+    path: "/The Archive/Evidene Based Practice/Psychometrics/predictive_value.qmd"
+    positive: "/The Archive/Evidene Based Practice/Psychometrics/predictive_value.qmd"
+    negative: "/The Archive/Evidene Based Practice/Psychometrics/predictive_value.qmd"
 ## Reliability
 ref-reliability:
   path: "/The Archive/Evidene Based Practice/Reliability/reliability.qmd"
@@ -1069,6 +1174,14 @@ ref-macrophage:
 ref-chemokine:
   path: "/The Archive/Physiology/Immune system/Immune cells/chemokines.qmd"
 ref-cytokine: "/The Archive/Physiology/Immune system/Immune cells/cytokines.qmd"
+ref-interleukin:
+  path: "/"
+  il-6: "/The Archive/Physiology/Immune system/Immune cells/Cytokines/Interleukin/interleukin_6_IL-6.qmd"
+  il-8: "/The Archive/Physiology/Immune system/Immune cells/Cytokines/Interleukin/interleukin_8_IL-8.qmd"
+  il-1beta: "/The Archive/Physiology/Immune system/Immune cells/Cytokines/Interleukin/interleukin-1beta.qmd"
+ref-tumor-necrosis-factor:
+  path: "/"
+  tnf-alpha: "/The Archive/Physiology/Immune system/Immune cells/Cytokines/Tumor Necrosis Factor/tumor_necrosis_factor_alpha_TNF-alpha.qmd"
 ## Minerals
 ref-copper: 
   path: "/The Archive/Physiology/Minerals/copper.qmd"
@@ -1519,6 +1632,9 @@ ref-object-permanence:
 ref-trigeminal-autonomic-reflex:
   path: "/The Archive/Neuroscience/Neurophysiology/Reflex/trigeminal_autonomic_reflex.qmd"
 
+### Motor Symptoms
+ref-micrographia:
+  path: "/The Archive/Symptoms/Motor Symptoms/micrographia.qmd"
 ### Neuro Symptoms
 ref-anosmia:
   path: "/The Archive/Symptoms/Neuro Symptoms/anosmia.qmd"

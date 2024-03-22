@@ -1,0 +1,16 @@
+{
+  "hash": "77fe2f9c24abe348691b74a15912ecaf",
+  "result": {
+    "markdown": "---\ntitle: Rotator Cuff Muscles\n\n---\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(tidyverse)\nlibrary(gt)\nlibrary(dplyr)\n\nrotator_cuff_data <- read.csv(/The Archive/Anatomy/OIANs/OIAN.csv) %>%\n\nhead(rotator_cuff_data) %>%\n    gt()\n```\n\n::: {.cell-output .cell-output-error}\n```\nError: <text>:5:31: unexpected '/'\n4: \n5: rotator_cuff_data <- read.csv(/\n                                 ^\n```\n:::\n:::",
+    "supporting": [
+      "rotator_cuff_muscles_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

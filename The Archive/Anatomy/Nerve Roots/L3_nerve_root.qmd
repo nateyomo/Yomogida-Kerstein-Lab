@@ -1,0 +1,21 @@
+---
+title: L3 Nerve Root (L3)
+---
+
+
+
+
+# Innervation
+
+:::{layout-ncol="2"}
+### Femoral nerve
+[Femoral nerve]({{< var ref-femoral-nerve.path >}}) L3 innervations 
+
+- [Quadriceps]({{< var ref-quadricep.path >}})
+    - [Rectus Femoris]({{< var ref-rectus-femoris.path >}}) @gilroyAtlasAnatomy2020
+    - [Vastus lateralis]({{< var ref-vastus-lateralis.path >}}) @gilroyAtlasAnatomy2020
+    - [Vastus intermedius]({{< var ref-vastus-intermedius.path >}}) @gilroyAtlasAnatomy2020
+    - [Vastus medialis]({{< var ref-vastus-medialis.path >}}) @gilroyAtlasAnatomy2020
+    - [Articularis Genus]({{< var ref-articularis-genus.path >}}) @gilroyAtlasAnatomy2020
+
+:::

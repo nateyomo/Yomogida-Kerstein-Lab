@@ -1,0 +1,16 @@
+---
+title: Rotator Cuff Muscles
+
+---
+
+```{r}
+library(tidyverse)
+library(gt)
+library(dplyr)
+
+rotator_cuff_data <- read.csv(/The Archive/Anatomy/OIANs/OIAN.csv) %>%
+
+head(rotator_cuff_data) %>%
+    gt()
+
+```

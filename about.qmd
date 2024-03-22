@@ -2,4 +2,14 @@
 title: "About"
 ---
 
-About this site
+:::{layout-ncol="2"}
+
+# Nathaniel Yomogida, SPT
+
+Founder and Editor
+
+# Chloë Kerstein, SPT
+
+Head Researcher
+
+:::

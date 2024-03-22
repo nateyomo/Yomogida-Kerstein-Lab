@@ -1,0 +1,17 @@
+---
+title: Femur
+---
+
+
+# Landmarks
+
+
+## Linea Aspera {#linea-aspera}
+
+- Origin:
+    - [Vastus Medialis]({{< var ref-vastus-medialis.path >}})
+
+## Intertrochanteric line {#intertrochanteric-line}
+
+- Origin:
+    - [Vastus Medialis]({{< var ref-vastus-medialis.path >}})

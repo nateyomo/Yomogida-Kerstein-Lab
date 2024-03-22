@@ -2,6 +2,10 @@
 title: Chi Square Test of Independence ($\chi^{2}$)
 ---
 
+:::{.callout-note title="To read"}
+
+- Motulsky - How it works: Chi-square goodness-of-fit test p.268 @motulskyIntuitiveBiostatisticsNonmathematical2018
+:::
 
 
 - AKA
@@ -24,4 +28,5 @@ title: Chi Square Test of Independence ($\chi^{2}$)
 
 - The calculations needed to compute the Chi-square provide considerable information about how each of the groups performed in the study.
 - This richness of detail allows the researcher to understand the results and thus to derive more detailed information from this statistic than from many others.
+
 

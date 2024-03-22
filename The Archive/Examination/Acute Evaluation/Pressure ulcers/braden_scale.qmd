@@ -1,0 +1,11 @@
+---
+title: Braden Scale
+subtitle: Scale for predicting risk of Pressure Injury
+---
+
+
+
+
+# Resources
+
+{{< pdf "/The Archive/Examination/Acute Evaluation/Pressure ulcers/images/Braden_Scale.pdf" width=100% height=600 >}}

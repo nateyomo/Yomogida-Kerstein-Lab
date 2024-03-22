@@ -1,0 +1,27 @@
+---
+title: C5 Nerve Root
+---
+
+
+
+
+
+
+# DDX
+
+:::{layout-ncol="3"}
+### Level
+C4/C5 @hongReliabilityDiagnosticAccuracy2022
+
+### Sensation
+Deltoid and lateral arm @hongReliabilityDiagnosticAccuracy2022 
+
+### Motor
+
+- Deltoid @hongReliabilityDiagnosticAccuracy2022
+- Biceps @hongReliabilityDiagnosticAccuracy2022
+
+### Abnormal DTR
+Bicep reflex @hongReliabilityDiagnosticAccuracy2022
+
+:::
