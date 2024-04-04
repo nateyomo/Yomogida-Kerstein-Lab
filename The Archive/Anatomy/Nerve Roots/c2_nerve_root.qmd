@@ -1,3 +1,12 @@
 ---
 title: C2 Nerve Root (C2)
 ---
+
+
+
+# Lesion
+
+"Sensory symptoms and signs due to C2 lesions are localized to the scalp posterior to the interaural line (the C2 dermatome). The motor supply of this segment involves the same muscles responsible for head and neck movements as those innervated by segment C1. In addition, the C2 nerve helps supply the sternocleidomastoid muscle (head rotation and flexion)
+
+which is predominantly innervated by the spinal accessory nerve (cranial nerve XI)." @brazisLocalizationClinicalNeurology2022
+

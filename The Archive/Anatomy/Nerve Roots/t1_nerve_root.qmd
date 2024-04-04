@@ -1,0 +1,8 @@
+---
+title: T1 Nerve Root (T1)
+---
+
+
+# Lesion
+
+"Sensory disturbances occur on the medial arm. Paresis occurs variably in the following muscles: abductor pollicis brevis, opponens pollicis, flexor pollicis brevis, all lumbricals and interossei, abductor digiti minimi, opponens digiti minimi, flexor digiti minimi, and adductor pollicis [16]. The finger flexor reflex (C8 T1) may be depressed. Sympathetic fibers destined for the superior cervical ganglia are interrupted, resulting in an ipsilateral Horner syndrome." @brazisLocalizationClinicalNeurology2022

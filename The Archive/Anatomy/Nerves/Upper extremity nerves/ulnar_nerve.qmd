@@ -1,0 +1,12 @@
+---
+title: Ulnar Nerve
+---
+
+
+
+# Entrapment
+
+:::{.callout-note}
+
+- Nyman E, Dahlin LB. The Unpredictable Ulnar Nerve-Ulnar Nerve Entrapment from Anatomical, Pathophysiological, and Biopsychosocial Aspects. Diagnostics (Basel). 2024;14(5):489. Published 2024 Feb 24. doi:10.3390/diagnostics14050489
+:::

@@ -11,3 +11,10 @@ title: C7 Nerve root
 | C7/T1 | C8 | Ulnar forearm to ring and little finger @hongReliabilityDiagnosticAccuracy2022 | Hand Intrinsic @hongReliabilityDiagnosticAccuracy2022 <br> Finger Flexor @hongReliabilityDiagnosticAccuracy2022 | N/a @hongReliabilityDiagnosticAccuracy2022 |
 
 : {.striped .hover}
+
+
+# Lesion
+
+"This nerve root is often compressed by disc herniation at the C6 C7 vertebral level (the most common level of disc herniation) [20,29]. C7 root involvement results in pain in the dorsal forearm. In some patients, pain may be subscapular or located in the deep breast or chest [24]. Sensory disturbances occur on the third and fourth digits. Paresis occurs variably in the following muscles: serratus anterior, pectoralis major, latissimus dorsi, pronator teres, flexor carpi radialis, triceps, extensor carpi radialis longus, extensor carpi radialis brevis, and extensor digitorum (examination of these muscles is described in Chapter 2 ). The triceps reflex (C7 C8) may be depressed." @brazisLocalizationClinicalNeurology2022 
+
+"Pseudomyotonia is a term applied to the difficulty in opening the hand because of cervical osteoarthritis. Muscle relaxation is normal but attempts to extend the fingers produce paradoxical flexion of the fingers, probably as a result of misdirected regeneration of C7 nerve root fibers [34]." @brazisLocalizationClinicalNeurology2022 

@@ -45,3 +45,20 @@ Ptosis, often with ophthalmoplegia, may be added. The differential diagnosis the
 ## Gait
 
 - [Steppage Gait]({{< var ref-gait.symptom.steppage >}})
+
+
+
+# Examination
+
+## GBS Disability Scale
+
+| Score | Description |
+|-|-|
+|0 | A healthy State |
+| 1 | Minor symptoms and capable of running |
+|2| Able to walk 10m or more without assistance but unable to run|
+|3| Able to walk 10m across an open space with help|
+|4| Bedridden or chairbound|
+|5| Requiring assisted ventilation for at least part of the day|
+|6| Dead|
+: {.striped .hover}

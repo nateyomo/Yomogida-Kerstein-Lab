@@ -30,3 +30,9 @@ RR = \frac{1.7}{8.8} = 0.19
 $$
 
 To interpret it this way, you would say that the experimental group had 19% of the risk of the control group.
+
+
+
+# Comparing Risk
+
+See @georgeWhatRiskDifferentiating2020 

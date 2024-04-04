@@ -4,7 +4,9 @@ title: C5 Nerve Root
 
 
 
+# Lesion
 
+"C5 nerve root involvement results in neck, shoulder, and upper anterior arm pain. Sensory disturbances occur on the lateral arm with these lesions. Paresis occurs predominantly and variably in the following muscles: levator scapulae, rhomboids, serratus anterior, supraspinatus, infraspinatus, deltoid, biceps, and brachioradialis (for methods of examination of each of these muscles, see Chapter 2 ). Diaphragmatic paresis may rarely occur owing to C5 fibers reaching the phrenic nerve. The biceps reflex (subserved by segments C5 C6) and the brachioradialis reflex (C5 C6) may be depressed." @brazisLocalizationClinicalNeurology2022
 
 
 # DDX

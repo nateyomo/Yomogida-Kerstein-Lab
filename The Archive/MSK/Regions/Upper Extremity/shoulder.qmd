@@ -27,3 +27,4 @@ Special tests for the shoulder have multiple issues.
 - Hyperalgesia: Areas with increased inflammatory markers can cause unrelated areas to be sensitive to certain positions.  For example the subacromial bursa has high concentrations of substance P and pro-inflammatory cytokines and is often aggravated by the Empty can test @salamhItTimePut2020.
 - Allodynia: Pain is not directly related to tissue damage @salamhItTimePut2020.
 :::
+

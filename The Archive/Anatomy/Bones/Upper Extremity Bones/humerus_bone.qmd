@@ -70,6 +70,13 @@ Dysfunction:
 : {.striped .hover}
 </details>
 
+# Anatomical Changes
+
+- Humeral Retroversion
+
+
+
+
 # Dysfunction
 
 - [Lateral epicondylitis (Tennis elbow)]({{< var ref-lateral-epicondylitis.path >}})
@@ -79,3 +86,4 @@ Dysfunction:
 - Proximal humeral fx: Can have associated neural complications
     - Radial n: Wrist ext & Elbow str
     - Axillary n: Deltoid weakness
+

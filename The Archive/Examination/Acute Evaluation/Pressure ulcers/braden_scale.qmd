@@ -4,7 +4,9 @@ subtitle: Scale for predicting risk of Pressure Injury
 ---
 
 
+# Psychometrics
 
+See @zhangValuePressureInjury2021 
 
 # Resources
 

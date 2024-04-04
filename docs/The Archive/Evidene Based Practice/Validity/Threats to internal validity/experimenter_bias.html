@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>YK Lab - Experimenter Bias</title>
+<title>YK Lab - Experimenter Effects</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,7 +20,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -121,7 +140,9 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Contents</h2>
    
   <ul>
-  <li><a href="#prevention" id="toc-prevention" class="nav-link active" data-scroll-target="#prevention">Prevention</a></li>
+  <li><a href="#experimenter-effects" id="toc-experimenter-effects" class="nav-link active" data-scroll-target="#experimenter-effects">Experimenter Effects</a></li>
+  <li><a href="#experimenter-bias" id="toc-experimenter-bias" class="nav-link" data-scroll-target="#experimenter-bias">Experimenter Bias</a></li>
+  <li><a href="#prevention" id="toc-prevention" class="nav-link" data-scroll-target="#prevention">Prevention</a></li>
   </ul>
 </nav>
     </div>
@@ -130,7 +151,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Experimenter Bias</h1>
+<h1 class="title">Experimenter Effects</h1>
 </div>
 
 
@@ -152,6 +173,13 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<section id="experimenter-effects" class="level1">
+<h1>Experimenter Effects</h1>
+<p>“Experimenter effects, including experimenter bias, are the unintended influences of the researcher on the study. For example, consider a study that is testing the effects of a new type of psychotherapy. Suppose that the researcher is a therapist evaluating the mental health of the participants. In this case, it is quite possible that the therapist’s desire to see the study work creates an unconscious predisposition to see participants in the experimental group as having improved more. Even if an independent observer rates the two groups but knows who is in which group, a desire for the experiment to come out a particular way may unintentionally influence the observer’s evaluations.”<span class="citation" data-cites="aronStatisticsPsychology2013"><sup><a href="#ref-aronStatisticsPsychology2013" role="doc-biblioref">1</a></sup></span></p>
+<p>“The preferred solution to this problem is called blind conditions of testing. This means that the experimenter, at the time of interacting with the participant, is not aware of whether the participant is in the experimental or control group. (We already considered above what is called double-blind testing, where neither researcher nor participant knows what condition they are in. There we were emphasizing the importance of the participant not being aware of who was in what condition; here we are emphasizing the importance of the experimenter not knowing who is in which condition at the time of testing.)”<span class="citation" data-cites="aronStatisticsPsychology2013"><sup><a href="#ref-aronStatisticsPsychology2013" role="doc-biblioref">1</a></sup></span></p>
+</section>
+<section id="experimenter-bias" class="level1">
+<h1>Experimenter Bias</h1>
 <p>Experimenter bias can occur if the investigator is not blinded to which group the patient is in, which creates a higher chance that they may consciously or unconsciously influence the patient response during testing.</p>
 <p>Experimenter bias can occur for tests involving:</p>
 <ul>
@@ -173,14 +201,20 @@ Example
 <p>Same examiner who provided experimental and control treatments also assesses ROM before and after intervention could consciously or subconsciously provide more overpressure.</p>
 </div>
 </div>
+</section>
 <section id="prevention" class="level1">
 <h1>Prevention</h1>
 <p>Blinding: In general more people who are blinded, the more confident you can be in the results</p>
 
 
+
 </section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-aronStatisticsPsychology2013" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Aron A, Coups EJ, Aron E. <em>Statistics for Psychology</em>. 6th ed. Pearson; 2013.</div>
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

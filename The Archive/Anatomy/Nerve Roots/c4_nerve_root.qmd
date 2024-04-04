@@ -1,3 +1,11 @@
 ---
 title: C4 Nerve Root (C4)
 ---
+
+
+
+
+
+# Lesion
+
+"Sensory signs and symptoms occur on the lower neck. Paresis occurs in the scalene and levator scapulae muscles (lateral neck flexion and scapular rotation, respectively), rhomboid muscles (scapular elevation and adduction), trapezius muscle (shoulder elevation), and some muscles of the neck. Diaphragmatic paresis may also occur because some fibers reach the phrenic nerve. There is no reflex impairment." @brazisLocalizationClinicalNeurology2022 

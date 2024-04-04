@@ -20,7 +20,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -117,7 +136,13 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Contents</h2>
+   
+  <ul>
+  <li><a href="#lesion" id="toc-lesion" class="nav-link active" data-scroll-target="#lesion">Lesion</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -146,10 +171,20 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<section id="lesion" class="level1">
+<h1>Lesion</h1>
+<p>“Sensory disturbances occur on the lower occiput, the angle of the jaw, and the upper neck [28]. Paresis may occur in the scalene and levator scapulae muscles of the neck (including the infrahyoids, semispinalis capitis and cervicis, longissimus capitis and cervicis, intertransversarii, rotatores, multifidi), and in the trapezius (shoulder elevation), this last muscle being predominantly innervated by the spinal accessory nerve (cranial nerve XI). Diaphragmatic paresis may also result because the phrenic nerve receives some of its fibers from the C3 segment.”<span class="citation" data-cites="brazisLocalizationClinicalNeurology2022"><sup><a href="#ref-brazisLocalizationClinicalNeurology2022" role="doc-biblioref">1</a></sup></span></p>
+<p>“Irritation of the C3 nerve root may cause a painful, burning, red ear (red ear syndrome) [15]. The increased ear temperature may be caused by antidromic release of vasodilator peptides. This red ear syndrome may also occur with temporomandibular joint dysfunction and with thalamic lesions [15].”<span class="citation" data-cites="brazisLocalizationClinicalNeurology2022"><sup><a href="#ref-brazisLocalizationClinicalNeurology2022" role="doc-biblioref">1</a></sup></span></p>
 
 
 
-</main> <!-- /main -->
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-brazisLocalizationClinicalNeurology2022" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Brazis PW, Masdeu JC, Biller J. <em>Localization in Clinical Neurology</em>. 8th ed. Wolters Kluwer Health; 2022.</div>
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
