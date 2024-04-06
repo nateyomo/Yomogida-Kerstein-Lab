@@ -1,0 +1,23 @@
+---
+title: Thoracodorsal Nerve
+---
+
+
+:::{.callout title="AKA"}
+
+- Thoracodorsal Nerve
+- Middle Subscapular Nerve
+:::
+
+
+# Origin
+
+The Thoracodorsal nerve branches from the [Posterior Cord]({{< var ref-brachial-plexus.posterior-cord >}}) and originates from {{< var ref-thoracodorsal-nerve.roots >}} nerve roots @duttonDuttonOrthopaedicExamination2020.
+
+# Path
+
+1. The Thoracodorsal nerve comes off the [Posterior Cord]({{< var ref-brachial-plexus.posterior-cord >}}) @duttonDuttonOrthopaedicExamination2020
+1. Travels along the posterior–lateral chest wall @duttonDuttonOrthopaedicExamination2020
+1. Along the surface of the [serratus anterior]({{< var ref-serratus-anterior.path >}}) @duttonDuttonOrthopaedicExamination2020
+1. Dives deep to the [subscapularis muscle]({{< var ref-subscapularis.path >}}) @duttonDuttonOrthopaedicExamination2020
+1. Finally giving rise to branches that innervate the latissimus dorsi @duttonDuttonOrthopaedicExamination2020 

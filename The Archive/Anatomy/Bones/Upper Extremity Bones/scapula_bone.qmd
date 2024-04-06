@@ -57,7 +57,7 @@ One of the borders of the [thoracic outlet]({{< var ref-thoracic-outlet.path >}}
 </details>
 
 
-## Coracoid process
+## Coracoid process {#coracoid-process}
 
 <details>
 | Muscle  | Origin | Insertion | Nerve | Action |

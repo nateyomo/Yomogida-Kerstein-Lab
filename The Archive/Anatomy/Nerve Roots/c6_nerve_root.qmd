@@ -12,6 +12,9 @@ title: C6 Nerve Root
 
 : {.striped .hover}
 
+# Contribution
+
+C6 along with [C5]({{< var ref-nerve-root.c5 >}}) contribute to the [Superior trunk]({{< var ref-brachial-plexus.superior-trunk >}}) of the [brachial plexus]({{< var ref-brachial-plexus.path >}}).
 
 # Lesion
 

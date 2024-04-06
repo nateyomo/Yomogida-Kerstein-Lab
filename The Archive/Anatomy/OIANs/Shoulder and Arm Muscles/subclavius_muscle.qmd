@@ -21,4 +21,14 @@ title: Subclavius Muscle
 [N. to subclavius (C5, C6)]({{< var ref-nerve-to-subclavius.path >}}) @gilroyAtlasAnatomy2020
 
 ## Action
-Steadies the clavicle in the sternoclavicular joint @gilroyAtlasAnatomy2020
+
+- Subclavius muscle contraction results in a depression of the clavicle and elevation of the 1st rib @duttonDuttonOrthopaedicExamination2020.
+- This action primarily stabilizes the clavicle in the sternoclavicular joint [@duttonDuttonOrthopaedicExamination2020; @gilroyAtlasAnatomy2020]
+
+:::{.callout-note}
+The subclavius' ability to stabilize the SCJ depends on the degree of shoulder motion @duttonDuttonOrthopaedicExamination2020. 
+:::
+
+## Practical Function
+
+- The subclavius muscle actions aid in stability of the clavicle in the sternoclavicular joint @duttonDuttonOrthopaedicExamination2020 

@@ -41,6 +41,7 @@ ref-clavicle-bone:
 ref-scapula-bone:
   path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/scapula_bone.qmd"
   superior-border: "/The Archive/Anatomy/Bones/Upper Extremity Bones/scapula_bone.qmd#superior-border"
+  coracoid-process: "/The Archive/Anatomy/Bones/Upper Extremity Bones/scapula_bone.qmd#coracoid-process"
 ref-humerus-bone:
   path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/humerus_bone.qmd"
 ref-ulna-bone:
@@ -254,6 +255,8 @@ ref-rectus-capitis-lateralis:
   nerve: "C1 Anterior Ramus"
   action: "**BIL**: flex AO Joint; <br/> **UNIL**: Lateral Flexion of AO joint"
 
+ref-serratus-anterior:
+  path: "/The Archive/Anatomy/OIANs/Shoulder and Arm Muscles/serratus_anterior_muscle.qmd"
 ref-serratus-posterior-superior: 
   path: /The Archive/Anatomy/OIANs/Muscles of the back/serratus_posterior_superior.qmd
   origin: "[Nuchal ligament]({{< var ref-nuchal-ligament.path >}}), C7-T3 SP"
@@ -538,6 +541,8 @@ ref-sternocleidomastoid:
   insertion: "[Temporal bone (mastoid process)]({{< var ref-temporal-bone.path >}}); <br/> [Occipital bone (superior nuchal line)]({{< var ref-occipital-bone.path >}})"
   nerve: "[**Motor**: CN XI Accessory n.]({{< var ref-cn11.path >}}) <br/> **Proprioception**: Cervical plexus (C2, C3, C4)"
   action: "**Unilateral**: Tilts head to same side, rotates head to opposite side; <br/> **Bilateral**: Extends head, aids in respiration when head is fixed"
+ref-trapezius:
+  path: "/The Archive/Anatomy/OIANs/Head and Neck/Neck Muscles/trapezius_muscle.qmd"
 ref-upper-trapezius:
   path: "/The Archive/Anatomy/OIANs/Head and Neck/Neck Muscles/trapezius_muscle.qmd"
   origin: "[Occipital bone]({{< var ref-occipital-bone.path >}}), SP of C1–C7"
@@ -556,6 +561,12 @@ ref-lower-trapezius:
   insertion: "[Scapular Spine]({{< var ref-scapula-bone.path >}})"
   nerve: "[**Motor**: CN XI Accessory n.]({{< var ref-cn11.path >}}) <br/> **Proprioception**: Cervical plexus (C2, C3, C4)"
   action: "Draws scapula medially downward"
+ref-anterior-scalene:
+  path: "/The Archive/Anatomy/OIANs/Head and Neck/Neck Muscles/anterior_scalene_muscle.qmd"
+ref-middle-scalene:
+  path: "/The Archive/Anatomy/OIANs/Head and Neck/Neck Muscles/middle_scalene_muscle.qmd"
+ref-posterior-scalene:
+  path: "/The Archive/Anatomy/OIANs/Head and Neck/Neck Muscles/posterior_scalene_muscle.qmd"
 ### Shoulder and arm muscles
 
 ref-deltoid-muscle:
@@ -596,7 +607,7 @@ ref-subscapularis:
   path: "/The Archive/Anatomy/OIANs/Shoulder and Arm Muscles/subscapularis_muscle.qmd"
   origin: "Subscapular fossa of [scapula]({{< var ref-scapula-bone.path >}})"
   insertion: "Lesser tubercle of [Humerus]({{< var ref-humerus-bone.path >}})"
-  nerve: "[Upper and Lower subscapular nerves (C5, C6)]({{< var ref-upper-subscapular-nerve.path >}})"
+  nerve: "[Upper and Lower subscapular nerves (C5, C6)]({{< var ref-subscapular-nerve.upper >}})"
   action: "Internal Rotation"
 ref-teres-minor:
   path: "/The Archive/Anatomy/OIANs/Shoulder and Arm Muscles/teres_minor_muscle.qmd"
@@ -708,25 +719,67 @@ ref-spinal-nerves:
 
 ### Upper extremity nerve
 ref-brachial-plexus:
-  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/brachial_plexus.qmd"
-  inferior-trunk: "/The Archive/Anatomy/Nerves/Upper extremity nerves/brachial_plexus.qmd#inferior-trunk"
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/Brachial Plexus/brachial_plexus.qmd"
+  superior-trunk: "/The Archive/Anatomy/Nerves/Upper extremity nerves/Brachial Plexus/superior_trunk_nerve.qmd"
+  middle-trunk: "/The Archive/Anatomy/Nerves/Upper extremity nerves/Brachial Plexus/middle_trunk_nerve.qmd"
+  inferior-trunk: "/The Archive/Anatomy/Nerves/Upper extremity nerves/Brachial Plexus/inferior_trunk_nerve.qmd"
+  anterior-division-of-superior-trunk: "/"
+  posterior-division-of-superior-trunk: "/"
+  anterior-division-of-middle-trunk: "/"
+  posterior-division-of-middle-trunk: "/"
+  anterior-division-of-inferior-trunk: "/"
+  posterior-division-of-inferior-trunk: "/"
+  lateral-cord: "/"
+  posterior-cord: "/"
+  medial-cord: "/"
+ref-dorsal-scapular-nerve:
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/dorsal_scapular_nerve.qmd"
+  roots: "[C5]({{< var ref-nerve-root.c5 >}})"
+ref-long-thoracic-nerve:
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/long_thoracic_nerve.qmd"
+  roots: "[C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}), & [C7]({{< var ref-nerve-root.c7 >}})"
 ref-axillary-nerve:
   path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/axillary_nerve.qmd"
-  roots: (C5, C6)
+  roots: "[C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}})"
 ref-suprascapular-nerve:
   path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/suprascapular_nerve.qmd"
   roots: "(C4-C6)"
-ref-upper-subscapular-nerve:
+ref-subscapular-nerve:
   path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/subscapular_nerve.qmd"
-  roots: ""
+  roots: "[C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}})"
+  upper: "/The Archive/Anatomy/Nerves/Upper extremity nerves/subscapular_nerve.qmd"
+  middle: "/The Archive/Anatomy/Nerves/Upper extremity nerves/thoracodorsal_nerve.qmd"
+  lower: "/The Archive/Anatomy/Nerves/Upper extremity nerves/subscapular_nerve.qmd"
+ref-thoracodorsal-nerve:
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/thoracodorsal_nerve.qmd"
+  roots: "[C6]({{< var ref-nerve-root.c6 >}}), [C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}}), & [C8]({{< var ref-nerve-root.c8 >}})"
 ref-lateral-pectoral-nerve:
   path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/lateral_pectoral_nerve.qmd"
+  roots: "[C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-roots.c6 >}}), & [C7]({{< var ref-nerve-roots.c7 >}})"
 ref-medial-pectoral-nerve:
   path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/medial_pectoral_nerve.qmd"
+  roots: "[C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-roots.t1 >}})"
+ref-medial-cutaneous-nerve-of-the-arm:
+  path: "/"
+  roots: "[C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-roots.t1 >}})"
+ref-medial-cutaneous-nerve-of-the-forearm:
+  path: "/"
+  roots: "[C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-roots.t1 >}})"
 ref-musculocutaneous-nerve:
   path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/musculocutaneous_nerve.qmd"
+  roots: "[C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}})"
 ref-nerve-to-subclavius:
   path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/nerve_to_subclavius.qmd"
+  roots: "/"
+ref-radial-nerve:
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/radial_nerve.qmd"
+  roots: "[C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})"
+ref-median-nerve:
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/median_nerve.qmd"
+  roots: "[C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})"
+ref-ulnar-nerve:
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/ulnar_nerve.qmd"
+  roots: "[C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})"
 ### Lower Extremity Nerve
 ref-lumbosacral-plexus:
   path: "/The Archive/Anatomy/Nerves/Lumbar plexus/lumbosacral_plexus.qmd"
@@ -761,6 +814,62 @@ ref-heart-sounds:
 ref-cardiac-dysfunction-management:
   path: "/The Archive/Cardiac System/Cardiac Interventions/Internal Medicine Interventions/cardiac_dysfunction_management.qmd"
 
+# Biochemistry
+## Enzymes
+ref-creatine-kinase:
+  path: "/The Archive/Chemistry/Biochemistry/Enzymes/Creatine Kinase/creatine_kinase.qmd"
+  mb:
+    path: "/The Archive/Chemistry/Biochemistry/Enzymes/Creatine Kinase/creatine_kinase.qmd#creatine-kinase-mb"
+ref-superoxide-dismutases-group: 
+  path: "/The Archive/Chemistry/Biochemistry/Enzymes/superoxide_dismutases_group.qmd"
+ref-CuZnSOD-copper-zinc-superoxide-dismutase:
+  path: "/The Archive/Chemistry/Biochemistry/Enzymes/CuZnSOD_copper-zinc_superoxide_dismutase.qmd"
+ref-diamine-oxidase:
+  path: "/The Archive/Chemistry/Biochemistry/Enzymes/diamine_oxidase.qmd"
+## Minerals
+ref-copper: 
+  path: "/The Archive/Chemistry/Biochemistry/Minerals/copper.qmd"
+ref-iron:
+  path: "/The Archive/Chemistry/Biochemistry/Minerals/iron.qmd"
+## Proteins
+ref-von-willebrand-factor:
+  path: "/The Archive/Chemistry/Biochemistry/Proteins/Von_Willebrand_factor.qmd"
+ref-vascular-endothelial-growth-factor:
+  path: "/The Archive/Chemistry/Biochemistry/Proteins/vascular_endothelial_growth_factor.qmd"
+ref-nestin-protein:
+  path: "/The Archive/Chemistry/Biochemistry/Proteins/nestin_protein.qmd"
+ref-c-reactive-protein:
+  path: "/The Archive/Chemistry/Biochemistry/Proteins/C-reactive_protein.qmd"
+  serum:
+    path: "/The Archive/Chemistry/Biochemistry/Proteins/C-reactive_protein.qmd#serum-CRP"
+    sensitivity: ""
+    specificity: ""
+ref-troponin:
+  overview:
+    path: "/The Archive/Chemistry/Biochemistry/Proteins/Troponin/troponin_overview.qmd"
+  ctnt:
+    path: "/The Archive/Chemistry/Biochemistry/Proteins/Troponin/cardiac_troponin_T_cTnT.qmd"
+  ctni:
+    path: "/The Archive/Chemistry/Biochemistry/Proteins/Troponin/cardiac_troponin_I_cTnI.qmd"
+
+## Non-proteins
+ref-creatine:
+  path: "/The Archive/Chemistry/Biochemistry/Non-proteins/creatine.qmd"
+ref-adenosine-triphosphate:
+  path: "/The Archive/Chemistry/Biochemistry/Non-proteins/ATP_adenosine_triphosphate.qmd"
+ref-adenosine-diphosphate:
+  path: "/The Archive/Chemistry/Biochemistry/Non-proteins/ADP_adenosine_diphosphate.qmd"
+ref-phosphocreatine:
+  path: "/The Archive/Chemistry/Biochemistry/Non-proteins/PCr_phosphocreatine.qmd"
+## Neurotransmitters
+ref-glutamate:
+  path: "/The Archive/Chemistry/Biochemistry/Neurotransmitters/glutamate.qmd"
+
+## Neutrophic factors
+ref-neurotrophic-hormone-deficiency-theory: 
+  path: "/The Archive/Chemistry/Biochemistry/Neutrotrophic Factors/neurotrophic-hormone-deficiency-theory.qmd"
+
+# Organic Chemistry
 # Evidence Based Practice (EBP)
 ref-EBP-index:
   path: "/The Archive/Evidene Based Practice/EBP_index.qmd"
@@ -1043,48 +1152,6 @@ ref-cd34:
 ref-cxcl-13:
   path: "/The Archive/Microbiology/Cells/Chemokines/CXCL13_chemokine.qmd"
   csf: "/The Archive/Microbiology/Cells/Chemokines/CXCL13_chemokine.qmd#csf"
-## Enzymes
-ref-creatine-kinase:
-  path: "/The Archive/Microbiology/Enzymes/Creatine Kinase/creatine_kinase.qmd"
-  mb:
-    path: "/The Archive/Microbiology/Enzymes/Creatine Kinase/creatine_kinase.qmd#creatine-kinase-mb"
-ref-superoxide-dismutases-group: 
-  path: "/The Archive/Microbiology/Enzymes/superoxide_dismutases_group.qmd"
-ref-CuZnSOD-copper-zinc-superoxide-dismutase:
-  path: "/The Archive/Microbiology/Enzymes/CuZnSOD_copper-zinc_superoxide_dismutase.qmd"
-ref-diamine-oxidase:
-  path: "/The Archive/Microbiology/Enzymes/diamine_oxidase.qmd"
-
-## Proteins
-ref-von-willebrand-factor:
-  path: "/The Archive/Microbiology/Proteins/Von_Willebrand_factor.qmd"
-ref-vascular-endothelial-growth-factor:
-  path: "/The Archive/Microbiology/Proteins/vascular_endothelial_growth_factor.qmd"
-ref-nestin-protein:
-  path: "/The Archive/Microbiology/Proteins/nestin_protein.qmd"
-ref-c-reactive-protein:
-  path: "/The Archive/Microbiology/Proteins/C-reactive_protein.qmd"
-  serum:
-    path: "/The Archive/Microbiology/Proteins/C-reactive_protein.qmd#serum-CRP"
-    sensitivity: ""
-    specificity: ""
-ref-troponin:
-  overview:
-    path: "/The Archive/Microbiology/Proteins/Troponin/troponin_overview.qmd"
-  ctnt:
-    path: "/The Archive/Microbiology/Proteins/Troponin/cardiac_troponin_T_cTnT.qmd"
-  ctni:
-    path: "/The Archive/Microbiology/Proteins/Troponin/cardiac_troponin_I_cTnI.qmd"
-
-## Non-proteins
-ref-creatine:
-  path: "/The Archive/Microbiology/Non-proteins/creatine.qmd"
-ref-adenosine-triphosphate:
-  path: "/The Archive/Microbiology/Non-proteins/ATP_adenosine_triphosphate.qmd"
-ref-adenosine-diphosphate:
-  path: "/The Archive/Microbiology/Non-proteins/ADP_adenosine_diphosphate.qmd"
-ref-phosphocreatine:
-  path: "/The Archive/Microbiology/Non-proteins/PCr_phosphocreatine.qmd"
 
 # MSK
 ref-msk-index:
@@ -1182,27 +1249,12 @@ ref-interleukin:
 ref-tumor-necrosis-factor:
   path: "/"
   tnf-alpha: "/The Archive/Physiology/Immune system/Immune cells/Cytokines/Tumor Necrosis Factor/tumor_necrosis_factor_alpha_TNF-alpha.qmd"
-## Minerals
-ref-copper: 
-  path: "/The Archive/Physiology/Minerals/copper.qmd"
-ref-iron:
-  path: "/The Archive/Physiology/Minerals/iron.qmd"
+
 ## Muscle
-
-## Neurotransmitters
-ref-glutamate:
-  path: "/The Archive/Physiology/Neurotransmitters/glutamate.qmd"
-
-## Neutrophic factors
-
-ref-neurotrophic-hormone-deficiency-theory: 
-  path: "/The Archive/Physiology/Neutrotrophic Factors/neurotrophic-hormone-deficiency-theory.qmd"
 
 ## Nutrients
 ref-coenzyme-q10:
   path: "/The Archive/Physiology/Nutrients/coenzyme_Q10.qmd"
-
-
 
 ## Physiology of stress
 ref-oxidative-stress: 
@@ -1478,7 +1530,7 @@ ref-cn10:
   path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN10_Vagus.qmd"
   vagal-nerve-stimulation: "/The Archive/Interventions/vagal_nerve_stimulation.qmd"
 ref-cn11:
-  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN11_Accessory.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN11_Spinal_Accessory.qmd"
 ref-cn12:
   path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN12_Hypoglossal.qmd"
 
@@ -1679,6 +1731,8 @@ ref-bell-palsy:
   path: "/The Archive/Neuroscience/Neuropathology/Peripheral Nervous System Pathologies/Peripheral Neuralgia/Bell_palsy.qmd"
 ref-guillain-barre-syndrome:
   path: "/The Archive/Neuroscience/Neuropathology/Peripheral Nervous System Pathologies/Guillain-barre_syndrome.qmd/guillain-barre-syndrome.qmd"
+ref-erbs-palsy:
+  path: "/The Archive/Neuroscience/Neuropathology/Peripheral Nervous System Pathologies/Erbs_palsy.qmd"
 
 ## Neuropathophysiology
 ref-lewy-bodies:

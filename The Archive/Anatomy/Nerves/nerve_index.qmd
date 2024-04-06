@@ -13,5 +13,5 @@ title: Index of Nerves
 - [Lateral Pectoral nerve]({{< var ref-lateral-pectoral-nerve.path >}})
 - [Medial Pectoral nerve]({{< var ref-medial-pectoral-nerve.path >}})
 - Subscapular nerve
-    - [Upper Subscapular nerve]({{< var ref-upper-subscapular-nerve.path >}})
+    - [Upper Subscapular nerve]({{< var ref-subscapular-nerve.upper >}})
 - [Suprascapular nerve]({{< var ref-suprascapular-nerve.path >}})

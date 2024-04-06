@@ -1,0 +1,29 @@
+---
+title: Dorsal Scapular Nerve
+---
+
+# Origin
+
+- The dorsal scapular nerve is innervated by the [C5 Nerve Root]({{< var ref-nerve-root.c5 >}}) @duttonDuttonOrthopaedicExamination2020.
+- The dorsal scapular nerve frequently shares a trunk with the [Long Thoracic Nerve]({{< var ref-long-thoracic-nerve.path >}}) @duttonDuttonOrthopaedicExamination2020. 
+- The Dorsal Scapular Nerve comes off of the C5 nerve root *prior* to the formation of the [Superior Trunk]({{< var ref-brachial-plexus.superior-trunk >}})
+
+
+# Path
+
+"The former passes through the scalenus medius anterior internally, and scalenus posterior laterally, with the presence of some tendinous tissues" @duttonDuttonOrthopaedicExamination2020 
+
+
+# Innervation
+
+The posterior (dorsal) scapular nerve provies motor innervation to the rhomboids and the levator scapulae muscles @duttonDuttonOrthopaedicExamination2020.
+
+
+# Dysfunction
+
+## Causes
+Dorsal scapular nerve lesions can result from trauma or from a forward posture of the head and the neck @duttonDuttonOrthopaedicExamination2020.
+Forward posture can place increased tension on the anterior cervical spine which can produce hypertonicity and/or hypertrophy of the [Middle Scalene muscle]({{< var ref-middle-scalene.path >}}) @duttonDuttonOrthopaedicExamination2020.
+
+## Clinical Presentation
+Patients with dorsal scapular nerve impingement will complain of scapular pain radiating to the lateral shoulder and arm @duttonDuttonOrthopaedicExamination2020 

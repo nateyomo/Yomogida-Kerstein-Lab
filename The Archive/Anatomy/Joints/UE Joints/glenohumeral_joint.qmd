@@ -1,0 +1,8 @@
+---
+title: Glenohumeral Joint
+---
+
+
+# Innervation
+
+[Suprascapular nerve]({{< var ref-suprascapular-nerve.path >}}) provides sensory and sympathetic afferent fibers to the GHJ @duttonDuttonOrthopaedicExamination2020

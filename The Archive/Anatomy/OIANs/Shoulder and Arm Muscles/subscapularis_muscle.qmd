@@ -16,7 +16,7 @@ Subscapular fossa of [scapula]({{< var ref-scapula-bone.path >}}) @gilroyAtlasAn
 Lesser tubercle of [Humerus]({{< var ref-humerus-bone.path >}}) @gilroyAtlasAnatomy2020
 
 ## Innervation
-[Upper and Lower subscapular nerves (C5, C6)]({{< var ref-upper-subscapular-nerve.path >}})
+[Upper and Lower subscapular nerves (C5, C6)]({{< var ref-subscapular-nerve.upper >}})
 
 ## Action
 Internal Rotation @gilroyAtlasAnatomy2020
