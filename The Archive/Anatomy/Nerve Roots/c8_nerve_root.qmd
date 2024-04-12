@@ -23,3 +23,8 @@ title: C8 Nerve Root (C8)
 "There are frequent intradural communicating fibers between neighboring segments of the cervical posterior roots. These connections are most prominent between a specific cervical segment and the next caudal root. A lesion may therefore be falsely localized clinically to a segment one level higher than its actual location." @brazisLocalizationClinicalNeurology2022 
 
 "The theoretical root syndromes discussed earlier are also related to an “idealized” brachial plexus and do not take into consideration the possibility of a prefixed or postfixed plexus (see Chapter 3 )." @brazisLocalizationClinicalNeurology2022 
+
+
+# Examination
+
+"The patient extends the thumb just short of the full range of motion. The clinician stabilizes the patient’s wrist with one hand and applies an isometric force into thumb flexion with the other (Fig. 25-29)." @duttonDuttonOrthopaedicExamination2020 
