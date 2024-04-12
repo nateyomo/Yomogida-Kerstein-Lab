@@ -755,16 +755,16 @@ ref-thoracodorsal-nerve:
   roots: "[C6]({{< var ref-nerve-root.c6 >}}), [C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}}), & [C8]({{< var ref-nerve-root.c8 >}})"
 ref-lateral-pectoral-nerve:
   path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/lateral_pectoral_nerve.qmd"
-  roots: "[C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-roots.c6 >}}), & [C7]({{< var ref-nerve-roots.c7 >}})"
+  roots: "[C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}), & [C7]({{< var ref-nerve-root.c7 >}})"
 ref-medial-pectoral-nerve:
   path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/medial_pectoral_nerve.qmd"
-  roots: "[C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-roots.t1 >}})"
+  roots: "[C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})"
 ref-medial-cutaneous-nerve-of-the-arm:
   path: "/"
-  roots: "[C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-roots.t1 >}})"
+  roots: "[C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})"
 ref-medial-cutaneous-nerve-of-the-forearm:
   path: "/"
-  roots: "[C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-roots.t1 >}})"
+  roots: "[C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})"
 ref-musculocutaneous-nerve:
   path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/musculocutaneous_nerve.qmd"
   roots: "[C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}})"
