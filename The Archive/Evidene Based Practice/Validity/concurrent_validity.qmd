@@ -1,6 +1,0 @@
----
-title: Concurrent Validity
----
-
-Concurrent validity is a type of [criterion-related validity]({{< var ref-validity.criterion-related >}}) @simMeasurementValidityPhysical1993.
-Concurrent validity exists when "an inferred interpretation is justified by comparing a measurement with supporting evidence that was obtained at approximately the same time as the measurement being validated @simMeasurementValidityPhysical1993.

@@ -9,7 +9,7 @@
 <meta name="author" content="Nathaniel Giovanni Yomogida, SPT">
 <meta name="author" content="Chloë Anne Kerstein, SPT">
 
-<title>YK Lab - Cervical Disc Herniation</title>
+<title>YK Lab - Regression of the mean</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -44,25 +44,25 @@ div.csl-indent {
 }</style>
 
 
-<script src="../../../../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../../../../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../../../../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../../../../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../../../../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../../../../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../../../../">
-<link href="../../../..//images/icons8-brain-64.png" rel="icon" type="image/png">
-<script src="../../../../site_libs/quarto-html/quarto.js"></script>
-<script src="../../../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../../../../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../../../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="../../../../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../../../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../../../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../../../">
+<link href="../../../../..//images/icons8-brain-64.png" rel="icon" type="image/png">
+<script src="../../../../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../../../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../../../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../../../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -91,8 +91,37 @@ div.csl-indent {
   }
 }</script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<link rel="stylesheet" href="../../../../styles.css">
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="../../../../../styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -102,7 +131,7 @@ div.csl-indent {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../../../../index.html">
+    <a class="navbar-brand" href="../../../../../index.html">
     <span class="navbar-title">YK Lab</span>
     </a>
   </div>
@@ -113,23 +142,23 @@ div.csl-indent {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../../../index.html"> 
+    <a class="nav-link" href="../../../../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../about.html"> 
+    <a class="nav-link" href="../../../../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../The Archive/archive_index.html"> 
+    <a class="nav-link" href="../../../../../The Archive/archive_index.html"> 
 <span class="menu-text">Archive</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../guide.html"> 
+    <a class="nav-link" href="../../../../../guide.html"> 
 <span class="menu-text">Guide</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../journal club index.html"> 
+    <a class="nav-link" href="../../../../../journal club index.html"> 
 <span class="menu-text">Journal Club</span></a>
   </li>  
 </ul>
@@ -149,16 +178,10 @@ div.csl-indent {
     <h2 id="toc-title">Contents</h2>
    
   <ul>
-  <li><a href="#cervical-herniation-protection" id="toc-cervical-herniation-protection" class="nav-link active" data-scroll-target="#cervical-herniation-protection">Cervical Herniation protection</a></li>
-  <li><a href="#epidemiology" id="toc-epidemiology" class="nav-link" data-scroll-target="#epidemiology">Epidemiology</a></li>
-  <li><a href="#examination" id="toc-examination" class="nav-link" data-scroll-target="#examination">Examination</a>
-  <ul class="collapse">
-  <li><a href="#aggravation" id="toc-aggravation" class="nav-link" data-scroll-target="#aggravation">Aggravation</a></li>
-  </ul></li>
-  <li><a href="#manual-interventions" id="toc-manual-interventions" class="nav-link" data-scroll-target="#manual-interventions">Manual Interventions</a>
-  <ul class="collapse">
-  <li><a href="#traction" id="toc-traction" class="nav-link" data-scroll-target="#traction">Traction</a></li>
-  </ul></li>
+  <li><a href="#explanation" id="toc-explanation" class="nav-link active" data-scroll-target="#explanation">Explanation</a></li>
+  <li><a href="#factors-affecting-rtm" id="toc-factors-affecting-rtm" class="nav-link" data-scroll-target="#factors-affecting-rtm">Factors affecting RTM</a></li>
+  <li><a href="#calculation" id="toc-calculation" class="nav-link" data-scroll-target="#calculation">Calculation</a></li>
+  <li><a href="#resources" id="toc-resources" class="nav-link" data-scroll-target="#resources">Resources</a></li>
   </ul>
 </nav>
     </div>
@@ -167,7 +190,8 @@ div.csl-indent {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Cervical Disc Herniation</h1>
+<h1 class="title">Regression of the mean</h1>
+<p class="subtitle lead">A threat to internal validity</p>
 </div>
 
 
@@ -191,41 +215,112 @@ div.csl-indent {
 </header>
 
 
-<section id="cervical-herniation-protection" class="level1">
-<h1>Cervical Herniation protection</h1>
-<p>The Cervical spine has multiple protective measures to prevent herniations.</p>
+<div class="callout callout-style-simple callout-none no-icon callout-titled" title="AKA">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+AKA
+</div>
+</div>
+<div class="callout-body-container callout-body">
 <ul>
-<li>The nucleus pulposus (NP) is contained by PLL thus under or thru the material must pass during a herniation<span class="citation" data-cites="duttonDuttonOrthopaedicExamination2020"><sup><a href="#ref-duttonDuttonOrthopaedicExamination2020" role="doc-biblioref">1</a></sup></span></li>
-<li>Uncovertebral joints reinforce posterolateral aspect of IVD<span class="citation" data-cites="duttonDuttonOrthopaedicExamination2020"><sup><a href="#ref-duttonDuttonOrthopaedicExamination2020" role="doc-biblioref">1</a></sup></span></li>
+<li>Regression toward mediocrity</li>
+</ul>
+</div>
+</div>
+<p>Regression towards the mean (RTM) refers to the statistical tendency for extreme scores to move or regress toward the mean value with repeated measurements<span class="citation" data-cites="streinerRegressionOfTheMean2016"><sup><a href="#ref-streinerRegressionOfTheMean2016" role="doc-biblioref">1</a></sup></span>. Regression of the mean can usually cause an underestimation of treatment effects due to greater potential for improvement in extreme scores in the control group. Regression toward the mean states that if a score deviates from the mean on one occasion, then a subsequent measurement will be closer to the average<span class="citation" data-cites="streinerRegressionOfTheMean2016"><sup><a href="#ref-streinerRegressionOfTheMean2016" role="doc-biblioref">1</a></sup></span></p>
+<div class="callout callout-style-simple callout-none no-icon callout-titled" title="Example">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Example
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Patients in control group have significantly higher pain scores at baseline compared to patients in experimental group Example of Selection &amp; Regression of the mean</p>
+</div>
+</div>
+<div class="callout callout-style-simple callout-none no-icon callout-titled" title="Example">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Example
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>A study chooses participants whether they are above or below a cut-off score<span class="citation" data-cites="streinerRegressionOfTheMean2016"><sup><a href="#ref-streinerRegressionOfTheMean2016" role="doc-biblioref">1</a></sup></span>.</li>
+<li>Due to measurement error</li>
+</ul>
+</div>
+</div>
+<section id="explanation" class="level1">
+<h1>Explanation</h1>
+<p>According to measurement theory, the observed score (<span class="math inline">\(X_o\)</span>) is the sum of the “True score” (<span class="math inline">\(X_T\)</span>) and some error (<span class="math inline">\(e\)</span>). Measurement error (<span class="math inline">\(e\)</span>) of the instrument may cause some individuals to erroneously be considered outside of the cut-off point and individuals who truly fit the criteria and excluded. Simultaneously, (<span class="math inline">\(e\)</span>) can cause individuals who do not truly meet the criteria to be erroneously scored an extreme score far from their mean and therefore included in the participants. Once the study begins and more data points are taken over time, these individuals who were improperly included will begin to “regress” towards their mean score.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>True score (<span class="math inline">\(X_T\)</span>) refers to the score if there were no error. True score does <strong>not</strong> refer to the accuracy of the score.</p>
+</div>
+</div>
+</section>
+<section id="factors-affecting-rtm" class="level1">
+<h1>Factors affecting RTM</h1>
+<ul>
+<li>Reliability: The less reliable the scale, the greater the RTM<span class="citation" data-cites="streinerRegressionOfTheMean2016"><sup><a href="#ref-streinerRegressionOfTheMean2016" role="doc-biblioref">1</a></sup></span></li>
 </ul>
 </section>
-<section id="epidemiology" class="level1">
-<h1>Epidemiology</h1>
-<p>Most rare herniation in C/S = C2/3<span class="citation" data-cites="duttonDuttonOrthopaedicExamination2020"><sup><a href="#ref-duttonDuttonOrthopaedicExamination2020" role="doc-biblioref">1</a></sup></span></p>
-</section>
-<section id="examination" class="level1">
-<h1>Examination</h1>
-<p>Difficult to diagnose = because there’s no motor reflexes you can test above it/at it.</p>
-<section id="aggravation" class="level2">
-<h2 class="anchored" data-anchor-id="aggravation">Aggravation</h2>
+<section id="calculation" class="level1">
+<h1>Calculation</h1>
 <ul>
-<li>Compression<span class="citation" data-cites="duttonDuttonOrthopaedicExamination2020"><sup><a href="#ref-duttonDuttonOrthopaedicExamination2020" role="doc-biblioref">1</a></sup></span></li>
+<li><span class="math inline">\(T_2\)</span>: Predicted score at time 2</li>
+<li><span class="math inline">\(r\)</span>: Test retest reliability</li>
+<li><span class="math inline">\(T_1\)</span>: Score at time 1</li>
+<li>(<span class="math inline">\(T_1 - \overline{X}\)</span>): How much a score deviates from the mean</li>
+<li></li>
+</ul>
+<p><span class="math display">\[
+T_2 = \overline{X} + r(T_1 - \overline{X})
+\]</span></p>
+<p>How to interpret this result:</p>
+<ul>
+<li>This does <strong>not</strong> indicate that a score will change<span class="citation" data-cites="streinerRegressionOfTheMean2016"><sup><a href="#ref-streinerRegressionOfTheMean2016" role="doc-biblioref">1</a></sup></span></li>
+<li>This calculation shows the magnitude that RTM can affect the results<span class="citation" data-cites="streinerRegressionOfTheMean2016"><sup><a href="#ref-streinerRegressionOfTheMean2016" role="doc-biblioref">1</a></sup></span></li>
 </ul>
 </section>
+<section id="resources" class="level1">
+<h1>Resources</h1>
+<ul>
+<li>To read more about RTM see: Streiner (2001) Regression toward the mean: its etiology, diagnosis, and treatment<span class="citation" data-cites="streinerRegressionMeanIts2001"><sup><a href="#ref-streinerRegressionMeanIts2001" role="doc-biblioref">2</a></sup></span></li>
+<li>Deep dive: Campbell (1999) A PRIMER ON REGRESSION ARTIFACTS<span class="citation" data-cites="campbellPrimerRegressionArtifacts2003"><sup><a href="#ref-campbellPrimerRegressionArtifacts2003" role="doc-biblioref">3</a></sup></span></li>
+</ul>
+
+
+
 </section>
-<section id="manual-interventions" class="level1">
-<h1>Manual Interventions</h1>
-<section id="traction" class="level2">
 
-
-
-
-</section>
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">Traction</h2><div id="refs" class="references csl-bib-body" role="list">
-<div id="ref-duttonDuttonOrthopaedicExamination2020" class="csl-entry" role="listitem">
-<div class="csl-left-margin">1. </div><div class="csl-right-inline">Dutton M. <em>Dutton’s Orthopaedic Examination, Evaluation, and Intervention</em>. Fifth edition. McGraw Hill Education; 2020.</div>
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-streinerRegressionOfTheMean2016" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Streiner DL. Statistics <span>Commentary Series</span>: <span>Commentary</span> #16-<span>Regression Toward</span> the <span>Mean</span>. <em>Journal of Clinical Psychopharmacology</em>. 2016;36(5):416-418. doi:<a href="https://doi.org/10.1097/JCP.0000000000000551">10.1097/JCP.0000000000000551</a></div>
+</div>
+<div id="ref-streinerRegressionMeanIts2001" class="csl-entry" role="listitem">
+<div class="csl-left-margin">2. </div><div class="csl-right-inline">Streiner DL. Regression toward the mean: Its etiology, diagnosis, and treatment. <em>Canadian Journal of Psychiatry Revue Canadienne De Psychiatrie</em>. 2001;46(1):72-76. doi:<a href="https://doi.org/10.1177/070674370104600111">10.1177/070674370104600111</a></div>
+</div>
+<div id="ref-campbellPrimerRegressionArtifacts2003" class="csl-entry" role="listitem">
+<div class="csl-left-margin">3. </div><div class="csl-right-inline">Campbell DT, Kenny DA, Reichardt CS. <em>A Primer on Regression Artifacts</em>. Paperback ed. Guilford Press; 2003.</div>
 </div>
 </div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

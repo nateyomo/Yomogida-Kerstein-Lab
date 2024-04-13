@@ -22,7 +22,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -164,6 +183,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>CRP was used as a measure of inflammation following ice baths, which we reviewed <a href="../../../../Journal club/jc2_post-exercise_cold_immersion.html">here</a> in our journal club.</p>
+<p>“C-reactive protein (CRP) is a test that measures the amount of a protein in the blood that signals acute inflammation. To determine a person’s risk for heart disease, a more sensitive CRP test, called high-sensitivity C-reactive protein (hs-CRP) assay, is available. A growing number of studies have determined that high levels of hs-CRP consistently predict recurrent coronary events in patients with unstable angina (USA) and acute MI. In addition, elevated hs-CRP levels are associated with lower survival rates in these patients with cardiovascular disease (see Box 3.2).32–34”<span class="citation" data-cites="pazAcuteCareHandbook2020"><sup><a href="#ref-pazAcuteCareHandbook2020" role="doc-biblioref">1</a></sup></span></p>
 <section id="serum-CRP" class="level1">
 <h1>Serum CRP</h1>
 <p>Serum CRP can be used as a marker of acute inflammation</p>
@@ -193,9 +213,14 @@ ul.task-list li input[type="checkbox"] {
 <p>Test validity: High sensitivity CRP (hs-CRP) = predictive of recurrent coronary events</p>
 
 
+
 </section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-pazAcuteCareHandbook2020" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Paz JC, West MP, Panasci K, Greenwood KC, eds. <em>Acute Care Handbook for Physical Therapists</em>. 5th ed. Elsevier; 2020.</div>
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

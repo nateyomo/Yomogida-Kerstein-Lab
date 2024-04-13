@@ -63,9 +63,6 @@ div.csl-indent {
 <link href="../../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="../../../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<script src="../../../../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
-<link href="../../../../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
-<link href="../../../../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -235,12 +232,7 @@ window.Quarto = {
 </header>
 
 
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="../../../..\The Archive/Anatomy/Nerves/Upper extremity nerves/images/gilroyatlas fig28.11 brachial plexus course.png" class="lightbox" data-glightbox="description: .lightbox-desc-1" data-gallery="quarto-lightbox-gallery-1" title="The Brachial Plexus @gilroyAtlasAnatomy2020"><img src="../../../..\The Archive/Anatomy/Nerves/Upper extremity nerves/images/gilroyatlas fig28.11 brachial plexus course.png" class="img-fluid figure-img" alt="The Brachial Plexus1"></a></p>
-<figcaption>The Brachial Plexus<span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span></figcaption>
-</figure>
-</div>
+<p><img src="../../../..\The Archive/Anatomy/Nerves/Upper extremity nerves/images/gilroyatlas fig28.11 brachial plexus course.png" class="img-fluid" alt="The Brachial Plexus1"> <img src="../../../..\The Archive/Anatomy/Nerves/Upper extremity nerves/images/fig3.9 Brachial Plexus Dutton.png" class="img-fluid" alt="Brachial Plexus2"></p>
 <section id="anatomy" class="level1">
 <h1>Anatomy</h1>
 <section id="origin" class="level2">
@@ -352,9 +344,6 @@ Important
 <p>“Surgical intervention, involving neurolysis, cyst removal, or the excision of the transverse scapular ligament is indicated if symptoms persist”<span class="citation" data-cites="duttonDuttonOrthopaedicExamination2020"><sup><a href="#ref-duttonDuttonOrthopaedicExamination2020" role="doc-biblioref">2</a></sup></span></p>
 
 
-<div class="hidden" aria-hidden="true">
-<span class="glightbox-desc lightbox-desc-1">The Brachial Plexus<span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span></span>
-</div>
 
 </section>
 </section>
@@ -894,31 +883,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"openEffect":"zoom","loop":false,"descPosition":"bottom","selector":".lightbox","closeEffect":"zoom"});
-window.onload = () => {
-  lightboxQuarto.on('slide_before_load', (data) => {
-    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
-    const href = trigger.getAttribute('href');
-    if (href !== null) {
-      const imgEl = window.document.querySelector(`a[href="${href}"] img`);
-      if (imgEl !== null) {
-        const srcAttr = imgEl.getAttribute("src");
-        if (srcAttr && srcAttr.startsWith("data:")) {
-          slideConfig.href = srcAttr;
-        }
-      }
-    } 
-  });
-
-  lightboxQuarto.on('slide_after_load', (data) => {
-    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
-    if (window.Quarto?.typesetMath) {
-      window.Quarto.typesetMath(slideNode);
-    }
-  });
-
-};
-          </script>
 
 
 
