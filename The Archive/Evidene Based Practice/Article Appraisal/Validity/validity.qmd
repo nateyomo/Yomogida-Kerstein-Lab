@@ -18,7 +18,7 @@ Validity is defined by COSMIN as "the degree to which an instrument truly measur
 : Validity vs Reliability @simMeasurementValidityPhysical1993 {.striped .hover}
 
 
-# 3 Types of Validity
+# 3 Types
 
 There are 3 validity components in both COSMIN and Polt-Yang Taxonomies @politAssessingMeasurementHealth2015 
 
