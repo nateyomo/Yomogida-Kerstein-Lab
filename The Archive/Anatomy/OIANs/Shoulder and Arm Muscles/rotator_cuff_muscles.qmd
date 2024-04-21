@@ -3,6 +3,7 @@ title: Rotator Cuff Muscles
 
 ---
 
+<!--
 ```{r}
 library(tidyverse)
 library(gt)
@@ -14,3 +15,8 @@ head(rotator_cuff_data) %>%
     gt()
 
 ```
+--> 
+
+# Function
+
+The RTC contributes to movement, stability, and sensorimotor control of the G-H joint @duttonDuttonOrthopaedicExamination2020 

@@ -11,6 +11,13 @@ title: Volleyball Athlete
 
 The development of the game has led to anthropometric differences between attacking players (middle blockers, outside hitters, and opposites) compared to non-attacking players (setters and liberos) in females and males (Gualdi-Russo and Zaccagni, 2001; Palao et al., 2014) @challoumasVolleyballAthleteShoulder2017
 
+# Shoulder Mechanics
+
+:::{.callout-note title="Readings"}
+
+- Chapter 2: Mechanics of the Shoulder @ellenbeckerSportTherapyShoulder2017 
+:::
+
 # Injuries & Adaptations
 See: The volleyball athlete's shoulder: biomechanical adaptations and injury associations @challoumasVolleyballAthleteShoulder2017
 

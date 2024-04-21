@@ -173,6 +173,15 @@ ref-cervicothoracic-junction:
 ref-temporomandibular-joint:
   path: "/The Archive/Anatomy/Joints/temporomandibular_joint.qmd"
   articular-disc: "/The Archive/Anatomy/Joints/temporomandibular_joint.qmd#articular-disc"
+ref-sternoclavicular-joint:
+  path: "/The Archive/Anatomy/Joints/sternoclavicular_joint.qmd"
+### UE Joints
+ref-acromioclavicular-joint:
+  path: "/The Archive/Anatomy/Joints/UE Joints/acromioclavicular_joint.qmd"
+ref-glenohumeral-joint:
+  path: "/The Archive/Anatomy/Joints/UE Joints/glenohumeral_joint.qmd"
+  capsule: "/The Archive/Anatomy/Joints/UE Joints/glenohumeral_joint.qmd#capsule"
+
 ## Tendon
 ref-pes-anserine:
   path: "/The Archive/Anatomy/Connective tissue/Tendon/pes_anserine.qmd"
@@ -814,6 +823,7 @@ ref-heart-sounds:
 ref-cardiac-dysfunction-management:
   path: "/The Archive/Cardiac System/Cardiac Interventions/Internal Medicine Interventions/cardiac_dysfunction_management.qmd"
 
+# Chemistry
 # Biochemistry
 ## Enzymes
 ref-creatine-kinase:
@@ -870,6 +880,15 @@ ref-neurotrophic-hormone-deficiency-theory:
   path: "/The Archive/Chemistry/Biochemistry/Neutrotrophic Factors/neurotrophic-hormone-deficiency-theory.qmd"
 
 # Organic Chemistry
+
+
+# Endocrinology
+## Hormones
+ref-testosterone:
+  path: "/The Archive/Endocrinology/Hormones/testosterone.qmd"
+ref-estrogen:
+  path: "/The Archive/Endocrinology/Hormones/estrogen.qmd"
+
 # Evidence Based Practice (EBP)
 ref-EBP-index:
   path: "/The Archive/Evidene Based Practice/EBP_index.qmd"

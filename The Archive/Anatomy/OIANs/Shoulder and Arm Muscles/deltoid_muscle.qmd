@@ -12,7 +12,8 @@ title: Deltoid muscle
 
 : Deltoid Muscles OIAN {.striped .hover}
 
-## Anterior part
+# Anterior head
+:::{layout-ncol="2"}
 ### Origin
 Lateral 1/3 of clavicle @gilroyAtlasAnatomy2020
 
@@ -24,8 +25,10 @@ Humerus (deltoid tuberosity) @gilroyAtlasAnatomy2020
 
 ### Action
 Flexion, internal rotation, adduction @gilroyAtlasAnatomy2020
+:::
 
-## Lateral part
+# Lateral part
+:::{layout-ncol="2"}
 ### Origin
 Acromion @gilroyAtlasAnatomy2020
 
@@ -37,6 +40,7 @@ Humerus (deltoid tuberosity) @gilroyAtlasAnatomy2020
 
 ### Action
 Abduction @gilroyAtlasAnatomy2020
+:::
 
 :::{.callout-note}
 *Between 60 and 90 degrees of abduction, the clavicular and spinal parts assist the acromial part with abduction @gilroyAtlasAnatomy2020

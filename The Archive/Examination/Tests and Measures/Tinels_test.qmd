@@ -16,7 +16,7 @@ subtitle: Special test of neuropathy
 # Brachial Plexus Version {#brachial-plexus}
 
 - AKA: Supraclavicular pressure test
-- Tests if the brachial plexus is compromised in the [interscalene triangle]({{< var ref-interscalene-triangle.path >}}) @hooperThoracicOutletSyndrome2010
+- Tests if the brachial plexus is compromised in the [interscalene triangle]({{< var ref-interscalene-triangle.path >}}) @hooperPart1ThoracicOutletSyndrome2010
 
 ## Technique
 - Patient is seated @duttonDuttonOrthopaedicExamination2020

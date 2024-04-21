@@ -55,9 +55,9 @@ Although TOS is affected my multiple variables, there are a few structures that 
 
 ## Clavicle
 
-- Clavicular mvmt can cause TOS @hooperThoracicOutletSyndrome2010
-- ACJ (coracoclavicular lig complex ) tension loads during arm elevation, if compromised, can load the nerve tissue @hooperThoracicOutletSyndrome2010
-- SCJ limitations or subluxations can lead to clavicular dysfunction @hooperThoracicOutletSyndrome2010
+- Clavicular mvmt can cause TOS @hooperPart1ThoracicOutletSyndrome2010
+- ACJ (coracoclavicular lig complex ) tension loads during arm elevation, if compromised, can load the nerve tissue @hooperPart1ThoracicOutletSyndrome2010
+- SCJ limitations or subluxations can lead to clavicular dysfunction @hooperPart1ThoracicOutletSyndrome2010
 
 
 # Entrapments
@@ -121,18 +121,18 @@ Symptom location:
 # Clinical Examination
 
 Clinical examination: 
-- Rounded shoulders, forward head, inc thoracic kyphosis, posterior tilt, downward rotation, depression of scapulae @hooperThoracicOutletSyndrome2010
-- Supraclavicular fullness = first rib prominence indicator or soft tissue swelling @hooperThoracicOutletSyndrome2010
+- Rounded shoulders, forward head, inc thoracic kyphosis, posterior tilt, downward rotation, depression of scapulae @hooperPart1ThoracicOutletSyndrome2010
+- Supraclavicular fullness = first rib prominence indicator or soft tissue swelling @hooperPart1ThoracicOutletSyndrome2010
 - Look for:
-    - Cyanosis, edema = venous @hooperThoracicOutletSyndrome2010
-    - Paleness - vascular compromise @hooperThoracicOutletSyndrome2010
-- Palpate the supraclavicular fossa @hooperThoracicOutletSyndrome2010
-    - Pain = indicator @hooperThoracicOutletSyndrome2010
-    - SB away, palpate post to pulsation of subclavian artery @hooperThoracicOutletSyndrome2010
-- If cervical spine, shoulder and TOS testing = negative, peripheral compression neuropathy is suspected @hooperThoracicOutletSyndrome2010
-- Doppler and angiography - arterial TOS tests @hooperThoracicOutletSyndrome2010
-- Venous TOS: venous ultrasound, scintillation scans, plethysmography,  @hooperThoracicOutletSyndrome2010
-- Nerve conduction velocities and electromyography - neurogenic @hooperThoracicOutletSyndrome2010
+    - Cyanosis, edema = venous @hooperPart1ThoracicOutletSyndrome2010
+    - Paleness - vascular compromise @hooperPart1ThoracicOutletSyndrome2010
+- Palpate the supraclavicular fossa @hooperPart1ThoracicOutletSyndrome2010
+    - Pain = indicator @hooperPart1ThoracicOutletSyndrome2010
+    - SB away, palpate post to pulsation of subclavian artery @hooperPart1ThoracicOutletSyndrome2010
+- If cervical spine, shoulder and TOS testing = negative, peripheral compression neuropathy is suspected @hooperPart1ThoracicOutletSyndrome2010
+- Doppler and angiography - arterial TOS tests @hooperPart1ThoracicOutletSyndrome2010
+- Venous TOS: venous ultrasound, scintillation scans, plethysmography,  @hooperPart1ThoracicOutletSyndrome2010
+- Nerve conduction velocities and electromyography - neurogenic @hooperPart1ThoracicOutletSyndrome2010
 
 
 
@@ -153,12 +153,12 @@ Clinical examination:
 - Peripheral nerve tests/cervical radiculopathy tests @duttonDuttonOrthopaedicExamination2020
 
 
-- Symptoms vary @hooperThoracicOutletSyndrome2010
-- Diagnoses of the 2 vascular forms of TOS are accepted in all healthcare circles @hooperThoracicOutletSyndrome2010
-- Neurogenic TOS are difficult to diagnose bc there is not standard objective test to confirm clinical impressions @hooperThoracicOutletSyndrome2010
-- Diagnosis of exclusion @hooperThoracicOutletSyndrome2010
-- Diagnosis of entrapment neuropathies of the upper limb does not exclude TOS @hooperThoracicOutletSyndrome2010
-- [Double crush]({{< var ref-double-crush-syndrome.path >}}) is observed in 50% of cases @hooperThoracicOutletSyndrome2010
+- Symptoms vary @hooperPart1ThoracicOutletSyndrome2010
+- Diagnoses of the 2 vascular forms of TOS are accepted in all healthcare circles @hooperPart1ThoracicOutletSyndrome2010
+- Neurogenic TOS are difficult to diagnose bc there is not standard objective test to confirm clinical impressions @hooperPart1ThoracicOutletSyndrome2010
+- Diagnosis of exclusion @hooperPart1ThoracicOutletSyndrome2010
+- Diagnosis of entrapment neuropathies of the upper limb does not exclude TOS @hooperPart1ThoracicOutletSyndrome2010
+- [Double crush]({{< var ref-double-crush-syndrome.path >}}) is observed in 50% of cases @hooperPart1ThoracicOutletSyndrome2010
 
 
 # Testing
@@ -166,19 +166,19 @@ Clinical examination:
 
 
 - Tests for compromise at the [Interscalene Triangle]({{< var ref-interscalene-triangle.path >}})
-    - [Adson’s Vascular Test]({{< var ref-tos-adsons-vascular-test.path >}}) (Tests Vasculature) @hooperThoracicOutletSyndrome2010
-    - [Supraclavicular pressure test (Tinel's Test)]({{< var ref-tinels-test.brachial-plexus >}}) (Tests Brachial plexus) @hooperThoracicOutletSyndrome2010
+    - [Adson’s Vascular Test]({{< var ref-tos-adsons-vascular-test.path >}}) (Tests Vasculature) @hooperPart1ThoracicOutletSyndrome2010
+    - [Supraclavicular pressure test (Tinel's Test)]({{< var ref-tinels-test.brachial-plexus >}}) (Tests Brachial plexus) @hooperPart1ThoracicOutletSyndrome2010
 - [Costoclavicular Space]({{< var ref-costoclavicular-space.path >}})
-    - [Costoclavicular Test]({{< var ref-tos-costoclavicular-test.path >}}) @hooperThoracicOutletSyndrome2010
+    - [Costoclavicular Test]({{< var ref-tos-costoclavicular-test.path >}}) @hooperPart1ThoracicOutletSyndrome2010
 - Thoraco-coraco-pectoral gate 
-    - [Wright Test (Hyperabduction Maneuver)]({{< var ref-tos-wright-test.path >}}) @hooperThoracicOutletSyndrome2010
+    - [Wright Test (Hyperabduction Maneuver)]({{< var ref-tos-wright-test.path >}}) @hooperPart1ThoracicOutletSyndrome2010
 - Loading the plexus thru TOS container
-    - [Roos Test]({{< var ref-tos-roos-stress-test.path >}}) @hooperThoracicOutletSyndrome2010
+    - [Roos Test]({{< var ref-tos-roos-stress-test.path >}}) @hooperPart1ThoracicOutletSyndrome2010
 - Unloading the brachial plexus through the TOS container
-    - [Cyriax test]({{< var ref-tos-cyriax-test.path >}}) @hooperThoracicOutletSyndrome2010
+    - [Cyriax test]({{< var ref-tos-cyriax-test.path >}}) @hooperPart1ThoracicOutletSyndrome2010
     - [Passive Shoulder Shrug]({{< var ref-tos-passive-shoulder-shrug-test.path >}}) (Rules out TOS)
 - Neural tissue thru thoracic outlet under a tension load
-    - [Upper limb tension tests (ULTT)]({{< var ref-ultt.overview >}}) @hooperThoracicOutletSyndrome2010
+    - [Upper limb tension tests (ULTT)]({{< var ref-ultt.overview >}}) @hooperPart1ThoracicOutletSyndrome2010
 
 :::{.callout-caution}
 - Little reliability with these tests (despite widespread use) @duttonDuttonOrthopaedicExamination2020
@@ -199,7 +199,7 @@ If there is a discontinuation of EAST d/t pain = low false positive rate (most p
 Less false positives for combinations of these tests @plewaFalsepositiveRateThoracic1998
 
 
-Gillard et al showed a cluster of 2 provocative tests displayed the highest sensitivity (90%) while a cluster of 5 tests increased the specificity of TOS to 84% @hooperThoracicOutletSyndrome2010
+Gillard et al showed a cluster of 2 provocative tests displayed the highest sensitivity (90%) while a cluster of 5 tests increased the specificity of TOS to 84% @hooperPart1ThoracicOutletSyndrome2010
 
 # DDX
 
@@ -276,4 +276,4 @@ Possible Options:
 
 # Prognosis
 
-Release phenomenon: release of tension/compression of perineural blood supply to brachial plexus and return of normal sensation = prognostic indicator of favorable outcome @hooperThoracicOutletSyndrome2010
+Release phenomenon: release of tension/compression of perineural blood supply to brachial plexus and return of normal sensation = prognostic indicator of favorable outcome @hooperPart1ThoracicOutletSyndrome2010

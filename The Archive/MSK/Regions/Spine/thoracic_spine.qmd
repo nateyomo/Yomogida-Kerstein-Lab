@@ -72,3 +72,11 @@ SB limited throughout d/t rib stacking @duttonDuttonOrthopaedicExamination2020
 - Kyphotic variations
 - Osteoarthritis
 - Spinal stenosis
+
+
+
+# Examination
+
+- T/S spine ROM
+    - Measure from T12 to acromion and compare to opposite side
+    - Go into quadraped with max L/S flexion to bias T/S rotation

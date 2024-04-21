@@ -1,0 +1,19 @@
+---
+title: Latissimus Dorsi
+---
+
+# OIAN
+
+
+# Innervation
+
+[Thoracodorsal nerve ]({{< var ref-thoracodorsal-nerve.path >}})
+
+
+# Function
+
+This muscle  adducts and internally rotates the arm and depresses the raised arm @brazisLocalizationClinicalNeurology2022
+
+:::{.callout-note title="Mini lat muscle"}
+The teres major can almost be considered a "mini lat" since it has the same functions
+:::

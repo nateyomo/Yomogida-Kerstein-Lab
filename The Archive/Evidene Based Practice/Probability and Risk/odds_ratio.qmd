@@ -4,11 +4,13 @@ title: Odds Ratio (OR)
 
 - Question: How to compare to Relative risk
 
-
+<!--
 The odds ratio is a ratio of two sets of odds: the odds of the event occurring in an exposed group versus the odds of the event occurring in a non-exposed group @tennyOddsRatio2024
 Odds ratios commonly are used to report case-control studies
 Odds that an outcome will occur given a particular exposure, compared to the odds of the outcome occurring in the absence of that exposure
 OR = odds that a case was exposed / Odds that a control was exposed
+-->
+
 
 
 
@@ -16,6 +18,7 @@ OR = odds that a case was exposed / Odds that a control was exposed
 
 # Definition
 
+- Odds ratio (OR) is defined as "the ratio of the exposure odds among the case group to the exposure odds among the control group" @robertsResearchTechniquesMade2019
 - The odds ratio (OR) is a measure of how strongly an event is associated with exposure. 
 - Odds that an outcome will occur given a particular exposure, compared to the odds of the outcome occurring in the absence of that exposure
 

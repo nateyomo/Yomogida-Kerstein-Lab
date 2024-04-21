@@ -16,3 +16,8 @@ Axillary nerve roots: C5 & C6 @gilroyAtlasAnatomy2020
 
 
 # Sensory innervation
+
+
+# Dysfunction
+
+- Fractures at the Surgical Neck most commonly cause [Axillary Nerve]({{< var ref-axillary-nerve.path >}}) damage @duttonDuttonOrthopaedicExamination2020.

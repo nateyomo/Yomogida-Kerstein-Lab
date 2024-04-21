@@ -111,6 +111,11 @@ Most reliable features:
 - Pain that radiates to the ipsilateral shoulder and arm @bogdukCervicogenicHeadacheAssessment2009
 - Provocation of pain by neck mvmt @bogdukCervicogenicHeadacheAssessment2009
 
+# Special  Tests
+
+- Flexion Rotation Test 
+    - "This test is used to determine the presence of a cervicogenic headache and is both a range of motion and provocation test. The patient is positioned in supine, and resting symptoms are noted. The patient is asked to maximally flex his or her neck and to hold that position. Using both hands, the clinician applies a full rotational force to both sides and notes any changes in symptoms (Fig. 25-54). The test is considered positive for a cervicogenic headache if a loss of 10 degrees or greater is noted when comparing both sides. Given the testing position, it is likely that C1–2 is the tested level. A single blind, age and gender matched, comparative measurement study by Hall and Robinson60 found this test to have a sensitivity of 86% and a specificity of 100% (QUADAS score of 12)." @duttonDuttonOrthopaedicExamination2020 
+
 ## Clinical Diagnostic Criteria
 
 Bogduk (2009) Clinical criteria @bogdukCervicogenicHeadacheAssessment2009

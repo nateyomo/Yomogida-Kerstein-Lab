@@ -2,7 +2,65 @@
 title: Musculoskeletal Approach to the shoulder
 ---
 
+# Anatomy
 
+:::{layout-ncol="2"}
+### 3 Bones
+
+- [Humerus]({{< var ref-humerus-bone.path >}})
+- [Clavicle]({{< var ref-clavicle-bone.path >}})
+- [Scapula]({{< var ref-scapula-bone.path >}})
+
+### 3 Joints
+
+- [Sternoclavicular (SCJ)]({{< var ref-sternoclavicular-joint.path >}})
+- [Acromioclavicular (ACJ)]({{< var ref-acromioclavicular-joint.path >}})
+- [Glenohumeral Joint (GHJ)]({{< var ref-glenohumeral-joint.path >}})
+
+### 1 Pseudojoint
+
+The Scapulothoracic Joint is considered a "psuedo joint" @duttonDuttonOrthopaedicExamination2020
+
+### 1 Physiologic Area
+
+- Suprahumeral/Subacromial space
+
+:::
+
+# Ligaments
+
+
+"(GH Ligs) Together with the coracohumeral ligament, these ligaments form a Z-pattern on the anterior aspect of the shoulder (Fig. 16-6).3 In the midrange of rotation, the G-H ligaments are relatively lax" @duttonDuttonOrthopaedicExamination2020
+
+# Stabilization
+
+## Passive
+
+The shoulder maintains its passive stability by using multiple structures arranged reciprocally so when one structure is lax, the other is tightened @duttonDuttonOrthopaedicExamination2020. 
+This allows the shoulder to have large degrees of freedom and ROM while limiting translation and rotation of the GHJ surfaces @duttonDuttonOrthopaedicExamination2020. 
+
+- GH ligaments 
+- Capsule
+    - Posterior capsule
+- Glenoid labrum
+
+## Active
+
+- GHJ
+    - RTC
+- Shoulder elevation
+    - Rhomboids
+    - SA
+
+# Bursae
+
+According to Dutton @duttonDuttonOrthopaedicExamination2020, the *synovium* of the *GH Joint Capsule* forms multiple bursae in shoulder complex @duttonDuttonOrthopaedicExamination2020. 
+
+- Subacromial bursae (Subdeltoid Bursae) @duttonDuttonOrthopaedicExamination2020
+    - Lies on the superior aspect of the joint @duttonDuttonOrthopaedicExamination2020
+    - Largest bursae of the shoulder complex @duttonDuttonOrthopaedicExamination2020
+
+"It also forms variously sized bursae, the largest of which, the subacromial or subdeltoid bursa, lies on the superior aspect of the joint (see later)." @duttonDuttonOrthopaedicExamination2020 
 
 # Diagnosis
 

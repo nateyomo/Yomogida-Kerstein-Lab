@@ -19,3 +19,8 @@ title: L2 Nerve Root (L2)
     - [Articularis Genus]({{< var ref-articularis-genus.path >}}) @gilroyAtlasAnatomy2020
 
 :::
+
+# Examination
+## Deep Tendon Reflex
+
+- Patella reflex (L2, L3, L4, but predominantly L4)

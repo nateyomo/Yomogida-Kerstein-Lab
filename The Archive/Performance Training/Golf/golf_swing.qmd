@@ -2,6 +2,8 @@
 title: Golf Swing
 ---
 
+
+
 ![How triplanar pelvic position affects overall system tension. When pelvic pronation occurs, the trunk and pelvis spiral across 3 planes, moving the left side of the pelvis forward and downward toward the stable right lower extremity. The pelvic drop, coupled with this forward and downward motion, forces the right hip into adduction and internal rotation. As the left knee moves from a position of stability towards knee valgus the musculoskeletal tension throughout the entire system is now compromised @dischiaviRethinkingDynamicKnee2019](\The Archive/Performance Training/Golf/images/golfer rubber band.png)
 
 <q>
@@ -12,3 +14,11 @@ Panel B of the FIGURE depicts the left lower extremity undergoing medial collaps
 These coupled motions have now resulted in the loss of system tension that was maintained when the golfer could keep the left hemi-pelvis stable @dischiaviRethinkingDynamicKnee2019. 
 
 </q>
+
+
+# MEchanics of the shoulder
+
+:::{.callout-note title="Readings"}
+
+- Chapter 2: Mechanics of the Shoulder @ellenbeckerSportTherapyShoulder2017 
+:::

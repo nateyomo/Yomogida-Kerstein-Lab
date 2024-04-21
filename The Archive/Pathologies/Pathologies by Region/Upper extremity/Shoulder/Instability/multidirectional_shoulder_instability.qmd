@@ -1,0 +1,66 @@
+---
+title: Multidirectional Shoulder Instability (MDI)
+---
+
+
+Multidirectional instability (MDI) of the shoulder has many definitions within medical literature.
+Originally, MDI was described by Neer and Foster as shoulder instability/dislocations in 2 or more directions with little to no trauma [@longoMultidirectionalInstabilityShoulder2015; @klaptoczEffectivenessConservativeTreatment2021]
+
+# Epidemiology
+
+- Generally, MDI patients are young people who provoke a shoulder subluxation @klaptoczEffectivenessConservativeTreatment2021 
+
+# Risk Factors
+
+"Multidirectional instability can be influenced by a number of coexisting anatomical factors. Neer and Foster [1] believe that the main cause of instability in an excessively large, loose joint capsule, while other authors also draw attention to morphological changes in the glenoidal cavity and failure of the glenohumeral ligament [2–4]. Ligamentous laxity, upon which this disease develops, may be congenital. In such case, the symptoms usually appear on both sides or are acquired through repetitive microtrauma during sports activities." @klaptoczEffectivenessConservativeTreatment2021 
+
+# Etiology
+
+"Congenital hyperlaxity,4 muscular disbalance, and bony and capsulolabral anatomy (labral hypoplasia, glenoid size)5 may lead to recurrent dislocation because they modify the congruency of glenohumeral joint surfaces and the function of static glenohumeral stabilizers. Repetitive microtrauma may also lead to instability because it may increase the glenohumeral volume" @longoMultidirectionalInstabilityShoulder2015 
+
+"In all patients presenting with MDI, a first rehabilitative course is warranted. Neer stated that initial treatment of MDI should consider a change in lifestyle, use within pain limits, and exercises below the horizontal to strengthen the rotator and deltoid muscles" @longoMultidirectionalInstabilityShoulder2015 
+
+"The nonsurgical goal is to improve the efficiency of dynamic glenohumeral stabilizers. Strengthening of the rotator cuff may improve concavity compression with improved humeral head centering, leading to a functional reduction of instability.8 Proprioceptive exercise programs, scapulothoracic training, and core stability are the main columns of nonsurgical management. Motivated patients with appropriate protocols typically respond well and may not need further management.9 However, variable results have been reported." @longoMultidirectionalInstabilityShoulder2015
+
+
+# Clinical Presentation
+
+- The leading symptoms 
+    - Pain @klaptoczEffectivenessConservativeTreatment2021 
+    - Upper limb instability and disability with an abnormal movement pattern @klaptoczEffectivenessConservativeTreatment2021 
+
+# Associated Injuries
+
+- associated capsulolabral or bony lesions were reported in 16 studies @longoMultidirectionalInstabilityShoulder2015 
+- A bony lesion was found in 24 shoulders @longoMultidirectionalInstabilityShoulder2015 
+
+
+
+# Examination
+
+"Objective measures of glenohumeral laxity are not necessarily indicative of instability or the need for surgical management. Only when compensatory mechanisms fail may structural deficiencies become apparent, and patients may experience symptomatic instability. There is no pathognomonic finding for MDI, and no standardized criteria in the literature define MDI." @longoMultidirectionalInstabilityShoulder2015 
+
+- Sulcus sign was used in 3 of the studies @longoMultidirectionalInstabilityShoulder2015 
+
+# Management
+
+
+## Surgical managements
+
+- 372 (43%) shoulders MDI was managed arthroscopically @longoMultidirectionalInstabilityShoulder2015 
+- 226 (26%) shoulders,18,21,24-27,31,33 an open capsular shift procedure was used @longoMultidirectionalInstabilityShoulder2015 
+- Bankart repair in 5 (0.6%) shoulders @longoMultidirectionalInstabilityShoulder2015 
+- Anterior or posterior hamstring graft reconstruction in 3 (0.3%) shoulders @longbrakeMyelinOligodendrocyteGlycoprotein2022 
+- Posterior bone block and posterior shift in 2 (0.2%) shoulders @longoMultidirectionalInstabilityShoulder2015 
+- reported arthroscopic thermal capsular shrinkage for MDI @longoMultidirectionalInstabilityShoulder2015 
+- 55 (6%) shoulders, reported arthroscopic laser-assisted capsulorrhaphy @longoMultidirectionalInstabilityShoulder2015 
+- Arthroscopic plication was performed in the remaining 268 (31%) shoulders @longoMultidirectionalInstabilityShoulder2015 
+- Forty-seven shoulders15 also underwent thermal capsular shrinkage after arthroscopic plication because the capsule was considered insufficiently tightened @longoMultidirectionalInstabilityShoulder2015
+
+
+# Conservative Management
+
+- 29% of the participants underwent conservative management in @longoMultidirectionalInstabilityShoulder2015 
+
+
+@klaptoczEffectivenessConservativeTreatment2021 
