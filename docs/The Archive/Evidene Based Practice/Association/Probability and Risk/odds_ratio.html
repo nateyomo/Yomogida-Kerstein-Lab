@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>YK Lab - Musculoskeletal Approach to the Lumbar Spine</title>
+<title>YK Lab - Odds Ratio (OR)</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -82,6 +82,8 @@ div.csl-indent {
   }
 }</script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="../../../../styles.css">
 </head>
@@ -140,10 +142,12 @@ div.csl-indent {
     <h2 id="toc-title">Contents</h2>
    
   <ul>
-  <li><a href="#lumbar-stabilization" id="toc-lumbar-stabilization" class="nav-link active" data-scroll-target="#lumbar-stabilization">Lumbar Stabilization</a>
-  <ul class="collapse">
-  <li><a href="#theories-of-spine-stabilization" id="toc-theories-of-spine-stabilization" class="nav-link" data-scroll-target="#theories-of-spine-stabilization">Theories of Spine Stabilization</a></li>
-  </ul></li>
+  <li><a href="#definition" id="toc-definition" class="nav-link active" data-scroll-target="#definition">Definition</a></li>
+  <li><a href="#practical-use" id="toc-practical-use" class="nav-link" data-scroll-target="#practical-use">Practical use:</a></li>
+  <li><a href="#calculation" id="toc-calculation" class="nav-link" data-scroll-target="#calculation">Calculation</a></li>
+  <li><a href="#interpretation" id="toc-interpretation" class="nav-link" data-scroll-target="#interpretation">Interpretation</a></li>
+  <li><a href="#example" id="toc-example" class="nav-link" data-scroll-target="#example">Example</a></li>
+  <li><a href="#videos" id="toc-videos" class="nav-link" data-scroll-target="#videos">Videos</a></li>
   </ul>
 </nav>
     </div>
@@ -152,7 +156,7 @@ div.csl-indent {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Musculoskeletal Approach to the Lumbar Spine</h1>
+<h1 class="title">Odds Ratio (OR)</h1>
 </div>
 
 
@@ -174,40 +178,183 @@ div.csl-indent {
 
 </header>
 
-<section id="lumbar-stabilization" class="level1">
-<h1>Lumbar Stabilization</h1>
-<p>“Muscle activity is available and required in the lumbar spine throughout the ROM, except in specific situations, such as at the end of lumbar flexion ROM when a reflex reduction in paraspinal muscle activity occurs, the so-called “flexion relaxation phenomenon.”32,41,42 At the end of spinal ROM, the restraints to bending, rotation, and shear forces are provided largely by tension and compression on the spine’s passive structures. Mobilizer muscles, which tend to work over two joints or several segments, are superficial, and have narrow insertions with long tendons.43 The mobilizer muscles function to produce movement in the sagittal plane using concentric acceleration and are capable of generating a tremendous amount of force (see Chapter 22). The stabilizer muscles, as their name suggests, provide stabilization, and can be either local or global (see Chapter 22). The local muscle system is important for the provision of segmental control to the spine and provides an important stiffening effect on the lumbar spine, thereby enhancing its dynamic stability. The local stabilizers also function to maintain a continuous low-force activity at joints in all positions and directions and thus provide segmental joint support.”<span class="citation" data-cites="duttonDuttonOrthopaedicExamination2020"><sup><a href="#ref-duttonDuttonOrthopaedicExamination2020" role="doc-biblioref">1</a></sup></span></p>
-<section id="theories-of-spine-stabilization" class="level2">
-<h2 class="anchored" data-anchor-id="theories-of-spine-stabilization">Theories of Spine Stabilization</h2>
-<div class="quarto-layout-panel">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<section id="bracing-mechanism" class="level3 quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<h3 class="anchored" data-anchor-id="bracing-mechanism">Bracing Mechanism</h3>
-<p>McGill proposed the “Bracing mechanism” (of spinal stabilization), which hypothesizes that</p>
+<ul>
+<li>Question: How to compare to Relative risk</li>
+</ul>
+<!--
+The odds ratio is a ratio of two sets of odds: the odds of the event occurring in an exposed group versus the odds of the event occurring in a non-exposed group @tennyOddsRatio2024
+Odds ratios commonly are used to report case-control studies
+Odds that an outcome will occur given a particular exposure, compared to the odds of the outcome occurring in the absence of that exposure
+OR = odds that a case was exposed / Odds that a control was exposed
+-->
+<section id="definition" class="level1">
+<h1>Definition</h1>
+<ul>
+<li>Odds ratio (OR) is defined as “the ratio of the exposure odds among the case group to the exposure odds among the control group”<span class="citation" data-cites="robertsResearchTechniquesMade2019"><sup><a href="#ref-robertsResearchTechniquesMade2019" role="doc-biblioref">1</a></sup></span></li>
+<li>The odds ratio (OR) is a measure of how strongly an event is associated with exposure.</li>
+<li>Odds that an outcome will occur given a particular exposure, compared to the odds of the outcome occurring in the absence of that exposure</li>
+</ul>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>I like to think of odds ratio as the reverse of an RCT</p>
+<p>In an RCT, we compare the experimental and control group, which only differ by the independent variable. Then the results are measured using dependent variables</p>
+<p>An odds ratio compares two groups of people who only differ based on exposure. You could think of exposure as the “independent variable.” When viewing the results, you could view the exposure rates as the “dependent variables.” Thus when comparing the two using an odds ratio, you are trying to ascertain whether the exposure was statistically significant in outcome rates.</p>
+</div>
+</div>
+</div>
 </section>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p>“muscles act similar to guy wires when stabilizing the spine and that a loss of tension can result in unstable buckling of the spinal structures. The muscles of the trunk function via a complex interaction of agonist/antagonist spinal muscles, both segmentally and regionally to provide tension (active stiffness). According to this theory lightly pretensioning, or bracing, the abdominal muscles using an isometric contraction is a way to enhance the guy wire affect by taking up the slack prior to activities that may destabilize the spine.46 The external oblique, IO, and TrA overlay each other to create the abdominal wall and act through attachments to the abdominal and TLF to create a cylinder. As the intra-abdominal pressure increases, the three-dimensional force per unit area exerted on the spine also increases, potentially constraining spinal movement in all directions.”<span class="citation" data-cites="duttonDuttonOrthopaedicExamination2020"><sup><a href="#ref-duttonDuttonOrthopaedicExamination2020" role="doc-biblioref">1</a></sup></span></p>
-</div>
-</div>
-<div class="quarto-layout-row quarto-layout-valign-top">
-<section id="deep-corset-mechanism" class="level3 quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<h3 class="anchored" data-anchor-id="deep-corset-mechanism">Deep Corset Mechanism</h3>
-<p>Proposed by Richardson</p>
+<section id="practical-use" class="level1">
+<h1>Practical use:</h1>
+<ul>
+<li>Odds ratios commonly are used to report case-control studies</li>
+</ul>
 </section>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p>“Richardson et al.45 have proposed that a pressure corset is formed by the muscles of the lumbar spine. Under this proposal, the TrA forms the wall of the cylinder, and the muscles of the pelvic floor and diaphragm form the base and lid, respectively. Within this system, the intra-abdominal pressure group is maintained at a level that provides spinal support. Since the abdominal cavity has a finite volume, the intra-abdominal pressure (force/area) will increase if the abdominal cavity volume is reduced (contraction of the muscles in the pelvic floor, abdominal muscles and diaphragm, and the wearing of a lumbar corset) In addition, the increase in intra-abdominal pressure is thought to provide a mild distractive force to the spinal segments, due to separation of the pelvic floor and diaphragm. Because intra-abdominal pressure and fascial tension are important for the control of intervertebral motion, the muscles that surround the abdominal cavity, such as the diaphragm and the pelvic floor muscles (see Chapter 29), provide an additional contribution. These two muscle groups also have important respiratory and continence functions. Theoretically, reduced contribution of the diaphragm to spinal stability may occur during periods of increased respiratory demand. As the diaphragm descends during inspiration, intra-abdominal pressure increases provided that the musculature of the abdominal and pelvic floor maintains its respective tension.”<span class="citation" data-cites="duttonDuttonOrthopaedicExamination2020"><sup><a href="#ref-duttonDuttonOrthopaedicExamination2020" role="doc-biblioref">1</a></sup></span></p>
+<section id="calculation" class="level1">
+<h1>Calculation</h1>
+<ul>
+<li>The odds ratio (OR) is a measure of how strongly an event is associated with exposure.</li>
+<li>OR = odds that a case was exposed / Odds that a control was exposed</li>
+<li>The odds ratio is a ratio of two sets of odds: the odds of the event occurring in an exposed group versus the odds of the event occurring in a non-exposed group</li>
+</ul>
+<table class="table">
+<thead>
+<tr class="header">
+<th></th>
+<th>Disease (Case)</th>
+<th>No Disease (Control)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Exposed</td>
+<td>A</td>
+<td>B</td>
+</tr>
+<tr class="even">
+<td>Unexposed</td>
+<td>C</td>
+<td>D</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="interpretation" class="level1">
+<h1>Interpretation</h1>
+<p>To interpret the OR, you need to first determine what part of the test is considered the “exposure” and what part of the test is the “outcome.”</p>
+<table class="table-striped table-hover table">
+<caption></caption>
+<thead>
+<tr class="header">
+<th>OR Value</th>
+<th>Interpretation</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>&lt;1</td>
+<td>Odds of disease lower with exposed than non-exposed</td>
+</tr>
+<tr class="even">
+<td>1</td>
+<td>No difference in odds of disease</td>
+</tr>
+<tr class="odd">
+<td>&gt;1</td>
+<td>Odds of disease greater in exposed than non-exposed</td>
+</tr>
+</tbody>
+</table>
+<div class="callout callout-style-default callout-note callout-titled" title="Example">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Example
 </div>
 </div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>An odds ratio of 0.98 indicates that the group who were exposed to the variable were 2% <em>less</em> likely to have the outcome.</li>
+<li>An odds ratio of 1.02 indicates that the group who was exposed to the variable were 2% <em>more</em> likely to have the outcome.</li>
+</ul>
 </div>
+</div>
+</section>
+<section id="example" class="level1">
+<h1>Example</h1>
+<table class="table-hover table-striped table">
+<caption>2x2 Contingency Table<span class="citation" data-cites="robertsResearchTechniquesMade2019"><sup><a href="#ref-robertsResearchTechniquesMade2019" role="doc-biblioref">1</a></sup></span></caption>
+<colgroup>
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Exposure</th>
+<th>Present</th>
+<th>Absent</th>
+<th>Total</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Present</td>
+<td>A <br> (90)</td>
+<td>B <br> (210)</td>
+<td>A + B <br> (300)</td>
+</tr>
+<tr class="even">
+<td>Absent</td>
+<td>C <br> (350)</td>
+<td>D <br> (350)</td>
+<td>C + D <br> (700)</td>
+</tr>
+<tr class="odd">
+<td>Total</td>
+<td>A + C <br> (440)</td>
+<td>B + D <br> (760)</td>
+<td>A + B + C + D <br> (1000)</td>
+</tr>
+</tbody>
+</table>
+<p>How to calculate the <a href="../../../../The Archive/Evidene Based Practice/EBP Terms/odds_ratio.qmd">Odds Ratio</a> for the contingency table: <span class="math display">\[
+\begin{align*} \textrm{Relative Risk} &amp;=\frac{\frac{A}{(C)}}{\frac{B}{(D)}}
+\\ &amp;=\frac{90}{350}/\frac{210}{350}
+\\ &amp;=\frac{0.26}{0.6}
+\\ &amp;= 0.43
+\end{align*}
+\]</span></p>
+<p>Based on the results of the odds ratio calculation (0.43) we can conclude:</p>
+<ul>
+<li>The exposed group has 0.43 <em>times</em> the <em>odds</em> of of exposure to the outcome compared to the control group<span class="citation" data-cites="robertsResearchTechniquesMade2019"><sup><a href="#ref-robertsResearchTechniquesMade2019" role="doc-biblioref">1</a></sup></span>.</li>
+<li>The case group is 57% less likely to have the exposure compared to the control group<span class="citation" data-cites="robertsResearchTechniquesMade2019"><sup><a href="#ref-robertsResearchTechniquesMade2019" role="doc-biblioref">1</a></sup></span></li>
+</ul>
+</section>
+<section id="videos" class="level1">
+<h1>Videos</h1>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/FVgBQN7ksxM" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/7ymCiLPP9os" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 
 
-</section>
 </section>
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
-<div id="ref-duttonDuttonOrthopaedicExamination2020" class="csl-entry" role="listitem">
-<div class="csl-left-margin">1. </div><div class="csl-right-inline">Dutton M. <em>Dutton’s Orthopaedic Examination, Evaluation, and Intervention</em>. Fifth edition. McGraw Hill Education; 2020.</div>
+<div id="ref-robertsResearchTechniquesMade2019" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Roberts MR, Ashrafzadeh S, Asgari MM. Research <span>Techniques Made Simple</span>: <span>Interpreting Measures</span>&nbsp;of <span>Association</span> in <span>Clinical Research</span>. <em>The Journal of Investigative Dermatology</em>. 2019;139(3):502-511.e1. doi:<a href="https://doi.org/10.1016/j.jid.2018.12.023">10.1016/j.jid.2018.12.023</a></div>
 </div>
 </div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

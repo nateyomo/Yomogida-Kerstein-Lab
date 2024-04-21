@@ -1621,14 +1621,14 @@
     "href": "The Archive/MSK/Regions/Upper Extremity/shoulder.html",
     "title": "Musculoskeletal Approach to the shoulder",
     "section": "",
-    "text": "Special tests for the shoulder have multiple issues.\n\n\n\n\n\n\n\n\nPoor convergent validity: Special tests for the shoulder are based on MRI and ultrasounds, which are poor gold standards1.\n\n\n\n\n\nIn empty can for “ supra” 9 shoulder mm active,\nDuring full can test 8 other mm were active\n\n\n\n\n\nHyperalgesia: Areas with increased inflammatory markers can cause unrelated areas to be sensitive to certain positions. For example the subacromial bursa has high concentrations of substance P and pro-inflammatory cytokines and is often aggravated by the Empty can test1.\nAllodynia: Pain is not directly related to tissue damage1."
+    "text": "Humerus\nClavicle\nScapula\n\n\n\n\n\nSternoclavicular (SCJ)\nAcromioclavicular (ACJ)\nGlenohumeral Joint (GHJ)\n\n\n\n\n\n\nThe Scapulothoracic Joint is considered a “psuedo joint”1\n\n\n\n\nSuprahumeral/Subacromial space"
   },
   {
     "objectID": "The Archive/MSK/Regions/Upper Extremity/shoulder.html#considerations-before-using-special-tests",
     "href": "The Archive/MSK/Regions/Upper Extremity/shoulder.html#considerations-before-using-special-tests",
     "title": "Musculoskeletal Approach to the shoulder",
-    "section": "",
-    "text": "Special tests for the shoulder have multiple issues.\n\n\n\n\n\n\n\n\nPoor convergent validity: Special tests for the shoulder are based on MRI and ultrasounds, which are poor gold standards1.\n\n\n\n\n\nIn empty can for “ supra” 9 shoulder mm active,\nDuring full can test 8 other mm were active\n\n\n\n\n\nHyperalgesia: Areas with increased inflammatory markers can cause unrelated areas to be sensitive to certain positions. For example the subacromial bursa has high concentrations of substance P and pro-inflammatory cytokines and is often aggravated by the Empty can test1.\nAllodynia: Pain is not directly related to tissue damage1."
+    "section": "Considerations before using special tests:",
+    "text": "Considerations before using special tests:\nSpecial tests for the shoulder have multiple issues.\n\n\n\nPoor Gold Standards\n\nPoor convergent validity: Special tests for the shoulder are based on MRI and ultrasounds, which are poor gold standards2.\n\n\n\nPoor Tissue Isolation (Specificity)\n\nIn empty can for “ supra” 9 shoulder mm active,\nDuring full can test 8 other mm were active\n\n\n\nPain is unreliable\n\nHyperalgesia: Areas with increased inflammatory markers can cause unrelated areas to be sensitive to certain positions. For example the subacromial bursa has high concentrations of substance P and pro-inflammatory cytokines and is often aggravated by the Empty can test2.\nAllodynia: Pain is not directly related to tissue damage2."
   },
   {
     "objectID": "The Archive/MSK/Regions/Upper Extremity/hand.html",
@@ -3322,7 +3322,7 @@
     "href": "The Archive/Evidene Based Practice/Probability and Risk/odds_ratio.html",
     "title": "Odds Ratio (OR)",
     "section": "",
-    "text": "Question: How to compare to Relative risk\n\nThe odds ratio is a ratio of two sets of odds: the odds of the event occurring in an exposed group versus the odds of the event occurring in a non-exposed group1 Odds ratios commonly are used to report case-control studies Odds that an outcome will occur given a particular exposure, compared to the odds of the outcome occurring in the absence of that exposure OR = odds that a case was exposed / Odds that a control was exposed\n\nDefinition\n\nThe odds ratio (OR) is a measure of how strongly an event is associated with exposure.\nOdds that an outcome will occur given a particular exposure, compared to the odds of the outcome occurring in the absence of that exposure\n\n\n\n\n\n\n\nTip\n\n\n\n\n\nI like to think of odds ratio as the reverse of an RCT\nIn an RCT, we compare the experimental and control group, which only differ by the independent variable. Then the results are measured using dependent variables\nAn odds ratio compares two groups of people who only differ based on exposure. You could think of exposure as the “independent variable.” When viewing the results, you could view the exposure rates as the “dependent variables.” Thus when comparing the two using an odds ratio, you are trying to ascertain whether the exposure was statistically significant in outcome rates.\n\n\n\n\n\nPractical use:\n\nOdds ratios commonly are used to report case-control studies\n\n\n\nCalculation\n\nThe odds ratio (OR) is a measure of how strongly an event is associated with exposure.\nOR = odds that a case was exposed / Odds that a control was exposed\nThe odds ratio is a ratio of two sets of odds: the odds of the event occurring in an exposed group versus the odds of the event occurring in a non-exposed group\n\n\n\n\n\nDisease (Case)\nNo Disease (Control)\n\n\n\n\nExposed\nA\nB\n\n\nUnexposed\nC\nD\n\n\n\n\n\nInterpretation\nTo interpret the OR, you need to first determine what part of the test is considered the “exposure” and what part of the test is the “outcome.”\n\n\n\n\nOR Value\nInterpretation\n\n\n\n\n&lt;1\nOdds of disease lower with exposed than non-exposed\n\n\n1\nNo difference in odds of disease\n\n\n&gt;1\nOdds of disease greater in exposed than non-exposed\n\n\n\n\n\n\n\n\n\nExample\n\n\n\n\nAn odds ratio of 0.98 indicates that the group who were exposed to the variable were 2% less likely to have the outcome.\nAn odds ratio of 1.02 indicates that the group who was exposed to the variable were 2% more likely to have the outcome.\n\n\n\n\n\nVideos\n\n\n\n\n\n\n\nReferences\n\n1. Tenny S, Hoffman MR. Odds Ratio. In: StatPearls. StatPearls Publishing; 2024. Accessed January 27, 2024. http://www.ncbi.nlm.nih.gov/books/NBK431098/"
+    "text": "Question: How to compare to Relative risk\n\n\n\nDefinition\n\nOdds ratio (OR) is defined as “the ratio of the exposure odds among the case group to the exposure odds among the control group”1\nThe odds ratio (OR) is a measure of how strongly an event is associated with exposure.\nOdds that an outcome will occur given a particular exposure, compared to the odds of the outcome occurring in the absence of that exposure\n\n\n\n\n\n\n\nTip\n\n\n\n\n\nI like to think of odds ratio as the reverse of an RCT\nIn an RCT, we compare the experimental and control group, which only differ by the independent variable. Then the results are measured using dependent variables\nAn odds ratio compares two groups of people who only differ based on exposure. You could think of exposure as the “independent variable.” When viewing the results, you could view the exposure rates as the “dependent variables.” Thus when comparing the two using an odds ratio, you are trying to ascertain whether the exposure was statistically significant in outcome rates.\n\n\n\n\n\nPractical use:\n\nOdds ratios commonly are used to report case-control studies\n\n\n\nCalculation\n\nThe odds ratio (OR) is a measure of how strongly an event is associated with exposure.\nOR = odds that a case was exposed / Odds that a control was exposed\nThe odds ratio is a ratio of two sets of odds: the odds of the event occurring in an exposed group versus the odds of the event occurring in a non-exposed group\n\n\n\n\n\nDisease (Case)\nNo Disease (Control)\n\n\n\n\nExposed\nA\nB\n\n\nUnexposed\nC\nD\n\n\n\n\n\nInterpretation\nTo interpret the OR, you need to first determine what part of the test is considered the “exposure” and what part of the test is the “outcome.”\n\n\n\n\nOR Value\nInterpretation\n\n\n\n\n&lt;1\nOdds of disease lower with exposed than non-exposed\n\n\n1\nNo difference in odds of disease\n\n\n&gt;1\nOdds of disease greater in exposed than non-exposed\n\n\n\n\n\n\n\n\n\nExample\n\n\n\n\nAn odds ratio of 0.98 indicates that the group who were exposed to the variable were 2% less likely to have the outcome.\nAn odds ratio of 1.02 indicates that the group who was exposed to the variable were 2% more likely to have the outcome.\n\n\n\n\n\nVideos\n\n\n\n\n\n\n\nReferences\n\n1. Roberts MR, Ashrafzadeh S, Asgari MM. Research Techniques Made Simple: Interpreting Measures of Association in Clinical Research. The Journal of Investigative Dermatology. 2019;139(3):502-511.e1. doi:10.1016/j.jid.2018.12.023"
   },
   {
     "objectID": "The Archive/Evidene Based Practice/Probability and Risk/relative_risk.html",
@@ -4379,14 +4379,14 @@
     "href": "The Archive/Anatomy/Bones/Upper Extremity Bones/scapula_bone.html",
     "title": "Scapula (Bone)",
     "section": "",
-    "text": "Muscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nLower Trapezius\nSP of T5–T12\nScapular Spine\nMotor: CN XI Accessory n.  Proprioception: Cervical plexus (C2, C3, C4)\nDraws scapula medially downward\n\n\n\n\n\n\n\nOne of the borders of the thoracic outlet1\n\n\n\n\n\nMuscles attachments to Supraspinous fossa of scapula\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nSupraspinatus\nSupraspinous Fossa of scapula\nGreater tubercle of Humerus\nSuprascapular nerve (C4-C6)\nInitiates abduction\n\n\n\n\n\n\n\n\n\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nInfraspinatus\nInfraspinous Fossa of scapula\nGreater tubercle of Humerus\nSuprascapular nerve (C4-C6)\nExternal rotation\n\n\n\n\n\n\n\n\n\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nInfraspinatus\nInfraspinous Fossa of scapula\nGreater tubercle of Humerus\nSuprascapular nerve (C4-C6)\nExternal rotation\n\n\n\n\n\n\n\n\n\nMuscular attachments of the Subscapular Fossa\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nSubscapularis\nSubscapular fossa of scapula\nLesser tubercle of Humerus\nUpper and Lower subscapular nerves (C5, C6)\nInternal Rotation\n\n\n\n\n\n\n\n\n\nCoracoid process muscular attachments\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nCoracobrachialis\nScapula (coracoid process)\nHumerus (in line with crest of lesser tubercle)\nMusculocutaneous n. (C5–C7)\nFlexion, adduction, internal rotation\n\n\nInsertions\n\n\n\n\n\n\nPectoralis Minor\n3rd to 5th ribs\nCoracoid process\nMedial Pectoral n. (C8, T1)\nDraws scapula downward, causing inferior angle to move posteromedially;  rotates glenoid inferiorly; assists in respiration\n\n\n\n\n\n\n\n\n\nCoracoid process muscular attachments\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nInsertions\n\n\n\n\n\n\nMiddle Trapezius\nAponeurosis at T1–T4 SP\nAcromion\nMotor: CN XI Accessory n.  Proprioception: Cervical plexus (C2, C3, C4)\nDraws scapula medially"
+    "text": "“The spine of the scapula provides a continuous line of attachments for the supporting trapezius muscle along its upper border, whereas the deltoid muscle, which suspends the humerus, gains origin from its lower border.”1\n\n\n\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nLower Trapezius\nSP of T5–T12\nScapular Spine\nMotor: CN XI Accessory n.  Proprioception: Cervical plexus (C2, C3, C4)\nDraws scapula medially downward\n\n\n\n\n\n\n\nOne of the borders of the thoracic outlet1\n\n\n\n\n\nMuscles attachments to Supraspinous fossa of scapula\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nSupraspinatus\nSupraspinous Fossa of scapula\nGreater tubercle of Humerus\nSuprascapular nerve (C4-C6)\nInitiates abduction\n\n\n\n\n\n\n\n\n\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nInfraspinatus\nInfraspinous Fossa of scapula\nGreater tubercle of Humerus\nSuprascapular nerve (C4-C6)\nExternal rotation\n\n\n\n\n\n\n\n\n\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nInfraspinatus\nInfraspinous Fossa of scapula\nGreater tubercle of Humerus\nSuprascapular nerve (C4-C6)\nExternal rotation\n\n\n\n\n\n\n\n\n\nMuscular attachments of the Subscapular Fossa\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nSubscapularis\nSubscapular fossa of scapula\nLesser tubercle of Humerus\nUpper and Lower subscapular nerves (C5, C6)\nInternal Rotation\n\n\n\n\n\n\n\n“The coracoid process (see Fig. 16-3) projects forward like a crow’s beak, for which it is named. This forward position provides an efficient lever whereby the small pectoralis muscle can help to stabilize the scapula. In addition, the process serves as a point of origin for the coracobrachialis and the short head of the biceps muscle”1\n\n\nCoracoid process muscular attachments\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nCoracobrachialis\nScapula (coracoid process)\nHumerus (in line with crest of lesser tubercle)\nMusculocutaneous n. (C5–C7)\nFlexion, adduction, internal rotation\n\n\nInsertions\n\n\n\n\n\n\nPectoralis Minor\n3rd to 5th ribs\nCoracoid process\nMedial Pectoral n. (C8, T1)\nDraws scapula downward, causing inferior angle to move posteromedially;  rotates glenoid inferiorly; assists in respiration\n\n\n\n\n\n\n\n\nPart of the Acromioclavicular joint\n\n“A prominent feature of the scapula is the large overhanging acromion (see Fig. 16-3), which, along with the coracoacromial ligament and the previously mentioned labrum, functionally enlarges the G-H socket. The position of the acromion also places the deltoid muscle in a dominant position to provide muscular support during elevation of the arm. The morphology of the acromion is variable with three types having been described—(1) a relatively flat undersurface (Type I), (2) a slightly convex undersurface (Type II), and (3) a hooked shape (Type III), with a 2018 study finding that individuals with a type III acromion had almost three times greater odds for an RTC tear as compared to those with a type I or II, concluding that a larger acromial index is associated with a greater likelihood of an RTC tear.9 This despite an earlier study in 2011 that concluded that the type of acromion was not found to have an important role in the etiology of chronic impingement syndrome.10”1\n\n\nCoracoid process muscular attachments\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nInsertions\n\n\n\n\n\n\nMiddle Trapezius\nAponeurosis at T1–T4 SP\nAcromion\nMotor: CN XI Accessory n.  Proprioception: Cervical plexus (C2, C3, C4)\nDraws scapula medially"
   },
   {
     "objectID": "The Archive/Anatomy/Bones/Upper Extremity Bones/scapula_bone.html#spine-of-scapula",
     "href": "The Archive/Anatomy/Bones/Upper Extremity Bones/scapula_bone.html#spine-of-scapula",
     "title": "Scapula (Bone)",
     "section": "",
-    "text": "Muscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nLower Trapezius\nSP of T5–T12\nScapular Spine\nMotor: CN XI Accessory n.  Proprioception: Cervical plexus (C2, C3, C4)\nDraws scapula medially downward"
+    "text": "“The spine of the scapula provides a continuous line of attachments for the supporting trapezius muscle along its upper border, whereas the deltoid muscle, which suspends the humerus, gains origin from its lower border.”1\n\n\n\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nLower Trapezius\nSP of T5–T12\nScapular Spine\nMotor: CN XI Accessory n.  Proprioception: Cervical plexus (C2, C3, C4)\nDraws scapula medially downward"
   },
   {
     "objectID": "The Archive/Anatomy/Bones/Upper Extremity Bones/scapula_bone.html#superior-border",
@@ -4428,42 +4428,42 @@
     "href": "The Archive/Anatomy/Bones/Upper Extremity Bones/scapula_bone.html#coracoid-process",
     "title": "Scapula (Bone)",
     "section": "",
-    "text": "Coracoid process muscular attachments\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nCoracobrachialis\nScapula (coracoid process)\nHumerus (in line with crest of lesser tubercle)\nMusculocutaneous n. (C5–C7)\nFlexion, adduction, internal rotation\n\n\nInsertions\n\n\n\n\n\n\nPectoralis Minor\n3rd to 5th ribs\nCoracoid process\nMedial Pectoral n. (C8, T1)\nDraws scapula downward, causing inferior angle to move posteromedially;  rotates glenoid inferiorly; assists in respiration"
+    "text": "“The coracoid process (see Fig. 16-3) projects forward like a crow’s beak, for which it is named. This forward position provides an efficient lever whereby the small pectoralis muscle can help to stabilize the scapula. In addition, the process serves as a point of origin for the coracobrachialis and the short head of the biceps muscle”1\n\n\nCoracoid process muscular attachments\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nCoracobrachialis\nScapula (coracoid process)\nHumerus (in line with crest of lesser tubercle)\nMusculocutaneous n. (C5–C7)\nFlexion, adduction, internal rotation\n\n\nInsertions\n\n\n\n\n\n\nPectoralis Minor\n3rd to 5th ribs\nCoracoid process\nMedial Pectoral n. (C8, T1)\nDraws scapula downward, causing inferior angle to move posteromedially;  rotates glenoid inferiorly; assists in respiration"
   },
   {
     "objectID": "The Archive/Anatomy/Bones/Upper Extremity Bones/scapula_bone.html#acromion",
     "href": "The Archive/Anatomy/Bones/Upper Extremity Bones/scapula_bone.html#acromion",
     "title": "Scapula (Bone)",
     "section": "",
-    "text": "Coracoid process muscular attachments\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nInsertions\n\n\n\n\n\n\nMiddle Trapezius\nAponeurosis at T1–T4 SP\nAcromion\nMotor: CN XI Accessory n.  Proprioception: Cervical plexus (C2, C3, C4)\nDraws scapula medially"
+    "text": "Part of the Acromioclavicular joint\n\n“A prominent feature of the scapula is the large overhanging acromion (see Fig. 16-3), which, along with the coracoacromial ligament and the previously mentioned labrum, functionally enlarges the G-H socket. The position of the acromion also places the deltoid muscle in a dominant position to provide muscular support during elevation of the arm. The morphology of the acromion is variable with three types having been described—(1) a relatively flat undersurface (Type I), (2) a slightly convex undersurface (Type II), and (3) a hooked shape (Type III), with a 2018 study finding that individuals with a type III acromion had almost three times greater odds for an RTC tear as compared to those with a type I or II, concluding that a larger acromial index is associated with a greater likelihood of an RTC tear.9 This despite an earlier study in 2011 that concluded that the type of acromion was not found to have an important role in the etiology of chronic impingement syndrome.10”1\n\n\nCoracoid process muscular attachments\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nInsertions\n\n\n\n\n\n\nMiddle Trapezius\nAponeurosis at T1–T4 SP\nAcromion\nMotor: CN XI Accessory n.  Proprioception: Cervical plexus (C2, C3, C4)\nDraws scapula medially"
   },
   {
     "objectID": "The Archive/Anatomy/Bones/Upper Extremity Bones/humerus_bone.html",
     "href": "The Archive/Anatomy/Bones/Upper Extremity Bones/humerus_bone.html",
     "title": "Humerus (bone)",
     "section": "",
-    "text": "Deltoid Muscles OIAN\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nAnterior Deltoid\nLateral 1/3 of clavicle\nHumerus (deltoid tuberosity)\nAxillary n. (C5, C6)\nGHJ: Flexion, internal rotation, adduction\n\n\nLateral Deltoid\nAcromion\nHumerus (deltoid tuberosity)\nAxillary n. (C5, C6)\nAbduction\n\n\nPosterior Deltoid\nScapular spine\nHumerus (deltoid tuberosity)\nAxillary n. (C5, C6)\nGHJ: Extension, external rotation, adduction\n\n\n\n\n\n\n\n\n\n\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nSupraspinatus\nSupraspinous Fossa of scapula\nGreater tubercle of Humerus\nSuprascapular nerve (C4-C6)\nInitiates abduction\n\n\nInfraspinatus\nInfraspinous Fossa of scapula\nGreater tubercle of Humerus\nSuprascapular nerve (C4-C6)\nExternal rotation\n\n\nTeres Minor\nLateral border of scapula\nGreater tubercle of Humerus\nAxillary n. (C5, C6)\nExternal rotation, weak adduction, stabilizes GHJ\n\n\n\n\n\n\n\n\n\nLesser tubercle of humerus attachment OIAN\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nSubscapularis\nSubscapular fossa of scapula\nLesser tubercle of Humerus\nUpper and Lower subscapular nerves (C5, C6)\nInternal Rotation\n\n\nPec Major\nClavicle (medial half), sternum, costal cartilages 1–6, rectus sheath (anterior layer)\nHumerus (crest of greater tubercle)\nLateral pectoral nerve and Medial pectoral nerve (C5-T1)\nEntire muscle: adduction, internal rotation; Clavicular and sternocostal parts: flexion; assist in respiration when shoulder is fixed\n\n\n\n\n\n\n\n\nDysfunction:\n\nLateral epicondylitis (Tennis elbow)\n\n\n\n\n\n\n\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nCoracobrachialis\nScapula (coracoid process)\nHumerus (in line with crest of lesser tubercle)\nMusculocutaneous n. (C5–C7)\nFlexion, adduction, internal rotation"
+    "text": "LAteral attachment of GH capsule1\nThe humeral head landmark is divided by an imaginary line that separates the humeral head from the rest of the humerus1\n\n\n\n\n\n\nDeltoid Muscles OIAN\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nAnterior Deltoid\nLateral 1/3 of clavicle\nHumerus (deltoid tuberosity)\nAxillary n. C5, C6\nGHJ: Flexion, internal rotation, adduction\n\n\nLateral Deltoid\nAcromion\nHumerus (deltoid tuberosity)\nAxillary n. C5, C6\nAbduction\n\n\nPosterior Deltoid\nScapular spine\nHumerus (deltoid tuberosity)\nAxillary n. C5, C6\nGHJ: Extension, external rotation, adduction\n\n\n\n\n\n\n\n\nLocated on the lateral neck of humerus1\nSeparated from Lesser tubercle via the intertubercular groove1\nThe greater tubercle of the humerus serves as an attachment site for some of the tendons of the RTC1\n\nSupraspinatus1,2\nInfraspinatus1,2\nTeres Minor1,2\n\n\n\n\n\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nSupraspinatus\nSupraspinous Fossa of scapula\nGreater tubercle of Humerus\nSuprascapular nerve (C4-C6)\nInitiates abduction\n\n\nInfraspinatus\nInfraspinous Fossa of scapula\nGreater tubercle of Humerus\nSuprascapular nerve (C4-C6)\nExternal rotation\n\n\nTeres Minor\nLateral border of scapula\nGreater tubercle of Humerus\nAxillary n. (C5, C6)\nExternal rotation, weak adduction, stabilizes GHJ\n\n\n\n\n\n\n\n\nLocated on the lateral neck of humerus1\nSeparated from Greater tubercle via the intertubercular groove1\nLesser tubercle serves as an attachment site for part of the RTC (subscapularis)1,2.\n\n\n\nLesser tubercle of humerus attachment OIAN\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nSubscapularis\nSubscapular fossa of scapula\nLesser tubercle of Humerus\nUpper and Lower subscapular nerves (C5, C6)\nInternal Rotation\n\n\nPec Major\nClavicle (medial half), sternum, costal cartilages 1–6, rectus sheath (anterior layer)\nHumerus (crest of greater tubercle)\nLateral pectoral nerve and Medial pectoral nerve (C5-T1)\nEntire muscle: adduction, internal rotation; Clavicular and sternocostal parts: flexion; assist in respiration when shoulder is fixed\n\n\n\n\n\n\n\n\nDysfunction:\n\nLateral epicondylitis (Tennis elbow)\n\n\n\n\n\n\n\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nCoracobrachialis\nScapula (coracoid process)\nHumerus (in line with crest of lesser tubercle)\nMusculocutaneous n. (C5–C7)\nFlexion, adduction, internal rotation\n\n\n\n\n\n\n\n\nProvides a passage for the Biceps Brachii Long Head tendon to attach to the superior rim of the glenoid fossa1\n\n\n\n\n\n\nThe angle of the walls of the intertubercular groove can vary widely1\nSeparates the Greater Tubercle from the Lesser Tubercle1\nThe roof is formed by the transverse ligament1\n\n\n\n\n\nAllows the proximal tendon of the biceps Brachii Long Head to travel from its origin on the labrum and supraglenoid notch on the scapula, down the neck of the humerus and to the muscle belly1\n\n\n\n\n\nAnatomic anomalies are associated with:\n\nRTC tendinopathy1\nBicipital Tendinopathy1\n\n\n\n\n\n\n\n\n\nThe Surgical Neck of the humerus refers to the region inferior to the greater and lesser tuberosities, where the shaft of the humerus joins the upper margins1.\nThe Axillary Nerve and Posterior Humeral Circumflex Artery run in close proximity to the medial aspect of the surgical neck1.\n\nFractures at the Surgical Neck most commonly cause Axillary Nerve damage1.\n\nThe Surgical Neck of the humerus fractures more commonly than the Anatomical Neck1."
   },
   {
     "objectID": "The Archive/Anatomy/Bones/Upper Extremity Bones/humerus_bone.html#deltoid-tuberosity",
     "href": "The Archive/Anatomy/Bones/Upper Extremity Bones/humerus_bone.html#deltoid-tuberosity",
     "title": "Humerus (bone)",
     "section": "",
-    "text": "Deltoid Muscles OIAN\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nAnterior Deltoid\nLateral 1/3 of clavicle\nHumerus (deltoid tuberosity)\nAxillary n. (C5, C6)\nGHJ: Flexion, internal rotation, adduction\n\n\nLateral Deltoid\nAcromion\nHumerus (deltoid tuberosity)\nAxillary n. (C5, C6)\nAbduction\n\n\nPosterior Deltoid\nScapular spine\nHumerus (deltoid tuberosity)\nAxillary n. (C5, C6)\nGHJ: Extension, external rotation, adduction"
+    "text": "Deltoid Muscles OIAN\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nAnterior Deltoid\nLateral 1/3 of clavicle\nHumerus (deltoid tuberosity)\nAxillary n. C5, C6\nGHJ: Flexion, internal rotation, adduction\n\n\nLateral Deltoid\nAcromion\nHumerus (deltoid tuberosity)\nAxillary n. C5, C6\nAbduction\n\n\nPosterior Deltoid\nScapular spine\nHumerus (deltoid tuberosity)\nAxillary n. C5, C6\nGHJ: Extension, external rotation, adduction"
   },
   {
     "objectID": "The Archive/Anatomy/Bones/Upper Extremity Bones/humerus_bone.html#greater-tubercle",
     "href": "The Archive/Anatomy/Bones/Upper Extremity Bones/humerus_bone.html#greater-tubercle",
     "title": "Humerus (bone)",
     "section": "",
-    "text": "Muscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nSupraspinatus\nSupraspinous Fossa of scapula\nGreater tubercle of Humerus\nSuprascapular nerve (C4-C6)\nInitiates abduction\n\n\nInfraspinatus\nInfraspinous Fossa of scapula\nGreater tubercle of Humerus\nSuprascapular nerve (C4-C6)\nExternal rotation\n\n\nTeres Minor\nLateral border of scapula\nGreater tubercle of Humerus\nAxillary n. (C5, C6)\nExternal rotation, weak adduction, stabilizes GHJ"
+    "text": "Located on the lateral neck of humerus1\nSeparated from Lesser tubercle via the intertubercular groove1\nThe greater tubercle of the humerus serves as an attachment site for some of the tendons of the RTC1\n\nSupraspinatus1,2\nInfraspinatus1,2\nTeres Minor1,2\n\n\n\n\n\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nSupraspinatus\nSupraspinous Fossa of scapula\nGreater tubercle of Humerus\nSuprascapular nerve (C4-C6)\nInitiates abduction\n\n\nInfraspinatus\nInfraspinous Fossa of scapula\nGreater tubercle of Humerus\nSuprascapular nerve (C4-C6)\nExternal rotation\n\n\nTeres Minor\nLateral border of scapula\nGreater tubercle of Humerus\nAxillary n. (C5, C6)\nExternal rotation, weak adduction, stabilizes GHJ"
   },
   {
     "objectID": "The Archive/Anatomy/Bones/Upper Extremity Bones/humerus_bone.html#lesser-tubercle",
     "href": "The Archive/Anatomy/Bones/Upper Extremity Bones/humerus_bone.html#lesser-tubercle",
     "title": "Humerus (bone)",
     "section": "",
-    "text": "Lesser tubercle of humerus attachment OIAN\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nSubscapularis\nSubscapular fossa of scapula\nLesser tubercle of Humerus\nUpper and Lower subscapular nerves (C5, C6)\nInternal Rotation\n\n\nPec Major\nClavicle (medial half), sternum, costal cartilages 1–6, rectus sheath (anterior layer)\nHumerus (crest of greater tubercle)\nLateral pectoral nerve and Medial pectoral nerve (C5-T1)\nEntire muscle: adduction, internal rotation; Clavicular and sternocostal parts: flexion; assist in respiration when shoulder is fixed"
+    "text": "Located on the lateral neck of humerus1\nSeparated from Greater tubercle via the intertubercular groove1\nLesser tubercle serves as an attachment site for part of the RTC (subscapularis)1,2.\n\n\n\nLesser tubercle of humerus attachment OIAN\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nSubscapularis\nSubscapular fossa of scapula\nLesser tubercle of Humerus\nUpper and Lower subscapular nerves (C5, C6)\nInternal Rotation\n\n\nPec Major\nClavicle (medial half), sternum, costal cartilages 1–6, rectus sheath (anterior layer)\nHumerus (crest of greater tubercle)\nLateral pectoral nerve and Medial pectoral nerve (C5-T1)\nEntire muscle: adduction, internal rotation; Clavicular and sternocostal parts: flexion; assist in respiration when shoulder is fixed"
   },
   {
     "objectID": "The Archive/Anatomy/Bones/Upper Extremity Bones/humerus_bone.html#lateral-epicondyle-of-humerus",
@@ -4736,7 +4736,7 @@
     "href": "The Archive/Anatomy/Connective tissue/Upper extremity CT/labrum_shoulder.html",
     "title": "Shoulder Labrum",
     "section": "",
-    "text": "SLAP Lesion\n\nThe compression rotation test\n\n“was performed with the patient supine and by elevating the patient’s arm 90° and rotating the arm while applying an axial load”\n“The test was positive if the patient reported pain or a click deep in the shoulder”1\n\n“Active compression test was performed with the affected arm slightly adducted and forward-flexed 90°”\n\n“The patient tried to elevate the arm with the palm up and then with the thumb pointing downward against resistance”1\nPositive: “Pain in the front of the arm with either maneuver was noted, recorded”1\n\nThe anterior slide test1\n\n“The patient stood with the hand on the hip of the affected side, and the examiner applied an axial load along the humerus”1\n“The test was considered positive when this maneuver produced pain or a click.”\n\n\n\n\n\n\n\nReferences\n\n1. Gill C, Cho TA. Neurologic Complications of COVID-19. CONTINUUM: Lifelong Learning in Neurology. 2023;29(3):946-965. doi:10.1212/CON.0000000000001272"
+    "text": "Anatomy\n\nServes as a medial attachment point for the shoulder joint capsule1\n\n\n\nFunction\n\n\nSLAP Lesion\n\nThe compression rotation test\n\n“was performed with the patient supine and by elevating the patient’s arm 90° and rotating the arm while applying an axial load”\n“The test was positive if the patient reported pain or a click deep in the shoulder”2\n\n“Active compression test was performed with the affected arm slightly adducted and forward-flexed 90°”\n\n“The patient tried to elevate the arm with the palm up and then with the thumb pointing downward against resistance”2\nPositive: “Pain in the front of the arm with either maneuver was noted, recorded”2\n\nThe anterior slide test2\n\n“The patient stood with the hand on the hip of the affected side, and the examiner applied an axial load along the humerus”2\n“The test was considered positive when this maneuver produced pain or a click.”\n\n\n\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. Fifth edition. McGraw Hill Education; 2020.\n\n\n2. Gill C, Cho TA. Neurologic Complications of COVID-19. CONTINUUM: Lifelong Learning in Neurology. 2023;29(3):946-965. doi:10.1212/CON.0000000000001272"
   },
   {
     "objectID": "The Archive/Anatomy/Connective tissue/Fascia/iliotibial_band.html",
@@ -7564,7 +7564,7 @@
     "href": "The Archive/Anatomy/Joints/Spine joints/atlanto-axial_joint.html",
     "title": "Atlanto-Axial Joint",
     "section": "",
-    "text": "The atlanto-axial joint complex has two articular components: a median joint and a pair of laterally positioned apophyseal joints. The median joint is formed by the dens of the axis (C2) projecting through an osseous-ligamentous ring created by the anterior arch of the atlas and the transverse ligament (Fig. 9.43). Because the dens serves as a vertical axis for horizontal plane rotation of the atlas, the atlanto-axial joint is often described as a pivot joint.\nThe median joint within the atlanto-axial joint complex has two synovial cavities. The smaller, anterior cavity is formed between the anterior side of the dens and the posterior border of the anterior arch of the atlas (see Fig. 9.43). An anterior facet on the anterior side of the dens marks this articulation (see Fig. 9.20A). The much larger posterior cavity separates the posterior side of the dens and a cartilage-lined section of the transverse ligament of the atlas. This strong, 2-cm long ligament is essential to the horizontal plane stability of the atlanto-axial articulation.35 Without its restraint, the atlas (and articulated cranium) can slip anteriorly relative to the axis, possibly damaging the spinal cord."
+    "text": "The atlanto-axial joint complex has two articular components: a median joint and a pair of laterally positioned apophyseal joints. The median joint is formed by the dens of the axis (C2) projecting through an osseous-ligamentous ring created by the anterior arch of the atlas and the transverse ligament (Fig. 9.43). Because the dens serves as a vertical axis for horizontal plane rotation of the atlas, the atlanto-axial joint is often described as a pivot joint.\nThe median joint within the atlanto-axial joint complex has two synovial cavities. The smaller, anterior cavity is formed between the anterior side of the dens and the posterior border of the anterior arch of the atlas (see Fig. 9.43). An anterior facet on the anterior side of the dens marks this articulation (see Fig. 9.20A). The much larger posterior cavity separates the posterior side of the dens and a cartilage-lined section of the transverse ligament of the atlas. This strong, 2-cm long ligament is essential to the horizontal plane stability of the atlanto-axial articulation.35 Without its restraint, the atlas (and articulated cranium) can slip anteriorly relative to the axis, possibly damaging the spinal cord.\n\nROM Assessment"
   },
   {
     "objectID": "The Archive/Anatomy/Joints/Spine joints/occipitoatlanto_joint.html",
@@ -7914,7 +7914,7 @@
     "href": "The Archive/Anatomy/OIANs/Lower limb muscles/Knee Flexor-Rotator Muscles/hamstring_muscle_group.html",
     "title": "Hamstrings",
     "section": "",
-    "text": "“The hamstring muscles (i.e., semimembranosus, semitendinosus, and long head of the biceps femoris) have their proximal attachment on the ischial tuberosity. The short head of the biceps has its proximal attachment on the lateral lip of the linea aspera of the femur. Distally, the hamstrings cross the knee joint and attach to the tibia and fibula”1\n“All hamstring muscles, except the short head of the biceps femoris, cross the hip and knee. As described in Chapter 12, the three biarticular hamstrings are very effective hip extensors, especially in the control of the position of the pelvis and trunk over the femur.”1\n“As a group, the hamstrings primarily function to extend the hip and to flex the knee. The hamstrings are innervated by branches of the sciatic nerve.”2\n\nKnee Rotation\n\n\n\nInternal rotation\n\nMedial hamstrings1\n\nSemimembranosus1\nSemitendinosus1\n\n\n\n\nExternal Rotation\nBiceps femoris flexes and externally rotates the knee1\n\n\n\n\n\n\n\n\nReferences\n\n1. Neumann DA, Kelly ER, Kiefer CL, Martens K, Grosz CM. Kinesiology of the Musculoskeletal System: Foundations for Rehabilitation. 3rd ed. Elsevier; 2017.\n\n\n2. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. Fifth edition. McGraw Hill Education; 2020."
+    "text": "“The hamstring muscles (i.e., semimembranosus, semitendinosus, and long head of the biceps femoris) have their proximal attachment on the ischial tuberosity. The short head of the biceps has its proximal attachment on the lateral lip of the linea aspera of the femur. Distally, the hamstrings cross the knee joint and attach to the tibia and fibula”1\n“All hamstring muscles, except the short head of the biceps femoris, cross the hip and knee. As described in Chapter 12, the three biarticular hamstrings are very effective hip extensors, especially in the control of the position of the pelvis and trunk over the femur.”1\n“As a group, the hamstrings primarily function to extend the hip and to flex the knee. The hamstrings are innervated by branches of the sciatic nerve.”2\n\nKnee Rotation\n\n\n\nInternal rotation\n\nMedial hamstrings1\n\nSemimembranosus1\nSemitendinosus1\n\n\n\n\nExternal Rotation\nBiceps femoris flexes and externally rotates the knee1\n\n\n\n\n\nExamination\n\nLength Test\n\nSLR\n90-90 knee extension\n\nMMT\n\n\n\nMobility Exercises\n\nElephant walks\nSL HF activation + spine flexion\n\n\n\nStrength Exercises\n\nExercises biasing fully lengthened position\n\nNordic Curl\n\nExercises biasing fully shortened\n\nStanding HS curls\n\nExercises for mid range\n\n\n\n\n\n\nReferences\n\n1. Neumann DA, Kelly ER, Kiefer CL, Martens K, Grosz CM. Kinesiology of the Musculoskeletal System: Foundations for Rehabilitation. 3rd ed. Elsevier; 2017.\n\n\n2. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. Fifth edition. McGraw Hill Education; 2020."
   },
   {
     "objectID": "The Archive/Anatomy/OIANs/Lower limb muscles/Knee Flexor-Rotator Muscles/semitendinosus.html",
@@ -8089,14 +8089,14 @@
     "href": "The Archive/Anatomy/OIANs/Shoulder and Arm Muscles/biceps_brachii.html#speeds-test",
     "title": "Biceps Brachii",
     "section": "Speed’s Test",
-    "text": "Speed’s Test\n\nPatient standing with the elbow extended and the forearm in supination, the arm was elevated to 90° and extended slightly horizontallygillPhysicalExaminationPartial2007?\nPt resists the downward force applied by the examiner1\nPositive: Pain was localized to the bicipital groove area in the anterior shoulder1"
+    "text": "Speed’s Test\n\nPatient standing with the elbow extended and the forearm in supination, the arm was elevated to 90° and extended slightly horizontallygillPhysicalExaminationPartial2007?\nPt resists the downward force applied by the examiner2\nPositive: Pain was localized to the bicipital groove area in the anterior shoulder2"
   },
   {
     "objectID": "The Archive/Anatomy/OIANs/Shoulder and Arm Muscles/biceps_brachii.html#possible-tests-for-biceps-injury",
     "href": "The Archive/Anatomy/OIANs/Shoulder and Arm Muscles/biceps_brachii.html#possible-tests-for-biceps-injury",
     "title": "Biceps Brachii",
     "section": "Possible tests for biceps injury",
-    "text": "Possible tests for biceps injury\n\nSome researchers suggest that the lift-off test can be positive for pts with biceps tendon injurygillPhysicalExaminationPartial2007?\nTheorizing that attempting to lift the affected arm off the back might provoke pain or weakness secondary to biceps tendon teargillPhysicalExaminationPartial2007?\n\n“Only the lift-off test and the belly press test had a likelihood ratio of more than 2.0. These 2 tests had low sensitivities (0.28 and 0.17, respectively) but high specificity (0.89 and 0.92, respectively)”1"
+    "text": "Possible tests for biceps injury\n\nSome researchers suggest that the lift-off test can be positive for pts with biceps tendon injurygillPhysicalExaminationPartial2007?\nTheorizing that attempting to lift the affected arm off the back might provoke pain or weakness secondary to biceps tendon teargillPhysicalExaminationPartial2007?\n\n“Only the lift-off test and the belly press test had a likelihood ratio of more than 2.0. These 2 tests had low sensitivities (0.28 and 0.17, respectively) but high specificity (0.89 and 0.92, respectively)”2"
   },
   {
     "objectID": "The Archive/Anatomy/OIANs/Shoulder and Arm Muscles/subscapularis_muscle.html",
@@ -8166,7 +8166,7 @@
     "href": "The Archive/Anatomy/OIANs/Shoulder and Arm Muscles/rotator_cuff_muscles.html",
     "title": "Rotator Cuff Muscles",
     "section": "",
-    "text": "library(tidyverse)\nlibrary(gt)\nlibrary(dplyr)\n\nrotator_cuff_data &lt;- read.csv(/The Archive/Anatomy/OIANs/OIAN.csv) %&gt;%\n\nhead(rotator_cuff_data) %&gt;%\n    gt()\n\nError: &lt;text&gt;:5:31: unexpected '/'\n4: \n5: rotator_cuff_data &lt;- read.csv(/\n                                 ^"
+    "text": "Function\nThe RTC contributes to movement, stability, and sensorimotor control of the G-H joint1\n\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. Fifth edition. McGraw Hill Education; 2020."
   },
   {
     "objectID": "The Archive/Anatomy/OIANs/Shoulder and Arm Muscles/infraspinatus_muscle.html",
@@ -8957,7 +8957,7 @@
     "href": "The Archive/Anatomy/Nerves/Upper extremity nerves/axillary_nerve.html",
     "title": "Axillary Nerve",
     "section": "",
-    "text": "Axillary nerve roots: C5 & C61\n\nMotor Innervation\n\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nAnterior Deltoid\nLateral 1/3 of clavicle\nHumerus (deltoid tuberosity)\nAxillary n. (C5, C6)\nGHJ: Flexion, internal rotation, adduction\n\n\nLateral Deltoid\nAcromion\nHumerus (deltoid tuberosity)\nAxillary n. (C5, C6)\nAbduction\n\n\nPosterior Deltoid\nScapular spine\nHumerus (deltoid tuberosity)\nAxillary n. (C5, C6)\nGHJ: Extension, external rotation, adduction\n\n\n\n\n\n\n\n\n\n\n\nSensory innervation\n\n1. Gilroy AM, MacPherson BR, Wikenheiser JC, Voll MM, Wesker K, Schünke M, eds. Atlas of Anatomy. 4th ed. Thieme; 2020."
+    "text": "Axillary nerve roots: C5 & C61\n\nMotor Innervation\n\n\n\nMuscle\nOrigin\nInsertion\nNerve\nAction\n\n\n\n\nAnterior Deltoid\nLateral 1/3 of clavicle\nHumerus (deltoid tuberosity)\nAxillary n. C5, C6\nGHJ: Flexion, internal rotation, adduction\n\n\nLateral Deltoid\nAcromion\nHumerus (deltoid tuberosity)\nAxillary n. C5, C6\nAbduction\n\n\nPosterior Deltoid\nScapular spine\nHumerus (deltoid tuberosity)\nAxillary n. C5, C6\nGHJ: Extension, external rotation, adduction\n\n\n\n\n\nSensory innervation\n\n\nDysfunction\n\nFractures at the Surgical Neck most commonly cause Axillary Nerve damage2.\n\n\n\n\n\n\nReferences\n\n1. Gilroy AM, MacPherson BR, Wikenheiser JC, Voll MM, Wesker K, Schünke M, eds. Atlas of Anatomy. 4th ed. Thieme; 2020.\n\n\n2. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. Fifth edition. McGraw Hill Education; 2020."
   },
   {
     "objectID": "The Archive/Anatomy/Nerves/Head and Neck/lesser_occipital_nerve.html",
@@ -11967,7 +11967,7 @@
     "href": "The Archive/Anatomy/OIANs/Shoulder and Arm Muscles/serratus_anterior_muscle.html",
     "title": "Serratus Anterior",
     "section": "",
-    "text": "1st to 9th ribs1\n\n\n\n\n\n\n\n\n\n\nScapula (costal and dorsal surfaces of superior angle)\n\n\n\nScapula (costal surface of medial border)1\n\n\n\nScapula (costal surface of medial border and costal and dorsal surfaces of inferior angle)1\n\n\n\n\n\n\nThe Serratus Anterior is solely innervated by the Long Thoracic Nerve (C5, C6, & C7)\n\n\n\n\n\n\n\n\n\n\nLowers the raised arm1\n\n\n\nEntire muscle: draws scapula laterally forward; elevates ribs when shoulder is fixed1\n\n\n\nRotates inferior angle of scapula laterally forward (allows elevation of arm above 90°)1"
+    "text": "1st to 9th ribs1\n\n\n\n\n\n\n\nScapula (costal and dorsal surfaces of superior angle)\n\n\n\nScapula (costal surface of medial border)1\n\n\n\nScapula (costal surface of medial border and costal and dorsal surfaces of inferior angle)1\n\n\n\n\n\n\nThe Serratus Anterior is solely innervated by the Long Thoracic Nerve (C5, C6, & C7)\n\n\n\n\n\n\n\nLowers the raised arm1\n\n\n\nEntire muscle: draws scapula laterally forward; elevates ribs when shoulder is fixed1\n\n\n\nRotates inferior angle of scapula laterally forward (allows elevation of arm above 90°)1"
   },
   {
     "objectID": "The Archive/Anatomy/OIANs/Shoulder and Arm Muscles/serratus_anterior_muscle.html#origin",
@@ -12618,7 +12618,7 @@
     "href": "The Archive/Anatomy/Joints/UE Joints/glenohumeral_joint.html",
     "title": "Glenohumeral Joint",
     "section": "",
-    "text": "Innervation\nSuprascapular nerve provides sensory and sympathetic afferent fibers to the GHJ1\n\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. Fifth edition. McGraw Hill Education; 2020."
+    "text": "“The G-H joint is a true synovial joint that connects the upper extremity to the trunk, as part of the upper kinetic chain. The G-H joint is described as a ball and socket joint—the humeral head forms roughly half a ball or sphere (Fig. 16-1), whereas the glenoid fossa forms the socket.”1\n“The head of the humerus faces medially, posteriorly, and superiorly with the axis of the head forming an angle of 130–150 degrees with the long axis of the humerus (Fig. 16-2).3 In the frontal plane, the head of the humerus is angled posteriorly (retroverted) by 30–40 degrees.3 The joint capsule of the G-H joint is lax inferiorly to permit full elevation of the arm.”1\n“The glenoid fossa of the scapula faces laterally, superiorly, and anteriorly at rest and inferiorly and posteriorly when the arm is in the dependent position (Fig. 16-3). The glenoid fossa is flat and covers only one-third to one-fourth of the surface area of the humeral head.3 This arrangement allows for a great deal of mobility but little in the way of articular stability. However, the glenoid fossa is made approximately 50% deeper (doubling the depth of the glenoid fossa across its equatorial line), and more concave by a ring of fibrous cartilage and dense fibrous collagen called a labrum.3 The labrum, which enhances joint stability by increasing the humeral head contact areas, forms a part of the articular surface and is attached to the margin of the glenoid cavity and the joint capsule.3 It is also attached to the lateral portion of the biceps anchor superiorly.4 In addition, approximately 50% of the fibers of the long head of the biceps (LHB) brachii originate from the superior labrum (the remainder originates from the superior glenoid tubercle), with four different variations identified, and continue posteriorly to become a periarticular fiber bundle, making up the bulk of the labrum.3,4 Because the humeral head is larger than the glenoid (Fig. 16-3), at any point during elevation, only 25–30% of the humeral head is in contact with the glenoid, with the greatest contact occurring during elevation rather than at the extremes. Contact between the humeral head and glenoid fossa is significantly reduced when the humerus is positioned in:”1\n“Although the labrum provides some stability for the G-H joint, additional support is provided by both dynamic and static mechanisms. The dynamic mechanisms include the muscles of the rotator cuff (RC) (supraspinatus, infraspinatus, teres minor, and subscapularis muscles) (Fig. 16-4) and a number of muscle force couples described later. The static mechanisms, which include reinforcements of the joint capsule, joint cohesion and geometry, and ligamentous support, are also described later.”1\n“The scapula (Fig. 16-1) functions as a stable base from which G-H mobility can occur. The scapula is a flat blade of bone that is oriented to contribute to stability: it lies along the thoracic cage at 30 degrees to the frontal plane (Fig. 16-2), 3 degrees superiorly relative to the transverse plane to augment functional reaching motions above shoulder height, and 20 degrees forward in the sagittal plane.3 This orientation results in arm elevation occurring in a plane that is 30–45 degrees anterior to the frontal plane. When elevation of the arm occurs in this plane, the motion is referred to as scapular plane abduction or scaption.”1\n“The scapula’s wide and thin configuration allows for its smooth gliding along the thoracic wall and provides a large surface area for muscle attachments both distally and proximally.3 In all, 16 muscles gain attachment to the scapula (Table 16-1). Six of these muscles, including the trapezius, rhomboids, levator scapulae, and serratus anterior, support and move the scapula, while nine of the other ten (the omohyoid is not included) are concerned with G-H motion.”1\n“Posteriorly, the scapula is divided by the elevated scapula spine into two unequally sized muscle compartments. The supraspinous fossa is small and serves as the site of origin for the supraspinatus muscle (see Fig. 16-4). The infraspinous fossa gives attachment for the downward-acting infraspinatus and teres minor muscles (see Fig. 16-4), important muscles for the stabilization of the humeral head (see “Muscles of the Shoulder Complex” section). The infraspinatus and supraspinatus fuse near their insertions and cannot be separated, and the teres minor and infraspinatus merge inseparably just proximal to the musculotendinous junction.6 The supraspinatus tendon is made up of 6–9 structurally independent parallel fascicles separated by an endotendon and a lubricant that facilitates gliding.7 The RC tendons are also merged with the capsule of the shoulder and the coracohumeral and G-H ligaments. This interweaving of the RC with the G-H joint ligamentous and capsular tissues negates the possibility of isolated testing of individual structures.6 This structural arrangement also improves resistance to failure when the RC is under load because (a) tension in one muscle may be distributed over a wide area and (b) it reduces stress within the tendon during extremes of movement.8”1"
   },
   {
     "objectID": "The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN11_Spinal_Accessory.html#cranial-root-internal-ramus",
@@ -13612,7 +13612,7 @@
     "href": "The Archive/Physiology/Muscle/muscular_power.html",
     "title": "Muscular Power",
     "section": "",
-    "text": "Overview\nMuscle Power is defined as the total amount of work that the muscle can perform in a unit period of time1.\n\n\nStrength vs Power\n\n\n\nStrength\nMaximal amount of force that a muscle can output\n\n\nPower\nPower is a measure of the total amount of work that the muscle performs in a unit period of time1\n\n\n\n\n\nFactors\nPower is therefore determined not muscle strength, the distance of contraction, and the number of times that it contracts each minute.\n\n\nMeasurement\nMuscle power is generally measured in kilogram meters (kg-m) per minute. That is, a muscle that can lift 1-kilogram weight to a height of 1 meter or that can move some object laterally against a force of 1 kilogram for a distance of 1 meter in 1 minute is said to have a power of 1 kg-m/min. The maximal power achievable by all the muscles in the body of a highly trained athlete with all the muscles working together is approximately the following:”\n\n\n\nTime\n\\(\\textrm{kg} \\times \\textrm{m} / \\textrm{minute}\\)\n\n\n\n\nFirst 8 to 10 seconds\n7000\n\n\n1 min\n4000\n\n\nNext 30 minutes\n1700\n\n\n\n\n\n\n\n\nReferences\n\n1. Hall JE, Hall ME, Guyton AC. Guyton and Hall Textbook of Medical Physiology. 14th edition. Elsevier; 2021."
+    "text": "Overview\nMuscle Power is defined as the total amount of work that the muscle can perform in a unit period of time1.\n\n\nStrength vs Power\n\n\n\nStrength\nMaximal amount of force that a muscle can output\n\n\nPower\nPower is a measure of the total amount of work that the muscle performs in a unit period of time1\n\n\n\n\n\nFactors\nPower is therefore determined not muscle strength, the distance of contraction, and the number of times that it contracts each minute.\n\n\nMeasurement\nMuscle power is generally measured in kilogram meters (kg-m) per minute. That is, a muscle that can lift 1-kilogram weight to a height of 1 meter or that can move some object laterally against a force of 1 kilogram for a distance of 1 meter in 1 minute is said to have a power of 1 kg-m/min. The maximal power achievable by all the muscles in the body of a highly trained athlete with all the muscles working together is approximately the following:”\n\n\n\n\nTime\n\\((\\textrm{kg} \\times \\textrm{m}) / \\textrm{minute}\\)\n\n\n\n\nFirst 8 to 10 seconds\n70001\n\n\n1 min\n40001\n\n\nNext 30 minutes\n17001\n\n\n\n\n\n\n\n\nReferences\n\n1. Hall JE, Hall ME, Guyton AC. Guyton and Hall Textbook of Medical Physiology. 14th edition. Elsevier; 2021."
   },
   {
     "objectID": "The Archive/Performance Training/sport_physiology.html#hormone-differences",
@@ -13669,5 +13669,432 @@
     "title": "Skeletal Muscle",
     "section": "Holding Strength",
     "text": "Holding Strength\n“The holding strength of muscles is about 40% greater than the contractile strength. That is, if a muscle is already contracted and a force then attempts to stretch out the muscle, as occurs when landing after a jump, this action requires about 40% more force than can be achieved by a shortening contraction. Therefore, the force of 525 kilograms previously calculated for the patellar tendon during muscle contraction becomes 735 kilograms (1617 pounds) during holding contractions, which further compounds the problems of the tendons, joints, and ligaments. It can also lead to internal tearing in the muscle. In fact, forceful stretching of a maximally contracted muscle is one of the surest ways to create the highest degree of muscle soreness.”1"
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Association/association_statistics.html",
+    "href": "The Archive/Evidene Based Practice/Association/association_statistics.html",
+    "title": "Statistical Association",
+    "section": "",
+    "text": "“In case-control or cross-sectional studies, where we cannot calculate incidence rates, the odds ratio (OR) is typically calculated. The OR is the ratio of the exposure odds (O) among the case group to the exposure odds among the control group (Figure 2): Ocase ¼ A/C, Ocontrol ¼ B/D,OR¼ Ocase/Ocontrol), and it is interpreted similarly to the RR. An OR equal to 1 indicates no association, an OR less than 1 suggests that the exposure is protective (exposure is less likely among the case group), and OR greater than1 suggests that the exposure is a risk factor (exposure is less likely among the control group). For example, in a case-control study examining the association between infection with human papillomavirus b and risk of squamous cell carcinoma, an OR of 4.0 (95% CI ¼ 1.3e12.0) was observed (Asgari et al., 2008). This OR indicates that the odds of being exposed (i.e., having this human papillomavirus subtype) were 4 times greater among the case group than the control group or, put another way, that cases were 4 times more likely to have this human papillomavirus subtype than controls.”1 “When the outcome is rare, the OR approximates the RR. This assumption, known as the rare disease assumption, can be visualized in Figure 2. When the proportions in cells A and C are small, A þ B z B and C þ D z D. Therefore, RR ¼ [A/ (A þ B)]/[C/(C þ D)] z (A/B)/(C/D) ¼ (A/C)/(B/D) ¼ OR. When the outcome is more common (&gt;10%), however, the OR provides more extreme estimates than the RR. In Figure 2, where 44% of the study population has the outcome, the OR is much smaller than the RR.”1\n\n\n\n“The hazard ratio (HR) is the ratio of the rate at which the exposed group experiences an outcome to the rate at which the unexposed group experiences an outcome, and it provides the instantaneous risk at a given time rather than the cumulative risk over the length of a study. It is calculated in survival or time-to-event analyses, in which the outcome variable is the time (days, months, years, etc.) until the occurrence of the event of interest, such as development of a disease, disease complication (e.g., cancer recurrence), death, or other outcome. Participants who do not experience an event during the follow-up period are censored. This occurs if the participant is lost to follow-up, the follow-up period ends and the participant is event-free, or the participant experiences another outcome. At the time of censoring, the participant stops contributing follow-up time to the analysis. This type of censoring is known as right-censoring, because the true unobserved event lies to the right of the censoring time. For example, in a survival analysis of acral lentiginous melanoma, both melanoma-specific survival and overall survival, or all-cause mortality, were examined. In the melanoma-specific survival analysis, only melanoma-related deaths were considered events, and participants who died of causes not related to melanoma were right-censored at the time of death. In the overall survival analysis, however, deaths from any cause were considered events (Asgari et al., 2017). In contrast to right-censoring, left-censoring occurs when the event has already taken place before the observation period begins, and the true unobserved event lies to the left of the censoring time. Estimation of the HR, as with Cox proportional hazards regression, accounts for only rightcensored data (Clark et al., 2003).”1\n“When the HR is equal to 1, instantaneous event rates at a particular time are the same in the exposed and unexposed groups. When the HR is equal to 0.5, half as many people in the exposed group have experienced an event compared with the unexposed group, and when HR is equal to 2, twice as many people have experienced an event. For example, in a study examining the association between systemic immune suppression and Merkel cell carcinoma-specific survival, an HR of 3.8 was observed (95% CI ¼ 2.2e6.4) (Paulson et al., 2013). This estimate indicates that the rate of death from Merkel cell carcinoma was 3.8 times higher in people with systemic immune suppression. Because the 95% CI excludes the null value of 1, we can conclude that this HR is statistically significant.”2\n\n\n\n“Correlation coefficients, including the Pearson r and Spearman rho statistics, measure the strength and direction between two variables and range from e1(perfectnegative correlation) to þ1 (perfect positive correlation). A positive correlation coefficient indicates that both variables increase or decrease together, whereas a negative coefficient implies that as one variable increases, the other decreases (see examples in Table 2). The Pearson r statistic is generally used when data are continuous rather than categorical, and it assumes that the data are normally distributed and that the variables are linearly related. When these assumptions are not met, or when categorical data are involved, Spearman rho may be more appropriate. Spearman rho assumes a monotonic relationship between ranked variables and can be used for ordinal-level data. It is essentially a Pearson correlation using variable ranks rather than variable values. Spearman rho is the nonparametric version of Pearson r,and therefore it may be appropriate for nonnormally distributed data or when variables are not linearly related (McDonald, 2014a). For example, in a study examining cutaneous sarcoidosis, Rosenbach et al. (2013) calculated the correlations between disease severity and quality of life using several different instruments. The Physician’s Global Assessment of disease severity was found to be moderately positively correlated with Skindex-29 assessments of symptoms (Pearson r ¼ 0.41) but weakly negatively correlated with the Sarcoidosis Health Questionnaire assessment of quality of life (Pearson r ¼ e0.18). The Physician’s Global Assessment, Skindex-29, and Sarcoidosis Health Questionnaire data were normally distributed. Because the data from another assessment, the Dermatology Life Quality Index, were not normally distributed and the sample size was small, the authors used the Spearman rho correlation coefficient to identify a weak positive correlation with the Physician’s Global Assessment (r ¼ 0.24).”1\n\n\n\n“Linear regression is used to assess the relationship between a continuous outcome variable and one or more categorical or continuous predictor variables. For continuous predictors, a positive b coefficient represents the increase in the outcome variable for every 1-unit increase in the predictor variable. Conversely, a negative b coefficient represents the decrease in the outcome variable for every 1-unit increase in the predictor variable. Beta coefficients for categorical predictors have a similar interpretation, except that the coefficient represents the change in the outcome variable when switching from one category of the predictor variable to another. For instance, a study of patients with systemic sclerosis sought to investigate associations between demographic and medical variables and sleep disturbance, measured using a sleep quality scale. The number of gastrointestinal symptoms (continuous predictor) and sleep disturbance (continuous outcome) were positively associated (b ¼ 0.19, P ¼ 0.001). The beta coefficient indicates that for each 1-unit increase in the number of gastrointestinal symptoms, sleep quality score increases by 0.19 units. Female sex was also positively associated with sleep disturbance, although the association was not statistically significant (b ¼ 0.07, P ¼ 0.164). Because sex is a categorical variable, this beta coefficient indicates that being female, as opposed to being male, is associated with a 0.07-unit increase in sleep quality score (Milette et al., 2013).”1\n\n\n\n“The chi-squared and Fisher exact statistics are often used for testing relationships between categorical variables. These tests evaluate whether the proportions of one categorical variable differ by levels of another categorical variable (see example in Table 2). The null hypothesis for the chi-squared/ Fisher exact test is that the variables are independent; that is, the level of variable A does not predict the level of variable B. For each level of one variable, the expected frequencies at each level of the second variable are calculated. The chisquared test statistic is based on the difference between the frequencies that are actually observed and those that would be expected if there were no relationship between the two variables. The more computationally intensive Fisher exact test is typically used only when sample sizes are small. These tests do not evaluate the magnitude of the association but indicate whether the association is statistically significant. For example, in a study examining patient satisfaction after treatment for nonmelanoma skin cancer with either destruction, excision, or Mohs surgery, categorical patient characteristics were compared among treatment groups using chi-squared or Fisher exact tests. The training level of the treating clinician (attending, resident, or nurse practitioner) differed significantly by treatment group (P &lt; 0.001) (Asgari et al., 2009a).”1\n\n\n\n“The risk difference is the absolute difference in risk between exposed and unexposed groups, and it is useful for evaluating the excess risk of disease associated with an exposure. The relative risk reduction is the proportion of risk that is reduced in the exposed group relative to the unexposed group. The number needed to treat is the number of patients who must be treated for one patient to benefit. Calculations for risk difference, relative risk reduction, and number needed to treat are shown in Figure 2, and examples are provided in Table 2.”"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Trunk Tests/Lumbar Spine Tests/prone_instability_test_lumbar_spine.html",
+    "href": "The Archive/Examination/Tests and Measures/Trunk Tests/Lumbar Spine Tests/prone_instability_test_lumbar_spine.html",
+    "title": "Prone Instability Test",
+    "section": "",
+    "text": "“The patient is positioned prone so that the trunk rests on the bed, and the feet rest on the floor, with the hips flexed and the trunk muscles relaxed. The clinician applies a P-A pressure (approximately 4 kg or thumbnail blanching) over the most symptomatic spinous process, and any reproduction of symptoms is noted. The clinician then releases the P-A pressure, and the patient is asked to hold onto the sides of the table and to slightly lift his or her feet off the floor (Fig. 28-50). This maneuver produces a cocontraction of the global abdominal, gluteal, and erector spinae muscles. While the patient maintains their feet off the floor, the clinician reapplies the P-A pressure over the same spinous process level. If a dramatic reduction or the complete elimination of the symptoms compared to the first application of P-A pressure is noted (the muscle activity must be able to effectively stabilize the segment), it is considered a positive prone instability test. This test has been found to have good to excellent agreement reported (k = 0.87)92 for three pairs of physical therapy raters evaluating 63 consecutive subjects currently experiencing LBP and with a previous history of LBP. According to Hicks et al.,92 patients with LBP, who present with a negative prone instability test, are unlikely to respond to a stabilization exercise program. However, it must be remembered that as an independent test, the Prone Instability Test has limited diagnostic use (+LR = 1.7[95% CI; 1.1, 2.8]; -LR = 0.48 [95% CI: 0.22, 1.1])130; as it is most useful as a component of a cluster of tests to predict response to motor control exercises.”1\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. Fifth edition. McGraw Hill Education; 2020."
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Trunk Tests/Lumbar Spine Tests/anterior_stability_test_lumbar_spine.html",
+    "href": "The Archive/Examination/Tests and Measures/Trunk Tests/Lumbar Spine Tests/anterior_stability_test_lumbar_spine.html",
+    "title": "Anterior Stability Test of the Lumbar Spine",
+    "section": "",
+    "text": "“The patient is in the side-lying position. To test the lower three segments (L3–5), the patient’s hips are placed in approximately 70 degrees of flexion, and the knees are flexed (Fig. 28-48A). This position is to prevent tightening of the posterior lumbar ligaments, particularly the SSL, which could stabilize the lower three segments and produce a false-negative test result. The clinician stands to face the patient, resting his or her thighs against the patient’s knees. The upper segments are stabilized using the cranial hand and the other hand over it. The inferior interspinous space is palpated. The clinician pushes with the thighs, through the patient’s knees, along the line of the femur (Fig. 28-48B). This produces a posteriorly directed force to the pelvis, sacrum, and lumbar spine. Any posterior movement of the inferior segment, which is actually a relative anterior movement of the superior segment on the inferior segment, is noted and compared with the next segmental level. There should be little or no movement. To test the upper two segments (L2 and L1), the lumbar spine is flexed by flexing the hips to approximately 100 degrees, and the procedure is repeated. A positive test is one in which there is excessive movement or pain, or both.”1\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. Fifth edition. McGraw Hill Education; 2020."
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Lower extremity tests/Ankle and Foot Tests/ROM/ankle_DF_ROM.html",
+    "href": "The Archive/Examination/Tests and Measures/Lower extremity tests/Ankle and Foot Tests/ROM/ankle_DF_ROM.html",
+    "title": "Ankle Dorsiflexion ROM",
+    "section": "",
+    "text": "Feel for end range before measuring\nGoniometry\n\nMoving arm: 5th met\nStationary arm: head of fibula\n\nOKC\n\nconvex talus on concave mortise\nless ROM might indicate worse stabilization and arthrokinematics\n\nCKC\n\nMeasuring DF of rear leg while lunging knee forward\nConcave on convex"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Lower extremity tests/Ankle and Foot Tests/ROM/ankle_DF_ROM.html#provacative-tests",
+    "href": "The Archive/Examination/Tests and Measures/Lower extremity tests/Ankle and Foot Tests/ROM/ankle_DF_ROM.html#provacative-tests",
+    "title": "Ankle Dorsiflexion ROM",
+    "section": "Provacative tests",
+    "text": "Provacative tests\n\nWindlass Mechanism"
+  },
+  {
+    "objectID": "The Archive/MSK/Regions/Upper Extremity/shoulder.html#passive",
+    "href": "The Archive/MSK/Regions/Upper Extremity/shoulder.html#passive",
+    "title": "Musculoskeletal Approach to the shoulder",
+    "section": "Passive",
+    "text": "Passive\nThe shoulder maintains its passive stability by using multiple structures arranged reciprocally so when one structure is lax, the other is tightened1. This allows the shoulder to have large degrees of freedom and ROM while limiting translation and rotation of the GHJ surfaces1.\n\nGH ligaments\nCapsule\n\nPosterior capsule\n\nGlenoid labrum"
+  },
+  {
+    "objectID": "The Archive/MSK/Regions/Upper Extremity/shoulder.html#active",
+    "href": "The Archive/MSK/Regions/Upper Extremity/shoulder.html#active",
+    "title": "Musculoskeletal Approach to the shoulder",
+    "section": "Active",
+    "text": "Active\n\nGHJ\n\nRTC\n\nShoulder elevation\n\nRhomboids\nSA"
+  },
+  {
+    "objectID": "The Archive/MSK/Regions/Spine/neck.html#rom",
+    "href": "The Archive/MSK/Regions/Spine/neck.html#rom",
+    "title": "Musculoskeletal Mechanics of the head region",
+    "section": "ROM",
+    "text": "ROM"
+  },
+  {
+    "objectID": "The Archive/MSK/Regions/Spine/neck.html#provocative-tests",
+    "href": "The Archive/MSK/Regions/Spine/neck.html#provocative-tests",
+    "title": "Musculoskeletal Mechanics of the head region",
+    "section": "Provocative tests",
+    "text": "Provocative tests\n\nDisk herniation\nVertebral end plate fracture\nVertebral body fracture"
+  },
+  {
+    "objectID": "The Archive/Pathologies/Pathologies by Region/Trunk/Lumbar spine/multidirectional_lumbar_spine_instability.html",
+    "href": "The Archive/Pathologies/Pathologies by Region/Trunk/Lumbar spine/multidirectional_lumbar_spine_instability.html",
+    "title": "Multidirectional Instability of the Lumbar Spine",
+    "section": "",
+    "text": "“Patients describe their provocative movements as being multi-directional in nature (Fig. 11). All weight bearing postures are painful and diÅculty is reported in obtaining relieving positions during weight bearing”1\n“Locking of the spine is commonly reported following sustained flexion, rotation and extension postures”1\n\n\n\n\n\n“These patients may assume a Øexed, extended or laterally shifted spinal posture”1\n\n\n\n\n“Excessive segmental shifting and hinging patterns may be observed in all movement directions with `jabbing’ pain and associated back muscle spasm.”1\n\n\n\n\n“These patients have great diÅculty assuming neutral lordotic spinal positions, and attempts to facilitate lumbar multiÆdus and transversus abdominis co-contraction (especially during weight bearing positions) are usually associated with a tendency to Øex, extend or laterally shift the spine segmentally, with associated global muscle substitution, bracing of the abdominal wall and pain.”1\n\n\n\n\n\nHypomobility at the symptomatic level\n\n“Palpatory examination reveals multi-directional increased intersegmental motion at the symptomatic level.”1\n\n\n\n\n\n\nNormal PROM\nAbnormal AROM"
+  },
+  {
+    "objectID": "The Archive/Pathologies/Pathologies by Region/Trunk/Lumbar spine/multidirectional_lumbar_spine_instability.html#subjective",
+    "href": "The Archive/Pathologies/Pathologies by Region/Trunk/Lumbar spine/multidirectional_lumbar_spine_instability.html#subjective",
+    "title": "Multidirectional Instability of the Lumbar Spine",
+    "section": "",
+    "text": "“Patients describe their provocative movements as being multi-directional in nature (Fig. 11). All weight bearing postures are painful and diÅculty is reported in obtaining relieving positions during weight bearing”1\n“Locking of the spine is commonly reported following sustained flexion, rotation and extension postures”1"
+  },
+  {
+    "objectID": "The Archive/Pathologies/Pathologies by Region/Trunk/Lumbar spine/multidirectional_lumbar_spine_instability.html#posture",
+    "href": "The Archive/Pathologies/Pathologies by Region/Trunk/Lumbar spine/multidirectional_lumbar_spine_instability.html#posture",
+    "title": "Multidirectional Instability of the Lumbar Spine",
+    "section": "",
+    "text": "“These patients may assume a Øexed, extended or laterally shifted spinal posture”1"
+  },
+  {
+    "objectID": "The Archive/Pathologies/Pathologies by Region/Trunk/Lumbar spine/multidirectional_lumbar_spine_instability.html#pain",
+    "href": "The Archive/Pathologies/Pathologies by Region/Trunk/Lumbar spine/multidirectional_lumbar_spine_instability.html#pain",
+    "title": "Multidirectional Instability of the Lumbar Spine",
+    "section": "",
+    "text": "“Excessive segmental shifting and hinging patterns may be observed in all movement directions with `jabbing’ pain and associated back muscle spasm.”1"
+  },
+  {
+    "objectID": "The Archive/Pathologies/Pathologies by Region/Trunk/Lumbar spine/multidirectional_lumbar_spine_instability.html#overuse-of-global-spine-stabilizers",
+    "href": "The Archive/Pathologies/Pathologies by Region/Trunk/Lumbar spine/multidirectional_lumbar_spine_instability.html#overuse-of-global-spine-stabilizers",
+    "title": "Multidirectional Instability of the Lumbar Spine",
+    "section": "",
+    "text": "“These patients have great diÅculty assuming neutral lordotic spinal positions, and attempts to facilitate lumbar multiÆdus and transversus abdominis co-contraction (especially during weight bearing positions) are usually associated with a tendency to Øex, extend or laterally shift the spine segmentally, with associated global muscle substitution, bracing of the abdominal wall and pain.”1"
+  },
+  {
+    "objectID": "The Archive/Pathologies/Pathologies by Region/Trunk/Lumbar spine/multidirectional_lumbar_spine_instability.html#palpation",
+    "href": "The Archive/Pathologies/Pathologies by Region/Trunk/Lumbar spine/multidirectional_lumbar_spine_instability.html#palpation",
+    "title": "Multidirectional Instability of the Lumbar Spine",
+    "section": "",
+    "text": "Hypomobility at the symptomatic level\n\n“Palpatory examination reveals multi-directional increased intersegmental motion at the symptomatic level.”1"
+  },
+  {
+    "objectID": "The Archive/Pathologies/Pathologies by Region/Trunk/Lumbar spine/multidirectional_lumbar_spine_instability.html#rom",
+    "href": "The Archive/Pathologies/Pathologies by Region/Trunk/Lumbar spine/multidirectional_lumbar_spine_instability.html#rom",
+    "title": "Multidirectional Instability of the Lumbar Spine",
+    "section": "",
+    "text": "Normal PROM\nAbnormal AROM"
+  },
+  {
+    "objectID": "The Archive/Pathologies/Pathologies by Region/Trunk/Lumbar spine/multidirectional_lumbar_spine_instability.html#joint-mobility",
+    "href": "The Archive/Pathologies/Pathologies by Region/Trunk/Lumbar spine/multidirectional_lumbar_spine_instability.html#joint-mobility",
+    "title": "Multidirectional Instability of the Lumbar Spine",
+    "section": "Joint Mobility",
+    "text": "Joint Mobility\n\nManually assess joint mobility"
+  },
+  {
+    "objectID": "The Archive/Pathologies/Pathologies by Region/Trunk/Lumbar spine/multidirectional_lumbar_spine_instability.html#special-tests",
+    "href": "The Archive/Pathologies/Pathologies by Region/Trunk/Lumbar spine/multidirectional_lumbar_spine_instability.html#special-tests",
+    "title": "Multidirectional Instability of the Lumbar Spine",
+    "section": "Special Tests",
+    "text": "Special Tests\n\n(+) Prone Instability2\nAnterior STability Test2\nLAteral STability Test2\nPassive Lumbar Extension Test2"
+  },
+  {
+    "objectID": "The Archive/Anatomy/OIANs/Shoulder and Arm Muscles/rhomboid_minor_muscle.html",
+    "href": "The Archive/Anatomy/OIANs/Shoulder and Arm Muscles/rhomboid_minor_muscle.html",
+    "title": "Rhomboid Minor",
+    "section": "",
+    "text": "Function\nThe Serratus Anterior (along with the rhomboids) serves to aid in scapular stability during arm elevation1\n\n\n\nSuperior View of the shoulder: You can see how the rhomboids and SA both actively stabilize the scapulothoracic joint by pulling the scapula towards the thoracic wall1\n\n\n\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. Fifth edition. McGraw Hill Education; 2020."
+  },
+  {
+    "objectID": "The Archive/Anatomy/Bones/Upper Extremity Bones/humerus_bone.html#humeral-head",
+    "href": "The Archive/Anatomy/Bones/Upper Extremity Bones/humerus_bone.html#humeral-head",
+    "title": "Humerus (bone)",
+    "section": "",
+    "text": "LAteral attachment of GH capsule1\nThe humeral head landmark is divided by an imaginary line that separates the humeral head from the rest of the humerus1"
+  },
+  {
+    "objectID": "The Archive/Anatomy/Bones/Upper Extremity Bones/humerus_bone.html#intertubercular-groove",
+    "href": "The Archive/Anatomy/Bones/Upper Extremity Bones/humerus_bone.html#intertubercular-groove",
+    "title": "Humerus (bone)",
+    "section": "",
+    "text": "Provides a passage for the Biceps Brachii Long Head tendon to attach to the superior rim of the glenoid fossa1\n\n\n\n\n\n\nThe angle of the walls of the intertubercular groove can vary widely1\nSeparates the Greater Tubercle from the Lesser Tubercle1\nThe roof is formed by the transverse ligament1\n\n\n\n\n\nAllows the proximal tendon of the biceps Brachii Long Head to travel from its origin on the labrum and supraglenoid notch on the scapula, down the neck of the humerus and to the muscle belly1\n\n\n\n\n\nAnatomic anomalies are associated with:\n\nRTC tendinopathy1\nBicipital Tendinopathy1"
+  },
+  {
+    "objectID": "The Archive/Anatomy/Bones/Upper Extremity Bones/humerus_bone.html#surgical-neck",
+    "href": "The Archive/Anatomy/Bones/Upper Extremity Bones/humerus_bone.html#surgical-neck",
+    "title": "Humerus (bone)",
+    "section": "",
+    "text": "The Surgical Neck of the humerus refers to the region inferior to the greater and lesser tuberosities, where the shaft of the humerus joins the upper margins1.\nThe Axillary Nerve and Posterior Humeral Circumflex Artery run in close proximity to the medial aspect of the surgical neck1.\n\nFractures at the Surgical Neck most commonly cause Axillary Nerve damage1.\n\nThe Surgical Neck of the humerus fractures more commonly than the Anatomical Neck1."
+  },
+  {
+    "objectID": "The Archive/Anatomy/Ligaments/Shoulder ligaments/transverse_ligament_of_humerus.html",
+    "href": "The Archive/Anatomy/Ligaments/Shoulder ligaments/transverse_ligament_of_humerus.html",
+    "title": "Transverse Ligament of the Humerus",
+    "section": "",
+    "text": "Forms the roof of the intertubercular groove1\n\nFunction\nTraditionally, the transverse ligament was believed to play a role in LH biceps tendon stability, but recent literature contradicts this1. The Transverse Ligament is now believed to be continuous with RTC tendons and the Coracohumeral Ligament1. In addition, the presence of free nerve endings in the Transverse Ligament indicate that it could be a source of pain in the shoulder1.\n\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. Fifth edition. McGraw Hill Education; 2020."
+  },
+  {
+    "objectID": "The Archive/Anatomy/Joints/UE Joints/scapulothoracic_joint.html",
+    "href": "The Archive/Anatomy/Joints/UE Joints/scapulothoracic_joint.html",
+    "title": "Scapulothoracic Joint",
+    "section": "",
+    "text": "Stabilization\nThe Serratus Anterior (along with the rhomboids) serves to aid in scapular stability during arm elevation1\n\n\n\nSuperior View of the shoulder: You can see how the rhomboids and SA both actively stabilize the scapulothoracic joint by pulling the scapula towards the thoracic wall1\n\n\n\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. Fifth edition. McGraw Hill Education; 2020."
+  },
+  {
+    "objectID": "The Archive/Anatomy/Joints/LE Joints/calcaneocuboid_joint.html",
+    "href": "The Archive/Anatomy/Joints/LE Joints/calcaneocuboid_joint.html",
+    "title": "Calcaneocuboid Joint",
+    "section": "",
+    "text": "The calcaneocuboid joint is a plane synovial joint1\n“The anterior surface of the calcaneus, which articulates with the reciprocally shaped posterior surface of the cuboid, is relatively convex in an oblique horizontal direction and relatively concave in an oblique vertical direction.8 The cuboid, most lateral in the distal tarsal row, is located between the calcaneus proximally and the fourth and fifth metatarsals distally. To the posterior (dorsal) surface are attached posterior (dorsal) calcaneocuboid, cubonavicular, cuneocuboid, and cubometatarsal ligaments, and to the proximal edge of the plantar ridge, deep fibers of the long plantar ligament. To the projecting proximal–medial part of the plantar surface are attached a slip of the tendon of tibialis posterior and flexor hallucis brevis (FHB). To the rough part of the medial cuboidal surface are attached the interosseous, cuneocuboid, and cubonavicular ligaments, and proximally the medial calcaneocuboid ligament, which is the lateral limb of the bifurcated ligament.8 The capsule is thickened posteriorly (dorsally) to form the posterior (dorsal) calcaneocuboid ligament. The joint has a large plantar phalanx to provide additional support during weight-bearing. A number of ligaments help provide support to this region. The spring ligament (plantar calcaneonavicular Fig. 21-3) connects the navicular bone to the sustentaculum tali on the calcaneus. The ligaments of the calcaneocuboid joint include the long plantar ligament and a portion of the bifurcate ligament posterior (dorsally).”1\n“The long and strong plantar ligament attaches to the plantar surface of the calcaneus, the tuberosity on the plantar surface of the cuboid bone, and to the bases of the second, third, and fourth (and possibly fifth) metatarsals.8 The plantar ligament functions to provide indirect plantar support to the joint, by limiting the amount of flattening of the lateral longitudinal arch of the foot. Together with the groove in the cuboid bone, it forms a tunnel for the passage of the fibularis (peroneus) longus tendon across the plantar surface of the foot.8 The perpendicular arrangement of the long and short plantar ligaments may compress the calcaneocuboid joint increasing its stability.11 During inversion, the cuboid inverts approximately twice as much as the calcaneus.19”1\n“The bifurcate ligament functions to support the medial and lateral aspects of the foot when weight-bearing in a plantar flexed position (twisted).”1\n“The plantar calcaneocuboid ligament, sometimes referred to as the short plantar ligament, is a relatively broad and strong strap-like structure that extends from the area of the anterior tubercle of the calcaneus to the adjacent plantar surface of the cuboid bone. It provides plantar support to the joint and possibly helps to limit flattening of the lateral longitudinal arch.”1\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. Fifth edition. McGraw Hill Education; 2020."
+  },
+  {
+    "objectID": "The Archive/Anatomy/Joints/UE Joints/glenohumeral_joint.html#anatomy",
+    "href": "The Archive/Anatomy/Joints/UE Joints/glenohumeral_joint.html#anatomy",
+    "title": "Glenohumeral Joint",
+    "section": "Anatomy",
+    "text": "Anatomy\n\n\n\nAttachments\n\nLateral attachment: Anatomical neck of the humerus1\nMedial attachment: Periphery of the glenoid and its labrum1\n\n\n\nHistology\n\nFibrous1\n\n\n\nSynovial Membrane\n\nThe GH capsule is lined with a synovial membrane (synovium) that extends from the Glenoid Labrum down to the humeral neck1\nThis membrane secretes synovial joint fluid into the joint cavity1\nThis “synovium” extends from the"
+  },
+  {
+    "objectID": "The Archive/Anatomy/Joints/UE Joints/glenohumeral_joint.html#reinforcements",
+    "href": "The Archive/Anatomy/Joints/UE Joints/glenohumeral_joint.html#reinforcements",
+    "title": "Glenohumeral Joint",
+    "section": "Reinforcements",
+    "text": "Reinforcements\n\nThe anterior capsule is reinforced by the the superior, middle, and inferior G-H ligaments1"
+  },
+  {
+    "objectID": "The Archive/Anatomy/Joints/UE Joints/glenohumeral_joint.html#function",
+    "href": "The Archive/Anatomy/Joints/UE Joints/glenohumeral_joint.html#function",
+    "title": "Glenohumeral Joint",
+    "section": "Function",
+    "text": "Function\n\nThe posterior capsule tenses and provides passive stability during GHJ flexion, GHJ abduction, and GHJ Internal Rotation1.\n\nThis is especially true for the Superior segment and Middle segment1"
+  },
+  {
+    "objectID": "The Archive/Anatomy/Joints/UE Joints/glenohumeral_joint.html#flexion",
+    "href": "The Archive/Anatomy/Joints/UE Joints/glenohumeral_joint.html#flexion",
+    "title": "Glenohumeral Joint",
+    "section": "Flexion",
+    "text": "Flexion\n\nPassive Stabilizers\n\nPosterior capsule (especially Middle and Superior Segments)1"
+  },
+  {
+    "objectID": "The Archive/Anatomy/Joints/UE Joints/glenohumeral_joint.html#extension",
+    "href": "The Archive/Anatomy/Joints/UE Joints/glenohumeral_joint.html#extension",
+    "title": "Glenohumeral Joint",
+    "section": "Extension",
+    "text": "Extension"
+  },
+  {
+    "objectID": "The Archive/Anatomy/Joints/UE Joints/glenohumeral_joint.html#adduction",
+    "href": "The Archive/Anatomy/Joints/UE Joints/glenohumeral_joint.html#adduction",
+    "title": "Glenohumeral Joint",
+    "section": "Adduction",
+    "text": "Adduction"
+  },
+  {
+    "objectID": "The Archive/Anatomy/Joints/UE Joints/glenohumeral_joint.html#abduction",
+    "href": "The Archive/Anatomy/Joints/UE Joints/glenohumeral_joint.html#abduction",
+    "title": "Glenohumeral Joint",
+    "section": "Abduction",
+    "text": "Abduction\n\nPassive Stabilizers\n\nPosterior capsule (especially Middle and Superior Segments)1"
+  },
+  {
+    "objectID": "The Archive/Anatomy/Joints/UE Joints/glenohumeral_joint.html#internal-rotation",
+    "href": "The Archive/Anatomy/Joints/UE Joints/glenohumeral_joint.html#internal-rotation",
+    "title": "Glenohumeral Joint",
+    "section": "Internal Rotation",
+    "text": "Internal Rotation\n\nPassive Stabilizers\n\nPosterior capsule (especially Middle and Superior Segments)1"
+  },
+  {
+    "objectID": "The Archive/Anatomy/Joints/UE Joints/glenohumeral_joint.html#external-rotation",
+    "href": "The Archive/Anatomy/Joints/UE Joints/glenohumeral_joint.html#external-rotation",
+    "title": "Glenohumeral Joint",
+    "section": "External Rotation",
+    "text": "External Rotation"
+  },
+  {
+    "objectID": "The Archive/Anatomy/Ligaments/Shoulder ligaments/glenohumeral_ligaments.html",
+    "href": "The Archive/Anatomy/Ligaments/Shoulder ligaments/glenohumeral_ligaments.html",
+    "title": "Glenohumeral Ligaments",
+    "section": "",
+    "text": "Function\nThe the superior, middle, and inferior G-H ligaments reinforce the anterior portion of the outer fibers of the Glenohumeral Joint Capsule1\n\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. Fifth edition. McGraw Hill Education; 2020."
+  },
+  {
+    "objectID": "The Archive/Anatomy/OIANs/Shoulder and Arm Muscles/rhomboid_major.html",
+    "href": "The Archive/Anatomy/OIANs/Shoulder and Arm Muscles/rhomboid_major.html",
+    "title": "Rhomboid Major",
+    "section": "",
+    "text": "Function\nThe Serratus Anterior (along with the rhomboids) serves to aid in scapular stability during arm elevation1\n\n\n\nSuperior View of the shoulder: You can see how the rhomboids and SA both actively stabilize the scapulothoracic joint by pulling the scapula towards the thoracic wall1\n\n\n\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. Fifth edition. McGraw Hill Education; 2020."
+  },
+  {
+    "objectID": "The Archive/Surgery/Knee Surgery/ACL/ACL_reconstruction.html",
+    "href": "The Archive/Surgery/Knee Surgery/ACL/ACL_reconstruction.html",
+    "title": "ACL Reconstruction Surgery (ACLR)",
+    "section": "",
+    "text": "Graft Type\n\n\n\n\n\n\nNotes from class\n\n\n\nBone-to-bone patellar ligament graft results in the best function, but its main potential adverse effect is anterior knee pain\n\n\n\n\nReturn to sport\n\n\nReinjury\n\nFactors that increased the probability of reinjury\n\nIncreased knee extension strength symmetry (%) was associated with increased risk of reinjury1\nHigher values for the KOOS Sport\nIncreased Triple-hop symmetry (%)1\n\nFactors that Decreased probability of reinjury\n\nIncreased “Time to return to activity” decreased probability of ACL reinjury1\n\nAfter 8 months, for every 1 mo increase in time to RTA reduced risk of reinjury by 28.4%1\n\n\n\nWhy does better plyometric symmetry and knee extension strength symmetry place the patient at increased risk of reinjury?\n\n\n\n\n\nReferences\n\n1. Bodkin SG, Hertel J, Diduch DR, et al. Predicting Anterior Cruciate Ligament Reinjury From Return-to-Activity Assessments at 6 Months Postsurgery: A Prospective Cohort Study. Journal of Athletic Training. 2022;57(4):325-333. doi:10.4085/1062-6050-0407.20"
+  },
+  {
+    "objectID": "The Archive/Pathologies/Pathologies by Region/Upper extremity/Shoulder/Rotator Cuff/RTC_tendinopathy.html",
+    "href": "The Archive/Pathologies/Pathologies by Region/Upper extremity/Shoulder/Rotator Cuff/RTC_tendinopathy.html",
+    "title": "Rotator Cuff Tendinopathy",
+    "section": "",
+    "text": "Risk Factors\n\nAnatomic abnormalities in the Intertubercular Groove are associated with RTC tendinopathy1\n\n\n\nConsiderations\nThe Transverse Ligament is now believed to be continuous with RTC tendons and the Coracohumeral Ligament1. In addition, the presence of free nerve endings in the Transverse Ligament indicate that it could be a source of pain in the shoulder1.\n\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. Fifth edition. McGraw Hill Education; 2020."
+  },
+  {
+    "objectID": "The Archive/MSK/Regions/Spine/lumbar_spine.html",
+    "href": "The Archive/MSK/Regions/Spine/lumbar_spine.html",
+    "title": "Musculoskeletal Approach to the Lumbar Spine",
+    "section": "",
+    "text": "“Muscle activity is available and required in the lumbar spine throughout the ROM, except in specific situations, such as at the end of lumbar flexion ROM when a reflex reduction in paraspinal muscle activity occurs, the so-called “flexion relaxation phenomenon.”32,41,42 At the end of spinal ROM, the restraints to bending, rotation, and shear forces are provided largely by tension and compression on the spine’s passive structures. Mobilizer muscles, which tend to work over two joints or several segments, are superficial, and have narrow insertions with long tendons.43 The mobilizer muscles function to produce movement in the sagittal plane using concentric acceleration and are capable of generating a tremendous amount of force (see Chapter 22). The stabilizer muscles, as their name suggests, provide stabilization, and can be either local or global (see Chapter 22). The local muscle system is important for the provision of segmental control to the spine and provides an important stiffening effect on the lumbar spine, thereby enhancing its dynamic stability. The local stabilizers also function to maintain a continuous low-force activity at joints in all positions and directions and thus provide segmental joint support.”1\n\n\n\n\n\n\nMcGill proposed the “Bracing mechanism” (of spinal stabilization), which hypothesizes that\n\n\n“muscles act similar to guy wires when stabilizing the spine and that a loss of tension can result in unstable buckling of the spinal structures. The muscles of the trunk function via a complex interaction of agonist/antagonist spinal muscles, both segmentally and regionally to provide tension (active stiffness). According to this theory lightly pretensioning, or bracing, the abdominal muscles using an isometric contraction is a way to enhance the guy wire affect by taking up the slack prior to activities that may destabilize the spine.46 The external oblique, IO, and TrA overlay each other to create the abdominal wall and act through attachments to the abdominal and TLF to create a cylinder. As the intra-abdominal pressure increases, the three-dimensional force per unit area exerted on the spine also increases, potentially constraining spinal movement in all directions.”1\n\n\n\n\n\nProposed by Richardson\n\n\n“Richardson et al.45 have proposed that a pressure corset is formed by the muscles of the lumbar spine. Under this proposal, the TrA forms the wall of the cylinder, and the muscles of the pelvic floor and diaphragm form the base and lid, respectively. Within this system, the intra-abdominal pressure group is maintained at a level that provides spinal support. Since the abdominal cavity has a finite volume, the intra-abdominal pressure (force/area) will increase if the abdominal cavity volume is reduced (contraction of the muscles in the pelvic floor, abdominal muscles and diaphragm, and the wearing of a lumbar corset) In addition, the increase in intra-abdominal pressure is thought to provide a mild distractive force to the spinal segments, due to separation of the pelvic floor and diaphragm. Because intra-abdominal pressure and fascial tension are important for the control of intervertebral motion, the muscles that surround the abdominal cavity, such as the diaphragm and the pelvic floor muscles (see Chapter 29), provide an additional contribution. These two muscle groups also have important respiratory and continence functions. Theoretically, reduced contribution of the diaphragm to spinal stability may occur during periods of increased respiratory demand. As the diaphragm descends during inspiration, intra-abdominal pressure increases provided that the musculature of the abdominal and pelvic floor maintains its respective tension.”1"
+  },
+  {
+    "objectID": "The Archive/MSK/Regions/Spine/lumbar_spine.html#theories-of-spine-stabilization",
+    "href": "The Archive/MSK/Regions/Spine/lumbar_spine.html#theories-of-spine-stabilization",
+    "title": "Musculoskeletal Approach to the Lumbar Spine",
+    "section": "",
+    "text": "McGill proposed the “Bracing mechanism” (of spinal stabilization), which hypothesizes that\n\n\n“muscles act similar to guy wires when stabilizing the spine and that a loss of tension can result in unstable buckling of the spinal structures. The muscles of the trunk function via a complex interaction of agonist/antagonist spinal muscles, both segmentally and regionally to provide tension (active stiffness). According to this theory lightly pretensioning, or bracing, the abdominal muscles using an isometric contraction is a way to enhance the guy wire affect by taking up the slack prior to activities that may destabilize the spine.46 The external oblique, IO, and TrA overlay each other to create the abdominal wall and act through attachments to the abdominal and TLF to create a cylinder. As the intra-abdominal pressure increases, the three-dimensional force per unit area exerted on the spine also increases, potentially constraining spinal movement in all directions.”1\n\n\n\n\n\nProposed by Richardson\n\n\n“Richardson et al.45 have proposed that a pressure corset is formed by the muscles of the lumbar spine. Under this proposal, the TrA forms the wall of the cylinder, and the muscles of the pelvic floor and diaphragm form the base and lid, respectively. Within this system, the intra-abdominal pressure group is maintained at a level that provides spinal support. Since the abdominal cavity has a finite volume, the intra-abdominal pressure (force/area) will increase if the abdominal cavity volume is reduced (contraction of the muscles in the pelvic floor, abdominal muscles and diaphragm, and the wearing of a lumbar corset) In addition, the increase in intra-abdominal pressure is thought to provide a mild distractive force to the spinal segments, due to separation of the pelvic floor and diaphragm. Because intra-abdominal pressure and fascial tension are important for the control of intervertebral motion, the muscles that surround the abdominal cavity, such as the diaphragm and the pelvic floor muscles (see Chapter 29), provide an additional contribution. These two muscle groups also have important respiratory and continence functions. Theoretically, reduced contribution of the diaphragm to spinal stability may occur during periods of increased respiratory demand. As the diaphragm descends during inspiration, intra-abdominal pressure increases provided that the musculature of the abdominal and pelvic floor maintains its respective tension.”1"
+  },
+  {
+    "objectID": "The Archive/MSK/Regions/Lower extremity/ankle.html#rom",
+    "href": "The Archive/MSK/Regions/Lower extremity/ankle.html#rom",
+    "title": "MSK approach to the Ankle",
+    "section": "ROM",
+    "text": "ROM\n\nAnkle DF ROM"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Head and Neck Tests/ROM tests/ROM_cervical_spine.html",
+    "href": "The Archive/Examination/Tests and Measures/Head and Neck Tests/ROM tests/ROM_cervical_spine.html",
+    "title": "Cervical Spine ROM Testing",
+    "section": "",
+    "text": "Limited rotation in seated\n\nTest with shrugged shoulders to reduce impact of trap/lev scap\nTest in supine\nAssess A-A Joint\n\n\n\n\n\n\nAssess OA specifically"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Head and Neck Tests/ROM tests/ROM_cervical_spine.html#limited-rotation",
+    "href": "The Archive/Examination/Tests and Measures/Head and Neck Tests/ROM tests/ROM_cervical_spine.html#limited-rotation",
+    "title": "Cervical Spine ROM Testing",
+    "section": "",
+    "text": "Limited rotation in seated\n\nTest with shrugged shoulders to reduce impact of trap/lev scap\nTest in supine\nAssess A-A Joint"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Head and Neck Tests/ROM tests/ROM_cervical_spine.html#limited-flexion",
+    "href": "The Archive/Examination/Tests and Measures/Head and Neck Tests/ROM tests/ROM_cervical_spine.html#limited-flexion",
+    "title": "Cervical Spine ROM Testing",
+    "section": "",
+    "text": "Assess OA specifically"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Trunk Tests/Lumbar Spine Tests/lateral_stability_test_lumbar_spine.html",
+    "href": "The Archive/Examination/Tests and Measures/Trunk Tests/Lumbar Spine Tests/lateral_stability_test_lumbar_spine.html",
+    "title": "Lateral Stability Test for the Lumbar Spine",
+    "section": "",
+    "text": "“This test does not rely on the objectivity of the end-feel. Instead, an indirect shearing maneuver is used, and the reproduction of pain is considered a positive test. The patient lies in the side-lying position facing the clinician, with the lumbar spine positioned in neutral and the hips and knees flexed to approximately 45 degrees. The clinician, using the fleshy part of one forearm, applies a downward pressure on the lateral aspect of the patient’s trunk at the level of the L3 transverse process (Fig. 28-49). This produces a lateral translation of the entire lumbar spine in the direction of the bed. The pressure is applied and monitored for pain. The test is repeated with the patient side lying on the opposite side.”1\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. Fifth edition. McGraw Hill Education; 2020."
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Association/Probability and Risk/relative_risk.html",
+    "href": "The Archive/Evidene Based Practice/Association/Probability and Risk/relative_risk.html",
+    "title": "Relative Risk (RR)",
+    "section": "",
+    "text": "AKA\n\n\n\n\nRelative risk1\nRisk Ratio1\n“Relative risk (RR) is often calculated in cohort studies, where participants with and without exposure(s) are followed for particular outcome(s). This design allows for the calculation of incidence (I), found by dividing the number of new cases of an outcome by the number of people at risk for the outcome during a specified period (Figure 2):\nIexposed ¼ A/(A þ B) and Iunexposed ¼ C/(C þ D) \\[\nI_\\textrm{exposed} = \\frac{A}{A + B}\n\\]\nThe RR is the ratio of the incidence among exposed participants to the incidence among unexposed participants: RR ¼ Iexposed/Iunexposed.By comparing incidence rates between the exposed and unexposed groups, it is possible to determine if an exposure increases or decreases risk of an outcome.”2\n“When RR is equal to 1, the incidence is the same among those exposed and unexposed. An RR less than 1 suggests that the exposure is protective (Iexposed &lt; Iunexposed), and an RR greater than 1 suggests that the exposure is a risk factor for the outcome (Iexposed &gt; Iunexposed). For example, the relationship between dietary vitamin D intake and risk of melanoma was investigated in a cohort study, and a RR of 1.31 (95% confidence interval [CI] ¼ 0.94e1.82) was observed for the highest quartile of vitamin D compared with the lowest quartile (Asgari et al., 2009b). The point estimate indicates a 31% increased risk of melanoma (or 1.31 times the risk) among participants with the highest level of vitamin D intake, but because the CI includes the null value of 1, we would not consider the finding statistically significant.”2"
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Association/association_statistics.html#odds-ratio",
+    "href": "The Archive/Evidene Based Practice/Association/association_statistics.html#odds-ratio",
+    "title": "Statistical Association",
+    "section": "",
+    "text": "“In case-control or cross-sectional studies, where we cannot calculate incidence rates, the odds ratio (OR) is typically calculated. The OR is the ratio of the exposure odds (O) among the case group to the exposure odds among the control group (Figure 2): Ocase ¼ A/C, Ocontrol ¼ B/D,OR¼ Ocase/Ocontrol), and it is interpreted similarly to the RR. An OR equal to 1 indicates no association, an OR less than 1 suggests that the exposure is protective (exposure is less likely among the case group), and OR greater than1 suggests that the exposure is a risk factor (exposure is less likely among the control group). For example, in a case-control study examining the association between infection with human papillomavirus b and risk of squamous cell carcinoma, an OR of 4.0 (95% CI ¼ 1.3e12.0) was observed (Asgari et al., 2008). This OR indicates that the odds of being exposed (i.e., having this human papillomavirus subtype) were 4 times greater among the case group than the control group or, put another way, that cases were 4 times more likely to have this human papillomavirus subtype than controls.”1 “When the outcome is rare, the OR approximates the RR. This assumption, known as the rare disease assumption, can be visualized in Figure 2. When the proportions in cells A and C are small, A þ B z B and C þ D z D. Therefore, RR ¼ [A/ (A þ B)]/[C/(C þ D)] z (A/B)/(C/D) ¼ (A/C)/(B/D) ¼ OR. When the outcome is more common (&gt;10%), however, the OR provides more extreme estimates than the RR. In Figure 2, where 44% of the study population has the outcome, the OR is much smaller than the RR.”1"
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Association/association_statistics.html#hazard-ratio",
+    "href": "The Archive/Evidene Based Practice/Association/association_statistics.html#hazard-ratio",
+    "title": "Statistical Association",
+    "section": "",
+    "text": "“The hazard ratio (HR) is the ratio of the rate at which the exposed group experiences an outcome to the rate at which the unexposed group experiences an outcome, and it provides the instantaneous risk at a given time rather than the cumulative risk over the length of a study. It is calculated in survival or time-to-event analyses, in which the outcome variable is the time (days, months, years, etc.) until the occurrence of the event of interest, such as development of a disease, disease complication (e.g., cancer recurrence), death, or other outcome. Participants who do not experience an event during the follow-up period are censored. This occurs if the participant is lost to follow-up, the follow-up period ends and the participant is event-free, or the participant experiences another outcome. At the time of censoring, the participant stops contributing follow-up time to the analysis. This type of censoring is known as right-censoring, because the true unobserved event lies to the right of the censoring time. For example, in a survival analysis of acral lentiginous melanoma, both melanoma-specific survival and overall survival, or all-cause mortality, were examined. In the melanoma-specific survival analysis, only melanoma-related deaths were considered events, and participants who died of causes not related to melanoma were right-censored at the time of death. In the overall survival analysis, however, deaths from any cause were considered events (Asgari et al., 2017). In contrast to right-censoring, left-censoring occurs when the event has already taken place before the observation period begins, and the true unobserved event lies to the left of the censoring time. Estimation of the HR, as with Cox proportional hazards regression, accounts for only rightcensored data (Clark et al., 2003).”1\n“When the HR is equal to 1, instantaneous event rates at a particular time are the same in the exposed and unexposed groups. When the HR is equal to 0.5, half as many people in the exposed group have experienced an event compared with the unexposed group, and when HR is equal to 2, twice as many people have experienced an event. For example, in a study examining the association between systemic immune suppression and Merkel cell carcinoma-specific survival, an HR of 3.8 was observed (95% CI ¼ 2.2e6.4) (Paulson et al., 2013). This estimate indicates that the rate of death from Merkel cell carcinoma was 3.8 times higher in people with systemic immune suppression. Because the 95% CI excludes the null value of 1, we can conclude that this HR is statistically significant.”2"
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Association/association_statistics.html#correlation-coefficients",
+    "href": "The Archive/Evidene Based Practice/Association/association_statistics.html#correlation-coefficients",
+    "title": "Statistical Association",
+    "section": "",
+    "text": "“Correlation coefficients, including the Pearson r and Spearman rho statistics, measure the strength and direction between two variables and range from e1(perfectnegative correlation) to þ1 (perfect positive correlation). A positive correlation coefficient indicates that both variables increase or decrease together, whereas a negative coefficient implies that as one variable increases, the other decreases (see examples in Table 2). The Pearson r statistic is generally used when data are continuous rather than categorical, and it assumes that the data are normally distributed and that the variables are linearly related. When these assumptions are not met, or when categorical data are involved, Spearman rho may be more appropriate. Spearman rho assumes a monotonic relationship between ranked variables and can be used for ordinal-level data. It is essentially a Pearson correlation using variable ranks rather than variable values. Spearman rho is the nonparametric version of Pearson r,and therefore it may be appropriate for nonnormally distributed data or when variables are not linearly related (McDonald, 2014a). For example, in a study examining cutaneous sarcoidosis, Rosenbach et al. (2013) calculated the correlations between disease severity and quality of life using several different instruments. The Physician’s Global Assessment of disease severity was found to be moderately positively correlated with Skindex-29 assessments of symptoms (Pearson r ¼ 0.41) but weakly negatively correlated with the Sarcoidosis Health Questionnaire assessment of quality of life (Pearson r ¼ e0.18). The Physician’s Global Assessment, Skindex-29, and Sarcoidosis Health Questionnaire data were normally distributed. Because the data from another assessment, the Dermatology Life Quality Index, were not normally distributed and the sample size was small, the authors used the Spearman rho correlation coefficient to identify a weak positive correlation with the Physician’s Global Assessment (r ¼ 0.24).”1"
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Association/association_statistics.html#beta-coefficients-linear-regression",
+    "href": "The Archive/Evidene Based Practice/Association/association_statistics.html#beta-coefficients-linear-regression",
+    "title": "Statistical Association",
+    "section": "",
+    "text": "“Linear regression is used to assess the relationship between a continuous outcome variable and one or more categorical or continuous predictor variables. For continuous predictors, a positive b coefficient represents the increase in the outcome variable for every 1-unit increase in the predictor variable. Conversely, a negative b coefficient represents the decrease in the outcome variable for every 1-unit increase in the predictor variable. Beta coefficients for categorical predictors have a similar interpretation, except that the coefficient represents the change in the outcome variable when switching from one category of the predictor variable to another. For instance, a study of patients with systemic sclerosis sought to investigate associations between demographic and medical variables and sleep disturbance, measured using a sleep quality scale. The number of gastrointestinal symptoms (continuous predictor) and sleep disturbance (continuous outcome) were positively associated (b ¼ 0.19, P ¼ 0.001). The beta coefficient indicates that for each 1-unit increase in the number of gastrointestinal symptoms, sleep quality score increases by 0.19 units. Female sex was also positively associated with sleep disturbance, although the association was not statistically significant (b ¼ 0.07, P ¼ 0.164). Because sex is a categorical variable, this beta coefficient indicates that being female, as opposed to being male, is associated with a 0.07-unit increase in sleep quality score (Milette et al., 2013).”1"
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Association/association_statistics.html#chi-squared-χ2-fisher-exact-test",
+    "href": "The Archive/Evidene Based Practice/Association/association_statistics.html#chi-squared-χ2-fisher-exact-test",
+    "title": "Statistical Association",
+    "section": "",
+    "text": "“The chi-squared and Fisher exact statistics are often used for testing relationships between categorical variables. These tests evaluate whether the proportions of one categorical variable differ by levels of another categorical variable (see example in Table 2). The null hypothesis for the chi-squared/ Fisher exact test is that the variables are independent; that is, the level of variable A does not predict the level of variable B. For each level of one variable, the expected frequencies at each level of the second variable are calculated. The chisquared test statistic is based on the difference between the frequencies that are actually observed and those that would be expected if there were no relationship between the two variables. The more computationally intensive Fisher exact test is typically used only when sample sizes are small. These tests do not evaluate the magnitude of the association but indicate whether the association is statistically significant. For example, in a study examining patient satisfaction after treatment for nonmelanoma skin cancer with either destruction, excision, or Mohs surgery, categorical patient characteristics were compared among treatment groups using chi-squared or Fisher exact tests. The training level of the treating clinician (attending, resident, or nurse practitioner) differed significantly by treatment group (P &lt; 0.001) (Asgari et al., 2009a).”1"
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Association/association_statistics.html#relative-risk-reduction",
+    "href": "The Archive/Evidene Based Practice/Association/association_statistics.html#relative-risk-reduction",
+    "title": "Statistical Association",
+    "section": "",
+    "text": "“The risk difference is the absolute difference in risk between exposed and unexposed groups, and it is useful for evaluating the excess risk of disease associated with an exposure. The relative risk reduction is the proportion of risk that is reduced in the exposed group relative to the unexposed group. The number needed to treat is the number of patients who must be treated for one patient to benefit. Calculations for risk difference, relative risk reduction, and number needed to treat are shown in Figure 2, and examples are provided in Table 2.”"
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Association/Probability and Risk/odds.html",
+    "href": "The Archive/Evidene Based Practice/Association/Probability and Risk/odds.html",
+    "title": "Odds",
+    "section": "",
+    "text": "\\[\n\\textrm{Odds} = \\frac{\\textrm{Probability}}{(1-\\textrm{Probability})}\n\\]\n\nOdds vs Probability\n\n\n\nProbability\nA probability is a fraction and always ranges from zero to one\n\n\nOdds\nOdds range from zero to infinity."
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Association/Probability and Risk/probability.html",
+    "href": "The Archive/Evidene Based Practice/Association/Probability and Risk/probability.html",
+    "title": "Probability",
+    "section": "",
+    "text": "Resources\n\n\n\n\nCh421\n\n\n\nThe probability that an event will occur is the fraction of times you expect to see that event over the course of many trials1.\nA probability is a fraction and always ranges from zero to one. \\[\n\\textrm{Probability} = \\frac{\\textrm{Odds}}{(1+\\textrm{Odds})}\n\\]\n\n\n\n\nReferences\n\n1. Motulsky H. Intuitive Biostatistics: A Nonmathematical Guide to Statistical Thinking. 4th ed. Oxford University Press; 2018."
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Association/Probability and Risk/odds_ratio.html",
+    "href": "The Archive/Evidene Based Practice/Association/Probability and Risk/odds_ratio.html",
+    "title": "Odds Ratio (OR)",
+    "section": "",
+    "text": "Question: How to compare to Relative risk\n\n\n\nDefinition\n\nOdds ratio (OR) is defined as “the ratio of the exposure odds among the case group to the exposure odds among the control group”1\nThe odds ratio (OR) is a measure of how strongly an event is associated with exposure.\nOdds that an outcome will occur given a particular exposure, compared to the odds of the outcome occurring in the absence of that exposure\n\n\n\n\n\n\n\nTip\n\n\n\n\n\nI like to think of odds ratio as the reverse of an RCT\nIn an RCT, we compare the experimental and control group, which only differ by the independent variable. Then the results are measured using dependent variables\nAn odds ratio compares two groups of people who only differ based on exposure. You could think of exposure as the “independent variable.” When viewing the results, you could view the exposure rates as the “dependent variables.” Thus when comparing the two using an odds ratio, you are trying to ascertain whether the exposure was statistically significant in outcome rates.\n\n\n\n\n\nPractical use:\n\nOdds ratios commonly are used to report case-control studies\n\n\n\nCalculation\n\nThe odds ratio (OR) is a measure of how strongly an event is associated with exposure.\nOR = odds that a case was exposed / Odds that a control was exposed\nThe odds ratio is a ratio of two sets of odds: the odds of the event occurring in an exposed group versus the odds of the event occurring in a non-exposed group\n\n\n\n\n\nDisease (Case)\nNo Disease (Control)\n\n\n\n\nExposed\nA\nB\n\n\nUnexposed\nC\nD\n\n\n\n\n\nInterpretation\nTo interpret the OR, you need to first determine what part of the test is considered the “exposure” and what part of the test is the “outcome.”\n\n\n\n\nOR Value\nInterpretation\n\n\n\n\n&lt;1\nOdds of disease lower with exposed than non-exposed\n\n\n1\nNo difference in odds of disease\n\n\n&gt;1\nOdds of disease greater in exposed than non-exposed\n\n\n\n\n\n\n\n\n\nExample\n\n\n\n\nAn odds ratio of 0.98 indicates that the group who were exposed to the variable were 2% less likely to have the outcome.\nAn odds ratio of 1.02 indicates that the group who was exposed to the variable were 2% more likely to have the outcome.\n\n\n\n\n\nExample\n\n2x2 Contingency Table1\n\n\n\n\n\n\n\n\nExposure\nPresent\nAbsent\nTotal\n\n\n\n\nPresent\nA  (90)\nB  (210)\nA + B  (300)\n\n\nAbsent\nC  (350)\nD  (350)\nC + D  (700)\n\n\nTotal\nA + C  (440)\nB + D  (760)\nA + B + C + D  (1000)\n\n\n\nHow to calculate the Odds Ratio for the contingency table: \\[\n\\begin{align*} \\textrm{Relative Risk} &=\\frac{\\frac{A}{(C)}}{\\frac{B}{(D)}}\n\\\\ &=\\frac{90}{350}/\\frac{210}{350}\n\\\\ &=\\frac{0.26}{0.6}\n\\\\ &= 0.43\n\\end{align*}\n\\]\nBased on the results of the odds ratio calculation (0.43) we can conclude:\n\nThe exposed group has 0.43 times the odds of of exposure to the outcome compared to the control group1.\nThe case group is 57% less likely to have the exposure compared to the control group1\n\n\n\nVideos\n\n\n\n\n\n\n\nReferences\n\n1. Roberts MR, Ashrafzadeh S, Asgari MM. Research Techniques Made Simple: Interpreting Measures of Association in Clinical Research. The Journal of Investigative Dermatology. 2019;139(3):502-511.e1. doi:10.1016/j.jid.2018.12.023"
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Association/Probability and Risk/Risk/statistical_risk.html",
+    "href": "The Archive/Evidene Based Practice/Association/Probability and Risk/Risk/statistical_risk.html",
+    "title": "Statistical Risk",
+    "section": "",
+    "text": "Comparing Risk\nSee1\n\n\n\n\n\nReferences\n\n1. George A, Stead TS, Ganti L. What’s the Risk: Differentiating Risk Ratios, Odds Ratios, and Hazard Ratios? Cureus. 2020;12(8):e10047. doi:10.7759/cureus.10047"
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Association/association_statistics.html#relative-risk-rr",
+    "href": "The Archive/Evidene Based Practice/Association/association_statistics.html#relative-risk-rr",
+    "title": "Statistical Association",
+    "section": "Relative Risk (RR)",
+    "text": "Relative Risk (RR)\n\\[\n\\begin{align*} \\textrm{Relative Risk} &=\\frac{\\frac{A}{(A + B)}}{\\frac{C}{(C+D)}}\n\\\\ &=\\frac{90}{300}/\\frac{350}{700}\n\\\\ &=\\frac{0.3}{0.5}\n\\\\ &= 0.6\n\\end{align*}\n\\]\n\nBased on these results, we can conclude that the Exposed group has 0.6x times the risk of the outcome compared to the unexposed group1\nThe exposed group has 60% of the risk of the outcome compared to the unexposed group1.\nThe exposed group has 40% less risk of the outcome compared to the unexposed group1."
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Association/association_statistics.html#odds-ratio-calculation",
+    "href": "The Archive/Evidene Based Practice/Association/association_statistics.html#odds-ratio-calculation",
+    "title": "Statistical Association",
+    "section": "Odds-Ratio Calculation",
+    "text": "Odds-Ratio Calculation\nHow to calculate the Odds Ratio for the contingency table: \\[\n\\begin{align*} \\textrm{Odds Ratio} &=\\frac{\\frac{A}{(C)}}{\\frac{B}{(D)}}\n\\\\ &=\\frac{90}{350}/\\frac{210}{350}\n\\\\ &=\\frac{0.26}{0.6}\n\\\\ &= 0.43\n\\end{align*}\n\\]\nBased on the results of the odds ratio calculation (0.43) we can conclude:\n\nThe exposed group has 0.43 times the odds of of exposure to the outcome compared to the control group1.\nThe case group is 57% less likely to have the exposure compared to the control group1"
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Association/association_statistics.html#risk-difference",
+    "href": "The Archive/Evidene Based Practice/Association/association_statistics.html#risk-difference",
+    "title": "Statistical Association",
+    "section": "Risk Difference",
+    "text": "Risk Difference\nThe calculation of risk difference based on the table above:\n\\[\n\\begin{align*} \\textrm{Risk Difference} &=\\frac{\\textrm{Exposed}_\\textrm{With Outcome}}{(\\textrm{Exposed Group}_\\textrm{Total})} - \\frac{\\textrm{Exposed}_\\textrm{Without outcome}}{\\textrm{Unexposed Group}_\\textrm{Total}}\n\\\\ &=\\frac{A}{(A+B)} - \\frac{C}{(C+D)}\n\\\\ &=\\frac{90}{350}/\\frac{210}{350}\n\\\\ &=\\frac{0.26}{0.6}\n\\\\ &= 0.43\n\\end{align*}\n\\]"
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Association/Probability and Risk/relative_risk.html#example-1",
+    "href": "The Archive/Evidene Based Practice/Association/Probability and Risk/relative_risk.html#example-1",
+    "title": "Relative Risk (RR)",
+    "section": "Example 1",
+    "text": "Example 1\nThis example study has an experimental group (drug) and a control group (placebo). In the study the disease progressed 8.1% in the control group and 1.7% in the experimental group:\n\\[\nRR = \\frac{8.8}{1.7} = 5.2\n\\]\nTo interpret this, you would say that the subjects treated with the intervention were 5.2x as likely to have the negative outcome (thromboembolism).\n\\[\nRR = \\frac{1.7}{8.8} = 0.19\n\\]\nTo interpret it this way, you would say that the experimental group had 19% of the risk of the control group."
+  },
+  {
+    "objectID": "The Archive/Evidene Based Practice/Association/Probability and Risk/relative_risk.html#example-2",
+    "href": "The Archive/Evidene Based Practice/Association/Probability and Risk/relative_risk.html#example-2",
+    "title": "Relative Risk (RR)",
+    "section": "Example 2",
+    "text": "Example 2\n\n\n\n\n\n\n\n\n\n\nExposure\nPresent\nAbsent\nTotal\n\n\n\n\nPresent\nA  (90)\nB  (210)\nA + B  (300)\n\n\nAbsent\nC  (350)\nD  (350)\nC + D  (700)\n\n\nTotal\nA + C  (440)\nB + D  (760)\nA + B + C + D  (1000)\n\n\n\n\\[\n\\begin{align*} \\textrm{Relative Risk} &=\\frac{\\frac{A}{(A + B)}}{\\frac{C}{(C+D)}}\n\\\\ &=\\frac{90}{300}/\\frac{350}{700}\n\\\\ &=\\frac{0.3}{0.5}\n\\\\ &= 0.6\n\\end{align*}\n\\]\nBased on these results, we can conclude:\n\nThe Exposed group has 0.6x times the risk of the outcome compared to the unexposed group2.\nThe exposed group has 60% of the risk of the outcome compared to the unexposed group2.\nThe exposed group has 40% less risk of the outcome compared to the unexposed group2."
   }
 ]
