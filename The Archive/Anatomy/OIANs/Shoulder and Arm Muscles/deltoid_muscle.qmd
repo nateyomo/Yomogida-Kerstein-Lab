@@ -46,7 +46,7 @@ Abduction @gilroyAtlasAnatomy2020
 *Between 60 and 90 degrees of abduction, the clavicular and spinal parts assist the acromial part with abduction @gilroyAtlasAnatomy2020
 :::
 
-## Posterior part
+# Posterior part
 ### Origin
 Scapular spine @gilroyAtlasAnatomy2020
 ### Insertion
@@ -61,6 +61,9 @@ Extension, external rotation, adduction @gilroyAtlasAnatomy2020
 :::{.callout-note}
 *Between 60 and 90 degrees of abduction, the clavicular and spinal parts assist the acromial part with abduction @gilroyAtlasAnatomy2020
 :::
+
+# Clinical Relevance
+As the GHJ becomes more unstable, the deltoid muscle takes on more of a stabilizing role @kidoDynamicStabilizingFunction2003 
 
 # Strength Testing
 

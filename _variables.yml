@@ -895,10 +895,14 @@ ref-EBP-index:
 ref-article-search-guide:
   path: "/The Archive/Evidene Based Practice/article_search_guide.qmd"
 ## EBP Terms
+ref-association-statistics:
+  path: "/The Archive/Evidene Based Practice/Association/association_statistics.qmd"
 ref-odds-ratio:
-  path: "/The Archive/Evidene Based Practice/EBP Terms/odds_ratio.qmd"
+  path: "/The Archive/Evidene Based Practice/Association/Probability and Risk/odds_ratio.qmd"
 ref-relative-risk:
-  path: "/The Archive/Evidene Based Practice/EBP Terms/relative_risk.qmd"
+  path: "/The Archive/Evidene Based Practice/Association/Probability and Risk/relative_risk.qmd"
+ref-beta-coefficient-logistic-regression: 
+  path: "/The Archive/Evidene Based Practice/Association/Probability and Risk/beta_coefficient_of_logistic_regression.qmd"
 ## Psychometrics
 ref-psychometric:
   path: "/"

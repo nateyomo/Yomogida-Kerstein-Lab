@@ -12,6 +12,9 @@ title: Biceps Brachii
     - This turn may cause abnormal wearing of the tendon @duttonDuttonOrthopaedicExamination2020
 
 
+# Clinical Relevance
+
+The biceps may have a role in GHJ stabilization @itoiStabilisingFunctionBiceps1993 
 
 # Dysfunction
 
