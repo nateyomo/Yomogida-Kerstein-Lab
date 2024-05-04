@@ -34,7 +34,9 @@ subtitle: The Probability that we will correctly reject the null hypothesis
 - Sample size is directly related to power
 
 
+# Example
 
+- [Interactive example](https://rpsychologist.com/d3/nhst/)
 
 
 # Power Analysis {#power-analysis}

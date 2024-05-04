@@ -51,3 +51,10 @@ Decision errors in hypothesis testing include Type I Error (&alpha;) and Type II
 
 - See [Effect Size]({{< var ref-effect-size.path >}}) for more information
 - 
+
+
+# Example
+
+# Interactive Example
+
+- [Interactive example](https://rpsychologist.com/d3/nhst/)

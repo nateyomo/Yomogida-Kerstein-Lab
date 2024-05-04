@@ -1,6 +1,6 @@
 ---
 title: ACL-Return to Sport after Injury scale
-subtitle: Questionnaire to assess readiness for RTS
+subtitle: Qualitative Test for Psychological readiness for Sport
 ---
 
 
@@ -10,6 +10,9 @@ subtitle: Questionnaire to assess readiness for RTS
 
 # Psychometrics 
 
+# Prognosis
+
+- Patients who score higher above 65 on ACL-RSI at 3 mo are at an increased risk of reinjury within 2 years (UDea 2024)
 
 
 # PDF
