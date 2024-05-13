@@ -27,6 +27,17 @@ Tibial n. (L4, L5)
 - Supports the longitudinal and transverse arches @gilroyAtlasAnatomy2020
 
 :::
+
+# Tendon
+
+"This tendon is palpable at the level of the medial malleolus, especially with the foot held in plantar flexion and supination. Distal and medial to this tendon, the crossing of the FDL and flexor hallucis tendons can be felt." @duttonDuttonOrthopaedicExamination2020 
+
+# Examination
+
+## Strength Testing
+
+"The tibialis posterior muscle produces the motion of inversion in a plantar flexed position. The leg is stabilized in the anatomic position, with the ankle in slight plantar flexion. The plantar flexion is important to minimize the influence of the tibialis anterior muscle.77 Resistance is applied to the medial border of the forefoot into eversion and dorsiflexion (Fig. 21-24) VIDEO. The standing heel raise test can also be used to detect tibialis posterior weakness. It is thought that during a standing heel rise that the tibialis posterior and fibularis muscles co-contract to control hindfoot position. Thus, when the hindfoot everts during the heel-rise task, this is seen as a clinical sign of tibialis posterior weakness." @duttonDuttonOrthopaedicExamination2020 
+
 # Dysfunction
 
 

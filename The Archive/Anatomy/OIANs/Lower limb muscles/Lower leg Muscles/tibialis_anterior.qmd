@@ -26,12 +26,17 @@ Deep fibular n. (L4, L5)
 
 :::
 
+# Observation
+
+"The tendon of the tibialis anterior is visible at the level of the medial cuneiform and the base of the first metatarsal bone, especially if the foot is positioned in dorsiflexion and supination" @duttonDuttonOrthopaedicExamination2020 
+
 # Examination
 
 :::{layout-ncol="3"}
 ### MMT
 
 - DF/inv
+- "The tibialis anterior muscle produces the motion of dorsiflexion and inversion. The knee must remain flexed during the test to allow complete dorsiflexion. The patient’s foot is positioned in dorsiflexion and inversion. The leg is stabilized, and resistance is applied to the medial posterior aspect of the forefoot into plantar flexion and eversion" @duttonDuttonOrthopaedicExamination2020 
 
 ### ROM
 
