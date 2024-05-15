@@ -11,11 +11,19 @@ The spinal cord exits the foramen magnum and extends to approximately the L1 ver
 The spinal cord is made up of both white and gray matter.
 
 ## White matter
-The majority of the white matter consists of the [ascending (sensory) tracts]({{< var ref-ascending-tracts.path >}}) and [descending (motor) tracts]({{< var ref-descending-tracts.path >}}) @osullivanPhysicalRehabilitation2019.
 
-The rest of the white matter is composed of myelinated axons of interneurons.
+- The white matter is solely composed of myelinated nerves
+- The majority of the white matter consists of the [ascending (sensory) tracts]({{< var ref-ascending-tracts.path >}}) and [descending (motor) tracts]({{< var ref-descending-tracts.path >}}) @osullivanPhysicalRehabilitation2019.
+- The rest of the white matter is composed of myelinated axons of interneurons.
 
 ## Gray matter
+
+The gray matter is found in the center of the spinal cord with a butterfly shaped horizontal cross section.
+The gray matter has 3 divisions:
+
+1. Ventral (Anterior) horn 
+1. Intermediate Zone 
+1. Dorsal (posterior) horn 
 
 # Cross- Section
 
@@ -36,7 +44,7 @@ The rest of the white matter is composed of myelinated axons of interneurons.
 
 - 8 pairs
 - Exit horizontally (relatively) @osullivanPhysicalRehabilitation2019
-- C1-C7 Exit above the corresponding vertebrae @osullivanPhysicalRehabilitation2019
+- C1-C7 Exit above their corresponding vertebrae @osullivanPhysicalRehabilitation2019
 - C8 exits below the C7 vertebrae @osullivanPhysicalRehabilitation2019
 
 ### Thoracic
