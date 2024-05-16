@@ -1275,6 +1275,12 @@ ref-tumor-necrosis-factor:
 
 ## Muscle
 
+## Metabolic System
+### Vitamins
+ref-vitamin-e:
+  path: "/The Archive/Physiology/Metabolic system/Vitamins/vitamin_e.qmd"
+  deficiency: "/The Archive/Pathophysiology/Metabolic Pathophysiology/vitamin_E_deficiency.qmd"
+
 ## Nutrients
 ref-coenzyme-q10:
   path: "/The Archive/Physiology/Nutrients/coenzyme_Q10.qmd"
@@ -1401,6 +1407,8 @@ ref-stress-reactions-and-fractures:
 ## Complications
 ref-dehiscence:
   path: "/The Archive/Pathophysiology/Complications/dehiscence.qmd"
+## Metabolic Pathophysiology
+
 ## Muscle pathophysiology
 ref-index-muscle-pathophysiology:
   path: "/The Archive/Pathophysiology/Muscle pathophysiology/index_muscle_pathophysiology.qmd"
@@ -1626,7 +1634,7 @@ ref-fasciculus-gracilis:
 ref-cuneocerebellar-tract:
   path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Ascending Tracts/cuneocerebellar_tract.qmd"
 ref-dorsal-spinocerebellar-tract:
-  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Ascending Tracts/dorsal_spinocerebellar_tract.qmd"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Ascending Tracts/cuneocerebellar_tract.qmd"
 ref-ventral-spinocerebellar-tract:
   path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Ascending Tracts/ventral_spinocerebellar_tract.qmd"
 ref-spinothalamic-tract:
@@ -1760,6 +1768,8 @@ ref-erbs-palsy:
 ## Neuropathophysiology
 ref-lewy-bodies:
   path: "/The Archive/Neuroscience/Neuropathophysiology/lewy_bodies.qmd"
+ref-subacute-combined-degeneration-of-the-spinal-cord:
+  path: "/The Archive/Neuroscience/Neuropathophysiology/Degeneration/subacute_combined_degeneration_of_the_spinal_cord.qmd"
 
 
 ## Neuro Examination

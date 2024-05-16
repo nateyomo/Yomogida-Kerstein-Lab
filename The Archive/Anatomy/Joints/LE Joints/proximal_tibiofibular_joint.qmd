@@ -17,3 +17,16 @@ title: Proximal Tibiofibular Joint
 # Innervation
 
 "The nerve supply to this joint is provided by the common fibular (peroneal) and recurrent articular nerves. The joint receives its blood supply from a perforating branch of the fibular (peroneal) artery and the anterior tibial artery." @duttonDuttonOrthopaedicExamination2020
+
+
+
+# Arthrokinematics
+
+:::{layout-ncol="2"}
+
+### Dorsiflexion
+
+According to Dutton, during DF the fibula glides superiorly at the proximal tibiofibular joint @duttonDuttonOrthopaedicExamination2020
+
+
+:::

@@ -12,4 +12,8 @@ The proprioceptive system of the cervical spine, in particular, is extremely wel
 
 The &gamma;-muscle spindle system serves as the final common pathway for the regulation of the muscle stiffness required for various neuromuscular performances @kristjanssonSensorimotorFunctionDizziness2009
 
+# Pathways
 
+- [Cuneocerebellar]({{< var ref-cuneocerebellar-tract.path >}})
+- [Ventral spinocerebellar tract]({{< var ref-ventral-spinocerebellar-tract.path >}})
+- [Dorsal spinocerebellar tract]({{< var ref-dorsal-spinocerebellar-tract.path >}})

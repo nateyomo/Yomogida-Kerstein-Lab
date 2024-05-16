@@ -18,17 +18,27 @@ Brown-Sequard syndrome is a clinical syndrome of SCI involving a hemisection
 
 - Partial hemisection
 - More common @osullivanPhysicalRehabilitation2019
-
+:::
 
 # Etiology
 
-Typically caused by penetration wounds—that is, gunshot or stab @osullivanPhysicalRehabilitation2019
 
-# Clinical Presentations
+- Typically caused by penetration wounds—that is, gunshot or stab [@osullivanPhysicalRehabilitation2019; @brazisLocalizationClinicalNeurology2022]
+- Herniated cervical disc @brazisLocalizationClinicalNeurology2022 
+- Post-traumatic arachnoiditis @brazisLocalizationClinicalNeurology2022 
+- Chiropractic manipulation @brazisLocalizationClinicalNeurology2022 
+- Tumor (primary or metastatic) @brazisLocalizationClinicalNeurology2022 
+- Multiple sclerosis @brazisLocalizationClinicalNeurology2022 
+- Other inflammatory/infectious causes @brazisLocalizationClinicalNeurology2022 
+- Spinal cord ischemia / spinal epidural hematoma @brazisLocalizationClinicalNeurology2022 
+- Spinal subdural hematoma @brazisLocalizationClinicalNeurology2022 
+- Hematomyelia @brazisLocalizationClinicalNeurology2022 
+- Spinal cord herniation @brazisLocalizationClinicalNeurology2022 
 
 
 
-## Asymmetry
+
+# Sensory Function
 
 :::{layout-ncol="2"}
 
