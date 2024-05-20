@@ -382,7 +382,7 @@
     "href": "The Archive/Systems/Sensation/Proprioception/proprioception.html",
     "title": "Proprioception",
     "section": "",
-    "text": "Types of Proprioceptive Input\nMuscle spindle afferents are particularly important since these are the primary proprioceptive input while other mechanoreceptors (joint receptors, GTOs) function to fine tune the muscle spindle information, predominantly by reflex effects on the γ-motoneurons1.\n\n\nCervical spine proprioception\nThe proprioceptive system of the cervical spine, in particular, is extremely well developed, as reflected by an abundance of mechanoreceptors, especially from the γ-muscle spindles in the deep segmental upper cervical muscles1\nThe γ-muscle spindle system serves as the final common pathway for the regulation of the muscle stiffness required for various neuromuscular performances1\n\n\n\n\n\nReferences\n\n1. Kristjansson E, Treleaven J. Sensorimotor function and dizziness in neck pain: Implications for assessment and management. The Journal of Orthopaedic and Sports Physical Therapy. 2009;39(5):364-377. doi:10.2519/jospt.2009.2834"
+    "text": "Types of Proprioceptive Input\nMuscle spindle afferents are particularly important since these are the primary proprioceptive input while other mechanoreceptors (joint receptors, GTOs) function to fine tune the muscle spindle information, predominantly by reflex effects on the γ-motoneurons1.\n\n\nCervical spine proprioception\nThe proprioceptive system of the cervical spine, in particular, is extremely well developed, as reflected by an abundance of mechanoreceptors, especially from the γ-muscle spindles in the deep segmental upper cervical muscles1\nThe γ-muscle spindle system serves as the final common pathway for the regulation of the muscle stiffness required for various neuromuscular performances1\n\n\nPathways\n\nCuneocerebellar\nVentral spinocerebellar tract\nDorsal spinocerebellar tract\n\n\n\n\n\n\nReferences\n\n1. Kristjansson E, Treleaven J. Sensorimotor function and dizziness in neck pain: Implications for assessment and management. The Journal of Orthopaedic and Sports Physical Therapy. 2009;39(5):364-377. doi:10.2519/jospt.2009.2834"
   },
   {
     "objectID": "The Archive/Systems/Sensation/deep_touch_sensation.html",
@@ -5772,7 +5772,7 @@
     "href": "The Archive/Neuroscience/Neuropathology/SCI/Clinical Syndromes/brown-sequard_syndrome.html#contralateral",
     "title": "Brown-Sequard Syndrome",
     "section": "Contralateral",
-    "text": "Contralateral\n\nSpinothalamic tract\n\nPain\nTemperature\nnote: these symptoms will begin several dermatome segments below the level of injury2"
+    "text": "Contralateral\n\nSpinothalamic tract\n\nPain\nTemperature\nnote: these symptoms will begin several dermatome segments below the level of injury3"
   },
   {
     "objectID": "The Archive/Neuroscience/Neuropathology/SCI/Clinical Syndromes/anterior_cord_syndrome.html",
@@ -6185,14 +6185,14 @@
     "href": "The Archive/Neuroscience/Neuroanatomy/Spinal Cord/spinal_cord.html#white-matter",
     "title": "Spinal Cord",
     "section": "White matter",
-    "text": "White matter\nThe majority of the white matter consists of the ascending (sensory) tracts and descending (motor) tracts1.\nThe rest of the white matter is composed of myelinated axons of interneurons."
+    "text": "White matter\n\nThe white matter is solely composed of myelinated nerves\nThe majority of the white matter consists of the ascending (sensory) tracts and descending (motor) tracts1.\nThe rest of the white matter is composed of myelinated axons of interneurons."
   },
   {
     "objectID": "The Archive/Neuroscience/Neuroanatomy/Spinal Cord/spinal_cord.html#gray-matter",
     "href": "The Archive/Neuroscience/Neuroanatomy/Spinal Cord/spinal_cord.html#gray-matter",
     "title": "Spinal Cord",
     "section": "Gray matter",
-    "text": "Gray matter"
+    "text": "Gray matter\nThe gray matter is found in the center of the spinal cord with a butterfly shaped horizontal cross section. The gray matter has 3 divisions:\n\nVentral (Anterior) horn\nIntermediate Zone\nDorsal (posterior) horn"
   },
   {
     "objectID": "The Archive/Neuroscience/Neuroanatomy/Pons/locus_coeruleus.html",
@@ -6605,7 +6605,7 @@
     "href": "The Archive/Pain_science/Pain Type/Pain by region/facial_pain.html",
     "title": "Facial Pain",
     "section": "",
-    "text": "Books to read later\n\n\n\n\nBonicas ch66 Cranial Neuralgias1\nBonicas Ch67 Facial Pain1\n\n\n\n\nDDX\nFacial pain is a vague term that can be elicited by many factors:\n\nTrigeminal neuralgia2\n\n\n\n\n\n\nReferences\n\n1. Ballantyne J, Fishman S, Rathmell JP, eds. Bonica’s Management of Pain. 5th ed. Wolters Kluwer; 2019.\n\n\n2. Henssen DJHA, Kurt E, Kozicz T, van Dongen R, Bartels RHMA, van Cappellen van Walsum AM. New Insights in Trigeminal Anatomy: A Double Orofacial Tract for Nociceptive Input. Frontiers in Neuroanatomy. 2016;10:53. doi:10.3389/fnana.2016.00053"
+    "text": "Books to read later\n\n\n\n\nBonicas ch66 Cranial Neuralgias1\nBonicas Ch67 Facial Pain1\n\n\n\n\nAnatomy\n\nTrigeminothalamic tract carries noxious temperature and pain sensations for the face2\n\n\n\nDDX\nFacial pain is a vague term that can be elicited by many factors:\n\nTrigeminal neuralgia3\n\n\n\n\n\n\nReferences\n\n1. Ballantyne J, Fishman S, Rathmell JP, eds. Bonica’s Management of Pain. 5th ed. Wolters Kluwer; 2019.\n\n\n2. Blumenfeld H. Neuroanatomy Through Clinical Cases. 3rd ed. Oxford university press; 2022.\n\n\n3. Henssen DJHA, Kurt E, Kozicz T, van Dongen R, Bartels RHMA, van Cappellen van Walsum AM. New Insights in Trigeminal Anatomy: A Double Orofacial Tract for Nociceptive Input. Frontiers in Neuroanatomy. 2016;10:53. doi:10.3389/fnana.2016.00053\n\nCitationBibTeX citation:@online{yomogida, spt,\n  author = {Yomogida, SPT, Nathaniel Giovanni and Kerstein, SPT, Chloë\n    Anne},\n  title = {Facial {Pain}},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nYomogida, SPT N Giovanni, Kerstein, SPT C Anne.\nFacial Pain."
   },
   {
     "objectID": "The Archive/Pain_science/Pain Type/Pain by region/LBP/chronic_low_back_pain.html",
@@ -7298,7 +7298,7 @@
     "href": "The Archive/Neuroscience/Neuroanatomy/Tracts/Ascending Tracts/trigeminothalamic_tract.html",
     "title": "Trigeminothalamic Tract",
     "section": "",
-    "text": "“Crossed fibers originated from the ventral part of the nucleus ascend in association with the contralateral medial lemniscus to form ventral trigeminothalamic tract.”1\n“Uncrossed fibers originated from the dorsomedial part of the nucleus ascend close to the central gray of the midbrain to form dorsal trigeminothalamic tract”\n\n\n\n\nReferences\n\n1. Joo W, Yoshioka F, Funaki T, Mizokami K, Rhoton AL. Microsurgical anatomy of the trigeminal nerve. Clinical Anatomy. 2014;27(1):61-88. doi:10.1002/ca.22330"
+    "text": "“Crossed fibers originated from the ventral part of the nucleus ascend in association with the contralateral medial lemniscus to form ventral trigeminothalamic tract.”1\n“Uncrossed fibers originated from the dorsomedial part of the nucleus ascend close to the central gray of the midbrain to form dorsal trigeminothalamic tract”\n“. Pain and temperature sensation for the face is carried by an analogous pathway called the trigeminothalamic tract, to be discussed further in Chapter 12 (see Figure 12.8; Table 12.6).”2\n\nFunction\nThe Trigeminothalamic tract is analagous to the spinothalamic tract, but provides temperature and pain sensation for the face2\n\n\n\n\n\nReferences\n\n1. Joo W, Yoshioka F, Funaki T, Mizokami K, Rhoton AL. Microsurgical anatomy of the trigeminal nerve. Clinical Anatomy. 2014;27(1):61-88. doi:10.1002/ca.22330\n\n\n2. Blumenfeld H. Neuroanatomy Through Clinical Cases. 3rd ed. Oxford university press; 2022.\n\nCitationBibTeX citation:@online{yomogida, spt,\n  author = {Yomogida, SPT, Nathaniel Giovanni and Kerstein, SPT, Chloë\n    Anne},\n  title = {Trigeminothalamic {Tract}},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nYomogida, SPT N Giovanni, Kerstein, SPT C Anne.\nTrigeminothalamic Tract."
   },
   {
     "objectID": "The Archive/Neuroscience/Neuroanatomy/Tracts/Ascending Tracts/ascending_tracts.html",
@@ -7312,7 +7312,7 @@
     "href": "The Archive/Neuroscience/Neuroanatomy/Tracts/Ascending Tracts/spinothalamic_tract.html",
     "title": "Spinothalamic Tract",
     "section": "",
-    "text": "Decussation\nLateral spinothalamic tracts ascend two to four segments on the same side before crossing and the descending motor tract decussating in the medulla1\n\n\n\n\n\n\nClinical Significance\n\n\n\nSince the spinothalamic tract moves up a few segments before decussating, symptoms of a hemisection (brown-sequard syndrome) begin several dermatome segments below the level of injury1\n\n\n\n\n\n\n\nReferences\n\n1. O’Sullivan SB, Schmitz TJ, Fulk GD, eds. Physical Rehabilitation. 7th ed. F.A. Davis Company; 2019."
+    "text": "Decussation\nLateral spinothalamic tracts ascend two to four segments on the same side before crossing and the descending motor tract decussating in the medulla1\n\n\n\n\n\n\nClinical Significance\n\n\n\nSince the spinothalamic tract moves up a few segments before decussating, symptoms of a hemisection (brown-sequard syndrome) begin several dermatome segments below the level of injury1\n\n\n\nNoxious stimuli enter dorsal horn in lissauer’s tract, ascend or descend 1-2 segments before synapsing in second order neurons in nucleus proprius or substantia gelatinosa\nPath continues to thalamus and then cortex for interpretation\nSensation, emotional and cognitive\n\n\n\nLateral spinothalamic tract\n\nPerceives discriminative aspects of pain\nLocation, intensity, quality\n\n\n\nVentral spinothalamic tract\n\nPerceives crude touch and emotional info that contributes to anxiety producing aspects of pain\nPathway\n\nAscends 1-2 spinal segments in lissaur’s tract then crosses, from there continues as lateral or ant spinothalamic\n\n\n\n\nPathway\n\nA major relay for the spinothalamic tract and DCML is in the ventral posterior lateral nucleus (VPL) of the thalamus, but the spinothalamic and DCML synapse at separate neurons within the VPL2\nInformation from the spinothalamic tract leave the VPL and is conveyed via the thalamic somatosensory radiations to the primary somatosensory cortex (see Figure 6.1, areas 3, 1, and 2) in the postcentral gyrus (see Figure 7.2)\n*Pain and temp of the face is carried by the trigeminothalamic tract2\n\n“There are also spinothalamic projections to other thalamic nuclei, including intralaminar thalamic nuclei (central lateral nucleus) and medial thalamic nuclei such as the mediodorsal nuclei (see Figure 7.2). These projections probably participate together with the spinoreticular tract in a phylogenetically older pain pathway responsible for conveying the emotional and arousal aspects of pain. The spinoreticular tract terminates on the medullary–pontine reticular formation, which in turn projects to the intralaminar thalamic nuclei (centromedian nucleus). Unlike the VPL, which projects specifically in a somatotopic fashion to the primary sensory cortex, the intralaminar nuclei project diffusely to the entire cerebral cortex and are thought to be involved in behavioral arousal (see the section on the thalamus later in this chapter).”2\n\n\nLesion\n\nSince the spinothalamic tract ascends ipsilaterally for 1-2 segments before decussating and continuing contralaterally, its lesions have a unique pattern.\nA hemi cord lesion, such as brown-Sequard syndrome, will have pain and temperature loss following the dermatome of 1-2 segments on the side ipsilateral to the lesion since the ipsilateral spinothalamic tract has not yet decussated.\nAll segments 1-2 below will have contralateral loss of pain and temperature since the spinothalamic tract of the contralateral side has already decussated and is thus affected by the lesion2.\n\n\n\n\n\n\nReferences\n\n1. O’Sullivan SB, Schmitz TJ, Fulk GD, eds. Physical Rehabilitation. 7th ed. F.A. Davis Company; 2019.\n\n\n2. Blumenfeld H. Neuroanatomy Through Clinical Cases. 3rd ed. Oxford university press; 2022."
   },
   {
     "objectID": "The Archive/Neuroscience/Neuroanatomy/Midbrain/Dorsal_Raphe_Nucleus.html",
@@ -8138,14 +8138,14 @@
     "href": "The Archive/Anatomy/Joints/LE Joints/proximal_tibiofibular_joint.html",
     "title": "Proximal Tibiofibular Joint",
     "section": "",
-    "text": "“The proximal, or superior, tibiofibular joint (see Fig. 20-1) is an almost plane joint with a slight convexity on the oval tibial facet and a slight concavity on the fibular head. The joint is located below the tibial plateau on the lateral condyle of the tibia. The tibial articulating facet faces laterally, posteriorly, and inferiorly. Although the joint is often described as a simple, synovial, modified ovoid, it functions as a modified sellar when combined with the distal, or inferior, tibiofibular joint (see Chapter 21)”1\n“The joint capsule of the proximal tibiofibular joint complex is thicker anteriorly than posteriorly and, in 10% of the population, the synovium is continuous with that of the knee joint.1 The joint receives support from anterior and posterior ligaments and an interosseous membrane. The interosseous membrane attaches between the medial border of the fibula and the lateral border of the tibia, providing attachment to the deep anterior and posterior muscles of the leg. The majority of its fibers pass obliquely in an inferior and lateral direction.”1\n“The proximal tibiofibular joint has more motion than its distal partner. The motion occurring at the proximal joint, consists of two glides, one in a superoinferior direction and the other in an anteroposterior direction.1 These motions are possible because of the orientation of the joint line, which also facilitates an osteokinematic spin of the fibula. The motion at this joint can be decreased by articular fibrosis or by softtissue restraints; the biceps femoris can pull or hold it posteriorly, whereas the tibialis anterior can pull or hold it anteriorly.”1\n“Although the capsular pattern of restriction for this joint is unclear, it is probably indicated by pain during an isometric contraction of the biceps femoris with the knee at 90 degrees of flexion. The close-packed position for this joint, equally debatable, is probably weight-bearing (WB) ankle dorsiflexion.”1\n“Both the tibia and the fibula are vulnerable to fracture at the lower third of their shaft. Anterior joint subluxations occur at this joint as a result of medial knee joint strain or an inversion sprain of the ankle. Posterior joint subluxation can occur as a result of a lateral knee joint strain, but this is often missed because of the more serious ligament damage to the knee.”1\n\nInnervation\n“The nerve supply to this joint is provided by the common fibular (peroneal) and recurrent articular nerves. The joint receives its blood supply from a perforating branch of the fibular (peroneal) artery and the anterior tibial artery.”1\n\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. Fifth edition. McGraw Hill Education; 2020."
+    "text": "“The proximal, or superior, tibiofibular joint (see Fig. 20-1) is an almost plane joint with a slight convexity on the oval tibial facet and a slight concavity on the fibular head. The joint is located below the tibial plateau on the lateral condyle of the tibia. The tibial articulating facet faces laterally, posteriorly, and inferiorly. Although the joint is often described as a simple, synovial, modified ovoid, it functions as a modified sellar when combined with the distal, or inferior, tibiofibular joint (see Chapter 21)”1\n“The joint capsule of the proximal tibiofibular joint complex is thicker anteriorly than posteriorly and, in 10% of the population, the synovium is continuous with that of the knee joint.1 The joint receives support from anterior and posterior ligaments and an interosseous membrane. The interosseous membrane attaches between the medial border of the fibula and the lateral border of the tibia, providing attachment to the deep anterior and posterior muscles of the leg. The majority of its fibers pass obliquely in an inferior and lateral direction.”1\n“The proximal tibiofibular joint has more motion than its distal partner. The motion occurring at the proximal joint, consists of two glides, one in a superoinferior direction and the other in an anteroposterior direction.1 These motions are possible because of the orientation of the joint line, which also facilitates an osteokinematic spin of the fibula. The motion at this joint can be decreased by articular fibrosis or by softtissue restraints; the biceps femoris can pull or hold it posteriorly, whereas the tibialis anterior can pull or hold it anteriorly.”1\n“Although the capsular pattern of restriction for this joint is unclear, it is probably indicated by pain during an isometric contraction of the biceps femoris with the knee at 90 degrees of flexion. The close-packed position for this joint, equally debatable, is probably weight-bearing (WB) ankle dorsiflexion.”1\n“Both the tibia and the fibula are vulnerable to fracture at the lower third of their shaft. Anterior joint subluxations occur at this joint as a result of medial knee joint strain or an inversion sprain of the ankle. Posterior joint subluxation can occur as a result of a lateral knee joint strain, but this is often missed because of the more serious ligament damage to the knee.”1\n\nInnervation\n“The nerve supply to this joint is provided by the common fibular (peroneal) and recurrent articular nerves. The joint receives its blood supply from a perforating branch of the fibular (peroneal) artery and the anterior tibial artery.”1\n\n\nArthrokinematics\n\n\n\n\n\n\nDorsiflexion\nAccording to Dutton, during DF the fibula glides superiorly at the proximal tibiofibular joint1\n\n\n\n\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. Fifth edition. McGraw Hill Education; 2020."
   },
   {
     "objectID": "The Archive/Anatomy/Joints/LE Joints/talocrural_joint_TCJ.html",
     "href": "The Archive/Anatomy/Joints/LE Joints/talocrural_joint_TCJ.html",
     "title": "Talocrural Joint (TCJ)",
     "section": "",
-    "text": "Osteokinematics\n\n\n\n\nMovement\nNormal ROM\n\n\n\n\nDF\n20°\n\n\nPF\n50°"
+    "text": "Movement\nNormal ROM\n\n\n\n\nDF\n20°\n\n\nPF\n50°"
   },
   {
     "objectID": "The Archive/Anatomy/Joints/sacroiliac_joint.html",
@@ -13662,5 +13662,257 @@
     "title": "Effect of Stress on Cervical muscle activity",
     "section": "",
     "text": "Article\nShahidi et al. (2013) Differential effects of mental concentration and acute psychosocial stress on cervical muscle activity and posture1\n\n\nArticle question\nDoes a psychological stressor affect cervical muscle activity and posture?\n\n\nStudy construct\n\nPopulation:\n\n60 healthy office workers\nHigher proportion of women d/t a higher incidence of female office workers developing pain\nNo hx of neck pain in previous year\nWorked at least 30 h a week, 75% of workday at the computer\n\nElectromyography\nMuscles observed:\n\nUpper trapezius\nCervical extensors\nSternocleidomastoid\n\nSeated posture\nLow stress (LS) condition + mental concentration\nHigh stress (HS) condition + mental concentration and psychosocial stress\nConstant variables:\n\nAsked to do a Psychomotor task:\n\noperation span (OpSpan) test: complex arithmetic problems while memorizing and selecting lists of 2-8 words in sequential order using a computer mouse with their dominant arm.\n\n\nIntervention: Repeated under low and high stress conditions with a 15 min rest break\nDependent variable:\n\nTask performance scored 0-40, higher = better accuracy\nSeated posture\nLow stress (LS) condition + mental concentration\nHigh stress (HS) condition + mental concentration and psychosocial stress\n\n\n\n\nStatistical analysis\nDemographic characteristics of participants in the experimental and control sessions were compared using independent t-tests for continuous variables and chi-squared tests for categorical variables1.\nCervical angle, RPP, and STAI-State scores were analyzed using a one-way repeated measures analysis of variance (ANOVA) to compare baseline, LS, and HS conditions1. Post hoc comparisons using Tukey’s HSD procedure were performed for outcomes with significant main effects1.\nPaired T-Tests were used to compare the ormalized activity of UT, CE, and SCM muscles across the two stress conditions1.\nPearson’s correlation coefficients were used to assess the association between change in muscle activity, cervical angle, and task duration between test conditions1.\n\n\n\n\n\nReferences\n\n1. Shahidi B, Haight A, Maluf K. Differential effects of mental concentration and acute psychosocial stress on cervical muscle activity and posture. Journal of Electromyography and Kinesiology: Official Journal of the International Society of Electrophysiological Kinesiology. 2013;23(5):1082-1089. doi:10.1016/j.jelekin.2013.05.009"
+  },
+  {
+    "objectID": "The Archive/Systems/Sensation/temperature_sensation.html",
+    "href": "The Archive/Systems/Sensation/temperature_sensation.html",
+    "title": "Temperature Sensation",
+    "section": "",
+    "text": "Pathway\n\nSpinothalamic tract: Noxious Temperature stimuli\nTrigeminothalamic Tract: Noxious temperature stimuli for the face\n_______: Non-noxious temperature stimuli?\n\n\n\n\n\nCitationBibTeX citation:@online{yomogida, spt,\n  author = {Yomogida, SPT, Nathaniel Giovanni and Kerstein, SPT, Chloë\n    Anne},\n  title = {Temperature {Sensation}},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nYomogida, SPT N Giovanni, Kerstein, SPT C Anne.\nTemperature Sensation."
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathophysiology/Degeneration/subacute_combined_degeneration_of_the_spinal_cord.html",
+    "href": "The Archive/Neuroscience/Neuropathophysiology/Degeneration/subacute_combined_degeneration_of_the_spinal_cord.html",
+    "title": "Subacute Combined Degeneration of the Spinal Cord",
+    "section": "",
+    "text": "“Subacute combined degeneration is degeneration of the spinocerebellar tracts, corticospinal tracts, and the dorsal column due to a prolonged vitamin B12 deficiency. Physiologically, vitamin B12 is synthesized by microorganisms and stored in the liver on average from three to five years. Because of the extended storage duration, vitamin B12 deficiency develops over long periods. Common causes of vitamin B12 deficiency are malnutrition (veganism, improper diet), lack of intrinsic factor (gastric bypass surgery, pernicious anemia), malabsorption (Crohn’s disease), and overgrowth of microorganisms (bacterial, Diphyllobothrium latum). The hematological presentation of vitamin B12 deficiency is macrocytic anemia, similar to the presentation of folate (vitamin B9) deficiency. However, the crucial difference between the two is that neurological symptoms are present in vitamin B12 deficiency”1\n\n\n\n\nReferences\n\n1. Koh M, Markovich B. Neuroanatomy, Spinocerebellar Dorsal Tract. In: StatPearls. StatPearls Publishing; 2024. Accessed May 15, 2024. http://www.ncbi.nlm.nih.gov/books/NBK556013/"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuroanatomy/Tracts/Ascending Tracts/dorsal_spinocerebellar_tract.html",
+    "href": "The Archive/Neuroscience/Neuroanatomy/Tracts/Ascending Tracts/dorsal_spinocerebellar_tract.html",
+    "title": "Dorsal Spinocerebellar Tract (DSCT)",
+    "section": "",
+    "text": "AKA\n\n\n\n\nPosterior Spinocerebellar Tract\nDorsal Spinocerebellar Tract\nFlechsig tract\n\n\n\n\nDysfunction\n\nSubacute Combined Degeneration1\nDemyelination due to Vitamin E deficiency1\n\n\n\n\n\n\nReferences\n\n1. Koh M, Markovich B. Neuroanatomy, Spinocerebellar Dorsal Tract. In: StatPearls. StatPearls Publishing; 2024. Accessed May 15, 2024. http://www.ncbi.nlm.nih.gov/books/NBK556013/"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuroanatomy/Tracts/Ascending Tracts/anterolateral_pathways.html",
+    "href": "The Archive/Neuroscience/Neuroanatomy/Tracts/Ascending Tracts/anterolateral_pathways.html",
+    "title": "Anterolateral Pathways",
+    "section": "",
+    "text": "Anterolateral Pathways of the Spinal Cord1\n\n\n“Smaller-diameter and unmyelinated axons carrying information about pain and temperature sense also enter the spinal cord via the dorsal root entry zone (see Figure 7.2). However, these axons make their first synapses immediately in the gray matter of the spinal cord, mainly in the dorsal horn marginal zone (lamina I) and deeper in the dorsal horn, in lamina V (see Figure 6.3B; Table 6.2). Some axon collaterals ascend or descend for a few segments in Lissauer’s tract before entering the central gray (see Figures 6.4 and 7.2). Axons from the second-order sensory neurons in the central gray cross over in the spinal cord anterior (ventral) commissure to ascend in the anterolateral white matter. It should be noted that it takes two to three spinal segments for the decussating fibers to reach the opposite side, so a lateral cord lesion will affect contralateral pain and temperature sensation beginning a few segments below the level of the lesion. The anterolateral pathways in the spinal cord have a somatotopic organization (see Figure 7.3) in which the feet are most laterally represented. To help you remember this organization, picture fibers from the anterior commissure adding on medially as the anterolateral pathways ascend in the spinal cord. This somatotopic organization, with arms more medial and legs more lateral, is preserved as the anterolateral pathways pass through the brainstem. When they reach the medulla, the anterolateral pathways are located laterally, running in the groove between the inferior olives and the inferior cerebellar peduncles (see Figures 7.2 and 14.5). They then enter the pontine tegmentum to lie just lateral to the medial lemniscus in the pons and midbrain (see Figures 14.3 and 14.4).”1\nThe anterolateral pathways consist of three tracts: 1. Spinothalamic Tract 1. Spinoreticular Tract 1. Spinomesencephalic Tract\n\n\n\nAnterolateral Pathways of the Spinal Cord1\n\n\n\nReferences\n\n1. Blumenfeld H. Neuroanatomy Through Clinical Cases. 3rd ed. Oxford university press; 2022."
+  },
+  {
+    "objectID": "The Archive/Anatomy/OIANs/Lower limb muscles/Lower leg Muscles/flexor_hallucis_longus_FHL.html",
+    "href": "The Archive/Anatomy/OIANs/Lower limb muscles/Lower leg Muscles/flexor_hallucis_longus_FHL.html",
+    "title": "Flexor Hallucis Longus (FHL)",
+    "section": "",
+    "text": "MMT\n“The FHB VIDEO and FHL muscles VIDEO produce MTP joint flexion and IP joint flexion. The foot is maintained in midposition. The first metatarsal is stabilized, and resistance is applied beneath the proximal and distal phalanx of the great toe into toe extension.”1\n\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. Fifth edition. McGraw Hill Education; 2020."
+  },
+  {
+    "objectID": "The Archive/Anatomy/OIANs/Lower limb muscles/Lower leg Muscles/flexor_digitorum_longus_FDL.html",
+    "href": "The Archive/Anatomy/OIANs/Lower limb muscles/Lower leg Muscles/flexor_digitorum_longus_FDL.html",
+    "title": "Flexor Digitorum Longus (FDL)",
+    "section": "",
+    "text": "MMT\n“The FDL and brevis muscles produce IP joint flexion. The motion is tested with the foot in the anatomic position. If the gastrocnemius muscle is shortened, preventing the ankle from assuming the anatomic position, the knee is flexed. The toes may be tested simultaneously. The foot is held in the midposition, and the metatarsals are stabilized. Resistance is applied beneath the distal and proximal phalanges”1\n\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. Fifth edition. McGraw Hill Education; 2020."
+  },
+  {
+    "objectID": "The Archive/Anatomy/OIANs/Lower limb muscles/Lower leg Muscles/extensor_hallucis_longus_EHL.html",
+    "href": "The Archive/Anatomy/OIANs/Lower limb muscles/Lower leg Muscles/extensor_hallucis_longus_EHL.html",
+    "title": "Extensor Hallucis Longus (EHL)",
+    "section": "",
+    "text": "MMT\n“The EHL and the EHB muscles produce the motion of extension of the IP and MTP joints. The foot is maintained in midposition. Resistance is applied to the posterior aspect of both phalanges of the first digit into toe flexion.”1\n\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. Fifth edition. McGraw Hill Education; 2020."
+  },
+  {
+    "objectID": "The Archive/Anatomy/OIANs/Lower limb muscles/Lower leg Muscles/extensor_digitorum_longus_EDL.html",
+    "href": "The Archive/Anatomy/OIANs/Lower limb muscles/Lower leg Muscles/extensor_digitorum_longus_EDL.html",
+    "title": "Extensor Digitorum Longus (EHL)",
+    "section": "",
+    "text": "MMT\n“The EDL and the EDB muscles produce the motion of extension at the MTP and IP joints of the lateral four digits from a flexed position.”1\n\nApply resistance dorsal surface of the proximal and distal phalanges into toe flexion1\n\n\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. Fifth edition. McGraw Hill Education; 2020."
+  },
+  {
+    "objectID": "The Archive/Anatomy/Joints/LE Joints/talocrural_joint_TCJ.html#anterior-glide",
+    "href": "The Archive/Anatomy/Joints/LE Joints/talocrural_joint_TCJ.html#anterior-glide",
+    "title": "Talocrural Joint (TCJ)",
+    "section": "Anterior Glide",
+    "text": "Anterior Glide"
+  },
+  {
+    "objectID": "The Archive/Anatomy/Joints/LE Joints/talocrural_joint_TCJ.html#posterior-glide",
+    "href": "The Archive/Anatomy/Joints/LE Joints/talocrural_joint_TCJ.html#posterior-glide",
+    "title": "Talocrural Joint (TCJ)",
+    "section": "Posterior Glide",
+    "text": "Posterior Glide\n“To test the anterior glide of the talocrural joint, the clinician stabilizes the tibia and fibula and draws the talus and foot forward together (Fig. 21-32). Pushing the talus and foot together in a posterior direction on the tibia and fibula (Fig. 21-33) tests the posterior movement. The anterior glide of the talus assesses the joint’s ability to move into plantar flexion, whereas the posterior glide of the talus assesses the joint’s ability to move into dorsiflexion”"
+  },
+  {
+    "objectID": "The Archive/Anatomy/Joints/LE Joints/distal_tibiofibular_joint.html",
+    "href": "The Archive/Anatomy/Joints/LE Joints/distal_tibiofibular_joint.html",
+    "title": "Distal Tibiofibular Joint",
+    "section": "",
+    "text": "According to Dutton, during DF the tibia and fibula are thought to glide superiorly and separate slightly at the distal tibiofibular joint1. The amount of glide appears to be negligible, but some researchers theorize taht distal fibular dysfunction can lead to ankle inversion injuries1."
+  },
+  {
+    "objectID": "The Archive/Anatomy/Joints/LE Joints/distal_tibiofibular_joint.html#anterior-posterior-assessments",
+    "href": "The Archive/Anatomy/Joints/LE Joints/distal_tibiofibular_joint.html#anterior-posterior-assessments",
+    "title": "Distal Tibiofibular Joint",
+    "section": "Anterior & Posterior Assessments",
+    "text": "Anterior & Posterior Assessments\n\nPatient positioned in supine\nGrip the tibia and fibula using one hand for each\nTo assess the fibula, use one hand to prevent downward motion of the medial malleolus while the opposite hand glides the fibula anteriorly and posteriorly relative to the tibia1.\nTo assess the tibial component, one hand will stabilize the fibula and lateral malleolus, while the opposite hand glides the tibia anteriorly and posteriorly relative to the fibula."
+  },
+  {
+    "objectID": "The Archive/Anatomy/Joints/LE Joints/distal_tibiofibular_joint.html#superior-inferior-assessments",
+    "href": "The Archive/Anatomy/Joints/LE Joints/distal_tibiofibular_joint.html#superior-inferior-assessments",
+    "title": "Distal Tibiofibular Joint",
+    "section": "Superior & Inferior Assessments",
+    "text": "Superior & Inferior Assessments\nIn theory, one can assess the superior and inferior glide of the distal tibiofibular joint, but I do not currently have evidence for why this would be clinically relevant1"
+  },
+  {
+    "objectID": "The Archive/Anatomy/OIANs/Lower limb muscles/Lower leg Muscles/extensor_digitorum_brevis_EDB.html",
+    "href": "The Archive/Anatomy/OIANs/Lower limb muscles/Lower leg Muscles/extensor_digitorum_brevis_EDB.html",
+    "title": "Extensor Digitorum Brevis (EHB)",
+    "section": "",
+    "text": "MMT\n“The EDL and the EDB muscles produce the motion of extension at the MTP and IP joints of the lateral four digits from a flexed position.”1\n\nApply resistance dorsal surface of the proximal and distal phalanges into toe flexion1\n\n\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. Fifth edition. McGraw Hill Education; 2020."
+  },
+  {
+    "objectID": "The Archive/Anatomy/OIANs/Lower limb muscles/Lower leg Muscles/extensor_hallucis_brevis_EHB.html",
+    "href": "The Archive/Anatomy/OIANs/Lower limb muscles/Lower leg Muscles/extensor_hallucis_brevis_EHB.html",
+    "title": "Extensor Hallucis Brevis (EHB)",
+    "section": "",
+    "text": "MMT\n“The EHL and the EHB muscles produce the motion of extension of the IP and MTP joints. The foot is maintained in midposition. Resistance is applied to the posterior aspect of both phalanges of the first digit into toe flexion.”1\n\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. Fifth edition. McGraw Hill Education; 2020."
+  },
+  {
+    "objectID": "The Archive/Anatomy/OIANs/Lower limb muscles/Lower leg Muscles/flexor_digitorum_brevis_FDB.html",
+    "href": "The Archive/Anatomy/OIANs/Lower limb muscles/Lower leg Muscles/flexor_digitorum_brevis_FDB.html",
+    "title": "Flexor Digitorum Brevis (FDB)",
+    "section": "",
+    "text": "MMT\n“The FDL and brevis muscles produce IP joint flexion. The motion is tested with the foot in the anatomic position. If the gastrocnemius muscle is shortened, preventing the ankle from assuming the anatomic position, the knee is flexed. The toes may be tested simultaneously. The foot is held in the midposition, and the metatarsals are stabilized. Resistance is applied beneath the distal and proximal phalanges”1\n\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. Fifth edition. McGraw Hill Education; 2020."
+  },
+  {
+    "objectID": "The Archive/Anatomy/OIANs/Lower limb muscles/Lower leg Muscles/flexor_hallucis_brevis_FHB.html",
+    "href": "The Archive/Anatomy/OIANs/Lower limb muscles/Lower leg Muscles/flexor_hallucis_brevis_FHB.html",
+    "title": "Flexor Hallucis Brevis (FHB)",
+    "section": "",
+    "text": "MMT\n“The FHB VIDEO and FHL muscles VIDEO produce MTP joint flexion and IP joint flexion. The foot is maintained in midposition. The first metatarsal is stabilized, and resistance is applied beneath the proximal and distal phalanx of the great toe into toe extension.”1\n\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. Fifth edition. McGraw Hill Education; 2020."
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuroanatomy/Spinal Cord/spinal_cord.html#vertebral-bodies",
+    "href": "The Archive/Neuroscience/Neuroanatomy/Spinal Cord/spinal_cord.html#vertebral-bodies",
+    "title": "Spinal Cord",
+    "section": "Vertebral bodies",
+    "text": "Vertebral bodies\n\n\n\nSpinal Cord Cross section1\nRelationship between the spinal cord and nerve roots1"
+  },
+  {
+    "objectID": "The Archive/Pathophysiology/Metabolic Pathophysiology/vitamin_E_deficiency.html",
+    "href": "The Archive/Pathophysiology/Metabolic Pathophysiology/vitamin_E_deficiency.html",
+    "title": "Vitamin E Deficiency",
+    "section": "",
+    "text": "“A vitamin E deficiency could lead to hematological and neurological issues such as hemolytic anemia and demyelination of the dorsal column and the spinocerebellar tract. The neurological symptoms of vitamin E deficiency are similar to the neurological symptoms in vitamin B12 deficiency, but the difference is in the hematological symptoms. There is no evidence of increased serum methylmalonic acid, hypersegmented neutrophils, or megaloblastic anemia in vitamin E deficiency”1\n\n\n\n\nReferences\n\n1. Koh M, Markovich B. Neuroanatomy, Spinocerebellar Dorsal Tract. In: StatPearls. StatPearls Publishing; 2024. Accessed May 15, 2024. http://www.ncbi.nlm.nih.gov/books/NBK556013/"
+  },
+  {
+    "objectID": "The Archive/Physiology/Metabolism/metabolism.html",
+    "href": "The Archive/Physiology/Metabolism/metabolism.html",
+    "title": "Metabolism",
+    "section": "",
+    "text": "Neuroendocrine Control of Energy Stores (Williams Endocrinology Ch391)\nObesity (Williams Endocrinology Ch401)\nDisorders of Lipid Metabolism (Williams Endocrinology Ch411)\n\n\n\n\n\nReferences\n\n1. Melmed S, Auchus RJ, Goldfine AB, Koenig RJ, Rosen CJ, eds. Williams Textbook of Endocrinology. 14th edition. Elsevier; 2020.\n\nCitationBibTeX citation:@online{yomogida, spt,\n  author = {Yomogida, SPT, Nathaniel Giovanni and Kerstein, SPT, Chloë\n    Anne},\n  title = {Metabolism},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nYomogida, SPT N Giovanni, Kerstein, SPT C Anne.\nMetabolism."
+  },
+  {
+    "objectID": "The Archive/Physiology/Metabolism/Glucose Homeostasis/glucose_homeostasis.html",
+    "href": "The Archive/Physiology/Metabolism/Glucose Homeostasis/glucose_homeostasis.html",
+    "title": "Glucose Homeostasis",
+    "section": "",
+    "text": "Physiology of Insulin Secretion (Williams Endocrinology Ch331)\nHypoglycemia (Williams Endocrinology Ch381)\n\n\n\n\n\nReferences\n\n1. Melmed S, Auchus RJ, Goldfine AB, Koenig RJ, Rosen CJ, eds. Williams Textbook of Endocrinology. 14th edition. Elsevier; 2020.\n\nCitationBibTeX citation:@online{yomogida, spt,\n  author = {Yomogida, SPT, Nathaniel Giovanni and Kerstein, SPT, Chloë\n    Anne},\n  title = {Glucose {Homeostasis}},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nYomogida, SPT N Giovanni, Kerstein, SPT C Anne.\nGlucose Homeostasis."
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/SCI/Clinical Syndromes/brown-sequard_syndrome.html#dcml",
+    "href": "The Archive/Neuroscience/Neuropathology/SCI/Clinical Syndromes/brown-sequard_syndrome.html#dcml",
+    "title": "Brown-Sequard Syndrome",
+    "section": "DCML",
+    "text": "DCML\n\nDCML decussates above the SC, thus there will be loss or impairments in Proprioception, vibration sense, and deep touch ipsilateral to the lesion.\nDamage to the DCML results in ipsilateral loss of vibration and proprioception (joint position sense) below the level of the lesion2,3\n“Ipsilateral loss of proprioceptive function below the level of the lesion due to interruption of the ascending fibers in the posterior columns (dorsal funiculi). Tactile sensation may be normal or minimally decreased [115].”2."
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/SCI/Clinical Syndromes/brown-sequard_syndrome.html#spinothalamic-tracts",
+    "href": "The Archive/Neuroscience/Neuropathology/SCI/Clinical Syndromes/brown-sequard_syndrome.html#spinothalamic-tracts",
+    "title": "Brown-Sequard Syndrome",
+    "section": "Spinothalamic Tracts",
+    "text": "Spinothalamic Tracts\n\nDue to the anatomy of Lissauer’s Tract, Lateral and ventral spinothalamic tracts decussate 1-2 levels above their synapse at the SC so there usually is ipsilateral loss of pain and temp sensation 1-2 segments below the lesion and then contralateral loss of pain and temp 2+ levels below the lesionshamsBrownSequardSyndrome2024?\nLight touch is affected contralaterally"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/SCI/Clinical Syndromes/brown-sequard_syndrome.html#motor-symptoms",
+    "href": "The Archive/Neuroscience/Neuropathology/SCI/Clinical Syndromes/brown-sequard_syndrome.html#motor-symptoms",
+    "title": "Brown-Sequard Syndrome",
+    "section": "Motor Symptoms",
+    "text": "Motor Symptoms\n\nUMN lesion symptoms below lesion\n\nWeakness3\nI/L spasticity2\nHyperreflexia (including clonus)2\n\nI/L LMN lesion issues at level\nVoluntary motor control issues ipsilaterally, preserved contralaterally. (LCST decussates in the brain)\n\n“Segmental LMN (segmental weakness and atrophy) and sensory signs (segmental anesthesia) at the level of the lesion due to damage of the anterior horn cells and dorsal rootlets at this level”2"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/SCI/Clinical Syndromes/brown-sequard_syndrome.html#sensory-symptoms",
+    "href": "The Archive/Neuroscience/Neuropathology/SCI/Clinical Syndromes/brown-sequard_syndrome.html#sensory-symptoms",
+    "title": "Brown-Sequard Syndrome",
+    "section": "Sensory Symptoms",
+    "text": "Sensory Symptoms\n\nIpsilateral\n\nSensory Loss\n\nProprioception (DCML)2,3\nLight touch\nVibratory sense below the level of the lesion (DCML)2,3\n\n\n\nContralateral\n\nImpaired Pain sensation more than 2 levels below the lesion (Spinothalamic Tract)\nImpaired Temperature sensation more than 2 levels below the lesion (Spinothalamic Tract)\n\n\n\n\n\n\n\nNote\n\n\n\nThese symptoms will begin several dermatome segments below the level of injury4"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/SCI/Clinical Syndromes/brown-sequard_syndrome.html#other-functions",
+    "href": "The Archive/Neuroscience/Neuropathology/SCI/Clinical Syndromes/brown-sequard_syndrome.html#other-functions",
+    "title": "Brown-Sequard Syndrome",
+    "section": "Other Functions",
+    "text": "Other Functions\n“Ipsilateral loss of sweating caudal to the level of the lesion due to interruption of descending autonomic fibers in the ventral funiculus, and ipsilateral Horner syndrome, if the lesion is cervical, and ipsilateral hemidiaphragmatic paralysis due to damage of the upper motor neuron (UMN) pathways for breathing, if the lesion is high cervical”2."
+  },
+  {
+    "objectID": "The Archive/Chemistry/Biochemistry/Vitamins/vitamin_e.html",
+    "href": "The Archive/Chemistry/Biochemistry/Vitamins/vitamin_e.html",
+    "title": "Vitamin E",
+    "section": "",
+    "text": "CitationBibTeX citation:@online{yomogida, spt,\n  author = {Yomogida, SPT, Nathaniel Giovanni and Kerstein, SPT, Chloë\n    Anne},\n  title = {Vitamin {E}},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nYomogida, SPT N Giovanni, Kerstein, SPT C Anne.\nVitamin E."
+  },
+  {
+    "objectID": "The Archive/Chemistry/Biochemistry/Nutrients/coenzyme_Q10.html",
+    "href": "The Archive/Chemistry/Biochemistry/Nutrients/coenzyme_Q10.html",
+    "title": "Coenzyme Q10",
+    "section": "",
+    "text": "Sources\nBeef heart\n\n\n\n\nCitationBibTeX citation:@online{yomogida, spt,\n  author = {Yomogida, SPT, Nathaniel Giovanni and Kerstein, SPT, Chloë\n    Anne},\n  title = {Coenzyme {Q10}},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nYomogida, SPT N Giovanni, Kerstein, SPT C Anne.\nCoenzyme Q10."
+  },
+  {
+    "objectID": "The Archive/Chemistry/Biochemistry/Nutrients/choline.html",
+    "href": "The Archive/Chemistry/Biochemistry/Nutrients/choline.html",
+    "title": "Choline",
+    "section": "",
+    "text": "Significance\n\nAssociated with prevention of Alzheimer’s Disease\n\n\n\nDysfunction\n\nAnti-cholinergics can disurpt choline metabolism\n\n\n\nDietary Sources\n\nEggs\nLiver\n\n\n\n\n\nCitationBibTeX citation:@online{yomogida, spt,\n  author = {Yomogida, SPT, Nathaniel Giovanni and Kerstein, SPT, Chloë\n    Anne},\n  title = {Choline},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nYomogida, SPT N Giovanni, Kerstein, SPT C Anne.\nCholine."
+  },
+  {
+    "objectID": "The Archive/Chemistry/Biochemistry/Nutrients/phosphatidylserine.html",
+    "href": "The Archive/Chemistry/Biochemistry/Nutrients/phosphatidylserine.html",
+    "title": "Phosphatidylserine",
+    "section": "",
+    "text": "Function\n\nDecrease mental stress (based on 1990 article1 )\n\n\n\n\n\n\nReferences\n\n1. Monteleone P, Beinat L, Tanzillo C, Maj M, Kemali D. Effects of phosphatidylserine on the neuroendocrine response to physical stress in humans. Neuroendocrinology. 1990;52(3):243-248. doi:10.1159/000125593\n\nCitationBibTeX citation:@online{yomogida, spt,\n  author = {Yomogida, SPT, Nathaniel Giovanni and Kerstein, SPT, Chloë\n    Anne},\n  title = {Phosphatidylserine},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nYomogida, SPT N Giovanni, Kerstein, SPT C Anne.\nPhosphatidylserine."
+  },
+  {
+    "objectID": "The Archive/Interventions/Cryotherapy/cryotherapy_modality.html",
+    "href": "The Archive/Interventions/Cryotherapy/cryotherapy_modality.html",
+    "title": "Cryotherapy Modality",
+    "section": "",
+    "text": "“For these applications, very low temperatures are used, and cooling is generally applied directly to the tissue being treated. In rehabilitation, milder cooling is used to control inflammation, pain, and edema; to reduce spasticity; to control symptoms of multiple sclerosis; and to facilitate movement”1"
+  },
+  {
+    "objectID": "The Archive/Interventions/Cryotherapy/cryotherapy_modality.html#hemodynamic-effects",
+    "href": "The Archive/Interventions/Cryotherapy/cryotherapy_modality.html#hemodynamic-effects",
+    "title": "Cryotherapy Modality",
+    "section": "Hemodynamic Effects",
+    "text": "Hemodynamic Effects\n\nInitial Bloow Flow Decrease\nCold application results decreased blood flow due to vasoconstriction which can persist for up to 15-20 minutes1. Cold temperature directly causes vaosoconstriction by activating cutaneous cold receptors, which stimulate the smooth muscles in the blood vessels1. Indirectly, cold application indirectly cause vasoconstriction by decreasing the production and release of mediators of vasodilation (histamines, prostaglandins, etc) and cause reflexive activation of sympathetic adrenergic neurons which causes vasoconstriction1. Lastly, cold application is theorizied to increase blood viscocity, which increases resistance to flow, therefore decreasing circulatory rate1. The combination of direct vasoconstriction, vasodilator reduction, sympathetic adrenergic activation, and increase in blood viscosity all result in a reduction of blood flow1.\n\n\nLater Blood Flow Increase\nCold-Induced Vasodilation (CIVD) refers to vasodilation following exposure to cold for long periods of time or when tissue temperatures reach &lt;10°C (50°F)1."
+  },
+  {
+    "objectID": "The Archive/Interventions/Cryotherapy/cryotherapy_modality.html#neuromuscular-effects",
+    "href": "The Archive/Interventions/Cryotherapy/cryotherapy_modality.html#neuromuscular-effects",
+    "title": "Cryotherapy Modality",
+    "section": "Neuromuscular Effects",
+    "text": "Neuromuscular Effects"
+  },
+  {
+    "objectID": "The Archive/Interventions/Cryotherapy/cryotherapy_modality.html#metabolic-effects",
+    "href": "The Archive/Interventions/Cryotherapy/cryotherapy_modality.html#metabolic-effects",
+    "title": "Cryotherapy Modality",
+    "section": "Metabolic Effects",
+    "text": "Metabolic Effects"
+  },
+  {
+    "objectID": "The Archive/Physiology/Metabolism/Metabolic Pathology/Diabetes/diabetes_overview.html",
+    "href": "The Archive/Physiology/Metabolism/Metabolic Pathology/Diabetes/diabetes_overview.html",
+    "title": "Diabetes Overview",
+    "section": "",
+    "text": "Endocrine\n\nPathophysiology of Type 2 Diabetes Mellitus (Williams Endocrinology Ch341)\nTherapeutics of Type 2 Diabetes Mellitus (Williams Endocrinology Ch351)\nType 1 Diabetes Mellitus (Williams Endocrinology Ch361)\nComplications of Diabetes Mellitus (Williams Endocrinology Ch371)\n\n\n\n\n\n\nReferences\n\n1. Melmed S, Auchus RJ, Goldfine AB, Koenig RJ, Rosen CJ, eds. Williams Textbook of Endocrinology. 14th edition. Elsevier; 2020.\n\nCitationBibTeX citation:@online{yomogida, spt,\n  author = {Yomogida, SPT, Nathaniel Giovanni and Kerstein, SPT, Chloë\n    Anne},\n  title = {Diabetes {Overview}},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nYomogida, SPT N Giovanni, Kerstein, SPT C Anne.\nDiabetes Overview."
+  },
+  {
+    "objectID": "The Archive/Physiology/Metabolism/Mineral Metabolism/mineral_metabolism.html",
+    "href": "The Archive/Physiology/Metabolism/Mineral Metabolism/mineral_metabolism.html",
+    "title": "Mineral Metabolism",
+    "section": "",
+    "text": "Hormones and Disorders of Mineral Metabolism (Williams Endocrinology Ch291)\n\n\n\n\n\nReferences\n\n1. Melmed S, Auchus RJ, Goldfine AB, Koenig RJ, Rosen CJ, eds. Williams Textbook of Endocrinology. 14th edition. Elsevier; 2020.\n\nCitationBibTeX citation:@online{yomogida, spt,\n  author = {Yomogida, SPT, Nathaniel Giovanni and Kerstein, SPT, Chloë\n    Anne},\n  title = {Mineral {Metabolism}},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nYomogida, SPT N Giovanni, Kerstein, SPT C Anne.\nMineral Metabolism."
   }
 ]

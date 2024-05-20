@@ -14,18 +14,16 @@ author:
 - id: NGY
   number: 1
   name: 
-    given: Nathaniel 
-    family:  Yomogida, SPT
-    dropping-particle: Giovanni
+    given: Nathaniel
+    family: Yomogida
   custom_title: SPT
 - id: CAK
   number: 2
   name: 
     given: Chloë
-    family:  Kerstein, SPT
-    dropping-particle: Anne
+    family:  Kerstein
   custom_title: SPT
-
+publisher: Yomogida-Kerstein Laboratory
 
 website:
   favicon: "/images/icons8-brain-64.png"
@@ -43,6 +41,9 @@ website:
       - href: journal club index.qmd
         text: Journal Club
 
+citation:
+  type: post-weblog
+appendix-cite-as: display
 
 bibliography: The Archive/Bibliography/NGY CAK JVC Bibliography.bib
 csl: The Archive/Bibliography/american-medical-association.csl

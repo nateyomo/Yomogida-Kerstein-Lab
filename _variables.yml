@@ -825,6 +825,19 @@ ref-cardiac-dysfunction-management:
 
 # Chemistry
 # Biochemistry
+## Vitamins
+ref-vitamin-e:
+  path: "/The Archive/Chemistry/Biochemistry/Vitamins/vitamin_e.qmd"
+  deficiency: "/The Archive/Pathophysiology/Metabolic Pathophysiology/vitamin_E_deficiency.qmd"
+## Nutrients
+ref-coenzyme-q10:
+  path: "/The Archive/Physiology/Nutrients/coenzyme_Q10.qmd"
+ref-choline:
+  path: "/The Archive/Chemistry/Biochemistry/Nutrients/choline.qmd"
+ref-coenzyme-q10:
+  path: "/The Archive/Chemistry/Biochemistry/Nutrients/coenzyme_Q10.qmd"
+ref-phosphatidylserine:
+  path: "/The Archive/Chemistry/Biochemistry/Nutrients/phosphatidylserine.qmd"
 ## Enzymes
 ref-creatine-kinase:
   path: "/The Archive/Chemistry/Biochemistry/Enzymes/Creatine Kinase/creatine_kinase.qmd"
@@ -1276,14 +1289,7 @@ ref-tumor-necrosis-factor:
 ## Muscle
 
 ## Metabolic System
-### Vitamins
-ref-vitamin-e:
-  path: "/The Archive/Physiology/Metabolic system/Vitamins/vitamin_e.qmd"
-  deficiency: "/The Archive/Pathophysiology/Metabolic Pathophysiology/vitamin_E_deficiency.qmd"
 
-## Nutrients
-ref-coenzyme-q10:
-  path: "/The Archive/Physiology/Nutrients/coenzyme_Q10.qmd"
 
 ## Physiology of stress
 ref-oxidative-stress: 
@@ -1823,6 +1829,7 @@ ref-sensation:
   path: "/The Archive/Systems/Sensation/sensation_overview.qmd"
   vibratory: "/The Archive/Systems/Sensation/vibratory_sensation.qmd"
   deep-touch: "/The Archive/Systems/Sensation/deep_touch_sensation.qmd"
+  temperature: "/The Archive/Systems/Sensation/temperature_sensation.qmd"
 ## Movement systems
 ref-movement-system:
   path: "/The Archive/Systems/Movement/movement_system_overview.qmd"

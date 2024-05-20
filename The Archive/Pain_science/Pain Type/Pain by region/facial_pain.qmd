@@ -8,6 +8,9 @@ title: Facial Pain
 - Bonicas Ch67 Facial Pain @ballantyneBonicaManagementPain2019
 :::
 
+# Anatomy
+
+- [Trigeminothalamic tract]({{< var ref-trigeminothalamic-tract.path >}}) carries noxious temperature and pain sensations for the face @blumenfeldNeuroanatomyClinicalCases2022 
 
 
 # DDX
