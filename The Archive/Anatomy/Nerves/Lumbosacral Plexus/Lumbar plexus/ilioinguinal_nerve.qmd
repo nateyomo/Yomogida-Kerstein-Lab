@@ -7,8 +7,19 @@ title: Ilioinguinal Nerve
 
 # Pathway
 
+
+
+Passes thru inguinal canal
+
 # Motor innervation
+
+Muscles: TrA, int. Oblique (same as iliohypogastric)
 
 # Cutaneous Innervation
 
+Medial femoral triangle, pubic symphysis
+
 # Dysfunction
+
+
+Entrapment: possible at inguinal canal?
