@@ -16,30 +16,45 @@ author:
   name: 
     given: Nathaniel
     family: Yomogida
-  custom_title: SPT
+  affiliation:
+    - Doctor of Physical Therapy
+    - B.S. in Kinesiology
+  degrees:
+    - B.S.
+    - SPT
 - id: CAK
   number: 2
   name: 
     given: Chloë
-    family:  Kerstein
-  custom_title: SPT
+    family: Kerstein
+  affiliation:
+    - Doctor of Physical Therapy
+    - B.S. in Neuroscience
+    #- San Diego State University
+    #- Pomona College
+  degrees:
+    - B.S.
+    - SPT
 publisher: Yomogida-Kerstein Laboratory
 
 website:
   favicon: "/images/icons8-brain-64.png"
   page-navigation: true
   title: "YK Lab"
+  site-url: https://nateyomo.github.io/Yomogida-Kerstein-Lab
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
       - href: The Archive/archive_index.qmd
         text: Archive
       - href: guide.qmd
         text: Guide
       - href: journal club index.qmd
         text: Journal Club
+      - about.qmd
+      - href: contact.qmd
+        text: Contact
 
 citation:
   type: post-weblog

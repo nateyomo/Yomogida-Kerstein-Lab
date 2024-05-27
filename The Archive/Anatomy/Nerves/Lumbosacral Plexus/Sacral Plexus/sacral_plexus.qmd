@@ -1,0 +1,16 @@
+---
+title: Sacral Plexus
+---
+
+- [Superior Gluteal nerve]({{< var ref-superior-gluteal-nerve.path >}}) ({{< var ref-superior-gluteal-nerve.roots >}})
+- [Inferior Gluteal nerve]({{< var ref-inferior-gluteal-nerve.path >}}) ({{< var ref-inferior-gluteal-nerve.roots >}})
+- [Posterioro Cutaneous Nerve of the Thigh]({{< var ref-posterior-cutaneous-nerve-of-the-thigh.path >}}) ({{< var ref-posterior-cutaneous-nerve-of-the-thigh.roots >}})
+- [Pudendal nerve]({{< var ref-pudendal-nerve.path >}}) ({{< var ref-pudendal-nerve.roots >}})
+- [Sciatic nerve]({{< var ref-sciatic-nerve.path >}}) ({{< var ref-sciatic-nerve.roots >}})
+- [Common Fibular nerve]({{< var ref-common-fibular-nerve.path >}}) ({{< var ref-common-fibular-nerve.roots >}})
+- [Tibial nerve]({{< var ref-tibial-nerve.path >}}) ({{< var ref-tibial-nerve.roots >}})
+
+
+# Dysfunction
+
+"The sacral plexus arises from lower levels (L4–S4) of the spinal cord and supplies the perineum and, via the large sciatic nerve, the posterior thigh, entire leg and most of the foot" @gilroyAtlasAnatomy2020 

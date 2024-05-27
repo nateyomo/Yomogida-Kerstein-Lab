@@ -1,0 +1,21 @@
+---
+title: Iliacus Muscle
+---
+
+# OIAN
+
+:::{layout-ncol="4"}
+
+### Origin
+
+### Insertion
+
+
+### Innervation
+
+
+### Action
+
+:::
+
+# Overview

@@ -1,0 +1,26 @@
+---
+title: Piriformis Muscle
+---
+
+# OIAN
+
+:::{layout-ncol="4"}
+
+### Origin
+
+### Insertion
+
+
+### Innervation
+
+
+### Action
+
+:::
+
+# Overview
+
+
+# Pathologies
+
+- Piriformis Syndrome

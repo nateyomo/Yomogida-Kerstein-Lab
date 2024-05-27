@@ -1,0 +1,14 @@
+---
+title: Iliohypogastric Nerve
+---
+
+
+# Roots
+[L1]({{< var ref-nerve-root.l1 >}}) 
+# Pathway
+
+# Motor innervation
+
+# Cutaneous Innervation
+
+# Dysfunction

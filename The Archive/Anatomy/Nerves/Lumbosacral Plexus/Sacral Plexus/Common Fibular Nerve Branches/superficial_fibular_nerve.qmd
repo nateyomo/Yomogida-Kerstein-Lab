@@ -1,0 +1,20 @@
+---
+title: Superficial Fibular Nerve
+---
+
+
+# Roots
+
+# Pathway
+
+# Motor innervation
+
+- Fibularis brevis @gilroyAtlasAnatomy2020
+- Fibularis longus @gilroyAtlasAnatomy2020
+
+# Cutaneous Innervation
+
+- Medial dorsal cutaneous n. @gilroyAtlasAnatomy2020
+- Intermediate dorsal cutaneous n. @gilroyAtlasAnatomy2020
+
+# Dysfunction

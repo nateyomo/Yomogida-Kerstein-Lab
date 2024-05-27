@@ -1,0 +1,26 @@
+---
+title: Deep Fibualr Nerve
+---
+
+
+# Roots
+
+# Pathway
+
+# Motor innervation
+
+- Tibialis anterior @gilroyAtlasAnatomy2020
+- Extensors digitorum brevis @gilroyAtlasAnatomy2020
+- Extensors digitorum longus @gilroyAtlasAnatomy2020
+- Extensors hallucis brevis @gilroyAtlasAnatomy2020
+- Extensors hallucis Longus @gilroyAtlasAnatomy2020
+- Fibularis tertius @gilroyAtlasAnatomy2020
+
+# Cutaneous Innervation
+
+Sensory branches:
+
+- Lateral cutaneous n. of big toe @gilroyAtlasAnatomy2020
+- Medial cutaneous n. of 2nd toe @gilroyAtlasAnatomy2020
+
+# Dysfunction

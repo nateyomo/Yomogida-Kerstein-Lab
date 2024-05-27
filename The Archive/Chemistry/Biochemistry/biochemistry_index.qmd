@@ -15,6 +15,6 @@ title: Index of Biochemistry
 - Carbon–Metal Bonds, Chelating Agents and Coordination Complexes (Smith Ch10 @smithBiochemistryOrganicChemistry2020)
 - Amino Acids (Smith Ch11 @smithBiochemistryOrganicChemistry2020)
 - Peptides and Proteins (Smith Ch12 @smithBiochemistryOrganicChemistry2020)
-- Carbohydrates (Smith Ch13 @smithBiochemistryOrganicChemistry2020)
+
 - Glycosides (Smith Ch14 @smithBiochemistryOrganicChemistry2020)
 - Nucleic Acids, Nucleosides and Nucleotides (Smith Ch15 @smithBiochemistryOrganicChemistry2020)

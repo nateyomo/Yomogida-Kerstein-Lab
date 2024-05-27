@@ -1,0 +1,23 @@
+---
+title: Psoas Minor Muscle
+---
+
+# OIAN
+
+:::{layout-ncol="4"}
+
+### Origin
+
+### Insertion
+
+
+### Innervation
+
+
+### Action
+
+:::
+
+# Overview
+
+Found in only 50% of the population @gilroyAtlasAnatomy2020 

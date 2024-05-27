@@ -1,0 +1,29 @@
+---
+title: Tibial Nerve
+---
+
+
+# Roots
+
+# Pathway
+
+# Branches
+
+# Motor innervation
+
+- Triceps surae @gilroyAtlasAnatomy2020
+    - Gastrocnemius @gilroyAtlasAnatomy2020
+    - Soleus @gilroyAtlasAnatomy2020
+- Plantaris @gilroyAtlasAnatomy2020
+- Popliteus @gilroyAtlasAnatomy2020
+- Tibialis posterior @gilroyAtlasAnatomy2020
+- Flexor digitorum longus @gilroyAtlasAnatomy2020
+- Flexor hallucis longus @gilroyAtlasAnatomy2020
+
+# Cutaneous Innervation
+
+- Medial sural cutaneous n. @gilroyAtlasAnatomy2020
+- Medial and lateral calcaneal brs. @gilroyAtlasAnatomy2020 
+- Lateral dorsal cutaneous n. @gilroyAtlasAnatomy2020
+
+# Dysfunction

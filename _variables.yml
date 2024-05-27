@@ -658,8 +658,83 @@ ref-subclavius:
   action: "Steadies the clavicle in the sternoclavicular joint"
 
 ### Lower Extremity muscles
-#### Gluteal muscles
+### Iliopsoas muscles
+ref-iliopsoas-muscle-group:
+  path: "/"
+ref-iliacus:
+  path: "/The Archive/Anatomy/OIANs/Lower limb muscles/Iliopsoas muscles/iliacus_muscle.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-psoas-major:
+  path: "/The Archive/Anatomy/OIANs/Lower limb muscles/Iliopsoas muscles/psoas_major_muscle.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-psoas-minor:
+  path: "/The Archive/Anatomy/OIANs/Lower limb muscles/Iliopsoas muscles/psoas_minor_muscle.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
 
+#### Gluteal muscles
+ref-gluteus-maximus:
+  path: "/The Archive/Anatomy/OIANs/Lower limb muscles/Gluteal Muscles/gluteus_maximus_muscle.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-gluteus-medius:
+  path: "/The Archive/Anatomy/OIANs/Lower limb muscles/Gluteal Muscles/gluteus_medius.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-gluteus-minimus:
+  path: "/The Archive/Anatomy/OIANs/Lower limb muscles/Gluteal Muscles/gluteus_minimus.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-tensor-fascia-latae:
+  path: "/The Archive/Anatomy/OIANs/Lower limb muscles/Gluteal Muscles/tensor_fascia_latae.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-piriformis:
+  path: "/The Archive/Anatomy/OIANs/Lower limb muscles/Gluteal Muscles/piriformis_muscle.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-obturator-internus:
+  path: "/The Archive/Anatomy/OIANs/Lower limb muscles/Gluteal Muscles/obturator_internus_muscle.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-superior-gemellus:
+  path: "/The Archive/Anatomy/OIANs/Lower limb muscles/Gluteal Muscles/superior_gemellus_muscle.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-inferior-gemellus:
+  path: "/The Archive/Anatomy/OIANs/Lower limb muscles/Gluteal Muscles/inferior_gemellus_muscle.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-quadratus-femoris:
+  path: "/The Archive/Anatomy/OIANs/Lower limb muscles/Gluteal Muscles/quadratus_femoris_muscle.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
 #### Thigh
 ref-quadricep:
   path: "/The Archive/Anatomy/OIANs/Lower limb muscles/Quadriceps/quadriceps_muscle_group.qmd"
@@ -791,9 +866,64 @@ ref-ulnar-nerve:
   roots: "[C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})"
 ### Lower Extremity Nerve
 ref-lumbosacral-plexus:
-  path: "/The Archive/Anatomy/Nerves/Lumbar plexus/lumbosacral_plexus.qmd"
+  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/lumbosacral_plexus.qmd"
+#### Lumbar Plexus
+ref-lumbar-plexus:
+  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Lumbar plexus/lumbar_plexus.qmd"
 ref-femoral-nerve:
-  path: "/The Archive/Anatomy/Nerves/Lumbar plexus/femoral_nerve.qmd"
+  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Lumbar plexus/femoral_nerve.qmd"
+  roots: "[L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}), [L4]({{< var ref-nerve-root.l4 >}})"
+ref-genitofemoral-nerve:
+  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Lumbar plexus/genitofemoral_nerve.qmd"
+  roots: "[L1]({{< var ref-nerve-root.l1 >}}), [L2]({{< var ref-nerve-root.l2 >}})"
+ref-iliohypogastric-nerve:
+  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Lumbar plexus/iliohypograstric_nerve.qmd"
+  roots: "[L1]({{< var ref-nerve-root.l1 >}})"
+ref-ilioinguinal-nerve:
+  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Lumbar plexus/ilioinguinal_nerve.qmd"
+  roots: "[L1]({{< var ref-nerve-root.l1 >}})"
+ref-lateral-cutaneous-nerve-of-thigh:
+  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Lumbar plexus/lateral_cutaneous_nerve_of_the_thigh.qmd"
+  roots: "[L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}})"
+ref-obturator-nerve:
+  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Lumbar plexus/obturator_nerve.qmd"
+  roots: "[L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}), [L4]({{< var ref-nerve-root.l4 >}})"
+#### Sacral Plexus
+ref-sacral-plexus:
+  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Sacral Plexus/sacral_plexus.qmd"
+ref-superior-gluteal-nerve:
+  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Sacral Plexus/superior_gluteal_nerve.qmd"
+  roots: "[L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}})"
+ref-inferior-gluteal-nerve:
+  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Sacral Plexus/inferior_gluteal_nerve.qmd"
+  roots: "[L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})"
+ref-posterior-cutaneous-nerve-of-the-thigh:
+  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Sacral Plexus/posterior_cutaneous_nerve_of_the_thigh.qmd"
+  roots: ""
+ref-pudendal-nerve:
+  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Sacral Plexus/pudendal_nerve.qmd"
+  roots: "[S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}}), [S4]({{< var ref-nerve-root.s4 >}})"
+ref-sciatic-nerve:
+  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Sacral Plexus/sciatic_nerve.qmd"
+  roots: ""
+ref-common-fibular-nerve:
+  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Sacral Plexus/common_fibular_nerve.qmd"
+  roots: "[L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})"
+ref-tibial-nerve:
+  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Sacral Plexus/tibial_nerve.qmd"
+  roots: "[L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}})"
+ref-superficial-fibular-nerve:
+  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Sacral Plexus/superficial_fibular_nerve.qmd"
+  roots: ""
+ref-deep-fibular-nerve:
+  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Sacral Plexus/deep_fibular_nerve.qmd"
+  roots: ""
+ref-lateral-plantar-nerve:
+  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Sacral Plexus/Tibial Nerve Branches/lateral_plantar_nerve.qmd"
+  roots: ""
+ref-medial-plantar-nerve:
+  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Sacral Plexus/Tibial Nerve Branches/medial_plantar_nerve.qmd"
+  roots: ""
 
 
 
@@ -825,6 +955,10 @@ ref-cardiac-dysfunction-management:
 
 # Chemistry
 # Biochemistry
+## Carbohydrate
+ref-carbohydrate:
+  path: "/The Archive/Chemistry/Biochemistry/Carbohydrates/carbohydrates.qmd"
+  metabolism: "/The Archive/Physiology/Metabolism/Carbohydrate Metabolism/carbohydrate_metabolism.qmd"
 ## Vitamins
 ref-vitamin-e:
   path: "/The Archive/Chemistry/Biochemistry/Vitamins/vitamin_e.qmd"
@@ -839,6 +973,8 @@ ref-coenzyme-q10:
 ref-phosphatidylserine:
   path: "/The Archive/Chemistry/Biochemistry/Nutrients/phosphatidylserine.qmd"
 ## Enzymes
+ref-enzyme:
+  path: "/The Archive/Chemistry/Biochemistry/Enzymes/enzyme.qmd"
 ref-creatine-kinase:
   path: "/The Archive/Chemistry/Biochemistry/Enzymes/Creatine Kinase/creatine_kinase.qmd"
   mb:
@@ -849,12 +985,18 @@ ref-CuZnSOD-copper-zinc-superoxide-dismutase:
   path: "/The Archive/Chemistry/Biochemistry/Enzymes/CuZnSOD_copper-zinc_superoxide_dismutase.qmd"
 ref-diamine-oxidase:
   path: "/The Archive/Chemistry/Biochemistry/Enzymes/diamine_oxidase.qmd"
+## Lipids
+ref-lipid:
+  path: "/The Archive/Chemistry/Biochemistry/Lipids/lipid.qmd"
+  metabolism: "/The Archive/Physiology/Metabolism/Lipid Metabolism/lipid_metabolism.qmd"
 ## Minerals
 ref-copper: 
   path: "/The Archive/Chemistry/Biochemistry/Minerals/copper.qmd"
 ref-iron:
   path: "/The Archive/Chemistry/Biochemistry/Minerals/iron.qmd"
 ## Proteins
+ref-protein:
+  path: "/The Archive/Chemistry/Biochemistry/Proteins/protein.qmd"
 ref-von-willebrand-factor:
   path: "/The Archive/Chemistry/Biochemistry/Proteins/Von_Willebrand_factor.qmd"
 ref-vascular-endothelial-growth-factor:
@@ -893,7 +1035,9 @@ ref-neurotrophic-hormone-deficiency-theory:
   path: "/The Archive/Chemistry/Biochemistry/Neutrotrophic Factors/neurotrophic-hormone-deficiency-theory.qmd"
 
 # Organic Chemistry
-
+ref-organic-chemistry:
+  path: "/"
+  index: "/The Archive/Chemistry/Organic Chemistry/organic_chemistry_index.qmd"
 
 # Endocrinology
 ## Hormones
@@ -1289,6 +1433,19 @@ ref-tumor-necrosis-factor:
 ## Muscle
 
 ## Metabolic System
+ref-glycolysis:
+  path: "/"
+ref-glucose:
+  path: "/"
+  glycogenesis: "/The Archive/Physiology/Metabolism/Carbohydrate Metabolism/glycogenesis.qmd"
+  gluconeogenesis: "/"
+  glycolysis: "/The Archive/Physiology/Metabolism/Carbohydrate Metabolism/glycolysis.qmd"
+ref-glycogen:
+  path: "/"
+  glycogenolysis: "/"
+ref-pentose-phosphate-pathway:
+  path: "/The Archive/Physiology/Metabolism/Carbohydrate Metabolism/pentose_phosphate_pathway_PPP.qmd"
+
 
 
 ## Physiology of stress

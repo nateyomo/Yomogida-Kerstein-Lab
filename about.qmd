@@ -1,5 +1,6 @@
 ---
 title: "About"
+citation: false
 ---
 
 :::{layout-ncol="2"}
@@ -10,6 +11,6 @@ Founder and Editor
 
 # Chloë Kerstein, SPT
 
-Head Researcher
+Founder and Head Researcher
 
 :::

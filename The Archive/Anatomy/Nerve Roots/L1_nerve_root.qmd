@@ -1,3 +1,15 @@
 ---
 title: L1 Nerve Root (L1)
 ---
+
+
+
+# Supply
+
+
+
+- [Iliohypogastric Nerve]({{< var ref-iliohypogastric-nerve.path >}}) ({{< var ref-iliohypogastric-nerve.roots >}})
+- [Ilioinguinal Nerve]({{< var ref-ilioinguinal-nerve.path >}}) ({{< var ref-ilioinguinal-nerve.roots >}})
+- [Genitofemoral Nerve]({{< var ref-genitofemoral-nerve.path >}}) ({{< var ref-genitofemoral-nerve.roots >}})
+
+

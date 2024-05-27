@@ -1,0 +1,25 @@
+---
+title: Medial Plantar Nerve
+---
+
+
+# Roots
+
+# Pathway
+
+# Branches
+
+# Motor innervation
+
+- Adductor hallucis @gilroyAtlasAnatomy2020 
+- Flexor digitorum brevis @gilroyAtlasAnatomy2020
+- Flexor hallucis brevis (medial head) @gilroyAtlasAnatomy2020 
+- 1st lumbricals @gilroyAtlasAnatomy2020
+
+
+# Cutaneous Innervation
+
+- Proper plantar digital nn. @gilroyAtlasAnatomy2020
+
+
+# Dysfunction
