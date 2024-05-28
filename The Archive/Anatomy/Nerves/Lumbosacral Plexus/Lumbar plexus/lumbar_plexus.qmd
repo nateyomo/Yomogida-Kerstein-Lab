@@ -5,7 +5,7 @@ title: Lumbar Plexus
 - [Femoral Nerve]({{< var ref-femoral-nerve.path >}}) ({{< var ref-femoral-nerve.roots >}})
 - [Iliohypogastric Nerve]({{< var ref-iliohypogastric-nerve.path >}}) ({{< var ref-iliohypogastric-nerve.roots >}})
 - [Ilioinguinal Nerve]({{< var ref-ilioinguinal-nerve.path >}}) ({{< var ref-ilioinguinal-nerve.roots >}})
-- [Lateral Cutaneous Nerve of the Thigh]({{< var ref-lateral-cutaneous-nerve-of-the-thigh.path >}}) ({{< var ref-lateral-cutaneous-nerve-of-the-thigh.roots >}})
+- [Lateral Cutaneous Nerve of the Thigh]({{< var ref-lateral-cutaneous-nerve-of-thigh.path >}}) ({{< var ref-lateral-cutaneous-nerve-of-thigh.roots >}})
 - [Obturator Nerve]({{< var ref-obturator-nerve.path >}}) ({{< var ref-obturator-nerve.roots >}})
 
 
