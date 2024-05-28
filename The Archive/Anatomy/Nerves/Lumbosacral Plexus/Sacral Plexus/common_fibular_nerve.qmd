@@ -1,9 +1,12 @@
 ---
-title: Common Fibular Nerve
+title: Common Fibular Nerve (L4-S2)
 ---
 
 
 # Roots
+
+[L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}) @gilroyAtlasAnatomy2020 
+
 
 # Pathway
 
@@ -17,7 +20,10 @@ Bicep femoris (short head) @gilroyAtlasAnatomy2020
 
 ![Common Fibular Nerve Cutaneous Distribution @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Sacral Plexus/images/Gilroyatlas fig34.22 common fibular nerve cutaneous distribution.png)
 
-There is no direct cutaneous innervation from the common fibular nerve, but there is indirect cutaneous innervation through its branches @gilroyAtlasAnatomy2020. 
+- There is no direct cutaneous innervation from the common fibular nerve, but there is indirect cutaneous innervation through its branches @gilroyAtlasAnatomy2020. 
+    - Sural nerve (shared common fib and tibial)
 
 
 # Dysfunction
+ 
+Injury= foot drop 

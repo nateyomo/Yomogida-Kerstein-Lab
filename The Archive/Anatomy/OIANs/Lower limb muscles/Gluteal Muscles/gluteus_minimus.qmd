@@ -12,7 +12,7 @@ Ilium (gluteal surface below the origin of gluteus medius) @gilroyAtlasAnatomy20
 
 ### Insertion
 
-Greater trochanter of the femur (anterolateral surface)
+Greater trochanter of the femur (anterolateral surface) @gilroyAtlasAnatomy2020
 
 
 ### Innervation
@@ -22,9 +22,10 @@ The gluteus maximus muscle is innervated by nerve roots [L4]({{< var ref-nerve-r
 ### Action
 
 - Entire muscle: abducts the hip, stabilizes the pelvis in the coronal plane @gilroyAtlasAnatomy2020
-- Anterior part: flexion and internal rotation @gilroyAtlasAnatomy2020 
-- Posterior part: extension and external rotation @gilroyAtlasAnatomy2020 
+- Anterior fibers: flexion and internal rotation @gilroyAtlasAnatomy2020 
+- Posterior fibers: extension and external rotation @gilroyAtlasAnatomy2020 
 
 :::
+
 
 # Overview

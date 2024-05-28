@@ -2,16 +2,41 @@
 title: Femoral Nerve
 ---
 
+::: {.columns}
+
+::: {.column}
+![Femoral nerve (right leg, anterior view) @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Lumbar plexus/images/gilroyatlas fig34.16 Femoral nerve right side anterior view.png)
+:::
+::: {.column}
+![Femoral nerve (right leg, anterior view) @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Lumbar plexus/images/gilroyatlas fig34.16 Femoral nerve right side anterior view.png)
+:::
+
+:::
+
+
+![Femoral nerve (right leg, anterior view) @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Lumbar plexus/images/gilroyatlas fig34.16 Femoral nerve right side anterior view.png)
 
 # Roots
 
+- [L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}), [L4]({{< var ref-nerve-root.l4 >}}) @gilroyAtlasAnatomy2020
+
 # Pathway
 
+- 4 cm below inguinal lig femoral nerve divides into anterior and post division
+- Anterior: mm branches to sartorius and pectineus if not already from above, and innervation to skin from med femoral cutaneous and intermediate cutaneous nerves of the thigh
+- Posterior division: mm branches to quads and saphenous nerve
+- Terminal cutaneous branch of the femoral nerve is the saphenous nerve
+- Travels thru adductor canal , exits prior to add hiatus
+
+
 # Motor innervation
+
+Iliopsoas Pectineus Sartorius Quadriceps femoris @gilroyAtlasAnatomy2020 
 
 # Cutaneous Innervation
 
 # Dysfunction
 
-Femoral Nerve "may be compromised by herniation of intervertebral disks at L4 or L5 as they pass through the intervertebral foramina" @gilroyAtlasAnatomy2020 
+- Femoral Nerve "may be compromised by herniation of intervertebral disks at L4 or L5 as they pass through the intervertebral foramina" @gilroyAtlasAnatomy2020 
+- Entrapment : rare but possible at inguinal ligament or adductor canal??
 

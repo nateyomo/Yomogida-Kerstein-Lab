@@ -191,6 +191,10 @@ ref-patellar-tendon:
 ## Ligaments
 ref-index-ligaments:
   path: "/The Archive/Anatomy/Ligaments/index_ligaments.qmd"
+### LE Ligaments
+### Hip ligaments
+ref-sacrotuberous-ligament:
+  path: "/The Archive/Anatomy/Ligaments/Hip Ligaments/sacrotuberous_ligament.qmd"
 ### Knee ligaments
 ref-knee-ligaments:
   path: "/The Archive/Anatomy/Ligaments/Knee ligaments/knee_ligaments.qmd"
@@ -683,9 +687,9 @@ ref-psoas-minor:
 #### Gluteal muscles
 ref-gluteus-maximus:
   path: "/The Archive/Anatomy/OIANs/Lower limb muscles/Gluteal Muscles/gluteus_maximus_muscle.qmd"
-  origin: ""
-  insertion: ""
-  nerve: ""
+  origin: "Sacrum (dorsal surface, lateral part) <br/> Ilium (gluteal surface, posterior part) <br/> Thoracolumbar fascia <br/> [Sacrotuberous lig.]({{< var ref-sacrotuberous-ligament.path >}})"
+  insertion: "**Upper fibers**: iliotibial tract <br/> **Lower fibers**: gluteal tuberosity "
+  nerve: "[Inferior gluteal nerve]({{< var ref-inferior-gluteal-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}))"
   action: ""
 ref-gluteus-medius:
   path: "/The Archive/Anatomy/OIANs/Lower limb muscles/Gluteal Muscles/gluteus_medius.qmd"
@@ -700,29 +704,29 @@ ref-gluteus-minimus:
   nerve: ""
   action: ""
 ref-tensor-fascia-latae:
-  path: "/The Archive/Anatomy/OIANs/Lower limb muscles/Gluteal Muscles/tensor_fascia_latae.qmd"
-  origin: ""
-  insertion: ""
+  path: "/The Archive/Anatomy/OIANs/Lower limb muscles/Gluteal Muscles/tensor_fascia_latae_TFL.qmd"
+  origin: "Anterior surface of sacrum"
+  insertion: "Apex of the greater trochanter of the femur"
   nerve: ""
   action: ""
 ref-piriformis:
   path: "/The Archive/Anatomy/OIANs/Lower limb muscles/Gluteal Muscles/piriformis_muscle.qmd"
-  origin: ""
-  insertion: ""
-  nerve: ""
-  action: ""
+  origin: "Anterior surface of sacrum"
+  insertion: "Apex of the greater trochanter of the femur"
+  nerve: "Direct branches from sacral plexus [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})"
+  action: "*Hip*: External rotation, abduction, and extension of the hip joint </br> Stabilizes the hip joint"
 ref-obturator-internus:
   path: "/The Archive/Anatomy/OIANs/Lower limb muscles/Gluteal Muscles/obturator_internus_muscle.qmd"
-  origin: ""
-  insertion: ""
-  nerve: ""
+  origin: "Inner surface of the obturator membrane and its bony boundaries "
+  insertion: "Medial surface of the greater trochanter"
+  nerve: "Sacral plexus ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}))"
   action: ""
 ref-superior-gemellus:
   path: "/The Archive/Anatomy/OIANs/Lower limb muscles/Gluteal Muscles/superior_gemellus_muscle.qmd"
-  origin: ""
-  insertion: ""
-  nerve: ""
-  action: ""
+  origin: "Ischial spine"
+  insertion: "Jointly with obturator internus tendon (medial surface, greater trochanter)"
+  nerve: "Nerve to obturator internus ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}})) "
+  action: "**Hip** External rotation and extension </br> (also active in abduction, depending on the joint’s position)"
 ref-inferior-gemellus:
   path: "/The Archive/Anatomy/OIANs/Lower limb muscles/Gluteal Muscles/inferior_gemellus_muscle.qmd"
   origin: ""

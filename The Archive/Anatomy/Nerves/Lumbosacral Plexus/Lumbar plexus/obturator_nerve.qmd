@@ -9,15 +9,43 @@ Readings
 
 :::
 
+![Cutaneous Distribtion of the obturator nerve (Right leg, medial view) @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Lumbar plexus/images/gilroyatlas fig34.14 Obturator nerve Cutaneous distribution.png)
+![Obturator nerve (Right leg, anterior view) @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Lumbar plexus/images/gilroyatlas fig34.15 Obturator nerve right side anterior view.png)
+
 # Roots
+
+[L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}), [L4]({{< var ref-nerve-root.l4 >}})
 
 # Pathway
 
+- Through psoas major, enters medial thigh via obturator canal
+- Sends motor branches to obturator externus before dividing into an anterior and posterior branch, both of which are separated by adductor brevis
+- Descends between adductor longus and brevis towards femoral artery
+- Pierces fascia lata to become cutaneous branch of obturator nerve to supply skin on medial distal part of thigh 
+- Posterior division: Passess behind Obturator Externus muscles and travels anteriorly to partially innervate adductor magnus @gilroyAtlasAnatomy2020 
+
 # Motor innervation
 
+:::{layout-ncol="3"}
+### Direct branch
+
+- Obturator externus @gilroyAtlasAnatomy2020
+
+### Anterior division
+
+- Adductor Longus @gilroyAtlasAnatomy2020
+- Adductor Brevis @gilroyAtlasAnatomy2020
+- Gracilis @gilroyAtlasAnatomy2020
+- Pectineus (in some cases) @gilroyAtlasAnatomy2020
+
+### Posterior Branch
+
+- Adductor magnus (partial innervation) @gilroyAtlasAnatomy2020
+
 # Cutaneous Innervation
+
+![Cutaneous Distribtion of the obturator nerve (Right leg, medial view) @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Lumbar plexus/images/gilroyatlas fig34.14 Obturator nerve Cutaneous distribution.png)
 
 # Dysfunction
 
 "Obturator Nerve that may be compromised by herniation of intervertebral disks at L4 or L5 as they pass through the intervertebral foramina" @gilroyAtlasAnatomy2020 
-

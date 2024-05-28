@@ -1,0 +1,18 @@
+---
+title: Nerve to Piriformis
+---
+
+
+# Roots
+
+[S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}) @gilroyAtlasAnatomy2020
+
+# Pathway
+
+
+
+# Motor innervation
+
+# Cutaneous Innervation
+
+# Dysfunction 

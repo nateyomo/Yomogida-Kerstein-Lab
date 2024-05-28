@@ -7,3 +7,5 @@ title: Nitrate (NO~3~^-^)
 - Nitrates/Nitrites in Food-Risk for Nitrosative Stress and Benefits @karwowskaNitratesNitritesFoodRisk2020 
 - Effects of vegetable powders as nitrite alternative in Italian dry fermented sausage @pennisiEffectsVegetablePowders2020
 :::
+
+

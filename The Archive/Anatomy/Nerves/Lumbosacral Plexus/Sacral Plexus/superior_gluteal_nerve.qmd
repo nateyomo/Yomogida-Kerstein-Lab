@@ -5,10 +5,18 @@ title: Superior Gluteal Nerve
 
 # Roots
 
+[L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}) @gilroyAtlasAnatomy2020 
+
 # Pathway
 
 # Motor innervation
 
+Glute med, min
+TFL
+
+
+
 # Cutaneous Innervation
+Cutaneous: NONE
 
 # Dysfunction

@@ -2,6 +2,12 @@
 title: Musculoskeletal Approach to the Hip
 ---
 
+# Maximal Torque Produced by the hip muscles
+
+“Normative data on the maximal­effort torque production of the hip muscles may be useful for assessing progress and setting of goals for persons involved in rehabilitation and training programs. Fig. 12.48 depicts the average, maximal internal torque produced by a sample of healthy males.34 It is interesting to observe the ranking of the peak torques across the three planes of motion. The greatest torque is produced in the sagittal plane, with exten­ sion torque slightly exceeding flexion torque. The predominant strength of the hip extensors compared with all other muscle groups is not surprising: these muscles must lift or propel the body upward (and often forward) against gravity or control the descent of the body. The relatively high strength of the hip flexor muscles reflects the need to rapidly accelerate the lower limb during running, in addition to controlling the entire trunk and pelvis relative to fixed lower extremities. Consider in the latter case the physically powerful iliopsoas, for example—a muscle that likely accounts for a significant proportion of the flexion torque poten­ tial at the hip. The adductor and abductor muscles generate similar magni­ tudes of peak torque within the frontal plane, but of lower com­ bined magnitude than the flexor and extensor muscles.34,226 The internal and external rotator muscles produce the least magnitude of torque of all muscle groups of the hip. Such a ranking is likely due to the fact that, in the upright position, these muscles produce a rotary torque between the femur and pelvis in a plane that does not typically oppose the force of gravity.” @neumannKinesiologyMusculoskeletalSystem2017 
+
+
+
 
 # Lumbopelvic Movement
 

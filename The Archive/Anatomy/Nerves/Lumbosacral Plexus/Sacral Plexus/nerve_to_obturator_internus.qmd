@@ -1,0 +1,21 @@
+---
+title: Nerve to Obturator Internus
+---
+
+
+# Roots
+
+[L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}) @gilroyAtlasAnatomy2020
+
+# Pathway
+
+
+
+# Motor innervation
+
+Obturator internus @gilroyAtlasAnatomy2020
+Gemelli @gilroyAtlasAnatomy2020
+
+# Cutaneous Innervation
+
+# Dysfunction 

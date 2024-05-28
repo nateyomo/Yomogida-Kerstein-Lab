@@ -1,0 +1,27 @@
+---
+title: Pudendal Nerve (S2-S4)
+---
+
+# Roots
+
+[S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}}), [S4]({{< var ref-nerve-root.s4 >}}) @gilroyAtlasAnatomy2020
+
+# Pathway
+
+- Thru alcocks canal
+- Post/med to ant lateral:
+- NAVN
+    - Pudendal Nerve
+    - Internal pudendal Artery and then Vein
+    - Nerve to obt internus 
+
+
+# Motor innervation
+
+## Direct Branches
+
+
+
+# Cutaneous Innervation
+
+# Dysfunction

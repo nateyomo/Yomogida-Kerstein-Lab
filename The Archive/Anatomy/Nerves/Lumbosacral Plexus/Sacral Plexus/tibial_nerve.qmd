@@ -9,6 +9,10 @@ title: Tibial Nerve
 
 # Branches
 
+- Medial plantar
+- Lateral plantar
+- Sural (shared common fib and tibial) 
+
 # Motor innervation
 
 - Triceps surae @gilroyAtlasAnatomy2020
@@ -27,3 +31,5 @@ title: Tibial Nerve
 - Lateral dorsal cutaneous n. @gilroyAtlasAnatomy2020
 
 # Dysfunction
+
+Entrapment: tarsal tunnel 
