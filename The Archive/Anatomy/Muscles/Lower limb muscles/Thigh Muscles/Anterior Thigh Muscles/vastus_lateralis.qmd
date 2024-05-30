@@ -1,0 +1,47 @@
+---
+title: Vastus Lateralis (VL)
+---
+
+
+:::{layout-ncol="3"}
+
+![Schematic of Anterior Thigh Muscles @gilroyAtlasAnatomy2020 </br> 1: Sartorius </br> 2: Rectus Femoris </br> 3: Vastus Medialis </br> 4: Vastus Lateralis </br> Vastus Intermedius](/The Archive/Anatomy/Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/images/gilroyatlas fig31.24a anterior thigh muscles schematic.png)
+
+
+![Deep Layer of Anterior Thigh Muscle @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/images/gilroyatlas fig31.24c anterior thigh muscles deep layer.png)
+
+:::
+
+# OIAN
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Vastus Lateralis]({{< var ref-vastus-lateralis.path >}}) | {{< var ref-vastus-lateralis.origin >}} | {{< var ref-vastus-lateralis.insertion >}} | {{< var ref-vastus-lateralis.nerve >}} | {{< var ref-vastus-lateralis.action >}} |
+: {.striped .hover}
+
+:::{layout-ncol="2"}
+
+### Origin
+
+- Linea aspera (lateral lip) @gilroyAtlasAnatomy2020
+- Greater trochanter (lateral surface) @gilroyAtlasAnatomy2020
+
+### Insertion
+
+- Tibial tuberosity via patellar lig. @gilroyAtlasAnatomy2020 
+- Patella and tibial tuberosity via Lateral patellar retinacula @gilroyAtlasAnatomy2020 
+
+
+
+### Nerve
+
+[Femoral N.]({{< var ref-femoral-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}), [L4]({{< var ref-nerve-root.l4 >}})) @gilroyAtlasAnatomy2020
+
+### Action
+
+**Knee**: extension @gilroyAtlasAnatomy2020 
+
+:::
+
+    
+"The VL (Fig. 19-7) is composed of two functional parts: the VL and the vastus lateralis oblique (VLO). The VL has a line of pull of about 12–15&deg; to the long axis of the femur in the frontal plane, whereas the VLO has a pull of 38–48&deg;." @duttonDuttonOrthopaedicExamination2020 

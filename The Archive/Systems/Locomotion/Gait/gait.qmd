@@ -9,6 +9,9 @@ title: Gait
 
 # Gait Cycle
 
+
+
+
 2 main phases
 
 :::{layout-ncol="2"}
@@ -22,6 +25,11 @@ title: Gait
 - portion of the cycle when the foot is in contact with the ground @osullivanImprovingFunctionalOutcomes2016 
 - 60% of the cycle @osullivanImprovingFunctionalOutcomes2016
 :::
+
+# Terminology
+
+- **Stride length** refers to the distance between two heel contacts of the *same* foot @neumannKinesiologyMusculoskeletalSystem2017
+- **Step length** refers to the distance between successive heel contacts of the two different feet. Comparing right with left step lengths can help to evaluate the symmetry of gait between the lower extremities (Fig. 15.8). Step width is the lateral distance between the heel centers of two consecutive foot contacts and is on average around 8 to 10 cm (see Fig. 15.7).83,135,136 Foot angle, the amount of “toe-out,” is the angle between the line of progression of the body and the long axis of the foot. About 5 to 7 degrees
 
 # Gait Analysis
 
@@ -162,4 +170,6 @@ Complex gait disorders of central origin are less well characterized than the on
 
 
 
+
+# Kinesiology of Walking
 

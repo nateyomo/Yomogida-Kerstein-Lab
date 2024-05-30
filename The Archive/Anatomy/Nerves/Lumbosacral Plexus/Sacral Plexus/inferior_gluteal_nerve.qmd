@@ -11,7 +11,7 @@ title: Inferior Gluteal Nerve
 
 # Motor innervation
 
-Gluteus maximus @gilroyAtlasAnatomy2020
+[Gluteus Maximus]({{< var ref-gluteus-maximus.path >}}) @gilroyAtlasAnatomy2020
 
 # Cutaneous Innervation
 

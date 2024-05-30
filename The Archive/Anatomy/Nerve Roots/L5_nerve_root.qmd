@@ -2,6 +2,21 @@
 title: L5 Nerve Root (L5)
 ---
 
+# Supply
+
+| Nerve | Roots | Motor Innervation | Cutaneous Innervation |
+|-|-|---|-|
+| [Superior Gluteal N.]({{< var ref-superior-gluteal-nerve.path >}}) | {{< var ref-superior-gluteal-nerve.roots >}} | {{< var ref-superior-gluteal-nerve.motor >}} | {{< var ref-superior-gluteal-nerve.cutaneous >}} |
+| [Inferior Gluteal N.]({{< var ref-inferior-gluteal-nerve.path >}}) | {{< var ref-inferior-gluteal-nerve.roots >}} | {{< var ref-inferior-gluteal-nerve.motor >}} | {{< var ref-inferior-gluteal-nerve.cutaneous >}} |
+| [Posterior Cutaneous Nerve of the Thigh]({{< var ref-posterior-cutaneous-nerve-of-the-thigh.path >}}) | {{< var ref-posterior-cutaneous-nerve-of-the-thigh.roots >}} | {{< var ref-posterior-cutaneous-nerve-of-the-thigh.motor >}} | {{< var ref-posterior-cutaneous-nerve-of-the-thigh.cutaneous >}} |
+| [Sciatic N.]({{< var ref-sciatic-nerve.path >}}) | {{< var ref-sciatic-nerve.roots >}} | {{< var ref-sciatic-nerve.motor >}} | {{< var ref-sciatic-nerve.cutaneous >}} |
+| [Common Fibular N.]({{< var ref-common-fibular-nerve.path >}}) | {{< var ref-common-fibular-nerve.roots >}} | {{< var ref-common-fibular-nerve.motor >}} | {{< var ref-common-fibular-nerve.cutaneous >}} |
+| [Tibial N.]({{< var ref-tibial-nerve.path >}}) | {{< var ref-tibial-nerve.roots >}} | {{< var ref-tibial-nerve.motor >}} | {{< var ref-tibial-nerve.cutaneous >}} |
+: {.striped .hover}
+
+
+
+# Overview
 
 "L5 root involvement causes lower back, buttock, lateral thigh, and anterolateral calf pain. Sensory signs and symptoms occur on the lateral leg, the dorsomedial foot, and the large toe. Paresis occurs in the gluteus medius, gluteus minimus, tensor fasciae latae (adduction and internal rotation of thigh), semimembranosus and semitendinosus (knee flexion), tibialis posterior (plantar flexion and inversion of foot), tibialis anterior (dorsiflexion and inversion of foot), peronei (foot plantar flexion and eversion), flexor digitorum longus (plantar flexion of foot and all toes except the large toe), extensor digitorum brevis (extension of the large toe and three medial toes), extensor hallucis longus (extension of great toe and foot dorsiflexion), and extensor digitorum longus (extension of four lateral toes and foot dorsiflexion). With L5 root lesions, both the patellar (L2 L4) and Achilles (S1 S2) reflexes are spared." @brazisLocalizationClinicalNeurology2022 
 

@@ -10,9 +10,12 @@ title: Superior Gluteal Nerve
 # Pathway
 
 # Motor innervation
+- [Gluteus Medius]({{< var ref-gluteus-medius.path >}}) @gilroyAtlasAnatomy2020
+- [Gluteus Minimus]({{< var ref-gluteus-minimus.path >}}) @gilroyAtlasAnatomy2020
+- [Tensor Fascia Latae (TFL)]({{< var ref-tensor-fascia-latae.path >}}) @gilroyAtlasAnatomy2020 
 
-Glute med, min
-TFL
+
+
 
 
 

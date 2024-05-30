@@ -1,0 +1,43 @@
+---
+title: Gracilis 
+---
+
+
+:::{layout-ncol="3"}
+![Medial Thigh muscle superficial layer schematic </br> 1: Pectineus </br> 2: Adductor Longus </br> 3: Adductor Brevis </br> 4: Gracilis](/The Archive/Anatomy/Muscles/Lower limb muscles/Medial Thigh Muscles/images/gilroyatlas fig31.22 medial thigh superficial layer schematic.png)
+
+![Medial Thigh muscle superficial layer @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/images/gilroyatlas fig31.22b medial thigh superficial layer.png)
+:::
+
+
+# OIAN
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Gracilis]({{< var ref-gracilis.path >}}) | {{< var ref-gracilis.origin >}} | {{< var ref-gracilis.insertion >}} | {{< var ref-gracilis.nerve >}} | {{< var ref-gracilis.action >}} |
+: {.striped .hover}
+
+:::{layout-ncol="4"}
+
+### Origin
+
+- Inferior pubic ramus @gilroyAtlasAnatomy2020
+- Possibly the inferior side of the pubic symphysis -Dr.K
+
+### Insertion
+
+- Pes Anserine of the Tibia (medial border of the tuberosity, along with the tendons of sartorius and semitendinosus) @gilroyAtlasAnatomy2020 
+
+### Innervation
+
+[Obturator N.]({{< var ref-obturator-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}})) @gilroyAtlasAnatomy2020
+
+### Action
+**Hip**: Adduction and Flexion @gilroyAtlasAnatomy2020
+**Knee**: Flexion and Internal rotation @gilroyAtlasAnatomy2020
+
+
+
+:::
+
+# Overview

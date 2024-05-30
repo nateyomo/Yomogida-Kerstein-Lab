@@ -1,0 +1,41 @@
+---
+title: Sartorius Muscle
+---
+
+:::{layout-ncol="2"}
+
+![Schematic of Anterior Thigh Muscles @gilroyAtlasAnatomy2020 </br> 1: Sartorius </br> 2: Rectus Femoris </br> 3: Vastus Medialis </br> 4: Vastus Lateralis </br> Vastus Intermedius](/The Archive/Anatomy/Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/images/gilroyatlas fig31.24a anterior thigh muscles schematic.png)
+
+![Superficial Layer of Anterior Thigh Muscle @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/images/gilroyatlas fig31.24b anterior thigh muscles superficial layer.png)
+
+:::
+
+# OIAN
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Sartorius]({{< var ref-sartorius.path >}}) | {{< var ref-sartorius.origin >}} | {{< var ref-sartorius.insertion >}} | {{< var ref-sartorius.nerve >}} | {{< var ref-sartorius.action >}} |
+: {.striped .hover}
+
+:::{layout-ncol="2"}
+
+### Origin
+[ASIS]({{< var ref-coxal-bone.asis >}})
+### Insertion
+
+Medial to the Tibial Tuberosity ([Pes Anserine]({{< var ref-tibia-bone.pes-anserine >}})) @gilroyAtlasAnatomy2020
+
+
+### Nerve
+[Femoral N.]({{< var ref-femoral-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}})) @gilroyAtlasAnatomy2020 
+
+### Action
+
+- **Hip**: Flexion, ER, ABD @gilroyAtlasAnatomy2020 
+- **Knee**: Flexion, IR @gilroyAtlasAnatomy2020 
+
+:::
+
+# Overview
+
+"sartorius, the longest muscle in the body, originates at the anterior­superior iliac spine (see Fig. 12.26). This thin, fusiform muscle courses distally and medially across the thigh to attach on the medial surface of the proximal tibia (see Fig. 13.7). The name sartorius is based on the Latin root sartor, referring to a tailor’s position of cross­legged sitting, which happens to describe the muscle’s combined action of hip flexion, external rotation, and abduction." @neumannKinesiologyMusculoskeletalSystem2017

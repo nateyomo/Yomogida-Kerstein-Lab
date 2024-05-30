@@ -7,6 +7,13 @@ title: L3 Nerve Root (L3)
 
 # Innervation
 
+| Nerve | Roots | Motor Innervation | Cutaneous Innervation |
+|-|-|-|-|
+| [Lateral Cutaneous Nerve of the Thigh]({{< var ref-lateral-cutaneous-nerve-of-thigh.path >}}) | {{< var ref-lateral-cutaneous-nerve-of-thigh.roots >}} | {{< var ref-lateral-cutaneous-nerve-of-thigh.motor >}} | {{< var ref-lateral-cutaneous-nerve-of-thigh.cutaneous >}} |
+| [Obturator N.]({{< var ref-obturator-nerve.path >}}) | {{< var ref-obturator-nerve.roots >}} | {{< var ref-obturator-nerve.motor >}} | {{< var ref-obturator-nerve.cutaneous >}} |
+| [Femoral N.]({{< var ref-femoral-nerve.path >}}) | {{< var ref-femoral-nerve.roots >}} | {{< var ref-femoral-nerve.motor >}} | {{< var ref-femoral-nerve.cutaneous >}} |
+: Peripheral Nerves Originating From L3 {.striped .hover}
+
 :::{layout-ncol="2"}
 ### Femoral nerve
 [Femoral nerve]({{< var ref-femoral-nerve.path >}}) L3 innervations 

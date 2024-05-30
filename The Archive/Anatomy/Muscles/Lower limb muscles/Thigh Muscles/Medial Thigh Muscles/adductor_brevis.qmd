@@ -1,0 +1,43 @@
+---
+title: Adductor Brevis
+---
+
+:::{layout-ncol="3"}
+![Medial Thigh muscle superficial layer schematic </br> 1: Pectineus </br> 2: Adductor Longus </br> 3: Adductor Brevis </br> 4: Gracilis](/The Archive/Anatomy/Muscles/Lower limb muscles/Medial Thigh Muscles/images/gilroyatlas fig31.22 medial thigh superficial layer schematic.png)
+
+![Medial Thigh muscle superficial layer @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/images/gilroyatlas fig31.22b medial thigh superficial layer.png)
+
+:::
+
+# OIAN
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Adductor Brevis]({{< var ref-adductor-brevis.path >}}) | {{< var ref-adductor-brevis.origin >}} | {{< var ref-adductor-brevis.insertion >}} | {{< var ref-adductor-brevis.nerve >}} | {{< var ref-adductor-brevis.action >}} |
+: {.striped .hover}
+
+:::{layout-ncol="4"}
+
+### Origin
+
+- Inferior pubic ramus @gilroyAtlasAnatomy2020
+
+
+
+### Insertion
+
+Femur (linea aspera, medial lip in the middle third of the femur) @gilroyAtlasAnatomy2020
+
+### Innervation
+
+[Obturator N.]({{< var ref-obturator-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}})) @gilroyAtlasAnatomy2020
+
+### Action
+
+- **Hip joint**: adduction and flexion (up to 70&deg;); extension (past 80&deg; of flexion)
+- **Pelvic Stabilization**: Coronal and Sagittal planes
+
+
+:::
+
+# Overview

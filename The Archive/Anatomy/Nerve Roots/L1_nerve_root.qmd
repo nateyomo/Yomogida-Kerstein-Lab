@@ -8,8 +8,10 @@ title: L1 Nerve Root (L1)
 
 
 
-- [Iliohypogastric Nerve]({{< var ref-iliohypogastric-nerve.path >}}) ({{< var ref-iliohypogastric-nerve.roots >}})
-- [Ilioinguinal Nerve]({{< var ref-ilioinguinal-nerve.path >}}) ({{< var ref-ilioinguinal-nerve.roots >}})
-- [Genitofemoral Nerve]({{< var ref-genitofemoral-nerve.path >}}) ({{< var ref-genitofemoral-nerve.roots >}})
 
-
+| Nerve | Roots | Motor Innervation | Cutaneous Innervation |
+|-|-|-|-|
+| [Ilioinguinal N.]({{< var ref-ilioinguinal-nerve.path >}}) | {{< var ref-ilioinguinal-nerve.roots >}} | {{< var ref-ilioinguinal-nerve.motor >}} | {{< var ref-ilioinguinal-nerve.cutaneous >}} |
+| [Iliohypogastric N.]({{< var ref-iliohypogastric-nerve.path >}}) | {{< var ref-iliohypogastric-nerve.roots >}} | {{< var ref-iliohypogastric-nerve.motor >}} | {{< var ref-iliohypogastric-nerve.cutaneous >}} |
+| [Genitofemoral N.]({{< var ref-genitofemoral-nerve.path >}}) | {{< var ref-genitofemoral-nerve.roots >}} | {{< var ref-genitofemoral-nerve.motor >}} | {{< var ref-genitofemoral-nerve.cutaneous >}} |
+: {.striped .hover}

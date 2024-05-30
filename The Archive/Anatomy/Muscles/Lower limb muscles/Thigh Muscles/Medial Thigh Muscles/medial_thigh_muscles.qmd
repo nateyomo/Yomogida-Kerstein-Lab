@@ -1,0 +1,28 @@
+---
+title: Medial Thigh Muscles
+---
+
+:::{layout-ncol="2"}
+![Medial Thigh muscle superficial layer schematic </br> 1: Pectineus </br> 2: Adductor Longus </br> 3: Adductor Brevis </br> 4: Gracilis](/The Archive/Anatomy/Muscles/Lower limb muscles/Medial Thigh Muscles/images/gilroyatlas fig31.22 medial thigh superficial layer schematic.png)
+
+![Medial Thigh muscle superficial layer @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/images/gilroyatlas fig31.22b medial thigh superficial layer.png)
+
+![Medial Thigh muscle deep layer schematic </br> 1: Obturator Externus </br> 2: Adductor Magnus](/The Archive/Anatomy/Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/images/gilroyatlas fig31.23 medial thigh deep layer schematic.png)
+
+
+:::
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Pectineus]({{< var ref-pectineus.path >}}) | {{< var ref-pectineus.origin >}} | {{< var ref-pectineus.insertion >}} | {{< var ref-pectineus.nerve >}} | {{< var ref-pectineus.action >}} |
+| [Gracilis]({{< var ref-gracilis.path >}}) | {{< var ref-gracilis.origin >}} | {{< var ref-gracilis.insertion >}} | {{< var ref-gracilis.nerve >}} | {{< var ref-gracilis.action >}} |
+| [Adductor Longus]({{< var ref-adductor-longus.path >}}) | {{< var ref-adductor-longus.origin >}} | {{< var ref-adductor-longus.insertion >}} | {{< var ref-adductor-longus.nerve >}} | {{< var ref-adductor-longus.action >}} |
+| [Adductor Brevis]({{< var ref-adductor-brevis.path >}}) | {{< var ref-adductor-brevis.origin >}} | {{< var ref-adductor-brevis.insertion >}} | {{< var ref-adductor-brevis.nerve >}} | {{< var ref-adductor-brevis.action >}} |
+: Medial Thigh Muscles: Superficial Layer {.striped .hover}
+
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Obturator Externus]({{< var ref-obturator-externus.path >}}) | {{< var ref-obturator-externus.origin >}} | {{< var ref-obturator-externus.insertion >}} | {{< var ref-obturator-externus.nerve >}} | {{< var ref-obturator-externus.action >}} |
+| [Adductor Magnus]({{< var ref-adductor-magnus.path >}}) | {{< var ref-adductor-magnus.origin >}} | {{< var ref-adductor-magnus.insertion >}} | {{< var ref-adductor-magnus.nerve >}} | {{< var ref-adductor-magnus.action >}} |
+: Medial Thigh Muscles: Deep Layer {.striped .hover}

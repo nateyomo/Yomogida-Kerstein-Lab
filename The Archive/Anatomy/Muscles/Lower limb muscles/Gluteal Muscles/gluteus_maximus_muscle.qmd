@@ -1,0 +1,43 @@
+---
+title: Gluteus Maximus Muscle
+---
+
+# OIAN
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Gluteus Maximus]({{< var ref-gluteus-maximus.path >}}) | {{< var ref-gluteus-maximus.origin >}} | {{< var ref-gluteus-maximus.insertion >}} | {{< var ref-gluteus-maximus.nerve >}} | {{< var ref-gluteus-maximus.action >}} |
+: {.striped .hover}
+
+:::{layout-ncol="4"}
+
+### Origin
+
+- Sacrum (dorsal surface, lateral part) @gilroyAtlasAnatomy2020
+- Ilium (gluteal surface, posterior part) @gilroyAtlasAnatomy2020
+- Thoracolumbar fascia @gilroyAtlasAnatomy2020
+- [Sacrotuberous lig.]({{< var ref-sacrotuberous-ligament.path >}}) @gilroyAtlasAnatomy2020
+
+### Insertion
+
+- **Upper fibers**: iliotibial tract @gilroyAtlasAnatomy2020
+- **Lower fibers**: gluteal tuberosity @gilroyAtlasAnatomy2020
+
+
+### Innervation
+
+The gluteus maximus muscle is innervated by nerve roots [L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}) via the [Inferior gluteal nerve]({{< var ref-inferior-gluteal-nerve.path >}})  @gilroyAtlasAnatomy2020
+
+
+### Action
+
+- Entire muscle: extends and externally rotates the hip in sagittal and coronal planes @gilroyAtlasAnatomy2020
+- Upper fibers: Hip abduction @gilroyAtlasAnatomy2020 
+- Lower fibers: Hip adduction @gilroyAtlasAnatomy2020 
+
+:::
+
+# Overview
+
+The gluteus maxijmus is a primary extensor and external rotator of the hip @neumannKinesiologyMusculoskeletalSystem2017. The gluteus maximus is a secondary hip abductor @neumannKinesiologyMusculoskeletalSystem2017
+The gluteus maximus also plays an important role in stabilization of the SIJ and lumbar spine via its ligamentous and fascial originations @neumannKinesiologyMusculoskeletalSystem2017 

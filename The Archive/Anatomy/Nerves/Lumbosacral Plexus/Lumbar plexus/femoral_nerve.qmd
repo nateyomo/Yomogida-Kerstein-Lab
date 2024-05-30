@@ -31,6 +31,15 @@ title: Femoral Nerve
 
 # Motor innervation
 
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Quadratus Femoris]({{< var ref-quadratus-femoris.path >}}) | {{< var ref-quadratus-femoris.origin >}} | {{< var ref-quadratus-femoris.insertion >}} | {{< var ref-quadratus-femoris.nerve >}} | {{< var ref-quadratus-femoris.action >}} |
+| [Psoas Major]({{< var ref-psoas-major.path >}}) | {{< var ref-psoas-major.origin >}} | {{< var ref-psoas-major.insertion >}} | {{< var ref-psoas-major.nerve >}} | {{< var ref-psoas-major.action >}} |
+| [Iliacus]({{< var ref-iliacus.path >}}) | {{< var ref-iliacus.origin >}} | {{< var ref-iliacus.insertion >}} | {{< var ref-iliacus.nerve >}} | {{< var ref-iliacus.action >}} |
+| [Pectineus]({{< var ref-pectineus.path >}}) | {{< var ref-pectineus.origin >}} | {{< var ref-pectineus.insertion >}} | {{< var ref-pectineus.nerve >}} | {{< var ref-pectineus.action >}} |
+| [Sartorius]({{< var ref-sartorius.path >}}) | {{< var ref-sartorius.origin >}} | {{< var ref-sartorius.insertion >}} | {{< var ref-sartorius.nerve >}} | {{< var ref-sartorius.action >}} |
+: {.striped .hover}
+
 Iliopsoas Pectineus Sartorius Quadriceps femoris @gilroyAtlasAnatomy2020 
 
 # Cutaneous Innervation

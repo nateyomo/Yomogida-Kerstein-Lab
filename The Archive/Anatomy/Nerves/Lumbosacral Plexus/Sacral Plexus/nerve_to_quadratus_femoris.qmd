@@ -1,0 +1,14 @@
+---
+title: Nerve to Quadratus Femoris (L5, S1)
+---
+
+
+
+
+# Roots
+[L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}})
+
+
+# Motor Innervation
+
+Inferior gemellus @aungAnatomicalStudyObturator2001 

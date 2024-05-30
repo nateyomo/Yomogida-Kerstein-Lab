@@ -5,7 +5,16 @@ title: L2 Nerve Root (L2)
 
 
 
-# Innervation
+
+# Supply
+
+| Nerve | Roots | Motor Innervation | Cutaneous Innervation |
+|-|-|-|-|
+| [Genitofemoral Nerve]({{< var ref-genitofemoral-nerve.path >}}) | {{< var ref-genitofemoral-nerve.roots >}} | {{< var ref-genitofemoral-nerve.motor >}} | {{< var ref-genitofemoral-nerve.cutaneous >}} |
+| [Lateral Cutaneous Nerve of the Thigh]({{< var ref-lateral-cutaneous-nerve-of-thigh.path >}}) | {{< var ref-lateral-cutaneous-nerve-of-thigh.roots >}} | {{< var ref-lateral-cutaneous-nerve-of-thigh.motor >}} | {{< var ref-lateral-cutaneous-nerve-of-thigh.cutaneous >}} |
+| [Obturator N.]({{< var ref-obturator-nerve.path >}}) | {{< var ref-obturator-nerve.roots >}} | {{< var ref-obturator-nerve.motor >}} | {{< var ref-obturator-nerve.cutaneous >}} |
+| [Femoral N.]({{< var ref-femoral-nerve.path >}}) | {{< var ref-femoral-nerve.roots >}} | {{< var ref-femoral-nerve.motor >}} | {{< var ref-femoral-nerve.cutaneous >}} |
+: Peripheral Nerves originating from L2 Nerve Root {.striped .hover}
 
 :::{layout-ncol="2"}
 ### Femoral nerve
