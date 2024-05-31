@@ -839,16 +839,16 @@ ref-hamstrings:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/hamstrings.qmd"
 ref-biceps-femoris-long-head:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/biceps_femoris_long_head.qmd"
-  origin: "Ischial tuberosity </br> Sacrotuberous lig. </br> (*common head with* [*Semitendinosus*]({{< var ref-semitendinosus.path >}}))"
+  origin: "Ischial tuberosity </br> Sacrotuberous lig. </br> </br> (*common head with* [*Semitendinosus*]({{< var ref-semitendinosus.path >}}))"
   insertion: "Head of Fibula"
   nerve: "[Tibial N.]({{< var ref-tibial-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}))"
   action: "**Hip**: Extends the hip </br> **Pelvic Stabilization**: Sagittal plane </br> **Knee**: Flexion and ER"
 ref-biceps-femoris-short-head:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/biceps_femoris_short_head.qmd"
-  origin: ""
-  insertion: ""
-  nerve: ""
-  action: ""
+  origin: "Lateral lip of the linea aspera in the middle third of the femur"
+  insertion: "Head of Fibula"
+  nerve: "[Common Fibular N.]({{< var ref-common-fibular-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}))"
+  action: "**Knee**: Flexion and External rotation"
 ref-semimembranosus:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/semimembranosus.qmd"
   origin: "Ischial tuberosity"
@@ -857,18 +857,41 @@ ref-semimembranosus:
   action: "**Hip**: Extension </br> **Pelvic Stabilization**: Sagittal plane </br> **Knee**: Flexion and Internal rotation"
 ref-semitendinosus:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/semitendinosus.qmd"
+  origin: "Ischial tuberosity </br> Sacrotuberous lig. </br> (*common head with long head of biceps femoris*)"
+  insertion: "Medial to the tibial tuberosity in the [Pes Anserine]({{< var ref-pes-anserine.path >}}) </br> (*along with the tendons of gracilis and sartorius*)"
+  nerve: "[Tibial N. </br> (*Tibial division of Sciatic N.*)]({{< var ref-tibial-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}))"
+  action: "**Hip**: Extension </br> **Pelvic Stabilization**: Sagittal plane </br> **Knee**: Flexion and Internal rotation"
+
+### Knee and Ankle Anterior Compartment
+ref-tibialis-anterior:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Anterior compartment/tibialis_anterior.qmd"
+  origin: "Tibia (upper 2/3 of the lateral surface) </br> Interosseous membrane </br> Superficial crural fascia (highest part)"
+  insertion: "Medial cuneiform (medial and plantar surface) </br> </br> 1st metatarsal (medial base)"
+  nerve: "[Deep Fibular N.]({{< var ref-deep-fibular-nerve.path >}}) ([L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}}))"
+  action: "**Talocrural joint**: Dorsiflexion </br> **Subtalar joint**: inversion (supination)"
+ref-extensor-hallucis-longus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Anterior compartment/extensor_hallucis_longus_EHL.qmd"
   origin: ""
   insertion: ""
-  nerve: "[Tibial N. </br> (*Tibial division of Sciatic N.*)]({{< var ref-tibial-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}))"
+  nerve: ""
+  action: ""
+ref-extensor-digitorum-longus:
+  path: "/"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-fibularis-tertius:
+  path: "/"
+  origin: ""
+  insertion: ""
+  nerve: ""
   action: ""
 
-#### Lower Leg muscles
-ref-muscle:
-  soleus:
-    path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Lower leg Muscles/soleus_muscle.qmd"
-  tibialis-posterior:
-    path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Lower leg Muscles/tibialis_posterior.qmd"
-    tendonitis: "/The Archive/Pathologies/Joint pathologies/Ankle and Foot/Tendinopathy/tibialis_posterior_tendonitis.qmd"
+
+ref-tibialis-posterior:
+  path: "/"
+  tendonitis: "/The Archive/Pathologies/Joint pathologies/Ankle and Foot/Tendinopathy/tibialis_posterior_tendonitis.qmd"
 
 ## Nerve root
 ref-nerve-root:

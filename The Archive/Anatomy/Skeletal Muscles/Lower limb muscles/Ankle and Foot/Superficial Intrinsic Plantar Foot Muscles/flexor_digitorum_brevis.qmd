@@ -1,0 +1,35 @@
+---
+title: Flexor Digitorum Brevis (FDB)
+---
+
+
+# OIAN
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+
+: {.striped .hover}
+
+:::{layout-ncol="2"}
+### Origin
+
+@gilroyAtlasAnatomy2020
+
+### Insertion
+
+@gilroyAtlasAnatomy2020
+
+
+
+### Nerve
+
+
+### Action
+
+
+
+
+
+:::
+
+# MMT

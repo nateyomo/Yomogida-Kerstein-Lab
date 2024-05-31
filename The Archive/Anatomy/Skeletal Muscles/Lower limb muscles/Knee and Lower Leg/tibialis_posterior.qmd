@@ -41,4 +41,4 @@ Tibial n. (L4, L5)
 # Dysfunction
 
 
-[Tibialis Posterior tendonitis]({{< var ref-muscle.tibialis-posterior.tendonitis >}})
+[Tibialis Posterior tendonitis]({{< var ref-tibialis-posterior.tendonitis >}})

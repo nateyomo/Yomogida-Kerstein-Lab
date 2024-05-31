@@ -16,6 +16,12 @@ title: Deep Fibualr Nerve
 - Extensors hallucis Longus @gilroyAtlasAnatomy2020
 - Fibularis tertius @gilroyAtlasAnatomy2020
 
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+
+: {.striped .hover}
+
 # Cutaneous Innervation
 
 Sensory branches:

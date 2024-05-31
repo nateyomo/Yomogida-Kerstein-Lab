@@ -7,19 +7,26 @@ title: Biceps Femoris Short Head
 
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
-
+| [Biceps Femoris Short Head]({{< var ref-biceps-femoris-short-head.path >}}) | {{< var ref-biceps-femoris-short-head.origin >}} | {{< var ref-biceps-femoris-short-head.insertion >}} | {{< var ref-biceps-femoris-short-head.nerve >}} | {{< var ref-biceps-femoris-short-head.action >}} |
 : {.striped .hover}
 
 :::{layout-ncol="2"}
 
 ### Origin
-Short head: lateral lip of the linea aspera in the middle third of the femur @gilroy 
+
+- Lateral lip of the linea aspera in the middle third of the femur @gilroyAtlasAnatomy2020
+
+
 ### Insertion
-Head of fibula @gilroy
+Head of Fibula @gilroyAtlasAnatomy2020
+
 ### Innervation
-Common fibular n. (L5–S2) @gilroy
+
+[Common Fibular N.]({{< var ref-common-fibular-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})) @gilroyAtlasAnatomy2020
+
 ### Action
-Knee joint: flexion and external rotation @gilroy
+
+**Knee**: Flexion and External rotation @gilroyAtlasAnatomy2020
 
 
 

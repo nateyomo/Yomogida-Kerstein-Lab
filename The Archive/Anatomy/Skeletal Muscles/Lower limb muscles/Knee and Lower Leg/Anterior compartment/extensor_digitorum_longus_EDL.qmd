@@ -1,0 +1,20 @@
+---
+title: Extensor Digitorum Longus (EHL)
+---
+
+
+:::{layout-ncol="3"}
+
+![Schematic of Muscles in the Anterior Compartment of the Leg</br> 1: Tibialis Anterior </br> 2: Extensor Hallucis Longus </br> 3: Extensor Digitorum Longus </br> 4: Fibularis Tertius](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Anterior compartment/images/gilroyatlas fig32.22a anterior compartment of leg schematic.png)
+
+
+![Muscles in the Anterior Compartment of the Leg](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Anterior compartment/images/gilroyatlas fig32.22b anterior compartment of leg.png)
+
+
+:::
+
+# MMT 
+
+"The EDL and the EDB muscles produce the motion of extension at the MTP and IP joints of the lateral four digits from a flexed position." @duttonDuttonOrthopaedicExamination2020
+
+- Apply resistance dorsal surface of the proximal and distal phalanges into toe flexion @duttonDuttonOrthopaedicExamination2020 

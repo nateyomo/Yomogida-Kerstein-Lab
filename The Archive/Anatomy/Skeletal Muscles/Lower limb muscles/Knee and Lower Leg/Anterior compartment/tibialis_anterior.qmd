@@ -1,0 +1,68 @@
+---
+title: Tibialis Anterior Muscle
+---
+
+:::{layout-ncol="3"}
+
+![Schematic of Muscles in the Anterior Compartment of the Leg</br> 1: Tibialis Anterior </br> 2: Extensor Hallucis Longus </br> 3: Extensor Digitorum Longus </br> 4: Fibularis Tertius](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Anterior compartment/images/gilroyatlas fig32.22a anterior compartment of leg schematic.png)
+
+
+![Muscles in the Anterior Compartment of the Leg](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Anterior compartment/images/gilroyatlas fig32.22b anterior compartment of leg.png)
+
+
+:::
+
+
+# OIAN
+
+"| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Tibialis Anterior]({{< var ref-tibialis-anterior.path >}}) | {{< var ref-tibialis-anterior.origin >}} | {{< var ref-tibialis-anterior.insertion >}} | {{< var ref-tibialis-anterior.nerve >}} | {{< var ref-tibialis-anterior.action >}} |
+: {.striped .hover}"
+
+:::{layout-ncol="2"}
+### Origin
+
+- Tibia (upper 2/3 of the lateral surface) @gilroyAtlasAnatomy2020
+- Interosseous membrane @gilroyAtlasAnatomy2020
+- Superficial crural fascia (highest part) @gilroyAtlasAnatomy2020
+
+### Insertion
+
+- Medial cuneiform (medial and plantar surface) @gilroyAtlasAnatomy2020
+- 1st metatarsal (medial base) @gilroyAtlasAnatomy2020
+
+
+
+### Nerve
+[Deep Fibular N.]({{< var ref-deep-fibular-nerve.path >}}) ([L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}})) @gilroyAtlasAnatomy2020
+
+### Action
+
+- **Talocrural joint**: Dorsiflexion
+- **Subtalar joint**: inversion (supination)
+
+
+
+:::
+
+# Observation
+
+"The tendon of the tibialis anterior is visible at the level of the medial cuneiform and the base of the first metatarsal bone, especially if the foot is positioned in dorsiflexion and supination" @duttonDuttonOrthopaedicExamination2020 
+
+# Examination
+
+:::{layout-ncol="3"}
+### MMT
+
+- DF/inv
+- "The tibialis anterior muscle produces the motion of dorsiflexion and inversion. The knee must remain flexed during the test to allow complete dorsiflexion. The patient’s foot is positioned in dorsiflexion and inversion. The leg is stabilized, and resistance is applied to the medial posterior aspect of the forefoot into plantar flexion and eversion" @duttonDuttonOrthopaedicExamination2020 
+
+### ROM
+
+- PF + EV
+
+### Palpation
+
+
+:::
