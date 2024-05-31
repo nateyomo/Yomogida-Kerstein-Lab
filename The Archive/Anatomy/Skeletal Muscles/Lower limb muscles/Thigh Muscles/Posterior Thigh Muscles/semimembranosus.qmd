@@ -1,0 +1,47 @@
+---
+title: Semimembranosus
+---
+
+
+# OIAN
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Semimembranosus]({{< var ref-semimembranosus.path >}}) | {{< var ref-semimembranosus.origin >}} | {{< var ref-semimembranosus.insertion >}} | {{< var ref-semimembranosus.nerve >}} | {{< var ref-semimembranosus.action >}} |
+: {.striped .hover}
+
+:::{layout-ncol="2"}
+
+### Origin
+Ischial tuberosity @gilroyAtlasAnatomy2020
+
+### Insertion
+- Medial tibial condyle @gilroyAtlasAnatomy2020 
+- Oblique popliteal lig. @gilroyAtlasAnatomy2020 
+- Popliteus fascia @gilroyAtlasAnatomy2020 
+
+
+
+
+### Innervation
+[Tibial N. (*Tibial division of Sciatic N.*)]({{< var ref-tibial-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})) (L5–S2) @gilroy
+
+
+### Action
+
+- **Hip**: Extension @gilroyAtlasAnatomy2020
+- **Pelvic Stabilization**: Sagittal plane @gilroyAtlasAnatomy2020
+- **Knee**: Flexion and Internal rotation @gilroyAtlasAnatomy2020 
+
+
+
+:::
+
+
+
+# Overview
+
+"The semimembranosus attaches distally to the posterior side of the medial condyle of the tibia. Additional distal attachments of this muscle include the MCL, both menisci, and the oblique popliteal ligament. For most of its course, the sinewy semitendinosus tendon lies posterior to the semimembranosus muscle. Just proximal to the knee, however, the tendon of the semitendinosus courses anteriorly toward its distal attachment on the anteriormedial aspect of tibia. Both heads of the biceps femoris attach primarily to the head of the fibula, with lesser insertions to the lateral collateral ligament, the capsule of the proximal tibiofibular joint, and the lateral tubercle of the tibia.265" @neumannKinesiologyMusculoskeletalSystem2017 
+
+
+"The semimembranosus muscle (Fig. 19-8) arises from the lateral facet of the ischial tuberosity and the ischial ramus. This muscle inserts into the posteromedial aspect of the medial tibial condyle and has a key expansion that reinforces the posteromedial corner of the knee capsule. The semimembranosus pulls the meniscus posteriorly, and internally rotates the tibia on the femur, during knee flexion, although its primary function is to extend the hip and flex the knee." @duttonDuttonOrthopaedicExamination2020

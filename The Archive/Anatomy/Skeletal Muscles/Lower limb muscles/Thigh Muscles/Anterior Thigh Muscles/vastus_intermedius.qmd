@@ -1,0 +1,46 @@
+---
+title: Vastus Intermedius
+---
+
+
+:::{layout-ncol="3"}
+
+![Schematic of Anterior Thigh Muscles @gilroyAtlasAnatomy2020 </br> 1: Sartorius </br> 2: Rectus Femoris </br> 3: Vastus Medialis </br> 4: Vastus Lateralis </br> Vastus Intermedius](/The Archive/Anatomy/Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/images/gilroyatlas fig31.24a anterior thigh muscles schematic.png)
+
+
+![Deep Layer of Anterior Thigh Muscle @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/images/gilroyatlas fig31.24c anterior thigh muscles deep layer.png)
+
+:::
+
+
+# OIAN
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Vastus Intermedius]({{< var ref-vastus-intermedius.path >}}) | {{< var ref-vastus-intermedius.origin >}} | {{< var ref-vastus-intermedius.insertion >}} | {{< var ref-vastus-intermedius.nerve >}} | {{< var ref-vastus-intermedius.action >}} |
+: {.striped .hover}
+
+:::{layout-ncol="2"}
+
+### Origin
+Femoral shaft (anterior side) @gilroyAtlasAnatomy2020
+
+### Insertion
+
+Tibial tuberosity (via patellar lig.) @gilroyAtlasAnatomy2020
+
+### Nerve
+
+[Femoral N.]({{< var ref-femoral-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}), [L4]({{< var ref-nerve-root.l4 >}})) @gilroyAtlasAnatomy2020
+
+### Action
+
+**Knee**: Extension @gilroyAtlasAnatomy2020
+
+:::
+
+# Notes
+    
+"The vastus intermedius (see Fig. 19-7) has its origin in the proximal part of the femur, and its line of action is directly in line with the femur.  " @duttonDuttonOrthopaedicExamination2020
+
+"The deepest quadriceps muscle, the vastus intermedius, is located primarily just deep to the rectus femoris and vastus lateralis. Deep to the vastus intermedius is the poorly defined articularis genu. This muscle contains a few slips of fibers that attach proximally to the anterior side of the distal femur, and then distally into the anterior capsule. This muscle pulls the capsule and synovial membrane proximally during active knee extension.303 The articularis genu is analogous to the poorly defined articularis cubiti at the elbow." @duttonDuttonOrthopaedicExamination2020

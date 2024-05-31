@@ -1,0 +1,26 @@
+---
+title: Biceps Femoris Short Head
+---
+
+
+# OIAN
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+
+: {.striped .hover}
+
+:::{layout-ncol="2"}
+
+### Origin
+Short head: lateral lip of the linea aspera in the middle third of the femur @gilroy 
+### Insertion
+Head of fibula @gilroy
+### Innervation
+Common fibular n. (L5–S2) @gilroy
+### Action
+Knee joint: flexion and external rotation @gilroy
+
+
+
+:::

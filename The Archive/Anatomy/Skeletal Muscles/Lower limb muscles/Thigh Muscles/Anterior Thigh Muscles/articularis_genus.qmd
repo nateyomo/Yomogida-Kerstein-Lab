@@ -1,0 +1,45 @@
+---
+title: Articularis Genus
+subtitle: Distal Fibers of Vastus Intermedius
+---
+
+:::{layout-ncol="3"}
+
+![Schematic of Anterior Thigh Muscles @gilroyAtlasAnatomy2020 </br> 1: Sartorius </br> 2: Rectus Femoris </br> 3: Vastus Medialis </br> 4: Vastus Lateralis </br> Vastus Intermedius](/The Archive/Anatomy/Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/images/gilroyatlas fig31.24a anterior thigh muscles schematic.png)
+
+
+![Deep Layer of Anterior Thigh Muscle @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/images/gilroyatlas fig31.24c anterior thigh muscles deep layer.png)
+
+:::
+
+
+# OIAN
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Articularis Genus]({{< var ref-articularis-genus.path >}}) | {{< var ref-articularis-genus.origin >}} | {{< var ref-articularis-genus.insertion >}} | {{< var ref-articularis-genus.nerve >}} | {{< var ref-articularis-genus.action >}} |
+: {.striped .hover}
+
+:::{layout-ncol="2"}
+
+### Origin
+Anterior side of femoral shaft at level of the suprapatellar recess @gilroyAtlasAnatomy2020
+
+
+### Insertion
+Suprapatellar recess of knee joint capsule @gilroyAtlasAnatomy2020
+
+### Nerve
+
+[Femoral N.]({{< var ref-femoral-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}), [L4]({{< var ref-nerve-root.l4 >}})) @gilroyAtlasAnatomy2020
+
+### Action
+
+- **Knee**: Extension @gilroyAtlasAnatomy2020
+- **Knee Capsule**: Retracts the suprapatellar bursa to prevent entrapment of capsule @gilroyAtlasAnatomy2020
+
+:::
+
+# Notes
+    
+"This muscle contains a few slips of fibers that attach proximally to the anterior side of the distal femur, and then distally into the anterior capsule. This muscle pulls the capsule and synovial membrane proximally during active knee extension.303 The articularis genu is analogous to the poorly defined articularis cubiti at the elbow." @duttonDuttonOrthopaedicExamination2020

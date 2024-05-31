@@ -1,0 +1,43 @@
+---
+title: Levatores Costarum Breves
+---
+
+
+:::{layout-ncol="3"}
+
+
+
+:::
+
+
+# OIAN
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+
+: {.striped .hover}
+
+:::{layout-ncol="2"}
+
+### Origin
+
+C7–T11 TP @gilroyAtlasAnatomy2020 
+
+
+### Insertion
+
+Costal angle of next lower rib @gilroyAtlasAnatomy2020
+
+
+### Nerve
+
+[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}}) @gilroyAtlasAnatomy2020
+
+
+### Action
+
+- **Bilateral**: Extends T/S
+- **Unilateral**: T/S ipsilateral flexion, T/S Contralateral rotation
+
+:::
+

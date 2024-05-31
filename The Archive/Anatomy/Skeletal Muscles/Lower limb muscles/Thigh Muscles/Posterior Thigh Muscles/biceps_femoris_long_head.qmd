@@ -1,0 +1,38 @@
+---
+title: Biceps Femoris Long Head
+---
+
+
+# OIAN
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+
+: {.striped .hover}
+
+:::{layout-ncol="2"}
+
+### Origin
+
+- Ischial tuberosity @gilroyAtlasAnatomy2020
+- Sacrotuberous lig. @gilroyAtlasAnatomy2020
+- Note: (*common head with* [*Semitendinosus*]({{< var ref-semitendinosus.path >}})) @gilroyAtlasAnatomy2020
+
+### Insertion
+Head of Fibula @gilroyAtlasAnatomy2020
+
+### Innervation
+
+[Tibial N. (*Tibial division of Sciatic N.*)]({{< var ref-tibial-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})) @gilroyAtlasAnatomy2020
+
+### Action
+
+- **Hip**: Extends the hip @gilroyAtlasAnatomy2020
+- **Pelvic Stabilization**: Sagittal plane @gilroyAtlasAnatomy2020
+- **Knee**: Flexion and ER @gilroyAtlasAnatomy2020
+
+
+
+
+
+:::
