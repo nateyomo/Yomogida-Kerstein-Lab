@@ -1,0 +1,42 @@
+---
+title: Flexor Digitorum Longus (FDL)
+---
+
+:::{layout-ncol="2"}
+![Schematic of Deep Flexors of the Posterior Compartment of the Leg </br> 1: Tibialis Posterior </br> 2: FDL </br> 3: FHL </br> 4: Popliteus @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/images/gilroyatlas fig32.24a Schematic Posterior compartment of the leg deep flexors.png)
+
+![Deep Flexors of the Posterior Compartment of the Leg @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/images/gilroyatlas fig32.24b Posterior compartment of the leg deep flexors.png)
+:::
+
+# Overview
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Flexor Digitorum Longus]({{< var ref-flexor-digitorum-longus.path >}}) | {{< var ref-flexor-digitorum-longus.origin >}} | {{< var ref-flexor-digitorum-longus.insertion >}} | {{< var ref-flexor-digitorum-longus.nerve >}} | {{< var ref-flexor-digitorum-longus.action >}} |
+: Flexor Digitorum Longus {.striped .hover}
+
+
+# Origin
+Tibia (middle third of posterior surface) @gilroyAtlasAnatomy2020
+
+# Insertion
+Bases of 2-5 distal phalanges @gilroyAtlasAnatomy2020
+
+# Innervation
+[Tibial N.]({{< var ref-tibial-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})) @gilroyAtlasAnatomy2020
+
+
+# Action
+
+- **TCJ**: PF @gilroyAtlasAnatomy2020
+- **STJ**: INV @gilroyAtlasAnatomy2020
+- **MTP & IP 2-5**: PF @gilroyAtlasAnatomy2020
+
+
+
+
+
+
+# MMT
+
+"The FDL and brevis muscles produce IP joint flexion. The motion is tested with the foot in the anatomic position. If the gastrocnemius muscle is shortened, preventing the ankle from assuming the anatomic position, the knee is flexed. The toes may be tested simultaneously. The foot is held in the midposition, and the metatarsals are stabilized. Resistance is applied beneath the distal and proximal phalanges" @duttonDuttonOrthopaedicExamination2020 

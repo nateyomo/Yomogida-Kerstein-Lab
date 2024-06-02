@@ -1,0 +1,61 @@
+---
+title: Soleus Muscle
+---
+
+
+:::{layout-ncol="3"}
+
+![Schematic of Superficial Flexors of the Posterior Compartment of the Leg </br> 1: Gastrocnemius </br> 2: Soleus </br> 3: Plantaris @gilroyAtlasAnatomy2020 ](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/images/gilroyatlas fig32.23a leg posterior compartment schematic.png)
+
+![Superficial Flexors of the Posterior Compartment of the Leg @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/images/gilroyatlas fig32.23b leg superficial posterior compartment.png)
+
+![Superficial Flexors of the Posterior Compartment of the Leg without the gastrocnemius @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/images/gilroyatlas fig32.23c leg superficial posterior compartment without gastroc.png)
+
+:::
+
+# OIAN
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Soleus]({{< var ref-soleus.path >}}) | {{< var ref-soleus.origin >}} | {{< var ref-soleus.insertion >}} | {{< var ref-soleus.nerve >}} | {{< var ref-soleus.action >}} |
+: Soleus OIAN {.striped .hover}
+
+
+
+
+
+
+
+
+# Origin
+
+- Posterior fibula @gilroyAtlasAnatomy2020
+- Posterior Tibia @gilroyAtlasAnatomy2020  
+
+
+# Insertion
+
+Calcaneal tuberosity via the Achilles' tendon @gilroyAtlasAnatomy2020 
+
+# Innervation
+
+[Tibial N.]({{< var ref-tibial-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})) @gilroyAtlasAnatomy2020 
+
+# Action
+
+- **TCJ**: Plantarflexion @gilroyAtlasAnatomy2020 
+- **Stabilizes leg** @gilroyAtlasAnatomy2020 
+
+
+
+
+# Examination
+
+## Length Test
+
+- Test DF with Knee flexed to 45&deg;
+
+
+## Strength Testing
+
+"The soleus muscle produces plantar flexion of the ankle joint, regardless of the position of the knee. To determine the individual functioning of the soleus as a plantar flexor, the knee is flexed to minimize the effect of the gastrocnemius muscle. The soleus is tested in a similar manner to that of the gastrocnemius, except that the patient performs the unilateral heel raise with some degree of knee flexion. Ability to perform 10–15 raises in this fashion is considered normal, 5-9 raises graded as fair, 1–4 raises graded as poor, and zero repetitions graded as nonfunctional. Alternatively, the strength of the soleus can be tested with the patient in prone"

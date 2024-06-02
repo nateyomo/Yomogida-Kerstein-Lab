@@ -871,27 +871,83 @@ ref-tibialis-anterior:
   action: "**Talocrural joint**: Dorsiflexion </br> **Subtalar joint**: inversion (supination)"
 ref-extensor-hallucis-longus:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Anterior compartment/extensor_hallucis_longus_EHL.qmd"
-  origin: ""
-  insertion: ""
-  nerve: ""
-  action: ""
+  origin: "Fibula (middle third of the medial surface) </br> IO membrane"
+  insertion: "1st toe (*at the dorsal aponeurosis at the base of its distal phalanx*)"
+  nerve: "[Deep Fibular N.]({{< var ref-deep-fibular-nerve.path >}}) ([L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}}))"
+  action: "**TCJ**: DF </br> **STJ**: INV or EV (*depending on initial position of foot*) </br> **1st toe MTP and IP**: Extension"
 ref-extensor-digitorum-longus:
-  path: "/"
-  origin: ""
-  insertion: ""
-  nerve: ""
-  action: ""
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Anterior compartment/extensor_digitorum_longus_EDL.qmd"
+  origin: "Tibia (lateral condyle) </br> Fibula (head and medial surface) </br> IO membrane"
+  insertion: "2nd to 5th toes (*at the dorsal aponeuroses at the bases of the distal phalanges*)"
+  nerve: "[Deep Fibular N.]({{< var ref-deep-fibular-nerve.path >}}) ([L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}}))"
+  action: "**TCJ**: DF </br> **STJ**: Eversion </br> **MTP & IP 2-5 Toe**: Extension"
 ref-fibularis-tertius:
-  path: "/"
-  origin: ""
-  insertion: ""
-  nerve: ""
-  action: ""
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Anterior compartment/fibularis_tertius.qmd"
+  origin: "Distal Fibula (anterior border)"
+  insertion: "Middle shaft or base of 5th MT @olewnikFibularisTertiusAnatomical2019"
+  nerve: "[Deep Fibular N.]({{< var ref-deep-fibular-nerve.path >}}) ([L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}}))"
+  action: "**TCJ**: DF </br> **STJ**: Eversion"
 
-
+### Knee and Ankle posterior compartment
+ref-gastrocnemius:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/gastrocnemius.qmd"
+  origin: "**Medial head**: Superior-posterior part of the medial femoral condyle </br> **Lateral Head**: Lateral surface of lateral femoral condyle"
+  insertion: "Calcaneal tuberosity via the Achilles' tendon"
+  nerve: "[Tibial N.]({{< var ref-tibial-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}))"
+  action: "**TCJ**: Plantarflexion (*when knee is extended*) </br> **Knee**: Flexion"
+ref-soleus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus_muscle.qmd"
+  origin: "Posterior fibula </br> Posterior Tibia"
+  insertion: "Calcaneal tuberosity via the Achilles' tendon"
+  nerve: "[Tibial N.]({{< var ref-tibial-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}))"
+  action: "**TCJ**: Plantarflexion </br> **Stabilizes leg** "
+ref-plantaris:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/plantaris_muscle.qmd"
+  origin: "Lateral epicondyle of Femur (proximal to lateral head of gastrocnemius)"
+  insertion: "Calcaneal tuberosity"
+  nerve: "[Tibial N.]({{< var ref-tibial-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}))"
+  action: "**Knee**: *negligible* flexion </br> **TCJ**: PF </br> **Proprioception**"
 ref-tibialis-posterior:
-  path: "/"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/tibialis_posterior.qmd"
+  origin: "IO membrane </br> Tibia (*adjacent border*) </br> Fibula (*adjacent border*)"
+  insertion: "Navicular tuberosity </br> Cuneiforms (medial, intermediate, and lateral) </br> MTP 2-4 (bases)"
+  nerve: "[Tibial N.]({{< var ref-tibial-nerve.path >}}) ([L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}}))"
+  action: "**TCJ**: Plantarflexion <br> **STJ**: Inversion (supination) </br> **Longitudinal Arch**: Support </br> **Transverse Arch**: Support"
   tendonitis: "/The Archive/Pathologies/Joint pathologies/Ankle and Foot/Tendinopathy/tibialis_posterior_tendonitis.qmd"
+ref-flexor-digitorum-longus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/flexor_digitorum_longus_FDL.qmd"
+  origin: "Tibia (middle third of posterior surface)"
+  insertion: "Bases of 2-5 distal phalanges"
+  nerve: "[Tibial N.]({{< var ref-tibial-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}))"
+  action: "**TCJ**: PF </br> **STJ**: INV </br> **MTP & IP 2-5**: PF"
+ref-flexor-hallucis-longus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/flexor_hallucis_longus_FHL.qmd"
+  origin: "Fibula (posterior distal two thirds) </br> </br> IO membrane (adjacent)"
+  insertion: "1st distal phalanx (base)"
+  nerve: "[Tibial N.]({{< var ref-tibial-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}))"
+  action: "**TCJ**: PF </br> **STJ**: INV </br> **MTP and IP 1st toe**: PF"
+ref-popliteus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/popliteus_muscle.qmd"
+  origin: "Lateral femoral condyle </br> Lateral Meniscus (post. horn)"
+  insertion: "Posterior tibial surface </br> (*above the origin at the soleus*)"
+  nerve: "[Tibial N.]({{< var ref-tibial-nerve.path >}}) ([L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}))"
+  action: "**Knee**: flexes and unlocks the knee by externally rotating the femur on the fixed tibia"
+
+### Intrinsic Dorsal foot muscles
+ref-extensor-digitorum-brevis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/extensor_digitorum_brevis.qmd"
+  origin: "Calcaneus (lateral dorsal surface)"
+  insertion: "Bases of middle phalanges of digits 2-4"
+  nerve: "[Deep Fibular N.]({{< var ref-deep-fibular-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}))"
+  action: "**MTP/PIP 2-4**: Extension"
+ref-extensor-hallucis-brevis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/extensor_hallucis_brevis.qmd"
+  origin: "Calcaneus (lateral dorsal surface)"
+  insertion: "Prox. phalanx of 1st toe"
+  nerve: "[Deep Fibular N.]({{< var ref-deep-fibular-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}))"
+  action: "**1st MTP**: Extension"
+
+
 
 ## Nerve root
 ref-nerve-root:

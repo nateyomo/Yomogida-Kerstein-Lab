@@ -2,6 +2,23 @@
 title: Gastrocnemius Muscle
 ---
 
+:::{layout-ncol="3"}
+
+![Schematic of Superficial Flexors of the Posterior Compartment of the Leg </br> 1: Gastrocnemius </br> 2: Soleus </br> 3: Plantaris @gilroyAtlasAnatomy2020 ](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/images/gilroyatlas fig32.23a leg posterior compartment schematic.png)
+
+![Superficial Flexors of the Posterior Compartment of the Leg @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/images/gilroyatlas fig32.23b leg superficial posterior compartment.png)
+
+![Superficial Flexors of the Posterior Compartment of the Leg without the gastrocnemius @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/images/gilroyatlas fig32.23c leg superficial posterior compartment without gastroc.png)
+
+:::
+
+# OIAN
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Gastrocnemius]({{< var ref-gastrocnemius.path >}}) | {{< var ref-gastrocnemius.origin >}} | {{< var ref-gastrocnemius.insertion >}} | {{< var ref-gastrocnemius.nerve >}} | {{< var ref-gastrocnemius.action >}} |
+: Gastrocnemius OIAN {.striped .hover}
+
 # Overview
 
 The gastrocnemius is the only muscle that crosses the posterior knee that does *not* have the ability to flex and to internally or externally rotate the knee @neumannKinesiologyMusculoskeletalSystem2017 
@@ -9,6 +26,28 @@ The gastrocnemius is the only muscle that crosses the posterior knee that does *
 "The gastrocnemius originates from above the knee by two heads, each head connected to a femoral condyle and to the joint capsule (Fig. 20-4). Approximately halfway down the leg, the gastrocnemius muscles merge to form an aponeurosis. As the aponeurosis gradually contracts, it accepts the tendon of the soleus, a flat, broad muscle deep to the gastrocnemius. The aponeurosis and the soleus tendon end in a flat tendon called the Achilles tendon, which attaches to the posterior aspect of the calcaneus. The two heads of the gastrocnemius and the soleus are collectively known as the triceps surae (see Chapter 21)" @duttonDuttonOrthopaedicExamination2020 
 
 "Although the primary function of the gastrocnemiussoleus complex is to plantar flex the ankle and to supinate the subtalar joint, the gastrocnemius also functions to flex or extend the knee, depending on whether the lower extremity is WB or not. It has been proposed that weakness of the gastrocnemius may cause knee hyperextension." @duttonDuttonOrthopaedicExamination2020 
+
+
+# Origin
+
+- **Medial head**: Superior-posterior part of the medial femoral condyle @gilroyAtlasAnatomy2020
+- **Lateral Head**: Lateral surface of lateral femoral condyle @gilroyAtlasAnatomy2020  
+
+# Insertion
+
+Calcaneal tuberosity via the Achilles' tendon @gilroyAtlasAnatomy2020 
+
+# Innervation
+
+[Tibial N.]({{< var ref-tibial-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})) @gilroyAtlasAnatomy2020 
+
+# Action
+
+- **TCJ**: Plantarflexion (*when knee is extended*) @gilroyAtlasAnatomy2020
+- **Knee**: Flexion @gilroyAtlasAnatomy2020 
+
+
+
 
 # Examination
 

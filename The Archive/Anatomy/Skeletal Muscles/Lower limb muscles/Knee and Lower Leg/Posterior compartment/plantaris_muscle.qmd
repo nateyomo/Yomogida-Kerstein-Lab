@@ -4,6 +4,43 @@ title: Plantaris Muscle
 
 
 
+:::{layout-ncol="3"}
+
+![Schematic of Superficial Flexors of the Posterior Compartment of the Leg </br> 1: Gastrocnemius </br> 2: Soleus </br> 3: Plantaris @gilroyAtlasAnatomy2020 ](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/images/gilroyatlas fig32.23a leg posterior compartment schematic.png)
+
+![Superficial Flexors of the Posterior Compartment of the Leg @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/images/gilroyatlas fig32.23b leg superficial posterior compartment.png)
+
+![Superficial Flexors of the Posterior Compartment of the Leg without the gastrocnemius @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/images/gilroyatlas fig32.23c leg superficial posterior compartment without gastroc.png)
+
+:::
+
+# OIAN
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Plantaris]({{< var ref-plantaris.path >}}) | {{< var ref-plantaris.origin >}} | {{< var ref-plantaris.insertion >}} | {{< var ref-plantaris.nerve >}} | {{< var ref-plantaris.action >}} |
+: Plantaris OIAN {.striped .hover}
+
+
+# Origin
+Lateral epicondyle of Femur (proximal to lateral head of gastrocnemius) @gilroyAtlasAnatomy2020
+
+# Insertion
+
+Calcaneal tuberosity @gilroyAtlasAnatomy2020 
+
+# Innervation
+
+[Tibial N.]({{< var ref-tibial-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})) @gilroyAtlasAnatomy2020 
+
+# Action
+
+- **Knee**: *negligible* flexion
+- **TCJ**: PF @gilroyAtlasAnatomy2020
+- **Proprioception**: It has been considered to be an organ of proprioceptive function for the larger, more powerful plantarflexors as it contains a high density of muscle spindles @spinaPlantarisMuscleAnatomy2007 
+
+
+
 
 # Examination
 

@@ -2,28 +2,38 @@
 title: Popliteus Muscle
 ---
 
-# OIAN
-
-
 :::{layout-ncol="2"}
+![Schematic of Deep Flexors of the Posterior Compartment of the Leg </br> 1: Tibialis Posterior </br> 2: FDL </br> 3: FHL </br> 4: Popliteus @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/images/gilroyatlas fig32.24a Schematic Posterior compartment of the leg deep flexors.png)
 
-### Origin
+![Deep Flexors of the Posterior Compartment of the Leg @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/images/gilroyatlas fig32.24b Posterior compartment of the leg deep flexors.png)
+:::
+
+# Overview
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Popliteus]({{< var ref-popliteus.path >}}) | {{< var ref-popliteus.origin >}} | {{< var ref-popliteus.insertion >}} | {{< var ref-popliteus.nerve >}} | {{< var ref-popliteus.action >}} |
+: Popliteus OIAN {.striped .hover}
+
+# Origin
 
 - Lateral femoral condyle @gilroyAtlasAnatomy2020 
-- Posterior horn of the lateral meniscus @gilroyAtlasAnatomy2020
+- Lateral Meniscus (post. horn) @gilroyAtlasAnatomy2020
 
-### Insertion
-Posterior tibial surface (above the origin at the soleus)
 
-### Nerve
+# Insertion
+Posterior tibial surface (*above the origin at the soleus*)
 
-Tibial n. ([L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}})) @gilroyAtlasAnatomy2020
 
-### Action
 
-- Knee joint: flexes and unlocks the knee by externally rotating the femur on the fixed tibia @gilroyAtlasAnatomy2020 
+# Nerve
 
-:::
+[Tibial N.]({{< var ref-tibial-nerve.path >}}) ([L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}})) @gilroyAtlasAnatomy2020
+
+# Action
+
+- **Knee**: flexes and unlocks the knee by externally rotating the femur on the fixed tibia @gilroyAtlasAnatomy2020 
+
 
 
 # "Key" to the Knee
