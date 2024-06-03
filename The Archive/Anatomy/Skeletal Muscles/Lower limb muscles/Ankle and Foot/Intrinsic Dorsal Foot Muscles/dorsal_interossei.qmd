@@ -12,8 +12,34 @@ title: Dorsal Interossei
 
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
-
+| [Dorsal Interossei]({{< var ref-dorsal-interossei.path >}}) | {{< var ref-dorsal-interossei.origin >}} | {{< var ref-dorsal-interossei.insertion >}} | {{< var ref-dorsal-interossei.nerve >}} | {{< var ref-dorsal-interossei.action >}} |
 : {.striped .hover}
+
+
+# Origin
+
+1st-5th metatarsals (two heads on opposing sides) @gilroyAtlasAnatomy2020
+
+
+# Insertion
+
+- 1st interosseous: 2nd proximal phalanx (medial base) @gilroyAtlasAnatomy2020
+- 2-4 interosseous: 
+    - 2-4 proximal phalanges (lateral base) @gilroyAtlasAnatomy2020
+    - 2-4 toes at dorsal aponeurosis @gilroyAtlasAnatomy2020
+
+
+
+# Innervation
+
+[Lateral Plantar N.]({{< var ref-lateral-plantar-nerve.path >}}) ([S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}})) @gilroyAtlasAnatomy2020
+
+# Action
+
+- **MTP 2-4**: Flexion @gilroyAtlasAnatomy2020
+- **IP 2-4**: Extension @gilroyAtlasAnatomy2020
+- **Toes 3-4**: Abduction from 2nd toe @gilroyAtlasAnatomy2020
+
 
 
 

@@ -4,12 +4,12 @@ title: Hamstring Muscles
 
 :::{layout-ncol="3"}
 
-![Schematic of Posterior Thigh Muscles @gilroyAtlasAnatomy2020 </br> 1: Biceps Femoris </br> 2: Semimembranosus </br> 3: Semitendinosus](/The Archive/Anatomy/Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/images/gilroyatlas fig31.25a posterior thigh muscles schematic.png)
+![Schematic of Posterior Thigh Muscles @gilroyAtlasAnatomy2020 </br> 1: Biceps Femoris </br> 2: Semimembranosus </br> 3: Semitendinosus](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/images/gilroyatlas fig31.25a posterior thigh muscles schematic.png)
 
-![Posterior Thigh Muscles Superficial Group @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/images/gilroyatlas fig31.25b posterior thigh muscles superficial group.png)
+![Posterior Thigh Muscles Superficial Group @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/images/gilroyatlas fig31.25b posterior thigh muscles superficial group.png)
 
 
-![Posterior Thigh Muscles Deep Group @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/images/gilroyatlas fig31.25c posterior thigh muscles deep group.png)
+![Posterior Thigh Muscles Deep Group @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/images/gilroyatlas fig31.25c posterior thigh muscles deep group.png)
 
 
 :::

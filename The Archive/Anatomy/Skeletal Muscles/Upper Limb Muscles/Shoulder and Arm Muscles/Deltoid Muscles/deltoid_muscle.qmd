@@ -2,7 +2,17 @@
 title: Deltoid muscle
 ---
 
-# OIAN
+
+:::{layout-ncol="2"}
+![Schematic of the Deltoid Muscle @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Shoulder and Arm Muscles/Deltoid Muscles/images/gilroyatlas fig25.23a schematic deltoid.png)
+
+![Deltoid Muscle (Lateral view) @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Shoulder and Arm Muscles/Deltoid Muscles/images/gilroyatlas fig25.23b deltoid lateral.png)
+![Deltoid Muscle (Anterior view) @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Shoulder and Arm Muscles/Deltoid Muscles/images/gilroyatlas fig25.23c deltoid anterior.png)
+![Deltoid Muscle (Posterior view) @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Shoulder and Arm Muscles/Deltoid Muscles/images/gilroyatlas fig25.23d deltoid posterior.png)
+:::
+
+
+# Overview
 
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|

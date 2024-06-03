@@ -12,9 +12,26 @@ title: Flexor Digiti Minimi Brevis
 
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
-
+| [Flexor Digiti Minimi Brevis]({{< var ref-flexor-digiti-minimi-brevis.path >}}) | {{< var ref-flexor-digiti-minimi-brevis.origin >}} | {{< var ref-flexor-digiti-minimi-brevis.insertion >}} | {{< var ref-flexor-digiti-minimi-brevis.nerve >}} | {{< var ref-flexor-digiti-minimi-brevis.action >}} |
 : {.striped .hover}
 
+
+# Origin
+
+- Base of 5th MT @gilroyAtlasAnatomy2020
+- Long plantar lig @gilroyAtlasAnatomy2020
+
+
+
+# Insertion
+Base of proximal phalanx of 5th toe @gilroyAtlasAnatomy2020
+
+# Innervation
+
+[Lateral Plantar N. (*superficial branch*)]({{< var ref-lateral-plantar-nerve.path >}}) ([S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}})) @gilroyAtlasAnatomy2020
+
+# Action
+**5th MTP**: Flexion @gilroyAtlasAnatomy2020
 
 
 

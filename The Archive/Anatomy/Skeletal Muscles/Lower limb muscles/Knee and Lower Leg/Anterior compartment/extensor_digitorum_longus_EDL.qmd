@@ -15,10 +15,10 @@ title: Extensor Digitorum Longus (EHL)
 
 # OIAN
 
-"| Muscle  | Origin | Insertion | Nerve | Action |
+| Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
 | [Extensor Digitorum Longus]({{< var ref-extensor-digitorum-longus.path >}}) | {{< var ref-extensor-digitorum-longus.origin >}} | {{< var ref-extensor-digitorum-longus.insertion >}} | {{< var ref-extensor-digitorum-longus.nerve >}} | {{< var ref-extensor-digitorum-longus.action >}} |
-: {.striped .hover}"
+: {.striped .hover}
 
 :::{layout-ncol="2"}
 ### Origin

@@ -12,8 +12,24 @@ title: Opponens Digiti Minimi
 
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
-
+| [Opponens Digiti Minimi]({{< var ref-opponens-digiti-minimi.path >}}) | {{< var ref-opponens-digiti-minimi.origin >}} | {{< var ref-opponens-digiti-minimi.insertion >}} | {{< var ref-opponens-digiti-minimi.nerve >}} | {{< var ref-opponens-digiti-minimi.action >}} |
 : {.striped .hover}
+
+# Origin
+
+- Long plantar ligament @gilroyAtlasAnatomy2020
+- Plantar tendon sheath of [Fibularis Longus]({{< var ref-fibularis-longus.path >}}) @gilroyAtlasAnatomy2020
+
+
+
+# Insertion
+5th metatarsal @gilroyAtlasAnatomy2020
+
+# Innervation
+[Lateral Plantar N. (*superficial branch*)]({{< var ref-lateral-plantar-nerve.path >}}) ([S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}})) @gilroyAtlasAnatomy2020
+
+# Action
+Pulls 5th metatarsal in plantar and medial direction
 
 
 

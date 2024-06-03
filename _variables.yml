@@ -884,7 +884,7 @@ ref-extensor-digitorum-longus:
 ref-fibularis-tertius:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Anterior compartment/fibularis_tertius.qmd"
   origin: "Distal Fibula (anterior border)"
-  insertion: "Middle shaft or base of 5th MT @olewnikFibularisTertiusAnatomical2019"
+  insertion: "Middle shaft or base of 5th MT"
   nerve: "[Deep Fibular N.]({{< var ref-deep-fibular-nerve.path >}}) ([L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}}))"
   action: "**TCJ**: DF </br> **STJ**: Eversion"
 
@@ -932,6 +932,19 @@ ref-popliteus:
   insertion: "Posterior tibial surface </br> (*above the origin at the soleus*)"
   nerve: "[Tibial N.]({{< var ref-tibial-nerve.path >}}) ([L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}))"
   action: "**Knee**: flexes and unlocks the knee by externally rotating the femur on the fixed tibia"
+### Knee and ankle lateral compartment
+ref-fibularis-longus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Lateral compartment/fibularis_longus_muscle.qmd"
+  origin: "Proximal lateral surface of the fibiula"
+  insertion: "Medial cuneiform </br> Base of 1st MT"
+  nerve: "[Superficial Fibular N.]({{< var ref-superficial-fibular-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}))"
+  action: "**TCJ**: PF </br> **STJ**: Eversion </br> **Transverse arch**: Support"
+ref-fibularis-brevis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Lateral compartment/fibularis_brevis_muscle.qmd"
+  origin: "Middle lateral surface of fibula"
+  insertion: "5th metatarsal base"
+  nerve: "[Superficial Fibular N.]({{< var ref-superficial-fibular-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}))"
+  action: "**TCJ**: PF </br> **STJ**: Eversion"
 
 ### Intrinsic Dorsal foot muscles
 ref-extensor-digitorum-brevis:
@@ -951,13 +964,13 @@ ref-abductor-hallucis:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/abductor_hallucis.qmd"
   origin: "Medial calcaneal tuberosity </br> Plantar aponeurosis </br> Flexor retinaculum"
   insertion: "Medial proximal phalanx of 1st toe"
-  nerve: "[Medial Plantar N.]({{< var ref-medial-plantar-nervve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}))"
+  nerve: "[Medial Plantar N.]({{< var ref-medial-plantar-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}))"
   action: "**1st MTP**: flexion, abd of first toe </br> **Longitudinal Arch**: Support"
 ref-flexor-digitorum-brevis:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/flexor_digitorum_brevis.qmd"
   origin: "Medial tubercle of calcaneal tuberosity </br> Plantar aponeurosis"
   insertion: "Sides of middle phalanges #2-5"
-  nerve: "[Medial Plantar N.]({{< var ref-medial-plantar-nervve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}))"
+  nerve: "[Medial Plantar N.]({{< var ref-medial-plantar-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}))"
   action: "**MTP and PIP 2-5**: Flexion </br> **Longitudinal Arch**: Support"
 ref-abductor-digiti-minimi:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/abductor_digiti_minimi.qmd"
@@ -976,44 +989,44 @@ ref-foot-lumbricals:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/foot_lumbricals.qmd"
   origin: "Medial borders of tendons of [FDL]({{< var ref-flexor-digitorum-longus.path >}})"
   insertion: "Dorsal aponeurosis of toes 2-5"
-  nerve: "**1st lumbrical (2nd toe)**: [Medial Plantar N.]({{< var ref-medial-plantar-nervve.path >}}) ([S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}})) </br> </br> **2-4 Lumbricals (3rd-5th toes)**: [Lateral Plantar N.]({{< var ref-lateral-plantar-nerve.path >}}) ([S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}}))"
+  nerve: "**1st lumbrical (2nd toe)**: [Medial Plantar N.]({{< var ref-medial-plantar-nerve.path >}}) ([S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}})) </br> </br> **2-4 Lumbricals (3rd-5th toes)**: [Lateral Plantar N.]({{< var ref-lateral-plantar-nerve.path >}}) ([S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}}))"
   action: "**MTP 2-5**: Flexion </br> **IP 2-5**: Extension </br> **Toes 2-5**: Adducts toes 2-5 towards big toe"
 ref-flexor-hallucis-brevis:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/flexor_hallucis_brevis.qmd"
   origin: "Cuboid </br> Lateral cuneiform </br> Plantar calcaneocuboid lig"
   insertion: "Base of proximal phalanx 1st toe </br> (*via med and lateral sesamoids*)"
-  nerve: "**Medial head**: [Medial Plantar N.]({{< var ref-medial-plantar-nervve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})) </br> </br> **Lateral head**: [Lateral Plantar N.]({{< var ref-lateral-plantar-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}))"
+  nerve: "**Medial head**: [Medial Plantar N.]({{< var ref-medial-plantar-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})) </br> </br> **Lateral head**: [Lateral Plantar N.]({{< var ref-lateral-plantar-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}))"
   action: "**1st MTP**: Flexion </br> **Longitudinal arch**: Support"
 ref-adductor-hallucis:
-  path: ""
-  origin: ""
-  insertion: ""
-  nerve: ""
-  action: ""
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/adductor_hallucis.qmd"
+  origin: "**Oblique head**: </br> Base of 2-4th metatarsals </br> Cuboid </br> Lateral cuneiform </br> </br> **Transverse head**: </br> MTP joints of toes 3-5 </br> Deep transverse lig."
+  insertion: "Base of prox phalanx of 1st toe"
+  nerve: "[Lateral Plantar N. (*deep branch*)]({{< var ref-lateral-plantar-nerve.path >}}) ([S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}}))"
+  action: "**1st MTP**: Flexion </br> **1st Toe**: Adduction </br> **Transverse head**: supports transverse arch </br> **Oblique head**: Supports longitudinal arch"
 ref-flexor-digiti-minimi-brevis:
-  path: ""
-  origin: ""
-  insertion: ""
-  nerve: ""
-  action: ""
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/flexor_digiti_minimi_brevis.qmd"
+  origin: "Base of 5th MT </br> Long plantar lig"
+  insertion: "Base of proximal phalanx of 5th toe"
+  nerve: "[Lateral Plantar N. (*superficial branch*)]({{< var ref-lateral-plantar-nerve.path >}}) ([S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}}))"
+  action: "**5th MTP**: Flexion"
 ref-opponens-digiti-minimi:
-  path: ""
-  origin: ""
-  insertion: ""
-  nerve: ""
-  action: ""
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/opponens_digiti_minimi.qmd"
+  origin: "Long plantar lig </br> Plantar tendon sheath of [Fibularis Longus]({{< var ref-fibularis-longus.path >}})"
+  insertion: "5th MT"
+  nerve: "[Lateral Plantar N. (*superficial branch*)]({{< var ref-lateral-plantar-nerve.path >}}) ([S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}}))"
+  action: "Pulls 5th metatarsal in plantar and medial direction"
 ref-plantar-interossei:
-  path: ""
-  origin: ""
-  insertion: ""
-  nerve: ""
-  action: ""
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/plantar_interossei.qmd"
+  origin: "Medial border 3-5 MTs"
+  insertion: "Medial base of proximal phalanx of 3-5th toe"
+  nerve: "[Lateral Plantar N.]({{< var ref-lateral-plantar-nerve.path >}}) ([S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}}))"
+  action: "**MTP 3-5**: Flexion </br> **IP 3-5**: Extension </br> **Toe 3-5**: Adduction to 2nd toe"
 ref-dorsal-interossei:
-  path: ""
-  origin: ""
-  insertion: ""
-  nerve: ""
-  action: ""
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/dorsal_interossei.qmd"
+  origin: "1st-5th metatarsals </br> (*two heads on opposing sides*)"
+  insertion: "**1st interosseous**: </br> 2nd proximal phalanx (medial base) </br> </br> **2-4th interosseous**: </br> 2-4 proximal phalanges (*lateral base*) </br> 2-4 toes at dorsal aponeurosis"
+  nerve: "[Lateral Plantar N.]({{< var ref-lateral-plantar-nerve.path >}}) ([S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}})) "
+  action: "**MTP 2-4**: Flexion </br> **IP 2-4**: Extension </br> **Toes 3-4**: Abduction from 2nd toe"
 
 ## Nerve root
 ref-nerve-root:
@@ -1262,6 +1275,27 @@ ref-medial-plantar-nerve:
 
 ref-nuchal-ligament:
   path: "/The Archive/Anatomy/Ligaments/nuchal_ligament.qmd"
+
+### LE Ligaments
+#### Ankle ligaments
+ref-anterior-talofibular-ligament:
+  path: "/The Archive/Anatomy/Ligaments/Lower Extremity/Ankle Ligaments/Lateral ligaments/anterior_talofibular_ligament_ATFL.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-posterior-talofibular-ligament:
+  path: "/The Archive/Anatomy/Ligaments/Lower Extremity/Ankle Ligaments/Lateral ligaments/posterior_talofibular_ligament_PTFL.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-calcaneofibular-ligament:
+  path: "/The Archive/Anatomy/Ligaments/Lower Extremity/Ankle Ligaments/Lateral ligaments/calcaneofibular_ligament_CFL.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
 
 ## Veins
 ### Upper extremity

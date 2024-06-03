@@ -12,8 +12,24 @@ title: Plantar Interossei
 
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
-
+| [Plantar Interossei]({{< var ref-plantar-interossei.path >}}) | {{< var ref-plantar-interossei.origin >}} | {{< var ref-plantar-interossei.insertion >}} | {{< var ref-plantar-interossei.nerve >}} | {{< var ref-plantar-interossei.action >}} |
 : {.striped .hover}
+
+# Origin
+
+- Medial border 3-5 MTs @gilroyAtlasAnatomy2020
+
+# Insertion
+Medial base of proximal phalanx of 3-5th toe @gilroyAtlasAnatomy2020
+
+# Innervation
+[Lateral Plantar N.]({{< var ref-lateral-plantar-nerve.path >}}) ([S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}})) @gilroyAtlasAnatomy2020
+
+# Action
+
+- **MTP 3-5**: Flexion @gilroyAtlasAnatomy2020
+- **IP 3-5**: Extension @gilroyAtlasAnatomy2020
+- **Toe 3-5**: Adduction to 2nd toe @gilroyAtlasAnatomy2020
 
 
 

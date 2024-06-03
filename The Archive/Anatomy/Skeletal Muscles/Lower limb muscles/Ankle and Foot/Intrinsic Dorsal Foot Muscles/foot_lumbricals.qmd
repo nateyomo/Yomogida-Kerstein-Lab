@@ -25,7 +25,7 @@ Dorsal aponeurosis of toes 2-5 @gilroyAtlasAnatomy2020
 
 # Innervation
 
-- **1st lumbrical (2nd toe)**: [Medial Plantar N.]({{< var ref-medial-plantar-nervve.path >}}) ([S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}})) @gilroyAtlasAnatomy2020
+- **1st lumbrical (2nd toe)**: [Medial Plantar N.]({{< var ref-medial-plantar-nerve.path >}}) ([S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}})) @gilroyAtlasAnatomy2020
 - **2-4 Lumbricals (3rd-5th toes)**: [Lateral Plantar N.]({{< var ref-lateral-plantar-nerve.path >}}) ([S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}})) @gilroyAtlasAnatomy2020
 
 

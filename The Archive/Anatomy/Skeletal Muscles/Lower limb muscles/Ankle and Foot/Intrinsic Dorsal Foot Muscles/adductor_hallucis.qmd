@@ -12,10 +12,37 @@ title: Adductor Hallucis
 
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
-
+| [Adductor Hallucis]({{< var ref-adductor-hallucis.path >}}) | {{< var ref-adductor-hallucis.origin >}} | {{< var ref-adductor-hallucis.insertion >}} | {{< var ref-adductor-hallucis.nerve >}} | {{< var ref-adductor-hallucis.action >}} |
 : {.striped .hover}
 
 3rd layer
+
+# Origin
+
+- **Oblique head**: 
+    - Base of 2-4th metatarsals @gilroyAtlasAnatomy2020
+    - Cuboid @gilroyAtlasAnatomy2020
+    - Lateral cuneiform @gilroyAtlasAnatomy2020
+- **Transverse head**: 
+    - MTP joints of toes 3-5 @gilroyAtlasAnatomy2020
+    - Deep transverse lig. @gilroyAtlasAnatomy2020
+
+
+# Insertion
+
+Base of prox phalanx of 1st toe
+
+# Innervation
+
+[Lateral Plantar N. (*deep branch*)]({{< var ref-lateral-plantar-nerve.path >}}) ([S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}})) @gilroyAtlasAnatomy2020
+
+# Action
+
+- **1st MTP**: Flexion @gilroyAtlasAnatomy2020
+- **1st Toe**: Adduction @gilroyAtlasAnatomy2020
+- **Transverse head**: supports transverse arch @gilroyAtlasAnatomy2020
+- **Oblique head**: Supports longitudinal arch @gilroyAtlasAnatomy2020
+
 
 
 # MMT 

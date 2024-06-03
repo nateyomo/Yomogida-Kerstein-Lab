@@ -15,10 +15,10 @@ title: Extensor Hallucis Longus (EHL)
 
 # OIAN
 
-"| Muscle  | Origin | Insertion | Nerve | Action |
+| Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
 | [Extensor Hallucis Longus]({{< var ref-extensor-hallucis-longus.path >}}) | {{< var ref-extensor-hallucis-longus.origin >}} | {{< var ref-extensor-hallucis-longus.insertion >}} | {{< var ref-extensor-hallucis-longus.nerve >}} | {{< var ref-extensor-hallucis-longus.action >}} |
-: {.striped .hover}"
+: {.striped .hover}
 
 :::{layout-ncol="2"}
 ### Origin

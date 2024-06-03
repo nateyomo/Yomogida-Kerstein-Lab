@@ -15,10 +15,10 @@ title: Tibialis Anterior Muscle
 
 # OIAN
 
-"| Muscle  | Origin | Insertion | Nerve | Action |
+| Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
 | [Tibialis Anterior]({{< var ref-tibialis-anterior.path >}}) | {{< var ref-tibialis-anterior.origin >}} | {{< var ref-tibialis-anterior.insertion >}} | {{< var ref-tibialis-anterior.nerve >}} | {{< var ref-tibialis-anterior.action >}} |
-: {.striped .hover}"
+: {.striped .hover}
 
 :::{layout-ncol="2"}
 ### Origin

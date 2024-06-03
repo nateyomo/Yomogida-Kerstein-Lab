@@ -28,7 +28,7 @@ Medial proximal phalanx of 1st toe @gilroyAtlasAnatomy2020
 
 # Innervation
 
-[Medial Plantar N.]({{< var ref-medial-plantar-nervve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})) @gilroyAtlasAnatomy2020
+[Medial Plantar N.]({{< var ref-medial-plantar-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})) @gilroyAtlasAnatomy2020
 
 
 # Action

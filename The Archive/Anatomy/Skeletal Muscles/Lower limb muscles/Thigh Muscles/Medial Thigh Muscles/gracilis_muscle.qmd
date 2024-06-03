@@ -4,9 +4,9 @@ title: Gracilis
 
 
 :::{layout-ncol="3"}
-![Medial Thigh muscle superficial layer schematic </br> 1: Pectineus </br> 2: Adductor Longus </br> 3: Adductor Brevis </br> 4: Gracilis](/The Archive/Anatomy/Muscles/Lower limb muscles/Medial Thigh Muscles/images/gilroyatlas fig31.22 medial thigh superficial layer schematic.png)
+![Medial Thigh muscle superficial layer schematic </br> 1: Pectineus </br> 2: Adductor Longus </br> 3: Adductor Brevis </br> 4: Gracilis](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Medial Thigh Muscles/images/gilroyatlas fig31.22 medial thigh superficial layer schematic.png)
 
-![Medial Thigh muscle superficial layer @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/images/gilroyatlas fig31.22b medial thigh superficial layer.png)
+![Medial Thigh muscle superficial layer @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/images/gilroyatlas fig31.22b medial thigh superficial layer.png)
 :::
 
 

@@ -27,7 +27,7 @@ Sides of middle phalanges #2-5 @gilroyAtlasAnatomy2020
 
 # Innervation
 
-[Medial Plantar N.]({{< var ref-medial-plantar-nervve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})) @gilroyAtlasAnatomy2020
+[Medial Plantar N.]({{< var ref-medial-plantar-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})) @gilroyAtlasAnatomy2020
 
 ### Action
 
@@ -38,5 +38,7 @@ Sides of middle phalanges #2-5 @gilroyAtlasAnatomy2020
 
 
 
-# MMT 
+# MMT
+
+"The FDL and brevis muscles produce IP joint flexion. The motion is tested with the foot in the anatomic position. If the gastrocnemius muscle is shortened, preventing the ankle from assuming the anatomic position, the knee is flexed. The toes may be tested simultaneously. The foot is held in the midposition, and the metatarsals are stabilized. Resistance is applied beneath the distal and proximal phalanges" @duttonDuttonOrthopaedicExamination2020 
 
