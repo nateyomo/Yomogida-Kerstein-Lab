@@ -946,8 +946,74 @@ ref-extensor-hallucis-brevis:
   insertion: "Prox. phalanx of 1st toe"
   nerve: "[Deep Fibular N.]({{< var ref-deep-fibular-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}))"
   action: "**1st MTP**: Extension"
-
-
+### Superficial intrinsic muscles of the sole of the foot
+ref-abductor-hallucis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/abductor_hallucis.qmd"
+  origin: "Medial calcaneal tuberosity </br> Plantar aponeurosis </br> Flexor retinaculum"
+  insertion: "Medial proximal phalanx of 1st toe"
+  nerve: "[Medial Plantar N.]({{< var ref-medial-plantar-nervve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}))"
+  action: "**1st MTP**: flexion, abd of first toe </br> **Longitudinal Arch**: Support"
+ref-flexor-digitorum-brevis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/flexor_digitorum_brevis.qmd"
+  origin: "Medial tubercle of calcaneal tuberosity </br> Plantar aponeurosis"
+  insertion: "Sides of middle phalanges #2-5"
+  nerve: "[Medial Plantar N.]({{< var ref-medial-plantar-nervve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}))"
+  action: "**MTP and PIP 2-5**: Flexion </br> **Longitudinal Arch**: Support"
+ref-abductor-digiti-minimi:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/abductor_digiti_minimi.qmd"
+  origin: "Medial tubercle of calcaneal tuberosity </br> Plantar aponeurosis"
+  insertion: "5th toe (Base of proximal phalanx) </br> 5th metatarsal at tuberosity"
+  nerve: "[Lateral Plantar N.]({{< var ref-lateral-plantar-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}}))"
+  action: "**5th MTP**: Flexion, ABD <br> **Longitudinal Arch**: Support"
+### Deep intrinsic muscles of the sole of the foot
+ref-quadratus-plantae:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/quadratus_plantae.qmd"
+  origin: "Medial and Plantar borders of calcaneal tuberosity"
+  insertion: "Lateral border of tendons of [FDL]({{< var ref-flexor-digitorum-longus.path >}})"
+  nerve: "[Lateral Plantar N.]({{< var ref-lateral-plantar-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}}))"
+  action: "Redirects/augments pull of [FDL]({{< var ref-flexor-digitorum-longus.path >}})"
+ref-foot-lumbricals:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/foot_lumbricals.qmd"
+  origin: "Medial borders of tendons of [FDL]({{< var ref-flexor-digitorum-longus.path >}})"
+  insertion: "Dorsal aponeurosis of toes 2-5"
+  nerve: "**1st lumbrical (2nd toe)**: [Medial Plantar N.]({{< var ref-medial-plantar-nervve.path >}}) ([S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}})) </br> </br> **2-4 Lumbricals (3rd-5th toes)**: [Lateral Plantar N.]({{< var ref-lateral-plantar-nerve.path >}}) ([S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}}))"
+  action: "**MTP 2-5**: Flexion </br> **IP 2-5**: Extension </br> **Toes 2-5**: Adducts toes 2-5 towards big toe"
+ref-flexor-hallucis-brevis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/flexor_hallucis_brevis.qmd"
+  origin: "Cuboid </br> Lateral cuneiform </br> Plantar calcaneocuboid lig"
+  insertion: "Base of proximal phalanx 1st toe </br> (*via med and lateral sesamoids*)"
+  nerve: "**Medial head**: [Medial Plantar N.]({{< var ref-medial-plantar-nervve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})) </br> </br> **Lateral head**: [Lateral Plantar N.]({{< var ref-lateral-plantar-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}))"
+  action: "**1st MTP**: Flexion </br> **Longitudinal arch**: Support"
+ref-adductor-hallucis:
+  path: ""
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-flexor-digiti-minimi-brevis:
+  path: ""
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-opponens-digiti-minimi:
+  path: ""
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-plantar-interossei:
+  path: ""
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-dorsal-interossei:
+  path: ""
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
 
 ## Nerve root
 ref-nerve-root:

@@ -1,0 +1,44 @@
+---
+title: Abductor Hallucis
+---
+
+:::{layout-ncol="3"}
+![Schematic of 1st layer of Plantar Intrinsic Foot Muscles @gilroyAtlasAnatomy2020 </br> 1: Abductor hallucis </br> 2: Flexor digitorum brevis </br> Abductor digiti minimi](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/images/gilroyatlas fig33.20a schematic intrinsic 1st layer foot muscles.png)
+
+![1st Layer Intrinsic Plantar Foot Muscles @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/images/gilroyatlas fig33.20b intrinsic 1st layer foot muscles.png)
+:::
+
+
+# Overview
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Abductor Hallucis]({{< var ref-abductor-hallucis.path >}}) | {{< var ref-abductor-hallucis.origin >}} | {{< var ref-abductor-hallucis.insertion >}} | {{< var ref-abductor-hallucis.nerve >}} | {{< var ref-abductor-hallucis.action >}} |
+: {.striped .hover}
+
+# Origin
+
+- Medial calcaneal tuberosity @gilroyAtlasAnatomy2020
+- Plantar aponeurosis @gilroyAtlasAnatomy2020
+- Flexor retinaculum @gilroyAtlasAnatomy2020
+
+# Insertion
+
+Medial proximal phalanx of 1st toe @gilroyAtlasAnatomy2020
+
+# Innervation
+
+[Medial Plantar N.]({{< var ref-medial-plantar-nervve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})) @gilroyAtlasAnatomy2020
+
+
+# Action
+
+- **1st MTP**: flexion, abd of first toe @gilroyAtlasAnatomy2020
+- **Longitudinal Arch**: Support @gilroyAtlasAnatomy2020
+
+
+
+
+
+# MMT 
+
