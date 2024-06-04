@@ -156,7 +156,8 @@ ref-meniscus:
 ## Connective Tissue
 ref-rectus-sheath:
   path: "/The Archive/Anatomy/Connective tissue/rectus_sheath.qmd"
-
+ref-pes-anserine:
+  path: ""
 ref-plica:
   path: "/The Archive/Anatomy/Connective tissue/plica.qmd"
   syndrome: "/The Archive/Pathologies/Pathologies by Region/Lower extremity/Knee/plica_syndrome.qmd"
@@ -702,7 +703,7 @@ ref-gluteus-maximus:
   origin: "Sacrum (dorsal surface, lateral part) <br/> Ilium (gluteal surface, posterior part) <br/> Thoracolumbar fascia <br/> [Sacrotuberous lig.]({{< var ref-sacrotuberous-ligament.path >}})"
   insertion: "**Upper fibers**: iliotibial tract <br/> **Lower fibers**: gluteal tuberosity "
   nerve: "[Inferior gluteal nerve]({{< var ref-inferior-gluteal-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}))"
-  action: ""
+  action: "**Entire muscle**: Hip extension and ER </br> **Upper fibers**: Hip abduction </br> **Lower fibers**: Hip adduction"
 ref-gluteus-medius:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/gluteus_medius.qmd"
   origin: "Ilium (gluteal surface below the iliac crest between the anterior and posterior gluteal line)"
@@ -711,16 +712,16 @@ ref-gluteus-medius:
   action: "**Entire muscle**: Hip ABD, Pelvic stabilization (coronal plane) </br> **Anterior Fibers**: Hip flexion and Hip IR </br> **Posterior Fibers**: Hip Extension and External rotation"
 ref-gluteus-minimus:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/gluteus_minimus.qmd"
-  origin: ""
-  insertion: ""
-  nerve: ""
-  action: ""
+  origin: "Ilium </br> (gluteal surface below the origin of gluteus medius)"
+  insertion: "Greater trochanter of the femur </br> (anterolateral surface)"
+  nerve: "[Superior gluteal nerve]({{< var ref-superior-gluteal-nerve.path >}}) ([L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}}), and [S1]({{< var ref-nerve-root.s1 >}}))"
+  action: "**Entire muscle**: </br> Hip abduction </br> pelvic stabilization (coronal plane) </br> **Anterior fibers**: Hip flexion and IR </br> **Posterior fibers**: Hip Extension and ER"
 ref-tensor-fascia-latae:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/tensor_fascia_latae_TFL.qmd"
-  origin: "Anterior surface of sacrum"
-  insertion: "Apex of the greater trochanter of the femur"
-  nerve: ""
-  action: ""
+  origin: "ASIS"
+  insertion: "IT Tract"
+  nerve: "[Superior gluteal nerve]({{< var ref-superior-gluteal-nerve.path >}}) ([L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}}), and [S1]({{< var ref-nerve-root.s1 >}}))"
+  action: "**Fascia Latae**: Tenses </br> **Hip**: Abduction, Flexion, and IR"
 ref-piriformis:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/piriformis_muscle.qmd"
   origin: "Anterior surface of sacrum"
@@ -741,10 +742,10 @@ ref-superior-gemellus:
   action: "**Hip** External rotation and extension </br> (also active in abduction, depending on the joint’s position)"
 ref-inferior-gemellus:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/inferior_gemellus_muscle.qmd"
-  origin: ""
-  insertion: ""
-  nerve: ""
-  action: ""
+  origin: "Ischial tuberosity"
+  insertion: "Joins obturator internus tendon to medial surface of greater trochanter"
+  nerve: "Nerve to quadratus femoris ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}))"
+  action: "**Hip**: Extension, ER, and Stabilization </br> (*also active in abduction, depending on the joint’s position*)"
 ref-quadratus-femoris:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/quadratus_femoris_muscle.qmd"
   origin: "Ischial tuberosity (lateral border)"
@@ -797,7 +798,7 @@ ref-adductor-magnus:
 ref-sartorius:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/sartorius.qmd"
   origin: "[ASIS]({{< var ref-coxal-bone.asis >}})"
-  insertion: "Medial to the Tibial Tuberosity ([Pes Anserine]({{< var ref-tibia-bone.pes-anserine >}}))"
+  insertion: "Medial to the Tibial Tuberosity ([Pes Anserine]({{< var ref-pes-anserine >}}))"
   nerve: "[Femoral N.]({{< var ref-femoral-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}))"
   action: "**Hip**: Flexion, ER, ABD </br> **Knee**: Flexion, IR"
 ref-quadriceps-femoris:
@@ -810,7 +811,7 @@ ref-rectus-femoris:
   nerve: "[Femoral nerve]({{< var ref-femoral-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}), [L4]({{< var ref-nerve-root.l4 >}}))"
   action: "**Hip**: Flexion </br> **Knee**: Extension"
 ref-vastus-lateralis:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Quadriceps/vastus_lateralis.qmd"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/vastus_lateralis.qmd"
   origin: "Linea aspera (lateral lip) </br> Greater trochanter (lateral surface)"
   insertion: "Tibial tuberosity via patellar lig. </br> </br> Patella and tibial tuberosity via Lateral patellar retinacula"
   nerve: "[Femoral N.]({{< var ref-femoral-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}), [L4]({{< var ref-nerve-root.l4 >}}))"
@@ -822,13 +823,13 @@ ref-vastus-intermedius:
   nerve: "[Femoral N.]({{< var ref-femoral-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}), [L4]({{< var ref-nerve-root.l4 >}}))"
   action: "**Knee**: Extension"
 ref-vastus-medialis:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Quadriceps/vastus_medialis.qmd"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/vastus_medialis.qmd"
   origin: "[Linea aspera (medial lip)]({{< var ref-femur-bone.linea-aspera >}}) </br> </br>[Intertrochanteric line (distal part)]({{< var ref-femur-bone.intertrochanteric-line >}})"
   insertion: "Tibial tuberosity via patellar lig. </br> </br> Patella and tibial tuberosity via medial patellar retinacula"
   nerve: "[Femoral nerve]({{< var ref-femoral-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}), [L4]({{< var ref-nerve-root.l4 >}}))"
   action: "**Knee**: Extension"
 ref-articularis-genus:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Quadriceps/articularis_genus.qmd"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/articularis_genus.qmd"
   origin: "Anterior side of femoral shaft at level of the suprapatellar recess"
   insertion: "Suprapatellar recess of knee joint capsule"
   nerve: "[Femoral N.]({{< var ref-femoral-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}), [L4]({{< var ref-nerve-root.l4 >}}))"

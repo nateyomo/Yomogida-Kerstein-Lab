@@ -23,7 +23,7 @@ title: Sartorius Muscle
 [ASIS]({{< var ref-coxal-bone.asis >}})
 ### Insertion
 
-Medial to the Tibial Tuberosity ([Pes Anserine]({{< var ref-tibia-bone.pes-anserine >}})) @gilroyAtlasAnatomy2020
+Medial to the Tibial Tuberosity ([Pes Anserine]({{< var ref-pes-anserine >}})) @gilroyAtlasAnatomy2020
 
 
 ### Nerve

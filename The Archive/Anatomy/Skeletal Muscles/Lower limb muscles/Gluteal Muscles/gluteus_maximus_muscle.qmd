@@ -35,6 +35,8 @@ The gluteus maximus muscle is innervated by nerve roots [L5]({{< var ref-nerve-r
 - Upper fibers: Hip abduction @gilroyAtlasAnatomy2020 
 - Lower fibers: Hip adduction @gilroyAtlasAnatomy2020 
 
+
+
 :::
 
 # Overview

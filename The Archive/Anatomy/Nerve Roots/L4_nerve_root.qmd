@@ -22,7 +22,7 @@ title: L4 Nerve Root (L4)
 ### Femoral nerve
 [Femoral nerve]({{< var ref-femoral-nerve.path >}}) L4 innervations 
 
-- [Quadriceps]({{< var ref-quadricep.path >}})
+- [Quadriceps]({{< var ref-quadriceps-femoris.path >}})
     - [Rectus Femoris]({{< var ref-rectus-femoris.path >}}) @gilroyAtlasAnatomy2020
     - [Vastus lateralis]({{< var ref-vastus-lateralis.path >}}) @gilroyAtlasAnatomy2020
     - [Vastus intermedius]({{< var ref-vastus-intermedius.path >}}) @gilroyAtlasAnatomy2020
