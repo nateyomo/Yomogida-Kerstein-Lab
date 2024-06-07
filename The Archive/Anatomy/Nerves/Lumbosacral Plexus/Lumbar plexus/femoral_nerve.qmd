@@ -2,6 +2,9 @@
 title: Femoral Nerve
 ---
 
+
+
+
 ::: {.columns}
 
 ::: {.column}
@@ -14,7 +17,16 @@ title: Femoral Nerve
 :::
 
 
+
 ![Femoral nerve (right leg, anterior view) @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Lumbar plexus/images/gilroyatlas fig34.16 Femoral nerve right side anterior view.png)
+
+# Overview
+
+| Nerve | Roots | Motor Innervation | Cutaneous Innervation |
+|-|-|-|-|
+| [Femoral N.]({{< var ref-femoral-nerve.path >}}) | {{< var ref-femoral-nerve.roots >}} | {{< var ref-femoral-nerve.motor >}} | {{< var ref-femoral-nerve.cutaneous >}} |
+: {.striped .hover}
+
 
 # Roots
 

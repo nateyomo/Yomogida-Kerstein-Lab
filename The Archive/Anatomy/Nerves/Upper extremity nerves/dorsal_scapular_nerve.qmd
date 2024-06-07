@@ -19,6 +19,15 @@ title: Dorsal Scapular Nerve
 The posterior (dorsal) scapular nerve provies motor innervation to the rhomboids and the levator scapulae muscles @duttonDuttonOrthopaedicExamination2020.
 
 
+# Motor Innervation
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Levator Scapulae]({{< var ref-levator-scapulae.path >}}) | {{< var ref-levator-scapulae.origin >}} | {{< var ref-levator-scapulae.insertion >}} | {{< var ref-levator-scapulae.nerve >}} | {{< var ref-levator-scapulae.action >}} |
+| [Rhomboid Major]({{< var ref-rhomboid-major.path >}}) | {{< var ref-rhomboid-major.origin >}} | {{< var ref-rhomboid-major.insertion >}} | {{< var ref-rhomboid-major.nerve >}} | {{< var ref-rhomboid-major.action >}} |
+| [Rhomboid Minor]({{< var ref-rhomboid-minor.path >}}) | {{< var ref-rhomboid-minor.origin >}} | {{< var ref-rhomboid-minor.insertion >}} | {{< var ref-rhomboid-minor.nerve >}} | {{< var ref-rhomboid-minor.action >}} |
+: {.striped .hover}
+
 # Dysfunction
 
 ## Causes

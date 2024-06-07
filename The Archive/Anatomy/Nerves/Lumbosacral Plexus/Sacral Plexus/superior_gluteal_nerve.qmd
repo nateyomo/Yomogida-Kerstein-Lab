@@ -3,6 +3,13 @@ title: Superior Gluteal Nerve
 ---
 
 
+# Overview
+
+| Nerve | Roots | Motor Innervation | Cutaneous Innervation |
+|-|-|-|-|
+| [Superior Gluteal N.]({{< var ref-superior-gluteal-nerve.path >}}) | {{< var ref-superior-gluteal-nerve.roots >}} | {{< var ref-superior-gluteal-nerve.motor >}} | {{< var ref-superior-gluteal-nerve.cutaneous >}} |
+: {.striped .hover}
+
 # Roots
 
 [L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}) @gilroyAtlasAnatomy2020 
@@ -10,13 +17,13 @@ title: Superior Gluteal Nerve
 # Pathway
 
 # Motor innervation
-- [Gluteus Medius]({{< var ref-gluteus-medius.path >}}) @gilroyAtlasAnatomy2020
-- [Gluteus Minimus]({{< var ref-gluteus-minimus.path >}}) @gilroyAtlasAnatomy2020
-- [Tensor Fascia Latae (TFL)]({{< var ref-tensor-fascia-latae.path >}}) @gilroyAtlasAnatomy2020 
 
-
-
-
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Gluteus Medius]({{< var ref-gluteus-medius.path >}}) | {{< var ref-gluteus-medius.origin >}} | {{< var ref-gluteus-medius.insertion >}} | {{< var ref-gluteus-medius.nerve >}} | {{< var ref-gluteus-medius.action >}} |
+| [Gluteus Minimus]({{< var ref-gluteus-minimus.path >}}) | {{< var ref-gluteus-minimus.origin >}} | {{< var ref-gluteus-minimus.insertion >}} | {{< var ref-gluteus-minimus.nerve >}} | {{< var ref-gluteus-minimus.action >}} |
+| [Tensor Fascia Latae]({{< var ref-tensor-fascia-latae.path >}}) | {{< var ref-tensor-fascia-latae.origin >}} | {{< var ref-tensor-fascia-latae.insertion >}} | {{< var ref-tensor-fascia-latae.nerve >}} | {{< var ref-tensor-fascia-latae.action >}} |
+: {.striped .hover}
 
 
 # Cutaneous Innervation

@@ -11,7 +11,11 @@ title: Inferior Gluteal Nerve
 
 # Motor innervation
 
-[Gluteus Maximus]({{< var ref-gluteus-maximus.path >}}) @gilroyAtlasAnatomy2020
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Gluteus Maximus]({{< var ref-gluteus-maximus.path >}}) | {{< var ref-gluteus-maximus.origin >}} | {{< var ref-gluteus-maximus.insertion >}} | {{< var ref-gluteus-maximus.nerve >}} | {{< var ref-gluteus-maximus.action >}} |
+: {.striped .hover}
+
 
 # Cutaneous Innervation
 

@@ -20,7 +20,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -30,7 +49,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../../">
-<link href="../../..//images/icons8-brain-64.png" rel="icon" type="image/png">
+<link href="../../..//images/brain-favicon.png" rel="icon" type="image/png">
 <script src="../../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -62,6 +81,9 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script src="../../../site_libs/quarto-diagram/mermaid.min.js"></script>
+<script src="../../../site_libs/quarto-diagram/mermaid-init.js"></script>
+<link href="../../../site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
 
 
 <link rel="stylesheet" href="../../../styles.css">
@@ -121,7 +143,14 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Contents</h2>
+   
+  <ul>
+  <li><a href="#injury-location" id="toc-injury-location" class="nav-link active" data-scroll-target="#injury-location">Injury Location</a></li>
+  <li><a href="#type-of-injury" id="toc-type-of-injury" class="nav-link" data-scroll-target="#type-of-injury">Type of Injury</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -170,10 +199,89 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<div id="fig-surfing-moi" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<div>
+<pre class="mermaid mermaid-js">pie showdata
+    "Struck by Own Board" : 38.5
+    "Maneuver/Approach" : 20.3
+    "Striking seafloor" : 18.4
+    "Marine" : 3.2
+    "Wave" : 5.6
+    "Contact with other surfer/surfer's board" : 6.4
+    "Walking on beach/rock/reef" : 0.3
+    "Low Temperature" : 0.3
+    "Floater/water vessel" : 0.5
+    "Fin/rope" : 0.9
+</pre>
+</div>
+</div>
+</div>
+</div>
+<figcaption class="figure-caption">Figure&nbsp;1: Surfing Mechanisms of Injury<span class="citation" data-cites="mcarthurEpidemiologyAcuteInjuries2020"><sup><a href="#ref-mcarthurEpidemiologyAcuteInjuries2020" role="doc-biblioref">1</a></sup></span></figcaption>
+</figure>
+</div>
+<section id="injury-location" class="level1">
+<h1>Injury Location</h1>
+<div id="fig-surfing-injury-location" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<div>
+<pre class="mermaid mermaid-js">pie showdata
+    "Face/Head/Neck" : 33.8
+    "Lower Limb" : 33.0
+    "Upper Limb" : 16.7
+    "Torso" : 10.3
+    "Spine/back" : 4.5
+    "Other" : 1.7
+</pre>
+</div>
+</div>
+</div>
+</div>
+<figcaption class="figure-caption">Figure&nbsp;2: Surfing Injury Locations<span class="citation" data-cites="mcarthurEpidemiologyAcuteInjuries2020"><sup><a href="#ref-mcarthurEpidemiologyAcuteInjuries2020" role="doc-biblioref">1</a></sup></span></figcaption>
+</figure>
+</div>
+</section>
+<section id="type-of-injury" class="level1">
+<h1>Type of Injury</h1>
+<div id="fig-surfing-injury-type" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<div>
+<pre class="mermaid mermaid-js">pie showdata
+    "Skin" : 46.0
+    "Soft Tissue" : 22.6
+    "Bone" : 9.6
+    "Other" : 9.1
+    "Joint" : 6.9
+    "Concussion" : 2.3
+    "Internal" : 1.3
+</pre>
+</div>
+</div>
+</div>
+</div>
+<figcaption class="figure-caption">Figure&nbsp;3: Surfing Injury Type<span class="citation" data-cites="mcarthurEpidemiologyAcuteInjuries2020"><sup><a href="#ref-mcarthurEpidemiologyAcuteInjuries2020" role="doc-biblioref">1</a></sup></span></figcaption>
+</figure>
+</div>
 
 
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-mcarthurEpidemiologyAcuteInjuries2020" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">McArthur K, Jorgensen D, Climstein M, Furness J. Epidemiology of <span>Acute Injuries</span> in <span>Surfing</span>: <span>Type</span>, <span>Location</span>, <span>Mechanism</span>, <span>Severity</span>, and <span>Incidence</span>: <span>A Systematic Review</span>. <em>Sports (Basel, Switzerland)</em>. 2020;8(2):25. doi:<a href="https://doi.org/10.3390/sports8020025">10.3390/sports8020025</a></div>
+</div>
+</div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
 <div class="">Yomogida N, Kerstein C. Surfing Injuries. <a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Performance Training/Surfing/surfing_injuries.html">https://nateyomo.github.io/Yomogida-Kerstein-Lab/The
 Archive/Performance Training/Surfing/surfing_injuries.html</a></div>
 </div></div></section></div></main> <!-- /main -->

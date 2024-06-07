@@ -23,23 +23,22 @@ The suprascapular artery and vein initially run with the suprascapular nerve, bu
 
 
 
-# Function
-## Motor Innervation
+
+# Motor Innervation
 
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
 | [Supraspinatus]({{< var ref-supraspinatus.path >}}) | {{< var ref-supraspinatus.origin >}} | {{< var ref-supraspinatus.insertion >}} | {{< var ref-supraspinatus.nerve >}} | {{< var ref-supraspinatus.action >}} |
 | [Infraspinatus]({{< var ref-infraspinatus.path >}}) | {{< var ref-infraspinatus.origin >}} | {{< var ref-infraspinatus.insertion >}} | {{< var ref-infraspinatus.nerve >}} | {{< var ref-infraspinatus.action >}} |
-
 : Suprascapular nerve motor innervation {.striped .hover}
 
-## Joint innervation
+# Joint innervation
 
 - Suprascapular nerve provides sensory and sympathetic afferent fibers to the GHJ @duttonDuttonOrthopaedicExamination2020
 - Suprascapular nerve provides sensory and sympathetic afferent fibers to the ACJ @duttonDuttonOrthopaedicExamination2020
 - Suprascapular nerve provides sensory and sympathetic afferent fibers to 2/3 of the "shoulder capsule" @duttonDuttonOrthopaedicExamination2020
 
-## Cutaneous Innervation
+# Cutaneous Innervation
 
 The suprascapular nerve has cutaneous branches, which provide sensation to the proximal $\frac{1}{3}$ of the arm, but their distribution overlaps with that of the supraclavicular and axillary nerves @duttonDuttonOrthopaedicExamination2020. 
 

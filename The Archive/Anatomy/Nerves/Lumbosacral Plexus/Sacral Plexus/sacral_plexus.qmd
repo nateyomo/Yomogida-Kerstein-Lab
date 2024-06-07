@@ -2,6 +2,20 @@
 title: Sacral Plexus
 ---
 
+
+| Nerve | Roots | Motor Innervation | Cutaneous Innervation |
+|-|-|-|-|
+| [Superior Gluteal N.]({{< var ref-superior-gluteal-nerve.path >}}) | {{< var ref-superior-gluteal-nerve.roots >}} | {{< var ref-superior-gluteal-nerve.motor >}} | {{< var ref-superior-gluteal-nerve.cutaneous >}} |
+| [Inferior Gluteal N.]({{< var ref-inferior-gluteal-nerve.path >}}) | {{< var ref-inferior-gluteal-nerve.roots >}} | {{< var ref-inferior-gluteal-nerve.motor >}} | {{< var ref-inferior-gluteal-nerve.cutaneous >}} |
+| [Posterior Cutaneous Nerve of the Thigh]({{< var ref-posterior-cutaneous-nerve-of-the-thigh.path >}}) | {{< var ref-posterior-cutaneous-nerve-of-the-thigh.roots >}} | {{< var ref-posterior-cutaneous-nerve-of-the-thigh.motor >}} | {{< var ref-posterior-cutaneous-nerve-of-the-thigh.cutaneous >}} |
+| [Sciatic N.]({{< var ref-sciatic-nerve.path >}}) | {{< var ref-sciatic-nerve.roots >}} | {{< var ref-sciatic-nerve.motor >}} | {{< var ref-sciatic-nerve.cutaneous >}} |
+| [Common Fibular N.]({{< var ref-common-fibular-nerve.path >}}) | {{< var ref-common-fibular-nerve.roots >}} | {{< var ref-common-fibular-nerve.motor >}} | {{< var ref-common-fibular-nerve.cutaneous >}} |
+| [Tibial N.]({{< var ref-tibial-nerve.path >}}) | {{< var ref-tibial-nerve.roots >}} | {{< var ref-tibial-nerve.motor >}} | {{< var ref-tibial-nerve.cutaneous >}} |
+| [Pudendal N.]({{< var ref-pudendal-nerve.path >}}) | {{< var ref-pudendal-nerve.roots >}} | {{< var ref-pudendal-nerve.motor >}} | {{< var ref-pudendal-nerve.cutaneous >}} |
+: {.striped .hover}
+
+
+
 - [Superior Gluteal nerve]({{< var ref-superior-gluteal-nerve.path >}}) ({{< var ref-superior-gluteal-nerve.roots >}})
 - [Inferior Gluteal nerve]({{< var ref-inferior-gluteal-nerve.path >}}) ({{< var ref-inferior-gluteal-nerve.roots >}})
 - [Posterioro Cutaneous Nerve of the Thigh]({{< var ref-posterior-cutaneous-nerve-of-the-thigh.path >}}) ({{< var ref-posterior-cutaneous-nerve-of-the-thigh.roots >}})

@@ -4,5 +4,6 @@ listing:
     contents: Journal club
     type: table
     sort: "date desc"
+citation: false
 ---
 

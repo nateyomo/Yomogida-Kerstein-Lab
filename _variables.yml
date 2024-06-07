@@ -1087,67 +1087,31 @@ ref-brachial-plexus:
   lateral-cord: "/"
   posterior-cord: "/"
   medial-cord: "/"
+#### Supraclavicular part
 ref-dorsal-scapular-nerve:
   path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/dorsal_scapular_nerve.qmd"
-  roots: "[C5]({{< var ref-nerve-root.c5 >}})"
-  motor: ""
-  cutaneous: ""
-ref-long-thoracic-nerve:
-  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/long_thoracic_nerve.qmd"
-  roots: "[C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}), & [C7]({{< var ref-nerve-root.c7 >}})"
-  motor: ""
-  cutaneous: ""
-ref-axillary-nerve:
-  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/axillary_nerve.qmd"
-  roots: "[C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}})"
+  roots: "[C4]({{< var ref-nerve-root.c4 >}}),[C5]({{< var ref-nerve-root.c5 >}})"
   motor: ""
   cutaneous: ""
 ref-suprascapular-nerve:
   path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/suprascapular_nerve.qmd"
-  roots: "(C4-C6)"
-  motor: ""
-  cutaneous: ""
-ref-subscapular-nerve:
-  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/subscapular_nerve.qmd"
   roots: "[C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}})"
-  upper: 
-    path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/subscapular_nerve.qmd"
-    roots: ""
-    motor: ""
-    cutaneous: ""
-  middle: 
-    path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/thoracodorsal_nerve.qmd"
-    roots: ""
-    motor: ""
-    cutaneous: ""
-  lower: 
-    path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/subscapular_nerve.qmd"
-    roots: ""
-    motor: ""
-    cutaneous: ""
-ref-thoracodorsal-nerve:
-  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/thoracodorsal_nerve.qmd"
-  roots: "[C6]({{< var ref-nerve-root.c6 >}}), [C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}}), & [C8]({{< var ref-nerve-root.c8 >}})"
   motor: ""
   cutaneous: ""
+ref-nerve-to-subclavius:
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/nerve_to_subclavius.qmd"
+  roots: "[C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}})"
+  motor: ""
+  cutaneous: ""
+ref-long-thoracic-nerve:
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/long_thoracic_nerve.qmd"
+  roots: "[C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}})"
+  motor: ""
+  cutaneous: ""
+#### Infraclavicular part
 ref-lateral-pectoral-nerve:
   path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/lateral_pectoral_nerve.qmd"
-  roots: "[C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}), & [C7]({{< var ref-nerve-root.c7 >}})"
-  motor: ""
-  cutaneous: ""
-ref-medial-pectoral-nerve:
-  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/medial_pectoral_nerve.qmd"
-  roots: "[C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})"
-  motor: ""
-  cutaneous: ""
-ref-medial-cutaneous-nerve-of-the-arm:
-  path: "/"
-  roots: "[C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})"
-  motor: ""
-  cutaneous: ""
-ref-medial-cutaneous-nerve-of-the-forearm:
-  path: "/"
-  roots: "[C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})"
+  roots: "[C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}})"
   motor: ""
   cutaneous: ""
 ref-musculocutaneous-nerve:
@@ -1155,19 +1119,24 @@ ref-musculocutaneous-nerve:
   roots: "[C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}})"
   motor: ""
   cutaneous: ""
-ref-nerve-to-subclavius:
-  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/nerve_to_subclavius.qmd"
-  roots: ""
-  motor: ""
-  cutaneous: ""
-ref-radial-nerve:
-  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/radial_nerve.qmd"
-  roots: "[C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})"
-  motor: ""
-  cutaneous: ""
 ref-median-nerve:
   path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/median_nerve.qmd"
   roots: "[C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})"
+  motor: ""
+  cutaneous: ""
+ref-medial-pectoral-nerve:
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/medial_pectoral_nerve.qmd"
+  roots: "[C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})"
+  motor: ""
+  cutaneous: ""
+ref-medial-antebrachial-cutaneous-nerve:
+  path: "/"
+  roots: "[C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})"
+  motor: ""
+  cutaneous: ""
+ref-medial-brachial-cutaneous-nerve:
+  path: "/"
+  roots: "[T1]({{< var ref-nerve-root.t1 >}})"
   motor: ""
   cutaneous: ""
 ref-ulnar-nerve:
@@ -1175,6 +1144,37 @@ ref-ulnar-nerve:
   roots: "[C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})"
   motor: ""
   cutaneous: ""
+ref-upper-subscapular-nerve:
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/subscapular_nerve.qmd"
+  roots: "[C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}})"
+  motor: ""
+  cutaneous: ""
+ref-middle-subscapular-nerve:
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/thoracodorsal_nerve.qmd"
+ref-thoracodorsal-nerve:
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/thoracodorsal_nerve.qmd"
+  roots: "[C6]({{< var ref-nerve-root.c6 >}}), [C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}}), & [C8]({{< var ref-nerve-root.c8 >}})"
+  motor: ""
+  cutaneous: ""
+ref-lower-subscapular-nerve:
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/thoracodorsal_nerve.qmd"
+    roots: "[C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}})"
+    motor: ""
+    cutaneous: ""
+ref-subscapular-nerve:
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/subscapular_nerve.qmd"
+  roots: "[C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}})"
+ref-radial-nerve:
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/radial_nerve.qmd"
+  roots: "[C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})"
+  motor: ""
+  cutaneous: ""
+ref-axillary-nerve:
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/axillary_nerve.qmd"
+  roots: "[C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}})"
+  motor: ""
+  cutaneous: ""
+
 ### Lower Extremity Nerve
 ref-lumbosacral-plexus:
   path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/lumbosacral_plexus.qmd"
@@ -1791,15 +1791,26 @@ ref-macrophage:
   path: "/The Archive/Physiology/Immune system/Immune cells/macrophages.qmd"
 ref-chemokine:
   path: "/The Archive/Physiology/Immune system/Immune cells/chemokines.qmd"
+
 ref-cytokine: "/The Archive/Physiology/Immune system/Immune cells/cytokines.qmd"
+
 ref-interleukin:
+  path: "/The Archive/Chemistry/Biochemistry/Proteins/Signalling Proteins/Cytokines/Interleukin/interleukin.qmd"
+ref-interleukin-1:
   path: "/"
-  il-6: "/The Archive/Physiology/Immune system/Immune cells/Cytokines/Interleukin/interleukin_6_IL-6.qmd"
-  il-8: "/The Archive/Physiology/Immune system/Immune cells/Cytokines/Interleukin/interleukin_8_IL-8.qmd"
-  il-1beta: "/The Archive/Physiology/Immune system/Immune cells/Cytokines/Interleukin/interleukin-1beta.qmd"
+interleukin-1beta: 
+  path: "/The Archive/Chemistry/Biochemistry/Proteins/Signalling Proteins/Cytokines/Interleukin/interleukin-1beta.qmd"
+
+ref-interleukin-6: 
+  path: "/The Archive/Chemistry/Biochemistry/Proteins/Signalling Proteins/Cytokines/Interleukin/interleukin_6_IL-6.qmd"
+
+interleukin-8: 
+  path: "/The Archive/Chemistry/Biochemistry/Proteins/Signalling Proteins/Cytokines/Interleukin/interleukin_8_IL-8.qmd"
+  
 ref-tumor-necrosis-factor:
   path: "/"
-  tnf-alpha: "/The Archive/Physiology/Immune system/Immune cells/Cytokines/Tumor Necrosis Factor/tumor_necrosis_factor_alpha_TNF-alpha.qmd"
+  tnf-alpha: 
+    path: "/The Archive/Physiology/Immune system/Immune cells/Cytokines/Tumor Necrosis Factor/tumor_necrosis_factor_alpha_TNF-alpha.qmd"
 
 ## Muscle
 
