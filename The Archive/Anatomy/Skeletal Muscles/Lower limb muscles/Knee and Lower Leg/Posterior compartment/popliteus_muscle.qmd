@@ -34,6 +34,10 @@ Posterior tibial surface (*above the origin at the soleus*)
 
 - **Knee**: flexes and unlocks the knee by externally rotating the femur on the fixed tibia @gilroyAtlasAnatomy2020 
 
+# Biomechanics
+
+- OKC: IR rotates tibia on femur
+- CKC: ER rotates femur on tibia
 
 
 # "Key" to the Knee

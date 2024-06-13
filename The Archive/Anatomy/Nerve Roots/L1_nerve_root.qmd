@@ -4,14 +4,19 @@ title: L1 Nerve Root (L1)
 
 
 
-# Supply
-
-
-
+# Peripheral Nerve Supply
 
 | Nerve | Roots | Motor Innervation | Cutaneous Innervation |
 |-|-|-|-|
 | [Ilioinguinal N.]({{< var ref-ilioinguinal-nerve.path >}}) | {{< var ref-ilioinguinal-nerve.roots >}} | {{< var ref-ilioinguinal-nerve.motor >}} | {{< var ref-ilioinguinal-nerve.cutaneous >}} |
 | [Iliohypogastric N.]({{< var ref-iliohypogastric-nerve.path >}}) | {{< var ref-iliohypogastric-nerve.roots >}} | {{< var ref-iliohypogastric-nerve.motor >}} | {{< var ref-iliohypogastric-nerve.cutaneous >}} |
 | [Genitofemoral N.]({{< var ref-genitofemoral-nerve.path >}}) | {{< var ref-genitofemoral-nerve.roots >}} | {{< var ref-genitofemoral-nerve.motor >}} | {{< var ref-genitofemoral-nerve.cutaneous >}} |
-: {.striped .hover}
+: Peripheral Nerves Originating from L1 Nerve root {.striped .hover}
+
+# Muscle Supply
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Psoas Major]({{< var ref-psoas-major.path >}}) | {{< var ref-psoas-major.origin >}} | {{< var ref-psoas-major.insertion >}} | {{< var ref-psoas-major.nerve >}} | {{< var ref-psoas-major.action >}} |
+| [Psoas Minor]({{< var ref-psoas-minor.path >}}) | {{< var ref-psoas-minor.origin >}} | {{< var ref-psoas-minor.insertion >}} | {{< var ref-psoas-minor.nerve >}} | {{< var ref-psoas-minor.action >}} |
+: Muscles Innervated by L1 Nerve Root {.striped .hover}

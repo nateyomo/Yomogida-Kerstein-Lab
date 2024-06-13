@@ -9,8 +9,12 @@ title: Superficial Fibular Nerve
 
 # Motor innervation
 
-- Fibularis brevis @gilroyAtlasAnatomy2020
-- Fibularis longus @gilroyAtlasAnatomy2020
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Fibularis Longus]({{< var ref-fibularis-longus.path >}}) | {{< var ref-fibularis-longus.origin >}} | {{< var ref-fibularis-longus.insertion >}} | {{< var ref-fibularis-longus.nerve >}} | {{< var ref-fibularis-longus.action >}} |
+| [Fibularis Brevis]({{< var ref-fibularis-brevis.path >}}) | {{< var ref-fibularis-brevis.origin >}} | {{< var ref-fibularis-brevis.insertion >}} | {{< var ref-fibularis-brevis.nerve >}} | {{< var ref-fibularis-brevis.action >}} |
+: Muscular innervations of Superficial Fibular Nerve {.striped .hover}
+
 
 # Cutaneous Innervation
 

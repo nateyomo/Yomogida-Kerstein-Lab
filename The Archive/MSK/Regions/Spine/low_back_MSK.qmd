@@ -1,7 +1,27 @@
 ---
-title: Musculoskeletal Approach to the Lumbar Spine
+title: Musculoskeletal Approach to the Low Back
 ---
 
+
+# Joints
+
+## Apophyseal Joints
+
+![Apophyseal joints moving from the sagittal plane at the upper lumbar to the frontal plane in the lower lumbar spine](/The Archive/Anatomy/Joints/Spine joints/images/plane of lumbar apophyseal joints.png)
+
+- ~25&deg; from sagittal plane
+- Inferior articular processes
+    - Convex
+    - Oriented Ant/Lat
+- Superior articular processes
+    - Concave
+    - Oriented Post/Med
+- L5-S1 apophyseal joints oriented closer to frontal plane
+
+
+## Lumbosacral Junction
+
+See [lumbosacral junction]({{< var ref-lumbosacral-junction.path >}})
 
 
 
@@ -29,3 +49,13 @@ Proposed by Richardson
 
 :::
 
+
+# ROM
+
+## Lumbar ROM
+
+- 3 degrees of freedom:
+- Sagittal: ~65&deg;
+- Frontal: ~30&deg;
+- Transverse: 10&deg;
+- Rotation and lateral bending are coupled contralaterally

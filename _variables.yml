@@ -176,6 +176,16 @@ ref-temporomandibular-joint:
   articular-disc: "/The Archive/Anatomy/Joints/temporomandibular_joint.qmd#articular-disc"
 ref-sternoclavicular-joint:
   path: "/The Archive/Anatomy/Joints/sternoclavicular_joint.qmd"
+
+### Spine joints
+
+ref-apophyseal-joint:
+  path: "/The Archive/Anatomy/Joints/Spine joints/apophyseal_joint.qmd"
+ref-lumbosacral-junction:
+  path: "/The Archive/Anatomy/Joints/Spine joints/lumbosacral_junction.qmd"
+
+### LE Joints
+
 ### UE Joints
 ref-acromioclavicular-joint:
   path: "/The Archive/Anatomy/Joints/UE Joints/acromioclavicular_joint.qmd"
@@ -680,10 +690,10 @@ ref-iliopsoas-muscle-group:
   path: "/"
 ref-iliacus:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/iliacus_muscle.qmd"
-  origin: ""
-  insertion: ""
-  nerve: ""
-  action: ""
+  origin: "Iliac fossa"
+  insertion: "Femur (lesser trochanter)"
+  nerve: "[Femoral N.]({{< var ref-femoral-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}))"
+  action: "**Hip joint**: flexion and external rotation </br> **L/S**: </br> UNIL: contraction (with the femur fixed) flexes the trunk laterally to the same side </br> BIL: Raises the trunk from the supine position"
 ref-psoas-major:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/psoas_major_muscle.qmd"
   origin: "**Superficial**: T12–L4 and associated intervertebral disks (lateral surfaces) </br> **Deep**: L1–L5 vertebrae (TPs)"
@@ -1158,9 +1168,9 @@ ref-thoracodorsal-nerve:
   cutaneous: ""
 ref-lower-subscapular-nerve:
   path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/thoracodorsal_nerve.qmd"
-    roots: "[C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}})"
-    motor: ""
-    cutaneous: ""
+  roots: "[C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}})"
+  motor: ""
+  cutaneous: ""
 ref-subscapular-nerve:
   path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/subscapular_nerve.qmd"
   roots: "[C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}})"
@@ -1250,12 +1260,12 @@ ref-tibial-nerve:
   motor: ""
   cutaneous: ""
 ref-superficial-fibular-nerve:
-  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Sacral Plexus/superficial_fibular_nerve.qmd"
+  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Sacral Plexus/Common Fibular Nerve Branches/superficial_fibular_nerve.qmd"
   roots: ""
   motor: ""
   cutaneous: ""
 ref-deep-fibular-nerve:
-  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Sacral Plexus/deep_fibular_nerve.qmd"
+  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Sacral Plexus/Common Fibular Nerve Branches/deep_fibular_nerve.qmd"
   roots: ""
   motor: ""
   cutaneous: ""
@@ -1645,6 +1655,11 @@ ref-hawkins-kennedy-test:
 ### Lower extremity tests
 ref-fulcrum-test-stress-fracture:
   path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/fulcrum_test_stress_fracture.qmd"
+
+### Foot and ankle tests
+ref-navicular-drop-test:
+  path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/Ankle and Foot Tests/navicular_drop_test.qmd"
+
 ### Hip T&M
 ref-external-derotation-test:
   path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/Hip Tests/External_Derotation_Test.qmd"
