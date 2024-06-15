@@ -56,8 +56,6 @@ Lack of familial history or genetic factors is different from other headache typ
 
 
 
-- Need at least 5 attacks unilaterally, 15 min-3 hours     
-    - Probs to sympathetic nerves of face
 
 
 ## Quality
@@ -74,11 +72,20 @@ Lack of familial history or genetic factors is different from other headache typ
 - Possible mild neck symptoms
 - Autonomic response (lacrimation, ptosis)
 
+
+# Diagnosis
+
+- Need at least 5 attacks unilaterally
+- Attacks must last 15min-3 hours     
+    - Probs to sympathetic nerves of face
+
+
 # Treatment
 
 
 
 :::{.callout title="from PT School"}
+
 - Stress reduction
 - [Vagal nerve stimulation]({{< var ref-cn10.vagal-nerve-stimulation >}}) (non invasive)
 - C/s strength and mobility

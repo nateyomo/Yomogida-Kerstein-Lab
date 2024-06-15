@@ -391,8 +391,7 @@ ref-semispinalis-thoracis:
   nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
   action: "**BIL**: Extends thoracic and cervical spines and head (stabilizes craniovertebral jt); <br/> **UNIL**: I/L SB of head, cervical, and thoracic spine; C/L Rotation"
 
-ref-serratus-anterior:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Shoulder and Arm Muscles/serratus_anterior_muscle.qmd"
+
 
 #### deep segmental back muscles
 ref-interspinales-cervicis:
@@ -602,8 +601,60 @@ ref-middle-scalene:
   path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/middle_scalene_muscle.qmd"
 ref-posterior-scalene:
   path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/posterior_scalene_muscle.qmd"
-### Shoulder and arm muscles
-#### Deltoid muscle
+
+### Anterior axioappendicular muscles
+ref-pectoralis-major:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Shoulder and Arm Muscles/pectoralis_major_muscle.qmd"
+  origin: "[Clavicle (medial half)]({{< var ref-clavicle-bone.path >}}), [sternum]({{< var ref-sternum-bone.path >}}), [costal cartilages 1–6]({{< var ref-costal-cartilages.path >}}), [rectus sheath (anterior layer)]({{< var ref-rectus-sheath.path >}})"
+  insertion: "[Humerus (crest of greater tubercle)]({{< var ref-humerus-bone.path >}})"
+  nerve: "[Lateral pectoral nerve]({{< var ref-lateral-pectoral-nerve.path >}}) and [Medial pectoral nerve]({{< var ref-medial-pectoral-nerve.path >}}) (C5-T1)"
+  action: "**Entire muscle**: adduction, internal rotation; **Clavicular and sternocostal parts**: flexion; assist in respiration when shoulder is fixed"
+ref-pectoralis-minor:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Shoulder and Arm Muscles/pectoralis_minor_muscle.qmd"
+  origin: "[3rd to 5th ribs]({{< var ref-ribs-bones.path >}})"
+  insertion: "[Coracoid process]({{< var ref-scapula-bone.path >}})"
+  nerve: "[Medial Pectoral n. (C8, T1)]({{< var ref-medial-pectoral-nerve.path >}})"
+  action: "Draws scapula downward, causing inferior angle to move posteromedially; <br/> rotates glenoid inferiorly; assists in respiration"
+ref-subclavius:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Shoulder and Arm Muscles/subclavius_muscle.qmd"
+  origin: "[1st rib]({{< var ref-1st-rib.path >}})"
+  insertion: "[Clavicle (inferior surface)]({{< var ref-clavicle-bone.path >}})"
+  nerve: "[N. to subclavius (C5, C6)]({{< var ref-nerve-to-subclavius.path >}})"
+  action: "Steadies the clavicle in the sternoclavicular joint"
+ref-serratus-anterior:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Shoulder and Arm Muscles/serratus_anterior_muscle.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+### Posterior axioappendicular muscles (superficial layer)
+ref-latissimus-dorsi:
+  path: "/"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+### Posterior axioappendicular muscles (Deep layer)
+ref-levator-scapulae:
+  path: "/"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-rhomboid-major:
+  path: "/"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-rhomboid-minor:
+  path: "/"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+
+### Scapulohumeral (Intrinsic Shoulder Muscles)
 ref-deltoid-muscle:
   path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Shoulder and Arm Muscles/Deltoid Muscles/deltoid_muscle.qmd"
 ref-deltoid-muscle-anterior:
@@ -624,8 +675,12 @@ ref-deltoid-muscle-posterior:
   insertion: "Humerus (deltoid tuberosity)"
   nerve: "[Axillary n. {{< var ref-axillary-nerve.roots >}}]({{< var ref-axillary-nerve.path >}})"
   action: "**GHJ:** Extension, external rotation, adduction"
-
-#### Rotator cuff
+ref-teres-major:
+  path: "/"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
 ref-supraspinatus:
   path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Shoulder and Arm Muscles/Rotator Cuff/supraspinatus_muscle.qmd"
   origin: "Supraspinous Fossa of [scapula]({{< var ref-scapula-bone.path >}})"
@@ -651,38 +706,16 @@ ref-teres-minor:
   nerve: "[Axillary n. (C5, C6)]({{< var ref-axillary-nerve.path >}})"
   action: "External rotation, weak adduction, stabilizes GHJ"
 
-ref-teres-major:
-  path: "/"
-  origin: ""
-  insertion: ""
-  nerve: ""
-  action: ""
 
 ### Pectoral Girdle
-ref-pectoralis-major:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Shoulder and Arm Muscles/pectoralis_major_muscle.qmd"
-  origin: "[Clavicle (medial half)]({{< var ref-clavicle-bone.path >}}), [sternum]({{< var ref-sternum-bone.path >}}), [costal cartilages 1–6]({{< var ref-costal-cartilages.path >}}), [rectus sheath (anterior layer)]({{< var ref-rectus-sheath.path >}})"
-  insertion: "[Humerus (crest of greater tubercle)]({{< var ref-humerus-bone.path >}})"
-  nerve: "[Lateral pectoral nerve]({{< var ref-lateral-pectoral-nerve.path >}}) and [Medial pectoral nerve]({{< var ref-medial-pectoral-nerve.path >}}) (C5-T1)"
-  action: "**Entire muscle**: adduction, internal rotation; **Clavicular and sternocostal parts**: flexion; assist in respiration when shoulder is fixed"
-ref-pectoralis-minor:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Shoulder and Arm Muscles/pectoralis_minor_muscle.qmd"
-  origin: "[3rd to 5th ribs]({{< var ref-ribs-bones.path >}})"
-  insertion: "[Coracoid process]({{< var ref-scapula-bone.path >}})"
-  nerve: "[Medial Pectoral n. (C8, T1)]({{< var ref-medial-pectoral-nerve.path >}})"
-  action: "Draws scapula downward, causing inferior angle to move posteromedially; <br/> rotates glenoid inferiorly; assists in respiration"
+
 ref-coracobrachialis:
   path: "/The Archive/Anatomy/Skeletal Muscles/Shoulder and Arm Muscles/coracobrachialis_muscle.qmd"
   origin: "[Scapula (coracoid process)]({{< var ref-scapula-bone.path >}})"
   insertion: "[Humerus (in line with crest of lesser tubercle)]({{< var ref-humerus-bone.path >}})"
   nerve: "[Musculocutaneous n. (C5–C7)]({{< var ref-musculocutaneous-nerve.path >}})"
   action: "Flexion, adduction, internal rotation"
-ref-subclavius:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Shoulder and Arm Muscles/subclavius_muscle.qmd"
-  origin: "[1st rib]({{< var ref-1st-rib.path >}})"
-  insertion: "[Clavicle (inferior surface)]({{< var ref-clavicle-bone.path >}})"
-  nerve: "[N. to subclavius (C5, C6)]({{< var ref-nerve-to-subclavius.path >}})"
-  action: "Steadies the clavicle in the sternoclavicular joint"
+
 
 ### Lower Extremity muscles
 ### Iliopsoas muscles
@@ -1599,10 +1632,18 @@ ref-tinels-test:
   brachial-plexus: "/The Archive/Examination/Tests and Measures/Tinels_test.qmd#brachial-plexus"
   carpal-tunnel: "/The Archive/Examination/Tests and Measures/Tinels_test.qmd#carpal-tunnel"
 ### Head and neck tests
+ref-canadian-cervical-spine-rules:
+  path: "/The Archive/Examination/Tests and Measures/Head and Neck Tests/canadian_cervical_spine_rules.qmd"
 ref-VBI-vertebrobasilar-insufficiency-test:
   path: "/The Archive/Examination/Tests and Measures/Head and Neck Tests/VBI_vertebrobasilar_insufficiency_test.qmd"
   sensitivity: ""
   specificity: ""
+ref-sharp-purser-test:
+  path: "/The Archive/Examination/Tests and Measures/Head and Neck Tests/Sharp-Purser_test.qmd"
+ref-alar-ligament-test:
+  path: "/The Archive/Examination/Tests and Measures/Head and Neck Tests/alar_ligament_test.qmd"
+ref-spurlings-test:
+  path: "/The Archive/Examination/Tests and Measures/Head and Neck Tests/Spurlings_test.qmd"
 ref-cervical-distraction-test:
   path: "/The Archive/Examination/Tests and Measures/Head and Neck Tests/cervical_distraction_test.qmd"
   specificity: "High"
@@ -1631,6 +1672,8 @@ ref-tos-passive-shoulder-shrug-test:
   path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/Thoracic outlet syndrome/tos_passive_shoulder_shrug_test.qmd"
 ref-tos-cyriax-test:
   path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/Thoracic outlet syndrome/cyriax_test.qmd"
+ref-tos-allen-maneuver:
+  path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/Thoracic outlet syndrome/tos_allen_maneuver.qmd"
 #### ULTT
 ref-ultt:
   overview: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/ULTT/ULTT_upper_limb_tension_test.qmd"
@@ -2369,6 +2412,8 @@ ref-eye-symptom:
   path: "/"
   hemianopsia: "/The Archive/Symptoms/Eye Symptoms/hemianopsia.qmd"
 ## Headaches
+ref-tension-type-headache:
+  path: "/The Archive/Symptoms/Headache/tension_type_headache.qmd"
 ref-headache:
   path: "/The Archive/Symptoms/Headache/headache.qmd"
   cluster: "/The Archive/Symptoms/Headache/cluster_headache.qmd"

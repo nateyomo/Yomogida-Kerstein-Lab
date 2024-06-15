@@ -26,13 +26,16 @@ The supratentorial dura (most of the intracranial cavity) is innervated by the t
 
 # Classification
 
+::: {.columns}
+::: {.column}
 ## Primary headache
 
 - Migraine
 - Cluster headache 
 - Cervicogenic Headache (Trigeminal autonomic cephalgias)
 - Tension-type headache
-
+:::
+::: {.column}
 ## Secondary headache
 
 - Head trauma @blumenfeldNeuroanatomyClinicalCases2022
@@ -52,6 +55,48 @@ The supratentorial dura (most of the intracranial cavity) is innervated by the t
 - Trigeminal and other cranial neuralgias @blumenfeldNeuroanatomyClinicalCases2022
 - Disorders of the eyes, ears, sinuses, teeth, joints, or scalp @blumenfeldNeuroanatomyClinicalCases2022
 - Psychiatric disorders @blumenfeldNeuroanatomyClinicalCases2022
+:::
+:::
+
+# Primary Headaches
+
+
+
+:::{layout-ncol="4"}
+
+### Cervicogenic
+
+- Unilateral
+- Ramhorn pain pattern w neck ext
+- Non throbbing
+- Moderate non excruciating pain
+
+### Migraine
+
+- Drop in serotonin levels causing trigeminal n to release substances (neuropeptides) which travel to the brain’s meninges. Cause BV’s to become dilated and inflamed resulting in a HA. 
+- 4-72 hours, generally less than 24 hours
+- Unilateral usually, but can be bilateral
+- [Read more]({{< var ref-migraine.path >}})
+
+### Tension Type Headache
+
+- Bilateral
+- Periorbital, temporal , occipital
+- Dull ache, heavy weight, mod to severe
+- Can to trigger point release= typically stress and tension precipitating factors
+- Do not wake up with this, as day moves on it builds (usually d/t muscle tension)
+- [Read more]({{< var ref-tension-type-headache.path >}})
+
+### Cluster
+
+- Cluster headache
+- Unilateral
+- Temporal, frontal , retrooribtal, occipital 
+- Unknown cause
+- Diagnosis: Need at least 5 attacks unilaterally, lasting 15 min to 3 hours
+- [Read more]({{< var ref-headache.cluster >}})
+
+
 
 
 
