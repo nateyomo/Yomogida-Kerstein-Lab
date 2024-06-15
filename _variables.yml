@@ -162,8 +162,12 @@ ref-plica:
   path: "/The Archive/Anatomy/Connective tissue/plica.qmd"
   syndrome: "/The Archive/Pathologies/Pathologies by Region/Lower extremity/Knee/plica_syndrome.qmd"
 ## Joints
+ref-synovial-joint:
+  path: "/The Archive/Anatomy/Joints/Joint Types/Synovial Joint/synovial_joint.qmd"
+
 ref-joint:
   path: "/The Archive/Anatomy/Joints/joint_overview.qmd"
+  mechanical-classification: "/The Archive/Anatomy/Joints/Joint Types/Synovial Joint/synovial_joint.qmd"
   synovial: "/The Archive/Anatomy/Joints/joint_overview.qmd#synovial-joint"
 ref-sacroiliac-joint:
   path: "/The Archive/Anatomy/Joints/sacroiliac_joint.qmd"

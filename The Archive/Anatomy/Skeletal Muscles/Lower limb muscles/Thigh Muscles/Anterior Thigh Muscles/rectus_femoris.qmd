@@ -47,6 +47,9 @@ Since the rectus femoris crosses both the hip and knee, "this gives the hip join
 "The line of pull of the rectus femoris, with respect to the patella, is at an angle of about 5 degrees with the femoral shaft (see Fig. 20-12)." @duttonDuttonOrthopaedicExamination2020 
 :::
 
+# Force Couple
+
+Erector Spinae and the Rectus Femoris are considered a force couple since both produce anterior pelvic tilt
 
 # Notes
 

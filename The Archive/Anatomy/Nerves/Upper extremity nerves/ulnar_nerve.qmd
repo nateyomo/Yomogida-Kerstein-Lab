@@ -16,3 +16,8 @@ title: Ulnar Nerve
 
 - [ULTT3]({{< var ref-ultt.ultt3.path >}})
 - Froment's Sign
+
+
+# Claw hand
+
+Claw hand refers to a passive hand position that is commmonly observed following an ulnar nerve lesion.

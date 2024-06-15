@@ -46,6 +46,11 @@ Calcaneal tuberosity via the Achilles' tendon @gilroyAtlasAnatomy2020
 - **TCJ**: Plantarflexion (*when knee is extended*) @gilroyAtlasAnatomy2020
 - **Knee**: Flexion @gilroyAtlasAnatomy2020 
 
+# Biomechanics
+
+The Triceps Surae inserts onto the calcaneal tuberosity via the achilles tendon.
+The fulcrum is technically the distal foot and the external load acting upon this muscle, joint, tendon complex is at the tibia.
+Thus, this is a **second class lever** and as a result, the triceps surae create more torque relative to their force compared to most other muscles in the body.
 
 
 

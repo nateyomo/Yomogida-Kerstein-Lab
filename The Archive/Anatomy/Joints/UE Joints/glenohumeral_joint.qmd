@@ -29,6 +29,15 @@ title: Glenohumeral Joint
 
 "Posteriorly, the scapula is divided by the elevated scapula spine into two unequally sized muscle compartments. The supraspinous fossa is small and serves as the site of origin for the supraspinatus muscle (see Fig. 16-4). The infraspinous fossa gives attachment for the downward-acting infraspinatus and teres minor muscles (see Fig. 16-4), important muscles for the stabilization of the humeral head (see “Muscles of the Shoulder Complex” section). The infraspinatus and supraspinatus fuse near their insertions and cannot be separated, and the teres minor and infraspinatus merge inseparably just proximal to the musculotendinous junction.6 The supraspinatus tendon is made up of 6–9 structurally independent parallel fascicles separated by an endotendon and a lubricant that facilitates gliding.7 The RC tendons are also merged with the capsule of the shoulder and the coracohumeral and G-H ligaments. This interweaving of the RC with the G-H joint ligamentous and capsular tissues negates the possibility of isolated testing of individual structures.6 This structural arrangement also improves resistance to failure when the RC is under load because (a) tension in one muscle may be distributed over a wide area and (b) it reduces stress within the tendon during extremes of movement.8" @duttonDuttonOrthopaedicExamination2020 
 
+
+# Tissues That Reinforce or Deepen Joint
+
+- Joint capsule and associated GH capsular ligaments @neumannKinesiologyMusculoskeletalSystem2017
+- Coracohumeral ligament @neumannKinesiologyMusculoskeletalSystem2017
+- Rotator cuff muscles (subscapularis, supraspinatus, infraspinatus, and teres minor) @neumannKinesiologyMusculoskeletalSystem2017
+- Long head of the biceps brachii @neumannKinesiologyMusculoskeletalSystem2017
+- Glenoid labrum @neumannKinesiologyMusculoskeletalSystem2017
+
 # Socket
 
 The coracoacromial ligament the labrum serve to functionally enlarges the GHJ socket @duttonDuttonOrthopaedicExamination2020 

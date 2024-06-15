@@ -2830,7 +2830,7 @@
   </url>
   <url>
     <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Anatomy/Joints/UE Joints/scapulothoracic_joint.html</loc>
-    <lastmod>2024-06-13T17:55:52.303Z</lastmod>
+    <lastmod>2024-06-15T17:17:32.349Z</lastmod>
   </url>
   <url>
     <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Anatomy/Nerve Roots/L3_nerve_root.html</loc>
@@ -2838,7 +2838,7 @@
   </url>
   <url>
     <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Anatomy/Nerve Roots/L4_nerve_root.html</loc>
-    <lastmod>2024-06-13T17:56:11.197Z</lastmod>
+    <lastmod>2024-06-15T17:17:37.503Z</lastmod>
   </url>
   <url>
     <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Anatomy/Nerve Roots/c2_nerve_root.html</loc>
@@ -2954,7 +2954,7 @@
   </url>
   <url>
     <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus_muscle.html</loc>
-    <lastmod>2024-06-15T16:14:52.157Z</lastmod>
+    <lastmod>2024-06-15T17:17:42.113Z</lastmod>
   </url>
   <url>
     <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/popliteus_muscle.html</loc>
@@ -2966,7 +2966,7 @@
   </url>
   <url>
     <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/gastrocnemius.html</loc>
-    <lastmod>2024-06-15T16:15:19.796Z</lastmod>
+    <lastmod>2024-06-15T17:17:46.846Z</lastmod>
   </url>
   <url>
     <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/fibularis_longus_muscle.html</loc>
@@ -3386,7 +3386,7 @@
   </url>
   <url>
     <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Anatomy/Nerves/Upper extremity nerves/medial_pectoral_nerve.html</loc>
-    <lastmod>2024-06-13T18:17:24.185Z</lastmod>
+    <lastmod>2024-06-15T17:18:29.941Z</lastmod>
   </url>
   <url>
     <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Anatomy/Nerves/Upper extremity nerves/nerve_to_subclavius.html</loc>
@@ -4942,7 +4942,7 @@
   </url>
   <url>
     <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Anatomy/Skeletal Muscles/OIAN.html</loc>
-    <lastmod>2024-06-15T16:12:39.896Z</lastmod>
+    <lastmod>2024-06-15T17:17:59.538Z</lastmod>
   </url>
   <url>
     <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Posterior Muscles/levator_scapulae.html</loc>
@@ -5039,5 +5039,69 @@
   <url>
     <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/subclavius_muscle.html</loc>
     <lastmod>2024-06-15T16:22:09.780Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Anatomy/Joints/Joint Types/Synovial Joint/synovial_joint.html</loc>
+    <lastmod>2024-06-15T18:12:44.455Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Histology/Cartilage/cartilage_overview.html</loc>
+    <lastmod>2024-06-15T18:12:38.941Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Histology/Bone/bone_tissue.html</loc>
+    <lastmod>2024-06-15T18:12:30.311Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Anatomy/Ligaments/Ligament Overview/ligament.html</loc>
+    <lastmod>2024-06-15T18:12:21.628Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Anatomy/Joints/Joint Types/Synovial Joint/hinge_synovial_joint.html</loc>
+    <lastmod>2024-06-15T18:12:12.774Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Anatomy/Joints/Joint Types/Synovial Joint/pivot_synovial_joint.html</loc>
+    <lastmod>2024-06-15T18:12:04.136Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Anatomy/Joints/Joint Types/Synovial Joint/ball-and-socket_synovial_joint.html</loc>
+    <lastmod>2024-06-15T18:11:55.337Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Anatomy/Joints/Joint Types/Synovial Joint/saddle_synovial_joint.html</loc>
+    <lastmod>2024-06-15T18:11:46.536Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Anatomy/Joints/LE Joints/Foot and Ankle Joints/metatarsophalangeal_joint_MTP.html</loc>
+    <lastmod>2024-06-15T18:11:37.296Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Anatomy/Joints/LE Joints/Foot and Ankle Joints/calcaneocuboid_joint.html</loc>
+    <lastmod>2024-06-15T18:11:42.008Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Anatomy/Joints/Joint Types/Synovial Joint/condyloid_synovial_joint.html</loc>
+    <lastmod>2024-06-15T18:11:50.915Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Anatomy/Joints/Joint Types/Synovial Joint/plane_synovial_joint.html</loc>
+    <lastmod>2024-06-15T18:11:59.891Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Anatomy/Joints/Joint Types/Synovial Joint/ellipsoid_synovial_joint.html</loc>
+    <lastmod>2024-06-15T18:12:08.482Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Anatomy/Joints/Joint Types/joint_types.html</loc>
+    <lastmod>2024-06-15T18:12:17.200Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Chemistry/Biochemistry/Polysaccharide/glycosaminogylcans_GAGs.html</loc>
+    <lastmod>2024-06-15T18:12:25.980Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Histology/Cartilage/articular_hyaline_cartilage.html</loc>
+    <lastmod>2024-06-15T18:12:34.621Z</lastmod>
   </url>
 </urlset>

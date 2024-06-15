@@ -3,6 +3,26 @@ title: Scapulothoracic Joint
 ---
 
 
+
+# Upward Rotation
+
+Force couple
+
+- Serratus anterior (greatest mechanical advantage for UR)
+- Upper trap (Initiation and throughout)
+- Late phase: Lower trap
+
+Stabilization
+
+- Middle trap (add / retract) which counteract the protraction force of the Serratus anterior, resulting in stabilization of the scapula
+
+
+# Scapular Depression
+
+- Lats
+- Pec Minor
+- Lower trapezius
+
 # Stabilization
 
 The Serratus Anterior (along with the rhomboids) serves to aid in scapular stability during arm elevation @duttonDuttonOrthopaedicExamination2020 
