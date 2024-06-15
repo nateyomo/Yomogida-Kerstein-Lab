@@ -2,7 +2,7 @@
 title: L5 Nerve Root (L5)
 ---
 
-# Supply
+# Peripheral Nerve Supply
 
 | Nerve | Roots | Motor Innervation | Cutaneous Innervation |
 |-|-|---|-|
@@ -14,6 +14,33 @@ title: L5 Nerve Root (L5)
 | [Tibial N.]({{< var ref-tibial-nerve.path >}}) | {{< var ref-tibial-nerve.roots >}} | {{< var ref-tibial-nerve.motor >}} | {{< var ref-tibial-nerve.cutaneous >}} |
 : {.striped .hover}
 
+# Muscle Supply
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Gluteus Maximus]({{< var ref-gluteus-maximus.path >}}) | {{< var ref-gluteus-maximus.origin >}} | {{< var ref-gluteus-maximus.insertion >}} | {{< var ref-gluteus-maximus.nerve >}} | {{< var ref-gluteus-maximus.action >}} |
+| [Gluteus Medius]({{< var ref-gluteus-medius.path >}}) | {{< var ref-gluteus-medius.origin >}} | {{< var ref-gluteus-medius.insertion >}} | {{< var ref-gluteus-medius.nerve >}} | {{< var ref-gluteus-medius.action >}} |
+| [Gluteus Minimus]({{< var ref-gluteus-minimus.path >}}) | {{< var ref-gluteus-minimus.origin >}} | {{< var ref-gluteus-minimus.insertion >}} | {{< var ref-gluteus-minimus.nerve >}} | {{< var ref-gluteus-minimus.action >}} |
+| [Tensor Fascia Latae]({{< var ref-tensor-fascia-latae.path >}}) | {{< var ref-tensor-fascia-latae.origin >}} | {{< var ref-tensor-fascia-latae.insertion >}} | {{< var ref-tensor-fascia-latae.nerve >}} | {{< var ref-tensor-fascia-latae.action >}} |
+| [Obturator Internus]({{< var ref-obturator-internus.path >}}) | {{< var ref-obturator-internus.origin >}} | {{< var ref-obturator-internus.insertion >}} | {{< var ref-obturator-internus.nerve >}} | {{< var ref-obturator-internus.action >}} |
+| [Superior Gemellus]({{< var ref-superior-gemellus.path >}}) | {{< var ref-superior-gemellus.origin >}} | {{< var ref-superior-gemellus.insertion >}} | {{< var ref-superior-gemellus.nerve >}} | {{< var ref-superior-gemellus.action >}} |
+| [Inferior Gemellus]({{< var ref-inferior-gemellus.path >}}) | {{< var ref-inferior-gemellus.origin >}} | {{< var ref-inferior-gemellus.insertion >}} | {{< var ref-inferior-gemellus.nerve >}} | {{< var ref-inferior-gemellus.action >}} |
+| [Quadratus Femoris]({{< var ref-quadratus-femoris.path >}}) | {{< var ref-quadratus-femoris.origin >}} | {{< var ref-quadratus-femoris.insertion >}} | {{< var ref-quadratus-femoris.nerve >}} | {{< var ref-quadratus-femoris.action >}} |
+| [Biceps Femoris Long Head]({{< var ref-biceps-femoris-long-head.path >}}) | {{< var ref-biceps-femoris-long-head.origin >}} | {{< var ref-biceps-femoris-long-head.insertion >}} | {{< var ref-biceps-femoris-long-head.nerve >}} | {{< var ref-biceps-femoris-long-head.action >}} |
+| [Biceps Femoris Short Head]({{< var ref-biceps-femoris-short-head.path >}}) | {{< var ref-biceps-femoris-short-head.origin >}} | {{< var ref-biceps-femoris-short-head.insertion >}} | {{< var ref-biceps-femoris-short-head.nerve >}} | {{< var ref-biceps-femoris-short-head.action >}} |
+| [Semitendinosus]({{< var ref-semitendinosus.path >}}) | {{< var ref-semitendinosus.origin >}} | {{< var ref-semitendinosus.insertion >}} | {{< var ref-semitendinosus.nerve >}} | {{< var ref-semitendinosus.action >}} |
+| [Semimembranosus]({{< var ref-semimembranosus.path >}}) | {{< var ref-semimembranosus.origin >}} | {{< var ref-semimembranosus.insertion >}} | {{< var ref-semimembranosus.nerve >}} | {{< var ref-semimembranosus.action >}} |
+| [Tibialis Anterior]({{< var ref-tibialis-anterior.path >}}) | {{< var ref-tibialis-anterior.origin >}} | {{< var ref-tibialis-anterior.insertion >}} | {{< var ref-tibialis-anterior.nerve >}} | {{< var ref-tibialis-anterior.action >}} |
+| [Extensor Hallucis Longus]({{< var ref-extensor-hallucis-longus.path >}}) | {{< var ref-extensor-hallucis-longus.origin >}} | {{< var ref-extensor-hallucis-longus.insertion >}} | {{< var ref-extensor-hallucis-longus.nerve >}} | {{< var ref-extensor-hallucis-longus.action >}} |
+| [Extensor Digitorum Longus]({{< var ref-extensor-digitorum-longus.path >}}) | {{< var ref-extensor-digitorum-longus.origin >}} | {{< var ref-extensor-digitorum-longus.insertion >}} | {{< var ref-extensor-digitorum-longus.nerve >}} | {{< var ref-extensor-digitorum-longus.action >}} |
+| [Fibularis Tertius]({{< var ref-fibularis-tertius.path >}}) | {{< var ref-fibularis-tertius.origin >}} | {{< var ref-fibularis-tertius.insertion >}} | {{< var ref-fibularis-tertius.nerve >}} | {{< var ref-fibularis-tertius.action >}} |
+| [Fibularis Longus]({{< var ref-fibularis-longus.path >}}) | {{< var ref-fibularis-longus.origin >}} | {{< var ref-fibularis-longus.insertion >}} | {{< var ref-fibularis-longus.nerve >}} | {{< var ref-fibularis-longus.action >}} |
+| [Fibularis Brevis]({{< var ref-fibularis-brevis.path >}}) | {{< var ref-fibularis-brevis.origin >}} | {{< var ref-fibularis-brevis.insertion >}} | {{< var ref-fibularis-brevis.nerve >}} | {{< var ref-fibularis-brevis.action >}} |
+| [Tibialis Posterior]({{< var ref-tibialis-posterior.path >}}) | {{< var ref-tibialis-posterior.origin >}} | {{< var ref-tibialis-posterior.insertion >}} | {{< var ref-tibialis-posterior.nerve >}} | {{< var ref-tibialis-posterior.action >}} |
+| [Flexor Digitorum Longus]({{< var ref-flexor-digitorum-longus.path >}}) | {{< var ref-flexor-digitorum-longus.origin >}} | {{< var ref-flexor-digitorum-longus.insertion >}} | {{< var ref-flexor-digitorum-longus.nerve >}} | {{< var ref-flexor-digitorum-longus.action >}} |
+| [Flexor Hallucis Longus]({{< var ref-flexor-hallucis-longus.path >}}) | {{< var ref-flexor-hallucis-longus.origin >}} | {{< var ref-flexor-hallucis-longus.insertion >}} | {{< var ref-flexor-hallucis-longus.nerve >}} | {{< var ref-flexor-hallucis-longus.action >}} |
+| [Popliteus]({{< var ref-popliteus.path >}}) | {{< var ref-popliteus.origin >}} | {{< var ref-popliteus.insertion >}} | {{< var ref-popliteus.nerve >}} | {{< var ref-popliteus.action >}} |
+: Muscles supplied by L5 Nerve Root {.striped .hover}
 
 
 # Overview

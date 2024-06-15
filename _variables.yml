@@ -604,51 +604,51 @@ ref-posterior-scalene:
 
 ### Anterior axioappendicular muscles
 ref-pectoralis-major:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Shoulder and Arm Muscles/pectoralis_major_muscle.qmd"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/pectoralis_major_muscle.qmd"
   origin: "[Clavicle (medial half)]({{< var ref-clavicle-bone.path >}}), [sternum]({{< var ref-sternum-bone.path >}}), [costal cartilages 1–6]({{< var ref-costal-cartilages.path >}}), [rectus sheath (anterior layer)]({{< var ref-rectus-sheath.path >}})"
   insertion: "[Humerus (crest of greater tubercle)]({{< var ref-humerus-bone.path >}})"
   nerve: "[Lateral pectoral nerve]({{< var ref-lateral-pectoral-nerve.path >}}) and [Medial pectoral nerve]({{< var ref-medial-pectoral-nerve.path >}}) (C5-T1)"
   action: "**Entire muscle**: adduction, internal rotation; **Clavicular and sternocostal parts**: flexion; assist in respiration when shoulder is fixed"
 ref-pectoralis-minor:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Shoulder and Arm Muscles/pectoralis_minor_muscle.qmd"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/pectoralis_minor_muscle.qmd"
   origin: "[3rd to 5th ribs]({{< var ref-ribs-bones.path >}})"
   insertion: "[Coracoid process]({{< var ref-scapula-bone.path >}})"
   nerve: "[Medial Pectoral n. (C8, T1)]({{< var ref-medial-pectoral-nerve.path >}})"
   action: "Draws scapula downward, causing inferior angle to move posteromedially; <br/> rotates glenoid inferiorly; assists in respiration"
 ref-subclavius:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Shoulder and Arm Muscles/subclavius_muscle.qmd"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/subclavius_muscle.qmd"
   origin: "[1st rib]({{< var ref-1st-rib.path >}})"
   insertion: "[Clavicle (inferior surface)]({{< var ref-clavicle-bone.path >}})"
   nerve: "[N. to subclavius (C5, C6)]({{< var ref-nerve-to-subclavius.path >}})"
   action: "Steadies the clavicle in the sternoclavicular joint"
 ref-serratus-anterior:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Shoulder and Arm Muscles/serratus_anterior_muscle.qmd"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/serratus_anterior_muscle.qmd"
   origin: ""
   insertion: ""
   nerve: ""
   action: ""
-### Posterior axioappendicular muscles (superficial layer)
+
+### Posterior axioappendicular muscles
 ref-latissimus-dorsi:
-  path: "/"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Posterior Muscles/latissimus_dorsi.qmd"
   origin: ""
   insertion: ""
   nerve: ""
   action: ""
-### Posterior axioappendicular muscles (Deep layer)
 ref-levator-scapulae:
-  path: "/"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Posterior Muscles/levator_scapulae.qmd"
   origin: ""
   insertion: ""
   nerve: ""
   action: ""
 ref-rhomboid-major:
-  path: "/"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Posterior Muscles/rhomboid_major.qmd"
   origin: ""
   insertion: ""
   nerve: ""
   action: ""
 ref-rhomboid-minor:
-  path: "/"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Posterior Muscles/rhomboid_minor.qmd"
   origin: ""
   insertion: ""
   nerve: ""
@@ -656,66 +656,297 @@ ref-rhomboid-minor:
 
 ### Scapulohumeral (Intrinsic Shoulder Muscles)
 ref-deltoid-muscle:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Shoulder and Arm Muscles/Deltoid Muscles/deltoid_muscle.qmd"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/deltoid_muscle.qmd"
 ref-deltoid-muscle-anterior:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Shoulder and Arm Muscles/Deltoid Muscles/deltoid_muscle.qmd"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/deltoid_muscle.qmd"
   origin: "Lateral 1/3 of clavicle"
   insertion: "Humerus (deltoid tuberosity)"
   nerve: "[Axillary n. {{< var ref-axillary-nerve.roots >}}]({{< var ref-axillary-nerve.path >}})"
   action: "**GHJ:** Flexion, internal rotation, adduction"
 ref-deltoid-muscle-lateral:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Shoulder and Arm Muscles/Deltoid Muscles/deltoid_muscle.qmd"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/deltoid_muscle.qmd"
   origin: "Acromion"
   insertion: "Humerus (deltoid tuberosity)"
   nerve: "[Axillary n. {{< var ref-axillary-nerve.roots >}}]({{< var ref-axillary-nerve.path >}})"
   action: "Abduction"
 ref-deltoid-muscle-posterior:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Shoulder and Arm Muscles/Deltoid Muscles/deltoid_muscle.qmd"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/deltoid_muscle.qmd"
   origin: "Scapular spine"
   insertion: "Humerus (deltoid tuberosity)"
   nerve: "[Axillary n. {{< var ref-axillary-nerve.roots >}}]({{< var ref-axillary-nerve.path >}})"
   action: "**GHJ:** Extension, external rotation, adduction"
 ref-teres-major:
-  path: "/"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/teres_major.qmd"
   origin: ""
   insertion: ""
   nerve: ""
   action: ""
+### rotator cuff
+ref-rotator-cuff-muscle-group:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/rotator_cuff_muscles.qmd"
 ref-supraspinatus:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Shoulder and Arm Muscles/Rotator Cuff/supraspinatus_muscle.qmd"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/supraspinatus_muscle.qmd"
   origin: "Supraspinous Fossa of [scapula]({{< var ref-scapula-bone.path >}})"
   insertion: "Greater tubercle of [Humerus]({{< var ref-humerus-bone.path >}})"
   nerve: "[Suprascapular nerve (C4-C6)]({{< var ref-suprascapular-nerve.path >}})"
   action: "Initiates abduction"
 ref-infraspinatus:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Shoulder and Arm Muscles/Rotator Cuff/infraspinatus_muscle.qmd"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/infraspinatus_muscle.qmd"
   origin: "Infraspinous Fossa of [scapula]({{< var ref-scapula-bone.path >}})"
   insertion: "Greater tubercle of [Humerus]({{< var ref-humerus-bone.path >}})"
   nerve: "[Suprascapular nerve {{< var ref-suprascapular-nerve.roots >}}]({{< var ref-suprascapular-nerve.path >}})"
   action: "External rotation"
 ref-subscapularis:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Shoulder and Arm Muscles/Rotator Cuff/subscapularis_muscle.qmd"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/subscapularis_muscle.qmd"
   origin: "Subscapular fossa of [scapula]({{< var ref-scapula-bone.path >}})"
   insertion: "Lesser tubercle of [Humerus]({{< var ref-humerus-bone.path >}})"
   nerve: "[Upper and Lower subscapular nerves (C5, C6)]({{< var ref-subscapular-nerve.upper >}})"
   action: "Internal Rotation"
 ref-teres-minor:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Shoulder and Arm Muscles/Rotator Cuff/teres_minor_muscle.qmd"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/teres_minor_muscle.qmd"
   origin: "Lateral border of [scapula]({{< var ref-scapula-bone.path >}})"
   insertion: "Greater tubercle of [Humerus]({{< var ref-humerus-bone.path >}})"
   nerve: "[Axillary n. (C5, C6)]({{< var ref-axillary-nerve.path >}})"
   action: "External rotation, weak adduction, stabilizes GHJ"
 
 
-### Pectoral Girdle
-
+### Muscles of Anterior Compartment of Arm
+ref-biceps-brachii-long-head:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Arm Anterior Muscles/biceps_brachii.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-biceps-brachii-short-head:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Arm Anterior Muscles/biceps_brachii.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-brachialis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Arm Anterior Muscles/brachialis.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
 ref-coracobrachialis:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Shoulder and Arm Muscles/coracobrachialis_muscle.qmd"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Arm Anterior Muscles/coracobrachialis.qmd"
   origin: "[Scapula (coracoid process)]({{< var ref-scapula-bone.path >}})"
   insertion: "[Humerus (in line with crest of lesser tubercle)]({{< var ref-humerus-bone.path >}})"
   nerve: "[Musculocutaneous n. (C5–C7)]({{< var ref-musculocutaneous-nerve.path >}})"
   action: "Flexion, adduction, internal rotation"
 
+
+
+### Muscles of Posterior Compartment of Arm
+
+ref-triceps-brachii-long-head:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Arm Posterior Muscles/triceps_brachii.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-triceps-brachii-medial-head:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Arm Posterior Muscles/triceps_brachii.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-triceps-brachii-lateral-head:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Arm Posterior Muscles/triceps_brachii.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-anconeus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Arm Posterior Muscles/anconeus.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+
+### Forearm Anterior Compartment Muscles
+
+ref-pronator-teres:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/pronator_teres.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-flexor-carpi-radialis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/flexor_carpi_radialis.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-palmaris-longus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/palmaris_longus.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-flexor-carpi-ulnaris:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/flexor_carpi_ulnaris.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-flexor-digitorum-superficialis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/flexor_digitorum_superficialis_FDS.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-flexor-digitorum-profundus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/flexor_digitorum_profundus_FDP.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-flexor-pollicis-longus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/flexor_pollicis_longus.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-pronator-quadratus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/pronator_quadratus.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-brachioradialis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/brachioradialis.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+
+### Forearm Posterior Compartment
+
+ref-extensor-carpi-radialis-longus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Posterior Compartment/extensor_carpi_radialis_longus.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-extensor-carpi-radialis-brevis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Posterior Compartment/extensor_carpi_radialis_brevis.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-extensor-digitorum:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Posterior Compartment/extensor_digitorum.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-extensor-digiti-minimi:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Posterior Compartment/extensor_digiti_minimi.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-extensor-carpi-ulnaris:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Posterior Compartment/extensor_carpi_ulnaris.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-extensor-indicis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Posterior Compartment/extensor_indicis.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-supinator:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Posterior Compartment/supinator_muscle.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-abductor-pollicis-longus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Posterior Compartment/abductor_pollicis_longus.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-extensor-pollicis-longus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Posterior Compartment/extensor_pollicis_longus.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-extensor-pollicis-brevis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Posterior Compartment/extensor_pollicis_brevis.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+
+### Intrinsic Muscles of the hand
+
+ref-opponens-pollicis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/opponens_pollicis.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-abductor-pollicis-brevis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/abductor_pollicis_brevis.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-flexor-pollicis-brevis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/flexor_pollicis_brevis.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-adductor-pollicis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/adductor_pollicis.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-abductor-digiti-minimi:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/abductor_digiti_minimi.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-flexor-digiti-minimi-brevis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/flexor_digiti_minimi_brevis.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-opponens-digiti-minimi:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/opponens_digiti_minimi.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-lumbricals-hand:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/lumbrical_muscles_hand.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-dorsal-interossei-hand:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/dorsal_interossei_hand.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-palmar-interossei-hand:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/palmar_interossei_hand.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
 
 ### Lower Extremity muscles
 ### Iliopsoas muscles

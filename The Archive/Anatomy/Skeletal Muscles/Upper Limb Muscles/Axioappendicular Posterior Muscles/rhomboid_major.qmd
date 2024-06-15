@@ -1,0 +1,34 @@
+---
+title: Rhomboid Major
+---
+
+
+# Overview
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+
+: {.striped .hover}
+
+
+
+# Origin
+
+
+# Insertion
+
+
+# Innervation
+
+
+# Action
+
+
+# Notes
+
+
+# Function
+
+The Serratus Anterior (along with the rhomboids) serves to aid in scapular stability during arm elevation @duttonDuttonOrthopaedicExamination2020 
+
+![Superior View of the shoulder: You can see how the rhomboids and SA both actively stabilize the scapulothoracic joint by pulling the scapula towards the thoracic wall @duttonDuttonOrthopaedicExamination2020](/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Posterior Muscles/images/Dutton fig16.2 Superior aspect of shoulder.png)

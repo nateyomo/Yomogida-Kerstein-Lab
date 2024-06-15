@@ -1,0 +1,32 @@
+---
+title: Triceps Brachi
+---
+
+# Overview
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+
+: {.striped .hover}
+
+
+
+# Origin
+
+
+# Insertion
+
+
+# Innervation
+
+
+# Action
+
+
+# Notes
+
+
+# Triceps Reflex {#reflex}
+
+Triceps reflex can be used to assess C7 nerve root @hongReliabilityDiagnosticAccuracy2022 
+

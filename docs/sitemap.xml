@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/journal club index.html</loc>
-    <lastmod>2024-06-04T20:01:17.621Z</lastmod>
+    <lastmod>2024-06-07T22:46:29.114Z</lastmod>
   </url>
   <url>
     <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/Journal club/jc2_post-exercise_cold_immersion.html</loc>
@@ -314,7 +314,7 @@
   </url>
   <url>
     <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Symptoms/Headache/cluster_headache.html</loc>
-    <lastmod>2024-06-02T18:38:23.981Z</lastmod>
+    <lastmod>2024-06-15T01:13:10.488Z</lastmod>
   </url>
   <url>
     <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Symptoms/Headache/migraine.html</loc>
@@ -562,7 +562,7 @@
   </url>
   <url>
     <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/MSK/Regions/Spine/thoracic_spine.html</loc>
-    <lastmod>2024-06-02T18:30:13.936Z</lastmod>
+    <lastmod>2024-06-15T01:13:10.487Z</lastmod>
   </url>
   <url>
     <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Microbiology/Neuromuscular junction/motor_endplate.html</loc>
@@ -1758,7 +1758,7 @@
   </url>
   <url>
     <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Anatomy/Nerve Roots/L5_nerve_root.html</loc>
-    <lastmod>2024-06-13T17:56:15.960Z</lastmod>
+    <lastmod>2024-06-15T01:18:10.135Z</lastmod>
   </url>
   <url>
     <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Anatomy/Nerve Roots/c3_nerve_root.html</loc>
@@ -1826,7 +1826,7 @@
   </url>
   <url>
     <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Anatomy/OIAN.html</loc>
-    <lastmod>2024-06-13T17:53:36.625Z</lastmod>
+    <lastmod>2024-06-15T01:18:37.032Z</lastmod>
   </url>
   <url>
     <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Neuroscience/Neuro Examination/Neuro Tests and Measures/6_minute_walk_test.html</loc>
@@ -2294,11 +2294,11 @@
   </url>
   <url>
     <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/index.html</loc>
-    <lastmod>2024-06-03T16:58:46.370Z</lastmod>
+    <lastmod>2024-06-07T22:46:29.113Z</lastmod>
   </url>
   <url>
     <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/guide.html</loc>
-    <lastmod>2024-06-03T17:41:32.157Z</lastmod>
+    <lastmod>2024-06-07T22:46:29.111Z</lastmod>
   </url>
   <url>
     <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/contact.html</loc>
@@ -4286,7 +4286,7 @@
   </url>
   <url>
     <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Symptoms/Headache/headache.html</loc>
-    <lastmod>2024-06-02T18:38:27.905Z</lastmod>
+    <lastmod>2024-06-15T01:13:10.489Z</lastmod>
   </url>
   <url>
     <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Symptoms/Ear symptoms/hearing_loss.html</loc>
@@ -4759,5 +4759,85 @@
   <url>
     <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Anatomy/Joints/Spine joints/lumbosacral_junction.html</loc>
     <lastmod>2024-06-13T17:55:13.786Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Physiology/Immune system/immunity.html</loc>
+    <lastmod>2024-06-07T22:46:28.805Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Physiology/Immune system/Immunity/adaptive_immunity.html</loc>
+    <lastmod>2024-06-07T22:46:28.803Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Physiology/Immune system/immune_response.html</loc>
+    <lastmod>2024-06-07T22:46:28.804Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Pharmacology/botulinum_toxin_botox.html</loc>
+    <lastmod>2024-06-07T22:46:28.802Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/MSK/Regions/Upper Extremity/shoulder_MSK.html</loc>
+    <lastmod>2024-06-15T01:13:10.488Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/MSK/Regions/Spine/neck_MSK.html</loc>
+    <lastmod>2024-06-15T01:13:10.487Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Examination/Tests and Measures/Lower extremity tests/Ankle and Foot Tests/navicular_drop_test.html</loc>
+    <lastmod>2024-06-15T01:13:10.486Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Examination/Tests and Measures/Head and Neck Tests/alar_ligament_test.html</loc>
+    <lastmod>2024-06-15T01:13:10.485Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Chemistry/Biochemistry/Proteins/Signalling Proteins/Cytokines/Interleukin/interleukin_8_IL-8.html</loc>
+    <lastmod>2024-06-07T22:46:28.798Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Chemistry/Biochemistry/Proteins/Signalling Proteins/Cytokines/Interleukin/interleukin.html</loc>
+    <lastmod>2024-06-07T22:46:28.797Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Chemistry/Biochemistry/Proteins/Signalling Proteins/Cytokines/cytokines.html</loc>
+    <lastmod>2024-06-07T22:46:28.800Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Chemistry/Biochemistry/Proteins/Signalling Proteins/Cytokines/Interleukin/interleukin-1beta.html</loc>
+    <lastmod>2024-06-07T22:46:28.796Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Chemistry/Biochemistry/Proteins/Signalling Proteins/Cytokines/Interleukin/interleukin_6_IL-6.html</loc>
+    <lastmod>2024-06-07T22:46:28.798Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Chemistry/Biochemistry/Proteins/Signalling Proteins/Cytokines/Tumor Necrosis Factor/tumor_necrosis_factor_alpha_TNF-alpha.html</loc>
+    <lastmod>2024-06-07T22:46:28.799Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Examination/Tests and Measures/Head and Neck Tests/canadian_cervical_spine_rules.html</loc>
+    <lastmod>2024-06-15T01:13:10.485Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/MSK/Regions/Spine/low_back_MSK.html</loc>
+    <lastmod>2024-06-15T01:13:10.486Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Pharmacology/baclofen.html</loc>
+    <lastmod>2024-06-07T22:46:28.802Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Physiology/Immune system/Immune cells/Leukocytes/leukocyte.html</loc>
+    <lastmod>2024-06-07T22:46:28.802Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Physiology/Immune system/immune_system.html</loc>
+    <lastmod>2024-06-07T22:46:28.804Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Physiology/Immune system/Immunity/innate_immunity.html</loc>
+    <lastmod>2024-06-07T22:46:28.803Z</lastmod>
   </url>
 </urlset>

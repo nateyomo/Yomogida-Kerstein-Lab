@@ -1,0 +1,35 @@
+---
+title: Coracobrachialis Muscle
+---
+
+:::{layout-ncol="2"}
+![Schematic of Pectoralis major and coracobrachialis @gilroyAtlasAnatomy2020 </br> 1: Pectoralis Major (clavicular part) <br> 2: Pec Major (Sternocostal part) </br> 3: Pec Major (abdominal part) </br> 4: Coracobrachialis](/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/images/gilroyatlas fig25.25a pectoralis major and coracobrachialis schematic.png)
+
+![Pectoralis Major and Coracobrachialis, anterior view @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/images/gilroyatlas fig25.25c pectoralis major and coracobrachialis.png)
+:::
+
+# Overview
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Coracobrachialis]({{< var ref-coracobrachialis.path >}}) | {{< var ref-coracobrachialis.origin >}} | {{< var ref-coracobrachialis.insertion >}} | {{< var ref-coracobrachialis.nerve >}} | {{< var ref-coracobrachialis.action >}} |
+
+: Coracobrachialis OIAN {.striped .hover}
+
+# Origin
+[Scapula (coracoid process)]({{< var ref-scapula-bone.path >}}) @gilroyAtlasAnatomy2020
+
+# Insertion
+[Humerus (in line with crest of lesser tubercle)]({{< var ref-humerus-bone.path >}}) @gilroyAtlasAnatomy2020
+
+# Nerve
+[Musculocutaneous n. (C5–C7)]({{< var ref-musculocutaneous-nerve.path >}})  @gilroyAtlasAnatomy2020
+
+# Action
+Flexion, adduction, internal rotation @gilroyAtlasAnatomy2020
+
+
+
+# Reflex {#reflex}
+
+Brachioradialis reflex can be used to assess the C6 nerve root @hongReliabilityDiagnosticAccuracy2022. 
