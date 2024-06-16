@@ -6,21 +6,26 @@ title: Rhomboid Minor
 
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
-
+| [Rhomboid Minor]({{< var ref-rhomboid-minor.path >}}) | {{< var ref-rhomboid-minor.origin >}} | {{< var ref-rhomboid-minor.insertion >}} | {{< var ref-rhomboid-minor.nerve >}} | {{< var ref-rhomboid-minor.action >}} |
 : {.striped .hover}
 
 
 
 # Origin
 
+SP of C6 & C7 @gilroyAtlasAnatomy2020
 
 # Insertion
 
+Medial border of scapula (*above scapular spine*) @gilroyAtlasAnatomy2020
 
 # Innervation
 
+[Dorsal Scapular N.]({{< var ref-dorsal-scapular-nerve.path >}}) ([C4]({{< var ref-nerve-root.c4 >}}), [C5]({{< var ref-nerve-root.c5 >}})) @gilroyAtlasAnatomy2020
 
 # Action
+
+**STJ**: Retraction, Downward rotation, Stabilization @gilroyAtlasAnatomy2020
 
 
 # Notes

@@ -4,10 +4,32 @@ title: Latissimus Dorsi
 
 # OIAN
 
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Latissimus Dorsi]({{< var ref-latissimus-dorsi.path >}}) | {{< var ref-latissimus-dorsi.origin >}} | {{< var ref-latissimus-dorsi.insertion >}} | {{< var ref-latissimus-dorsi.nerve >}} | {{< var ref-latissimus-dorsi.action >}} |
+: {.striped .hover}
+
+# Origin
+
+- **Vertebral part**: Spinous processes of T7–T12 vertebrae; thoracolumbar fascia @gilroyAtlasAnatomy2020
+- **Scapular part**: Scapula (inferior angle) @gilroyAtlasAnatomy2020
+- **Costal part**: 9th to 12th ribs @gilroyAtlasAnatomy2020
+- **Iliac part**: Iliac crest (posterior one third) @gilroyAtlasAnatomy2020
+
+# Insertion
+
+Floor of intertubercular groove of humerus @gilroyAtlasAnatomy2020
 
 # Innervation
+[Thoracodorsal n.]({{< var ref-thoracodorsal-nerve.path >}}) ([C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}})) @gilroyAtlasAnatomy2020
 
-[Thoracodorsal nerve ]({{< var ref-thoracodorsal-nerve.path >}})
+
+
+# Action
+
+- **GHJ**: Internal rotation, adduction, extension @gilroyAtlasAnatomy2020
+- **Respiration**: “cough muscle” @gilroyAtlasAnatomy2020
+
 
 
 # Function

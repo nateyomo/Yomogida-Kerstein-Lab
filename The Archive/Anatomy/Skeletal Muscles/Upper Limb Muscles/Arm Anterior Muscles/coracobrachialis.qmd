@@ -17,19 +17,19 @@ title: Coracobrachialis Muscle
 : Coracobrachialis OIAN {.striped .hover}
 
 # Origin
-[Scapula (coracoid process)]({{< var ref-scapula-bone.path >}}) @gilroyAtlasAnatomy2020
+
+Coracoid process of [Scapula]({{< var ref-scapula-bone.path >}}) @gilroyAtlasAnatomy2020
 
 # Insertion
-[Humerus (in line with crest of lesser tubercle)]({{< var ref-humerus-bone.path >}}) @gilroyAtlasAnatomy2020
+
+Middle 1/3 of [Humerus]({{< var ref-humerus-bone.path >}}) (in line with crest of lesser tubercle) @gilroyAtlasAnatomy2020
 
 # Nerve
-[Musculocutaneous n. (C5–C7)]({{< var ref-musculocutaneous-nerve.path >}})  @gilroyAtlasAnatomy2020
+[Musculocutaneous N.]({{< var ref-musculocutaneous-nerve.path >}}) ([C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}})) @gilroyAtlasAnatomy2020
 
 # Action
-Flexion, adduction, internal rotation @gilroyAtlasAnatomy2020
+
+**GHJ**: Flexion, Adduction, Internal rotation @gilroyAtlasAnatomy2020
 
 
 
-# Reflex {#reflex}
-
-Brachioradialis reflex can be used to assess the C6 nerve root @hongReliabilityDiagnosticAccuracy2022. 

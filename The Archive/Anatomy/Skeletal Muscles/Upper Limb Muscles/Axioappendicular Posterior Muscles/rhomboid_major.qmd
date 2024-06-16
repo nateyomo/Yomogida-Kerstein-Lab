@@ -7,21 +7,27 @@ title: Rhomboid Major
 
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
-
+| [Rhomboid Major]({{< var ref-rhomboid-major.path >}}) | {{< var ref-rhomboid-major.origin >}} | {{< var ref-rhomboid-major.insertion >}} | {{< var ref-rhomboid-major.nerve >}} | {{< var ref-rhomboid-major.action >}} |
 : {.striped .hover}
 
 
 
 # Origin
 
+SP T1–T4 @gilroyAtlasAnatomy2020
 
 # Insertion
 
+Medial border of scapula (*below scapular spine*) @gilroyAtlasAnatomy2020
 
 # Innervation
 
+[Dorsal Scapular N.]({{< var ref-dorsal-scapular-nerve.path >}}) ([C4]({{< var ref-nerve-root.c4 >}}), [C5]({{< var ref-nerve-root.c5 >}})) @gilroyAtlasAnatomy2020
 
 # Action
+
+**STJ**: Retraction, Downward rotation, Stabilization @gilroyAtlasAnatomy2020 
+
 
 
 # Notes

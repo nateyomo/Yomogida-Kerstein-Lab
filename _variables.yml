@@ -583,22 +583,22 @@ ref-trapezius:
   path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/trapezius_muscle.qmd"
 ref-upper-trapezius:
   path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/trapezius_muscle.qmd"
-  origin: "[Occipital bone]({{< var ref-occipital-bone.path >}}), SP of C1–C7"
+  origin: "[Occipital bone]({{< var ref-occipital-bone.path >}}) </br> SP of C1–C7"
   insertion: "[Clavicle (lateral one third)]({{< var ref-clavicle-bone.path >}})"
-  nerve: "[**Motor**: CN XI Accessory n.]({{< var ref-cn11.path >}}) <br/> **Proprioception**: Cervical plexus (C2, C3, C4) "
-  action: "Draws scapula obliquely upward, <br/> rotates glenoid cavity superiorly"
+  nerve: "**Motor**: [CN XI Accessory n.]({{< var ref-cn11.path >}}) ([C3]({{< var ref-nerve-root.c3 >}}), [C4]({{< var ref-nerve-root.c4 >}})) </br> </br> **Proprioception**: Cervical plexus ([C2]({{< var ref-nerve-root.c2 >}}), [C3]({{< var ref-nerve-root.c3 >}}), [C4]({{< var ref-nerve-root.c4 >}}))"
+  action: "**Scapula**: Elevation, Upward rotation </br> **Neck**: I/L sidebend and C/L rotation"
 ref-middle-trapezius:
   path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/trapezius_muscle.qmd"
   origin: "Aponeurosis at T1–T4 SP"
-  insertion: "[Acromion]({{< var ref-scapula-bone.path >}})"
-  nerve: "[**Motor**: CN XI Accessory n.]({{< var ref-cn11.path >}}) <br/> **Proprioception**: Cervical plexus (C2, C3, C4)"
-  action: "Draws scapula medially"
+  insertion: "[Acromion of Scapula]({{< var ref-scapula-bone.path >}})"
+  nerve: "**Motor**: [CN XI Accessory n.]({{< var ref-cn11.path >}}) ([C3]({{< var ref-nerve-root.c3 >}}), [C4]({{< var ref-nerve-root.c4 >}})) </br> </br> **Proprioception**: Cervical plexus ([C2]({{< var ref-nerve-root.c2 >}}), [C3]({{< var ref-nerve-root.c3 >}}), [C4]({{< var ref-nerve-root.c4 >}}))"
+  action: "Scapular retraction </br> Stabilize the scapula during upward rotation"
 ref-lower-trapezius:
   path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/trapezius_muscle.qmd"
   origin: "SP of T5–T12"
   insertion: "[Scapular Spine]({{< var ref-scapula-bone.path >}})"
-  nerve: "[**Motor**: CN XI Accessory n.]({{< var ref-cn11.path >}}) <br/> **Proprioception**: Cervical plexus (C2, C3, C4)"
-  action: "Draws scapula medially downward"
+  nerve: "**Motor**: [CN XI Accessory n.]({{< var ref-cn11.path >}}) ([C3]({{< var ref-nerve-root.c3 >}}), [C4]({{< var ref-nerve-root.c4 >}})) </br> </br> **Proprioception**: Cervical plexus ([C2]({{< var ref-nerve-root.c2 >}}), [C3]({{< var ref-nerve-root.c3 >}}), [C4]({{< var ref-nerve-root.c4 >}}))"
+  action: "**STJ**: Retraction, Depression, Upward Rotation"
 ref-anterior-scalene:
   path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/anterior_scalene_muscle.qmd"
 ref-middle-scalene:
@@ -609,54 +609,54 @@ ref-posterior-scalene:
 ### Anterior axioappendicular muscles
 ref-pectoralis-major:
   path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/pectoralis_major_muscle.qmd"
-  origin: "[Clavicle (medial half)]({{< var ref-clavicle-bone.path >}}), [sternum]({{< var ref-sternum-bone.path >}}), [costal cartilages 1–6]({{< var ref-costal-cartilages.path >}}), [rectus sheath (anterior layer)]({{< var ref-rectus-sheath.path >}})"
+  origin: "**Clavicular part**: [Clavicle (medial half)]({{< var ref-clavicle-bone.path >}}) </br> **Sternocostal part**: [sternum]({{< var ref-sternum-bone.path >}}), [costal cartilages 1–6]({{< var ref-costal-cartilages.path >}}) </br> **Abdominal part**: [rectus sheath (anterior layer)]({{< var ref-rectus-sheath.path >}})"
   insertion: "[Humerus (crest of greater tubercle)]({{< var ref-humerus-bone.path >}})"
-  nerve: "[Lateral pectoral nerve]({{< var ref-lateral-pectoral-nerve.path >}}) and [Medial pectoral nerve]({{< var ref-medial-pectoral-nerve.path >}}) (C5-T1)"
-  action: "**Entire muscle**: adduction, internal rotation; **Clavicular and sternocostal parts**: flexion; assist in respiration when shoulder is fixed"
+  nerve: "[Lateral pectoral nerve]({{< var ref-lateral-pectoral-nerve.path >}}) </br> [Medial pectoral nerve]({{< var ref-medial-pectoral-nerve.path >}}) </br> ([C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}}))"
+  action: "**Entire muscle**: GHJ Adduction, Internal rotation </br> </br> **Clavicular and sternocostal parts**: Flexion; assist in respiration when shoulder is fixed"
 ref-pectoralis-minor:
   path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/pectoralis_minor_muscle.qmd"
   origin: "[3rd to 5th ribs]({{< var ref-ribs-bones.path >}})"
   insertion: "[Coracoid process]({{< var ref-scapula-bone.path >}})"
-  nerve: "[Medial Pectoral n. (C8, T1)]({{< var ref-medial-pectoral-nerve.path >}})"
-  action: "Draws scapula downward, causing inferior angle to move posteromedially; <br/> rotates glenoid inferiorly; assists in respiration"
+  nerve: "[Medial Pectoral n.]({{< var ref-medial-pectoral-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}}))"
+  action: "**Scapulothoracic**: Depression, protraction, downward rotation </br> **Respiration**: Assistance"
 ref-subclavius:
   path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/subclavius_muscle.qmd"
   origin: "[1st rib]({{< var ref-1st-rib.path >}})"
   insertion: "[Clavicle (inferior surface)]({{< var ref-clavicle-bone.path >}})"
-  nerve: "[N. to subclavius (C5, C6)]({{< var ref-nerve-to-subclavius.path >}})"
-  action: "Steadies the clavicle in the sternoclavicular joint"
+  nerve: "[N. to Subclavius]({{< var ref-nerve-to-subclavius.path >}}) ([C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}))"
+  action: "**SCJ Stabilization**: Via Clavicle depression, elevation of 1st rib"
 ref-serratus-anterior:
   path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/serratus_anterior_muscle.qmd"
-  origin: ""
-  insertion: ""
-  nerve: ""
-  action: ""
+  origin: "1-9th ribs"
+  insertion: "**Superior part**: Superior angle of Scapula (costal and dorsal surfaces) </br> **Intermediate part**: Medial border of Scapula (costal surface) </br> **Inferior part**: Medial border of Scapula (costal surface), Inferior angle (costal and dorsal surfaces)"
+  nerve: "[Long Thoracic N.]({{< var ref-long-thoracic-nerve.path >}}) ([C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}})"
+  action: "**Entire muscle**: Draws scapula laterally forward, elevates ribs when shoulders are fixed </br> **Superior part**: Lowers the raised arm </br> **Inferior part**: Rotates inferior angle of scapula laterally forward (allows elevation of arm above 90&deg;)"
 
 ### Posterior axioappendicular muscles
 ref-latissimus-dorsi:
   path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Posterior Muscles/latissimus_dorsi.qmd"
-  origin: ""
-  insertion: ""
-  nerve: ""
-  action: ""
+  origin: "**Vertebral part**: SP of T7–T12 vertebrae; thoracolumbar fascia  </br> **Scapular part**: Scapula (inferior angle) </br> **Costal part**: 9-12th ribs </br> **Iliac part**: Iliac crest (posterior 1/3)"
+  insertion: "Floor of intertubercular groove of humerus"
+  nerve: "[Thoracodorsal n.]({{< var ref-thoracodorsal-nerve.path >}}) ([C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}}))"
+  action: "**GHJ**: Internal rotation, adduction, extension <br> **Respiration**: “cough muscle”"
 ref-levator-scapulae:
   path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Posterior Muscles/levator_scapulae.qmd"
-  origin: ""
-  insertion: ""
-  nerve: ""
-  action: ""
+  origin: "TP C1-C4"
+  insertion: "Superior angle of the scapula"
+  nerve: "[Dorsal Scapular N.]({{< var ref-dorsal-scapular-nerve.path >}}) </br> Cervical Spinal nn. </br> ([C4]({{< var ref-nerve-root.c4 >}}), [C5]({{< var ref-nerve-root.c5 >}}))"
+  action: "**STJ**: Elevates and downwardly rotates scapula </br> **C/S**: Extends and I/L lateral flexion"
 ref-rhomboid-major:
   path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Posterior Muscles/rhomboid_major.qmd"
-  origin: ""
-  insertion: ""
-  nerve: ""
-  action: ""
+  origin: "SP T1–T4"
+  insertion: "Medial border of scapula </br> (*below scapular spine*)"
+  nerve: "[Dorsal Scapular N.]({{< var ref-dorsal-scapular-nerve.path >}}) ([C4]({{< var ref-nerve-root.c4 >}}), [C5]({{< var ref-nerve-root.c5 >}}))"
+  action: "**STJ**: Retraction, Downward rotation, Stabilization"
 ref-rhomboid-minor:
   path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Posterior Muscles/rhomboid_minor.qmd"
-  origin: ""
-  insertion: ""
-  nerve: ""
-  action: ""
+  origin: "SP of C6 & C7"
+  insertion: "Medial border of scapula </br> (*above scapular spine*)"
+  nerve: "[Dorsal Scapular N.]({{< var ref-dorsal-scapular-nerve.path >}}) ([C4]({{< var ref-nerve-root.c4 >}}), [C5]({{< var ref-nerve-root.c5 >}}))"
+  action: "**STJ**: Retraction, Downward rotation, Stabilization"
 
 ### Scapulohumeral (Intrinsic Shoulder Muscles)
 ref-deltoid-muscle:
@@ -681,10 +681,10 @@ ref-deltoid-muscle-posterior:
   action: "**GHJ:** Extension, external rotation, adduction"
 ref-teres-major:
   path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/teres_major.qmd"
-  origin: ""
-  insertion: ""
-  nerve: ""
-  action: ""
+  origin: "Inferior angle of the scapula </br> (posterior aspect)"
+  insertion: "Crest of lesser tubercle of the humerus </br> (*anterior angle*)"
+  nerve: "[Lower Subscapular N.]({{< var ref-lower-subscapular-nerve.path >}}) ([C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}))"
+  action: "**GHJ**: Extension, Internal rotation, Adduction"
 ### rotator cuff
 ref-rotator-cuff-muscle-group:
   path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/rotator_cuff_muscles.qmd"
@@ -692,55 +692,53 @@ ref-supraspinatus:
   path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/supraspinatus_muscle.qmd"
   origin: "Supraspinous Fossa of [scapula]({{< var ref-scapula-bone.path >}})"
   insertion: "Greater tubercle of [Humerus]({{< var ref-humerus-bone.path >}})"
-  nerve: "[Suprascapular nerve (C4-C6)]({{< var ref-suprascapular-nerve.path >}})"
-  action: "Initiates abduction"
+  nerve: "[Suprascapular n.]({{< var ref-suprascapular-nerve.path >}}) ([C4]({{< var ref-nerve-root.c4 >}}), [C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}))"
+  action: "**GHJ**: Initiates abduction"
 ref-infraspinatus:
   path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/infraspinatus_muscle.qmd"
   origin: "Infraspinous Fossa of [scapula]({{< var ref-scapula-bone.path >}})"
   insertion: "Greater tubercle of [Humerus]({{< var ref-humerus-bone.path >}})"
-  nerve: "[Suprascapular nerve {{< var ref-suprascapular-nerve.roots >}}]({{< var ref-suprascapular-nerve.path >}})"
-  action: "External rotation"
+  nerve: "[Suprascapular n.]({{< var ref-suprascapular-nerve.path >}}) ([C4]({{< var ref-nerve-root.c4 >}}), [C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}))"
+  action: "**GHJ**: External rotation, Stabilization"
 ref-subscapularis:
   path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/subscapularis_muscle.qmd"
-  origin: "Subscapular fossa of [scapula]({{< var ref-scapula-bone.path >}})"
+  origin: "Subscapular fossa of [Scapula]({{< var ref-scapula-bone.path >}})"
   insertion: "Lesser tubercle of [Humerus]({{< var ref-humerus-bone.path >}})"
-  nerve: "[Upper and Lower subscapular nerves (C5, C6)]({{< var ref-subscapular-nerve.upper >}})"
-  action: "Internal Rotation"
+  nerve: "[Upper Subscapular N.]({{< var ref-upper-subscapular-nerve.path >}}) </br> [Lower Subscapular N.]({{< var ref-lower-subscapular-nerve.path >}}) </br> ([C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}))"
+  action: "**GHJ**: Internal Rotation, Adduction"
 ref-teres-minor:
   path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/teres_minor_muscle.qmd"
   origin: "Lateral border of [scapula]({{< var ref-scapula-bone.path >}})"
   insertion: "Greater tubercle of [Humerus]({{< var ref-humerus-bone.path >}})"
-  nerve: "[Axillary n. (C5, C6)]({{< var ref-axillary-nerve.path >}})"
-  action: "External rotation, weak adduction, stabilizes GHJ"
+  nerve: "[Axillary N.]({{< var ref-axillary-nerve.path >}}) ([C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}))"
+  action: "**GHJ**: External Rotation, Weak Adduction, Stabilization"
 
 
 ### Muscles of Anterior Compartment of Arm
 ref-biceps-brachii-long-head:
   path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Arm Anterior Muscles/biceps_brachii.qmd"
-  origin: ""
-  insertion: ""
-  nerve: ""
-  action: ""
+  origin: "Supraglenoid tubercle of scapula </br> Adjacent rim of Glenoid Labrum"
+  insertion: "Radial tuberosity </br> Bicipital aponeurosis"
+  nerve: "[Musculocutaneous N.]({{< var ref-musculocutaneous-nerve.path >}}) ([C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}))"
+  action: "**Shoulder**: Flexion </br> **GHJ**: Abduction, Internal rotation, Stabilization of humeral head during deltoid contraction </br> **Elbow**: Flexion; Supination"
 ref-biceps-brachii-short-head:
   path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Arm Anterior Muscles/biceps_brachii.qmd"
-  origin: ""
-  insertion: ""
-  nerve: ""
-  action: ""
+  origin: "Coracoid process of Scapula"
+  insertion: "Radial tuberosity </br> Bicipital aponeurosis"
+  nerve: "[Musculocutaneous N.]({{< var ref-musculocutaneous-nerve.path >}}) ([C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}))"
+  action: "**Shoulder**: Flexion </br> **GHJ**: Abduction, Internal rotation, Stabilization </br> **Elbow**: Flexion, Supination"
 ref-brachialis:
   path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Arm Anterior Muscles/brachialis.qmd"
-  origin: ""
-  insertion: ""
-  nerve: ""
-  action: ""
+  origin: "Distal 1/2 of Anterior humerus"
+  insertion: "Ulnar tuberosity"
+  nerve: "[Musculocutaneous N.]({{< var ref-musculocutaneous-nerve.path >}}) ([C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}})) </br> [Radial N.]({{< var ref-radial-nerve.path >}}) ([C7]({{< var ref-nerve-root.c7 >}}), Minor)"
+  action: "**Elbow**: Flexion"
 ref-coracobrachialis:
   path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Arm Anterior Muscles/coracobrachialis.qmd"
-  origin: "[Scapula (coracoid process)]({{< var ref-scapula-bone.path >}})"
-  insertion: "[Humerus (in line with crest of lesser tubercle)]({{< var ref-humerus-bone.path >}})"
-  nerve: "[Musculocutaneous n. (C5–C7)]({{< var ref-musculocutaneous-nerve.path >}})"
-  action: "Flexion, adduction, internal rotation"
-
-
+  origin: "Coracoid process of [Scapula]({{< var ref-scapula-bone.path >}})"
+  insertion: "Middle 1/3 of [Humerus]({{< var ref-humerus-bone.path >}}) </br> (*in line with crest of lesser tubercle*)"
+  nerve: "[Musculocutaneous N.]({{< var ref-musculocutaneous-nerve.path >}}) ([C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}}))"
+  action: "**GHJ**: Flexion, Adduction, Internal rotation"
 
 ### Muscles of Posterior Compartment of Arm
 

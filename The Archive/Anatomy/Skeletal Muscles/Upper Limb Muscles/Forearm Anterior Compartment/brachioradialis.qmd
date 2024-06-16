@@ -25,3 +25,7 @@ title: Brachioradialis
 
 
 # Notes
+
+# Reflex {#reflex}
+
+Brachioradialis reflex can be used to assess the C6 nerve root @hongReliabilityDiagnosticAccuracy2022. 

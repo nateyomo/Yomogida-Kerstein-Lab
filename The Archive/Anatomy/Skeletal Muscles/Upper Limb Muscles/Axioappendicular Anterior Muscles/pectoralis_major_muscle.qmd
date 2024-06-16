@@ -25,14 +25,27 @@ title: Pectoralis Major
 - Abdominal part: [rectus sheath (anterior layer)]({{< var ref-rectus-sheath.path >}}) @gilroyAtlasAnatomy2020
 
 
+::: {.callout-note}
+Manubrium and the aponeurosis of the external oblique are potential originations of the pectoralis major
+:::
+
+
+
+
 # Insertion
 [Humerus (crest of greater tubercle)]({{< var ref-humerus-bone.path >}}) @gilroyAtlasAnatomy2020
 
 # Innervation
 
-[Lateral pectoral nerve]({{< var ref-lateral-pectoral-nerve.path >}}) and [Medial pectoral nerve]({{< var ref-medial-pectoral-nerve.path >}}) (C5-T1) @gilroyAtlasAnatomy2020
+- [Lateral pectoral nerve]({{< var ref-lateral-pectoral-nerve.path >}}) @gilroyAtlasAnatomy2020
+- [Medial pectoral nerve]({{< var ref-medial-pectoral-nerve.path >}}) @gilroyAtlasAnatomy2020
+-  ([C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})) @gilroyAtlasAnatomy2020
+
+
 
 # Action
 
-Entire muscle: adduction, internal rotation 
-Clavicular and sternocostal parts: flexion; assist in respiration when shoulder is fixed
+- **Entire muscle**: GHJ Adduction, Internal rotation @gilroyAtlasAnatomy2020 
+- **Clavicular and sternocostal parts**: Flexion; assist in respiration when shoulder is fixed @gilroyAtlasAnatomy2020 
+
+**Entire muscle**: GHJ Adduction, Internal rotation </br> </br> **Clavicular and sternocostal parts**: Flexion; assist in respiration when shoulder is fixed  

@@ -3,14 +3,89 @@ title: Biceps Brachii
 ---
 
 
-# OIAN
+# Overview
 
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Biceps Brachii (Long head)]({{< var ref-biceps-brachii-long-head.path >}}) | {{< var ref-biceps-brachii-long-head.origin >}} | {{< var ref-biceps-brachii-long-head.insertion >}} | {{< var ref-biceps-brachii-long-head.nerve >}} | {{< var ref-biceps-brachii-long-head.action >}} |
+| [Biceps Brachii (Short head)]({{< var ref-biceps-brachii-short-head.path >}}) | {{< var ref-biceps-brachii-short-head.origin >}} | {{< var ref-biceps-brachii-short-head.insertion >}} | {{< var ref-biceps-brachii-short-head.nerve >}} | {{< var ref-biceps-brachii-short-head.action >}} |
+: {.striped .hover}
+
+
+# Long Head
+
+## Origin
+
+- Supraglenoid tubercle of scapula [@gilroyAtlasAnatomy2020; @neumannKinesiologyMusculoskeletalSystem2017]
+- Adjacent rim of Glenoid Labrum @neumannKinesiologyMusculoskeletalSystem2017
+
+## Insertion
+
+- Radial tuberosity @gilroyAtlasAnatomy2020
+- Bicipital aponeurosis @gilroyAtlasAnatomy2020
+
+
+## Innervation
+
+[Musculocutaneous N.]({{< var ref-musculocutaneous-nerve.path >}}) ([C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}})) [@gilroyAtlasAnatomy2020; @neumannKinesiologyMusculoskeletalSystem2017]
+
+# Action
+
+- **Shoulder**: Flexion
+- **GHJ**: Abduction, Internal rotation, Stabilization of humeral head during deltoid contraction @gilroyAtlasAnatomy2020
+- **Elbow**: Flexion; Supination @gilroyAtlasAnatomy2020
+
+
+
+
+:::{.callout-note}
+How does the Biceps Brachii Long head function as a GHJ stabilizer?
+
+- “Cadaver studies strongly suggest that the long head of the biceps restricts anterior translation of the humeral head” @neumannKinesiologyMusculoskeletalSystem2017  
+- “force generated in the muscle resists superior translation of the humeral head—an important force needed to control the natural arthrokinematics of abduction” @neumannKinesiologyMusculoskeletalSystem2017 
+:::
+
+:::{.callout-note}
+ 
+"When the elbow is flexed, the biceps brachii acts as a powerful supinator because the lever arm is almost perpendicular to the axis of pronation/supination." @gilroyAtlasAnatomy2020
+:::
+
+# Short Head
+
+## Origin
+
+- Coracoid process of Scapula @gilroyAtlasAnatomy2020
+
+## Insertion
+
+- Radial tuberosity @gilroyAtlasAnatomy2020
+- Bicipital aponeurosis @gilroyAtlasAnatomy2020
+
+
+
+## Innervation
+
+[Musculocutaneous N.]({{< var ref-musculocutaneous-nerve.path >}}) ([C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}})) @gilroyAtlasAnatomy2020
+
+## Action
+
+- **Shoulder**: flexion @gilroyAtlasAnatomy2020
+- **GHJ**: Abduction, Internal rotation, Stabilization of humeral head during deltoid contraction @gilroyAtlasAnatomy2020
+- **Elbow**: Flexion, Supination @gilroyAtlasAnatomy2020
+
+
+
+:::{.callout-note}
+Note: When the elbow is flexed, the biceps brachii acts as a powerful supinator because the lever arm is almost perpendicular to the axis of pronation/supination. @gilroyAtlasAnatomy2020
+:::
 
 # Anatomy
 
 - Biceps Brachii Long Head tendon moves laterall from its origin, makes a right angle to place it in the anterior aspect of the humerus @duttonDuttonOrthopaedicExamination2020
     - This turn may cause abnormal wearing of the tendon @duttonDuttonOrthopaedicExamination2020
 
+## Tendon
+The tendon of the Long Head of the Biceps Brachii “...crosses over the humeral head as it courses distally toward the intertubercular groove on the anterior humerus” @neumannKinesiologyMusculoskeletalSystem2017
 
 # Clinical Relevance
 

@@ -13,43 +13,35 @@ title: Serratus Anterior
 
 # Overview
 
-
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Serratus Anterior]({{< var ref-serratus-anterior.path >}}) | {{< var ref-serratus-anterior.origin >}} | {{< var ref-serratus-anterior.insertion >}} | {{< var ref-serratus-anterior.nerve >}} | {{< var ref-serratus-anterior.action >}} |
+: {.striped .hover}
 
 # Origin
-1st to 9th ribs @gilroyAtlasAnatomy2020
+1-9th ribs @gilroyAtlasAnatomy2020
 
 # Insertion
 
-:::{layout-ncol="3"}
-### Superior Part
-Scapula (costal and dorsal surfaces of superior angle)
 
-### Intermediate Part
-Scapula (costal surface of medial border) @gilroyAtlasAnatomy2020
-
-### Inferior Part
-Scapula (costal surface of medial border and costal and dorsal surfaces of inferior angle) @gilroyAtlasAnatomy2020
-
-:::
+- **Superior part**: Superior angle of Scapula (costal and dorsal surfaces) @gilroyAtlasAnatomy2020
+- **Intermediate part**: Medial border of Scapula (costal surface) @gilroyAtlasAnatomy2020
+- **Inferior part**: Medial border of Scapula (costal surface), Inferior angle (costal and dorsal surfaces) @gilroyAtlasAnatomy2020
 
 
 # Nerve
-The Serratus Anterior is solely innervated by the [Long Thoracic Nerve]({{< var ref-long-thoracic-nerve.path >}}) ({{< var ref-long-thoracic-nerve.roots >}})
+
+The Serratus Anterior is solely innervated by the [Long Thoracic N.]({{< var ref-long-thoracic-nerve.path >}}) ([C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}})) @gilroyAtlasAnatomy2020
 
 # Action
 
 
-:::{layout-ncol="3"}
-### Superior Part
-Lowers the raised arm @gilroyAtlasAnatomy2020
+- **Entire muscle**: Draws scapula laterally forward, elevates ribs when shoulders are fixed @gilroyAtlasAnatomy2020
+- **Superior part**: Lowers the raised arm @gilroyAtlasAnatomy2020 
+- **Inferior part**: Rotates inferior angle of scapula laterally forward (allows elevation of arm above 90°) @gilroyAtlasAnatomy2020
 
-### Entire Muscle
-Entire muscle: draws scapula laterally forward; elevates ribs when shoulder is fixed @gilroyAtlasAnatomy2020
 
-### Inferior Part
-Rotates inferior angle of scapula laterally forward (allows elevation of arm above 90°) @gilroyAtlasAnatomy2020
 
-:::
 
 # Function
 

@@ -23,7 +23,11 @@ title: Pectoralis Minor
 [Coracoid process]({{< var ref-scapula-bone.path >}}) @gilroyAtlasAnatomy2020
 
 # Innervation
-[Medial Pectoral n. (C8, T1)]({{< var ref-medial-pectoral-nerve.path >}})
+[Medial Pectoral n.]({{< var ref-medial-pectoral-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})) @gilroyAtlasAnatomy2020
 
 # Action
-Draws scapula downward, causing inferior angle to move posteromedially; rotates glenoid inferiorly; assists in respiration @gilroyAtlasAnatomy2020
+
+- Scapulothoracic: Depression, protraction, downward rotation @gilroyAtlasAnatomy2020
+- Assists in respiration @gilroyAtlasAnatomy2020 
+
+

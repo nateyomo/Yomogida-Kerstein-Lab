@@ -2,30 +2,34 @@
 title: Musculoskeletal Approach to the shoulder
 ---
 
+
+
+
+
 # Anatomy
 
-:::{layout-ncol="2"}
-### 3 Bones
 
-- [Humerus]({{< var ref-humerus-bone.path >}})
-- [Clavicle]({{< var ref-clavicle-bone.path >}})
-- [Scapula]({{< var ref-scapula-bone.path >}})
+## Bones
 
-### 3 Joints
+The Shoulder complex is made up of 3 bones:
 
-- [Sternoclavicular (SCJ)]({{< var ref-sternoclavicular-joint.path >}})
-- [Acromioclavicular (ACJ)]({{< var ref-acromioclavicular-joint.path >}})
-- [Glenohumeral Joint (GHJ)]({{< var ref-glenohumeral-joint.path >}})
+1. [Humerus]({{< var ref-humerus-bone.path >}})
+1. [Clavicle]({{< var ref-clavicle-bone.path >}})
+1. [Scapula]({{< var ref-scapula-bone.path >}})
 
-### 1 Pseudojoint
+## Joints
 
-The Scapulothoracic Joint is considered a "psuedo joint" @duttonDuttonOrthopaedicExamination2020
+The Shoulder complex is made up of 3 joints and 1 pseudo joint:
+
+1. [Sternoclavicular (SCJ)]({{< var ref-sternoclavicular-joint.path >}})
+1. [Acromioclavicular (ACJ)]({{< var ref-acromioclavicular-joint.path >}})
+1. [Glenohumeral Joint (GHJ)]({{< var ref-glenohumeral-joint.path >}})
+1. The Scapulothoracic Joint is considered a "psuedo joint" @duttonDuttonOrthopaedicExamination2020
 
 ### 1 Physiologic Area
 
 - Suprahumeral/Subacromial space
 
-:::
 
 # Ligaments
 

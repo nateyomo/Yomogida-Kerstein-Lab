@@ -241,7 +241,10 @@ Scapulohumeral muscles AKA intrinsic shoulder muscles
 
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
-
+| [Triceps brachii (Long head)]({{< var ref-triceps-brachii-long-head.path >}}) | {{< var ref-triceps-brachii-long-head.origin >}} | {{< var ref-triceps-brachii-long-head.insertion >}} | {{< var ref-triceps-brachii-long-head.nerve >}} | {{< var ref-triceps-brachii-long-head.action >}} |
+| [Triceps brachii (Medial head)]({{< var ref-triceps-brachii-medial-head.path >}}) | {{< var ref-triceps-brachii-medial-head.origin >}} | {{< var ref-triceps-brachii-medial-head.insertion >}} | {{< var ref-triceps-brachii-medial-head.nerve >}} | {{< var ref-triceps-brachii-medial-head.action >}} |
+| [Triceps brachii (Lateral head)]({{< var ref-triceps-brachii-lateral-head.path >}}) | {{< var ref-triceps-brachii-lateral-head.origin >}} | {{< var ref-triceps-brachii-lateral-head.insertion >}} | {{< var ref-triceps-brachii-lateral-head.nerve >}} | {{< var ref-triceps-brachii-lateral-head.action >}} |
+| [Anconeus]({{< var ref-anconeus.path >}}) | {{< var ref-anconeus.origin >}} | {{< var ref-anconeus.insertion >}} | {{< var ref-anconeus.nerve >}} | {{< var ref-anconeus.action >}} |
 : Muscles of the Posterior Compartment of the Arm {.striped .hover}
 
 
@@ -251,48 +254,80 @@ Scapulohumeral muscles AKA intrinsic shoulder muscles
 
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
-
+| [Pronator Teres]({{< var ref-pronator-teres.path >}}) | {{< var ref-pronator-teres.origin >}} | {{< var ref-pronator-teres.insertion >}} | {{< var ref-pronator-teres.nerve >}} | {{< var ref-pronator-teres.action >}} |
+| [Flexor Carpi Radialis]({{< var ref-flexor-carpi-radialis.path >}}) | {{< var ref-flexor-carpi-radialis.origin >}} | {{< var ref-flexor-carpi-radialis.insertion >}} | {{< var ref-flexor-carpi-radialis.nerve >}} | {{< var ref-flexor-carpi-radialis.action >}} |
+| [Palmaris Longus]({{< var ref-palmaris-longus.path >}}) | {{< var ref-palmaris-longus.origin >}} | {{< var ref-palmaris-longus.insertion >}} | {{< var ref-palmaris-longus.nerve >}} | {{< var ref-palmaris-longus.action >}} |
+| [Flexor Carpi Ulnaris]({{< var ref-flexor-carpi-ulnaris.path >}}) | {{< var ref-flexor-carpi-ulnaris.origin >}} | {{< var ref-flexor-carpi-ulnaris.insertion >}} | {{< var ref-flexor-carpi-ulnaris.nerve >}} | {{< var ref-flexor-carpi-ulnaris.action >}} |
 : Superficial {.striped .hover}
 
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
-
+| [Flexor Digitorum Superficialis]({{< var ref-flexor-digitorum-superficialis.path >}}) | {{< var ref-flexor-digitorum-superficialis.origin >}} | {{< var ref-flexor-digitorum-superficialis.insertion >}} | {{< var ref-flexor-digitorum-superficialis.nerve >}} | {{< var ref-flexor-digitorum-superficialis.action >}} |
 : Intermediate {.striped .hover}
 
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
-
+| [Flexor Digitorum Profundus]({{< var ref-flexor-digitorum-profundus.path >}}) | {{< var ref-flexor-digitorum-profundus.origin >}} | {{< var ref-flexor-digitorum-profundus.insertion >}} | {{< var ref-flexor-digitorum-profundus.nerve >}} | {{< var ref-flexor-digitorum-profundus.action >}} |
+| [Flexor Pollicis Longus]({{< var ref-flexor-pollicis-longus.path >}}) | {{< var ref-flexor-pollicis-longus.origin >}} | {{< var ref-flexor-pollicis-longus.insertion >}} | {{< var ref-flexor-pollicis-longus.nerve >}} | {{< var ref-flexor-pollicis-longus.action >}} |
+| [Pronator Quadratus]({{< var ref-pronator-quadratus.path >}}) | {{< var ref-pronator-quadratus.origin >}} | {{< var ref-pronator-quadratus.insertion >}} | {{< var ref-pronator-quadratus.nerve >}} | {{< var ref-pronator-quadratus.action >}} |
+| [Brachioradialis]({{< var ref-brachioradialis.path >}}) | {{< var ref-brachioradialis.origin >}} | {{< var ref-brachioradialis.insertion >}} | {{< var ref-brachioradialis.nerve >}} | {{< var ref-brachioradialis.action >}} |
 : Deep {.striped .hover}
 
 ## Posterior Forearm
 
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
+| [Extensor Carpi Radialis Longus]({{< var ref-extensor-carpi-radialis-longus.path >}}) | {{< var ref-extensor-carpi-radialis-longus.origin >}} | {{< var ref-extensor-carpi-radialis-longus.insertion >}} | {{< var ref-extensor-carpi-radialis-longus.nerve >}} | {{< var ref-extensor-carpi-radialis-longus.action >}} |
+| [Extensor Carpi Radialis Brevis]({{< var ref-extensor-carpi-radialis-brevis.path >}}) | {{< var ref-extensor-carpi-radialis-brevis.origin >}} | {{< var ref-extensor-carpi-radialis-brevis.insertion >}} | {{< var ref-extensor-carpi-radialis-brevis.nerve >}} | {{< var ref-extensor-carpi-radialis-brevis.action >}} |
+| [Extensor Digitorum]({{< var ref-extensor-digitorum.path >}}) | {{< var ref-extensor-digitorum.origin >}} | {{< var ref-extensor-digitorum.insertion >}} | {{< var ref-extensor-digitorum.nerve >}} | {{< var ref-extensor-digitorum.action >}} |
+| [Extensor Digiti Minimi]({{< var ref-extensor-digiti-minimi.path >}}) | {{< var ref-extensor-digiti-minimi.origin >}} | {{< var ref-extensor-digiti-minimi.insertion >}} | {{< var ref-extensor-digiti-minimi.nerve >}} | {{< var ref-extensor-digiti-minimi.action >}} |
+| [Extensor Carpi Ulnaris]({{< var ref-extensor-carpi-ulnaris.path >}}) | {{< var ref-extensor-carpi-ulnaris.origin >}} | {{< var ref-extensor-carpi-ulnaris.insertion >}} | {{< var ref-extensor-carpi-ulnaris.nerve >}} | {{< var ref-extensor-carpi-ulnaris.action >}} |
+: Posterior Forearm Muscles (Superficial layer) {.striped .hover}
 
-: {.striped .hover}
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Extensor Indicis]({{< var ref-extensor-indicis.path >}}) | {{< var ref-extensor-indicis.origin >}} | {{< var ref-extensor-indicis.insertion >}} | {{< var ref-extensor-indicis.nerve >}} | {{< var ref-extensor-indicis.action >}} |
+| [Supinator]({{< var ref-supinator.path >}}) | {{< var ref-supinator.origin >}} | {{< var ref-supinator.insertion >}} | {{< var ref-supinator.nerve >}} | {{< var ref-supinator.action >}} |
+| [Abductor Pollicis Longus]({{< var ref-abductor-pollicis-longus.path >}}) | {{< var ref-abductor-pollicis-longus.origin >}} | {{< var ref-abductor-pollicis-longus.insertion >}} | {{< var ref-abductor-pollicis-longus.nerve >}} | {{< var ref-abductor-pollicis-longus.action >}} |
+| [Extensor Pollicis Longus]({{< var ref-extensor-pollicis-longus.path >}}) | {{< var ref-extensor-pollicis-longus.origin >}} | {{< var ref-extensor-pollicis-longus.insertion >}} | {{< var ref-extensor-pollicis-longus.nerve >}} | {{< var ref-extensor-pollicis-longus.action >}} |
+| [Extensor Pollicis Brevis]({{< var ref-extensor-pollicis-brevis.path >}}) | {{< var ref-extensor-pollicis-brevis.origin >}} | {{< var ref-extensor-pollicis-brevis.insertion >}} | {{< var ref-extensor-pollicis-brevis.nerve >}} | {{< var ref-extensor-pollicis-brevis.action >}} |
+: Posterior forearm (Deep layer) {.striped .hover}
 
 
 # Hand
+
+## Thenar Muscles
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Opponens Pollicis]({{< var ref-opponens-pollicis.path >}}) | {{< var ref-opponens-pollicis.origin >}} | {{< var ref-opponens-pollicis.insertion >}} | {{< var ref-opponens-pollicis.nerve >}} | {{< var ref-opponens-pollicis.action >}} |
+| [Abductor Pollicis Brevis]({{< var ref-abductor-pollicis-brevis.path >}}) | {{< var ref-abductor-pollicis-brevis.origin >}} | {{< var ref-abductor-pollicis-brevis.insertion >}} | {{< var ref-abductor-pollicis-brevis.nerve >}} | {{< var ref-abductor-pollicis-brevis.action >}} |
+| [Flexor Pollicis Brevis]({{< var ref-flexor-pollicis-brevis.path >}}) | {{< var ref-flexor-pollicis-brevis.origin >}} | {{< var ref-flexor-pollicis-brevis.insertion >}} | {{< var ref-flexor-pollicis-brevis.nerve >}} | {{< var ref-flexor-pollicis-brevis.action >}} |
+: Thenar Muscles of the Hand {.striped .hover}
 
 ## Adductor Compartment
 
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
-
-: {.striped .hover}
+| [Adductor Pollicis]({{< var ref-adductor-pollicis.path >}}) | {{< var ref-adductor-pollicis.origin >}} | {{< var ref-adductor-pollicis.insertion >}} | {{< var ref-adductor-pollicis.nerve >}} | {{< var ref-adductor-pollicis.action >}} |
+: Adductor Compartment of the Hand {.striped .hover}
 
 ## Hypothenar
 
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
-
+| [Abductor Digiti Minimi]({{< var ref-abductor-digiti-minimi.path >}}) | {{< var ref-abductor-digiti-minimi.origin >}} | {{< var ref-abductor-digiti-minimi.insertion >}} | {{< var ref-abductor-digiti-minimi.nerve >}} | {{< var ref-abductor-digiti-minimi.action >}} |
+| [Flexor Digiti Minimi Brevis]({{< var ref-flexor-digiti-minimi-brevis.path >}}) | {{< var ref-flexor-digiti-minimi-brevis.origin >}} | {{< var ref-flexor-digiti-minimi-brevis.insertion >}} | {{< var ref-flexor-digiti-minimi-brevis.nerve >}} | {{< var ref-flexor-digiti-minimi-brevis.action >}} |
+| [Opponens Digiti Minimi]({{< var ref-opponens-digiti-minimi.path >}}) | {{< var ref-opponens-digiti-minimi.origin >}} | {{< var ref-opponens-digiti-minimi.insertion >}} | {{< var ref-opponens-digiti-minimi.nerve >}} | {{< var ref-opponens-digiti-minimi.action >}} |
 : {.striped .hover}
 
 ## Short Muscles
 
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
-
+| [Lumbricals (Hand)]({{< var ref-lumbricals-hand.path >}}) | {{< var ref-lumbricals-hand.origin >}} | {{< var ref-lumbricals-hand.insertion >}} | {{< var ref-lumbricals-hand.nerve >}} | {{< var ref-lumbricals-hand.action >}} |
+| [Dorsal Interossei]({{< var ref-dorsal-interossei-hand.path >}}) | {{< var ref-dorsal-interossei-hand.origin >}} | {{< var ref-dorsal-interossei-hand.insertion >}} | {{< var ref-dorsal-interossei-hand.nerve >}} | {{< var ref-dorsal-interossei-hand.action >}} |
+| [Palmar Interossei (Hand)]({{< var ref-palmar-interossei-hand.path >}}) | {{< var ref-palmar-interossei-hand.origin >}} | {{< var ref-palmar-interossei-hand.insertion >}} | {{< var ref-palmar-interossei-hand.nerve >}} | {{< var ref-palmar-interossei-hand.action >}} |
 : {.striped .hover}
 
 # Hip & Thigh
