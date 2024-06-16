@@ -68,6 +68,13 @@ According to Dutton @duttonDuttonOrthopaedicExamination2020, the *synovium* of t
 
 # Biomechanics
 
+## Arm Elevation
+
+- SCAP UR: end range: post tilt and ER
+    - End position: inf angle at midaxillary line
+- GHJ: humeral elevation and lateral rotation, inf glide of humerus
+- SCJ: elevation and post rotation and retraction
+
 
 
 

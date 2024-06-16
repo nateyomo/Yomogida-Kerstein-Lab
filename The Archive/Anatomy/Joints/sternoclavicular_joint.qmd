@@ -5,7 +5,8 @@ title: Sternoclavicular Joint (SCJ)
 
 The sternoclavicular joint is a saddle joint
 
-# Arthrokinematics
+
+# Joint Structure
 
 Since the SCJ is a saddle joint, both the distal and proximal joint surfaces have concave and convex facets.
 
@@ -18,21 +19,45 @@ Since the SCJ is a saddle joint, both the distal and proximal joint surfaces hav
     - Anterior roll and slide
 
 
-# Joint position
-
 - 6&deg; upward slope
 - Posterior to the frontal plane 20 deg
-- Protraction = retraction (15-30 deg)
-- Rotation (post) 40-50 deg
-- Elevation (45-60 deg) > depression (10-15)
-
-
-
-
 
 # Kinematics
 
-# Stability
+## Elevation
+
+- Elevation (45-60&deg;)
+
+## Depression
+
+- Depression (10-15&deg;)
+
+## Protraction
+
+- Protraction = retraction (15-30&deg;)
+
+## Retraction
+
+- Protraction = retraction (15-30&deg;)
+
+## Rotation
+
+- Rotation (post) 40-50&deg;
+
+
+
+
+# Osteokinematics
+
+
+
+
+
+
+
+
+
+# Stabilization
 
 :::{layout-ncol="3"}
 ### Active Stability

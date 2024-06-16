@@ -2,6 +2,91 @@
 title: Glenohumeral Joint
 ---
 
+# Overview
+
+
+# Position
+
+- Glenoid fossa tilted upwardly at 5 degrees
+- Humerus 
+    - → angle of inclination: 135&deg; (frontal plane)
+    - → angle of retroversion 30&deg; (tranverse plane)
+
+- GHJ alignment/normal ROM
+    - ⅓ of humeral head protruding in front of acromion
+
+## Closed Pack
+
+- 90&deg; abd
+- Max ER
+
+## Open Pack
+
+
+# Capsular pattern
+
+1. External Rotation
+1. Abduction
+1. Flexion
+1. Internal Rotation
+
+
+# Ligaments
+
+- Superior GHJ Lig: Taught add, inf, AP translation
+- Middle: taught in ER and ant translation
+- Inferior: 90 deg of abd, ant fibers: ER, post fibers: IR
+- Coracohumeral: ER and ADD
+
+
+# Stabilization
+
+## Passive Stabilizers
+
+- Labrum
+- Joint capsule
+- Ligaments
+- Negative intraarticular pressure
+- Supraspinatus
+- Inclined plane of scapula
+
+
+
+## Flexion
+
+Normal: 120&deg; of **pure** GHJ flexion
+
+
+## Extension
+
+55&deg;
+
+## Abduction
+
+120&deg; of **pure** GHJ Abduction
+
+## Adduction
+
+ADD: 75-85&deg;
+
+## Internal Rotation
+
+
+
+## External Rotation
+
+
+# IR ER Ratio
+
+
+- When adducted, the shoulder should display: 75-85 IR and 60-70 ER
+- When Abducted to 90&deg; one should expect more ER=90 deg
+
+
+
+# Notes
+
+
 "The G-H joint is a true synovial joint that connects the upper extremity to the trunk, as part of the upper kinetic chain. The G-H joint is described as a ball and socket joint—the humeral head forms roughly half a ball or sphere (Fig. 16-1), whereas the glenoid fossa forms the socket. " @duttonDuttonOrthopaedicExamination2020
 
 "The head of the humerus faces medially, posteriorly, and superiorly with the axis of the head forming an angle of 130–150 degrees with the long axis of the humerus (Fig. 16-2).3 In the frontal plane, the head of the humerus is angled posteriorly (retroverted) by 30–40 degrees.3 The joint capsule of the G-H joint is lax inferiorly to permit full elevation of the arm. " @duttonDuttonOrthopaedicExamination2020

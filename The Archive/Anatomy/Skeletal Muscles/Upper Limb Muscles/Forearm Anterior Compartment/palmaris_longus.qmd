@@ -7,21 +7,28 @@ title: Palmaris Longus
 
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
-
+| [Palmaris Longus]({{< var ref-palmaris-longus.path >}}) | {{< var ref-palmaris-longus.origin >}} | {{< var ref-palmaris-longus.insertion >}} | {{< var ref-palmaris-longus.nerve >}} | {{< var ref-palmaris-longus.action >}} |
 : {.striped .hover}
 
 
 
 # Origin
 
+Medial epicondyle of humerus @gilroyAtlasAnatomy2020
 
 # Insertion
 
+Palmar aponeurosis @gilroyAtlasAnatomy2020
 
 # Innervation
-
+[Median N.]({{< var ref-median-nerve.path >}}) ([C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}})) @gilroyAtlasAnatomy2020
 
 # Action
+
+- **Elbow**: Weak flexion @gilroyAtlasAnatomy2020
+- **Wrist**: Flexion, Tenses palmar aponeurosis @gilroyAtlasAnatomy2020
+
+
 
 
 # Notes
