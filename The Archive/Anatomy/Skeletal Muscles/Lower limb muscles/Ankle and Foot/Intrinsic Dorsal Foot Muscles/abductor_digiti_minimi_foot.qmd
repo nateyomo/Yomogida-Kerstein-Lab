@@ -12,7 +12,7 @@ title: Abductor Digiti Minimi
 
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
-| [Abductor Digiti Minimi]({{< var ref-abductor-digiti-minimi.path >}}) | {{< var ref-abductor-digiti-minimi.origin >}} | {{< var ref-abductor-digiti-minimi.insertion >}} | {{< var ref-abductor-digiti-minimi.nerve >}} | {{< var ref-abductor-digiti-minimi.action >}} |
+| [Abductor Digiti Minimi (foot)]({{< var ref-abductor-digiti-minimi-foot.path >}}) | {{< var ref-abductor-digiti-minimi-foot.origin >}} | {{< var ref-abductor-digiti-minimi-foot.insertion >}} | {{< var ref-abductor-digiti-minimi-foot.nerve >}} | {{< var ref-abductor-digiti-minimi-foot.action >}} |
 : {.striped .hover}
 
 

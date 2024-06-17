@@ -1,5 +1,5 @@
 ---
-title: Flexor Digiti Minimi Brevis
+title: Flexor Digiti Minimi Brevis (Foot)
 ---
 
 :::{layout-ncol="3"}
@@ -12,7 +12,7 @@ title: Flexor Digiti Minimi Brevis
 
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
-| [Flexor Digiti Minimi Brevis]({{< var ref-flexor-digiti-minimi-brevis.path >}}) | {{< var ref-flexor-digiti-minimi-brevis.origin >}} | {{< var ref-flexor-digiti-minimi-brevis.insertion >}} | {{< var ref-flexor-digiti-minimi-brevis.nerve >}} | {{< var ref-flexor-digiti-minimi-brevis.action >}} |
+| [Flexor Digiti Minimi Brevis (Hand)]({{< var ref-flexor-digiti-minimi-brevis-hand.path >}}) | {{< var ref-flexor-digiti-minimi-brevis-hand.origin >}} | {{< var ref-flexor-digiti-minimi-brevis-hand.insertion >}} | {{< var ref-flexor-digiti-minimi-brevis-hand.nerve >}} | {{< var ref-flexor-digiti-minimi-brevis-hand.action >}} |
 : {.striped .hover}
 
 

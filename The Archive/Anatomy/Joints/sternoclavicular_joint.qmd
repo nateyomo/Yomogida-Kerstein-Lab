@@ -47,7 +47,6 @@ Since the SCJ is a saddle joint, both the distal and proximal joint surfaces hav
 
 
 
-# Osteokinematics
 
 
 

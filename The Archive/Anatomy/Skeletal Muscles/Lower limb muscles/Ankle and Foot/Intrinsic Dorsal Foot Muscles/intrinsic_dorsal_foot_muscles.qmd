@@ -30,7 +30,7 @@ title: Intrinsic Dorsal Foot Muscles
 |------|--------|-------|----------|--------|
 | [Abductor Hallucis]({{< var ref-abductor-hallucis.path >}}) | {{< var ref-abductor-hallucis.origin >}} | {{< var ref-abductor-hallucis.insertion >}} | {{< var ref-abductor-hallucis.nerve >}} | {{< var ref-abductor-hallucis.action >}} |
 | [Flexor Digitorum Brevis]({{< var ref-flexor-digitorum-brevis.path >}}) | {{< var ref-flexor-digitorum-brevis.origin >}} | {{< var ref-flexor-digitorum-brevis.insertion >}} | {{< var ref-flexor-digitorum-brevis.nerve >}} | {{< var ref-flexor-digitorum-brevis.action >}} |
-| [Abductor Digiti Minimi]({{< var ref-abductor-digiti-minimi.path >}}) | {{< var ref-abductor-digiti-minimi.origin >}} | {{< var ref-abductor-digiti-minimi.insertion >}} | {{< var ref-abductor-digiti-minimi.nerve >}} | {{< var ref-abductor-digiti-minimi.action >}} |
+| [Abductor Digiti Minimi (foot)]({{< var ref-abductor-digiti-minimi-foot.path >}}) | {{< var ref-abductor-digiti-minimi-foot.origin >}} | {{< var ref-abductor-digiti-minimi-foot.insertion >}} | {{< var ref-abductor-digiti-minimi-foot.nerve >}} | {{< var ref-abductor-digiti-minimi-foot.action >}} |
 : {.striped .hover}
 
 
@@ -48,7 +48,7 @@ title: Intrinsic Dorsal Foot Muscles
 |------|--------|-------|----------|--------|
 | [Flexor Hallucis Brevis]({{< var ref-flexor-hallucis-brevis.path >}}) | {{< var ref-flexor-hallucis-brevis.origin >}} | {{< var ref-flexor-hallucis-brevis.insertion >}} | {{< var ref-flexor-hallucis-brevis.nerve >}} | {{< var ref-flexor-hallucis-brevis.action >}} |
 | [Adductor Hallucis]({{< var ref-adductor-hallucis.path >}}) | {{< var ref-adductor-hallucis.origin >}} | {{< var ref-adductor-hallucis.insertion >}} | {{< var ref-adductor-hallucis.nerve >}} | {{< var ref-adductor-hallucis.action >}} |
-| [Flexor Digiti Minimi Brevis]({{< var ref-flexor-digiti-minimi-brevis.path >}}) | {{< var ref-flexor-digiti-minimi-brevis.origin >}} | {{< var ref-flexor-digiti-minimi-brevis.insertion >}} | {{< var ref-flexor-digiti-minimi-brevis.nerve >}} | {{< var ref-flexor-digiti-minimi-brevis.action >}} |
+| [Flexor Digiti Minimi Brevis (Foot)]({{< var ref-flexor-digiti-minimi-brevis-foot.path >}}) | {{< var ref-flexor-digiti-minimi-brevis-foot.origin >}} | {{< var ref-flexor-digiti-minimi-brevis-foot.insertion >}} | {{< var ref-flexor-digiti-minimi-brevis-foot.nerve >}} | {{< var ref-flexor-digiti-minimi-brevis-foot.action >}} |
 | [Opponens Digiti Minimi]({{< var ref-opponens-digiti-minimi.path >}}) | {{< var ref-opponens-digiti-minimi.origin >}} | {{< var ref-opponens-digiti-minimi.insertion >}} | {{< var ref-opponens-digiti-minimi.nerve >}} | {{< var ref-opponens-digiti-minimi.action >}} |
 : {.striped .hover}
 

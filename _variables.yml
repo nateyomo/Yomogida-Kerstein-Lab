@@ -957,18 +957,18 @@ ref-adductor-pollicis:
   insertion: "Medial base of 1st proximal phalanx </br> (*via ulnar sesamoid*)"
   nerve: "[Deep Br. of Ulnar N.]({{< var ref-deep-branch-of-ulnar-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}}))"
   action: "**1st CMC**: Adduction </br> **1st MCP**: Flexion"
-ref-abductor-digiti-minimi:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/abductor_digiti_minimi.qmd"
-  origin: ""
-  insertion: ""
-  nerve: ""
-  action: ""
-ref-flexor-digiti-minimi-brevis:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/flexor_digiti_minimi_brevis.qmd"
-  origin: ""
-  insertion: ""
-  nerve: ""
-  action: ""
+ref-abductor-digiti-minimi-hand:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/abductor_digiti_minimi_hand.qmd"
+  origin: "Pisiform"
+  insertion: "Medial side of base of 5th proximal phalanx </br> Dorsal digital expansion of 5th digit"
+  nerve: "[Deep Br. of Ulnar N.]({{< var ref-deep-branch-of-ulnar-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}}))"
+  action: "**5th MCP**: Flexion, Abduction <br> **5th PIP, DIP**: Extension"
+ref-flexor-digiti-minimi-brevis-hand:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/flexor_digiti_minimi_brevis_hand.qmd"
+  origin: "Hook of hamate </br> Flexor retinaculum"
+  insertion: "Medial side of base of 5th proximal phalanx"
+  nerve: "[Deep Br. of Ulnar N.]({{< var ref-deep-branch-of-ulnar-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}}))"
+  action: "**5th MCP**: Flexion"
 ref-opponens-digiti-minimi:
   path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/opponens_digiti_minimi.qmd"
   origin: ""
@@ -1293,8 +1293,8 @@ ref-flexor-digitorum-brevis:
   insertion: "Sides of middle phalanges #2-5"
   nerve: "[Medial Plantar N.]({{< var ref-medial-plantar-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}))"
   action: "**MTP and PIP 2-5**: Flexion </br> **Longitudinal Arch**: Support"
-ref-abductor-digiti-minimi:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/abductor_digiti_minimi.qmd"
+ref-abductor-digiti-minimi-foot:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/abductor_digiti_minimi_foot.qmd"
   origin: "Medial tubercle of calcaneal tuberosity </br> Plantar aponeurosis"
   insertion: "5th toe (Base of proximal phalanx) </br> 5th metatarsal at tuberosity"
   nerve: "[Lateral Plantar N.]({{< var ref-lateral-plantar-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}}))"
@@ -1324,8 +1324,8 @@ ref-adductor-hallucis:
   insertion: "Base of prox phalanx of 1st toe"
   nerve: "[Lateral Plantar N. (*deep branch*)]({{< var ref-lateral-plantar-nerve.path >}}) ([S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}}))"
   action: "**1st MTP**: Flexion </br> **1st Toe**: Adduction </br> **Transverse head**: supports transverse arch </br> **Oblique head**: Supports longitudinal arch"
-ref-flexor-digiti-minimi-brevis:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/flexor_digiti_minimi_brevis.qmd"
+ref-flexor-digiti-minimi-brevis-foot:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/flexor_digiti_minimi_brevis_foot.qmd"
   origin: "Base of 5th MT </br> Long plantar lig"
   insertion: "Base of proximal phalanx of 5th toe"
   nerve: "[Lateral Plantar N. (*superficial branch*)]({{< var ref-lateral-plantar-nerve.path >}}) ([S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}}))"
