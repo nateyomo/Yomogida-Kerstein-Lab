@@ -1,5 +1,5 @@
 ---
-title: Opponens Digiti Minimi
+title: Opponens Digiti Minimi (Foot)
 ---
 
 :::{layout-ncol="3"}
@@ -12,7 +12,7 @@ title: Opponens Digiti Minimi
 
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
-| [Opponens Digiti Minimi]({{< var ref-opponens-digiti-minimi.path >}}) | {{< var ref-opponens-digiti-minimi.origin >}} | {{< var ref-opponens-digiti-minimi.insertion >}} | {{< var ref-opponens-digiti-minimi.nerve >}} | {{< var ref-opponens-digiti-minimi.action >}} |
+| [Opponens Digiti Minimi]({{< var ref-opponens-digiti-minimi-foot.path >}}) | {{< var ref-opponens-digiti-minimi-foot.origin >}} | {{< var ref-opponens-digiti-minimi-foot.insertion >}} | {{< var ref-opponens-digiti-minimi-foot.nerve >}} | {{< var ref-opponens-digiti-minimi-foot.action >}} |
 : {.striped .hover}
 
 # Origin

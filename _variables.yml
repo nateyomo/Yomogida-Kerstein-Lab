@@ -971,28 +971,28 @@ ref-flexor-digiti-minimi-brevis-hand:
   action: "**5th MCP**: Flexion"
 ref-opponens-digiti-minimi:
   path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/opponens_digiti_minimi.qmd"
-  origin: ""
-  insertion: ""
-  nerve: ""
-  action: ""
+  origin: "Hook of hamate </br> Flexor retinaculum"
+  insertion: "5th Metacarpal (ulnar border)"
+  nerve: "[Deep Br. of Ulnar N.]({{< var ref-deep-branch-of-ulnar-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}}))"
+  action: "**5th MCP**: Draws anterior and rotates it towards the thumb"
 ref-lumbricals-hand:
   path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/lumbrical_muscles_hand.qmd"
-  origin: ""
-  insertion: ""
-  nerve: ""
-  action: ""
+  origin: "**1-2nd Lumbrical**: FDP Tendons </br> (*radial sides*) </br> **3-4th Lumbrical**: FDP tendons </br> (*bipennate from medial and lateral sides*)"
+  insertion: "**1st**: 2nd digit (DDE) </br> **2nd**: 3rd digit (DDE) </br> **3rd**: 4th digit (DDE) </br> **4th**: 5th digit (DDE)"
+  nerve: "**1-2nd**: [Median N.]({{< var ref-median-nerve.path >}}) </br> **3-4th**: [Deep Br. of Ulnar N.]({{< var ref-deep-branch-of-ulnar-nerve.path >}}) </br> ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}}))"
+  action: "**2-5 MCP**: Flexion </br> **2-5 PIP, DIP**: Extension"
 ref-dorsal-interossei-hand:
   path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/dorsal_interossei_hand.qmd"
-  origin: ""
-  insertion: ""
-  nerve: ""
-  action: ""
+  origin: "**1st**: 1-2nd metacarpals </br> **2nd**: 2-3rd metacarpals </br> **3rd**: 3-4th metacarpals </br> **4th**: 4-5th metacarpals </br> (*adjacent sides, two heads*)"
+  insertion: "**1st**: 2nd DDE, 2nd proximal phalanx (radial side) </br> **2nd**: 3rd DDE, 3rd proximal phalanx (radial side) </br> **3rd**: 3rd DDE, 3rd proximal phalanx (ulnar side) </br> **4th**: 4th DDE, 4th proximal phalanx (ulnar side)"
+  nerve: "[Deep Br. of Ulnar N.]({{< var ref-deep-branch-of-ulnar-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}}))"
+  action: "**2-4th MCP**: Flexion </br> **2-4th PIP, DIP**: Extension, Abduction"
 ref-palmar-interossei-hand:
   path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/palmar_interossei_hand.qmd"
-  origin: ""
-  insertion: ""
-  nerve: ""
-  action: ""
+  origin: "**1st**: 2nd metacarpal (ulnar side) </br> **2nd**: 4th metacarpal (radial side) </br> **3rd**: 5th metacarpal (radial side)"
+  insertion: "**1st**: 2nd DDE, 2nd proximal phalanx (base) </br> **2nd**: 4th DDE, 4th proximal phalanx (base) </br> **3rd**: 5th DDE, 5th proximal phalanx (base)"
+  nerve: "[Deep Br. of Ulnar N.]({{< var ref-deep-branch-of-ulnar-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}}))"
+  action: "**2,4,5 MCP**: Flexion </br> **2,4,5 PIP, DIP**: Extension, Adduction"
 
 ### Lower Extremity muscles
 ### Iliopsoas muscles
@@ -1330,8 +1330,8 @@ ref-flexor-digiti-minimi-brevis-foot:
   insertion: "Base of proximal phalanx of 5th toe"
   nerve: "[Lateral Plantar N. (*superficial branch*)]({{< var ref-lateral-plantar-nerve.path >}}) ([S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}}))"
   action: "**5th MTP**: Flexion"
-ref-opponens-digiti-minimi:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/opponens_digiti_minimi.qmd"
+ref-opponens-digiti-minimi-foot:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/opponens_digiti_minimi_foot.qmd"
   origin: "Long plantar lig </br> Plantar tendon sheath of [Fibularis Longus]({{< var ref-fibularis-longus.path >}})"
   insertion: "5th MT"
   nerve: "[Lateral Plantar N. (*superficial branch*)]({{< var ref-lateral-plantar-nerve.path >}}) ([S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}}))"
