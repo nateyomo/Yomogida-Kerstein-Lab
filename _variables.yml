@@ -91,11 +91,32 @@ ref-vomer-bone:
 ### LE Bones
 
 ref-calcaneus-bone:
-  path: "/The Archive/Anatomy/Bones/Lower Extremity Bones/calcaneus_bone.qmd"
+  path: "/The Archive/Anatomy/Bones/Lower Extremity Bones/Foot and Ankle/calcaneus_bone.qmd"
   apophysis: "/The Archive/Anatomy/Bones/Lower Extremity Bones/calcaneus_bone.qmd#apophysis"
   pathology: "/"
   osteomyelitis: "/The Archive/Pathologies/Bone pathologies/Calcaneus/calcaneal_osteomyelitis.qmd"
   apophysitis: "/"
+ref-cuboid-bone:
+  path: "/The Archive/Anatomy/Bones/Lower Extremity Bones/Foot and Ankle/cuboid_bone.qmd"
+ref-cuneiform-bones:
+  path: "/"
+ref-medial-cuneiform-bone:
+  path: "/The Archive/Anatomy/Bones/Lower Extremity Bones/Foot and Ankle/cuneiforms/medial_cuneiform_bone.qmd"
+ref-intermediate-cuneiform-bone:
+  path: "/The Archive/Anatomy/Bones/Lower Extremity Bones/Foot and Ankle/cuneiforms/intermediate_cuneiform_bone.qmd"
+ref-lateral-cuneiform-bone:
+  path: "/The Archive/Anatomy/Bones/Lower Extremity Bones/Foot and Ankle/cuneiforms/lateral_cuneiform_bone.qmd"
+ref-1st-metatarsal-bone:
+  path: "/The Archive/Anatomy/Bones/Lower Extremity Bones/Foot and Ankle/Metatarsals/1st_metatarsal_bone.qmd"
+ref-2nd-metatarsal-bone:
+  path: "/The Archive/Anatomy/Bones/Lower Extremity Bones/Foot and Ankle/Metatarsals/2nd_metatarsal_bone.qmd"
+ref-3rd-metatarsal-bone:
+  path: "/The Archive/Anatomy/Bones/Lower Extremity Bones/Foot and Ankle/Metatarsals/3rd_metatarsal_bone.qmd"
+ref-4th-metatarsal-bone:
+  path: "/The Archive/Anatomy/Bones/Lower Extremity Bones/Foot and Ankle/Metatarsals/4th_metatarsal_bone.qmd"
+ref-5th-metatarsal-bone:
+  path: "/The Archive/Anatomy/Bones/Lower Extremity Bones/Foot and Ankle/Metatarsals/5th_metatarsal_bone.qmd"
+
 ref-coxal-bone:
   path: "/The Archive/Anatomy/Bones/Lower Extremity Bones/coxal_bone.qmd"
   asis: "/The Archive/Anatomy/Bones/Lower Extremity Bones/coxal_bone.qmd#asis"
@@ -189,6 +210,28 @@ ref-lumbosacral-junction:
   path: "/The Archive/Anatomy/Joints/Spine joints/lumbosacral_junction.qmd"
 
 ### LE Joints
+ref-tibiofemoral-joint:
+  path: "/"
+ref-proximal-tibiofibular-joint:
+  path: "/The Archive/Anatomy/Joints/LE Joints/proximal_tibiofibular_joint.qmd"
+ref-distal-tibiofibular-joint:
+  path: "/The Archive/Anatomy/Joints/LE Joints/distal_tibiofibular_joint.qmd"
+
+ref-talocrural-joint:
+  path: "/The Archive/Anatomy/Joints/LE Joints/Foot and Ankle Joints/talocrural_joint_TCJ.qmd"
+ref-subtalar-joint:
+  path: "/The Archive/Anatomy/Joints/LE Joints/Foot and Ankle Joints/subtalar_joint_STJ.qmd"
+ref-transverse-tarsal-joint:
+  path: "/The Archive/Anatomy/Joints/LE Joints/Foot and Ankle Joints/transverse_tarsal_joint.qmd"
+ref-talonavicular-joint:
+  path: "/The Archive/Anatomy/Joints/LE Joints/Foot and Ankle Joints/talonavicular_joint.qmd"
+ref-calcaneocuboid-joint:
+  path: "/The Archive/Anatomy/Joints/LE Joints/Foot and Ankle Joints/calcaneocuboid_joint.qmd"
+ref-metatarsophalangeal-joint:
+  path: "/The Archive/Anatomy/Joints/LE Joints/Foot and Ankle Joints/metatarsophalangeal_joint.qmd"
+ref-interphalangeal-joint:
+  path: "/The Archive/Anatomy/Joints/LE Joints/Foot and Ankle Joints/interphalangeal_joint.qmd"
+
 
 ### UE Joints
 ref-acromioclavicular-joint:
@@ -199,7 +242,7 @@ ref-glenohumeral-joint:
 
 ## Tendon
 ref-pes-anserine:
-  path: "/The Archive/Anatomy/Connective tissue/Tendon/pes_anserine.qmd"
+  path: "/The Archive/Anatomy/Connective tissue/Tendon/Lower Extremity Tendons/pes_anserine.qmd"
 ref-patellar-tendon:
   path: "/The Archive/Anatomy/Connective tissue/Tendon/patellar_tendon.qmd"
   tendinopathy: "/The Archive/Pathologies/Pathologies by Region/Lower extremity/Knee/Patellar_tendinopathy.qmd"
@@ -209,7 +252,7 @@ ref-index-ligaments:
 ### LE Ligaments
 ### Hip ligaments
 ref-sacrotuberous-ligament:
-  path: "/The Archive/Anatomy/Ligaments/Hip Ligaments/sacrotuberous_ligament.qmd"
+  path: "/The Archive/Anatomy/Ligaments/Lower Extremity/Hip Ligaments/sacrotuberous_ligament.qmd"
 ### Knee ligaments
 ref-knee-ligaments:
   path: "/The Archive/Anatomy/Ligaments/Knee ligaments/knee_ligaments.qmd"
@@ -227,7 +270,7 @@ ref-interscalene-triangle:
 
 ## OIAN
 ref-oians: 
-  path: /The Archive/Anatomy/OIAN.qmd
+  path: "/The Archive/Anatomy/Skeletal Muscles/OIAN.qmd"
 
 ### Muscles of the back
 #### Superficial Intrinsic Back Muscles
@@ -399,13 +442,13 @@ ref-semispinalis-thoracis:
 
 #### deep segmental back muscles
 ref-interspinales-cervicis:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/interspinales.qmd"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/interspinales.qmd"
   origin: "C1-C7: SP of inferiorly adjacent vertebrae"
   insertion: "C1-C7: SP of superiorly adjacent vertebrae"
   nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
   action: "Extends cervical and Lumbar spines"
 ref-interspinales-lumbora:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/interspinales.qmd"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/interspinales.qmd"
   origin: "L1-L5: SP of inferiorly adjacent vertebrae"
   insertion: "L1-L5: SP of superiorly adjacent vertebrae"
   nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
@@ -892,28 +935,28 @@ ref-extensor-pollicis-brevis:
 
 ref-opponens-pollicis:
   path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/opponens_pollicis.qmd"
-  origin: ""
-  insertion: ""
-  nerve: ""
-  action: ""
+  origin: "Trapezium"
+  insertion: "1st metacarpal (*lateral side*)"
+  nerve: "[Recurrent Br. of Median N.]({{< var ref-recurrent-branch-of-median-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}}))"
+  action: "**1st CMC**: Opposition"
 ref-abductor-pollicis-brevis:
   path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/abductor_pollicis_brevis.qmd"
-  origin: ""
-  insertion: ""
-  nerve: ""
-  action: ""
+  origin: "Flexor retinaculum </br> Scaphoid </br> Trapezium"
+  insertion: "Lateral side of base of 1st proximal phalanx </br> (*via radial seasamoid*)"
+  nerve: "[Recurrent Br. of Median N.]({{< var ref-recurrent-branch-of-median-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}}))"
+  action: "**1st CMC**: Abduction"
 ref-flexor-pollicis-brevis:
   path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/flexor_pollicis_brevis.qmd"
-  origin: ""
-  insertion: ""
-  nerve: ""
-  action: ""
+  origin: "**Superficial head**: Flexor retinaculum </br> **Deep head**: Capitate, Trapezium"
+  insertion: "Lateral side of base of 1st proximal phalan </br> (*via the radial sesamoid*)"
+  nerve: "**Superficial head**: [Recurrent Br. of Median N.]({{< var ref-recurrent-branch-of-median-nerve.path >}}) </br> **Deep head**: [Deep Br. of Ulnar N.]({{< var ref-deep-branch-of-ulnar-nerve.path >}}) </br> ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}}))"
+  action: "**1st CMC**: Flexion"
 ref-adductor-pollicis:
   path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/adductor_pollicis.qmd"
-  origin: ""
-  insertion: ""
-  nerve: ""
-  action: ""
+  origin: "**Oblique head**: Base of 2nd and 3rd metacarpal, Capitate </br> **Transverse head**: Palmar surface of 3rd metacarpal"
+  insertion: "Medial base of 1st proximal phalanx </br> (*via ulnar sesamoid*)"
+  nerve: "[Deep Br. of Ulnar N.]({{< var ref-deep-branch-of-ulnar-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}}))"
+  action: "**1st CMC**: Adduction </br> **1st MCP**: Flexion"
 ref-abductor-digiti-minimi:
   path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/abductor_digiti_minimi.qmd"
   origin: ""
@@ -1094,7 +1137,7 @@ ref-vastus-lateralis:
   nerve: "[Femoral N.]({{< var ref-femoral-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}), [L4]({{< var ref-nerve-root.l4 >}}))"
   action: "**Knee**: extension"
 ref-vastus-intermedius:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Quadriceps/vastus_intermedius.qmd"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/vastus_intermedius.qmd"
   origin: "Femoral shaft (anterior side)"
   insertion: "Tibial tuberosity (via patellar lig.)"
   nerve: "[Femoral N.]({{< var ref-femoral-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}), [L4]({{< var ref-nerve-root.l4 >}}))"
@@ -1401,6 +1444,8 @@ ref-median-nerve:
   roots: "[C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})"
   motor: ""
   cutaneous: ""
+ref-recurrent-branch-of-median-nerve:
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/median_nerve.qmd"
 ref-anterior-interosseous-nerve:
   path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/median_nerve.qmd"
   roots: ""
@@ -1426,8 +1471,10 @@ ref-ulnar-nerve:
   roots: "[C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})"
   motor: ""
   cutaneous: ""
+ref-deep-branch-of-ulnar-nerve:
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/ulnar_nerve.qmd"
 ref-upper-subscapular-nerve:
-  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/subscapular_nerve.qmd"
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/upper_subscapular_nerve.qmd"
   roots: "[C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}})"
   motor: ""
   cutaneous: ""
@@ -1439,7 +1486,7 @@ ref-thoracodorsal-nerve:
   motor: ""
   cutaneous: ""
 ref-lower-subscapular-nerve:
-  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/thoracodorsal_nerve.qmd"
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/lower_subscapular_nerve.qmd"
   roots: "[C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}})"
   motor: ""
   cutaneous: ""
@@ -1453,7 +1500,7 @@ ref-radial-nerve:
   cutaneous: ""
 ref-posterior-interosseous-nerve:
   path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/radial_nerve.qmd"
-  roots: ""
+  roots: "[C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})"
   motor: ""
   cutaneous: ""
 ref-axillary-nerve:
@@ -1669,7 +1716,9 @@ ref-troponin:
     path: "/The Archive/Chemistry/Biochemistry/Proteins/Troponin/cardiac_troponin_T_cTnT.qmd"
   ctni:
     path: "/The Archive/Chemistry/Biochemistry/Proteins/Troponin/cardiac_troponin_I_cTnI.qmd"
-
+## Polysaccharides
+ref-glycosaminoglycans:
+  path: "/The Archive/Chemistry/Biochemistry/Polysaccharide/glycosaminogylcans_GAGs.qmd"
 ## Non-proteins
 ref-creatine:
   path: "/The Archive/Chemistry/Biochemistry/Non-proteins/creatine.qmd"
@@ -1950,7 +1999,8 @@ ref-navicular-drop-test:
 ### Hip T&M
 ref-external-derotation-test:
   path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/Hip Tests/External_Derotation_Test.qmd"
-
+ref-craigs-test:
+  path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/Hip Tests/Craigs_test.qmd"
 
 
 # genetics & Genomics
@@ -1963,7 +2013,8 @@ ref-chromosome-21:
 # Histology
 ref-fibrocartilage:
   path: "/The Archive/Histology/fibrocartilage.qmd"
-
+ref-type-1-collagen:
+  path: "/The Archive/Histology/type_1_collagen.qmd"
 # Interventions
 ref-interventions-index:
   path: "/The Archive/Interventions/interventions_index.qmd"
@@ -2010,13 +2061,13 @@ ref-cxcl-13:
 ref-msk-index:
   path: "/The Archive/MSK/MSK_index.qmd"
 ref-respiration:
-  path: "The Archive/Physiology/Respiratory system/respiration.qmd"
+  path: "/The Archive/Physiology/Pulmonary system/respiration.qmd"
 ## Movements
 ### Head
 ref-head-osteokinematics:
-  path: "/The Archive/MSK/Regions/Spine/neck.qmd"
+  path: "/The Archive/MSK/Regions/Spine/neck_MSK.qmd"
 ref-neck-osteokinematics:
-  path: "/The Archive/MSK/Regions/Spine/neck.qmd"
+  path: "/The Archive/MSK/Regions/Spine/neck_MSK.qmd"
 ## Regions
 ### Lower extremity
 ref-hip-msk:
@@ -2035,7 +2086,7 @@ ref-thoracic-spine-msk:
 ref-lumbar-spine-msk:
   path: "/The Archive/MSK/Regions/Spine/lumbar_spine.qmd"
 ref-neck-msk:
-  path: "/The Archive/MSK/Regions/Spine/neck.qmd"
+  path: "/The Archive/MSK/Regions/Spine/neck_MSK.qmd"
 ### Upper extremity
 ref-shoulder-msk:
   path: "/The Archive/MSK/Regions/Upper Extremity/shoulder.qmd"

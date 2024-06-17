@@ -2,6 +2,39 @@
 title: Hip Extensor Muscles
 ---
 
+:::{layout-ncol="2"}
+
+Gluteus maximus Biceps femoris (long head) Semitendinosus Semimembranosus Adductor magnus (posterior head)
+
+### Primary
+
+- Glute max (lower and upper fibers) @neumannKinesiologyMusculoskeletalSystem2017
+- Biceps Femoris Long Head @neumannKinesiologyMusculoskeletalSystem2017
+- Adductor magnus (Posterior fibers) @neumannKinesiologyMusculoskeletalSystem2017
+
+### Secondary
+
+- Glute med (Posterior fibers) @neumannKinesiologyMusculoskeletalSystem2017
+- Adductor magnus (ant head) @neumannKinesiologyMusculoskeletalSystem2017
+:::
+
+# Primary
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Gluteus Maximus]({{< var ref-gluteus-maximus.path >}}) | {{< var ref-gluteus-maximus.origin >}} | {{< var ref-gluteus-maximus.insertion >}} | {{< var ref-gluteus-maximus.nerve >}} | {{< var ref-gluteus-maximus.action >}} |
+| [Adductor Magnus]({{< var ref-adductor-magnus.path >}}) | {{< var ref-adductor-magnus.origin >}} | {{< var ref-adductor-magnus.insertion >}} | {{< var ref-adductor-magnus.nerve >}} | {{< var ref-adductor-magnus.action >}} |
+| [Biceps Femoris Long Head]({{< var ref-biceps-femoris-long-head.path >}}) | {{< var ref-biceps-femoris-long-head.origin >}} | {{< var ref-biceps-femoris-long-head.insertion >}} | {{< var ref-biceps-femoris-long-head.nerve >}} | {{< var ref-biceps-femoris-long-head.action >}} |
+: {.striped .hover}
+
+# Secondary
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Gluteus Medius]({{< var ref-gluteus-medius.path >}}) | {{< var ref-gluteus-medius.origin >}} | {{< var ref-gluteus-medius.insertion >}} | {{< var ref-gluteus-medius.nerve >}} | {{< var ref-gluteus-medius.action >}} |
+| [Adductor Magnus]({{< var ref-adductor-magnus.path >}}) | {{< var ref-adductor-magnus.origin >}} | {{< var ref-adductor-magnus.insertion >}} | {{< var ref-adductor-magnus.nerve >}} | {{< var ref-adductor-magnus.action >}} |
+: {.striped .hover}
+
 
 # Anatomy and Individual Actions
 “The primary hip extensors are the gluteus maximus, the ham­ strings (i.e., the long head of the biceps femoris, the semitendi­ nosus, and the semimembranosus), and the posterior head of the adductor magnus (Fig. 12.39).57 The middle and posterior fibers of the gluteus medius and the anterior fibers of the adductor magnus are secondary extensors.162 With the hip flexed to at least about 70 degrees and beyond, most adductors muscles (with the possible exception of the pectineus) are capable of assisting with hip extension.” @neumannKinesiologyMusculoskeletalSystem2017

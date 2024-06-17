@@ -7,21 +7,27 @@ title: Opponens Pollicis
 
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
-
+| [Opponens Pollicis]({{< var ref-opponens-pollicis.path >}}) | {{< var ref-opponens-pollicis.origin >}} | {{< var ref-opponens-pollicis.insertion >}} | {{< var ref-opponens-pollicis.nerve >}} | {{< var ref-opponens-pollicis.action >}} |
 : {.striped .hover}
 
 
 
 # Origin
 
+Trapezium @gilroyAtlasAnatomy2020
 
 # Insertion
 
+1st metacarpal (*lateral side*) @gilroyAtlasAnatomy2020
 
 # Innervation
 
+[Recurrent Br. of Median N.]({{< var ref-recurrent-branch-of-median-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})) @gilroyAtlasAnatomy2020
 
 # Action
+
+**1st CMC**: Opposition @gilroyAtlasAnatomy2020
+
 
 
 # Notes

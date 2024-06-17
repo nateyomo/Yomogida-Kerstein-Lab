@@ -2,6 +2,52 @@
 title: Hip Internal Rotator Muscles
 ---
 
+:::{layout-ncol="2"}
+
+
+
+### Primary
+
+There are no primary internal rotators of the hip
+
+### Secondary
+
+- [Gluteus Minimus]({{< var ref-gluteus-minimus.path >}}) (anterior fibers)@neumannKinesiologyMusculoskeletalSystem2017
+- [Gluteus Medius]({{< var ref-gluteus-medius.path >}}) (anterior fibers) @neumannKinesiologyMusculoskeletalSystem2017
+- [Tensor Fascia Latae]({{< var ref-tensor-fascia-latae.path >}}) @neumannKinesiologyMusculoskeletalSystem2017
+- [Adductor Longus]({{< var ref-adductor-longus.path >}}) @neumannKinesiologyMusculoskeletalSystem2017
+- [Adductor Brevis]({{< var ref-adductor-brevis.path >}}) @neumannKinesiologyMusculoskeletalSystem2017
+- [Pectineus]({{< var ref-pectineus.path >}}) @neumannKinesiologyMusculoskeletalSystem2017
+
+:::
+
+# Primary
+
+There are no primary hip internal rotators
+
+# Secondary
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Gluteus Medius]({{< var ref-gluteus-medius.path >}}) | {{< var ref-gluteus-medius.origin >}} | {{< var ref-gluteus-medius.insertion >}} | {{< var ref-gluteus-medius.nerve >}} | {{< var ref-gluteus-medius.action >}} |
+| [Gluteus Minimus]({{< var ref-gluteus-minimus.path >}}) | {{< var ref-gluteus-minimus.origin >}} | {{< var ref-gluteus-minimus.insertion >}} | {{< var ref-gluteus-minimus.nerve >}} | {{< var ref-gluteus-minimus.action >}} |
+| [Tensor Fascia Latae]({{< var ref-tensor-fascia-latae.path >}}) | {{< var ref-tensor-fascia-latae.origin >}} | {{< var ref-tensor-fascia-latae.insertion >}} | {{< var ref-tensor-fascia-latae.nerve >}} | {{< var ref-tensor-fascia-latae.action >}} |
+| [Pectineus]({{< var ref-pectineus.path >}}) | {{< var ref-pectineus.origin >}} | {{< var ref-pectineus.insertion >}} | {{< var ref-pectineus.nerve >}} | {{< var ref-pectineus.action >}} |
+| [Adductor Longus]({{< var ref-adductor-longus.path >}}) | {{< var ref-adductor-longus.origin >}} | {{< var ref-adductor-longus.insertion >}} | {{< var ref-adductor-longus.nerve >}} | {{< var ref-adductor-longus.action >}} |
+| [Adductor Brevis]({{< var ref-adductor-brevis.path >}}) | {{< var ref-adductor-brevis.origin >}} | {{< var ref-adductor-brevis.insertion >}} | {{< var ref-adductor-brevis.nerve >}} | {{< var ref-adductor-brevis.action >}} |
+: {.striped .hover}
+
+# Internal Rotators after 90&deg; HF
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Gluteus Maximus]({{< var ref-gluteus-maximus.path >}}) | {{< var ref-gluteus-maximus.origin >}} | {{< var ref-gluteus-maximus.insertion >}} | {{< var ref-gluteus-maximus.nerve >}} | {{< var ref-gluteus-maximus.action >}} |
+| [Gluteus Minimus]({{< var ref-gluteus-minimus.path >}}) | {{< var ref-gluteus-minimus.origin >}} | {{< var ref-gluteus-minimus.insertion >}} | {{< var ref-gluteus-minimus.nerve >}} | {{< var ref-gluteus-minimus.action >}} |
+| [Piriformis]({{< var ref-piriformis.path >}}) | {{< var ref-piriformis.origin >}} | {{< var ref-piriformis.insertion >}} | {{< var ref-piriformis.nerve >}} | {{< var ref-piriformis.action >}} |
+: {.striped .hover}
+
+# Notes
+
 "No muscle has the primary function of internally rotating the hip, but a number of muscles, including the anterior fibers of the gluteus medius, gluteus minimus, TFL, adductor longus, adductor brevis, pectineus, and the posterior head of the adductor magnus, have a secondary function of internal rotation" @duttonDuttonOrthopaedicExamination2020 
 
 

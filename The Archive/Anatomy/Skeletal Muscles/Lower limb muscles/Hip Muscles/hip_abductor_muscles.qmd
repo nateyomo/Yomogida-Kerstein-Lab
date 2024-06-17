@@ -2,6 +2,51 @@
 title: Hip Abductor Muscles
 ---
 
+
+Primary 
+
+Secondary
+
+
+:::{layout-ncol="2"}
+
+### Primary
+
+- [Gluteus Medius]({{< var ref-gluteus-medius.path >}}) @neumannKinesiologyMusculoskeletalSystem2017
+- [Gluteus Minimus]({{< var ref-gluteus-minimus.path >}}) @neumannKinesiologyMusculoskeletalSystem2017
+- [Tensor Fascia Latae]({{< var ref-tensor-fascia-latae.path >}}) @neumannKinesiologyMusculoskeletalSystem2017
+
+### Secondary
+
+- [Gluteus Maximus]({{< var ref-gluteus-maximus.path >}}) (anterior/superior fibers) @neumannKinesiologyMusculoskeletalSystem2017
+- [Piriformis]({{< var ref-piriformis.path >}}) @neumannKinesiologyMusculoskeletalSystem2017
+- [Sartorius]({{< var ref-sartorius.path >}})
+- [Rectus Femoris]({{< var ref-rectus-femoris.path >}}) @neumannKinesiologyMusculoskeletalSystem2017
+
+:::
+
+# Primary
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Gluteus Medius]({{< var ref-gluteus-medius.path >}}) | {{< var ref-gluteus-medius.origin >}} | {{< var ref-gluteus-medius.insertion >}} | {{< var ref-gluteus-medius.nerve >}} | {{< var ref-gluteus-medius.action >}} |
+| [Gluteus Minimus]({{< var ref-gluteus-minimus.path >}}) | {{< var ref-gluteus-minimus.origin >}} | {{< var ref-gluteus-minimus.insertion >}} | {{< var ref-gluteus-minimus.nerve >}} | {{< var ref-gluteus-minimus.action >}} |
+| [Tensor Fascia Latae]({{< var ref-tensor-fascia-latae.path >}}) | {{< var ref-tensor-fascia-latae.origin >}} | {{< var ref-tensor-fascia-latae.insertion >}} | {{< var ref-tensor-fascia-latae.nerve >}} | {{< var ref-tensor-fascia-latae.action >}} |
+: Primary Hip Adductors {.striped .hover}
+
+# Secondary
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Gluteus Maximus]({{< var ref-gluteus-maximus.path >}}) | {{< var ref-gluteus-maximus.origin >}} | {{< var ref-gluteus-maximus.insertion >}} | {{< var ref-gluteus-maximus.nerve >}} | {{< var ref-gluteus-maximus.action >}} |
+| [Piriformis]({{< var ref-piriformis.path >}}) | {{< var ref-piriformis.origin >}} | {{< var ref-piriformis.insertion >}} | {{< var ref-piriformis.nerve >}} | {{< var ref-piriformis.action >}} |
+| [Sartorius]({{< var ref-sartorius.path >}}) | {{< var ref-sartorius.origin >}} | {{< var ref-sartorius.insertion >}} | {{< var ref-sartorius.nerve >}} | {{< var ref-sartorius.action >}} |
+| [Rectus Femoris]({{< var ref-rectus-femoris.path >}}) | {{< var ref-rectus-femoris.origin >}} | {{< var ref-rectus-femoris.insertion >}} | {{< var ref-rectus-femoris.nerve >}} | {{< var ref-rectus-femoris.action >}} |
+: Secondary Hip Adductors {.striped .hover}
+
+
+# Notes
+
 ![Muscles of the Hip Schematic @gilroyAtlasAnatomy2020 </br> 1: Psoas major </br> 2: Iliacus </br> 3: Iliopsoas </br> 4: Gluteus Maximus </br> 5: Gluteus Medius </br> 6: Gluteus Minimus </br> 7: Tensor Fascia Latae </br> 8: Piriformis </br> 9: Obturator internus </br> 10: Gemelli </br> 11: Quadratus Femoris](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/images/gilroyatlas fig31.18 muscles of the hip schematic.png)
 
 # Anatomy and Individual Actions

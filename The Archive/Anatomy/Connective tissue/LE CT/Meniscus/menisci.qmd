@@ -2,6 +2,53 @@
 title: Menisci
 ---
 
+# Overview
+
+
+# Histology
+
+
+- Fibrocartilage
+- Type 1 collagen
+- Mod gags
+
+# Function
+
+- Helps with shock absorption
+- Increase joint congruency
+- Reduces friction
+
+# Medial Meniscus
+
+Medial meniscus attaches to semimembranosus and mcl and capsule and patella (injured 2x more than lat menisci)
+
+# Pivoting
+
+- Loose connection to tibia allows pivoting during mvmt (L>M)
+    - Coronary ligs
+    - Transverse ligs
+
+# Muscle attachments
+
+- Stabilize menisci w mvmt
+- Quadriceps
+- semimembranosus to both, popliteus to lateral
+
+# Blood supply
+
+Peripheral from synovial membrane adn capsule
+Internal avascular 
+Aneural except near horns
+
+
+# Injury
+
+Medial meniscus is injured 2x more than lateral meniscus.
+
+
+
+# Unorganized Notes
+
 
 "The word meniscus comes from the Greek word mēniskos, meaning “crescent,” diminutive of mēnē, meaning “moon.”23 The lateral and medial menisci (Fig. 20-2), attached on the top of the tibial plateaus, lie between the articular cartilage of the femur and the tibia. Both menisci are recognized as being vital for the normal function and long-term health of the knee joint. The characteristic crescent shape of the medial and lateral menisci is achieved between the 8th and 10th week of gestation.1 The unique and complex structure of the menisci makes treatment and repair challenging and, if left untreated, may lead to degenerative joint changes.24 The blood supply of the meniscus, which is key to successful meniscal recovery or repair, comes from the perimeniscal capsular arteries, which are branches of the lateral, medial, and middle genicular arteries, which in turn are branches of the popliteal artery.1 Although the developing menisci are highly vascular throughout, by adulthood this vascularity has significantly reduced such that only the outer 10–25% of the lateral meniscus (with the exception of the P-L corner of the lateral meniscus adjacent to the popliteus tendon) and the outer 10–30% of the medial menisci are vascularized (referred to as the red zone), which allows these areas to have the potential for healing.1 The remaining inner portions of the menisci (65–75%) are considered avascular and have less potential to heal. These inner portions receive nourishment from the synovial fluid by diffusion or mechanical pumping (i.e., joint motion).23 However, despite the lack of vascularity to the inner portions, tears involving the avascular zone may heal. This healing capacity may be improved with the addition of a fibrin clot or with such techniques as trephination (making a burr hole)." @duttonDuttonOrthopaedicExamination2020 
 

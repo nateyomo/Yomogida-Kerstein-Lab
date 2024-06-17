@@ -24,7 +24,7 @@ Ischial tuberosity @gilroyAtlasAnatomy2020
 
 
 ### Innervation
-[Tibial N. (*Tibial division of Sciatic N.*)]({{< var ref-tibial-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})) (L5–S2) @gilroy
+[Tibial N. (*Tibial division of Sciatic N.*)]({{< var ref-tibial-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})) (L5–S2) @gilroyAtlasAnatomy2020 
 
 
 ### Action
