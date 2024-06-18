@@ -14,7 +14,30 @@ title: Common Fibular Nerve (L4-S2)
 
 ## Direct Motor Innervation
 
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Biceps Femoris Short Head]({{< var ref-biceps-femoris-short-head.path >}}) | {{< var ref-biceps-femoris-short-head.origin >}} | {{< var ref-biceps-femoris-short-head.insertion >}} | {{< var ref-biceps-femoris-short-head.nerve >}} | {{< var ref-biceps-femoris-short-head.action >}} |
+: Direct Innervation from the Sciatic Nerve {.striped .hover}
+
 Bicep femoris (short head) @gilroyAtlasAnatomy2020
+
+## Indirect Motor Innervation
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Fibularis Longus]({{< var ref-fibularis-longus.path >}}) | {{< var ref-fibularis-longus.origin >}} | {{< var ref-fibularis-longus.insertion >}} | {{< var ref-fibularis-longus.nerve >}} | {{< var ref-fibularis-longus.action >}} |
+| [Fibularis Brevis]({{< var ref-fibularis-brevis.path >}}) | {{< var ref-fibularis-brevis.origin >}} | {{< var ref-fibularis-brevis.insertion >}} | {{< var ref-fibularis-brevis.nerve >}} | {{< var ref-fibularis-brevis.action >}} |
+: Superficial Fibular Muscle Innervation {.striped .hover}
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Tibialis Anterior]({{< var ref-tibialis-anterior.path >}}) | {{< var ref-tibialis-anterior.origin >}} | {{< var ref-tibialis-anterior.insertion >}} | {{< var ref-tibialis-anterior.nerve >}} | {{< var ref-tibialis-anterior.action >}} |
+| [Extensor Hallucis Longus]({{< var ref-extensor-hallucis-longus.path >}}) | {{< var ref-extensor-hallucis-longus.origin >}} | {{< var ref-extensor-hallucis-longus.insertion >}} | {{< var ref-extensor-hallucis-longus.nerve >}} | {{< var ref-extensor-hallucis-longus.action >}} |
+| [Extensor Digitorum Longus]({{< var ref-extensor-digitorum-longus.path >}}) | {{< var ref-extensor-digitorum-longus.origin >}} | {{< var ref-extensor-digitorum-longus.insertion >}} | {{< var ref-extensor-digitorum-longus.nerve >}} | {{< var ref-extensor-digitorum-longus.action >}} |
+| [Fibularis Tertius]({{< var ref-fibularis-tertius.path >}}) | {{< var ref-fibularis-tertius.origin >}} | {{< var ref-fibularis-tertius.insertion >}} | {{< var ref-fibularis-tertius.nerve >}} | {{< var ref-fibularis-tertius.action >}} |
+| [Extensor Digitorum Brevis]({{< var ref-extensor-digitorum-brevis.path >}}) | {{< var ref-extensor-digitorum-brevis.origin >}} | {{< var ref-extensor-digitorum-brevis.insertion >}} | {{< var ref-extensor-digitorum-brevis.nerve >}} | {{< var ref-extensor-digitorum-brevis.action >}} |
+| [Extensor Hallucis Brevis]({{< var ref-extensor-hallucis-brevis.path >}}) | {{< var ref-extensor-hallucis-brevis.origin >}} | {{< var ref-extensor-hallucis-brevis.insertion >}} | {{< var ref-extensor-hallucis-brevis.nerve >}} | {{< var ref-extensor-hallucis-brevis.action >}} |
+: Deep Fibular N. Muscle Innervation {.striped .hover}
 
 # Cutaneous Innervation
 

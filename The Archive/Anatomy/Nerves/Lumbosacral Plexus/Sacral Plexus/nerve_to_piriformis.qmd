@@ -11,7 +11,12 @@ title: Nerve to Piriformis
 
 
 
-# Motor innervation
+# Muscle Innervation
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Piriformis]({{< var ref-piriformis.path >}}) | {{< var ref-piriformis.origin >}} | {{< var ref-piriformis.insertion >}} | {{< var ref-piriformis.nerve >}} | {{< var ref-piriformis.action >}} |
+: {.striped .hover}
 
 # Cutaneous Innervation
 

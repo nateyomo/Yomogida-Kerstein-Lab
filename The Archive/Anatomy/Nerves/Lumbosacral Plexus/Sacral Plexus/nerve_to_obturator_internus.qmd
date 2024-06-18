@@ -13,8 +13,14 @@ title: Nerve to Obturator Internus
 
 # Motor innervation
 
-Obturator internus @gilroyAtlasAnatomy2020
-Gemelli @gilroyAtlasAnatomy2020
+The Nerve to Obturator Internus supplies the Obturator internus, Superior Gemelli, and Inferior gemelli musces @gilroyAtlasAnatomy2020.
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Obturator Internus]({{< var ref-obturator-internus.path >}}) | {{< var ref-obturator-internus.origin >}} | {{< var ref-obturator-internus.insertion >}} | {{< var ref-obturator-internus.nerve >}} | {{< var ref-obturator-internus.action >}} |
+| [Superior Gemellus]({{< var ref-superior-gemellus.path >}}) | {{< var ref-superior-gemellus.origin >}} | {{< var ref-superior-gemellus.insertion >}} | {{< var ref-superior-gemellus.nerve >}} | {{< var ref-superior-gemellus.action >}} |
+| [Inferior Gemellus]({{< var ref-inferior-gemellus.path >}}) | {{< var ref-inferior-gemellus.origin >}} | {{< var ref-inferior-gemellus.insertion >}} | {{< var ref-inferior-gemellus.nerve >}} | {{< var ref-inferior-gemellus.action >}} |
+: {.striped .hover}
 
 # Cutaneous Innervation
 
