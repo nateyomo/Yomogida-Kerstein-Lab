@@ -969,8 +969,8 @@ ref-flexor-digiti-minimi-brevis-hand:
   insertion: "Medial side of base of 5th proximal phalanx"
   nerve: "[Deep Br. of Ulnar N.]({{< var ref-deep-branch-of-ulnar-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}}))"
   action: "**5th MCP**: Flexion"
-ref-opponens-digiti-minimi:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/opponens_digiti_minimi.qmd"
+ref-opponens-digiti-minimi-hand:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/opponens_digiti_minimi_hand.qmd"
   origin: "Hook of hamate </br> Flexor retinaculum"
   insertion: "5th Metacarpal (ulnar border)"
   nerve: "[Deep Br. of Ulnar N.]({{< var ref-deep-branch-of-ulnar-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}}))"
