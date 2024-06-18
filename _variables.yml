@@ -1160,7 +1160,7 @@ ref-hamstrings:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/hamstrings.qmd"
 ref-biceps-femoris-long-head:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/biceps_femoris_long_head.qmd"
-  origin: "Ischial tuberosity </br> Sacrotuberous lig. </br> </br> (*common head with* [*Semitendinosus*]({{< var ref-semitendinosus.path >}}))"
+  origin: "Ischial tuberosity </br> Sacrotuberous lig. </br> (*common head with* [*Semitendinosus*]({{< var ref-semitendinosus.path >}}))"
   insertion: "Head of Fibula"
   nerve: "[Tibial N.]({{< var ref-tibial-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}))"
   action: "**Hip**: Extends the hip </br> **Pelvic Stabilization**: Sagittal plane </br> **Knee**: Flexion and ER"
@@ -1336,13 +1336,13 @@ ref-opponens-digiti-minimi-foot:
   insertion: "5th MT"
   nerve: "[Lateral Plantar N. (*superficial branch*)]({{< var ref-lateral-plantar-nerve.path >}}) ([S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}}))"
   action: "Pulls 5th metatarsal in plantar and medial direction"
-ref-plantar-interossei:
+ref-plantar-interossei-foot:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/plantar_interossei.qmd"
   origin: "Medial border 3-5 MTs"
   insertion: "Medial base of proximal phalanx of 3-5th toe"
   nerve: "[Lateral Plantar N.]({{< var ref-lateral-plantar-nerve.path >}}) ([S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}}))"
   action: "**MTP 3-5**: Flexion </br> **IP 3-5**: Extension </br> **Toe 3-5**: Adduction to 2nd toe"
-ref-dorsal-interossei:
+ref-dorsal-interossei-foot:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/dorsal_interossei.qmd"
   origin: "1st-5th metatarsals </br> (*two heads on opposing sides*)"
   insertion: "**1st interosseous**: </br> 2nd proximal phalanx (medial base) </br> </br> **2-4th interosseous**: </br> 2-4 proximal phalanges (*lateral base*) </br> 2-4 toes at dorsal aponeurosis"
