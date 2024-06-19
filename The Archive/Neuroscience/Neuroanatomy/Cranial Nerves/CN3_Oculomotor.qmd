@@ -20,6 +20,7 @@ flowchart TD
 
 
 
+
 # Overview
 
 - CNIII refers to nerve fibers containing somatic motor fibers running to extraocular muscles of the eye as well as parasympathetic efferent fibers running to the muscles in the lens.
@@ -47,3 +48,53 @@ flowchart TD
 
 
 ![Cranial Nerve Sympathetic Pathways (from Blumenfield Figure 12.6 @blumenfeldNeuroanatomyClinicalCases2022)](/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/images/fig12.6 cranial nerve parasympathetic pathways blumenfield2022.png)
+
+
+# Dysfunction
+
+# Clinical Presentation
+
+::: {.columns}
+::: {.column}
+### Diploplia
+:::
+::: {.column}
+
+:::
+:::
+
+::: {.columns}
+::: {.column}
+### Ptosis
+:::
+::: {.column}
+
+- levator palpebral ptosis damage to lev palp results in no AP
+:::
+:::
+
+
+::: {.columns}
+::: {.column}
+### Mydriasis
+:::
+::: {.column}
+
+- Loss of parasympathetic innervation of Constrictor Pupillae
+:::
+:::
+
+::: {.columns}
+::: {.column}
+### Down & Out Gaze
+:::
+::: {.column}
+
+:::
+:::
+
+
+
+
+
+

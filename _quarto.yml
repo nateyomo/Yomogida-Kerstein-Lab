@@ -6,9 +6,8 @@ execute:
   freeze: auto
   error: true
 
-filters:
-  - lightbox
-lightbox: auto
+
+lightbox: true
 
 author:
 - id: NGY
@@ -76,6 +75,9 @@ format:
     mainfont: helvetica
     fontsize: 14px
     css: styles.css
+  #typst:
+   #error: true
+    #toc: true
   #pdf:
     #toc: true
     #number-sections: true
