@@ -44,7 +44,7 @@ title: "Physiology Index"
 - [Oxidative stress]({{< var ref-oxidative-stress.path >}})
 
 # Inflammation
-{{< include "/The Archive/Physiology/Inflammation/inflammation_index.qmd" >}}
+
 
 # Hormones
 

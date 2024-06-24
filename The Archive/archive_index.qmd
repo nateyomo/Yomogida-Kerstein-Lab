@@ -61,57 +61,56 @@ title: "The Archive"
 
 
 # Physiology
-{{< include Physiology/physiology_index.qmd >}}
+
 
 - Pathophysiology
 
 # Psychosocial
-{{< include "Psychosocial/psychosocial_index.qmd" >}}
 
 # Pain Science
-{{< include Pain_science/pain_index.qmd >}}
+
 
 # Pediatrics
-{{< include "/The Archive/Pediatrics/pediatrics_index.qmd" >}}
 
 
 
 # Pathologies
-{{< include Pathologies/pathologies_index.qmd >}}
+
 
 # Neuroscience
-{{< include Neuroscience/neuro_index.qmd >}}
+
 
 # Motor control
-{{< include "/The Archive/Motor Control/index_motor_control.qmd" >}}
+
 
 # Genetics & Genomics
-{{< include "Genetics and genomics/genetics_and_genomics_index.qmd" >}}
+
 
 # MSK
 
-{{< include "MSK/MSK_index.qmd" >}}
+
 
 # Examination
-{{< include "Examination/examination_index.qmd" >}}
+
 
 # Evidence Based Practice
-{{< include "/The Archive/Evidene Based Practice/EBP_index.qmd" >}}
+
 
 # Performance Training
 
 ::: {.columns}
 ::: {.column}
+
 [{{< iconify game-icons wave-surfer size=5x >}} </br> Surfing]({{< var ref-surfing-overview.path >}}){.btn .btn-outline-primary .btn role="button"}
 :::
 ::: {.column}
 [{{< iconify fa-solid volleyball-ball size=5x >}} </br> Volleyball](){.btn .btn-outline-primary .btn role="button"}
 
+
 :::
 ::: {.column}
+[{{< iconify healthicons swim size=5x >}} </br> Swimming](){.btn .btn-outline-primary .btn role="button"}
 :::
 :::
-
-{{< include "/The Archive/Performance Training/performance_training_index.qmd" >}}
 
 

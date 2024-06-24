@@ -5,9 +5,12 @@ project:
 execute:
   freeze: auto
   error: true
+  cache: true
 
+#filters:
+ # - lightbox
 
-lightbox: true
+lightbox: auto
 
 author:
 - id: NGY
