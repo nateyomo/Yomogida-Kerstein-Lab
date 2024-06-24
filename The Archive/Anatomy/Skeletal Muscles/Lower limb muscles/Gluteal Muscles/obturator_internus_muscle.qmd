@@ -2,33 +2,38 @@
 title: Obturator Internus Muscle (OI)
 ---
 
-# OIAN
+# Overview
 
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
 | [Obturator Internus]({{< var ref-obturator-internus.path >}}) | {{< var ref-obturator-internus.origin >}} | {{< var ref-obturator-internus.insertion >}} | {{< var ref-obturator-internus.nerve >}} | {{< var ref-obturator-internus.action >}} |
 : {.striped .hover}
 
-:::{layout-ncol="4"}
 
-### Origin
+# Origin
 
 Inner surface of the obturator membrane and its bony boundaries @gilroyAtlasAnatomy2020
 
-### Insertion
+# Insertion
 Medial surface of the greater trochanter @gilroyAtlasAnatomy2020
 
-### Innervation
+# Innervation
 
 Sacral plexus ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}})) @gilroyAtlasAnatomy2020
 
-### Action
+# Action
 - External rotation and extension of the hip joint (also active in abduction, depending on the joint’s position) @gilroyAtlasAnatomy2020
 - Stabilizes hip joint -DrK
 
-:::
 
-# Overview
+
+# Function
+
 
 “Ultrasound ­guided EMG analysis of the obturator internus and several other external rotator muscles in 10 human subjects.98 The obturator internus was usually the first muscle to become active during a gradually increasing isometric effort to abduct and externally rotate the hip.” @neumannKinesiologyMusculoskeletalSystem2017
 
+
+# Stretch
+
+Child's Pose stretch can be used to stretch the Obturator Internus muscle.
+By cueing the knees to stay straight instead of moving into hip ER, this better stretches the obturator internus.
