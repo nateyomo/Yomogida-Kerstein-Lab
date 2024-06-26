@@ -135,7 +135,7 @@ title: "OIANs of all the muscles"
 
 
 
-::: {.callout-note collapse="true"}
+
 
 ## Muscles of Mastication
 
