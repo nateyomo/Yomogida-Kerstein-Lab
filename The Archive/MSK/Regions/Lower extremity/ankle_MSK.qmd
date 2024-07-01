@@ -76,6 +76,81 @@ Muscles that assist DF
 ## Tendon 
 
 
+# Gait
+
+## IC to midstance
+
+- Moving from Supinated STJ→ Pronated STJ+Calcaneus eversion
+- Shock absorption
+- Decrease in height of ML arch
+- Associated with femoral IR 
+
+## Mid Stance to late stance
+
+- STJ supination
+- Rigid lever for push off
+- Midfoot/forefoot → pronatory twist
+- Associated w/ external rotation of femur 
+- Dr. Domingo → with insufficient supination, more reliance on CT/mm restraints that support arch → results in post tib tendonitis
+
+# Dysfunction
+
+## Pes Planus {#pes-planus}
+
+:::{layout-ncol="3"}
+### Congenital Pes Planus
+
+- Rigid
+- Present in WB & Non-WB
+- Rare
+
+### Acquired Pes Planus
+
+- Flexible
+- Present in WB, but **not** in WB or tiptoes
+- Foot is mobile (*AKA Hypermobile flatfoot*)
+
+:::
+
+### Contributing Factors
+
+1. Weakness in ML arch
+1. Abnormal shape/mobility of tarsal bones
+1. Femoral medial rotation
+1. Femoral anteversion
+1. Genu valgum
+1. Coxa vara 
+1. In subtalar neutral: rearfoot varus, forefoot varus 
+1. Excessive pronation speed / magnitude to get foot to ground during stance
+
+### Observations
+
+1. In WB: talus, navicular depressed, rearfoot valgus, forefoot abducted 
+1. Problems with load transfer/active forces needed for ML arch support
+1. Associated conditions: post tib tendonitis, plantar fascitis 
+1. Hip/knee: Patellofemoral pain
+
+
+
+## Pes Cavus {#pes-cavus}
+
+### Causes
+
+- Congenital/genetic
+- Neuro problems - ie spina bifida, poliomyelitis, charcot marie tooth
+- Clubfoot
+- MM imbalance
+- Idiopathic
+
+### Associations
+
+- Claw toes
+- Calluses MTH
+- Metatarsalgia/OA
+
+
+
+
 # Examination
 
 ## ROM

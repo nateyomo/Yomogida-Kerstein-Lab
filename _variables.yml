@@ -2075,7 +2075,7 @@ ref-hip-msk:
 ref-knee-msk:
   path: "/The Archive/MSK/Regions/Lower extremity/knee.qmd"
 ref-ankle-msk:
-  path: "/The Archive/MSK/Regions/Lower extremity/ankle.qmd"
+  path: "/The Archive/MSK/Regions/Lower extremity/ankle_MSK.qmd"
 ref-foot-msk:
   path: "/The Archive/MSK/Regions/Lower extremity/foot.qmd"
 ### Spine

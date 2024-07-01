@@ -2,9 +2,14 @@
 title: Iliohypogastric Nerve
 ---
 
+| Nerve | Roots | Motor Innervation | Cutaneous Innervation |
+|-|-|-|-|
+| [Iliohypogastric N.]({{< var ref-iliohypogastric-nerve.path >}}) | {{< var ref-iliohypogastric-nerve.roots >}} | {{< var ref-iliohypogastric-nerve.motor >}} | {{< var ref-iliohypogastric-nerve.cutaneous >}} |
+: {.striped .hover}
 
 # Roots
 [L1]({{< var ref-nerve-root.l1 >}}) 
+
 # Pathway
 
 # Motor innervation
