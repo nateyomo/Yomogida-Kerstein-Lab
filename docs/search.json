@@ -17001,5 +17001,33 @@
     "title": "Skin Rolling",
     "section": "",
     "text": "CitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Skin Rolling. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Interventions/Manual therapy/Skin\nRolling/skin_rolling_intervention.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Lab Values/arterial_blood_gas_values_ABG.html",
+    "href": "The Archive/Examination/Lab Values/arterial_blood_gas_values_ABG.html",
+    "title": "Arterial Blood Gas Values (ABG)",
+    "section": "",
+    "text": "Item\nValues\n\n\n\n\nPaO2\n&gt;80 mmHg\n\n\nPaCO2\n35-45 mmHg\n\n\npH\n7.35-7.45\n\n\nHCO3\n22-26 mEq/liter\n\n\n\n\n\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Arterial Blood Gas\nValues (ABG). https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Lab\nValues/arterial_blood_gas_values_ABG.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Lab Values/lipid_panel.html",
+    "href": "The Archive/Examination/Lab Values/lipid_panel.html",
+    "title": "Lipid panel",
+    "section": "",
+    "text": "LDL Cholesterol Interpretation\n\n\nValue\nInterpretation\n\n\n\n\n&lt;100\nOptimal\n\n\n100-129\nNear optimal/Above optimal\n\n\n130-159\nBorderline High\n\n\n160-189\nHigh\n\n\n\\(\\ge 190\\)\nVery High\n\n\n\n\nTotal Cholesterol (TC) Values\n\n\nValue\nInterpretation\n\n\n\n\n&lt;200\nOptimal\n\n\n200-239\nBorderline High\n\n\n\\(\\ge 240\\)\nHigh (Hypercholesterolemia)\n\n\n\n\nHDL Cholesterol Values\n\n\nValue\nInterpretation\n\n\n\n\n&lt;40\nLow\n\n\n\\(\\ge 60\\)\nOptimal\n\n\n\n\nTriglyceride Values\n\n\nValue\nInterpretation\n\n\n\n\n&lt;150\nOptimal\n\n\n150-199\nBorderline high\n\n\n200-499\nHigh\n\n\n\\(\\ge 500\\)\nVery High\n\n\n\n\n\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Lipid panel. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Lab Values/lipid_panel.html"
+  },
+  {
+    "objectID": "The Archive/Physiology/Hemodynamics/hemodynamics.html",
+    "href": "The Archive/Physiology/Hemodynamics/hemodynamics.html",
+    "title": "Hemodynamics",
+    "section": "",
+    "text": "Stroke volume\n\n55-100 ml/beat\nThree factors that can affect it=\n\nPreload: Max volume of blood in L ventricle (LVEDV = L ventricular end diastolic volume)2\nInotropy: ability of ventricle to contract\nAfterload: force L ventricle must generate during systole to overcome aortic p to open aortic valve\n\n\n\n\nCardiac output\n\nAmount of blood d/c’d from L or R ventricle per minute\n\n\\[\n\\textrm{Cardiac Output} = (\\textrm{Stroke Volume}) \\times (\\textrm{Heart Rate})\n\\]\n\nAverage adult: 4-5 L/min\n\n\n\nEjection fraction\n\nPercent of blood emptied from ventricle during systole\nAverage = 60-70%\n\n\\[\n\\textrm{Ejection Fraction} = \\frac{\\textrm{Stroke Volume}}{\\textrm{Left Ventricular End Diastolic Volume (LVEDV)}}\n\\]\n\n\n\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Hemodynamics. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Physiology/Hemodynamics/hemodynamics.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Cardiovascular Evaluation/heart_rate_max_HRMax.html",
+    "href": "The Archive/Examination/Cardiovascular Evaluation/heart_rate_max_HRMax.html",
+    "title": "Heart Rate Max Measures",
+    "section": "",
+    "text": "Fox and Haskell:\n\\[\n\\textrm{HR max} = 220 - \\textrm{Age}\n\\]\n\n\n\n\n\n\nCaution\n\n\n\nBoth the Fox & Haskell test and the Tanaka have high standard error, and can vary between age and condition matched individuals\n\n\n\n\nTanaka HRMax\n\\[\n\\textrm{HR max} = 208 - (0.7 \\times \\textrm{Age})\n\\]\n\n\n\n\n\n\nCaution\n\n\n\nBoth the Fox & Haskell test and the Tanaka have high standard error, and can vary between age and condition matched individuals\n\n\n\n\nGraded Exercise Test (GXT)\nMost accurate assessment: GRADED EXERCISE STRESS TEST (GxT) (gradually inc incline on treadmill)\n\n\n\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Heart Rate Max\nMeasures. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Cardiovascular\nEvaluation/heart_rate_max_HRMax.html"
   }
 ]
