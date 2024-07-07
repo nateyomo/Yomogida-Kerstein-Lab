@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.45">
+<meta name="generator" content="quarto-1.5.53">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -91,35 +91,6 @@ div.csl-indent {
   }
 }</script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="../../../../styles.css">
 </head>
@@ -244,29 +215,141 @@ window.Quarto = {
 </section>
 <section id="motor-branches" class="level1">
 <h1>Motor Branches</h1>
-<p>Direct Muscular branches<span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span></p>
-<ul>
-<li>Pronator teres</li>
-<li>Flexor carpi radialis</li>
-<li>Palmaris longus</li>
-<li>Flexor digitorum superficialis (FDS)</li>
-</ul>
-<p>Indirect Muscular brs. via anterior interosseous n.<span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span></p>
-<ul>
-<li>Pronator quadratus</li>
-<li>Flexor pollicis longus</li>
-<li>Flexor digitorum profundus (radial <span class="math inline">\(\frac{1}{2}\)</span>)</li>
-</ul>
+<table class="table-striped table-hover caption-top table">
+<caption>Direct Muscular branches of Median N.</caption>
+<thead>
+<tr class="header">
+<th>Muscle</th>
+<th>Origin</th>
+<th>Insertion</th>
+<th>Nerve</th>
+<th>Action</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../../../../The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/pronator_teres.html">Pronator Teres</a></td>
+<td><p><strong>Humeral head</strong>: medial epicondyle of humerus <br> <strong>Ulnar head</strong>: coronoid process</p></td>
+<td><p>Lateral radius <br> (<em>Distal to supinator insertion</em>)</p></td>
+<td><p><a href="{{< var ref-median-nerve.path >}}">Median N.</a> (<a href="{{< var ref-nerve-root.c6 >}}">C6</a>, <a href="{{< var ref-nerve-root.c7 >}}">C7</a>)</p></td>
+<td><p><strong>Elbow</strong>: Weak flexion <br> <strong>Forearm</strong>: Pronation</p></td>
+</tr>
+<tr class="even">
+<td><a href="../../../../The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/flexor_carpi_radialis.html">Flexor Carpi Radialis</a></td>
+<td><p>Medial epicondyle of Humerus</p></td>
+<td><p>Base of 2nd or 3rd metacarpal</p></td>
+<td><p><a href="{{< var ref-median-nerve.path >}}">Median N.</a> (<a href="{{< var ref-nerve-root.c6 >}}">C6</a>, <a href="{{< var ref-nerve-root.c7 >}}">C7</a>)</p></td>
+<td><p><strong>Wrist</strong>: Flexion, Radial deviation <br> <em>Assists with Elbow flexion and Pronation</em></p></td>
+</tr>
+<tr class="odd">
+<td><a href="../../../../The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/palmaris_longus.html">Palmaris Longus</a></td>
+<td><p>Medial epicondyle of humerus</p></td>
+<td><p>Palmar aponeurosis</p></td>
+<td><p><a href="{{< var ref-median-nerve.path >}}">Median N.</a> (<a href="{{< var ref-nerve-root.c7 >}}">C7</a>, <a href="{{< var ref-nerve-root.c8 >}}">C8</a>)</p></td>
+<td><p><strong>Elbow</strong>: Weak Flexion <br> <strong>Wrist</strong>: Flexion, Tenses palmar aponeurosis</p></td>
+</tr>
+<tr class="even">
+<td><a href="../../../../The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/flexor_digitorum_superficialis_FDS.html">Flexor Digitorum Superficialis</a></td>
+<td><p><strong>Humeral-ulnar head</strong>: Medial epicondyle of humerus, Coronoid process of Ulna <br> <strong>Radial head</strong>: Proximal half of anterior border of radius</p></td>
+<td><p>Sides of Middle Phalanges of digit 2-5</p></td>
+<td><p><a href="{{< var ref-median-nerve.path >}}">Median N.</a> (<a href="{{< var ref-nerve-root.c8 >}}">C8</a>, <a href="{{< var ref-nerve-root.t1 >}}">T1</a>)</p></td>
+<td><p><strong>Elbow</strong>: Weak Flexion <br> <strong>Wrist</strong>: Flexion <br> <strong>MCP &amp; PIP 2-5</strong>: Flexion</p></td>
+</tr>
+</tbody>
+</table>
+<table class="table-striped table-hover caption-top table">
+<caption>Indirect Muscular branches of Median N. (via anterior interosseous n.)</caption>
+<thead>
+<tr class="header">
+<th>Muscle</th>
+<th>Origin</th>
+<th>Insertion</th>
+<th>Nerve</th>
+<th>Action</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../../../../The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/flexor_digitorum_profundus_FDP.html">Flexor Digitorum Profundus</a></td>
+<td><p>Ulna (<em>proximal 2/3 of anteromedial surface</em>) <br> IO membrane</p></td>
+<td><p>Palmar surface of distal phalanges 2-5</p></td>
+<td><p><strong>Digits 2-3</strong>: <a href="{{< var ref-anterior-interosseous-nerve.path >}}">Anterior Interosseous N.</a> (<a href="{{< var ref-nerve-root.c8 >}}">C8</a>, <a href="{{< var ref-nerve-root.t1 >}}">T1</a>) <br> <strong>Digits 4-5</strong>: <a href="{{< var ref-ulnar-nerve.path >}}">Ulnar N.</a> (<a href="{{< var ref-nerve-root.c8 >}}">C8</a>, <a href="{{< var ref-nerve-root.t1 >}}">T1</a>)</p></td>
+<td><p><strong>Wrist</strong>: Flexion <br> <strong>MCP, PIP, DIP 2-5</strong>: Flexion</p></td>
+</tr>
+<tr class="even">
+<td><a href="../../../../The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/flexor_pollicis_longus.html">Flexor Pollicis Longus</a></td>
+<td><p>Anterior/proximal Radius <br> Adjacent IO membrane</p></td>
+<td><p>Distal phalanx of thumb <br> (<em>palmar surface</em>)</p></td>
+<td><p><a href="{{< var ref-anterior-interosseous-nerve.path >}}">Anterior Interosseous N.</a> (<a href="{{< var ref-nerve-root.c8 >}}">C8</a>, <a href="{{< var ref-nerve-root.t1 >}}">T1</a>)</p></td>
+<td><p><strong>Wrist</strong>: Flexion, Radial deviation <br> <strong>CMC</strong>: Flexion <br> <strong>1st MCP/IP</strong>: Flexion</p></td>
+</tr>
+<tr class="odd">
+<td><a href="../../../../The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/pronator_quadratus.html">Pronator Quadratus</a></td>
+<td><p>Distal 1/4 of ulna <br> (<em>anterior surface</em>)</p></td>
+<td><p>Distal ¼ of radius <br> (<em>anterior surface</em>)</p></td>
+<td><p><a href="{{< var ref-anterior-interosseous-nerve.path >}}">Anterior Interosseous N.</a> (<a href="{{< var ref-nerve-root.c8 >}}">C8</a>, <a href="{{< var ref-nerve-root.t1 >}}">T1</a>)</p></td>
+<td><p><strong>Forearm</strong>: Pronation <br> <strong>Distal RU</strong>: Stabilization</p></td>
+</tr>
+</tbody>
+</table>
 <p>Recurrent br.<span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span></p>
-<ul>
-<li>Abductor pollicis brevis</li>
-<li>Flexor pollicis brevis (superficial head)</li>
-<li>Opponens pollicis</li>
-</ul>
+<table class="table-striped table-hover caption-top table">
+<caption>Indirect branches of Median N. (via recurrent br.)</caption>
+<thead>
+<tr class="header">
+<th>Muscle</th>
+<th>Origin</th>
+<th>Insertion</th>
+<th>Nerve</th>
+<th>Action</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../../../../The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/opponens_pollicis.html">Opponens Pollicis</a></td>
+<td><p>Trapezium</p></td>
+<td><p>1st metacarpal (<em>lateral side</em>)</p></td>
+<td><p><a href="{{< var ref-recurrent-branch-of-median-nerve.path >}}">Recurrent Br. of Median N.</a> (<a href="{{< var ref-nerve-root.c8 >}}">C8</a>, <a href="{{< var ref-nerve-root.t1 >}}">T1</a>)</p></td>
+<td><p><strong>1st CMC</strong>: Opposition</p></td>
+</tr>
+<tr class="even">
+<td><a href="../../../../The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/abductor_pollicis_brevis.html">Abductor Pollicis Brevis</a></td>
+<td><p>Flexor retinaculum <br> Scaphoid <br> Trapezium</p></td>
+<td><p>Lateral side of base of 1st proximal phalanx <br> (<em>via radial seasamoid</em>)</p></td>
+<td><p><a href="{{< var ref-recurrent-branch-of-median-nerve.path >}}">Recurrent Br. of Median N.</a> (<a href="{{< var ref-nerve-root.c8 >}}">C8</a>, <a href="{{< var ref-nerve-root.t1 >}}">T1</a>)</p></td>
+<td><p><strong>1st CMC</strong>: Abduction</p></td>
+</tr>
+<tr class="odd">
+<td><a href="../../../../The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/flexor_pollicis_brevis.html">Flexor Pollicis Brevis</a></td>
+<td><p><strong>Superficial head</strong>: Flexor retinaculum <br> <strong>Deep head</strong>: Capitate, Trapezium</p></td>
+<td><p>Lateral side of base of 1st proximal phalan <br> (<em>via the radial sesamoid</em>)</p></td>
+<td><p><strong>Superficial head</strong>: <a href="{{< var ref-recurrent-branch-of-median-nerve.path >}}">Recurrent Br. of Median N.</a> <br> <strong>Deep head</strong>: <a href="{{< var ref-deep-branch-of-ulnar-nerve.path >}}">Deep Br. of Ulnar N.</a> <br> (<a href="{{< var ref-nerve-root.c8 >}}">C8</a>, <a href="{{< var ref-nerve-root.t1 >}}">T1</a>)</p></td>
+<td><p><strong>1st CMC</strong>: Flexion</p></td>
+</tr>
+</tbody>
+</table>
 <p>Indirect Muscular brs. via common palmar digital nn.<span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span></p>
-<ul>
-<li>1st and 2nd lumbricals</li>
-</ul>
+<table class="table-striped table-hover caption-top table">
+<caption>Indirect branches of Median N. (common palmar digital nn.)</caption>
+<thead>
+<tr class="header">
+<th>Muscle</th>
+<th>Origin</th>
+<th>Insertion</th>
+<th>Nerve</th>
+<th>Action</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../../../../The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/lumbrical_muscles_hand.html">Lumbricals (Hand)</a></td>
+<td><p><strong>1-2nd Lumbrical</strong>: FDP Tendons <br> (<em>radial sides</em>) <br> <strong>3-4th Lumbrical</strong>: FDP tendons <br> (<em>bipennate from medial and lateral sides</em>)</p></td>
+<td><p><strong>1st</strong>: 2nd digit (DDE) <br> <strong>2nd</strong>: 3rd digit (DDE) <br> <strong>3rd</strong>: 4th digit (DDE) <br> <strong>4th</strong>: 5th digit (DDE)</p></td>
+<td><p><strong>1-2nd</strong>: <a href="{{< var ref-median-nerve.path >}}">Median N.</a> <br> <strong>3-4th</strong>: <a href="{{< var ref-deep-branch-of-ulnar-nerve.path >}}">Deep Br. of Ulnar N.</a> <br> (<a href="{{< var ref-nerve-root.c8 >}}">C8</a>, <a href="{{< var ref-nerve-root.t1 >}}">T1</a>)</p></td>
+<td><p><strong>2-5 MCP</strong>: Flexion <br> <strong>2-5 PIP, DIP</strong>: Extension</p></td>
+</tr>
+</tbody>
+</table>
 </section>
 <section id="sensory-branches" class="level1">
 <h1>Sensory Branches</h1>

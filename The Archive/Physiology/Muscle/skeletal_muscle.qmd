@@ -24,3 +24,19 @@ The final common determinant of success in athletic events is what the muscles c
 
 # Muscular Power 
 
+
+
+# Skeletal Muscle Degredation
+
+## Facilitory
+
+- Myostatin / Growth Differentiation Factor 8 (MSTN) @shahidiParaspinalMusclesIndividuals2024
+- Tripartite Motif Containing 63/E3 Ubiquitin Ligase (TRIM63) @shahidiParaspinalMusclesIndividuals2024
+- Forkhead Box O3 (FOXO3) @shahidiParaspinalMusclesIndividuals2024
+- F-box only protein 32 (FBXO32) @shahidiParaspinalMusclesIndividuals2024
+- Caspase-3 (CASP3) @shahidiParaspinalMusclesIndividuals2024
+- Caspase-1 (CASP1) @shahidiParaspinalMusclesIndividuals2024
+
+## Inhibitory
+
+- Activin Receptor 2B (ACVR2B) @shahidiParaspinalMusclesIndividuals2024

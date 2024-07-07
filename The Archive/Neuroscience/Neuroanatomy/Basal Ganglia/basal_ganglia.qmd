@@ -2,25 +2,6 @@
 title: Basal ganglia
 ---
 
-# Types of Nuclei
-3 type of nuclei: Input / Output / Intrinsic nuclei
-
-Input nuclei:
-
-- Receives info from cortex, thalamus
-- Examples: striatum: Caudate Nucleus & Putamen
-
-Output Nuclei:
-
-- Sends BG info to the Thalamus
-- E.G.: Globus Pallidus internus & Substantia Nigra (pars reticulata)
-
-Intrinsic Nuclei:
-
-- Connect input & Output nuclei
-- E.G.: Globus Pallidus externus, ST nucleus, Substantia Nigra (Pars compacta)
-
-
 # Principal nuclei
 There are 5 principal basal ganglia nuclei.
 
@@ -32,6 +13,31 @@ There are 5 principal basal ganglia nuclei.
 
 Lentiform nucleus: Putamen + Globus Pallidus
 striatum: Caudate Nucleus + Putamen
+
+# Types of Nuclei
+3 type of nuclei: 
+
+1. Input nuclei
+1. Output nuclei
+1. Intrinsic nuclei
+
+## Input Nuclei
+
+- Receives info from cortex, thalamus
+- Examples: striatum: Caudate Nucleus & Putamen
+
+## Output Nuclei
+
+- Sends BG info to the Thalamus
+- E.G.: Globus Pallidus internus & Substantia Nigra (pars reticulata)
+
+## Intrinsic Nuclei
+
+- Connect input & Output nuclei
+- E.G.: Globus Pallidus externus, ST nucleus, Substantia Nigra (Pars compacta)
+
+
+
  
 # Function 
 
@@ -45,12 +51,28 @@ striatum: Caudate Nucleus + Putamen
 - Learning & Cognition:
 - Integration of motor output
 - Regulates emotional aspects of Behavior
- 
-## Direct pathway / Indirect:
+
+# Pathway
+
+1. Direct
+1. Indirect pathway
+1. Substantonigral pathway
+
+- Result = Measured and coordinated motor output
+
+## Direct Pathway
 
 - Direct = facilitates goal-oriented movement
+
+Striatum disinhibits the thalamus which results in *more* excitation of the 
+
+## Indirect Pathway
+
 - Indirect = Suppress all competing movement
-- Result = Measured and coordinated motor output
+
+
+Dopamine from the Sn Pars Compacta functions to inhibit the striatum.
+Thus dopamine causes disinhibition of the GPe and therefore this causes disinhibition of the thalamus.
 
 
 
@@ -59,3 +81,9 @@ striatum: Caudate Nucleus + Putamen
 :::{.callout-note title="DPT 836"}
 Lesions result in difficulty initiating, continuing, or stopping movement
 :::
+
+
+# Pathologies
+
+- [Parkinson's Disease (PD)]({{< var ref-parkinsons-disease.path >}})
+- Huntington's Disease (HD)

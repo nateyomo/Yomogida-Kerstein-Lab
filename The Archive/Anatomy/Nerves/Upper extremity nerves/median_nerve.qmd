@@ -10,28 +10,39 @@ C6-T1 @gilroyAtlasAnatomy2020
 
 # Motor Branches
 
-Direct Muscular branches @gilroyAtlasAnatomy2020
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Pronator Teres]({{< var ref-pronator-teres.path >}}) | {{< var ref-pronator-teres.origin >}} | {{< var ref-pronator-teres.insertion >}} | {{< var ref-pronator-teres.nerve >}} | {{< var ref-pronator-teres.action >}} |
+| [Flexor Carpi Radialis]({{< var ref-flexor-carpi-radialis.path >}}) | {{< var ref-flexor-carpi-radialis.origin >}} | {{< var ref-flexor-carpi-radialis.insertion >}} | {{< var ref-flexor-carpi-radialis.nerve >}} | {{< var ref-flexor-carpi-radialis.action >}} |
+| [Palmaris Longus]({{< var ref-palmaris-longus.path >}}) | {{< var ref-palmaris-longus.origin >}} | {{< var ref-palmaris-longus.insertion >}} | {{< var ref-palmaris-longus.nerve >}} | {{< var ref-palmaris-longus.action >}} |
+| [Flexor Digitorum Superficialis]({{< var ref-flexor-digitorum-superficialis.path >}}) | {{< var ref-flexor-digitorum-superficialis.origin >}} | {{< var ref-flexor-digitorum-superficialis.insertion >}} | {{< var ref-flexor-digitorum-superficialis.nerve >}} | {{< var ref-flexor-digitorum-superficialis.action >}} |
+:Direct Muscular branches of Median N. {.striped .hover}
 
-- Pronator teres 
-- Flexor carpi radialis 
-- Palmaris longus 
-- Flexor digitorum superficialis (FDS)
 
-Indirect Muscular brs. via anterior interosseous n. @gilroyAtlasAnatomy2020
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Flexor Digitorum Profundus]({{< var ref-flexor-digitorum-profundus.path >}}) | {{< var ref-flexor-digitorum-profundus.origin >}} | {{< var ref-flexor-digitorum-profundus.insertion >}} | {{< var ref-flexor-digitorum-profundus.nerve >}} | {{< var ref-flexor-digitorum-profundus.action >}} |
+| [Flexor Pollicis Longus]({{< var ref-flexor-pollicis-longus.path >}}) | {{< var ref-flexor-pollicis-longus.origin >}} | {{< var ref-flexor-pollicis-longus.insertion >}} | {{< var ref-flexor-pollicis-longus.nerve >}} | {{< var ref-flexor-pollicis-longus.action >}} |
+| [Pronator Quadratus]({{< var ref-pronator-quadratus.path >}}) | {{< var ref-pronator-quadratus.origin >}} | {{< var ref-pronator-quadratus.insertion >}} | {{< var ref-pronator-quadratus.nerve >}} | {{< var ref-pronator-quadratus.action >}} |
+: Indirect Muscular branches of Median N. (via anterior interosseous n.) {.striped .hover}
 
-- Pronator quadratus 
-- Flexor pollicis longus 
-- Flexor digitorum profundus (radial $\frac{1}{2}$)
 
 Recurrent br. @gilroyAtlasAnatomy2020
 
-- Abductor pollicis brevis 
-- Flexor pollicis brevis (superficial head) 
-- Opponens pollicis
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Opponens Pollicis]({{< var ref-opponens-pollicis.path >}}) | {{< var ref-opponens-pollicis.origin >}} | {{< var ref-opponens-pollicis.insertion >}} | {{< var ref-opponens-pollicis.nerve >}} | {{< var ref-opponens-pollicis.action >}} |
+| [Abductor Pollicis Brevis]({{< var ref-abductor-pollicis-brevis.path >}}) | {{< var ref-abductor-pollicis-brevis.origin >}} | {{< var ref-abductor-pollicis-brevis.insertion >}} | {{< var ref-abductor-pollicis-brevis.nerve >}} | {{< var ref-abductor-pollicis-brevis.action >}} |
+| [Flexor Pollicis Brevis]({{< var ref-flexor-pollicis-brevis.path >}}) | {{< var ref-flexor-pollicis-brevis.origin >}} | {{< var ref-flexor-pollicis-brevis.insertion >}} | {{< var ref-flexor-pollicis-brevis.nerve >}} | {{< var ref-flexor-pollicis-brevis.action >}} |
+:Indirect branches of Median N. (via recurrent br.) {.striped .hover}
+
 
 Indirect Muscular brs. via common palmar digital nn. @gilroyAtlasAnatomy2020
 
-- 1st and 2nd lumbricals
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Lumbricals (Hand)]({{< var ref-lumbricals-hand.path >}}) | {{< var ref-lumbricals-hand.origin >}} | {{< var ref-lumbricals-hand.insertion >}} | {{< var ref-lumbricals-hand.nerve >}} | {{< var ref-lumbricals-hand.action >}} |
+:Indirect branches of Median N. (common palmar digital nn.) {.striped .hover}
 
 
 # Sensory Branches

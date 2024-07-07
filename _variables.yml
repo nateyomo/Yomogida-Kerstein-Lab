@@ -1947,6 +1947,8 @@ ref-cervical-relocation-test:
   interrater-reliability: "Variable"
   specificity: ""
   sensitivity: ""
+
+
 ### Upper Extremity tests
 ref-brachial-plexus-stretch-test:
   path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/stretch_test_brachial_plexus.qmd"
@@ -1991,6 +1993,8 @@ ref-hawkins-kennedy-test:
 ### Lower extremity tests
 ref-fulcrum-test-stress-fracture:
   path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/fulcrum_test_stress_fracture.qmd"
+ref-straight-leg-raise-test:
+  path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/straight_leg_raise_test.qmd"
 
 ### Foot and ankle tests
 ref-navicular-drop-test:
@@ -2181,7 +2185,9 @@ ref-glycogen:
 ref-pentose-phosphate-pathway:
   path: "/The Archive/Physiology/Metabolism/Carbohydrate Metabolism/pentose_phosphate_pathway_PPP.qmd"
 
-
+### Lipid Metabolism
+ref-adipogenesis:
+  path: "/The Archive/Physiology/Metabolism/Lipid Metabolism/adipogenesis.qmd"
 
 ## Physiology of stress
 ref-oxidative-stress: 
@@ -2287,6 +2293,15 @@ ref-rib-fracture:
   path: "/The Archive/Pathologies/MSK Pathologies/Trunk/rib_fracture.qmd"
 ref-rib-stress-fracture:
   path: "/The Archive/Pathologies/MSK Pathologies/Trunk/rib_fracture.qmd"
+#### Lumbar pathologies
+ref-lumbar-spinal-stenosis:
+  path: "/The Archive/Pathologies/Pathologies by Region/Trunk/Lumbar spine/Spinal Stenosis/lumbar_spinal_stenosis_overview.qmd"
+ref-lumbar-central-stenosis:
+  path: "/The Archive/Pathologies/Pathologies by Region/Trunk/Lumbar spine/Spinal Stenosis/lumbar_central_stenosis.qmd"
+ref-lumbar-foraminal-stenosis:
+  path: "/The Archive/Pathologies/Pathologies by Region/Trunk/Lumbar spine/Spinal Stenosis/lumbar_foraminal_stenosis.qmd"
+ref-lumbar-lateral-recess-stenosis:
+  path: "/The Archive/Pathologies/Pathologies by Region/Trunk/Lumbar spine/Spinal Stenosis/lumbar_lateral_recess_stenosis.qmd"
 ### Upper Extremity
 ref-lateral-epicondylitis:
   path: "/The Archive/Pathologies/MSK Pathologies/Upper extremity/lateral_epicondylitis.qmd"
