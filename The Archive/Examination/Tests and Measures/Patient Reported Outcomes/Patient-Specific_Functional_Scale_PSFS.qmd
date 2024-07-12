@@ -1,0 +1,6 @@
+---
+title: Patient-Specific Functional Scale (PSFS)
+---
+
+
+{{< pdf "/The Archive/Examination/Tests and Measures/Patient Reported Outcomes/images/Patient-specific_Functional_scale_pdf.pdf" >}}

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.45">
+<meta name="generator" content="quarto-1.5.53">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -22,7 +22,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../../../../../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -72,6 +91,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../../../../../../../styles.css">
 </head>
@@ -129,8 +177,14 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Contents</h2>
+   
+  <ul>
+  <li><a href="#relationship-to-ppar-γ" id="toc-relationship-to-ppar-γ" class="nav-link active" data-scroll-target="#relationship-to-ppar-γ">Relationship to PPAR-γ</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -181,10 +235,20 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<p>TGF-β is a multifunctional cytokine that drives inflammation, fibrosis, and cell differentiation<span class="citation" data-cites="kokenyPPARgTGFvMajorRegulators2021"><sup><a href="#ref-kokenyPPARgTGFvMajorRegulators2021" role="doc-biblioref">1</a></sup></span></p>
+<section id="relationship-to-ppar-γ" class="level1">
+<h1>Relationship to PPAR-γ</h1>
+<p>While TGF-β facilitates inflammation, fibrosis, and cell differentiation, PPAR-γ functions to reverse these adverse events<span class="citation" data-cites="kokenyPPARgTGFvMajorRegulators2021"><sup><a href="#ref-kokenyPPARgTGFvMajorRegulators2021" role="doc-biblioref">1</a></sup></span></p>
 
 
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-kokenyPPARgTGFvMajorRegulators2021" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Kökény G, Calvier L, Hansmann G. <span>PPAR<span class="math inline">\(\gamma\)</span></span> and <span>TGF<span class="math inline">\(\beta\)</span>-Major Regulators</span> of <span>Metabolism</span>, <span>Inflammation</span>, and <span>Fibrosis</span> in the <span>Lungs</span> and <span>Kidneys</span>. <em>International Journal of Molecular Sciences</em>. 2021;22(19):10431. doi:<a href="https://doi.org/10.3390/ijms221910431">10.3390/ijms221910431</a></div>
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
 <div class="">Yomogida N, Kerstein C. Transforming Growth
 Factor Beta (TGF-&amp;beta;). <a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Chemistry/Biochemistry/Proteins/Signalling Proteins/Cytokines/TGF-Beta/TGF-Beta_transforming_growth-factor-beta.html">https://nateyomo.github.io/Yomogida-Kerstein-Lab/The
 Archive/Chemistry/Biochemistry/Proteins/Signalling

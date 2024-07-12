@@ -9,7 +9,7 @@
 <meta name="author" content="Nathaniel Yomogida">
 <meta name="author" content="Chloë Kerstein">
 
-<title>Lumbar Spinal Stenosis – YK Lab</title>
+<title>Heat-shock protein 90 (Hsp90) – YK Lab</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -22,28 +22,47 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
-<script src="../../../../../../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../../../../../../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../../../../../../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../../../../../../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../../../../../../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../../../../../../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../../../../../../">
-<link href="../../../../../..//images/brain-favicon.png" rel="icon" type="image/png">
-<script src="../../../../../../site_libs/quarto-html/quarto.js"></script>
-<script src="../../../../../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../../../../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../../../../../../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../../../../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../../../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../../../../../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="../../../../../../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../../../../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../../../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../../../../../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../../../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../../../">
+<link href="../../../../..//images/brain-favicon.png" rel="icon" type="image/png">
+<script src="../../../../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../../../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../../../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../../../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -72,8 +91,37 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<link rel="stylesheet" href="../../../../../../styles.css">
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="../../../../../styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -83,7 +131,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../../../../../../index.html">
+    <a class="navbar-brand" href="../../../../../index.html">
     <span class="navbar-title">YK Lab</span>
     </a>
   </div>
@@ -94,27 +142,27 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../../../../../index.html"> 
+    <a class="nav-link" href="../../../../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../../../The Archive/archive_index.html"> 
+    <a class="nav-link" href="../../../../../The Archive/archive_index.html"> 
 <span class="menu-text">Archive</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../../../guide.html"> 
+    <a class="nav-link" href="../../../../../guide.html"> 
 <span class="menu-text">Guide</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../../../journal club index.html"> 
+    <a class="nav-link" href="../../../../../journal club index.html"> 
 <span class="menu-text">Journal Club</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../../../about.html"> 
+    <a class="nav-link" href="../../../../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../../../contact.html"> 
+    <a class="nav-link" href="../../../../../contact.html"> 
 <span class="menu-text">Contact</span></a>
   </li>  
 </ul>
@@ -134,7 +182,10 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Contents</h2>
    
   <ul>
-  <li><a href="#therex" id="toc-therex" class="nav-link active" data-scroll-target="#therex">Therex</a></li>
+  <li><a href="#direct-effects" id="toc-direct-effects" class="nav-link active" data-scroll-target="#direct-effects">Direct Effects</a></li>
+  <li><a href="#indirect-effects" id="toc-indirect-effects" class="nav-link" data-scroll-target="#indirect-effects">Indirect effects</a></li>
+  <li><a href="#abnormal-expression" id="toc-abnormal-expression" class="nav-link" data-scroll-target="#abnormal-expression">Abnormal Expression</a></li>
+  <li><a href="#interplay" id="toc-interplay" class="nav-link" data-scroll-target="#interplay">Interplay</a></li>
   </ul>
 </nav>
     </div>
@@ -143,7 +194,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Lumbar Spinal Stenosis</h1>
+<h1 class="title">Heat-shock protein 90 (Hsp90)</h1>
 </div>
 
 
@@ -187,26 +238,33 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>There are 3 main types of Lumbar Spinal stenosis</p>
-<ol type="1">
-<li><a href="">Central Stenosis</a>: Narrowing and impingement of the spinal cord in the <em>central canal</em>.</li>
-<li><a href="">Lateral Recess Stenosis</a>: Narrowing and impingement of the nerve root as it exits the central canal and before it leaves the foramen.</li>
-<li><a href="">Foraminal Stenosis</a>: Narrowing and subsequent impingement of the nerve roots at the foramen</li>
-</ol>
-<section id="therex" class="level1">
-<h1>Therex</h1>
-<p>Therapeutic exercise is one of the numerous interventions that have been proposed for the conservative management of patients with lumbar spinal stenosis. Several authors advocate only the use of Williams flexion exercises because of the neuroforaminal narrowing that occurs with lumbar extension. However, the prescribed program may need to be modified so that it does not exacerbate any coexisting orthopaedic conditions, such as osteoarthritis of the hips or knees while still being effective.162 In a randomized clinical trial by Whitman et al.,200 two physical therapy programs were compared for 58 patients with lumbar spinal stenosis:</p>
-<p>manual therapy (eclectic, consisting of techniques such as those described by Maitland,201 Greenman,202 and Whitman et al.203), body-weight-supported treadmill walking, and exercise group;</p>
-<p>lumbar flexion exercises, a treadmill-walking program, and subtherapeutic ultrasound group.</p>
+<section id="direct-effects" class="level1">
+<h1>Direct Effects</h1>
+</section>
+<section id="indirect-effects" class="level1">
+<h1>Indirect effects</h1>
+</section>
+<section id="abnormal-expression" class="level1">
+<h1>Abnormal Expression</h1>
+<p>Abnormal expression of Hsp90 has been attributed to pulmonary arterial hypertension (PAH)<span class="citation" data-cites="kokenyPPARgTGFvMajorRegulators2021"><sup><a href="#ref-kokenyPPARgTGFvMajorRegulators2021" role="doc-biblioref">1</a></sup></span>.</p>
+</section>
+<section id="interplay" class="level1">
+<h1>Interplay</h1>
+<p>Hsp90 may have a strong interaction with PPAR-γ<span class="citation" data-cites="kokenyPPARgTGFvMajorRegulators2021"><sup><a href="#ref-kokenyPPARgTGFvMajorRegulators2021" role="doc-biblioref">1</a></sup></span>. Hsp90 can play a role to stabilize PPAR-γ in liver cells and adipocytes<span class="citation" data-cites="kokenyPPARgTGFvMajorRegulators2021"><sup><a href="#ref-kokenyPPARgTGFvMajorRegulators2021" role="doc-biblioref">1</a></sup></span>. Thus when Hsp90 expression is increased, the PPAR-γ experiences improvements in stability and levels. Hsp90 overexpression diminishes PPAR-γ degredation<span class="citation" data-cites="kokenyPPARgTGFvMajorRegulators2021"><sup><a href="#ref-kokenyPPARgTGFvMajorRegulators2021" role="doc-biblioref">1</a></sup></span>. The opposite effect is also true, when Hsp90 is inhibited, PPAR-γ levels are decreased<span class="citation" data-cites="kokenyPPARgTGFvMajorRegulators2021"><sup><a href="#ref-kokenyPPARgTGFvMajorRegulators2021" role="doc-biblioref">1</a></sup></span>.</p>
+
 
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
-<div class="">Yomogida N, Kerstein C. Lumbar Spinal Stenosis.
-<a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Pathologies/Pathologies by Region/Trunk/Lumbar spine/Spinal Stenosis/lumbar_spinal_stenosis_overview.html">https://nateyomo.github.io/Yomogida-Kerstein-Lab/The
-Archive/Pathologies/Pathologies by Region/Trunk/Lumbar spine/Spinal
-Stenosis/lumbar_spinal_stenosis_overview.html</a></div>
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-kokenyPPARgTGFvMajorRegulators2021" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Kökény G, Calvier L, Hansmann G. <span>PPAR<span class="math inline">\(\gamma\)</span></span> and <span>TGF<span class="math inline">\(\beta\)</span>-Major Regulators</span> of <span>Metabolism</span>, <span>Inflammation</span>, and <span>Fibrosis</span> in the <span>Lungs</span> and <span>Kidneys</span>. <em>International Journal of Molecular Sciences</em>. 2021;22(19):10431. doi:<a href="https://doi.org/10.3390/ijms221910431">10.3390/ijms221910431</a></div>
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
+<div class="">Yomogida N, Kerstein C. Heat-shock protein 90
+(Hsp90). <a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Chemistry/Biochemistry/Proteins/Heat Shock Proteins/Hsp90_Heat-Shock_protein_90.html">https://nateyomo.github.io/Yomogida-Kerstein-Lab/The
+Archive/Chemistry/Biochemistry/Proteins/Heat Shock
+Proteins/Hsp90_Heat-Shock_protein_90.html</a></div>
 </div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
