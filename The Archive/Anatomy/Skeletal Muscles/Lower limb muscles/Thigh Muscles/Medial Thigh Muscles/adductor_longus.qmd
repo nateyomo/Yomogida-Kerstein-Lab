@@ -20,7 +20,7 @@ title: Adductor Longus
 
 
 
-# Origin
+# Origin {#origin}
 
 - Superior pubic ramus @gilroyAtlasAnatomy2020
 - Anterior side of the pubic symphysis @gilroyAtlasAnatomy2020 
@@ -28,15 +28,15 @@ title: Adductor Longus
 Superior pubic ramus </br> Anterior side of the pubic symphysis
 
 
-# Insertion
+# Insertion {#insertion}
 
 Femur (linea aspera, medial lip in the middle third of the femur) @gilroyAtlasAnatomy2020
 
-# Innervation
+# Innervation {#innervation}
 
 [Obturator N.]({{< var ref-obturator-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}), [L4]({{< var ref-nerve-root.l4 >}})) @gilroyAtlasAnatomy2020
 
-# Action
+# Action {#action}
 
 - **Hip joint**: adduction and flexion (up to 70&deg;); extension (past 80&deg; of flexion)
 - **Pelvic Stabilization**: Coronal and Sagittal planes

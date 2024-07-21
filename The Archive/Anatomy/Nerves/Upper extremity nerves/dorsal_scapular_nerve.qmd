@@ -2,7 +2,7 @@
 title: Dorsal Scapular Nerve
 ---
 
-# Origin
+# Origin {#origin}
 
 - The dorsal scapular nerve is innervated by the [C5 Nerve Root]({{< var ref-nerve-root.c5 >}}) @duttonDuttonOrthopaedicExamination2020.
 - The dorsal scapular nerve frequently shares a trunk with the [Long Thoracic Nerve]({{< var ref-long-thoracic-nerve.path >}}) @duttonDuttonOrthopaedicExamination2020. 
@@ -14,7 +14,7 @@ title: Dorsal Scapular Nerve
 "The former passes through the scalenus medius anterior internally, and scalenus posterior laterally, with the presence of some tendinous tissues" @duttonDuttonOrthopaedicExamination2020 
 
 
-# Innervation
+# Innervation {#innervation}
 
 The posterior (dorsal) scapular nerve provies motor innervation to the rhomboids and the levator scapulae muscles @duttonDuttonOrthopaedicExamination2020.
 

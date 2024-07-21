@@ -14,16 +14,16 @@ title: Serratus Posterior Inferior
 : Serratus Posterior Inferior OIAN {.striped .hover}
 
 
-## Origin
+## Origin {#origin}
 T11-L2 (SP) @gilroyAtlasAnatomy2020
 
-## Insertion
+## Insertion {#insertion}
 8-12th ribs (inferior borders near angles) @gilroyAtlasAnatomy2020
 
-## Innervation
+## Innervation {#innervation}
 [Spinal nn.]({{< var ref-spinal-nerves.path >}}) T9-T12 (Anterior rami) @gilroyAtlasAnatomy2020
 
-## Action
+## Action {#action}
 
 Depresses ribs
 

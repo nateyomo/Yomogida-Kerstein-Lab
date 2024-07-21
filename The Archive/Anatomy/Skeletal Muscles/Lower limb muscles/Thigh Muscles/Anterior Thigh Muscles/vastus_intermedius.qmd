@@ -20,24 +20,22 @@ title: Vastus Intermedius
 | [Vastus Intermedius]({{< var ref-vastus-intermedius.path >}}) | {{< var ref-vastus-intermedius.origin >}} | {{< var ref-vastus-intermedius.insertion >}} | {{< var ref-vastus-intermedius.nerve >}} | {{< var ref-vastus-intermedius.action >}} |
 : {.striped .hover}
 
-:::{layout-ncol="2"}
-
-### Origin
+# Origin {#origin}
 Femoral shaft (anterior side) @gilroyAtlasAnatomy2020
 
-### Insertion
+# Insertion {#insertion}
 
 Tibial tuberosity (via patellar lig.) @gilroyAtlasAnatomy2020
 
-### Nerve
+# Nerve
 
 [Femoral N.]({{< var ref-femoral-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}), [L4]({{< var ref-nerve-root.l4 >}})) @gilroyAtlasAnatomy2020
 
-### Action
+# Action {#action}
 
 **Knee**: Extension @gilroyAtlasAnatomy2020
 
-:::
+
 
 # Notes
     

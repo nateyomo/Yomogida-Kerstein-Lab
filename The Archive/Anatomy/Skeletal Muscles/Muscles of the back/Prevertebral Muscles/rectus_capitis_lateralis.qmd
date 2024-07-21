@@ -11,16 +11,16 @@ title: Rectus Capitis Lateralis
 : Rectus Capitis Lateralis OIAN {.striped .hover}
 
 
-## Origin
+## Origin {#origin}
 C1 (TP) @gilroyAtlasAnatomy2020
 
-## Insertion
+## Insertion {#insertion}
 Occipital bone (basilar part, lateral to occipital condyles) @gilroyAtlasAnatomy2020
 
-## Innervation
+## Innervation {#innervation}
 [C1]({{< var ref-nerve-root.c1 >}}) Anterior Ramus @gilroyAtlasAnatomy2020
 
-## Action
+## Action {#action}
 
 - **Bilateral**: flex AO Joint
 - **Unilateral**: Lateral Flexion of AO joint

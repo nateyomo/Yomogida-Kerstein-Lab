@@ -8,17 +8,17 @@ title: Masseter muscle
 |------|--------|-------|----------|--------|
 | [Masseter muscle]({{< var ref-masseter.path >}}) | {{< var ref-masseter.origin >}} | {{< var ref-masseter.insertion >}} | {{< var ref-masseter.nerve >}} | {{< var ref-masseter.action >}} |
 
-# Origin
+# Origin {#origin}
 **SF layer**: zygomatic arch (ant 2/3); **Deep layer**: Zygomatic arch (post. 1/3) @gilroyAtlasAnatomy2020
 
-# Insertion
+# Insertion {#insertion}
 Mandibular angle (Masseteric tuberosity) @gilroyAtlasAnatomy2020
 
-# Innervation
+# Innervation {#innervation}
 
 [Trigeminal CN V: Mandibular (V~3~)]({{< var ref-cn5.path >}}) @gilroyAtlasAnatomy2020
 
-# Action
+# Action {#action}
 
 The primary function of the masseter is to develop potentially large forces between the molars for effective crushing of food @neumannKinesiologyMusculoskeletalSystem2017.
 This is possible since the force vector of the muscle is nearly perpendicular to the biting surface of the molars @neumannKinesiologyMusculoskeletalSystem2017.

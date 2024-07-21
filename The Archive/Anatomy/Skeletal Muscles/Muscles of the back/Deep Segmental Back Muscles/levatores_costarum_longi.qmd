@@ -19,12 +19,12 @@ title: Levatores Costarum Longi
 
 :::{layout-ncol="2"}
 
-### Origin
+### Origin {#origin}
 
 C7–T11 TP @gilroyAtlasAnatomy2020 
 
 
-### Insertion
+### Insertion {#insertion}
 
 Costal angle of rib 2 vertebrae below @gilroyAtlasAnatomy2020
 
@@ -34,7 +34,7 @@ Costal angle of rib 2 vertebrae below @gilroyAtlasAnatomy2020
 [Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}}) @gilroyAtlasAnatomy2020
 
 
-### Action
+### Action {#action}
 
 - **Bilateral**: Extends T/S
 - **Unilateral**: T/S ipsilateral flexion, T/S Contralateral rotation

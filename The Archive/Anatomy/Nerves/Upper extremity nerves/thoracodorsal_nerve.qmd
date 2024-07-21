@@ -10,7 +10,7 @@ title: Thoracodorsal Nerve
 :::
 
 
-# Origin
+# Origin {#origin}
 
 The Thoracodorsal nerve branches from the [Posterior Cord]({{< var ref-brachial-plexus.posterior-cord >}}) and originates from {{< var ref-thoracodorsal-nerve.roots >}} nerve roots @duttonDuttonOrthopaedicExamination2020.
 
@@ -26,7 +26,7 @@ The Thoracodorsal nerve branches from the [Posterior Cord]({{< var ref-brachial-
 
 "The nerve runs along the posterior axillary wall to reach and innervate the deep surface of the latissimus dorsi muscle. This muscle (along with the teres major) adducts and internally rotates the arm and depresses the raised arm. It is best tested by having the patient adduct the horizontally raised upper arm against resistance or by palpating the muscle bellies when the patient coughs [409]." @brazisLocalizationClinicalNeurology2022
 
-# Innervation
+# Innervation {#innervation}
 
 - Lats
 

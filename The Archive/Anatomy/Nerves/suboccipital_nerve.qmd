@@ -5,7 +5,7 @@ AKA Posterior ramus of C1 @gilroyAtlasAnatomy2020
 
 # Pathway
 
-# Innervation
+# Innervation {#innervation}
 
 ## Somatosensory innervation
 

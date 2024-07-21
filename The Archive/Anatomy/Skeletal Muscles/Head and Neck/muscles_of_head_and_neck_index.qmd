@@ -40,7 +40,7 @@ title: Muscles of the Head and Neck
 
 
 ::: {.callout-note collapse="true"}
-# Innervation
+# Innervation {#innervation}
 
 *There are no bony insertions for the muscles of facial expression @gilroyAtlasAnatomy2020
 

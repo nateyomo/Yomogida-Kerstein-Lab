@@ -165,7 +165,7 @@ The coracoacromial ligament the labrum serve to functionally enlarges the GHJ so
 
 "The fibrous portion of the capsule is very lax and has several recesses, depending on the position of the arm. At its inferior aspect, the capsule forms an axillary recess, which is both loose and redundant. The recess permits normal elevation of the arm, although it can also be the site of adhesions when the shoulder is immobilized in adduction. The anterior aspect of the joint capsule is reinforced by three ligaments (Z ligaments), which are described in the next section. The tendons of the RC (supraspinatus, infraspinatus, teres minor, and subscapularis) reinforce the superior, posterior, and anterior aspects of the capsule, as does the LHB tendon." @duttonDuttonOrthopaedicExamination2020
 
-# Innervation
+# Innervation {#innervation}
 
 [Suprascapular nerve]({{< var ref-suprascapular-nerve.path >}}) provides sensory and sympathetic afferent fibers to the GHJ @duttonDuttonOrthopaedicExamination2020
 

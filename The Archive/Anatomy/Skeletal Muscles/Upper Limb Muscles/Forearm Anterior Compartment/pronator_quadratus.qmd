@@ -12,20 +12,20 @@ title: Pronator Quadratus
 
 
 
-# Origin
+# Origin {#origin}
 
 Distal 1/4 of ulna (anterior surface) @gilroyAtlasAnatomy2020
 
 
-# Insertion
+# Insertion {#insertion}
 
 Distal ¼ of radius (anterior surface) @gilroyAtlasAnatomy2020
 
-# Innervation
+# Innervation {#innervation}
 
 [Anterior Interosseous N.]({{< var ref-anterior-interosseous-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})) @gilroyAtlasAnatomy2020
 
-# Action
+# Action {#action}
 
 - **Forearm**: Pronation @gilroyAtlasAnatomy2020
 - **Distal RU**: Stabilization @gilroyAtlasAnatomy2020

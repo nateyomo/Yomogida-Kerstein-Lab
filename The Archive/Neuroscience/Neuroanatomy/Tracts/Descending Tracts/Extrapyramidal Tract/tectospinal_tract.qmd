@@ -8,7 +8,7 @@ The Tectospinal tract is part of the [medial motor systems ]({{< var ref-medial-
 
 # Pathway
 
-## Origin/input
+## Origin {#origin}/input
 
 [Superior Colliculus]({{< var ref-superior-colliculus.path >}})
 

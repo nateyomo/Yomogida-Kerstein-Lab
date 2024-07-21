@@ -8,17 +8,17 @@ title: Anterior Auricular Muscle
 |------|--------|-------|----------|--------|
 | [Anterior Auricular Muscle]({{< var ref-anterior-auricular-muscle.path >}}) | {{< var ref-anterior-auricular-muscle.origin >}} | {{< var ref-anterior-auricular-muscle.insertion >}} | {{< var ref-anterior-auricular-muscle.nerve >}} | {{< var ref-anterior-auricular-muscle.action >}} |
 
-# Origin
+# Origin {#origin}
 Temporal fascia (ant. portion) @gilroyAtlasAnatomy2020
 
-# Insertion
+# Insertion {#insertion}
 Helix of the ear @gilroyAtlasAnatomy2020
 
-# Innervation
+# Innervation {#innervation}
 
 [Facial Nerve CN VII]({{< var ref-cn7.path >}}) @gilroyAtlasAnatomy2020
 
-# Action
+# Action {#action}
 Pulls ear superiorly and anteriorly @gilroyAtlasAnatomy2020
 
 # Clinical Significance

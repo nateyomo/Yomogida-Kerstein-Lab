@@ -14,61 +14,61 @@ title: Triceps Brachi
 
 # Long Head
 
-## Origin
+## Origin {#origin}
 
 Infraglenoid tubercle of scapula @gilroyAtlasAnatomy2020
 
-## Insertion
+## Insertion {#insertion}
 
 Olecranon process of Ulna @gilroyAtlasAnatomy2020
 
-## Innervation
+## Innervation {#innervation}
 
 [Radial N.]({{< var ref-radial-nerve.path >}}) ([C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}})) @gilroyAtlasAnatomy2020
 
-## Action
+## Action {#action}
 
 - **Elbow**: Extension @gilroyAtlasAnatomy2020
 - **Shoulder**: Extension, Adduction @gilroyAtlasAnatomy2020
 
 # Medial Head
 
-## Origin
+## Origin {#origin}
 
 - Posterior surface of humerus (distal to radial groove) @gilroyAtlasAnatomy2020
 - Medial intermuscular septum @gilroyAtlasAnatomy2020
 
 
-## Insertion
+## Insertion {#insertion}
 
 Olecranon process @gilroyAtlasAnatomy2020
 
-## Innervation
+## Innervation {#innervation}
 
 [Radial N.]({{< var ref-radial-nerve.path >}}) ([C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}})) @gilroyAtlasAnatomy2020
 
-## Action
+## Action {#action}
 
 **Elbow**: Extension @gilroyAtlasAnatomy2020
 
 # Lateral Head 
 
-## Origin
+## Origin {#origin}
 
 - Posterior surface of humerus (prox to radial groove) @gilroyAtlasAnatomy2020
 - Lateral intermuscular septum @gilroyAtlasAnatomy2020
 
 
 
-## Insertion
+## Insertion {#insertion}
 
 Olecranon process @gilroyAtlasAnatomy2020
 
-## Innervation
+## Innervation {#innervation}
 
 [Radial N.]({{< var ref-radial-nerve.path >}}) ([C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}})) @gilroyAtlasAnatomy2020
 
-## Action
+## Action {#action}
 
 **Elbow**: Extension @gilroyAtlasAnatomy2020
 

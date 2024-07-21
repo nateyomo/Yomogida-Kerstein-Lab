@@ -9,38 +9,26 @@ title: Semitendinosus
 | [Semitendinosus]({{< var ref-semitendinosus.path >}}) | {{< var ref-semitendinosus.origin >}} | {{< var ref-semitendinosus.insertion >}} | {{< var ref-semitendinosus.nerve >}} | {{< var ref-semitendinosus.action >}} |
 : {.striped .hover}
 
-:::{layout-ncol="2"}
-
-
-### Origin
+# Origin {#origin}
 - Ischial tuberosity @gilroyAtlasAnatomy2020
 - Sacrotuberous lig. @gilroyAtlasAnatomy2020
 - (*common head with long head of biceps femoris*) @gilroyAtlasAnatomy2020
 
-
-
-### Insertion
+# Insertion {#insertion}
 
 - Medial to the tibial tuberosity in the [Pes Anserine]({{< var ref-pes-anserine.path >}}) @gilroyAtlasAnatomy2020
     - (*along with the tendons of gracilis and sartorius*) @gilroyAtlasAnatomy2020
 
-
-
-### Nerve
+# Nerve
 
 [Tibial N. (*division of Sciatic N.*)]({{< var ref-tibial-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})) @gilroyAtlasAnatomy2020
 
-
-### Action
+# Action {#action}
 
 - **Hip**: Extension @gilroyAtlasAnatomy2020
 - **Pelvic Stabilization**: Sagittal plane @gilroyAtlasAnatomy2020
 - **Knee**: Flexion and Internal rotation @gilroyAtlasAnatomy2020
 
-
-
-
-:::
 
 # Overview
 

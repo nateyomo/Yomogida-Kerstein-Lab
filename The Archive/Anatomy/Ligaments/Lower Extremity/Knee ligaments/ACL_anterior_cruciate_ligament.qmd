@@ -21,7 +21,7 @@ title: Anterior Cruciate Ligament
 
 "The synovial tissue that enfolds the ACL consists of an intimal layer, facing the joint cavity, and a subsynovial layer. The subsynovial layer is in direct contact with the ACL and contains neurovascular structures. The ACL is considered intra-articular yet extrasynovial because of the posterior invagination of the synovial membrane."
 
-# Innervation
+# Innervation {#innervation}
 
 "Although the posterior articular nerve is the major nerve for the ACL, afferent fibers have also been demonstrated in the medial and lateral articular nerves.1" @duttonDuttonOrthopaedicExamination2020
 

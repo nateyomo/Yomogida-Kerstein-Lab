@@ -10,7 +10,7 @@ title: Front Squat
 - Toes straight or slightly toed out
 - Bar rested on shoulder/elbows up
 
-# Action
+# Action {#action}
 
 - Squat as if you're sitting down
 - Return to start position

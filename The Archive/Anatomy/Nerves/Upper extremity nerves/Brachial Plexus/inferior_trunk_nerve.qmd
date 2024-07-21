@@ -2,7 +2,7 @@
 title: Inferior Trunk of the Brachial Plexus
 ---
 
-# Origin
+# Origin {#origin}
 The inferior trunk originates from nerve roots [C8]({{< var ref-nerve-root.c8 >}}) and [T1]({{< var ref-nerve-root.t1 >}}).
 
 

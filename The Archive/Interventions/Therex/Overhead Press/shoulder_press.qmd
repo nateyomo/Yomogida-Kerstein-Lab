@@ -15,7 +15,7 @@ title: Shoulder Press (Exercise)
 - Grip slightly wider than shoulder width
 - Elbows slightly in front
 
-# Action
+# Action {#action}
 
 - Press bar in OH and return
 

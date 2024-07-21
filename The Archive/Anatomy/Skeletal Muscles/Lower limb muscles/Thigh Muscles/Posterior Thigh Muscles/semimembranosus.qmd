@@ -10,32 +10,27 @@ title: Semimembranosus
 | [Semimembranosus]({{< var ref-semimembranosus.path >}}) | {{< var ref-semimembranosus.origin >}} | {{< var ref-semimembranosus.insertion >}} | {{< var ref-semimembranosus.nerve >}} | {{< var ref-semimembranosus.action >}} |
 : {.striped .hover}
 
-:::{layout-ncol="2"}
-
-### Origin
+# Origin {#origin}
 Ischial tuberosity @gilroyAtlasAnatomy2020
 
-### Insertion
+# Insertion {#insertion}
 - Medial tibial condyle @gilroyAtlasAnatomy2020 
 - Oblique popliteal lig. @gilroyAtlasAnatomy2020 
 - Popliteus fascia @gilroyAtlasAnatomy2020 
 
 
 
-
-### Innervation
+# Innervation {#innervation}
 [Tibial N. (*Tibial division of Sciatic N.*)]({{< var ref-tibial-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})) (L5–S2) @gilroyAtlasAnatomy2020 
 
 
-### Action
+# Action {#action}
 
 - **Hip**: Extension @gilroyAtlasAnatomy2020
 - **Pelvic Stabilization**: Sagittal plane @gilroyAtlasAnatomy2020
 - **Knee**: Flexion and Internal rotation @gilroyAtlasAnatomy2020 
 
 
-
-:::
 
 
 

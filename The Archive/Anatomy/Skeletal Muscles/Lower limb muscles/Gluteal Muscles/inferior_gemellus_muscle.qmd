@@ -10,22 +10,22 @@ title: Inferior Gemellus Muscle
 : {.striped .hover}
 
 
-# Origin
+# Origin {#origin}
 Ischial tuberosity
 
 
 
 
-# Insertion
+# Insertion {#insertion}
 
 Joins obturator internus tendon to medial surface of greater trochanter
 
-# Innervation
+# Innervation {#innervation}
 
 Nerve to quadratus femoris ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}})) @aungAnatomicalStudyObturator2001 
 
 
-# Action
+# Action {#action}
 
 - **Hip**: Extension, ER, and Stabilization
     - (also active in abduction, depending on the joint’s position)

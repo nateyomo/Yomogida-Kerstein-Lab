@@ -12,19 +12,19 @@ title: Extensor Carpi Radialis Brevis (ECRB)
 
 
 
-# Origin
+# Origin {#origin}
 
 Lateral epicondyle of Humerus @gilroyAtlasAnatomy2020
 
-# Insertion
+# Insertion {#insertion}
 
 Base of 3rd metacarpal @gilroyAtlasAnatomy2020
 
-# Innervation
+# Innervation {#innervation}
 
 [Posterior Interosseous N.]({{< var ref-posterior-interosseous-nerve.path >}}) ([C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}})) @gilroyAtlasAnatomy2020
 
-# Action
+# Action {#action}
 
 - **Elbow**: Weak Flexion @gilroyAtlasAnatomy2020
 - **Wrist**: Extension, Radial deviation  @gilroyAtlasAnatomy2020

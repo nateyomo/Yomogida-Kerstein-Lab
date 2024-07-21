@@ -18,8 +18,9 @@ lumbopelvic hip complex during ground impact is a combination of 3-D shock-absor
 
 # Biomechanics
 
-## BIOMECHANICAL CONSEQUENCES OF COXA VARA AND COXA VALGA
-"As previously described in this chapter, the average angle of inclination of the femoral neck is approximately 125 degrees (see Fig. 12.7A). The angle may be changed as a result of a surgical repair of a fractured hip or the specific design of a prosthetic hip. In addition, a surgical operation known as a coxa	 vara (or valga) osteotomy intentionally alters a preexisting angle of inclina­ tion. This operation involves cutting a wedge of bone from the proximal femur, thereby changing the orientation of the femoral head to the acetabulum. A goal of this operation is often to improve the congruency of the weight­bearing surfaces of the hip.e" @neumannKinesiologyMusculoskeletalSystem2017
+## Coxa Vara & Coxa Valga
+
+"As previously described in this chapter, the average angle of inclination of the femoral neck is approximately 125 degrees (see Fig. 12.7A). The angle may be changed as a result of a surgical repair of a fractured hip or the specific design of a prosthetic hip. In addition, a surgical operation known as a coxa vara (or valga) osteotomy intentionally alters a preexisting angle of inclina­ tion. This operation involves cutting a wedge of bone from the proximal femur, thereby changing the orientation of the femoral head to the acetabulum. A goal of this operation is often to improve the congruency of the weight­bearing surfaces of the hip.e" @neumannKinesiologyMusculoskeletalSystem2017
 
 # Kinematics
 
@@ -28,7 +29,10 @@ lumbopelvic hip complex during ground impact is a combination of 3-D shock-absor
 :::{layout-ncol="2"}
 ### Osteokinematics
 
+- Active flexion < Passive flexion
 - 120 &deg; flexion (when the knee is flexed) @wongPhysicalExaminationHip2022 
+- 90 &deg; active flexion knee extended @kapandjiPhysiologyJointsVol2007
+- 120+ &deg; active flexion knee flexed @kapandjiPhysiologyJointsVol2007
 
 ### Arthrokinematics
 

@@ -20,7 +20,7 @@ AKA Descending part of the trapezius
 - [Occipital bone]({{< var ref-occipital-bone.path >}}) @gilroyAtlasAnatomy2020
 - SP of C1–C7 @gilroyAtlasAnatomy2020
 
-## Insertion:
+## Insertion {#insertion}:
 
 [Clavicle (lateral one third)]({{< var ref-clavicle-bone.path >}}) @gilroyAtlasAnatomy2020
 
@@ -29,7 +29,7 @@ AKA Descending part of the trapezius
 - **Motor**: [CN XI Accessory n.]({{< var ref-cn11.path >}}) ([C3]({{< var ref-nerve-root.c3 >}}), [C4]({{< var ref-nerve-root.c4 >}})) @brazisLocalizationClinicalNeurology2022
 - **Proprioception**: Cervical plexus ([C2]({{< var ref-nerve-root.c2 >}}), [C3]({{< var ref-nerve-root.c3 >}}), [C4]({{< var ref-nerve-root.c4 >}})) @gilroyAtlasAnatomy2020
 
-## Action: 
+## Action {#action}
 
 - **Scapula**: Elevation, Upward rotation @gilroyAtlasAnatomy2020
 - **Neck**: I/L sidebend and C/L rotation @gilroyAtlasAnatomy2020
@@ -44,7 +44,7 @@ AKA Transverse part of the trapezius
 Aponeurosis at T1–T4 SP @gilroyAtlasAnatomy2020
 
 
-## Insertion:
+## Insertion {#insertion}:
 
 [Acromion of Scapula]({{< var ref-scapula-bone.path >}}) @gilroyAtlasAnatomy2020
 
@@ -53,7 +53,7 @@ Aponeurosis at T1–T4 SP @gilroyAtlasAnatomy2020
 - **Motor**: [CN XI Accessory n.]({{< var ref-cn11.path >}}) ([C3]({{< var ref-nerve-root.c3 >}}), [C4]({{< var ref-nerve-root.c4 >}})) @brazisLocalizationClinicalNeurology2022
 - **Proprioception**: Cervical plexus ([C2]({{< var ref-nerve-root.c2 >}}), [C3]({{< var ref-nerve-root.c3 >}}), [C4]({{< var ref-nerve-root.c4 >}})) @gilroyAtlasAnatomy2020
 
-## Action:
+## Action
 
 - Scapular retraction @gilroyAtlasAnatomy2020
 - Stabilize the scapula during upward rotation @gilroyAtlasAnatomy2020
@@ -67,7 +67,7 @@ Aponeurosis at T1–T4 SP @gilroyAtlasAnatomy2020
 ## Origin
 SP of T5–T12 @gilroyAtlasAnatomy2020
 
-## Insertion
+## Insertion {#insertion}
 
 [Scapular Spine]({{< var ref-scapula-bone.path >}}) @gilroyAtlasAnatomy2020
 

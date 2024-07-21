@@ -16,7 +16,7 @@ title: Pectoralis Major
 
 : Pectoralis Major OIAN {.striped .hover}
 
-# Origin
+# Origin {#origin}
 
 
 
@@ -32,10 +32,10 @@ Manubrium and the aponeurosis of the external oblique are potential originations
 
 
 
-# Insertion
+# Insertion {#insertion}
 [Humerus (crest of greater tubercle)]({{< var ref-humerus-bone.path >}}) @gilroyAtlasAnatomy2020
 
-# Innervation
+# Innervation {#innervation}
 
 - [Lateral pectoral nerve]({{< var ref-lateral-pectoral-nerve.path >}}) @gilroyAtlasAnatomy2020
 - [Medial pectoral nerve]({{< var ref-medial-pectoral-nerve.path >}}) @gilroyAtlasAnatomy2020
@@ -43,7 +43,7 @@ Manubrium and the aponeurosis of the external oblique are potential originations
 
 
 
-# Action
+# Action {#action}
 
 - **Entire muscle**: GHJ Adduction, Internal rotation @gilroyAtlasAnatomy2020 
 - **Clavicular and sternocostal parts**: Flexion; assist in respiration when shoulder is fixed @gilroyAtlasAnatomy2020 

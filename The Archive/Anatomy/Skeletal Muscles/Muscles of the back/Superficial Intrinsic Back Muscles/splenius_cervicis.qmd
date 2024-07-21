@@ -14,17 +14,17 @@ title: Splenius Cervicis
 : Splenius Cervicis OIAN {.striped .hover}
 
 
-## Origin
+## Origin {#origin}
 T3-T6/T7 (SP) @gilroyAtlasAnatomy2020
 
 
-## Insertion
+## Insertion {#insertion}
 C1–C3/4 (TP) @gilroyAtlasAnatomy2020
 
-## Innervation
+## Innervation {#innervation}
 [Spinal nn. C1-C6]({{< var ref-spinal-nerves.path >}}) (Post rami, lateral branches) @gilroyAtlasAnatomy2020
 
-## Action
+## Action {#action}
 
 - **BIL:** Extends C/S and head @gilroyAtlasAnatomy2020
 - **UNIL:** I/L head SB and Rotation @gilroyAtlasAnatomy2020

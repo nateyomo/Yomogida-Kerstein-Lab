@@ -22,7 +22,7 @@ title: Push Jerk (Exercise)
 - Grip slightly wider than shoulder width
 - Elbows slightly in front
 
-# Action
+# Action {#action}
 
 - Dip knees and hips 
 - Extend hips/knees and press the bar OH

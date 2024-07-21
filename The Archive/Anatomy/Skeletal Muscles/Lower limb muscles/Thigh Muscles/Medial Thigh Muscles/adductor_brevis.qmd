@@ -16,28 +16,24 @@ title: Adductor Brevis
 | [Adductor Brevis]({{< var ref-adductor-brevis.path >}}) | {{< var ref-adductor-brevis.origin >}} | {{< var ref-adductor-brevis.insertion >}} | {{< var ref-adductor-brevis.nerve >}} | {{< var ref-adductor-brevis.action >}} |
 : {.striped .hover}
 
-:::{layout-ncol="4"}
-
-### Origin
+# Origin {#origin}
 
 - Inferior pubic ramus @gilroyAtlasAnatomy2020
 
 
 
-### Insertion
+# Insertion {#insertion}
 
 Femur (linea aspera, medial lip in the middle third of the femur) @gilroyAtlasAnatomy2020
 
-### Innervation
+# Innervation {#innervation}
 
 [Obturator N.]({{< var ref-obturator-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}})) @gilroyAtlasAnatomy2020
 
-### Action
+# Action {#action}
 
 - **Hip joint**: adduction and flexion (up to 70&deg;); extension (past 80&deg; of flexion)
 - **Pelvic Stabilization**: Coronal and Sagittal planes
 
-
-:::
 
 # Overview

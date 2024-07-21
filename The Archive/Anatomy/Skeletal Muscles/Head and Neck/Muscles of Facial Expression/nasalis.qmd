@@ -8,17 +8,17 @@ title: Nasalis muscle
 |------|--------|-------|----------|--------|
 | [Nasalis]({{< var ref-nasalis.path >}}) | {{< var ref-nasalis.origin >}} | {{< var ref-nasalis.insertion >}} | {{< var ref-nasalis.nerve >}} | {{< var ref-nasalis.action >}} |
 
-# Origin
+# Origin {#origin}
 Maxilla (superior region of canine ridge) @gilroyAtlasAnatomy2020
 
-# Insertion
+# Insertion {#insertion}
 Nasal cartilages @gilroyAtlasAnatomy2020
 
-# Innervation
+# Innervation {#innervation}
 
 [Facial Nerve CN VII]({{< var ref-cn7.path >}}) @gilroyAtlasAnatomy2020
 
-# Action
+# Action {#action}
 Flares nostrils by drawing ala (side) of nose toward nasal septum @gilroyAtlasAnatomy2020
 
 # Clinical Significance

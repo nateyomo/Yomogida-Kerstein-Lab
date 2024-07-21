@@ -17,7 +17,7 @@ title: Adductor Hallucis
 
 3rd layer
 
-# Origin
+# Origin {#origin}
 
 - **Oblique head**: 
     - Base of 2-4th metatarsals @gilroyAtlasAnatomy2020
@@ -28,15 +28,15 @@ title: Adductor Hallucis
     - Deep transverse lig. @gilroyAtlasAnatomy2020
 
 
-# Insertion
+# Insertion {#insertion}
 
 Base of prox phalanx of 1st toe
 
-# Innervation
+# Innervation {#innervation}
 
 [Lateral Plantar N. (*deep branch*)]({{< var ref-lateral-plantar-nerve.path >}}) ([S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}})) @gilroyAtlasAnatomy2020
 
-# Action
+# Action {#action}
 
 - **1st MTP**: Flexion @gilroyAtlasAnatomy2020
 - **1st Toe**: Adduction @gilroyAtlasAnatomy2020

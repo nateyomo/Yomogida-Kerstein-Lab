@@ -7,7 +7,7 @@ Bar in line with shoe laces
 Arms straight with lats engaged
 Neutral spine
 
-# Action
+# Action {#action}
 Engage lats and press thru feet
 
 # Key Points

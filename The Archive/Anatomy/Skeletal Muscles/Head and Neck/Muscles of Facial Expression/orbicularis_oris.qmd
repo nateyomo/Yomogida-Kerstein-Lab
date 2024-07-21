@@ -8,17 +8,17 @@ title: Orbicularis Oris muscle
 |------|--------|-------|----------|--------|
 | [Orbicularis Oris]({{< var ref-orbicularis-oris.path >}}) | {{< var ref-orbicularis-oris.origin >}} | {{< var ref-orbicularis-oris.insertion >}} | {{< var ref-orbicularis-oris.nerve >}} | {{< var ref-orbicularis-oris.action >}} |
 
-# Origin
+# Origin {#origin}
 Deep surface of skin; **Superiorly**: maxilla (median plane); **Inferiorly**: mandible @gilroyAtlasAnatomy2020
 
-# Insertion
+# Insertion {#insertion}
 Mucous membrane of lips @gilroyAtlasAnatomy2020
 
-# Innervation
+# Innervation {#innervation}
 
 [Facial Nerve CN VII]({{< var ref-cn7.path >}}) @gilroyAtlasAnatomy2020
 
-# Action
+# Action {#action}
 Acts as oral sphincter: @gilroyAtlasAnatomy2020
 
 - Compresses and protrudes lips (whistling, sucking, kissing) @gilroyAtlasAnatomy2020

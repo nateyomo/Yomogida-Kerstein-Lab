@@ -20,25 +20,21 @@ subtitle: Distal Fibers of Vastus Intermedius
 | [Articularis Genus]({{< var ref-articularis-genus.path >}}) | {{< var ref-articularis-genus.origin >}} | {{< var ref-articularis-genus.insertion >}} | {{< var ref-articularis-genus.nerve >}} | {{< var ref-articularis-genus.action >}} |
 : {.striped .hover}
 
-:::{layout-ncol="2"}
-
-### Origin
+# Origin {#origin}
 Anterior side of femoral shaft at level of the suprapatellar recess @gilroyAtlasAnatomy2020
 
-
-### Insertion
+# Insertion {#insertion}
 Suprapatellar recess of knee joint capsule @gilroyAtlasAnatomy2020
 
-### Nerve
+# Nerve
 
 [Femoral N.]({{< var ref-femoral-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}), [L4]({{< var ref-nerve-root.l4 >}})) @gilroyAtlasAnatomy2020
 
-### Action
+# Action {#action}
 
 - **Knee**: Extension @gilroyAtlasAnatomy2020
 - **Knee Capsule**: Retracts the suprapatellar bursa to prevent entrapment of capsule @gilroyAtlasAnatomy2020
 
-:::
 
 # Notes
     

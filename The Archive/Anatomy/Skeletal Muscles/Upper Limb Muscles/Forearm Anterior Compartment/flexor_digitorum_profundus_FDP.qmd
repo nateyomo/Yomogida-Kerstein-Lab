@@ -10,23 +10,23 @@ title: Flexor Digitorum Profundus (FDP)
 : {.striped .hover}
 
 
-# Origin
+# Origin {#origin}
 
 - Ulna (proximal 2/3 of anteromedial surface) @gilroyAtlasAnatomy2020
 - IO membrane @gilroyAtlasAnatomy2020
 
-# Insertion
+# Insertion {#insertion}
 
 Palmar surface of distal phalanges 2-5 @gilroyAtlasAnatomy2020
 
-# Innervation
+# Innervation {#innervation}
 
 - **Digits 2-3**: [Anterior Interosseous N.]({{< var ref-anterior-interosseous-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})) @gilroyAtlasAnatomy2020
 - **Digits 4-5**: [Ulnar N.]({{< var ref-ulnar-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})) @gilroyAtlasAnatomy2020
 
 
 
-# Action
+# Action {#action}
 
 - **Wrist**: Flexion @gilroyAtlasAnatomy2020
 - **MCP, PIP, DIP 2-5**: Flexion  @gilroyAtlasAnatomy2020

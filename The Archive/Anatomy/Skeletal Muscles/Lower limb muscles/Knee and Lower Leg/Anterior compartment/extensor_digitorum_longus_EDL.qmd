@@ -20,26 +20,20 @@ title: Extensor Digitorum Longus (EHL)
 | [Extensor Digitorum Longus]({{< var ref-extensor-digitorum-longus.path >}}) | {{< var ref-extensor-digitorum-longus.origin >}} | {{< var ref-extensor-digitorum-longus.insertion >}} | {{< var ref-extensor-digitorum-longus.nerve >}} | {{< var ref-extensor-digitorum-longus.action >}} |
 : {.striped .hover}
 
-:::{layout-ncol="2"}
-### Origin
+# Origin {#origin}
 
 - Tibia (lateral condyle) @gilroyAtlasAnatomy2020
 - Fibula (head and medial surface) @gilroyAtlasAnatomy2020
 - IO membrane @gilroyAtlasAnatomy2020
 
-
-
-
-
-### Insertion
+# Insertion {#insertion}
 
 - 2nd to 5th toes (*at the dorsal aponeuroses at the bases of the distal phalanges*) @gilroyAtlasAnatomy2020 
 
-
-### Nerve
+# Nerve
 [Deep Fibular N.]({{< var ref-deep-fibular-nerve.path >}}) ([L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}})) @gilroyAtlasAnatomy2020
 
-### Action
+# Action {#action}
 
 - **TCJ**: DF
 - **STJ**: Eversion

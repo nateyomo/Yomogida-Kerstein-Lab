@@ -8,17 +8,17 @@ title: Posterior Auricular Muscle
 |------|--------|-------|----------|--------|
 | [Posterior Auricular Muscle]({{< var ref-posterior-auricular-muscle.path >}}) | {{< var ref-posterior-auricular-muscle.origin >}} | {{< var ref-posterior-auricular-muscle.insertion >}} | {{< var ref-posterior-auricular-muscle.nerve >}} | {{< var ref-posterior-auricular-muscle.action >}} |
 
-# Origin
+# Origin {#origin}
 Mastoid process @gilroyAtlasAnatomy2020
 
-# Insertion
+# Insertion {#insertion}
 Convexity of concha of ear @gilroyAtlasAnatomy2020
 
-# Innervation
+# Innervation {#innervation}
 
 [Facial Nerve CN VII]({{< var ref-cn7.path >}}) @gilroyAtlasAnatomy2020
 
-# Action
+# Action {#action}
 Pulls ear superiorly and posteriorly @gilroyAtlasAnatomy2020
 
 # Clinical Significance

@@ -18,21 +18,21 @@ title: Obturator Externus
 : {.striped .hover}
 
 
-# Origin
+# Origin {#origin}
 Outer surface of the obturator membrane and its bony boundaries @gilroyAtlasAnatomy2020
 
 
-# Insertion
+# Insertion {#insertion}
 
 Trochanteric fossa of the femur @gilroyAtlasAnatomy2020
 
 
-# Innervation
+# Innervation {#innervation}
 
 [Obturator N.]({{< var ref-obturator-nerve.path >}}) ([L3]({{< var ref-nerve-root.l3 >}}), [L4]({{< var ref-nerve-root.l4 >}})) @gilroyAtlasAnatomy2020
 
 
-# Action
+# Action {#action}
 
 - **Hip**: adduction and external rotation @gilroyAtlasAnatomy2020
 - **Pelvic Stabilization**: Sagittal plane @gilroyAtlasAnatomy2020

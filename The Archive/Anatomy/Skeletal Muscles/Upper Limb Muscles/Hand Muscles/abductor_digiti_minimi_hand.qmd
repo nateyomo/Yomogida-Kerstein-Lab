@@ -12,22 +12,22 @@ title: Abductor Digiti Minimi (ADM)
 
 
 
-# Origin
+# Origin {#origin}
 
 Pisiform @gilroyAtlasAnatomy2020
 
-# Insertion
+# Insertion {#insertion}
 
 - Medial side of base of 5th proximal phalanx @gilroyAtlasAnatomy2020
 - Dorsal digital expansion of 5th digit @gilroyAtlasAnatomy2020
 
 
 
-# Innervation
+# Innervation {#innervation}
 
 [Deep Br. of Ulnar N.]({{< var ref-deep-branch-of-ulnar-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})) @gilroyAtlasAnatomy2020
 
-# Action
+# Action {#action}
 
 - **5th MCP**: Flexion, Abduction @gilroyAtlasAnatomy2020
 - **5th PIP, DIP**: Extension @gilroyAtlasAnatomy2020

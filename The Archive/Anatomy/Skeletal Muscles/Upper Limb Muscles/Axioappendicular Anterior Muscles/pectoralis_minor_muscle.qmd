@@ -16,16 +16,16 @@ title: Pectoralis Minor
 
 : Pectoralis Minor OIAN {.striped .hover}
 
-# Origin
+# Origin {#origin}
 [3rd to 5th ribs]({{< var ref-ribs-bones.path >}}) @gilroyAtlasAnatomy2020
 
-# Insertion
+# Insertion {#insertion}
 [Coracoid process]({{< var ref-scapula-bone.path >}}) @gilroyAtlasAnatomy2020
 
-# Innervation
+# Innervation {#innervation}
 [Medial Pectoral n.]({{< var ref-medial-pectoral-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})) @gilroyAtlasAnatomy2020
 
-# Action
+# Action {#action}
 
 - Scapulothoracic: Depression, protraction, downward rotation @gilroyAtlasAnatomy2020
 - Assists in respiration @gilroyAtlasAnatomy2020 

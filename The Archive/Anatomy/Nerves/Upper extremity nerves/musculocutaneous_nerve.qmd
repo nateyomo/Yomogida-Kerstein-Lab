@@ -8,7 +8,7 @@ The musculocutaneous nerve (Fig. 3-10) is the terminal branch of the lateral cor
 
 # Anatomy
 
-## Origin
+# Origin {#origin}
 The [musculocutaneous nerve]({{< var ref-musculocutaneous-nerve.path >}}) arises from the terminal branch of the [lateral cord]({{< var ref-brachial-plexus.lateral-cord >}}) which comes from anterior divisions of the [Superior trunk]({{< var ref-brachial-plexus.superior-trunk >}}) and [middle trunk]({{< var ref-brachial-plexus.middle-trunk >}}) and thus is supplied by nerve roots {{< var ref-musculocutaneous-nerve.roots >}} @duttonDuttonOrthopaedicExamination2020.
 
 ![Musculocutaneous nerve @duttonDuttonOrthopaedicExamination2020](/The Archive/Anatomy/Nerves/Upper extremity nerves/images/Dutton fig3.10 The musculocutaneous (C5–6) nerve.png)
@@ -21,7 +21,7 @@ After emerging between the biceps and brachioradialis (2-5cm above the elbow), t
 
 ![Musculocutaneous and Axillary Nerves @duttonDuttonOrthopaedicExamination2020](/The Archive/Anatomy/Nerves/Upper extremity nerves/images/Dutton fig3.11 Musculocutaneous and axillary nerves.png)
 
-# Innervation
+# Innervation {#innervation}
 ## Motor innervation
 
 | Muscle  | Origin | Insertion | Nerve | Action |

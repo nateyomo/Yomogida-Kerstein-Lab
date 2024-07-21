@@ -7,7 +7,7 @@ title: Suprascapular nerve
 
 # Anatomy
 
-## Origin
+# Origin {#origin}
 The [suprascapular nerve]({{< var ref-suprascapular-nerve.path >}}) originates from nerve roots {{< var ref-suprascapular-nerve.roots >}} via the [Superior Trunk]({{< var ref-brachial-plexus.superior-trunk >}}) at Erb’s point @duttonDuttonOrthopaedicExamination2020.
 
 ## Path

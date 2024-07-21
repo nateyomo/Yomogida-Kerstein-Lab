@@ -17,7 +17,7 @@ title: Overhead Squat (OH Squat)
 
 
 
-# Action
+# Action {#action}
 
 - Squat as if you're sitting down
 - Then Return to start position

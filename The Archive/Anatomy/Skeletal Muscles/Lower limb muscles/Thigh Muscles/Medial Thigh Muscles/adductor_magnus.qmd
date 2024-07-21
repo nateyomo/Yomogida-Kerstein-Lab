@@ -20,42 +20,29 @@ title: Adductor Magnus
 | [Adductor Magnus]({{< var ref-adductor-magnus.path >}}) | {{< var ref-adductor-magnus.origin >}} | {{< var ref-adductor-magnus.insertion >}} | {{< var ref-adductor-magnus.nerve >}} | {{< var ref-adductor-magnus.action >}} |
 : {.striped .hover}
 
-:::{layout-ncol="4"}
-
-### Origin
+# Origin {#origin}
 
 - Inferior pubic ramus and Ischial ramus @gilroyAtlasAnatomy2020
     - My professor referred to the inferior pubic ramus and ischial ramus as the origin for the adductor aspect of the adductor magnus
 - Ischial tuberosity @gilroyAtlasAnatomy2020
     - My professors referred to the ischial tuberosity as the hamstring portion
 
-### Insertion
+# Insertion {#insertion}
 
 - **Deep part (“fleshy insertion”)**: medial lip of the linea aspera @gilroyAtlasAnatomy2020
 - **Superficial part (“tendinous insertion”)**: Adductor tubercle of the femur @gilroyAtlasAnatomy2020
 
-
-
-### Innervation
+# Innervation {#innervation}
 
 - **Deep (Adductor) Part**: [Obturator N.]({{< var ref-obturator-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}), [L4]({{< var ref-nerve-root.l4 >}})) @gilroyAtlasAnatomy2020
 - **Superficial (Hamstring) Part**: [Tibial N.]({{< var ref-tibial-nerve.path >}}) ([L4]({{< var ref-nerve-root.l4 >}})) @gilroyAtlasAnatomy2020
 
-
-
-
-
-### Action
+# Action {#action}
 
 - **Hip**: Adduction, Extension, and slight flexion (the tendinous insertion is also active in internal rotation) @gilroyAtlasAnatomy2020
 - **Pelvic Stabilization**: Coronal and Sagittal planes @gilroyAtlasAnatomy2020
 
 
-
-
-
-
-:::
 
 # Anatomy
 

@@ -37,7 +37,7 @@ Coracoacromial ligament makes up the roof of the GHJ
 
 
 
-# Innervation
+# Innervation {#innervation}
 
 [Suprascapular nerve]({{< var ref-suprascapular-nerve.path >}}) provides sensory and sympathetic afferent fibers to the ACJ @duttonDuttonOrthopaedicExamination2020 
 

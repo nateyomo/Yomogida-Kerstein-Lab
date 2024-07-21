@@ -16,46 +16,46 @@ title: Semispinalis Muscle
 : Semispinalis Muscle OIAN {.striped .hover}
 
 # Semispinalis Capitis OIAN
-## Origin
+## Origin {#origin}
 C4-T7 (TP and Articular process) @gilroyAtlasAnatomy2020
 
-## Insertion 
+## Insertion {#insertion} 
 Occipital bone (between superior and inferior nuchal lines) @gilroyAtlasAnatomy2020
 
-## Innervation
+## Innervation {#innervation}
 [Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}}) @gilroyAtlasAnatomy2020
 
-## Action
+## Action {#action}
 
 - **BIL**: Extends thoracic and cervical spines and head (stabilizes craniovertebral jt) @gilroyAtlasAnatomy2020
 - **UNIL**: I/L SB of head, cervical, and thoracic spine; C/L Rotation @gilroyAtlasAnatomy2020
 
 # Semispinalis Cervicis OIAN
-## Origin
+## Origin {#origin}
 T1-T6 (TP) @gilroyAtlasAnatomy2020
 
-## Insertion 
+## Insertion {#insertion} 
 C2-C5 (SP) @gilroyAtlasAnatomy2020
 
-## Innervation
+## Innervation {#innervation}
 [Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}}) @gilroyAtlasAnatomy2020
 
-## Action
+## Action {#action}
 
 - **BIL**: Extends thoracic and cervical spines and head (stabilizes craniovertebral jt) @gilroyAtlasAnatomy2020
 - **UNIL**: I/L SB of head, cervical, and thoracic spine; C/L Rotation @gilroyAtlasAnatomy2020
 
 # Semispinalis Thoracis OIAN
-## Origin
+## Origin {#origin}
 T6-T12 (TP) @gilroyAtlasAnatomy2020
 
-## Insertion 
+## Insertion {#insertion} 
 C6-T4 (SP) @gilroyAtlasAnatomy2020
 
-## Innervation
+## Innervation {#innervation}
 [Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}}) @gilroyAtlasAnatomy2020
 
-## Action
+## Action {#action}
 
 - **BIL**: Extends thoracic and cervical spines and head (stabilizes craniovertebral jt) @gilroyAtlasAnatomy2020
 - **UNIL**: I/L SB of head, cervical, and thoracic spine; C/L Rotation @gilroyAtlasAnatomy2020

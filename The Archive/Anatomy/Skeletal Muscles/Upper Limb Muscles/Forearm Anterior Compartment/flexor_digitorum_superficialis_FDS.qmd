@@ -10,22 +10,22 @@ title: Flexor Digitorum Superficialis (FDS)
 : {.striped .hover}
 
 
-# Origin
+# Origin {#origin}
 
 - **Humeral-ulnar head**: Medial epicondyle of humerus, Coronoid process of Ulna @gilroyAtlasAnatomy2020
 - **Radial head**: Proximal half of anterior border of radius @gilroyAtlasAnatomy2020
 
 
 
-# Insertion
+# Insertion {#insertion}
 
 Sides of Middle Phalanges of digit 2-5 @gilroyAtlasAnatomy2020
 
-# Innervation
+# Innervation {#innervation}
 
 [Median N.]({{< var ref-median-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})) @gilroyAtlasAnatomy2020
 
-# Action
+# Action {#action}
 
 - **Elbow**: Weak Flexion @gilroyAtlasAnatomy2020
 - **Wrist**: Flexion @gilroyAtlasAnatomy2020

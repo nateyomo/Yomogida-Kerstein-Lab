@@ -13,17 +13,17 @@ It functions as one of the muscles of facial expression and can restrain head ex
 |------|--------|-------|----------|--------|
 | [Platysma muscle]({{< var ref-platysma.path >}}) | {{< var ref-platysma.origin >}} | {{< var ref-platysma.insertion >}} | {{< var ref-platysma.nerve >}} | {{< var ref-platysma.action >}} |
 
-# Origin
+# Origin {#origin}
 Skin over lower neck and upper lateral thorax @gilroyAtlasAnatomy2020
 
-# Insertion
+# Insertion {#insertion}
 [Mandible (inf border)]({{< var ref-mandible-bone.path >}}), Skin over lower face, Angle of mouth @gilroyAtlasAnatomy2020
 
-# Innervation
+# Innervation {#innervation}
 
 [Facial Nerve CN VII]({{< var ref-cn7.path >}}) @gilroyAtlasAnatomy2020
 
-# Action
+# Action {#action}
 Depresses and wrinkles skin of lower face and mouth; Tenses skin of neck; Aids in forced depression of the mandible @gilroyAtlasAnatomy2020
 
 # Clinical Significance

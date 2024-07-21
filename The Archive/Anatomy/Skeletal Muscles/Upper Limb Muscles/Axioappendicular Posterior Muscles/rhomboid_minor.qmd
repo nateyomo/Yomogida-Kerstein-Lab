@@ -11,19 +11,19 @@ title: Rhomboid Minor
 
 
 
-# Origin
+# Origin {#origin}
 
 SP of C6 & C7 @gilroyAtlasAnatomy2020
 
-# Insertion
+# Insertion {#insertion}
 
 Medial border of scapula (*above scapular spine*) @gilroyAtlasAnatomy2020
 
-# Innervation
+# Innervation {#innervation}
 
 [Dorsal Scapular N.]({{< var ref-dorsal-scapular-nerve.path >}}) ([C4]({{< var ref-nerve-root.c4 >}}), [C5]({{< var ref-nerve-root.c5 >}})) @gilroyAtlasAnatomy2020
 
-# Action
+# Action {#action}
 
 **STJ**: Retraction, Downward rotation, Stabilization @gilroyAtlasAnatomy2020
 

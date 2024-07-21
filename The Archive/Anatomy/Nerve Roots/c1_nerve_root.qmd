@@ -6,7 +6,7 @@ title: C1 Nerve Root
 
 C1 lacks a dorsal root @brazisLocalizationClinicalNeurology2022
 
-# Innervation
+# Innervation {#innervation}
 
 This root supplies muscles that provide multiple functions:
 

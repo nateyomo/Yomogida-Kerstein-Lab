@@ -23,31 +23,31 @@ title: Deltoid muscle
 
 # Anterior head
 :::{layout-ncol="2"}
-### Origin
+### Origin {#origin}
 Lateral 1/3 of clavicle @gilroyAtlasAnatomy2020
 
 ### Insertion
 Humerus (deltoid tuberosity) @gilroyAtlasAnatomy2020
 
-### Innervation
+### Innervation {#innervation}
 [Axillary n. {{< var ref-axillary-nerve.roots >}}]({{< var ref-axillary-nerve.path >}}) @gilroyAtlasAnatomy2020
 
-### Action
+### Action {#action}
 Flexion, internal rotation, adduction @gilroyAtlasAnatomy2020
 :::
 
 # Lateral part
 :::{layout-ncol="2"}
-### Origin
+### Origin {#origin}
 Acromion @gilroyAtlasAnatomy2020
 
 ### Insertion
 Humerus (deltoid tuberosity) @gilroyAtlasAnatomy2020
 
-### Innervation
+### Innervation {#innervation}
 [Axillary n. {{< var ref-axillary-nerve.roots >}}]({{< var ref-axillary-nerve.path >}}) @gilroyAtlasAnatomy2020
 
-### Action
+### Action {#action}
 Abduction @gilroyAtlasAnatomy2020
 :::
 
@@ -56,15 +56,15 @@ Abduction @gilroyAtlasAnatomy2020
 :::
 
 # Posterior part
-### Origin
+### Origin {#origin}
 Scapular spine @gilroyAtlasAnatomy2020
 ### Insertion
 Humerus (deltoid tuberosity) @gilroyAtlasAnatomy2020
 
-### Innervation
+### Innervation {#innervation}
 [Axillary n. {{< var ref-axillary-nerve.roots >}}]({{< var ref-axillary-nerve.path >}}) @gilroyAtlasAnatomy2020
 
-### Action
+### Action {#action}
 Extension, external rotation, adduction @gilroyAtlasAnatomy2020
 
 :::{.callout-note}

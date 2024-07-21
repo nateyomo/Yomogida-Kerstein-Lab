@@ -18,7 +18,7 @@ title: Proximal Tibiofibular Joint
 
 "Both the tibia and the fibula are vulnerable to fracture at the lower third of their shaft. Anterior joint subluxations occur at this joint as a result of medial knee joint strain or an inversion sprain of the ankle. Posterior joint subluxation can occur as a result of a lateral knee joint strain, but this is often missed because of the more serious ligament damage to the knee." @duttonDuttonOrthopaedicExamination2020
 
-# Innervation
+# Innervation {#innervation}
 
 "The nerve supply to this joint is provided by the common fibular (peroneal) and recurrent articular nerves. The joint receives its blood supply from a perforating branch of the fibular (peroneal) artery and the anterior tibial artery." @duttonDuttonOrthopaedicExamination2020
 

@@ -20,31 +20,25 @@ title: Tibialis Anterior Muscle
 | [Tibialis Anterior]({{< var ref-tibialis-anterior.path >}}) | {{< var ref-tibialis-anterior.origin >}} | {{< var ref-tibialis-anterior.insertion >}} | {{< var ref-tibialis-anterior.nerve >}} | {{< var ref-tibialis-anterior.action >}} |
 : {.striped .hover}
 
-:::{layout-ncol="2"}
-### Origin
+# Origin {#origin}
 
 - Tibia (upper 2/3 of the lateral surface) @gilroyAtlasAnatomy2020
 - Interosseous membrane @gilroyAtlasAnatomy2020
 - Superficial crural fascia (highest part) @gilroyAtlasAnatomy2020
 
-### Insertion
+# Insertion {#insertion}
 
 - Medial cuneiform (medial and plantar surface) @gilroyAtlasAnatomy2020
 - 1st metatarsal (medial base) @gilroyAtlasAnatomy2020
 
-
-
-### Nerve
+# Nerve
 [Deep Fibular N.]({{< var ref-deep-fibular-nerve.path >}}) ([L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}})) @gilroyAtlasAnatomy2020
 
-### Action
+# Action {#action}
 
 - **Talocrural joint**: Dorsiflexion
 - **Subtalar joint**: inversion (supination)
 
-
-
-:::
 
 # Observation
 

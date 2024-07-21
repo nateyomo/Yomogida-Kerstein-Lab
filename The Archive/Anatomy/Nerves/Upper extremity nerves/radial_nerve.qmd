@@ -3,7 +3,7 @@ title: Radial Nerve
 ---
 
 
-# Origin
+# Origin {#origin}
 
 Nerve roots: C5-T1 @gilroyAtlasAnatomy2020
 

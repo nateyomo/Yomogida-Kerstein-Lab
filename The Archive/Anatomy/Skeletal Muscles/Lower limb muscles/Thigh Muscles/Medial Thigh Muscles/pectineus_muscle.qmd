@@ -17,26 +17,22 @@ title: Pectineus Muscle
 | [Pectineus]({{< var ref-pectineus.path >}}) | {{< var ref-pectineus.origin >}} | {{< var ref-pectineus.insertion >}} | {{< var ref-pectineus.nerve >}} | {{< var ref-pectineus.action >}} |
 : {.striped .hover}
 
-:::{layout-ncol="2"}
-
-### Origin
+# Origin {#origin}
 
 Pecten Pubis @gilroyAtlasAnatomy2020 
 
-### Insertion
+# Insertion {#insertion}
 Femur (pectineal line and proximal linea aspera) @gilroyAtlasAnatomy2020
 
-### Innervation
+# Innervation {#innervation}
 
 - [Femoral N.]({{< var ref-femoral-nerve.path >}}), ref-obturator-nerve ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}})) @gilroyAtlasAnatomy2020 
 
-### Action
+# Action {#action}
 
 - **Hip joint**: ER, ADD, slight flex
 - **Pelvis**: Stabilization in coronal and sagittal plane
 
 
-
-:::
 
 # Overview

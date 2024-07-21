@@ -12,16 +12,16 @@ title: Longus capitis
 
 : Longus capitis OIAN {.striped .hover}
 
-## Origin
+## Origin {#origin}
 C3-C6 (TP, ant tubercles) @gilroyAtlasAnatomy2020
 
-## Insertion
+## Insertion {#insertion}
 Occipital bone (basilar part) @gilroyAtlasAnatomy2020
 
-## Innervation
+## Innervation {#innervation}
 Direct branches from cervical plexus (C1-C3) @gilroyAtlasAnatomy2020
 
-## Action
+## Action {#action}
 
 - **Bilateral**: Flexes head
 - **Unilateral**: Flexes and slight I/L rotation

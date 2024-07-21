@@ -12,22 +12,22 @@ title: Levator Scapulae
 
 
 
-# Origin
+# Origin {#origin}
 
 TP C1-C4 @gilroyAtlasAnatomy2020
 
-# Insertion
+# Insertion {#insertion}
 
 Superior angle of the scapula @gilroyAtlasAnatomy2020
 
-# Innervation
+# Innervation {#innervation}
 
 - [Dorsal Scapular N.]({{< var ref-dorsal-scapular-nerve.path >}}) @gilroyAtlasAnatomy2020
 - Cervical Spinal nn. @gilroyAtlasAnatomy2020
 - ([C4]({{< var ref-nerve-root.c4 >}}), [C5]({{< var ref-nerve-root.c5 >}})) @gilroyAtlasAnatomy2020
 
 
-# Action
+# Action {#action}
 
 - **STJ**: Elevates and downwardly rotates scapula @gilroyAtlasAnatomy2020
 - **C/S**: Extends and I/L lateral flexion @gilroyAtlasAnatomy2020

@@ -25,7 +25,7 @@ Specifically, the CNXI's fibers emerge from the lateral medulla below the roots 
 
 "The cranial and spinal roots unite and exit from the skull through the jugular foramen. The cranial portion then branches off as the internal ramus and joins the vagus nerve to supply the pharynx and larynx. The external ramus enters the neck between the internal carotid artery and the internal jugular vein. It then penetrates and supplies the sternocleidomastoid muscle and emerges near the middle of the posterior border of the muscle. The ramus then crosses the posterior cervical triangle to supply the trapezius muscle. In its course the nerve receives branches from the second, third, and fourth cervical nerves. The innervation of the sternocleidomastoid muscle may be more complex than is usually quoted. For example, there was residual sternocleidomastoid movement in 9 out of 15 cases where a division of the spinal components of the accessory nerve and the upper cervical motor roots was made as treatment for spasmodic torticollis [29]. It is postulated that this residual innervation was likely of vagal origin." @brazisLocalizationClinicalNeurology2022
 
-# Innervation
+# Innervation {#innervation}
 
 - C1 & C2 levels predominantly innervate the ipsilateral SCM muscle @brazisLocalizationClinicalNeurology2022.
 - C3 & C4 levels primarily innervate the ipsilateral trapezius muscle @brazisLocalizationClinicalNeurology2022.
@@ -59,7 +59,7 @@ DeToledo and David noted the following @brazisLocalizationClinicalNeurology2022:
 
 
 
-# Innervation
+# Innervation {#innervation}
 
 ## Motor
 

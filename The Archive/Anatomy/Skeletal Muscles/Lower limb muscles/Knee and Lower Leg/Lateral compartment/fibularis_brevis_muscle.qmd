@@ -16,16 +16,16 @@ title: Fibularis Brevis Muscle
 : {.striped .hover}
 
 
-# Origin
+# Origin {#origin}
 Middle lateral surface of fibula @gilroyAtlasAnatomy2020
 
-# Insertion
+# Insertion {#insertion}
 5th metatarsal base @gilroyAtlasAnatomy2020
 
-# Innervation
+# Innervation {#innervation}
 [Superficial Fibular N.]({{< var ref-superficial-fibular-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}})) @gilroyAtlasAnatomy2020
 
-# Action
+# Action {#action}
 
 - **TCJ**: PF @gilroyAtlasAnatomy2020
 - **STJ**: Eversion @gilroyAtlasAnatomy2020 

@@ -16,13 +16,13 @@ title: Abductor Digiti Minimi
 : {.striped .hover}
 
 
-# Origin
+# Origin {#origin}
 
 - Medial tubercle of calcaneal tuberosity @gilroyAtlasAnatomy2020 
 - Plantar aponeurosis @gilroyAtlasAnatomy2020
 
 
-# Insertion
+# Insertion {#insertion}
 
 - 5th toe (Base of proximal phalanx) @gilroyAtlasAnatomy2020 
 - 5th metatarsal at tuberosity @gilroyAtlasAnatomy2020
@@ -30,11 +30,11 @@ title: Abductor Digiti Minimi
 
 
 
-# Innervation
+# Innervation {#innervation}
 
 [Lateral Plantar N.]({{< var ref-lateral-plantar-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}})) @gilroyAtlasAnatomy2020
 
-# Action
+# Action {#action}
 
 - **5th MTP**: Flexion, ABD @gilroyAtlasAnatomy2020
 - **Longitudinal Arch**: Support @gilroyAtlasAnatomy2020

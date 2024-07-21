@@ -25,7 +25,7 @@ title: Fibularis Tertius
 
 
 
-# Origin
+# Origin {#origin}
 
 :::{layout-ncol="3"}
 ![Fibularis Tertius Origin from distal half of the fibula @olewnikFibularisTertiusAnatomical2019](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Anterior compartment/images/olewnik2019 fig1a FT origin.png)
@@ -42,7 +42,7 @@ The other 11% of legs have an absent FT muscle belly, thus the tendon originates
 Olewnik's study was performed on Caucasian cadavers from a Polish population, thus may not be generalizable to other populations @olewnikFibularisTertiusAnatomical2019
 :::
 
-# Insertion
+# Insertion {#insertion}
 
 ## Muscular Insetion
 
@@ -68,11 +68,11 @@ Olewnik's study was performed on Caucasian cadavers from a Polish population, th
 
 - Middle shaft or base of 5th MT @olewnikFibularisTertiusAnatomical2019
 
-# Innervation
+# Innervation {#innervation}
 
 [Deep Fibular N.]({{< var ref-deep-fibular-nerve.path >}}) ([L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}})) @gilroyAtlasAnatomy2020
 
-# Action
+# Action {#action}
 
 - **TCJ**: DF @gilroyAtlasAnatomy2020
 - **STJ**: Eversion @gilroyAtlasAnatomy2020

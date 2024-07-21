@@ -40,7 +40,7 @@ The quadriceps tendon represents the convergence of all four muscles tendon unit
 
 The quadricep tendon inserts into the anterior aspect of the superior pole of the patella @duttonDuttonOrthopaedicExamination2020.
 
-# Innervation
+# Innervation {#innervation}
 
 the [femoral nerve]({{< var ref-femoral-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}), [L4]({{< var ref-nerve-root.l4 >}})) innervates the quadriceps femoris muscles@duttonDuttonOrthopaedicExamination2020.
 The quadriceps muscles can act to extend the knee when the foot is off the ground, although more commonly, they work as decelerators, preventing the knee from buckling when the foot strikes the ground.14"

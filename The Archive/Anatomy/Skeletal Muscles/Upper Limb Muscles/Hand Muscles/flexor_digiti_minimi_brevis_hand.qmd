@@ -12,7 +12,7 @@ title: Flexor Digiti Minimi Brevis
 
 
 
-# Origin
+# Origin {#origin}
 
 - Hook of hamate @gilroyAtlasAnatomy2020
 - Flexor retinaculum @gilroyAtlasAnatomy2020 
@@ -20,16 +20,16 @@ title: Flexor Digiti Minimi Brevis
  
 
 
-# Insertion
+# Insertion {#insertion}
 Medial side of base of 5th proximal phalanx @gilroyAtlasAnatomy2020
 
 
 
-# Innervation
+# Innervation {#innervation}
 
 [Deep Br. of Ulnar N.]({{< var ref-deep-branch-of-ulnar-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})) @gilroyAtlasAnatomy2020
 
-# Action
+# Action {#action}
 
 **5th MCP**: Flexion @gilroyAtlasAnatomy2020
 

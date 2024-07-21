@@ -12,19 +12,19 @@ title: Rhomboid Major
 
 
 
-# Origin
+# Origin {#origin}
 
 SP T1–T4 @gilroyAtlasAnatomy2020
 
-# Insertion
+# Insertion {#insertion}
 
 Medial border of scapula (*below scapular spine*) @gilroyAtlasAnatomy2020
 
-# Innervation
+# Innervation {#innervation}
 
 [Dorsal Scapular N.]({{< var ref-dorsal-scapular-nerve.path >}}) ([C4]({{< var ref-nerve-root.c4 >}}), [C5]({{< var ref-nerve-root.c5 >}})) @gilroyAtlasAnatomy2020
 
-# Action
+# Action {#action}
 
 **STJ**: Retraction, Downward rotation, Stabilization @gilroyAtlasAnatomy2020 
 

@@ -9,26 +9,23 @@ title: Psoas Major Muscle
 | [Psoas Major]({{< var ref-psoas-major.path >}}) | {{< var ref-psoas-major.origin >}} | {{< var ref-psoas-major.insertion >}} | {{< var ref-psoas-major.nerve >}} | {{< var ref-psoas-major.action >}} |
 : {.striped .hover}
 
-:::{layout-ncol="2"}
-
-### Origin
+# Origin {#origin}
 
 - Superficial: T12–L4 and associated intervertebral disks (lateral surfaces) @gilroyAtlasAnatomy2020 
 - Deep: L1–L5 vertebrae (TPs @bogdukAnatomyBiomechanicsPsoas1992)
 - The Psoas Major has fibrous attachments from the anterior TP of the lumbar spine as well as the anteromedial aspect of the lumbar IVD, except for L5/S1 disc @bogdukAnatomyBiomechanicsPsoas1992 
 
-### Insertion
+# Insertion {#insertion}
 Femur (lesser trochanter) @gilroyAtlasAnatomy2020
 
-### Innervation
+# Innervation {#innervation}
 Lumbar plexus Direct Br. ([L1]({{< var ref-nerve-root.l1 >}}), [L2]({{< var ref-nerve-root.l2 >}}), [**L3**]({{< var ref-nerve-root.l3 >}})) @gilroyAtlasAnatomy2020
 
-### Action
+# Action {#action}
 **Hip joint**: flexion and external rotation @gilroyAtlasAnatomy2020
 **Lumbar spine**: unilateral contraction (with the femur fixed) flexes the trunk laterally to the same side; bilateral contraction raises the trunk from the supine position @gilroyAtlasAnatomy2020
 
 
 
-:::
 
 # Overview

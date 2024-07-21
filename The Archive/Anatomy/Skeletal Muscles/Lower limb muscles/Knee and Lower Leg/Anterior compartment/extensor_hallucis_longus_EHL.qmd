@@ -20,36 +20,24 @@ title: Extensor Hallucis Longus (EHL)
 | [Extensor Hallucis Longus]({{< var ref-extensor-hallucis-longus.path >}}) | {{< var ref-extensor-hallucis-longus.origin >}} | {{< var ref-extensor-hallucis-longus.insertion >}} | {{< var ref-extensor-hallucis-longus.nerve >}} | {{< var ref-extensor-hallucis-longus.action >}} |
 : {.striped .hover}
 
-:::{layout-ncol="2"}
-### Origin
+# Origin {#origin}
 
 - Fibula (middle third of the medial surface) @gilroyAtlasAnatomy2020
 - IO membrane @gilroyAtlasAnatomy2020
 
-
-
-### Insertion
+# Insertion {#insertion}
 
 - 1st toe (*at the dorsal aponeurosis at the base of its distal phalanx*) @gilroyAtlasAnatomy2020 
 
-
-
-
-
-### Nerve
+# Nerve
 [Deep Fibular N.]({{< var ref-deep-fibular-nerve.path >}}) ([L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}})) @gilroyAtlasAnatomy2020
 
-### Action
+# Action {#action}
 
 - **TCJ**: DF @gilroyAtlasAnatomy2020
 - **STJ**: INV or EV (*depending on initial position of foot*) @gilroyAtlasAnatomy2020 
 - **1st toe MTP and IP**: Extension @gilroyAtlasAnatomy2020
 
-
-
-
-
-:::
 
 # MMT
 

@@ -8,17 +8,17 @@ title: Temporalis muscle
 |------|--------|-------|----------|--------|
 | [Temporalis muscle]({{< var ref-temporalis.path >}}) | {{< var ref-temporalis.origin >}} | {{< var ref-temporalis.insertion >}} | {{< var ref-temporalis.nerve >}} | {{< var ref-temporalis.action >}} |
 
-# Origin
+# Origin {#origin}
 Temporal fossa (inferior temporal line) @gilroyAtlasAnatomy2020
 
-# Insertion
+# Insertion {#insertion}
 Coronoid process of mandible (apex and medial surface) @gilroyAtlasAnatomy2020
 
-# Innervation
+# Innervation {#innervation}
 
 [Mandibular (V~3~) divison of CN V via deep temporal nn]({{< var ref-cn5.path >}}) @gilroyAtlasAnatomy2020
 
-# Action
+# Action {#action}
 **Vertical fibers**: Elevate mandible; **Horizontal Fibers**: Retract (retrude) mandible; **Unilateral Fibers:** Lateral movement of mandible (chewing)  @gilroyAtlasAnatomy2020
 
 

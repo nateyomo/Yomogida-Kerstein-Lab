@@ -16,44 +16,44 @@ title: Longissimus Muscle
 : Longissimus OIAN {.striped .hover}
 
 # Longissimus Capitis
-## Origin
+## Origin {#origin}
 T1-T3 (TP), C4-C7 (TP & articular process) @gilroyAtlasAnatomy2020
 
-## Insertion 
+## Insertion {#insertion} 
 Temporal bone (Mastoid process)
 
-## Innervation
+## Innervation {#innervation}
 [Spinal nn. C1-L5 (Posterior Rami, lateral branches)]({{< var ref-spinal-nerves.path >}}) @gilroyAtlasAnatomy2020
 
-## Action
+## Action {#action}
 
 - BIL: Extends head @gilroyAtlasAnatomy2020
 - UNIL: Flexes and I/L rotation @gilroyAtlasAnatomy2020
 
 # Longissimus Cervicis
-## Origin
+## Origin {#origin}
 T1-T6 (TP) @gilroyAtlasAnatomy2020
 
-## Insertion 
+## Insertion {#insertion} 
 C2-C5 (TP) @gilroyAtlasAnatomy2020
 
-## Innervation
+## Innervation {#innervation}
 [Spinal nn. C1-L5 (Posterior Rami, lateral branches)]({{< var ref-spinal-nerves.path >}}) @gilroyAtlasAnatomy2020
 
-## Action
+## Action {#action}
 - BIL: Extends spine @gilroyAtlasAnatomy2020
 - UNIL: I/L SB @gilroyAtlasAnatomy2020
 
 # Longissimus Thoracis
-## Origin
+## Origin {#origin}
 Sacrum; Iliac crest; Lumbar vertebrae (SP); Lower thoracic vertebrae (TP) @gilroyAtlasAnatomy2020
 
-## Insertion 
+## Insertion {#insertion} 
 2nd-12th ribs; Thoracic & Lumbar vertebrae (TP) @gilroyAtlasAnatomy2020
 
-## Innervation
+## Innervation {#innervation}
 [Spinal nn. C1-L5 (Posterior Rami, lateral branches)]({{< var ref-spinal-nerves.path >}}) @gilroyAtlasAnatomy2020
 
-## Action
+## Action {#action}
 - BIL: Extends spine @gilroyAtlasAnatomy2020
 - UNIL: I/L SB @gilroyAtlasAnatomy2020

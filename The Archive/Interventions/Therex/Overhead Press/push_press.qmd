@@ -10,7 +10,7 @@ title: Push Press (Exercise)
 - Grip slightly wider than shoulder width
 - Elbows slightly in front
 
-# Action
+# Action {#action}
 
 - Dip knees and hips
 - Extend hips/knees and press bar OH and return

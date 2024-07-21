@@ -17,43 +17,43 @@ title: Iliocostalis
 
 
 # Iliocostalis Cervicis
-## Origin
+## Origin {#origin}
 3rd-7th ribs @gilroyAtlasAnatomy2020
 
-## Insertion 
+## Insertion {#insertion} 
 C4-C6 TP @gilroyAtlasAnatomy2020
 
-## Innervation
+## Innervation {#innervation}
 [Spinal nn.]({{< var ref-spinal-nerves.path >}}) C8-L1 (Post rami, lateral branches) @gilroyAtlasAnatomy2020
 
-## Action
+## Action {#action}
 
 
 # Iliocostalis Thoracis
-## Origin 
+## Origin {#origin} 
 7-12th ribs @gilroyAtlasAnatomy2020
 
-## Insertion 
+## Insertion {#insertion} 
 1st-6th ribs @gilroyAtlasAnatomy2020
 
-## Innervation
+## Innervation {#innervation}
 [Spinal nn.]({{< var ref-spinal-nerves.path >}}) C8-L1 (Post rami, lateral branches) @gilroyAtlasAnatomy2020
 
-## Action
+## Action {#action}
 
 # Iliocostalis Lumborum
-## Origin
+## Origin {#origin}
 
 Sacrum, iliac crest, lumbar vertebrae SP; lower thoracic vertebrae TP @gilroyAtlasAnatomy2020
 
-## Insertion
+## Insertion {#insertion}
 
 6-12th ribs, thoracolumbar fascia (posterior layer), upper lumbar vertebrae (TP) @gilroyAtlasAnatomy2020
 
-## Innervation
+## Innervation {#innervation}
 [Spinal nn.]({{< var ref-spinal-nerves.path >}}) C8-L1 (Post rami, lateral branches) @gilroyAtlasAnatomy2020
 
-## Action
+## Action {#action}
 
 - **Bilateral:** Extends spine @gilroyAtlasAnatomy2020
 - **Unilateral:** I/L spine lat-flexion @gilroyAtlasAnatomy2020

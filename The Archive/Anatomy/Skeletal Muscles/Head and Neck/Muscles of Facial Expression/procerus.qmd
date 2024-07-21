@@ -8,17 +8,17 @@ title: Procerus muscle
 |------|--------|-------|----------|--------|
 | [Procerus]({{< var ref-procerus.path >}}) | {{< var ref-procerus.origin >}} | {{< var ref-procerus.insertion >}} | {{< var ref-procerus.nerve >}} | {{< var ref-procerus.action >}} |
 
-# Origin
+# Origin {#origin}
 Nasal bone, Lateral nasal cartilage (upper part) @gilroyAtlasAnatomy2020
 
-# Insertion
+# Insertion {#insertion}
 Skin of lower forehead between eyebrows @gilroyAtlasAnatomy2020
 
-# Innervation
+# Innervation {#innervation}
 
 [Facial Nerve CN VII]({{< var ref-cn7.path >}}) @gilroyAtlasAnatomy2020
 
-# Action
+# Action {#action}
 Pulls medial angle of eyebrows inferiorly, producing transverse wrinkles over bridge of nose @gilroyAtlasAnatomy2020
 
 # Clinical Significance

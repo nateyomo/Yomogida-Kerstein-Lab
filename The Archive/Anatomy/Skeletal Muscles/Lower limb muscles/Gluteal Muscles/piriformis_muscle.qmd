@@ -9,26 +9,22 @@ title: Piriformis Muscle
 | [Piriformis]({{< var ref-piriformis.path >}}) | {{< var ref-piriformis.origin >}} | {{< var ref-piriformis.insertion >}} | {{< var ref-piriformis.nerve >}} | {{< var ref-piriformis.action >}} |
 : {.hover .striped}
 
-:::{layout-ncol="4"}
-
-### Origin
+# Origin {#origin}
 Anterior surface of sacrum
 
-### Insertion
+# Insertion {#insertion}
 
 Apex of the greater trochanter of the femur
 
-### Innervation
+# Innervation {#innervation}
 
 Direct branches from sacral plexus [S1]({{< var ref-nerve-root.s1 >}}) and [S2]({{< var ref-nerve-root.s2 >}})
 
-### Action
+# Action {#action}
 
 - Hip: External rotation, abduction, and extension of the hip joint
 - Stabilizes the hip joint
 
-
-:::
 
 # Overview
 

@@ -17,27 +17,23 @@ title: Gracilis
 | [Gracilis]({{< var ref-gracilis.path >}}) | {{< var ref-gracilis.origin >}} | {{< var ref-gracilis.insertion >}} | {{< var ref-gracilis.nerve >}} | {{< var ref-gracilis.action >}} |
 : {.striped .hover}
 
-:::{layout-ncol="4"}
-
-### Origin
+# Origin {#origin}
 
 - Inferior pubic ramus @gilroyAtlasAnatomy2020
 - Possibly the inferior side of the pubic symphysis -Dr.K
 
-### Insertion
+# Insertion {#insertion}
 
 - Pes Anserine of the Tibia (medial border of the tuberosity, along with the tendons of sartorius and semitendinosus) @gilroyAtlasAnatomy2020 
 
-### Innervation
+# Innervation {#innervation}
 
 [Obturator N.]({{< var ref-obturator-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}})) @gilroyAtlasAnatomy2020
 
-### Action
+# Action {#action}
 **Hip**: Adduction and Flexion @gilroyAtlasAnatomy2020
 **Knee**: Flexion and Internal rotation @gilroyAtlasAnatomy2020
 
 
-
-:::
 
 # Overview

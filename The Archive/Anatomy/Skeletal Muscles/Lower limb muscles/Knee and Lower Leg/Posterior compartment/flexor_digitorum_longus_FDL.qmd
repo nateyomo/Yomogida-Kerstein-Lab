@@ -16,17 +16,17 @@ title: Flexor Digitorum Longus (FDL)
 : Flexor Digitorum Longus {.striped .hover}
 
 
-# Origin
+# Origin {#origin}
 Tibia (middle third of posterior surface) @gilroyAtlasAnatomy2020
 
-# Insertion
+# Insertion {#insertion}
 Bases of 2-5 distal phalanges @gilroyAtlasAnatomy2020
 
-# Innervation
+# Innervation {#innervation}
 [Tibial N.]({{< var ref-tibial-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})) @gilroyAtlasAnatomy2020
 
 
-# Action
+# Action {#action}
 
 - **TCJ**: PF @gilroyAtlasAnatomy2020
 - **STJ**: INV @gilroyAtlasAnatomy2020

@@ -12,21 +12,19 @@ title: Vastus Medialis (VM)
 :::
 
 
-# OIAN
+# Overview
 
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
 | [Vastus Medialis]({{< var ref-vastus-medialis.path >}}) | {{< var ref-vastus-medialis.origin >}} | {{< var ref-vastus-medialis.insertion >}} | {{< var ref-vastus-medialis.nerve >}} | {{< var ref-vastus-medialis.action >}} |
 : {.striped .hover}
 
-:::{layout-ncol="2"}
-
-### Origin
+# Origin {#origin}
 
 - [Linea aspera (medial lip)]({{< var ref-femur-bone.linea-aspera >}}) @gilroyAtlasAnatomy2020
 - [Intertrochanteric line (distal part)]({{< var ref-femur-bone.intertrochanteric-line >}}) @gilroyAtlasAnatomy2020
 
-### Insertion
+### Insertion {#insertion}
 
 - Tibial tuberosity via patellar lig. @gilroyAtlasAnatomy2020
 - Patella and tibial tuberosity via medial patellar retinacula @gilroyAtlasAnatomy2020
@@ -35,7 +33,7 @@ title: Vastus Medialis (VM)
 
 [Femoral nerve]({{< var ref-femoral-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}), [L4]({{< var ref-nerve-root.l4 >}})) @gilroyAtlasAnatomy2020
 
-### Action
+### Action {#action}
 
 **Knee**: Extension @gilroyAtlasAnatomy2020 
 

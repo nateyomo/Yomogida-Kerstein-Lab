@@ -16,21 +16,21 @@ title: Flexor Digiti Minimi Brevis (Foot)
 : {.striped .hover}
 
 
-# Origin
+# Origin {#origin}
 
 - Base of 5th MT @gilroyAtlasAnatomy2020
 - Long plantar lig @gilroyAtlasAnatomy2020
 
 
 
-# Insertion
+# Insertion {#insertion}
 Base of proximal phalanx of 5th toe @gilroyAtlasAnatomy2020
 
-# Innervation
+# Innervation {#innervation}
 
 [Lateral Plantar N. (*superficial branch*)]({{< var ref-lateral-plantar-nerve.path >}}) ([S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}})) @gilroyAtlasAnatomy2020
 
-# Action
+# Action {#action}
 **5th MTP**: Flexion @gilroyAtlasAnatomy2020
 
 

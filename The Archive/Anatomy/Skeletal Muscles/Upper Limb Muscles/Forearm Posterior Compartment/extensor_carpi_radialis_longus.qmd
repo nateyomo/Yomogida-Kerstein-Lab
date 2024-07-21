@@ -12,22 +12,22 @@ title: Extensor Carpi Radialis Longus (ECRL)
 
 
 
-# Origin
+# Origin {#origin}
 
 - Lateral supracondylar ridge of humerus @gilroyAtlasAnatomy2020
 - Lateral intermuscular septum @gilroyAtlasAnatomy2020
 
 
 
-# Insertion
+# Insertion {#insertion}
 
 Base of 2nd metacarpal @gilroyAtlasAnatomy2020
 
-# Innervation
+# Innervation {#innervation}
 
 [Radial N.]({{< var ref-radial-nerve.path >}}) ([C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}})) @gilroyAtlasAnatomy2020
 
-# Action
+# Action {#action}
 
 - **Elbow**: Weak flexion @gilroyAtlasAnatomy2020
 - **Wrist**: Extension and Radial deviation @gilroyAtlasAnatomy2020

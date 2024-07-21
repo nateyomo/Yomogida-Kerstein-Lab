@@ -11,22 +11,22 @@ title: Pronator Teres
 : {.striped .hover}
 
 
-# Origin
+# Origin {#origin}
 
 - **Humeral head**: medial epicondyle of humerus @gilroyAtlasAnatomy2020
 - **Ulnar head**: coronoid process @gilroyAtlasAnatomy2020
 
-# Insertion
+# Insertion {#insertion}
 
 Lateral radius (Distal to supinator insertion) @gilroyAtlasAnatomy2020 
 
 
 
-# Innervation
+# Innervation {#innervation}
 
 [Median N.]({{< var ref-median-nerve.path >}}) ([C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}})) @gilroyAtlasAnatomy2020
 
-# Action
+# Action {#action}
 
 - **Elbow**: Weak flexion @gilroyAtlasAnatomy2020
 - **Forearm**: Pronation @gilroyAtlasAnatomy2020

@@ -5,17 +5,16 @@ title: Middle Scalene Muscle
 
 # OIAN
 
-:::{layout-ncol="2"}
-### Origin
+# Origin {#origin}
 C1–C2 (transverse processes), C3–C7 (posterior tubercles of transverse processes) @gilroyAtlasAnatomy2020
 
-### Insertion
+### Insertion {#insertion}
 1st rib (posterior to groove for subclavian a.)
 
 ### Nerve
 Anterior rami of [C3]({{< var ref-nerve-root.c3 >}}), [C4]({{< var ref-nerve-root.c4 >}}), [C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}}), & [C8]({{< var ref-nerve-root.c8 >}}) @gilroyAtlasAnatomy2020 
 
-### Action
+### Action {#action}
 
 - According to Atlas of Anatomy @gilroyAtlasAnatomy2020, the scalenes all have the same function:
 - With ribs mobile: Elevates upper ribs (during forced inspiration) @gilroyAtlasAnatomy2020 

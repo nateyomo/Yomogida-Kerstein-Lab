@@ -17,11 +17,11 @@ title: Extensor Digitorum Brevis (EDB)
 
 
 
-# Origin
+# Origin {#origin}
 
 Calcaneus (lateral dorsal surface) @gilroyAtlasAnatomy2020
 
-# Insertion
+# Insertion {#insertion}
 
 Bases of middle phalanges of digits 2-4 @gilroyAtlasAnatomy2020
 
@@ -31,7 +31,7 @@ Bases of middle phalanges of digits 2-4 @gilroyAtlasAnatomy2020
 
 [Deep Fibular N.]({{< var ref-deep-fibular-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}})) @gilroyAtlasAnatomy2020
 
-# Action
+# Action {#action}
 **MTP/PIP 2-4**: Extension @gilroyAtlasAnatomy2020
 
 # MMT 

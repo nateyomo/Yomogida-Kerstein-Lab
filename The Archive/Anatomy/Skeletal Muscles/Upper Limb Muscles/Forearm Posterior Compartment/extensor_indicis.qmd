@@ -12,22 +12,22 @@ title: Extensor Indicis
 
 
 
-# Origin
+# Origin {#origin}
 
 - Ulna (posterior surface) @gilroyAtlasAnatomy2020
 - IO membrane @gilroyAtlasAnatomy2020
 
 
 
-# Insertion
+# Insertion {#insertion}
 
 - Posterior digital extension of 2nd digit @gilroyAtlasAnatomy2020
 
-# Innervation
+# Innervation {#innervation}
 
 [Posterior Interosseous N.]({{< var ref-posterior-interosseous-nerve.path >}}) ([C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}})) @gilroyAtlasAnatomy2020
 
-# Action
+# Action {#action}
 
 - **Wrist**: Extension @gilroyAtlasAnatomy2020
 - **2nd MCP, PIP, DIP**: Extension @gilroyAtlasAnatomy2020

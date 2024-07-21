@@ -3,7 +3,7 @@ title: Median Nerve
 ---
 
 
-# Origin
+# Origin {#origin}
 
 C6-T1 @gilroyAtlasAnatomy2020
 

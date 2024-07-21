@@ -16,12 +16,12 @@ title: Dorsal Interossei
 : {.striped .hover}
 
 
-# Origin
+# Origin {#origin}
 
 1st-5th metatarsals (two heads on opposing sides) @gilroyAtlasAnatomy2020
 
 
-# Insertion
+# Insertion {#insertion}
 
 - 1st interosseous: 2nd proximal phalanx (medial base) @gilroyAtlasAnatomy2020
 - 2-4 interosseous: 
@@ -30,11 +30,11 @@ title: Dorsal Interossei
 
 
 
-# Innervation
+# Innervation {#innervation}
 
 [Lateral Plantar N.]({{< var ref-lateral-plantar-nerve.path >}}) ([S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}})) @gilroyAtlasAnatomy2020
 
-# Action
+# Action {#action}
 
 - **MTP 2-4**: Flexion @gilroyAtlasAnatomy2020
 - **IP 2-4**: Extension @gilroyAtlasAnatomy2020

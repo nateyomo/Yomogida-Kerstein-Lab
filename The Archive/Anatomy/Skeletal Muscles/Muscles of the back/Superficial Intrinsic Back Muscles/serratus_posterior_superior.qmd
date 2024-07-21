@@ -15,17 +15,17 @@ title: Serratus Posterior Superior
 : Serratus Posterior Superior OIAN {.striped .hover}
 
 
-## Origin
+## Origin {#origin}
 - [Nuchal ligament]({{< var ref-nuchal-ligament.path >}}) @gilroyAtlasAnatomy2020
 - C7-T3 SP @gilroyAtlasAnatomy2020
 
-## Insertion
+## Insertion {#insertion}
 2-4th ribs (sup border) @gilroyAtlasAnatomy2020
 
-## Innervation
+## Innervation {#innervation}
 [Spinal nn. ]({{< var ref-spinal-nerves.path >}}) T2-T5 (Ant ramus) @gilroyAtlasAnatomy2020
 
-## Action
+## Action {#action}
 
 Elevates ribs
 

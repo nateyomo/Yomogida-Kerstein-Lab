@@ -3,7 +3,7 @@ title: Long Thoracic Nerve
 ---
 
 
-# Origin
+# Origin {#origin}
 
 The Long Thoracic Nerve originates from the anterior rami of [C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}}) @duttonDuttonOrthopaedicExamination2020.
 

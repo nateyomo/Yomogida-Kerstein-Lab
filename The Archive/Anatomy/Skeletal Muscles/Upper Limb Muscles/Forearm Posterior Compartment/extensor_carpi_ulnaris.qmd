@@ -12,7 +12,7 @@ title: Extensor Carpi Ulnaris (ECU)
 
 
 
-# Origin
+# Origin {#origin}
 
 - Lateral epicondyle of humerus (*Common head of ED, EDM, ECU*) @gilroyAtlasAnatomy2020
 - Dorsal surface of ulnar head @gilroyAtlasAnatomy2020
@@ -20,16 +20,16 @@ title: Extensor Carpi Ulnaris (ECU)
 
 
 
-# Insertion
+# Insertion {#insertion}
 
 Base of 5th MT @gilroyAtlasAnatomy2020
 
-# Innervation
+# Innervation {#innervation}
 
 [Posterior Interosseous N.]({{< var ref-posterior-interosseous-nerve.path >}}) ([C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}})) @gilroyAtlasAnatomy2020
 
 
-# Action
+# Action {#action}
 
 **Wrist**: Extension, Ulnar deviation @gilroyAtlasAnatomy2020
 

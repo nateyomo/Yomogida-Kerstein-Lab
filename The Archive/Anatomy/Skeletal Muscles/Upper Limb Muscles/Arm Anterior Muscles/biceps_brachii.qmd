@@ -14,22 +14,22 @@ title: Biceps Brachii
 
 # Long Head
 
-## Origin
+## Origin {#origin}
 
 - Supraglenoid tubercle of scapula [@gilroyAtlasAnatomy2020; @neumannKinesiologyMusculoskeletalSystem2017]
 - Adjacent rim of Glenoid Labrum @neumannKinesiologyMusculoskeletalSystem2017
 
-## Insertion
+## Insertion {#insertion}
 
 - Radial tuberosity @gilroyAtlasAnatomy2020
 - Bicipital aponeurosis @gilroyAtlasAnatomy2020
 
 
-## Innervation
+## Innervation {#innervation}
 
 [Musculocutaneous N.]({{< var ref-musculocutaneous-nerve.path >}}) ([C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}})) [@gilroyAtlasAnatomy2020; @neumannKinesiologyMusculoskeletalSystem2017]
 
-# Action
+# Action {#action}
 
 - **Shoulder**: Flexion
 - **GHJ**: Abduction, Internal rotation, Stabilization of humeral head during deltoid contraction @gilroyAtlasAnatomy2020
@@ -52,22 +52,22 @@ How does the Biceps Brachii Long head function as a GHJ stabilizer?
 
 # Short Head
 
-## Origin
+## Origin {#origin}
 
 - Coracoid process of Scapula @gilroyAtlasAnatomy2020
 
-## Insertion
+## Insertion {#insertion}
 
 - Radial tuberosity @gilroyAtlasAnatomy2020
 - Bicipital aponeurosis @gilroyAtlasAnatomy2020
 
 
 
-## Innervation
+## Innervation {#innervation}
 
 [Musculocutaneous N.]({{< var ref-musculocutaneous-nerve.path >}}) ([C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}})) @gilroyAtlasAnatomy2020
 
-## Action
+## Action {#action}
 
 - **Shoulder**: flexion @gilroyAtlasAnatomy2020
 - **GHJ**: Abduction, Internal rotation, Stabilization of humeral head during deltoid contraction @gilroyAtlasAnatomy2020

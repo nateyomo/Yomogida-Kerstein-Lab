@@ -11,16 +11,16 @@ title: Rectus Capitis anterior
 : Rectus Capitis Anterior OIAN {.striped .hover}
 
 
-## Origin
+## Origin {#origin}
 C1 (lateral mass) @gilroyAtlasAnatomy2020
 
-## Insertion
+## Insertion {#insertion}
 Occipital bone (basilar part) @gilroyAtlasAnatomy2020
 
-## Innervation
+## Innervation {#innervation}
 C1 Ant ramus @gilroyAtlasAnatomy2020
 
-## Action
+## Action {#action}
 
 - **Bilateral**: flex AO Joint
 - **Unilateral**: Lateral Flexion of AO joint

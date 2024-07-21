@@ -28,20 +28,20 @@ The gastrocnemius is the only muscle that crosses the posterior knee that does *
 "Although the primary function of the gastrocnemiussoleus complex is to plantar flex the ankle and to supinate the subtalar joint, the gastrocnemius also functions to flex or extend the knee, depending on whether the lower extremity is WB or not. It has been proposed that weakness of the gastrocnemius may cause knee hyperextension." @duttonDuttonOrthopaedicExamination2020 
 
 
-# Origin
+# Origin {#origin}
 
 - **Medial head**: Superior-posterior part of the medial femoral condyle @gilroyAtlasAnatomy2020
 - **Lateral Head**: Lateral surface of lateral femoral condyle @gilroyAtlasAnatomy2020  
 
-# Insertion
+# Insertion {#insertion}
 
 Calcaneal tuberosity via the Achilles' tendon @gilroyAtlasAnatomy2020 
 
-# Innervation
+# Innervation {#innervation}
 
 [Tibial N.]({{< var ref-tibial-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})) @gilroyAtlasAnatomy2020 
 
-# Action
+# Action {#action}
 
 - **TCJ**: Plantarflexion (*when knee is extended*) @gilroyAtlasAnatomy2020
 - **Knee**: Flexion @gilroyAtlasAnatomy2020 

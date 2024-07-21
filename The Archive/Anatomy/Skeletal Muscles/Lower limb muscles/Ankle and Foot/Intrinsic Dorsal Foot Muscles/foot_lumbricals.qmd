@@ -15,21 +15,21 @@ title: Foot Lumbrical Muscles
 | [Lumbricals (Foot)]({{< var ref-foot-lumbricals.path >}}) | {{< var ref-foot-lumbricals.origin >}} | {{< var ref-foot-lumbricals.insertion >}} | {{< var ref-foot-lumbricals.nerve >}} | {{< var ref-foot-lumbricals.action >}} |
 : {.striped .hover}
 
-# Origin
+# Origin {#origin}
 
 Medial borders of tendons of [FDL]({{< var ref-flexor-digitorum-longus.path >}}) @gilroyAtlasAnatomy2020
 
-# Insertion
+# Insertion {#insertion}
 
 Dorsal aponeurosis of toes 2-5 @gilroyAtlasAnatomy2020
 
-# Innervation
+# Innervation {#innervation}
 
 - **1st lumbrical (2nd toe)**: [Medial Plantar N.]({{< var ref-medial-plantar-nerve.path >}}) ([S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}})) @gilroyAtlasAnatomy2020
 - **2-4 Lumbricals (3rd-5th toes)**: [Lateral Plantar N.]({{< var ref-lateral-plantar-nerve.path >}}) ([S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}})) @gilroyAtlasAnatomy2020
 
 
-# Action
+# Action {#action}
 
 - **MTP 2-5**: Flexion @gilroyAtlasAnatomy2020
 - **IP 2-5**: Extension @gilroyAtlasAnatomy2020

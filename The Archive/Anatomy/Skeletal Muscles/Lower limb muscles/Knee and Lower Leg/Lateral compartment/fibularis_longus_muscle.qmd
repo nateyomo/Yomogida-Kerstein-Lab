@@ -17,21 +17,21 @@ title: Fibularis Longus Muscle
 : {.striped .hover}
 
 
-# Origin
+# Origin {#origin}
 
 Proximal lateral surface of the fibiula @gilroyAtlasAnatomy2020
 
-# Insertion
+# Insertion {#insertion}
 
 - Medial cuneiform @gilroyAtlasAnatomy2020
 - Base of 1st MT @gilroyAtlasAnatomy2020
 
 
 
-# Innervation
+# Innervation {#innervation}
 [Superficial Fibular N.]({{< var ref-superficial-fibular-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}})) @gilroyAtlasAnatomy2020
 
-# Action
+# Action {#action}
 
 - **TCJ**: Plantarflexion @gilroyAtlasAnatomy2020
 - **STJ**: Eversion @gilroyAtlasAnatomy2020

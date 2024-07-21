@@ -9,29 +9,22 @@ title: Quadratus Femoris Muscle
 | [Quadratus Femoris]({{< var ref-quadratus-femoris.path >}}) | {{< var ref-quadratus-femoris.origin >}} | {{< var ref-quadratus-femoris.insertion >}} | {{< var ref-quadratus-femoris.nerve >}} | {{< var ref-quadratus-femoris.action >}} |
 : {.striped .hover}
 
-:::{layout-ncol="4"}
-
-### Origin
+# Origin {#origin}
 
 Lateral border of the ischial tuberosity @gilroyAtlasAnatomy2020
 
-
-
-
-### Insertion
+# Insertion {#insertion}
 
 Intertrochanteric crest of the femur @gilroyAtlasAnatomy2020
 
-### Innervation
+# Innervation {#innervation}
 
 Sacral plexus Direct Branches ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}})) @gilroyAtlasAnatomy2020
 
-
-
-### Action
+# Action {#action}
 
 **Hip**: External rotation @gilroyAtlasAnatomy2020
 
-:::
+
 
 # Overview

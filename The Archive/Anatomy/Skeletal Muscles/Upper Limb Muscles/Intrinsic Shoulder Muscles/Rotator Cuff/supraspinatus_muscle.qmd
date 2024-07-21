@@ -24,19 +24,19 @@ title: Supraspinatus muscle
 
 : Supraspinatus OIAN {.striped .hover}
 
-# Origin
+# Origin {#origin}
 
 Supraspinous Fossa of [scapula]({{< var ref-scapula-bone.path >}}) @gilroyAtlasAnatomy2020
 
-# Insertion
+# Insertion {#insertion}
 
 Greater tubercle of [Humerus]({{< var ref-humerus-bone.path >}}) @gilroyAtlasAnatomy2020 
 
-# Innervation
+# Innervation {#innervation}
 
 [Suprascapular n.]({{< var ref-suprascapular-nerve.path >}}) ([C4]({{< var ref-nerve-root.c4 >}}), [C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}})) @gilroyAtlasAnatomy2020
 
-# Action
+# Action {#action}
 
 - **GHJ**: Initiates abduction @gilroyAtlasAnatomy2020
 - Stabilizes GHJ

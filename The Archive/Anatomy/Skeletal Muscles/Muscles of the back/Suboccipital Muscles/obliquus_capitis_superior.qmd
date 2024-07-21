@@ -14,16 +14,16 @@ title: Obliquus capitis Superior muscles
 | [Obliquus Capitis Superior]({{< var ref-obliquus-capitis-superior.path >}}) | {{< var ref-obliquus-capitis-superior.origin >}} | {{< var ref-obliquus-capitis-superior.insertion >}} | {{< var ref-obliquus-capitis-superior.nerve >}} | {{< var ref-obliquus-capitis-superior.action >}} |
 : Obliquus Capitis Superior OIAN {.striped .hover}
 
-## Origin
+## Origin {#origin}
 C1 (TP) @gilroyAtlasAnatomy2020
 
-## Insertion
+## Insertion {#insertion}
 [Occipital bone (inferior nuchal line, middle third)]({{< var ref-occipital-bone.path >}}) @gilroyAtlasAnatomy2020
 
-## Innervation
+## Innervation {#innervation}
 [Suboccipital N.]({{< var ref-suboccipital-nerve.path >}}) AKA Posterior ramus of C1 @gilroyAtlasAnatomy2020
 
-## Action
+## Action {#action}
 
 - **Bilateral**: Extend head
 - **Unilateral**: I/L SB, C/L rotation

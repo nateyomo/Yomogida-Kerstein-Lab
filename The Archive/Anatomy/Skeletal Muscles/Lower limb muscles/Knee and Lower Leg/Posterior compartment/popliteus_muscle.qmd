@@ -15,13 +15,13 @@ title: Popliteus Muscle
 | [Popliteus]({{< var ref-popliteus.path >}}) | {{< var ref-popliteus.origin >}} | {{< var ref-popliteus.insertion >}} | {{< var ref-popliteus.nerve >}} | {{< var ref-popliteus.action >}} |
 : Popliteus OIAN {.striped .hover}
 
-# Origin
+# Origin {#origin}
 
 - Lateral femoral condyle @gilroyAtlasAnatomy2020 
 - Lateral Meniscus (post. horn) @gilroyAtlasAnatomy2020
 
 
-# Insertion
+# Insertion {#insertion}
 Posterior tibial surface (*above the origin at the soleus*)
 
 
@@ -30,7 +30,7 @@ Posterior tibial surface (*above the origin at the soleus*)
 
 [Tibial N.]({{< var ref-tibial-nerve.path >}}) ([L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}})) @gilroyAtlasAnatomy2020
 
-# Action
+# Action {#action}
 
 - **Knee**: flexes and unlocks the knee by externally rotating the femur on the fixed tibia @gilroyAtlasAnatomy2020 
 

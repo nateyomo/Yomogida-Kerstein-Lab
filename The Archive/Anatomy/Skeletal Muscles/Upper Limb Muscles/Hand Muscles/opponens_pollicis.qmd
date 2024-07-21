@@ -12,19 +12,19 @@ title: Opponens Pollicis
 
 
 
-# Origin
+# Origin {#origin}
 
 Trapezium @gilroyAtlasAnatomy2020
 
-# Insertion
+# Insertion {#insertion}
 
 1st metacarpal (*lateral side*) @gilroyAtlasAnatomy2020
 
-# Innervation
+# Innervation {#innervation}
 
 [Recurrent Br. of Median N.]({{< var ref-recurrent-branch-of-median-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})) @gilroyAtlasAnatomy2020
 
-# Action
+# Action {#action}
 
 **1st CMC**: Opposition @gilroyAtlasAnatomy2020
 

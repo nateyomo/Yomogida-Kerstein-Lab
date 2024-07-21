@@ -8,17 +8,17 @@ title: Medial Pterygoid muscle
 |------|--------|-------|----------|--------|
 | [Medial Pterygoid]({{< var ref-medial-pterygoid.path >}}) | {{< var ref-medial-pterygoid.origin >}} | {{< var ref-medial-pterygoid.insertion >}} | {{< var ref-medial-pterygoid.nerve >}} | {{< var ref-medial-pterygoid.action >}} |
 
-# Origin
+# Origin {#origin}
 **SF Head:** Maxilla (tuberosity); **Deep head:** Medial surface of lateral pterygoid plate and pterygoid fossa @gilroyAtlasAnatomy2020
 
-# Insertion
+# Insertion {#insertion}
 Pterygoid tuberosity on medial surface of the mandibular angle @gilroyAtlasAnatomy2020
 
-# Innervation
+# Innervation {#innervation}
 
 [Mandibular (V~3~) divison of CN V via medial pterygoid n.]({{< var ref-cn5.path >}}) @gilroyAtlasAnatomy2020
 
-# Action
+# Action {#action}
 **BIL:** Elevates mandible with masseter and contributes to protrusion; **UNIL:** Small grinding movements  @gilroyAtlasAnatomy2020
 
 :::{.callout title="neummann explanation"}

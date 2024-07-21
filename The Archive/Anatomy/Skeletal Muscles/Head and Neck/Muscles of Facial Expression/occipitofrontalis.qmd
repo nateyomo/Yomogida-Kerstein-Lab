@@ -8,17 +8,17 @@ title: Occipitofrontalis muscle (Frontal belly)
 |------|--------|-------|----------|--------|
 | [Occipitofrontalis]({{< var ref-occipitofrontalis.path >}}) | {{< var ref-occipitofrontalis.origin >}} | {{< var ref-occipitofrontalis.insertion >}} | {{< var ref-occipitofrontalis.nerve >}} | {{< var ref-occipitofrontalis.action >}} |
 
-# Origin
+# Origin {#origin}
 Epicranial aponeurosis @gilroyAtlasAnatomy2020
 
-# Insertion
+# Insertion {#insertion}
 Skin and subcutaneous tissue of eyebrows and forehead @gilroyAtlasAnatomy2020
 
-# Innervation
+# Innervation {#innervation}
 
 [Facial Nerve CN VII]({{< var ref-cn7.path >}}) @gilroyAtlasAnatomy2020
 
-# Action
+# Action {#action}
 Elevates eyebrows; wrinkles skin of forehead @gilroyAtlasAnatomy2020
 
 # Clinical Significance

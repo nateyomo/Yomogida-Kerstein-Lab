@@ -12,21 +12,21 @@ title: Flexor Carpi Radialis
 
 
 
-# Origin
+# Origin {#origin}
 
 Medial epicondyle of Humerus @gilroyAtlasAnatomy2020
 
-# Insertion
+# Insertion {#insertion}
 
 
 - Base of 2nd metacarpal @gilroyAtlasAnatomy2020
 - Anatomical variations include base of 3rd metacarpal @gilroyAtlasAnatomy2020
 
-# Innervation
+# Innervation {#innervation}
 
 [Median N.]({{< var ref-median-nerve.path >}}) ([C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}})) @gilroyAtlasAnatomy2020
 
-# Action
+# Action {#action}
 
 - **Wrist**: Flexion, Radial deviation @gilroyAtlasAnatomy2020
 - Can assist with elbow flexion and forearm pronation (biomech) @gilroyAtlasAnatomy2020

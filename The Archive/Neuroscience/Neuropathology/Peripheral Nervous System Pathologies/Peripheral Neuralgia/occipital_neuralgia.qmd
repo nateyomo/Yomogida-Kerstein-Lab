@@ -16,7 +16,7 @@ title: Occipital Neuralgia
 - Formed by posterior division of CN II 
 - Greater  occipital nerve is the largest purely afferent nerve in the body
 
-# Innervation
+# Innervation {#innervation}
 Innervates the post skull from suboccipital area to the vertex
 
 # Associated pathologies

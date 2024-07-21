@@ -16,22 +16,22 @@ title: Quadratus Plantae
 : {.striped .hover}
 
 
-# Origin
+# Origin {#origin}
 
 - Medial borders of calcaneal tuberosity @gilroyAtlasAnatomy2020
 - Plantar borders of calcaneal tuberosity @gilroyAtlasAnatomy2020
 
 
 
-# Insertion
+# Insertion {#insertion}
 
 Lateral border of tendons of [FDL]({{< var ref-flexor-digitorum-longus.path >}}) @gilroyAtlasAnatomy2020
 
-# Innervation
+# Innervation {#innervation}
 
 [Lateral Plantar N.]({{< var ref-lateral-plantar-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}})) @gilroyAtlasAnatomy2020
 
-# Action
+# Action {#action}
 Redirects/augments pull of [FDL]({{< var ref-flexor-digitorum-longus.path >}}) @gilroyAtlasAnatomy2020
 
 

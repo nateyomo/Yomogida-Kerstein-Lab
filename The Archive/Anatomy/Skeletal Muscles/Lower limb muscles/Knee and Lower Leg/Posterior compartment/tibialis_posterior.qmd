@@ -17,7 +17,7 @@ title: Tibialis Posterior Muscle
 # Overview
 
 
-# Origin
+# Origin {#origin}
 
 - IO membrane @gilroyAtlasAnatomy2020
 - Tibia (*adjacent border*) @gilroyAtlasAnatomy2020
@@ -25,7 +25,7 @@ title: Tibialis Posterior Muscle
 
 
 
-# Insertion
+# Insertion {#insertion}
 
 - Navicular tuberosity @gilroyAtlasAnatomy2020
 - Cuneiforms (medial, intermediate, and lateral) @gilroyAtlasAnatomy2020
@@ -36,7 +36,7 @@ title: Tibialis Posterior Muscle
 # Nerve
 [Tibial N.]({{< var ref-tibial-nerve.path >}}) ([L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}})) @gilroyAtlasAnatomy2020
 
-# Action
+# Action {#action}
 
 - **TCJ**: Plantarflexion @gilroyAtlasAnatomy2020
 - **STJ**: Inversion (supination) @gilroyAtlasAnatomy2020

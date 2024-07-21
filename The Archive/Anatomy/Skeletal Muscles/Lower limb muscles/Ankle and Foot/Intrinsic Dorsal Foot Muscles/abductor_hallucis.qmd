@@ -16,22 +16,22 @@ title: Abductor Hallucis
 | [Abductor Hallucis]({{< var ref-abductor-hallucis.path >}}) | {{< var ref-abductor-hallucis.origin >}} | {{< var ref-abductor-hallucis.insertion >}} | {{< var ref-abductor-hallucis.nerve >}} | {{< var ref-abductor-hallucis.action >}} |
 : {.striped .hover}
 
-# Origin
+# Origin {#origin}
 
 - Medial calcaneal tuberosity @gilroyAtlasAnatomy2020
 - Plantar aponeurosis @gilroyAtlasAnatomy2020
 - Flexor retinaculum @gilroyAtlasAnatomy2020
 
-# Insertion
+# Insertion {#insertion}
 
 Medial proximal phalanx of 1st toe @gilroyAtlasAnatomy2020
 
-# Innervation
+# Innervation {#innervation}
 
 [Medial Plantar N.]({{< var ref-medial-plantar-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})) @gilroyAtlasAnatomy2020
 
 
-# Action
+# Action {#action}
 
 - **1st MTP**: flexion, abd of first toe @gilroyAtlasAnatomy2020
 - **Longitudinal Arch**: Support @gilroyAtlasAnatomy2020

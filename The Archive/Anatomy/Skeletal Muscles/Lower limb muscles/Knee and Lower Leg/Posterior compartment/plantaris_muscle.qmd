@@ -22,18 +22,18 @@ title: Plantaris Muscle
 : Plantaris OIAN {.striped .hover}
 
 
-# Origin
+# Origin {#origin}
 Lateral epicondyle of Femur (proximal to lateral head of gastrocnemius) @gilroyAtlasAnatomy2020
 
-# Insertion
+# Insertion {#insertion}
 
 Calcaneal tuberosity @gilroyAtlasAnatomy2020 
 
-# Innervation
+# Innervation {#innervation}
 
 [Tibial N.]({{< var ref-tibial-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})) @gilroyAtlasAnatomy2020 
 
-# Action
+# Action {#action}
 
 - **Knee**: *negligible* flexion
 - **TCJ**: PF @gilroyAtlasAnatomy2020

@@ -22,15 +22,15 @@ title: Subscapularis Muscle
 | [Subscapularis]({{< var ref-subscapularis.path >}}) | {{< var ref-subscapularis.origin >}} | {{< var ref-subscapularis.insertion >}} | {{< var ref-subscapularis.nerve >}} | {{< var ref-subscapularis.action >}} |
 : Subscapularis OIAN {.striped .hover}
 
-# Origin
+# Origin {#origin}
 
 Subscapular fossa of [scapula]({{< var ref-scapula-bone.path >}}) @gilroyAtlasAnatomy2020
 
-# Insertion
+# Insertion {#insertion}
 
 Lesser tubercle of [Humerus]({{< var ref-humerus-bone.path >}}) @gilroyAtlasAnatomy2020
 
-# Innervation
+# Innervation {#innervation}
 
 - [Upper Subscapular N.]({{< var ref-upper-subscapular-nerve.path >}}) @gilroyAtlasAnatomy2020
 - [Lower Subscapular N.]({{< var ref-lower-subscapular-nerve.path >}}) @gilroyAtlasAnatomy2020
@@ -38,7 +38,7 @@ Lesser tubercle of [Humerus]({{< var ref-humerus-bone.path >}}) @gilroyAtlasAnat
 
 
 
-# Action
+# Action {#action}
 
 **GHJ**: Internal Rotation, Adduction @gilroyAtlasAnatomy2020
 

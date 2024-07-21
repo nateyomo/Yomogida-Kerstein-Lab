@@ -17,24 +17,23 @@ title: Sartorius Muscle
 | [Sartorius]({{< var ref-sartorius.path >}}) | {{< var ref-sartorius.origin >}} | {{< var ref-sartorius.insertion >}} | {{< var ref-sartorius.nerve >}} | {{< var ref-sartorius.action >}} |
 : {.striped .hover}
 
-:::{layout-ncol="2"}
-
-### Origin
+# Origin {#origin}
 [ASIS]({{< var ref-coxal-bone.asis >}})
-### Insertion
+
+# Insertion {#insertion}
 
 Medial to the Tibial Tuberosity ([Pes Anserine]({{< var ref-pes-anserine >}})) @gilroyAtlasAnatomy2020
 
 
-### Nerve
+# Nerve
 [Femoral N.]({{< var ref-femoral-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}})) @gilroyAtlasAnatomy2020 
 
-### Action
+# Action {#action}
 
 - **Hip**: Flexion, ER, ABD @gilroyAtlasAnatomy2020 
 - **Knee**: Flexion, IR @gilroyAtlasAnatomy2020 
 
-:::
+
 
 # Overview
 

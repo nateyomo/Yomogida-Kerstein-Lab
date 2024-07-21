@@ -27,21 +27,21 @@ title: Soleus Muscle
 
 
 
-# Origin
+# Origin {#origin}
 
 - Posterior fibula @gilroyAtlasAnatomy2020
 - Posterior Tibia @gilroyAtlasAnatomy2020  
 
 
-# Insertion
+# Insertion {#insertion}
 
 Calcaneal tuberosity via the Achilles' tendon @gilroyAtlasAnatomy2020 
 
-# Innervation
+# Innervation {#innervation}
 
 [Tibial N.]({{< var ref-tibial-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})) @gilroyAtlasAnatomy2020 
 
-# Action
+# Action {#action}
 
 - **TCJ**: Plantarflexion @gilroyAtlasAnatomy2020 
 - **Stabilizes leg** @gilroyAtlasAnatomy2020 

@@ -18,10 +18,10 @@ title: Serratus Anterior
 | [Serratus Anterior]({{< var ref-serratus-anterior.path >}}) | {{< var ref-serratus-anterior.origin >}} | {{< var ref-serratus-anterior.insertion >}} | {{< var ref-serratus-anterior.nerve >}} | {{< var ref-serratus-anterior.action >}} |
 : {.striped .hover}
 
-# Origin
+# Origin {#origin}
 1-9th ribs @gilroyAtlasAnatomy2020
 
-# Insertion
+# Insertion {#insertion}
 
 
 - **Superior part**: Superior angle of Scapula (costal and dorsal surfaces) @gilroyAtlasAnatomy2020
@@ -33,7 +33,7 @@ title: Serratus Anterior
 
 The Serratus Anterior is solely innervated by the [Long Thoracic N.]({{< var ref-long-thoracic-nerve.path >}}) ([C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}})) @gilroyAtlasAnatomy2020
 
-# Action
+# Action {#action}
 
 
 - **Entire muscle**: Draws scapula laterally forward, elevates ribs when shoulders are fixed @gilroyAtlasAnatomy2020

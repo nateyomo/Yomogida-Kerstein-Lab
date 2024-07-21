@@ -8,17 +8,17 @@ title: Lateral Pterygoid muscle
 |------|--------|-------|----------|--------|
 | [Lateral Pterygoid]({{< var ref-lateral-pterygoid.path >}}) | {{< var ref-lateral-pterygoid.origin >}} | {{< var ref-lateral-pterygoid.insertion >}} | {{< var ref-lateral-pterygoid.nerve >}} | {{< var ref-lateral-pterygoid.action >}} |
 
-# Origin
+# Origin {#origin}
 **Superior Head:** Greater wing of sphenoid bone (infratemporal crest); **Inferior head:** Lateral surface of pterygoid plate (lat surface) @gilroyAtlasAnatomy2020
 
-# Insertion
+# Insertion {#insertion}
 **Superior Head:** Tempormandibular joint (articular disc); **Inferior head:** Mandible (condylar process) @gilroyAtlasAnatomy2020
 
-# Innervation
+# Innervation {#innervation}
 
 [Mandibular (V~3~) divison of CN V via lateral pterygoid n.]({{< var ref-cn5.path >}}) @gilroyAtlasAnatomy2020
 
-# Action
+# Action {#action}
 - **BIL:** Protrudes mandible (pulls articular disk forward)
 - **UNIL:** C/L Lateral movements of mandible (chewing)  @gilroyAtlasAnatomy2020
 

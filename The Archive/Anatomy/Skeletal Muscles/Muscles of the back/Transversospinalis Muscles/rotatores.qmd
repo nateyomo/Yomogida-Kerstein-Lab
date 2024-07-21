@@ -15,32 +15,32 @@ title: Rotatores Muscle
 : Rotatores muscle OIAN {.striped .hover}
 
 # Rotatores Breves
-## Origin
+## Origin {#origin}
 T1-T12 TP of lower vertebrae @gilroyAtlasAnatomy2020
 
-## Insertion 
+## Insertion {#insertion} 
 T1-T12: SP of adjacent vertebrae @gilroyAtlasAnatomy2020
 
-## Innervation
+## Innervation {#innervation}
 [Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}}) @gilroyAtlasAnatomy2020
 
-## Action
+## Action {#action}
 
 - **BIL**: Extends T/S @gilroyAtlasAnatomy2020
 - **UNIL**: C/L Rotation of T/S @gilroyAtlasAnatomy2020
 
 
 # Rotatores Longi
-## Origin
+## Origin {#origin}
 T1-T12 TP of lower vertebrae @gilroyAtlasAnatomy2020
 
-## Insertion 
+## Insertion {#insertion} 
 T1-T12: SP of vertebrae 2 above (it skips a vertebrae) @gilroyAtlasAnatomy2020
 
-## Innervation
+## Innervation {#innervation}
 [Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}}) @gilroyAtlasAnatomy2020
 
-## Action
+## Action {#action}
 
 - **BIL**: Extends T/S @gilroyAtlasAnatomy2020
 - **UNIL**: C/L Rotation of T/S @gilroyAtlasAnatomy2020

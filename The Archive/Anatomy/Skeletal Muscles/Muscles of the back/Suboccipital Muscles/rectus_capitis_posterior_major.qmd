@@ -18,16 +18,16 @@ title: Rectus Capitis Posterior Major
 
 : Rectus Capitis Posterior Major OIAN {.striped .hover}
 
-## Origin
+## Origin {#origin}
 C2 (SP) @gilroyAtlasAnatomy2020
 
-## Insertion
+## Insertion {#insertion}
 [Occipital bone (inferior nuchal line, middle third)]({{< var ref-occipital-bone.path >}}) @gilroyAtlasAnatomy2020
 
-## Innervation
+## Innervation {#innervation}
 [Suboccipital N.]({{< var ref-suboccipital-nerve.path >}}) AKA Posterior ramus of C1 @gilroyAtlasAnatomy2020
 
-## Action
+## Action {#action}
 
 - **Bilateral**: [Extend head]({{< var ref-neck-msk.path >}})
 - **Unilateral**: [I/L head rotation]({{< var ref-neck-msk.path >}})

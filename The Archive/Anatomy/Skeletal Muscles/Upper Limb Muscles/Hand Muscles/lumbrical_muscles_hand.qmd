@@ -12,14 +12,14 @@ title: Lumbrical Muscles of the Hand
 
 
 
-# Origin
+# Origin {#origin}
 
 - **1-2nd Lumbrical**: FDP Tendons (radial sides) @gilroyAtlasAnatomy2020
 - **3-4th Lumbrical**: FDP tendons (bipennate from medial and lateral sides) @gilroyAtlasAnatomy202
 
 
 
-# Insertion
+# Insertion {#insertion}
 
 - **1st**: 2nd digit (DDE) @gilroyAtlasAnatomy202
 - **2nd**: 3rd digit (DDE) @gilroyAtlasAnatomy202
@@ -28,7 +28,7 @@ title: Lumbrical Muscles of the Hand
 
 
 
-# Innervation
+# Innervation {#innervation}
 
 
 - **1-2nd Lumbrical**: [Median N.]({{< var ref-median-nerve.path >}}) [@gilroyAtlasAnatomy2020; @yangInnervationLumbricalInterosseous2022]
@@ -39,7 +39,7 @@ title: Lumbrical Muscles of the Hand
 
 
 
-# Action
+# Action {#action}
 
 - **2-5 MCP**: Flexion @gilroyAtlasAnatomy2020
 - **2-5 PIP, DIP**: Extension @gilroyAtlasAnatomy2020

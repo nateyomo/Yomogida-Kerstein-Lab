@@ -12,18 +12,18 @@ title: Palmaris Longus
 
 
 
-# Origin
+# Origin {#origin}
 
 Medial epicondyle of humerus @gilroyAtlasAnatomy2020
 
-# Insertion
+# Insertion {#insertion}
 
 Palmar aponeurosis @gilroyAtlasAnatomy2020
 
-# Innervation
+# Innervation {#innervation}
 [Median N.]({{< var ref-median-nerve.path >}}) ([C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}})) @gilroyAtlasAnatomy2020
 
-# Action
+# Action {#action}
 
 - **Elbow**: Weak flexion @gilroyAtlasAnatomy2020
 - **Wrist**: Flexion, Tenses palmar aponeurosis @gilroyAtlasAnatomy2020

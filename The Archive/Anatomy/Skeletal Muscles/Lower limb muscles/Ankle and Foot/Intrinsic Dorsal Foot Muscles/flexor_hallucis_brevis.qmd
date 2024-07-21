@@ -18,7 +18,7 @@ title: Flexor Hallucis Brevis
 
 3rd layer of the muscles of the sole of the foot
 
-# Origin
+# Origin {#origin}
 
 - Cuboid @gilroyAtlasAnatomy2020
 - Lateral cuneiforms @gilroyAtlasAnatomy2020
@@ -26,18 +26,18 @@ title: Flexor Hallucis Brevis
 
 
 
-# Insertion
+# Insertion {#insertion}
 Base of proximal phalanx 1st toe (via med and lateral sesamoids) @gilroyAtlasAnatomy2020
 
 
 
-# Innervation
+# Innervation {#innervation}
 
 - **Medial head**: [Medial Plantar N.]({{< var ref-medial-plantar-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}))
 - **Lateral head**: [Lateral Plantar N.]({{< var ref-lateral-plantar-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}))
 
 
-# Action
+# Action {#action}
 
 - **1st MTP**: Flexion @gilroyAtlasAnatomy2020
 - **Longitudinal arch**: Support @gilroyAtlasAnatomy2020

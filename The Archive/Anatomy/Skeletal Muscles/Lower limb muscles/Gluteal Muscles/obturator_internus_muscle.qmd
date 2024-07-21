@@ -10,18 +10,18 @@ title: Obturator Internus Muscle (OI)
 : {.striped .hover}
 
 
-# Origin
+# Origin {#origin}
 
 Inner surface of the obturator membrane and its bony boundaries @gilroyAtlasAnatomy2020
 
-# Insertion
+# Insertion {#insertion}
 Medial surface of the greater trochanter @gilroyAtlasAnatomy2020
 
-# Innervation
+# Innervation {#innervation}
 
 Sacral plexus ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}})) @gilroyAtlasAnatomy2020
 
-# Action
+# Action {#action}
 - External rotation and extension of the hip joint (also active in abduction, depending on the joint’s position) @gilroyAtlasAnatomy2020
 - Stabilizes hip joint -DrK
 

@@ -15,21 +15,21 @@ title: Flexor Digitorum Brevis (FDB)
 | [Flexor Digitorum Brevis]({{< var ref-flexor-digitorum-brevis.path >}}) | {{< var ref-flexor-digitorum-brevis.origin >}} | {{< var ref-flexor-digitorum-brevis.insertion >}} | {{< var ref-flexor-digitorum-brevis.nerve >}} | {{< var ref-flexor-digitorum-brevis.action >}} |
 : {.striped .hover}
 
-# Origin
+# Origin {#origin}
 
 - Medial tubercle of calcaneal tuberosity @gilroyAtlasAnatomy2020
 - Plantar aponeurosis @gilroyAtlasAnatomy2020
 
 
 
-# Insertion
+# Insertion {#insertion}
 Sides of middle phalanges #2-5 @gilroyAtlasAnatomy2020
 
-# Innervation
+# Innervation {#innervation}
 
 [Medial Plantar N.]({{< var ref-medial-plantar-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})) @gilroyAtlasAnatomy2020
 
-### Action
+# Action {#action}
 
 - **MTP and PIP 2-5**: Flexion @gilroyAtlasAnatomy2020
 - **Longitudinal Arch**: Support @gilroyAtlasAnatomy2020

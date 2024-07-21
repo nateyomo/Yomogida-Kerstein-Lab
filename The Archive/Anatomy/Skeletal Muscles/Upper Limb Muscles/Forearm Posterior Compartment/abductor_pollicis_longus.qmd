@@ -12,7 +12,7 @@ title: Abductor Pollicis Longus (APL)
 
 
 
-# Origin
+# Origin {#origin}
 
 - Proximal Dorsal Radius @gilroyAtlasAnatomy2020
 - Proximal dorsal Ulna @gilroyAtlasAnatomy2020
@@ -20,15 +20,15 @@ title: Abductor Pollicis Longus (APL)
 
 
 
-# Insertion
+# Insertion {#insertion}
 
 Base of 1st metacarpal @gilroyAtlasAnatomy2020
 
-# Innervation
+# Innervation {#innervation}
 
 [Posterior Interosseous N.]({{< var ref-posterior-interosseous-nerve.path >}}) ([C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}})) @gilroyAtlasAnatomy2020
 
-# Action
+# Action {#action}
 
 - **RC**: Radial deviation @gilroyAtlasAnatomy2020
 - **1st CMC**: Abduction @gilroyAtlasAnatomy2020

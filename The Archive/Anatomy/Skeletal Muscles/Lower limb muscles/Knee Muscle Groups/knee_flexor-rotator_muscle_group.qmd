@@ -11,7 +11,7 @@ title: Flexor-Rotator Muscle Group of the Knee
 - Gracilis
 - Popliteus
 
-### Innervations
+### Innervation {#innervation}
 
 - Femoral Nerve
 - Obturator Nerve

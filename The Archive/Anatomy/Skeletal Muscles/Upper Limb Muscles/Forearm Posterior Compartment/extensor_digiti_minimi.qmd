@@ -12,19 +12,19 @@ title: Extensor Digiti Minimi
 
 
 
-# Origin
+# Origin {#origin}
 
 - Lateral epicondyle of humerus (*Common head of ED, EDM, ECU*) @gilroyAtlasAnatomy2020
 
-# Insertion
+# Insertion {#insertion}
 
 Dorsal digital expansion of 5th digit @gilroyAtlasAnatomy2020
 
-# Innervation
+# Innervation {#innervation}
 
 [Posterior Interosseous N.]({{< var ref-posterior-interosseous-nerve.path >}}) ([C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}})) @gilroyAtlasAnatomy2020
 
-# Action
+# Action {#action}
 
 - **Wrist**: Extension, Ulnar radiation @gilroyAtlasAnatomy2020
 - **5th MCP, PIP, DIP**: Extension, Abduction @gilroyAtlasAnatomy2020

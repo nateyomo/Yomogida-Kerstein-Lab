@@ -16,4 +16,4 @@ The final score is an average of the three activity scores @clelandPsychometricP
 
 # Spinal Stenosis
 
-adf
+

@@ -16,11 +16,11 @@ title: Extensor Hallucis Brevis (EHB)
 : Extensor Hallucis Brevis OIAN {.striped .hover}
 
 
-# Origin
+# Origin {#origin}
 
 Calcaneus (lateral dorsal surface) @gilroyAtlasAnatomy2020
 
-# Insertion
+# Insertion {#insertion}
 
 Prox. phalanx of 1st toe @gilroyAtlasAnatomy2020
 
@@ -28,7 +28,7 @@ Prox. phalanx of 1st toe @gilroyAtlasAnatomy2020
 
 [Deep Fibular N.]({{< var ref-deep-fibular-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}})) @gilroyAtlasAnatomy2020
 
-# Action
+# Action {#action}
 **1st MTP**: Extension @gilroyAtlasAnatomy2020
 
 # MMT

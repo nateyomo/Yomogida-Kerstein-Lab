@@ -12,7 +12,7 @@ title: Palmar Interossei of the Hand
 
 
 
-# Origin
+# Origin {#origin}
 
 Base of prox phalanx and extensor expansion of digits 2,4,5
 
@@ -22,7 +22,7 @@ Base of prox phalanx and extensor expansion of digits 2,4,5
 
 
 
-# Insertion
+# Insertion {#insertion}
 
 Palmar surface of metacarpals 2,4,5
 
@@ -32,11 +32,11 @@ Palmar surface of metacarpals 2,4,5
 
 
 
-# Innervation
+# Innervation {#innervation}
 
 [Deep Br. of Ulnar N.]({{< var ref-deep-branch-of-ulnar-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})) @gilroyAtlasAnatomy2020 
 
-# Action
+# Action {#action}
 
 2nd, 4th, and 5th digits: • MCP joints: flexion • Proximal and distal IP joints: extension and adduction toward 3rd digit
 
