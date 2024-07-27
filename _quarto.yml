@@ -5,7 +5,7 @@ project:
 execute:
   freeze: auto
   error: true
-  cache: true
+  cache: false
 
 #filters:
  # - lightbox

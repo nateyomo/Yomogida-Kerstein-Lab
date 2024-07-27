@@ -2,12 +2,14 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.450">
+<meta name="generator" content="quarto-1.5.55">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Nathaniel Yomogida">
+<meta name="author" content="Chloë Kerstein">
 
-<title>YK Lab - Spinal Cord Injury (SCI)</title>
+<title>Spinal Cord Injury (SCI) – YK Lab</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -70,7 +72,13 @@ div.csl-indent {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -79,14 +87,42 @@ div.csl-indent {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
   }
 }</script>
 
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../../../../styles.css">
 </head>
@@ -95,48 +131,48 @@ div.csl-indent {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="../../../../index.html">
     <span class="navbar-title">YK Lab</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../../../index.html" rel="" target="">
- <span class="menu-text">Home</span></a>
+    <a class="nav-link" href="../../../../index.html"> 
+<span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../The Archive/archive_index.html" rel="" target="">
- <span class="menu-text">Archive</span></a>
+    <a class="nav-link" href="../../../../The Archive/archive_index.html"> 
+<span class="menu-text">Archive</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../guide.html" rel="" target="">
- <span class="menu-text">Guide</span></a>
+    <a class="nav-link" href="../../../../guide.html"> 
+<span class="menu-text">Guide</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../journal club index.html" rel="" target="">
- <span class="menu-text">Journal Club</span></a>
+    <a class="nav-link" href="../../../../journal club index.html"> 
+<span class="menu-text">Journal Club</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../about.html" rel="" target="">
- <span class="menu-text">About</span></a>
+    <a class="nav-link" href="../../../../about.html"> 
+<span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../contact.html" rel="" target="">
- <span class="menu-text">Contact</span></a>
+    <a class="nav-link" href="../../../../contact.html"> 
+<span class="menu-text">Contact</span></a>
   </li>  
 </ul>
-            <div class="quarto-navbar-tools ms-auto">
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
-          </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -152,37 +188,7 @@ div.csl-indent {
   <li><a href="#functional-categories" id="toc-functional-categories" class="nav-link active" data-scroll-target="#functional-categories">Functional Categories</a></li>
   <li><a href="#anatomy" id="toc-anatomy" class="nav-link" data-scroll-target="#anatomy">Anatomy</a></li>
   <li><a href="#determining-lesion-level-and-severity" id="toc-determining-lesion-level-and-severity" class="nav-link" data-scroll-target="#determining-lesion-level-and-severity">Determining Lesion Level and Severity</a></li>
-  <li><a href="#clinical-syndromes" id="toc-clinical-syndromes" class="nav-link" data-scroll-target="#clinical-syndromes">Clinical Syndromes</a>
-  <ul class="collapse">
-  <li><a href="#brown-sequard-syndrome" id="toc-brown-sequard-syndrome" class="nav-link" data-scroll-target="#brown-sequard-syndrome">Brown-Sequard Syndrome</a></li>
-  <li><a href="#anterior-cord-syndrome" id="toc-anterior-cord-syndrome" class="nav-link" data-scroll-target="#anterior-cord-syndrome">Anterior Cord Syndrome</a></li>
-  <li><a href="#central-cord-syndrome" id="toc-central-cord-syndrome" class="nav-link" data-scroll-target="#central-cord-syndrome">Central Cord Syndrome</a></li>
-  </ul></li>
-  <li><a href="#cardiovascular-complications" id="toc-cardiovascular-complications" class="nav-link" data-scroll-target="#cardiovascular-complications">Cardiovascular complications</a>
-  <ul class="collapse">
-  <li><a href="#timing" id="toc-timing" class="nav-link" data-scroll-target="#timing">Timing</a>
-  <ul class="collapse">
-  <li><a href="#acute" id="toc-acute" class="nav-link" data-scroll-target="#acute">Acute</a></li>
-  </ul></li>
-  <li><a href="#peripheral-nerves" id="toc-peripheral-nerves" class="nav-link" data-scroll-target="#peripheral-nerves">Peripheral Nerves</a>
-  <ul class="collapse">
-  <li><a href="#vagus-nerve" id="toc-vagus-nerve" class="nav-link" data-scroll-target="#vagus-nerve">Vagus Nerve</a></li>
-  </ul></li>
-  <li><a href="#complete-cervical" id="toc-complete-cervical" class="nav-link" data-scroll-target="#complete-cervical">Complete Cervical</a></li>
-  </ul></li>
-  <li><a href="#clinical-presentation" id="toc-clinical-presentation" class="nav-link" data-scroll-target="#clinical-presentation">Clinical Presentation</a>
-  <ul class="collapse">
-  <li><a href="#pain" id="toc-pain" class="nav-link" data-scroll-target="#pain">Pain</a></li>
-  </ul></li>
-  <li><a href="#intervention" id="toc-intervention" class="nav-link" data-scroll-target="#intervention">Intervention</a>
-  <ul class="collapse">
-  <li><a href="#stem-cells" id="toc-stem-cells" class="nav-link" data-scroll-target="#stem-cells">Stem Cells</a></li>
-  <li><a href="#virtual-reality" id="toc-virtual-reality" class="nav-link" data-scroll-target="#virtual-reality">Virtual Reality</a></li>
-  </ul></li>
-  <li><a href="#examination" id="toc-examination" class="nav-link" data-scroll-target="#examination">Examination</a>
-  <ul class="collapse">
-  <li><a href="#participation" id="toc-participation" class="nav-link" data-scroll-target="#participation">Participation</a></li>
-  </ul></li>
+  <li><a href="#clinical-syndromes" id="toc-clinical-syndromes" class="nav-link" data-scroll-target="#clinical-syndromes">Clinical Syndromes</a></li>
   </ul>
 </nav>
     </div>
@@ -200,9 +206,9 @@ div.csl-indent {
   <div class="quarto-title-meta-heading">Affiliations</div>
   
     <div class="quarto-title-meta-contents">
-    <p class="author">Nathaniel Yomogida </p>
+    <p class="author">Nathaniel Yomogida, B.S., SPT </p>
   </div>
-    <div class="quarto-title-meta-contents">
+  <div class="quarto-title-meta-contents">
         <p class="affiliation">
             Doctor of Physical Therapy
           </p>
@@ -210,10 +216,10 @@ div.csl-indent {
             B.S. in Kinesiology
           </p>
       </div>
-      <div class="quarto-title-meta-contents">
-    <p class="author">Chloë Kerstein </p>
-  </div>
     <div class="quarto-title-meta-contents">
+    <p class="author">Chloë Kerstein, B.S., SPT </p>
+  </div>
+  <div class="quarto-title-meta-contents">
         <p class="affiliation">
             Doctor of Physical Therapy
           </p>
@@ -221,7 +227,7 @@ div.csl-indent {
             B.A. in Neuroscience
           </p>
       </div>
-    </div>
+  </div>
 
 <div class="quarto-title-meta">
 
@@ -231,7 +237,9 @@ div.csl-indent {
   </div>
   
 
+
 </header>
+
 
 <div class="callout callout-style-simple callout-none no-icon callout-titled" title="Resources">
 <div class="callout-header d-flex align-content-center">
@@ -251,9 +259,12 @@ Resources
 <section id="functional-categories" class="level1">
 <h1>Functional Categories</h1>
 <p>Spinal cord injuries can be divided into two functional categories: tetraplegia and paraplegia<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">1</a></sup></span></p>
-<div class="quarto-layout-panel">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<section id="tetraplegia" class="level2 quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<section id="tetraplegia" class="level2 quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <h2 class="anchored" data-anchor-id="tetraplegia">Tetraplegia</h2>
 <ul>
 <li>Motor and/or sensory impairment of all four extremities and trunk<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">1</a></sup></span>
@@ -263,7 +274,7 @@ Resources
 <li>Results from lesions of the cervical cord<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">1</a></sup></span></li>
 </ul>
 </section>
-<section id="paraplegia" class="level2 quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<section id="paraplegia" class="level2 quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <h2 class="anchored" data-anchor-id="paraplegia">Paraplegia</h2>
 <ul>
 <li>Motor and/or sensory impairment of all or part of the trunk and both lower extremities (LEs)<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">1</a></sup></span></li>
@@ -277,8 +288,8 @@ Resources
 <h1>Anatomy</h1>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="../../../../The Archive/Neuroscience/Neuroanatomy/Spinal Cord/images/osullivan fig20.1 spinal cord cross section.png" class="lightbox" title="Spinal Cord Cross section @osullivanPhysicalRehabilitation2019" data-gallery="quarto-lightbox-gallery-1"><img src="../../../../The Archive/Neuroscience/Neuroanatomy/Spinal Cord/images/osullivan fig20.1 spinal cord cross section.png" class="img-fluid figure-img"></a></p>
-<figcaption class="figure-caption">Spinal Cord Cross section<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">1</a></sup></span></figcaption>
+<p><a href="../../../../The Archive/Neuroscience/Neuroanatomy/Spinal Cord/images/osullivan fig20.1 spinal cord cross section.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Spinal Cord Cross section @osullivanPhysicalRehabilitation2019"><img src="../../../../The Archive/Neuroscience/Neuroanatomy/Spinal Cord/images/osullivan fig20.1 spinal cord cross section.png" class="img-fluid figure-img" alt="Spinal Cord Cross section1"></a></p>
+<figcaption>Spinal Cord Cross section<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">1</a></sup></span></figcaption>
 </figure>
 </div>
 <p><a href="../../../../The Archive/Neuroscience/Neuroanatomy/Spinal Cord/spinal_cord.html">Read more about the Anatomy and function of the spinal cord</a>.</p>
@@ -306,7 +317,7 @@ Clinical Significance
 <p>Clinicians should use clinical syndromes to anticipate sensory and motor functions, which they can use for goal-setting, predicting outcomes, and guiding the plan of care (POC)<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">1</a></sup></span>.</p>
 </div>
 </div>
-<p>:::{layout-ncol=“3”}</p>
+<div data-layout-ncol="3">
 <section id="brown-sequard-syndrome" class="level3">
 <h3 class="anchored" data-anchor-id="brown-sequard-syndrome">Brown-Sequard Syndrome</h3>
 <ul>
@@ -332,15 +343,17 @@ Clinical Significance
 <li>C/S Hyperextension injury<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">1</a></sup></span></li>
 </ul>
 </section>
-</section>
 <section id="cardiovascular-complications" class="level1">
 <h1>Cardiovascular complications</h1>
 <p>Disruptions of cardiovascular control following spinal cord injury are directly related to the level and degree of the injury<span class="citation" data-cites="hagenCardiovascularComplicationsSpinal2012"><sup><a href="#ref-hagenCardiovascularComplicationsSpinal2012" role="doc-biblioref">2</a></sup></span></p>
 <section id="timing" class="level2">
 <h2 class="anchored" data-anchor-id="timing">Timing</h2>
-<div class="quarto-layout-panel">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<section id="acute" class="level3 quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<section id="acute" class="level3 quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <h3 class="anchored" data-anchor-id="acute">Acute</h3>
 <p>“Immediately after a spinal cord injury, there is in almost all patients a sudden loss of the autonomic effect of the smooth muscle in the walls of the blood vessels, and as a result vasodilation occurs. The acute loss of sympathetic stimulation results in bradycardia. During the acute phase, the arterial hypotension (neurogenic shock) may be misinterpreted as loss of volume.”<span class="citation" data-cites="hagenCardiovascularComplicationsSpinal2012"><sup><a href="#ref-hagenCardiovascularComplicationsSpinal2012" role="doc-biblioref">2</a></sup></span></p>
 </section>
@@ -349,9 +362,12 @@ Clinical Significance
 </section>
 <section id="peripheral-nerves" class="level2">
 <h2 class="anchored" data-anchor-id="peripheral-nerves">Peripheral Nerves</h2>
-<div class="quarto-layout-panel">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<section id="vagus-nerve" class="level3 quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="3">
+<div class="quarto-layout-row">
+<section id="vagus-nerve" class="level3 quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
 <h3 class="anchored" data-anchor-id="vagus-nerve">Vagus Nerve</h3>
 <ul>
 <li>The vagus nerve is hypersensitive immediately after an injury<span class="citation" data-cites="hagenCardiovascularComplicationsSpinal2012"><sup><a href="#ref-hagenCardiovascularComplicationsSpinal2012" role="doc-biblioref">2</a></sup></span>.</li>
@@ -426,11 +442,13 @@ Note
 </ul>
 
 
-
 </section>
 </section>
+</div>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
 <div id="ref-osullivanPhysicalRehabilitation2019" class="csl-entry" role="listitem">
 <div class="csl-left-margin">1. </div><div class="csl-right-inline">O’Sullivan SB, Schmitz TJ, Fulk GD, eds. <em>Physical Rehabilitation</em>. 7th ed. F.A. Davis Company; 2019.</div>
 </div>
@@ -446,7 +464,7 @@ Note
 <div id="ref-abolghasemiSystematicReviewCell2023" class="csl-entry" role="listitem">
 <div class="csl-left-margin">5. </div><div class="csl-right-inline">Abolghasemi R, Davoudi-Monfared E, Allahyari F, Farzanegan G. Systematic <span>Review</span> of <span>Cell Therapy Efficacy</span> in <span>Human Chronic Spinal Cord Injury</span>. <em>Tissue Engineering Part B, Reviews</em>. Published online December 2023. doi:<a href="https://doi.org/10.1089/ten.TEB.2023.0130">10.1089/ten.TEB.2023.0130</a></div>
 </div>
-</div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
 <div class="">Yomogida N, Kerstein C. Spinal Cord Injury
 (SCI). <a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Neuroscience/Neuropathology/SCI/spinal_cord_injury.html">https://nateyomo.github.io/Yomogida-Kerstein-Lab/The
 Archive/Neuroscience/Neuropathology/SCI/spinal_cord_injury.html</a></div>
@@ -492,6 +510,33 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       } else {
         el.classList.add('notransition');
       }
+    }
+  }
+  const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+    const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+    const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+    let newTheme = '';
+    if(darkModeDefault) {
+      newTheme = isAlternate ? baseTheme : alternateTheme;
+    } else {
+      newTheme = isAlternate ? alternateTheme : baseTheme;
+    }
+    const changeGiscusTheme = () => {
+      // From: https://github.com/giscus/giscus/issues/336
+      const sendMessage = (message) => {
+        const iframe = document.querySelector('iframe.giscus-frame');
+        if (!iframe) return;
+        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+      }
+      sendMessage({
+        setConfig: {
+          theme: newTheme
+        }
+      });
+    }
+    const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+    if (isGiscussLoaded) {
+      changeGiscusTheme();
     }
   }
   const toggleColorMode = (alternate) => {
@@ -560,13 +605,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return localAlternateSentinel;
     }
   }
-  let localAlternateSentinel = 'default';
+  const darkModeDefault = false;
+  let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
   // Dark / light mode switch
   window.quartoToggleColorScheme = () => {
     // Read the current dark / light value 
     let toAlternate = !hasAlternateSentinel();
     toggleColorMode(toAlternate);
     setStyleSentinel(toAlternate);
+    toggleGiscusIfUsed(toAlternate, darkModeDefault);
   };
   // Ensure there is a toggle, if there isn't float one in the top right
   if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
@@ -601,18 +648,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -644,11 +680,50 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
-  function tippyHover(el, contentFn) {
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/nateyomo\.github\.io\/Yomogida-Kerstein-Lab");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -658,8 +733,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -671,7 +755,130 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -715,6 +922,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -740,6 +948,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -800,7 +1034,39 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"descPosition":"bottom","closeEffect":"zoom","loop":true,"openEffect":"zoom","selector":".lightbox"});</script>
+<script>var lightboxQuarto = GLightbox({"loop":false,"descPosition":"bottom","selector":".lightbox","openEffect":"zoom","closeEffect":"zoom"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
+
 
 
 

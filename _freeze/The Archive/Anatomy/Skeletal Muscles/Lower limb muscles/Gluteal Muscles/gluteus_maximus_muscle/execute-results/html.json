@@ -1,0 +1,17 @@
+{
+  "hash": "832169bdea01fdd3475dd9965fc62a00",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: Gluteus Maximus Muscle\n---\n\n\n\n\nquarto render gluteus_maximus_muscle.qmd\n\n# OIAN\n\n| Muscle  | Origin | Insertion | Nerve | Action |\n|------|--------|-------|----------|--------|\n| [Gluteus Maximus]({{< var ref-gluteus-maximus.path >}}) | {{< var ref-gluteus-maximus.origin >}} | {{< var ref-gluteus-maximus.insertion >}} | {{< var ref-gluteus-maximus.nerve >}} | {{< var ref-gluteus-maximus.action >}} |\n: {.striped .hover}\n\n\n\n\n\n\n\n::: {.cell}\n::: {.cell-output .cell-output-error}\n\n```\nError in file(filename, \"r\", encoding = encoding): cannot open the connection\n```\n\n\n:::\n\n::: {.cell-output .cell-output-error}\n\n```\nError in gt_oian(identifier_col, filter_patterns, display_columns, table_title): could not find function \"gt_oian\"\n```\n\n\n:::\n\n::: {.cell-output .cell-output-error}\n\n```\nError in eval(expr, envir, enclos): object 'gt_table' not found\n```\n\n\n:::\n:::\n\n\n\n\n# Origin {#origin}\n\n- Sacrum (dorsal surface, lateral part) @gilroyAtlasAnatomy2020\n- Ilium (gluteal surface, posterior part) @gilroyAtlasAnatomy2020\n- Thoracolumbar fascia @gilroyAtlasAnatomy2020\n- [Sacrotuberous lig.]({{< var ref-sacrotuberous-ligament.path >}}) @gilroyAtlasAnatomy2020\n\n# Insertion {#insertion}\n\n- **Upper fibers**: iliotibial tract @gilroyAtlasAnatomy2020\n- **Lower fibers**: gluteal tuberosity @gilroyAtlasAnatomy2020\n\n\n# Innervation {#innervation}\n\nThe gluteus maximus muscle is innervated by nerve roots [L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}) via the [Inferior gluteal nerve]({{< var ref-inferior-gluteal-nerve.path >}})  @gilroyAtlasAnatomy2020\n\n\n# Action {#action}\n\n- Entire muscle: extends and externally rotates the hip in sagittal and coronal planes @gilroyAtlasAnatomy2020\n- Upper fibers: Hip abduction @gilroyAtlasAnatomy2020 \n- Lower fibers: Hip adduction @gilroyAtlasAnatomy2020 \n\n\n# Overview\n\nThe gluteus maxijmus is a primary extensor and external rotator of the hip @neumannKinesiologyMusculoskeletalSystem2017. The gluteus maximus is a secondary hip abductor @neumannKinesiologyMusculoskeletalSystem2017\nThe gluteus maximus also plays an important role in stabilization of the SIJ and lumbar spine via its ligamentous and fascial originations @neumannKinesiologyMusculoskeletalSystem2017 \n",
+    "supporting": [
+      "gluteus_maximus_muscle_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
