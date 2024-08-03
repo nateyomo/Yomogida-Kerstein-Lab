@@ -3,6 +3,38 @@ title: Femur
 ---
 
 
+# Angle of Inclination (AoI) {#angle-of-inclination}
+
+The *angle of inclination* refers to the angle between the femoral neck and medial femoral shaft in the frontal plane @neumannKinesiologyMusculoskeletalSystem2017.
+
+
+| Stage of Development | Angle of Inclination |
+|-|-|
+| Birth | 165-170 &deg; @neumannKinesiologyMusculoskeletalSystem2017 |
+|2-8 y/o | Decreases by 2 &deg;/yr @neumannKinesiologyMusculoskeletalSystem2017 |
+|Adulthood | 125 &deg; @neumannKinesiologyMusculoskeletalSystem2017 |
+
+| Name | Angle |
+|-|-|
+| Coxa vara | <125 &deg; @neumannKinesiologyMusculoskeletalSystem2017 |
+| Normal | 125 &deg; @neumannKinesiologyMusculoskeletalSystem2017 |
+| Coxa Valga | >125 &deg; @neumannKinesiologyMusculoskeletalSystem2017 |
+
+
+
+# Femoral Torsion
+
+*Femoral torsion* refers to the relative twist between the femur's shaft and neck in the transverse plane @neumannKinesiologyMusculoskeletalSystem2017.
+
+
+| Name | Angle |
+| Retroversion | <8 &deg; @neumannKinesiologyMusculoskeletalSystem2017 |
+| Normal | 8-20 &deg; anteversion @neumannKinesiologyMusculoskeletalSystem2017 |
+| Excessive Anteversion | >20 &deg; @neumannKinesiologyMusculoskeletalSystem2017 |
+
+Femoral torsion can be measured via the [Craig's Test]({{< var ref-craigs-test.path >}})
+
+
 # Landmarks
 
 
@@ -15,3 +47,17 @@ title: Femur
 
 - Origin:
     - [Vastus Medialis]({{< var ref-vastus-medialis.path >}})
+
+
+## Intertrochanteric Crest {#intertrochanteric-crest}
+
+
+## Quadrate Tubercle
+
+The quadrate tubercle refers to the distal attachment of the [Quadratus Femoris muscle]({{< var ref-quadratus-femoris.path >}})
+
+## Lesser Trochanter {#lesser-trochanter}
+
+The lesser trochanter projects posterior-medially from the inferior end of the intertrochanteric crest @neumannKinesiologyMusculoskeletalSystem2017.
+The lesser trochanter serves as the insertion for the Iliopsoas muscle, and is thus indirectly related to hip flexion and vertical L/S stabilization @neumannKinesiologyMusculoskeletalSystem2017.
+

@@ -3,12 +3,10 @@ gt_oian <- function(identifier_col, filter_patterns, display_columns, table_titl
   library(readxl)
   library(dplyr)
   library(gt)
-  
-  # ensure that it sources the right document
-  print("functions.R has been sourced")
+  library(here)
   
   # Define constants for the Excel file and sheet name
-  excel_file <- "../yk_tables.xlsx"
+  excel_file <- here("yk_tables.xlsx")
   sheet_name <- "OIAN"
   
   # Helper function to format cell content with markdown
