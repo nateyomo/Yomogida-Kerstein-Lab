@@ -9,12 +9,27 @@ AKA Posterior ramus of C1 @gilroyAtlasAnatomy2020
 
 ## Somatosensory innervation
 
-## Motor Innervation:
+## Motor Innervation
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Rectus Capitis Posterior Major]({{< var ref-rectus-capitis-posterior-major.path >}}) | {{< var ref-rectus-capitis-posterior-major.origin >}} | {{< var ref-rectus-capitis-posterior-major.insertion >}} | {{< var ref-rectus-capitis-posterior-major.nerve >}} | {{< var ref-rectus-capitis-posterior-major.action >}} |
-|[Rectus Capitis Posterior Minor]({{< var ref-rectus-capitis-posterior-minor.path >}}) | {{< var ref-rectus-capitis-posterior-minor.origin >}} | {{< var ref-rectus-capitis-posterior-minor.insertion >}} | {{< var ref-rectus-capitis-posterior-minor.nerve >}} | {{< var ref-rectus-capitis-posterior-minor.action >}} |
-| [Obliquus Capitis Superior]({{< var ref-obliquus-capitis-superior.path >}}) | {{< var ref-obliquus-capitis-superior.origin >}} | {{< var ref-obliquus-capitis-superior.insertion >}} | {{< var ref-obliquus-capitis-superior.nerve >}} | {{< var ref-obliquus-capitis-superior.action >}} |
-| [Obliquus Capitis Inferior]({{< var ref-obliquus-capitis-inferior.path >}}) | {{< var ref-obliquus-capitis-inferior.origin >}} | {{< var ref-obliquus-capitis-inferior.insertion >}} | {{< var ref-obliquus-capitis-inferior.nerve >}} | {{< var ref-obliquus-capitis-inferior.action >}} |
-: Suboccipital Nerve Innervation {.striped .hover}
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "innervation_identifier"  # or "group_identifier"
+filter_patterns <- "suboccipital_nerve"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Radial n. Direct Muscle Innervations"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```

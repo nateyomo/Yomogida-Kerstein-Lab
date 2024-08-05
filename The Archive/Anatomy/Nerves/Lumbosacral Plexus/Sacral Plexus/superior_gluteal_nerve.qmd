@@ -18,12 +18,29 @@ title: Superior Gluteal Nerve
 
 # Motor innervation
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Gluteus Medius]({{< var ref-gluteus-medius.path >}}) | {{< var ref-gluteus-medius.origin >}} | {{< var ref-gluteus-medius.insertion >}} | {{< var ref-gluteus-medius.nerve >}} | {{< var ref-gluteus-medius.action >}} |
-| [Gluteus Minimus]({{< var ref-gluteus-minimus.path >}}) | {{< var ref-gluteus-minimus.origin >}} | {{< var ref-gluteus-minimus.insertion >}} | {{< var ref-gluteus-minimus.nerve >}} | {{< var ref-gluteus-minimus.action >}} |
-| [Tensor Fascia Latae]({{< var ref-tensor-fascia-latae.path >}}) | {{< var ref-tensor-fascia-latae.origin >}} | {{< var ref-tensor-fascia-latae.insertion >}} | {{< var ref-tensor-fascia-latae.nerve >}} | {{< var ref-tensor-fascia-latae.action >}} |
-: {.striped .hover}
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "innervation_identifier"  # or "group_identifier"
+filter_patterns <- "superior_gluteal_nerve"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Superior gluteal n. Muscle Innervations"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
 
 
 # Cutaneous Innervation

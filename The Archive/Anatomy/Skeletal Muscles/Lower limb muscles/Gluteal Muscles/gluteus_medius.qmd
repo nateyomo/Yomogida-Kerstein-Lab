@@ -2,7 +2,7 @@
 title: Gluteus Medius
 ---
 
-# OIAN
+# Overview
 
 ```{r}
 #| echo: false

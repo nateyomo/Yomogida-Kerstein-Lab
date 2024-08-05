@@ -12,17 +12,50 @@ title: Medial Thigh Muscles
 
 :::
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Pectineus]({{< var ref-pectineus.path >}}) | {{< var ref-pectineus.origin >}} | {{< var ref-pectineus.insertion >}} | {{< var ref-pectineus.nerve >}} | {{< var ref-pectineus.action >}} |
-| [Gracilis]({{< var ref-gracilis.path >}}) | {{< var ref-gracilis.origin >}} | {{< var ref-gracilis.insertion >}} | {{< var ref-gracilis.nerve >}} | {{< var ref-gracilis.action >}} |
-| [Adductor Longus]({{< var ref-adductor-longus.path >}}) | {{< var ref-adductor-longus.origin >}} | {{< var ref-adductor-longus.insertion >}} | {{< var ref-adductor-longus.nerve >}} | {{< var ref-adductor-longus.action >}} |
-| [Adductor Brevis]({{< var ref-adductor-brevis.path >}}) | {{< var ref-adductor-brevis.origin >}} | {{< var ref-adductor-brevis.insertion >}} | {{< var ref-adductor-brevis.nerve >}} | {{< var ref-adductor-brevis.action >}} |
-: Medial Thigh Muscles: Superficial Layer {.striped .hover}
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "group_identifier"
+filter_patterns <- "medial_thigh_muscles_superficial_layer"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Medial Thigh muscles Superficial Layer"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
 
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Obturator Externus]({{< var ref-obturator-externus.path >}}) | {{< var ref-obturator-externus.origin >}} | {{< var ref-obturator-externus.insertion >}} | {{< var ref-obturator-externus.nerve >}} | {{< var ref-obturator-externus.action >}} |
-| [Adductor Magnus]({{< var ref-adductor-magnus.path >}}) | {{< var ref-adductor-magnus.origin >}} | {{< var ref-adductor-magnus.insertion >}} | {{< var ref-adductor-magnus.nerve >}} | {{< var ref-adductor-magnus.action >}} |
-: Medial Thigh Muscles: Deep Layer {.striped .hover}
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "group_identifier"
+filter_patterns <- "medial_thigh_muscles_deep_layer"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Medial Thigh muscles Deep layer"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```

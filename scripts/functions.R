@@ -14,7 +14,7 @@ gt_oian <- function(identifier_col, filter_patterns, display_columns, table_titl
     if (n_distinct(text_col) > 0) {
       texts <- text_col[text_col != ""]
       if (length(texts) > 1) {
-        paste0(paste0("• [", texts, "](", link_col[text_col != ""], ") ", citation_col[text_col != ""]), collapse = "\n \n")
+        paste0(paste0("* [", texts, "](", link_col[text_col != ""], ") ", citation_col[text_col != ""]), collapse = "\n \n")
       } else {
         paste0("[", first(text_col), "](", first(link_col), ") ", first(citation_col))
       }
@@ -34,7 +34,7 @@ gt_oian <- function(identifier_col, filter_patterns, display_columns, table_titl
       if (length(unique(rates)) == 1 && length(unique(citations)) == 1) {
         paste0("[", first(roots), "](", first(links), ") - [", last(roots), "](", last(links), ") ", first(citations))
       } else {
-        paste0(paste0("[", roots, "](", links, ") ", citations), collapse = "\n \n")
+        paste0(paste0("* [", roots, "](", links, ") ", citations), collapse = "\n \n")
       }
     } else {
       ""
@@ -118,13 +118,21 @@ gt_oian <- function(identifier_col, filter_patterns, display_columns, table_titl
       lever_final = "Lever"
     )
     
-    # Create the gt table
+    # Create the gt table with smaller font sizes
     gt_oian_table <- combined_data %>%
       select(all_of(display_columns)) %>%
       gt() %>%
       fmt_markdown(columns = all_of(display_columns)) %>%
       cols_label(!!!setNames(column_labels[display_columns], display_columns)) %>%
-      tab_header(title = table_title)
+      tab_header(title = table_title) %>%
+      tab_style(
+        style = cell_text(size = px(12)), # Adjust the font size here
+        locations = cells_body(columns = everything())
+      ) %>%
+      tab_style(
+        style = cell_text(size = px(14), weight = "bold"), # Adjust the font size for headers
+        locations = cells_column_labels(columns = everything())
+      )
   
     # Print the gt table
     gt_oian_table

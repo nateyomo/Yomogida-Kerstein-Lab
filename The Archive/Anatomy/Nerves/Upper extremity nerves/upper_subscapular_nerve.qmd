@@ -24,7 +24,25 @@ All of these nerves originate from the [posterior cord]({{< var ref-brachial-ple
 
 ## Motor innervations
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Subscapularis]({{< var ref-subscapularis.path >}}) | {{< var ref-subscapularis.origin >}} | {{< var ref-subscapularis.insertion >}} | {{< var ref-subscapularis.nerve >}} | {{< var ref-subscapularis.action >}} |
-: Motor Innervation of the subscapular nerves {.striped .hover}
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "innervation_identifier"  # or "group_identifier"
+filter_patterns <- "upper_subscapular_nerve"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Upper Subscapular n. Direct Muscle Innervations"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```

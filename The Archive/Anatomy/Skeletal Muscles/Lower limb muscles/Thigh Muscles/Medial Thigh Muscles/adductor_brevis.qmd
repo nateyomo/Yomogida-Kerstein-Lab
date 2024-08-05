@@ -9,12 +9,29 @@ title: Adductor Brevis
 
 :::
 
-# OIAN
+# Overview
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Adductor Brevis]({{< var ref-adductor-brevis.path >}}) | {{< var ref-adductor-brevis.origin >}} | {{< var ref-adductor-brevis.insertion >}} | {{< var ref-adductor-brevis.nerve >}} | {{< var ref-adductor-brevis.action >}} |
-: {.striped .hover}
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "muscle_identifier"
+filter_patterns <- "adductor_brevis"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Adductor Brevis"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
 
 # Origin {#origin}
 

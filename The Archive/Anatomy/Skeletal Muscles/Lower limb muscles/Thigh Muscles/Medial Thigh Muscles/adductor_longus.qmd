@@ -13,19 +13,34 @@ title: Adductor Longus
 
 # Overview
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Adductor Longus]({{< var ref-adductor-longus.path >}}) | {{< var ref-adductor-longus.origin >}} | {{< var ref-adductor-longus.insertion >}} | {{< var ref-adductor-longus.nerve >}} | {{< var ref-adductor-longus.action >}} |
-: {.striped .hover}
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
 
+# Load the here package
+library(here)
 
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "muscle_identifier"
+filter_patterns <- "adductor_longus"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Adductor Longus"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
 
 # Origin {#origin}
 
 - Superior pubic ramus @gilroyAtlasAnatomy2020
 - Anterior side of the pubic symphysis @gilroyAtlasAnatomy2020 
 
-Superior pubic ramus </br> Anterior side of the pubic symphysis
 
 
 # Insertion {#insertion}

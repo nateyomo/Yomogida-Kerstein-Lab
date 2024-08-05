@@ -42,6 +42,8 @@ publisher: Yomogida-Kerstein Laboratory
 website:
   favicon: "/images/brain-favicon.png"
   page-navigation: true
+  search:
+    keyboard-shortcut: ["?", "H"]
   title: "YK Lab"
   site-url: https://nateyomo.github.io/Yomogida-Kerstein-Lab
   navbar:

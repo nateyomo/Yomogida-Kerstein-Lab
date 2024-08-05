@@ -10,12 +10,30 @@ title: Gracilis
 :::
 
 
-# OIAN
+# Overview
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Gracilis]({{< var ref-gracilis.path >}}) | {{< var ref-gracilis.origin >}} | {{< var ref-gracilis.insertion >}} | {{< var ref-gracilis.nerve >}} | {{< var ref-gracilis.action >}} |
-: {.striped .hover}
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "muscle_identifier"
+filter_patterns <- "gracilis"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Gracilis"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
 
 # Origin {#origin}
 

@@ -334,6 +334,29 @@ Scapulohumeral muscles AKA intrinsic shoulder muscles
 
 ## Iliopsoas
 
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "group_identifier"
+filter_patterns <- "iliopsoas_muscles"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Iliopsoas Muscles"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
 | [Psoas Major]({{< var ref-psoas-major.path >}}) | {{< var ref-psoas-major.origin >}} | {{< var ref-psoas-major.insertion >}} | {{< var ref-psoas-major.nerve >}} | {{< var ref-psoas-major.action >}} |
@@ -344,32 +367,55 @@ Scapulohumeral muscles AKA intrinsic shoulder muscles
 
 ## Gluteal
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Gluteus Maximus]({{< var ref-gluteus-maximus.path >}}) | {{< var ref-gluteus-maximus.origin >}} | {{< var ref-gluteus-maximus.insertion >}} | {{< var ref-gluteus-maximus.nerve >}} | {{< var ref-gluteus-maximus.action >}} |
-| [Gluteus Medius]({{< var ref-gluteus-medius.path >}}) | {{< var ref-gluteus-medius.origin >}} | {{< var ref-gluteus-medius.insertion >}} | {{< var ref-gluteus-medius.nerve >}} | {{< var ref-gluteus-medius.action >}} |
-| [Gluteus Minimus]({{< var ref-gluteus-minimus.path >}}) | {{< var ref-gluteus-minimus.origin >}} | {{< var ref-gluteus-minimus.insertion >}} | {{< var ref-gluteus-minimus.nerve >}} | {{< var ref-gluteus-minimus.action >}} |
-| [Tensor Fascia Latae]({{< var ref-tensor-fascia-latae.path >}}) | {{< var ref-tensor-fascia-latae.origin >}} | {{< var ref-tensor-fascia-latae.insertion >}} | {{< var ref-tensor-fascia-latae.nerve >}} | {{< var ref-tensor-fascia-latae.action >}} |
-| [Piriformis]({{< var ref-piriformis.path >}}) | {{< var ref-piriformis.origin >}} | {{< var ref-piriformis.insertion >}} | {{< var ref-piriformis.nerve >}} | {{< var ref-piriformis.action >}} |
-| [Obturator Internus]({{< var ref-obturator-internus.path >}}) | {{< var ref-obturator-internus.origin >}} | {{< var ref-obturator-internus.insertion >}} | {{< var ref-obturator-internus.nerve >}} | {{< var ref-obturator-internus.action >}} |
-| [Superior Gemellus]({{< var ref-superior-gemellus.path >}}) | {{< var ref-superior-gemellus.origin >}} | {{< var ref-superior-gemellus.insertion >}} | {{< var ref-superior-gemellus.nerve >}} | {{< var ref-superior-gemellus.action >}} |
-| [Inferior Gemellus]({{< var ref-inferior-gemellus.path >}}) | {{< var ref-inferior-gemellus.origin >}} | {{< var ref-inferior-gemellus.insertion >}} | {{< var ref-inferior-gemellus.nerve >}} | {{< var ref-inferior-gemellus.action >}} |
-| [Quadratus Femoris]({{< var ref-quadratus-femoris.path >}}) | {{< var ref-quadratus-femoris.origin >}} | {{< var ref-quadratus-femoris.insertion >}} | {{< var ref-quadratus-femoris.nerve >}} | {{< var ref-quadratus-femoris.action >}} |
-: {.striped .hover}
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "group_identifier"
+filter_patterns <- "gluteal_muscles"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Gluteal Muscles"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
 
 
 
 ## Medial Thigh
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Pectineus]({{< var ref-pectineus.path >}}) | {{< var ref-pectineus.origin >}} | {{< var ref-pectineus.insertion >}} | {{< var ref-pectineus.nerve >}} | {{< var ref-pectineus.action >}} |
-| [Gracilis]({{< var ref-gracilis.path >}}) | {{< var ref-gracilis.origin >}} | {{< var ref-gracilis.insertion >}} | {{< var ref-gracilis.nerve >}} | {{< var ref-gracilis.action >}} |
-| [Adductor Longus]({{< var ref-adductor-longus.path >}}) | {{< var ref-adductor-longus.origin >}} | {{< var ref-adductor-longus.insertion >}} | {{< var ref-adductor-longus.nerve >}} | {{< var ref-adductor-longus.action >}} |
-| [Adductor Brevis]({{< var ref-adductor-brevis.path >}}) | {{< var ref-adductor-brevis.origin >}} | {{< var ref-adductor-brevis.insertion >}} | {{< var ref-adductor-brevis.nerve >}} | {{< var ref-adductor-brevis.action >}} |
-| [Obturator Externus]({{< var ref-obturator-externus.path >}}) | {{< var ref-obturator-externus.origin >}} | {{< var ref-obturator-externus.insertion >}} | {{< var ref-obturator-externus.nerve >}} | {{< var ref-obturator-externus.action >}} |
-| [Adductor Magnus]({{< var ref-adductor-magnus.path >}}) | {{< var ref-adductor-magnus.origin >}} | {{< var ref-adductor-magnus.insertion >}} | {{< var ref-adductor-magnus.nerve >}} | {{< var ref-adductor-magnus.action >}} |
-: {.striped .hover}
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "group_identifier"
+filter_patterns <- "medial_thigh_muscles"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Medial Thigh Muscles"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
 
 
 ## Anterior Thigh

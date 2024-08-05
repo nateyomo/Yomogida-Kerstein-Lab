@@ -24,12 +24,28 @@ After emerging between the biceps and brachioradialis (2-5cm above the elbow), t
 # Innervation {#innervation}
 ## Motor innervation
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Coracobrachialis]({{< var ref-coracobrachialis.path >}}) | {{< var ref-coracobrachialis.origin >}} | {{< var ref-coracobrachialis.insertion >}} | {{< var ref-coracobrachialis.nerve >}} | {{< var ref-coracobrachialis.action >}} |
-| Brachialis |  |  |  |  |
-| Biceps Brachii |  |  |  |  |
-: Motor innervation of Musculocutaneous nerve {.striped .hover}
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "innervation_identifier"  # or "group_identifier"
+filter_patterns <- "musculocutaneous_nerve"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Musculocutaneous n. Muscle Innervations"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
 
 ## Cutaneous Innervation
 

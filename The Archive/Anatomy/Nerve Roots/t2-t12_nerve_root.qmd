@@ -3,6 +3,32 @@ title: T2-T12 Nerve Rootes (T2-T12)
 ---
 
 
+
+# Motor Innervation
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "root_identifier"  # or "group_identifier"
+filter_patterns <- "T2|T3|T4|T5|T6|T7|T8|T9|T10|T11|T12"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "T2-12 Nerve Root Skeletal Muscle Innervations"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
 # Lesions
 
 "Lesions affecting the thoracic roots and spinal nerves are difficult to diagnose because thoracic and abdominal muscles are difficult to evaluate and there are no muscle stretch reflexes subserved by these levels. Therefore, clinical diagnosis relies predominantly on sensory symptoms and signs." @brazisLocalizationClinicalNeurology2022 

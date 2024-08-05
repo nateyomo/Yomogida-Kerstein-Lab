@@ -16,6 +16,33 @@ title: S2 Nerve Root (S2)
 
 # Muscle Supply
 
+# Motor Innervation
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "root_identifier"  # or "group_identifier"
+filter_patterns <- "S2"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "S2 Nerve Root Skeletal Muscle Innervations"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+
+<!--
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
 | [Gluteus Maximus]({{< var ref-gluteus-maximus.path >}}) | {{< var ref-gluteus-maximus.origin >}} | {{< var ref-gluteus-maximus.insertion >}} | {{< var ref-gluteus-maximus.nerve >}} | {{< var ref-gluteus-maximus.action >}} |
@@ -41,7 +68,7 @@ title: S2 Nerve Root (S2)
 | [Plantar Interossei (Foot)]({{< var ref-plantar-interossei-foot.path >}}) | {{< var ref-plantar-interossei-foot.origin >}} | {{< var ref-plantar-interossei-foot.insertion >}} | {{< var ref-plantar-interossei-foot.nerve >}} | {{< var ref-plantar-interossei-foot.action >}} |
 | [Dorsal Interossei (Foot)]({{< var ref-dorsal-interossei-foot.path >}}) | {{< var ref-dorsal-interossei-foot.origin >}} | {{< var ref-dorsal-interossei-foot.insertion >}} | {{< var ref-dorsal-interossei-foot.nerve >}} | {{< var ref-dorsal-interossei-foot.action >}} |
 : {.striped .hover}
-
+-->
 
 
 
