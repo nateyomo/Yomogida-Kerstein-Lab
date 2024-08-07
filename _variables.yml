@@ -1881,6 +1881,7 @@ ref-decision-error:
 ref-statistical-power:
   path: "/The Archive/Evidene Based Practice/Statistical Significance/statistical_power.qmd"
   analysis: "/The Archive/Evidene Based Practice/Statistical Significance/statistical_power.qmd#power-analysis"
+
 # Examination
 ## Acute Care Evaluation
 
@@ -1924,6 +1925,12 @@ ref-tinels-test:
   path: "/The Archive/Examination/Tests and Measures/Tinels_test.qmd"
   brachial-plexus: "/The Archive/Examination/Tests and Measures/Tinels_test.qmd#brachial-plexus"
   carpal-tunnel: "/The Archive/Examination/Tests and Measures/Tinels_test.qmd#carpal-tunnel"
+
+## Strength tests
+
+ref-hoovers-sign:
+  path: "/The Archive/Examination/Tests and Measures/Strength/Functional limb weakness tests/hoovers_sign.qmd"
+
 ### Head and neck tests
 ref-canadian-cervical-spine-rules:
   path: "/The Archive/Examination/Tests and Measures/Head and Neck Tests/canadian_cervical_spine_rules.qmd"
@@ -2647,7 +2654,10 @@ ref-amyotrophic-lateral-sclerosis:
 ref-down-syndrome:
   path: "/The Archive/Neuroscience/Neuropathology/Down Syndrome/down_syndrome.qmd"
 ref-multiple-sclerosis:
-  path: "/"
+  path: "/The Archive/Neuroscience/Neuropathology/Multiple Sclerosis/multiple_sclerosis.qmd"
+ref-functional-neurological-disorder:
+  path: "/The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.qmd"
+
 ### Parkinsons Disease
 ref-parkinsons-disease:
   path: "/The Archive/Neuroscience/Neuropathology/Parkinsons Disease/parkinsons_disease.qmd"

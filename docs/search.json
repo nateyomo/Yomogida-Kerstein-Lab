@@ -10539,7 +10539,7 @@
     "href": "The Archive/Anatomy/Nerve Roots/L5_nerve_root.html#slr",
     "title": "L5 Nerve Root (L5)",
     "section": "SLR",
-    "text": "SLR\n“The straight leg raise, also called Lasègue sign, Lasègue test or Lazarevi sign, is a test done during the physical examination to determine whether a patient with low back pain has an underlying herniated disk, often located at L5 (fifth lumbar spinal nerve). With the patient lying down on his or her back on an examination table or exam floor, the examiner lifts the patient’s leg while the knee is straight. If the patient experiences sciatic pain when the straight leg is at an angle of between 30 and 70 degrees, then the test is positive and a herniated disc is likely to be the cause of the pain. A meta-analysis reported the accuracy of the straight leg test as 91% sensitive and 26% specific [7]. If raising the opposite leg causes pain (cross or contralateral straight leg raising), the sensitivity is 29% and the specificity is 88% [7]. The straight leg raising test and the cross straight leg raising test are two tests based on stretching of the nerves in the spine. The diagnostic accuracy of the straight leg raising test is thus limited by its low specificity [7].”3"
+    "text": "SLR\n“The straight leg raise, also called Lasègue sign, Lasègue test or Lazarevi sign, is a test done during the physical examination to determine whether a patient with low back pain has an underlying herniated disk, often located at L5 (fifth lumbar spinal nerve). With the patient lying down on his or her back on an examination table or exam floor, the examiner lifts the patient’s leg while the knee is straight. If the patient experiences sciatic pain when the straight leg is at an angle of between 30 and 70 degrees, then the test is positive and a herniated disc is likely to be the cause of the pain. A meta-analysis reported the accuracy of the straight leg test as 91% sensitive and 26% specific [7]. If raising the opposite leg causes pain (cross or contralateral straight leg raising), the sensitivity is 29% and the specificity is 88% [7]. The straight leg raising test and the cross straight leg raising test are two tests based on stretching of the nerves in the spine. The diagnostic accuracy of the straight leg raising test is thus limited by its low specificity [7].”1"
   },
   {
     "objectID": "The Archive/Anatomy/Nerve Roots/L2_nerve_root.html",
@@ -16644,5 +16644,166 @@
     "title": "Thoracodorsal Nerve",
     "section": "Motor Innervation",
     "text": "Motor Innervation\n\n\n\n\n\n\n\n\nThoracodorsal n. Direct Muscle Innervations\n\n\nMuscle\nOrigin\nInsertion\nInnervation\nAction"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Strength/Functional limb weakness tests/hoovers_sign.html",
+    "href": "The Archive/Examination/Tests and Measures/Strength/Functional limb weakness tests/hoovers_sign.html",
+    "title": "Hoover’s Sign",
+    "section": "",
+    "text": "Hoover’s sign is considered positive if there is weakness of hip extension (left) which returns to normal with contralateral hip flexion against resistance (right)1.\n\n\n\nPurpose\nA clinician can check for Hoover’s sign in order to differentaite between general hip extension weakness and functional hip extension weakness.\n\n\nTechnique\nassuming the L hip is demonstrating weakness\n\nPatient goes into hip extension against resistance with L leg\nTest patient’s ability to perform resisted hip flexion on the right leg which indirectly tests hip extension on the left leg.\nIf the patient has L hip extension weakness against direct resistance, but has sufficient strength against resistance with R hip flexion, this is considered positive\n\n\n\n\n\n\nReferences\n\n1. Bennett K, Diamond C, Hoeritzauer I, et al. A practical review of functional neurological disorder (FND) for the general physician. Clinical Medicine (London, England). 2021;21(1):28-36. doi:10.7861/clinmed.2020-0987\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Hoover’s Sign. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Strength/Functional limb weakness\ntests/hoovers_sign.html"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html",
+    "href": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html",
+    "title": "Functional Neurologic Disorder (FND)",
+    "section": "",
+    "text": "Related readings\n\n\n\n\nHYSTERIA1\nBRIQUET DISEASE1\nSOMATIZATION DISORDER1\nPSYCHOGENIC NEUROLOGIC DISORDER1"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#conversion-disorder",
+    "href": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#conversion-disorder",
+    "title": "Functional Neurologic Disorder (FND)",
+    "section": "Conversion Disorder",
+    "text": "Conversion Disorder\nThese disorders were traditionally termed “Conversion disorder” by Freud and his followers to describe the conversion of “psychic energy” into physical symptoms1"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#emotion-processing",
+    "href": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#emotion-processing",
+    "title": "Functional Neurologic Disorder (FND)",
+    "section": "Emotion processing (salience)",
+    "text": "Emotion processing (salience)\nDysfunction in the emotional processing construct manifests as emotional reactivity, deficits in emotional awareness (ie physiological arousal in absence of emotional arousal), amplification of FND symptoms in some mood states (ie panic, shame), aberrant salience processing, etc3."
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#agency",
+    "href": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#agency",
+    "title": "Functional Neurologic Disorder (FND)",
+    "section": "Agency",
+    "text": "Agency\nDysfunction in Agency manifests as impairment in belief/circuit around: Pt is agent of action/Free will → produces voluntary movement3. Movement lacking self agency is experienced as involuntary3. These involuntary movements are clinically deemed functional tremors or functional seizures, but the brain areas generating these movements are the same ones involved in the production of voluntary movements3."
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#attention",
+    "href": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#attention",
+    "title": "Functional Neurologic Disorder (FND)",
+    "section": "Attention",
+    "text": "Attention\nAttentional perseveration is defined as the “tendency to focus on a physiological system to the neglect of other systems, and an impaired ability to adaptively, volitionally shift attention3.” This concept is analogous to hemineglect syndrome wher patients can attend to his/her unaffected body parts but this focus is considerably difficult and requires conscious effort3. Likewise, patients wtiAllocate attentional resources to threat stimuli (ie angry faces) (especially those with functional seizures)"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#interoception",
+    "href": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#interoception",
+    "title": "Functional Neurologic Disorder (FND)",
+    "section": "Interoception",
+    "text": "Interoception\nInteroception refers to a process by which the nervous system senses/interprets/integrades internal body signals into conscious and unsconscious perceptions of sensation3. In FND, the percetion produced through interoception can be abnormally enhanced or diminished3. Abnormal interoception sensations can materialize as attenuated visual, auditory, or skin sensitivity3. Abnormal interoception can impact movements and result in tremors, dystonia, seizures, and weakness3."
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#predictive-processing-inference",
+    "href": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#predictive-processing-inference",
+    "title": "Functional Neurologic Disorder (FND)",
+    "section": "Predictive processing/inference",
+    "text": "Predictive processing/inference\nPredictive processing/inference refers to the process by which a person generates beliefs about cause/effects of events within/outside body3. Environmental conditions can rapidly alter this process3. FND patients with this dysfunction can demonstrate erroneous perceptual inference (about sensorimotor or emotionally valenced phenomena), and their beliefs become reality3.\n\n\n\n\n\n\nitems that need to be cleaned up and added to the paragraph\n\n\n\nDeficits in decision making and sensory processing3. Prior history dominates ongoing perspectives3.\n\n\n\n\n\n\n\n\nExamples\n\n\n\n\nSomeone who expects weather to be cold will wear a winter jacket even on a sunny day in summer3.\nFunctional leg weakness → pt does not sense that limb IS there, opposite of phantom limb syndrome3."
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#abnormal-sensory-input",
+    "href": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#abnormal-sensory-input",
+    "title": "Functional Neurologic Disorder (FND)",
+    "section": "Abnormal sensory input",
+    "text": "Abnormal sensory input\nupdated by sensory input that indicates it IS there"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#history",
+    "href": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#history",
+    "title": "Functional Neurologic Disorder (FND)",
+    "section": "History",
+    "text": "History\n\n\n\n\n\n\nNote\n\n\n\nDue to the importance of MOI and risk factors, the subjective should Focus on predisposing, precipitating and perpetuating factors!2\n\n\n\nAdverse experience in childhood/recently? (very common)\n\nAttachment theory (life growing up)\n\nConsider: Social/cultural norms, life experiences, religion, language, stress\nPsychological comorbidities\nComorbidities"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#other-medical-evaluation",
+    "href": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#other-medical-evaluation",
+    "title": "Functional Neurologic Disorder (FND)",
+    "section": "Other medical evaluation",
+    "text": "Other medical evaluation\n\nBeliefs about the medical system\nLow rate of misdiagnosis → did a doctor diagnose?2\n\nIBS? Chronic pain syndromes? CRPS?2\n\nImaging"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#mechanism-of-onset",
+    "href": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#mechanism-of-onset",
+    "title": "Functional Neurologic Disorder (FND)",
+    "section": "Mechanism of onset",
+    "text": "Mechanism of onset\n\nWhat did you notice when it first started (emotions? Events? Drug side effects? Dissociation? infection?)2\nWhat are your triggers now? (if any)2"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#functional-limb-weakness",
+    "href": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#functional-limb-weakness",
+    "title": "Functional Neurologic Disorder (FND)",
+    "section": "Functional limb Weakness",
+    "text": "Functional limb Weakness\n\nFunctional limb weakness\n\nDoes it feel like the body does not belong to them?2\nAny sensory disturbances associated with it?2\nCollapsing weakness?2\nAny falls?\n\nExpect: voluntary movements are hard while automatic ones are preserved. Also expect that there is a global pattern- affects flexors/extensors equally2"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#involuntary-movements",
+    "href": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#involuntary-movements",
+    "title": "Functional Neurologic Disorder (FND)",
+    "section": "Involuntary movements",
+    "text": "Involuntary movements\n\nFunctional tremor?\n\naggs/eases?\n\nFunctional seizure:2\n\nany urinary incontinence/physical injury? Seizure plan?\nAny precursors like autonomic arousal? → note:\n\n\n\n\n\n\n\n\nNote\n\n\n\nfunctional seizures can be seen as an involuntary, learned brain “reflex” that gets rid of unpleasant sensations. Can explain to patients this way.\n\n\n\n\n\n\n\n\nNote\n\n\n\nSide note: No medications (seizure meds) should be used as it can exacerbate events → as much as 40% of pts with functional seizures can improve with meds (however, likely placebo effect)2"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#functional-dystonia",
+    "href": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#functional-dystonia",
+    "title": "Functional Neurologic Disorder (FND)",
+    "section": "Functional dystonia",
+    "text": "Functional dystonia\n\nPresence\nAggravating factors\nEasing factors"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#urinary-retentionscan-negative-cauda-equina",
+    "href": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#urinary-retentionscan-negative-cauda-equina",
+    "title": "Functional Neurologic Disorder (FND)",
+    "section": "Urinary retention/scan negative cauda equina",
+    "text": "Urinary retention/scan negative cauda equina\n\nCBT usual tx2"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#functional-cognitive-symptoms",
+    "href": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#functional-cognitive-symptoms",
+    "title": "Functional Neurologic Disorder (FND)",
+    "section": "Functional cognitive symptoms",
+    "text": "Functional cognitive symptoms\n\nMemory problems?2\n\n\n\n\n\n\n\nNote\n\n\n\nMemory problems in FND are likely d/t attentional deficits (lapses in concentration)2\n\n\n\nMetacognitive error is prominent in the form of catastrophic negative self evaluation of one’s own cognitive performance (up to 24% of pts attending memory clinics may have functional cognitive disorder)2\nExamination of behavior and language during consultation discriminates functional from degenerative cognitive symptoms – those with functional cognitive disorder are likely to attend meetings alone, be distressed, give rich/specific accounts of memory failures compared to those with neurodegenerative disease2\nCBT helpful, contextualizing memory lapses that fall within normal, tackle unhelpful avoidance, and excessive/counterproductive use of memory aids/strategies (think post its etc). Also treat comorbid anxiety/depression as common2."
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#other-symptoms",
+    "href": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#other-symptoms",
+    "title": "Functional Neurologic Disorder (FND)",
+    "section": "Other symptoms",
+    "text": "Other symptoms\n\nFatigue? Sleep disturbance? Concentration symptoms?2\nSpeech problems (dysarthria, mutism, foreign accent syndrome), sensory problems (numbness/positive sensory symptoms, especially with motor symptoms) , hearing loss/sensitivity, visual loss/diplopia, globus, PPPD (chronic dizziness)2\n\n\n\n\n\n\n\nAPTA Recommendations\n\n\n\nPer APTA may be beneficial to ask:\n\nDoes the disorder produce more attention from a spouse?\nDoes the disorder mean that the patient does not have to return to a job that she/he did not like?\nIs the amount of money received with disability insurance more, or more secure, than what the patient might get by working?\nDoes the patient know how to get a job or what job she/he has sufficient expertise to do?\n\n\n\n\n\n\n\n\n\nAPTA’s red flags\n\n\n\nPer APTA- Red Flags suggesting FMD\n\nAdult age of onset\nParoxysmal tremor as predominant clinical feature\nHigh phenomenological variability between episodes\nRapid and maximal severity\nPrecipitation of attack or increase in symptom severity during examination\nAtypical and variable duration of attacks\nPresence of multiple atypical triggers\nAltered level of responsiveness\nPresence of odd precipitating factors\nPresence of unusual relieving maneuvers\nAdditional functional physical signs or medically unexplained somatic symptoms\nAtypical response to medication\nPresence of somatization"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#functional-limb-weakness-objective",
+    "href": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#functional-limb-weakness-objective",
+    "title": "Functional Neurologic Disorder (FND)",
+    "section": "Functional limb weakness",
+    "text": "Functional limb weakness\n\n\n\n\n\n\nNote\n\n\n\nNote/Pt edu: Functional leg weakness → pt does not sense that limb IS there, opposite of phantom limb syndrome. Abnormal brain prediction that leg is not there, which overrides/fails to be updated by sensory input that indicates it IS there2\n\n\n\nHoover’s sign\n\n\nA clinician can check for Hoover’s sign in order to differentaite between general hip extension weakness and functional hip extension weakness.\nTechnique (assuming the L hip is demonstrating weakness):\n\nPatient goes into hip extension against resistance with L leg\nTest patient’s ability to perform resisted hip flexion on the right leg which indirectly tests hip extension on the left leg.\nIf the patient has L hip extension weakness against direct resistance, but has sufficient strength against resistance with R hip flexion, this is considered positive\n\nRead more about Hoover’s Sign\n\n\n\n\nHoover’s sign2.\n\n\n\n\n\n\nHip Abductor Sign\n\n\nWeakness of hip abduction that returns to normal with contralateral hip abduction against resistance\n\n\n\n\nHip Abductor sign4.\n\n\n\n\n\n\nArm Drop Test\nAPTA?\nIn the arm drop test, the patient is placed in the supine position. The examiner ensures that the patient’s face is shielded (in case of an organic etiology) and lifts the patient’s plegic arm, suspending it over the patient’s face, then abruptly allowing the arm to fall. The patient will deflect the arm from hitting the face in the case of FMD.79"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#mechanism",
+    "href": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#mechanism",
+    "title": "Functional Neurologic Disorder (FND)",
+    "section": "Mechanism",
+    "text": "Mechanism"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#symptoms",
+    "href": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#symptoms",
+    "title": "Functional Neurologic Disorder (FND)",
+    "section": "Symptoms",
+    "text": "Symptoms\n\n\n\n\n\n\nNote\n\n\n\nfunctional seizures can be seen as an involuntary, learned brain “reflex” that gets rid of unpleasant sensations. Can explain to patients this way."
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Strength/Functional limb weakness tests/hip_abductor_sign.html",
+    "href": "The Archive/Examination/Tests and Measures/Strength/Functional limb weakness tests/hip_abductor_sign.html",
+    "title": "Hip Abductor sign",
+    "section": "",
+    "text": "Schematic explanation of the abductor sign.  (A) and (D): abduction of both legs;  (B) and (E):  abduction of the sound leg;  (C) and (F): abduction of the paretic leg, for organic and non-organic left leg paresis (the paretic left leg is shadowed).  Black arrow represents the internal force abduction force, the grey hand mark represents the examiner’s hand; and the grey arrow represents the direction of the adduction force exerted by the examiner’s hand opposing the patient’s leg; the white arrow represents the direction of movement of the leg; the white circle represents a leg that does not move; the bold white arrow represents movement of the unabducted leg used for diagnosis; and the bold white circle represents non-movement of the unabducted leg used for diagnosis1.\n\n\n\n\n\n\nReferences\n\n1. Sonoo M. Abductor sign: A reliable new sign to detect unilateral non-organic paresis of the lower limb. Journal of Neurology, Neurosurgery, and Psychiatry. 2004;75(1):121-125.\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Hip Abductor sign. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Strength/Functional limb weakness\ntests/hip_abductor_sign.html"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#functional-tremor",
+    "href": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#functional-tremor",
+    "title": "Functional Neurologic Disorder (FND)",
+    "section": "Functional Tremor",
+    "text": "Functional Tremor\nExpect: variable frequency (not amp) tremor that changes dramatically during externally cued rhythmic movements Arm: Ask pt to copy a rhythmical movement made between finger/thumb using their better hand Leg: ask pt to copy foot tapping Neck: ask them to follow movements of your hand with their tongue If the tremor on the other hand stops, entrains to the same rhythm, or pt has difficulty copying movement → consider functional tremor Other presentations to expect: (5)\n\nPhenotype-specific of function tremor5\n\n\n\n\n\n\nItem\nPhenotype\n\n\n\n\nUniversal features\n\n\n\nFrequency variability\nTremor frequency changes throughout examination\n\n\nEntrainment or full suppressability\nTremor either disappears (suppressability) or adopts the frequency of a repetitive task elsewhere (entrainment)\n\n\nDistractibility\nTremor amplitude attenuates when attention is driven away from affected body part\n\n\nTonic coactiviation\nCo-contraction of antagonistic muscles immediately prior to reemergence of tremor\n\n\nBallistic suppression\nBrief arrest of tremor with performance of a ballistic movement in the opposite limb\n\n\nOptional Features\n\n\n\nDual task interference\nDisruption in tremor frequency and amplitude when simultaneously executing a competing asks\n\n\nIncrease amplitude with weight loading\nTremor amplitude increases with increasing weight applied to limbs\n\n\n“Whack-a-mole” sign\nSpread of tremor to another body part when restrained by the examiner’s hand\n\n\nOther functional signs or phenotypes\nGive-away weakness, non-dermatomal hypoesthesia, associated functional gait disorder, functional dystonia, etc"
   }
 ]
