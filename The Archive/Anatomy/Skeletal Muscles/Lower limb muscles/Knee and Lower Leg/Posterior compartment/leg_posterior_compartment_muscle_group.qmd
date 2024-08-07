@@ -17,22 +17,54 @@ title: Muscles of the Posterior Compartment of the Leg
 :::
 
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Gastrocnemius]({{< var ref-gastrocnemius.path >}}) | {{< var ref-gastrocnemius.origin >}} | {{< var ref-gastrocnemius.insertion >}} | {{< var ref-gastrocnemius.nerve >}} | {{< var ref-gastrocnemius.action >}} |
-| [Soleus]({{< var ref-soleus.path >}}) | {{< var ref-soleus.origin >}} | {{< var ref-soleus.insertion >}} | {{< var ref-soleus.nerve >}} | {{< var ref-soleus.action >}} |
-| [Plantaris]({{< var ref-plantaris.path >}}) | {{< var ref-plantaris.origin >}} | {{< var ref-plantaris.insertion >}} | {{< var ref-plantaris.nerve >}} | {{< var ref-plantaris.action >}} |
-: {.striped .hover}
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "group_identifier"
+filter_patterns <- "knee_lower_leg_posterior_compartment_superficial"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Superficial Muscles of the Posterior Compartment of the Lower Leg"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+
 
 
 
 # Deep Flexors
 
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Tibialis Posterior]({{< var ref-tibialis-posterior.path >}}) | {{< var ref-tibialis-posterior.origin >}} | {{< var ref-tibialis-posterior.insertion >}} | {{< var ref-tibialis-posterior.nerve >}} | {{< var ref-tibialis-posterior.action >}} |
-| [Flexor Digitorum Longus]({{< var ref-flexor-digitorum-longus.path >}}) | {{< var ref-flexor-digitorum-longus.origin >}} | {{< var ref-flexor-digitorum-longus.insertion >}} | {{< var ref-flexor-digitorum-longus.nerve >}} | {{< var ref-flexor-digitorum-longus.action >}} |
-| [Flexor Hallucis Longus]({{< var ref-flexor-hallucis-longus.path >}}) | {{< var ref-flexor-hallucis-longus.origin >}} | {{< var ref-flexor-hallucis-longus.insertion >}} | {{< var ref-flexor-hallucis-longus.nerve >}} | {{< var ref-flexor-hallucis-longus.action >}} |
-| [Popliteus]({{< var ref-popliteus.path >}}) | {{< var ref-popliteus.origin >}} | {{< var ref-popliteus.insertion >}} | {{< var ref-popliteus.nerve >}} | {{< var ref-popliteus.action >}} |
-: {.striped .hover}
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "group_identifier"
+filter_patterns <- "knee_lower_leg_posterior_compartment_deep"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Deep Muscles of the Posterior Compartment of the Lower Leg"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```

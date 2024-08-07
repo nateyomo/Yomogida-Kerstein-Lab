@@ -15,10 +15,28 @@ title: Vastus Intermedius
 
 # Overview
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Vastus Intermedius]({{< var ref-vastus-intermedius.path >}}) | {{< var ref-vastus-intermedius.origin >}} | {{< var ref-vastus-intermedius.insertion >}} | {{< var ref-vastus-intermedius.nerve >}} | {{< var ref-vastus-intermedius.action >}} |
-: {.striped .hover}
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "muscle_identifier"  # or "group_identifier"
+filter_patterns <- "vastus_intermedius"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Vastus Intermedius Muscle"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
 
 # Origin {#origin}
 Femoral shaft (anterior side) @gilroyAtlasAnatomy2020

@@ -14,30 +14,47 @@ title: Vastus Medialis (VM)
 
 # Overview
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Vastus Medialis]({{< var ref-vastus-medialis.path >}}) | {{< var ref-vastus-medialis.origin >}} | {{< var ref-vastus-medialis.insertion >}} | {{< var ref-vastus-medialis.nerve >}} | {{< var ref-vastus-medialis.action >}} |
-: {.striped .hover}
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "muscle_identifier"  # or "group_identifier"
+filter_patterns <- "vastus_medialis"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Vastus Medialis Muscle"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
 
 # Origin {#origin}
 
 - [Linea aspera (medial lip)]({{< var ref-femur-bone.linea-aspera >}}) @gilroyAtlasAnatomy2020
 - [Intertrochanteric line (distal part)]({{< var ref-femur-bone.intertrochanteric-line >}}) @gilroyAtlasAnatomy2020
 
-### Insertion {#insertion}
+# Insertion {#insertion}
 
 - Tibial tuberosity via patellar lig. @gilroyAtlasAnatomy2020
 - Patella and tibial tuberosity via medial patellar retinacula @gilroyAtlasAnatomy2020
 
-### Nerve
+# Nerve
 
 [Femoral nerve]({{< var ref-femoral-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}), [L4]({{< var ref-nerve-root.l4 >}})) @gilroyAtlasAnatomy2020
 
-### Action {#action}
+# Action {#action}
 
 **Knee**: Extension @gilroyAtlasAnatomy2020 
 
-:::
 
 # VMO: Oblique Fibers
 

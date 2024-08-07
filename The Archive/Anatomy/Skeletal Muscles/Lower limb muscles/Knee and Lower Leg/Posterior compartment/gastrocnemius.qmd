@@ -12,12 +12,30 @@ title: Gastrocnemius Muscle
 
 :::
 
-# OIAN
+# Overview
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Gastrocnemius]({{< var ref-gastrocnemius.path >}}) | {{< var ref-gastrocnemius.origin >}} | {{< var ref-gastrocnemius.insertion >}} | {{< var ref-gastrocnemius.nerve >}} | {{< var ref-gastrocnemius.action >}} |
-: Gastrocnemius OIAN {.striped .hover}
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "muscle_identifier"  # or "group_identifier"
+filter_patterns <- "gastrocnemius"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Gastrocnemius Muscle"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
 
 # Overview
 

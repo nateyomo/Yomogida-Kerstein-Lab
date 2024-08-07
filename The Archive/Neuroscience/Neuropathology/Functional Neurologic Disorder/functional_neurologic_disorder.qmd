@@ -8,6 +8,59 @@ title: Functional Neurologic Disorder (FND)
 - PSYCHOGENIC NEUROLOGIC DISORDER @ropperAdamsVictorPrinciples2023
 
 
+# Pathophysiology Framework of FND
+
+:::{.callout-note}
+Through studies, it has been shown that functioning of brain is different than feigning @bennettPracticalReviewFunctional2021.
+:::
+
+FND has been described as dysfunction across brain circuits @draneFrameworkUnderstandingPathophysiology2020.
+Of these brain circuits, 5 constructs have been created @draneFrameworkUnderstandingPathophysiology2020.
+
+1. [Emotion processing (Salience)](#emotion-processing)
+1. [Agency](#agency)
+1. [Attention](#attention)
+1. [Interoception](#interoception)
+1. [Predictive processing/inference](#predictive-processing-inference)
+
+## Emotion processing (salience) {#emotion-processing}
+
+Dysfunction in the emotional processing construct manifests as emotional reactivity, deficits in emotional awareness (ie physiological arousal in absence of emotional arousal), amplification of FND symptoms in some mood states (ie panic, shame), aberrant salience processing, etc @draneFrameworkUnderstandingPathophysiology2020.
+
+## Agency {#agency}
+
+Dysfunction in Agency manifests as impairment in belief/circuit around: Pt is agent of action/Free will → produces voluntary movement @draneFrameworkUnderstandingPathophysiology2020.
+Movement lacking self agency is experienced as involuntary @draneFrameworkUnderstandingPathophysiology2020.
+These involuntary movements are clinically deemed functional tremors or functional seizures, but the brain areas generating these movements are the same ones involved in the production of voluntary movements @draneFrameworkUnderstandingPathophysiology2020.
+
+## Attention {#attention}
+
+Attentional perseveration is defined as the "tendency to focus on a physiological system to the neglect of other systems, and an impaired ability to adaptively, volitionally shift attention @draneFrameworkUnderstandingPathophysiology2020."
+This concept is analogous to hemineglect syndrome wher patients *can* attend to his/her unaffected body parts but this focus is considerably difficult and requires conscious effort @draneFrameworkUnderstandingPathophysiology2020.
+Likewise, patients wtiAllocate attentional resources to threat stimuli (ie angry faces) (especially those with functional seizures)
+
+## Interoception {#interoception}
+*Interoception* refers to a process by which the nervous system senses/interprets/integrades internal body signals into conscious and unsconscious perceptions of sensation @draneFrameworkUnderstandingPathophysiology2020.
+In FND, the percetion produced through interoception can be abnormally enhanced or diminished @draneFrameworkUnderstandingPathophysiology2020.
+Abnormal interoception sensations can materialize as attenuated visual, auditory, or skin sensitivity @draneFrameworkUnderstandingPathophysiology2020. 
+Abnormal interoception can impact movements and result in tremors, dystonia, seizures, and weakness @draneFrameworkUnderstandingPathophysiology2020.
+
+<!--
+
+## Predictive processing/inference {#predictive-processing-inference}
+Process by which a person generates beliefs about cause/effects of events within/outside body
+Environmental conditions can rapidly change this
+Pts may have erroneous perceptual inference (about sensorimotor or emotionally valenced phenomena), but their beliefs become reality.
+Deficits in decision making and sensory processing
+Prior history dominates ongoing perspectives: 
+ie) someone who expects weather to be cold will wear a winter jacket even on a sunny day in summer
+
+
+Functional leg weakness → pt does not sense that limb IS there, opposite of phantom limb syndrome
+
+## Abnormal sensory input {#abnormal-sensory-input}
+updated by sensory input that indicates it IS there
+-->
 
 
 # History

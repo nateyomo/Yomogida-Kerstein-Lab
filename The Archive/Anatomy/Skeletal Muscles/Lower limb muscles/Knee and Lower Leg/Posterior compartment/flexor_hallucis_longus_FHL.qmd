@@ -11,10 +11,28 @@ title: Flexor Hallucis Longus (FHL)
 
 # Overview
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Flexor Hallucis Longus]({{< var ref-flexor-hallucis-longus.path >}}) | {{< var ref-flexor-hallucis-longus.origin >}} | {{< var ref-flexor-hallucis-longus.insertion >}} | {{< var ref-flexor-hallucis-longus.nerve >}} | {{< var ref-flexor-hallucis-longus.action >}} |
-: {.striped .hover}
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "muscle_identifier"  # or "group_identifier"
+filter_patterns <- "flexor_hallucis_longus"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Flexor hallucis longus (FHL) Muscle"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
 
 
 

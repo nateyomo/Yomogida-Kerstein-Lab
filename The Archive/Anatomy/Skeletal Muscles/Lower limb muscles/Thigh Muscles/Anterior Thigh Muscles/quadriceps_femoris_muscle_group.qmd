@@ -23,14 +23,28 @@ The Quadricep muscle group is made up of 4 muscles:
 1. Vastus medialis (VM)
 1. Articularis Genus
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Rectus Femoris]({{< var ref-rectus-femoris.path >}}) | {{< var ref-rectus-femoris.origin >}} | {{< var ref-rectus-femoris.insertion >}} | {{< var ref-rectus-femoris.nerve >}} | {{< var ref-rectus-femoris.action >}} |
-| [Vastus Medialis]({{< var ref-vastus-medialis.path >}}) | {{< var ref-vastus-medialis.origin >}} | {{< var ref-vastus-medialis.insertion >}} | {{< var ref-vastus-medialis.nerve >}} | {{< var ref-vastus-medialis.action >}} |
-| [Vastus Lateralis]({{< var ref-vastus-lateralis.path >}}) | {{< var ref-vastus-lateralis.origin >}} | {{< var ref-vastus-lateralis.insertion >}} | {{< var ref-vastus-lateralis.nerve >}} | {{< var ref-vastus-lateralis.action >}} |
-| [Vastus Intermedius]({{< var ref-vastus-intermedius.path >}}) | {{< var ref-vastus-intermedius.origin >}} | {{< var ref-vastus-intermedius.insertion >}} | {{< var ref-vastus-intermedius.nerve >}} | {{< var ref-vastus-intermedius.action >}} |
-| [Articularis Genus]({{< var ref-articularis-genus.path >}}) | {{< var ref-articularis-genus.origin >}} | {{< var ref-articularis-genus.insertion >}} | {{< var ref-articularis-genus.nerve >}} | {{< var ref-articularis-genus.action >}} |
-: {.striped .hover}
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "group_identifier"  # or "group_identifier"
+filter_patterns <- "quadriceps_femoris_muscles"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Quadricep Femoris Muscle Group"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
 
 
 
