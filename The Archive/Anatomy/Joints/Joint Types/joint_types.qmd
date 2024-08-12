@@ -25,7 +25,7 @@ Examples:
 - Interosseus membranes (Forearm, leg)
 :::
 ::: {.column}
-### Synarthosis (amphiarthrosis/cartilaginous)
+### Synarthosis (amphiarthrosis/cartilaginous) {#synarthrosis}
 Characteristics:
 
 - Bones held together by fibrocartilage or hyaline cartilage.
@@ -41,7 +41,7 @@ Examples:
 
 ::: {.column}
 
-### Diarthrosis: Synovial
+### Diarthrosis: Synovial {#diarthrosis}
 
 Characteristics:
 
@@ -65,6 +65,7 @@ Examples:
 
 :::
 :::
+
 
 
 

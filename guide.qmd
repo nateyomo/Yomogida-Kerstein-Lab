@@ -4,10 +4,7 @@ citation: false
 ---
 
 # What is the Archive?
-The Archive is a website designed by Nathaniel Yomogida as a way to take notes in PT school and use these notes as a reference in the future.
-
-## Co-Authors
-Many of these notes were co-authored by Chloë Kerstein and John Connerley. [Learn more about the website's authors](about.qmd)
+The Archive is a website designed by Nathaniel Yomogida and Chloë Kerstein as a way to take notes in PT school and use these notes as a reference in the future.
 
 # Where should I start?
 The purpose of this website is to create a resource where you can begin reading one topic and it will give you many pathways to similar articles or concepts. This is designed to help build connections and relationships to other areas of biology.

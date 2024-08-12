@@ -805,8 +805,7 @@ ref-triceps-brachii-lateral-head:
   action: "**Elbow**: Extension"
 ref-anconeus:
   path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Arm Posterior Muscles/anconeus.qmd"
-  origin: "Lateral epicondyle of humerus </br>
-(*Possibly joint capsule*)"
+  origin: "Lateral epicondyle of humerus </br>(*Possibly joint capsule*)"
   insertion: "Olecranon of ulna (Radial surface)"
   nerve: "[Radial N.]({{< var ref-radial-nerve.path >}}) ([C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}}))"
   action: "**Elbow**: Weak extension, stabilization"
@@ -2026,6 +2025,14 @@ ref-fibrocartilage:
   path: "/The Archive/Histology/fibrocartilage.qmd"
 ref-type-1-collagen:
   path: "/The Archive/Histology/type_1_collagen.qmd"
+
+# histology bone
+
+ref-compact-bone:
+  path: "/The Archive/Histology/Bone/compact_bone.qmd"
+ref-cancellous-bone:
+  path: "/The Archive/Histology/Bone/cancellous_bone.qmd"
+
 # Interventions
 ref-interventions-index:
   path: "/The Archive/Interventions/interventions_index.qmd"
@@ -2739,6 +2746,18 @@ ref-headache:
   cluster: "/The Archive/Symptoms/Headache/cluster_headache.qmd"
 ref-migraine:
   path: "/The Archive/Symptoms/Headache/migraine.qmd"
+## Motor Symptoms
+ref-tremor:
+  path: "/The Archive/Symptoms/Motor Symptoms/Tremors/tremor_overview.qmd"
+ref-functional-tremor:
+  path: "/The Archive/Symptoms/Motor Symptoms/Tremors/functional_tremor.qmd"
+## Neuro symptoms
+## pain symptoms
+## seizures
+ref-seizure-overview:
+  path: "/The Archive/Symptoms/Seizures/seizure_overview.qmd"
+ref-functional-seizure:
+  path: "/The Archive/Symptoms/Seizures/functional_seizure.qmd"
 
 # Systems
 ## Sensation system

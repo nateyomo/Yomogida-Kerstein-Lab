@@ -10,10 +10,28 @@ title: Abductor Digiti Minimi
 
 # Overview
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Abductor Digiti Minimi (foot)]({{< var ref-abductor-digiti-minimi-foot.path >}}) | {{< var ref-abductor-digiti-minimi-foot.origin >}} | {{< var ref-abductor-digiti-minimi-foot.insertion >}} | {{< var ref-abductor-digiti-minimi-foot.nerve >}} | {{< var ref-abductor-digiti-minimi-foot.action >}} |
-: {.striped .hover}
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "muscle_identifier"  # or "group_identifier"
+filter_patterns <- "abductor_digiti_minimi_foot"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Abductor Digiti Minimi Muscle"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
 
 
 # Origin {#origin}

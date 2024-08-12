@@ -62,3 +62,11 @@ Ptosis, often with ophthalmoplegia, may be added. The differential diagnosis the
 |5| Requiring assisted ventilation for at least part of the day|
 |6| Dead|
 : {.striped .hover}
+
+
+# Treatment
+
+
+# NMES
+
+<!-- https://pubmed.ncbi.nlm.nih.gov/rss/search/10IsjDYWWF_gcMotPRddXTsTgONIL7GbGY6IOwc8l2qBhjkQuQ/?limit=100&utm_campaign=pubmed-2&fc=20240812163522 -->

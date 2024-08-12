@@ -31,3 +31,5 @@ subtitle: Properties of Bone Tissue
 - Osteoporosis
 - Osteoclasts rate> osteoblasts rate
 - Slower healing of fx
+
+

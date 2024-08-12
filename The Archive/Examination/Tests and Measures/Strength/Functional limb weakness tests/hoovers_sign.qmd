@@ -1,8 +1,6 @@
 ---
 title: Hoover's Sign
 subtitle: Special test for Functional limb weakness
-keywords:
-    - Functional limb weakness
 ---
 
 ![Hoover’s sign is considered positive if there is weakness of hip extension (left) which returns to normal with contralateral hip flexion against resistance (right) @bennettPracticalReviewFunctional2021.](/The Archive/Examination/Tests and Measures/Strength/Functional limb weakness tests/images/bennettPracticalReviewFunctional2021 fig1 hoovers sign.png)

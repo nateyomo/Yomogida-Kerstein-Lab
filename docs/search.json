@@ -1929,7 +1929,7 @@
     "href": "The Archive/archive_index.html",
     "title": "The Archive",
     "section": "",
-    "text": "Anatomy\n\nVasculature\nBones\nMuscle OIAN List\n\n\n\n  Upper extremity Muscles\n\n  Upper extremity Muscles\n\n\n\nConnective Tissue\n\nLigaments\n\nNervous System\n\nNerves\nNeuroanatomy\n\n\n\n\nBiomechanics\n\n\nChemistry\n\n\n  Chemistry\n\n  Biochemistry\n\n  Organic  Chemistry\n\n\n\n\nMicrobiology\nMicrobiology\n\nCells\n\nChemokines\n\nEnzymes\nProteins\nNon-Proteins\n\n\n\nPhysiology\n\nPathophysiology\n\n\n\nPsychosocial\n\n\nPain Science\n\n\nPediatrics\n\n\nPathologies\n\n\nNeuroscience\n\n\nMotor control\n\n\nGenetics & Genomics\n\n\nMSK\n\n\nExamination\n\n\nEvidence Based Practice\n\n\nPerformance Training\n\n\n  Surfing\n\n  Volleyball\n\n  Swimming\n\n\n\n\n\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. The Archive. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/archive_index.html"
+    "text": "Vasculature\n\n\n\n\n\nBones\n\n\n\n\n\nMuscle OIAN List\n\n\n\n  Upper extremity Muscles\n\n  Upper extremity Muscles\n\n\n\n\n\n\nConnective Tissue\n\nLigaments\n\n\n\n\n\n\nNervous System\n\nNerves\nNeuroanatomy\n\n\n  Neuroanatomy\n  Neuroanatomy"
   },
   {
     "objectID": "The Archive/MSK/Regions/Lower extremity/foot.html",
@@ -4974,7 +4974,7 @@
     "href": "The Archive/Anatomy/Ligaments/Lower Extremity/Hip Ligaments/sacrotuberous_ligament.html",
     "title": "Sacrotuberous ligament",
     "section": "",
-    "text": "Glute max partly originates from this ligament\n\n\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Sacrotuberous ligament.\nhttps://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Anatomy/Ligaments/Lower Extremity/Hip\nLigaments/sacrotuberous_ligament.html"
+    "text": "Glute max partly originates from this ligament\n\nMuscular Attachment\n\n\nAn error occurred:\n Assigned data `\"\"` must be compatible with existing data. \n\n\nNULL\n\n\n\n\nAn error occurred:\n Assigned data `\"\"` must be compatible with existing data. \n\n\nNULL\n\n\n\n\n\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Sacrotuberous ligament.\nhttps://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Anatomy/Ligaments/Lower Extremity/Hip\nLigaments/sacrotuberous_ligament.html"
   },
   {
     "objectID": "The Archive/Anatomy/Ligaments/Lower Extremity/Knee ligaments/PCL_posterior_cruciate_ligament.html",
@@ -16747,8 +16747,8 @@
     "objectID": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#functional-dystonia",
     "href": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#functional-dystonia",
     "title": "Functional Neurologic Disorder (FND)",
-    "section": "Functional dystonia",
-    "text": "Functional dystonia\n\nPresence\nAggravating factors\nEasing factors"
+    "section": "Functional Dystonia",
+    "text": "Functional Dystonia\nFunctional dystonia can presenta s fixed abnormal posture, but other forms are usually mobile2\nCan present as:\n\nInverted/PF ankle\nFlexion of fingers\nFace dystonia (jaw deviation to one side + contraction of platysma + lip curl down/upward + facial weakness + contraction of orbicularis oculi can be present + eyebrow lowered on affected side2)\n\nFunctional dystonia commonly results in secondary symptoms of pain which can severely impede with ADLs2."
   },
   {
     "objectID": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#urinary-retentionscan-negative-cauda-equina",
@@ -16776,7 +16776,7 @@
     "href": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#functional-limb-weakness-objective",
     "title": "Functional Neurologic Disorder (FND)",
     "section": "Functional limb weakness",
-    "text": "Functional limb weakness\n\n\n\n\n\n\nNote\n\n\n\nNote/Pt edu: Functional leg weakness → pt does not sense that limb IS there, opposite of phantom limb syndrome. Abnormal brain prediction that leg is not there, which overrides/fails to be updated by sensory input that indicates it IS there2\n\n\n\nHoover’s sign\n\n\nA clinician can check for Hoover’s sign in order to differentaite between general hip extension weakness and functional hip extension weakness.\nTechnique (assuming the L hip is demonstrating weakness):\n\nPatient goes into hip extension against resistance with L leg\nTest patient’s ability to perform resisted hip flexion on the right leg which indirectly tests hip extension on the left leg.\nIf the patient has L hip extension weakness against direct resistance, but has sufficient strength against resistance with R hip flexion, this is considered positive\n\nRead more about Hoover’s Sign\n\n\n\n\nHoover’s sign2.\n\n\n\n\n\n\nHip Abductor Sign\n\n\nWeakness of hip abduction that returns to normal with contralateral hip abduction against resistance\n\n\n\n\nHip Abductor sign4.\n\n\n\n\n\n\nArm Drop Test\nAPTA?\nIn the arm drop test, the patient is placed in the supine position. The examiner ensures that the patient’s face is shielded (in case of an organic etiology) and lifts the patient’s plegic arm, suspending it over the patient’s face, then abruptly allowing the arm to fall. The patient will deflect the arm from hitting the face in the case of FMD.79"
+    "text": "Functional limb weakness\n\n\n\n\n\n\nNote\n\n\n\nNote/Pt edu: Functional leg weakness → pt does not sense that limb IS there, opposite of phantom limb syndrome. Abnormal brain prediction that leg is not there, which overrides/fails to be updated by sensory input that indicates it IS there2\n\n\n\nHoover’s sign\n\n\nA clinician can check for Hoover’s sign in order to differentaite between general hip extension weakness and functional hip extension weakness.\nTechnique (assuming the L hip is demonstrating weakness):\n\nPatient goes into hip extension against resistance with L leg\nTest patient’s ability to perform resisted hip flexion on the right leg which indirectly tests hip extension on the left leg.\nIf the patient has L hip extension weakness against direct resistance, but has sufficient strength against resistance with R hip flexion, this is considered positive\n\nRead more about Hoover’s Sign\n\n\n\n\nHoover’s sign2.\n\n\n\n\n\n\nHip Abductor Sign\n\n\nWeakness of hip abduction that returns to normal with contralateral hip abduction against resistance\n\n\n\n\nHip Abductor sign4.\n\n\n\n\n\n\nArm Drop Test\nAPTA?\nIn the arm drop test, the patient is placed in the supine position. The examiner ensures that the patient’s face is shielded (in case of an organic etiology) and lifts the patient’s plegic arm, suspending it over the patient’s face, then abruptly allowing the arm to fall. The patient will deflect the arm from hitting the face in the case of FMD.79\nFunctional limb weakness should be treated with patient education"
   },
   {
     "objectID": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#mechanism",
@@ -16804,6 +16804,167 @@
     "href": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#functional-tremor",
     "title": "Functional Neurologic Disorder (FND)",
     "section": "Functional Tremor",
-    "text": "Functional Tremor\nExpect: variable frequency (not amp) tremor that changes dramatically during externally cued rhythmic movements Arm: Ask pt to copy a rhythmical movement made between finger/thumb using their better hand Leg: ask pt to copy foot tapping Neck: ask them to follow movements of your hand with their tongue If the tremor on the other hand stops, entrains to the same rhythm, or pt has difficulty copying movement → consider functional tremor Other presentations to expect: (5)\n\nPhenotype-specific of function tremor5\n\n\n\n\n\n\nItem\nPhenotype\n\n\n\n\nUniversal features\n\n\n\nFrequency variability\nTremor frequency changes throughout examination\n\n\nEntrainment or full suppressability\nTremor either disappears (suppressability) or adopts the frequency of a repetitive task elsewhere (entrainment)\n\n\nDistractibility\nTremor amplitude attenuates when attention is driven away from affected body part\n\n\nTonic coactiviation\nCo-contraction of antagonistic muscles immediately prior to reemergence of tremor\n\n\nBallistic suppression\nBrief arrest of tremor with performance of a ballistic movement in the opposite limb\n\n\nOptional Features\n\n\n\nDual task interference\nDisruption in tremor frequency and amplitude when simultaneously executing a competing asks\n\n\nIncrease amplitude with weight loading\nTremor amplitude increases with increasing weight applied to limbs\n\n\n“Whack-a-mole” sign\nSpread of tremor to another body part when restrained by the examiner’s hand\n\n\nOther functional signs or phenotypes\nGive-away weakness, non-dermatomal hypoesthesia, associated functional gait disorder, functional dystonia, etc"
+    "text": "Functional Tremor\nIn the arms, ask the patient to copy a rhythmical movement made between finger/thumb using their better hand2. In the legs, ask the patient to copy foot tapping2. And in the neck, have the patient follow movements of your hand with their tongue2.\nIn a functional tremor, one should expect to see variable frequency (not amp) tremor that changes dramatically during externally cued rhythmic movements2. If the tremor on the other hand stops, entrains to the same rhythm, or pt has difficulty copying movement → consider functional tremor2.\n\n\n\n\n\n\nOther distraction maneuvers via APTA\n\n\n\n\nFinger tapping movements at different speeds\nSide-to-side tongue movements\nCounting-serial 7 backward\nContralateral rhythmic ballistic movements\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nWhile a functional tremor will entrain with distraction, an organic tremor will typically increase in amplitude with distraction. Entrainment can result in remission in FMD during distraction maneuvers with uninvolved limbs\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOther presentations of functional tremors\n\n\nItem\nPhenotype\n\n\n\n\nOptional Features\n\n\nBallistic suppression\nBrief arrest of tremor with performance of a ballistic movement in the opposite limb\n\n\nDual task interference\nDisruption in tremor frequency and amplitude when simultaneously executing a competing task\n\n\nIncrease amplitude with weight loading\nTremor amplitude increases with increasing weight applied to limbs\n\n\n\"Whack-a-mole\" sign\nSpread of tremor to another body part when restrained by the examiner’s hand\n\n\nOther functional signs or phenotypes\nGive-away weakness, non-dermatomal hypoesthesia, associated functional gait disorder, functional dystonia, etc\n\n\nUniversal features\n\n\nFrequency variability\nTremor frequency changes throughout examination\n\n\nEntrainment or full suppressability\nTremor either disappears (suppressability) or adopts the frequency of a repetitive task elsewhere (entrainment)\n\n\nDistractibility\nTremor amplitude attenuates when attention is driven away from affected body part\n\n\nTonic coactivation\nCo-contraction of antagonistic muscles immediately prior to reemergence of tremor\n\n\n\nSource:5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nMany movement disorders worsen with stress/disappear with sleep → do not rely on these sx for a diagnosis"
+  },
+  {
+    "objectID": "The Archive/Anatomy/Ligaments/Lower Extremity/Hip Ligaments/ligamentum_teres.html",
+    "href": "The Archive/Anatomy/Ligaments/Lower Extremity/Hip Ligaments/ligamentum_teres.html",
+    "title": "Ligamentum Teres",
+    "section": "",
+    "text": "CitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Ligamentum Teres. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Anatomy/Ligaments/Lower Extremity/Hip\nLigaments/ligamentum_teres.html"
+  },
+  {
+    "objectID": "The Archive/archive_index.html#vasculature",
+    "href": "The Archive/archive_index.html#vasculature",
+    "title": "The Archive",
+    "section": "",
+    "text": "Vasculature"
+  },
+  {
+    "objectID": "The Archive/archive_index.html#bones",
+    "href": "The Archive/archive_index.html#bones",
+    "title": "The Archive",
+    "section": "",
+    "text": "Bones"
+  },
+  {
+    "objectID": "The Archive/archive_index.html#muscles",
+    "href": "The Archive/archive_index.html#muscles",
+    "title": "The Archive",
+    "section": "",
+    "text": "Muscle OIAN List\n\n\n\n  Upper extremity Muscles\n\n  Upper extremity Muscles"
+  },
+  {
+    "objectID": "The Archive/archive_index.html#connective-tissue",
+    "href": "The Archive/archive_index.html#connective-tissue",
+    "title": "The Archive",
+    "section": "",
+    "text": "Connective Tissue\n\nLigaments"
+  },
+  {
+    "objectID": "The Archive/archive_index.html#nervous-system",
+    "href": "The Archive/archive_index.html#nervous-system",
+    "title": "The Archive",
+    "section": "",
+    "text": "Nervous System\n\nNerves\nNeuroanatomy\n\n\n  Neuroanatomy\n  Neuroanatomy"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#functional-seizures",
+    "href": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#functional-seizures",
+    "title": "Functional Neurologic Disorder (FND)",
+    "section": "Functional Seizures",
+    "text": "Functional Seizures\nSigns of functional/dissociative seizures:\n\nLonger duration &gt;90 seconds2.\nFluctuating course2.\nAsynchronous movements2.\nSide to side head or body movement2.\nClosed eyes2.\nMemory of the event2.\n\nSigns for epileptic seizures\n\nPost ictal confusion2.\nStertorous breathing2."
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#functional-sensory-symptoms",
+    "href": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#functional-sensory-symptoms",
+    "title": "Functional Neurologic Disorder (FND)",
+    "section": "Functional Sensory symptoms",
+    "text": "Functional Sensory symptoms\n\n\n\nYes/No Test\n\n\nIn the yes/no test, the patient is asked to say “yes” when they detect a stimulus and “no” when they do not detect a stimulus. A response of “no” immediately after a stimulus may indicate a nonorganic sensory loss. A response of “no” would suggest that a functional disorder is not present, as a truly anesthetic patient would not feel anything and therefore would not respond.\n\n\n\n\n\nForced choice test\n\n\nIn the Forced-Choice test, the patient is asked to distinguish between a sharp or dull stimulus, and an upward or downward movement of a toe or finger. A percentage of correct responses in a series of trials that is less than that observed by chance may indicate nonorganic sensory loss."
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#patient-education",
+    "href": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#patient-education",
+    "title": "Functional Neurologic Disorder (FND)",
+    "section": "Patient Education",
+    "text": "Patient Education\n\nCommunication of diagnosis/understanding\n\n\n\n\n\n\nExample\n\n\n\n“FND is a problem with the functioning of the NS, a problem with the software, not the hardware”2\n\n\n\n\nLimb weakness\n\n\n\n\n\n\nExample\n\n\n\nAfter Hoover’s sign\n”Did you see how your leg returned briefly to normal when I did that test (Hoover’s sign). That shows us that there is a problem with the way your brain is sending the signal to your leg (voluntary movement), but the automatic movements are still okay”2.\n\n\n\n\nLimb blindness\n\n\n\n\n\n\nExample\n\n\n\n“Have you heard of phantom limb syndrome? That’s when someone has an amputation, but their brain still thinks the limb is there. FND is a bit like the opposite, the leg/vision/sensation is there but the brain thinks it isn’t anymore. The map of that part of the body in the brain has gone wrong”2.\n\n\n\n\nWeakness/movements\n\n\n\n\n\n\nExample\n\n\n\n“Functional brain scans have shown that the brain is working too hard in FND. Normally we shouldn’t have to think about how to move our arms our legs. As soon as our brains start to work on this too hard it goes wrong. It’s similar to thinking about your feet when you are climbing upstairs, or trying too hard to fall asleep at night”2.\n\n\n\n\nSeizures\n\n\n\n\n\n\nExample\n\n\n\n“Functional seizures are when the brain goes into a trance-like state called “dissociation” suddenly, all by itself. This is the medical word for being cut off or distant from your surroundings. That’s a bit like the feeling you have just before your seizures sometimes. We think it does this as a “reflex” response – sometimes to get rid of a horrible feeling that many people report just before. After a while, it will often happen for no reason and when people are most relaxed”2.\n\n\n\n\nDystonia\n\n\n\n\n\n\nExample\n\n\n\n“Your brain thinks that the foot is straight even though it’s turned inwards. That’s why it’s hard for you to keep it in a straight position”2.\n\n\n\n\n\n\n\n\nNote\n\n\n\nCervical dystonia clinical pearl from ReActive PT instagram page:\n\nSkipping with scarves\nScarves are a great external focus for eyes/head movement (great for automatic head movements)\nPostural responses : bouncing, skipping, dancing, moving on a tilt board/bosu can all help with automatic responses\nPostural righting responses = automatic head movement\n\n\n\n\n\nAssociated pain\n\n\n\n\n\n\nExample\n\n\n\n“Chronic pain is usually due to an ‘increased volume knob’ in the pain pathways throughout the nervous system, but especially the brain. This is called ‘central sensitisation’ and, like FND, is also a problem with abnormal nervous system functioning”2.\n\n\n\n\nPrognosis\n\n\n\n\n\n\nNote\n\n\n\n“It is not an easy problem to put right, many factors affect it, but there is a potential to improve and many do make a full recovery”2.\n\n\n\n\nHow physical therapy can help\n\n\n\n\n\n\nExample\n\n\n\n“Physiotherapy can help ‘retrain’ the brain in FND. It works best when we can use those principles of distraction that I showed you. A physiotherapist may ask you to try to speed up the movement or do it in an unusual way, to music or in a mirror. Somewhere in your brain we think the automatic movements are in there, and we need to coax them out”2.\n\n\n\n\nPsychologists\n\n\n\n\n\n\nNote\n\n\n\n“It is common in FND for people to have problems like anxiety and depression. This can be a consequence of having the symptoms but, in many, it is already there for other reasons. FND symptoms make people fearful of falling and being injured and of being embarrassed. For some, there are things that have happened which may explain why your brain is vulnerable to going wrong in this way and could be worth exploring. I think a psychiatric/psychological assessment could be helpful. What do you think?”2"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#patient-resources",
+    "href": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#patient-resources",
+    "title": "Functional Neurologic Disorder (FND)",
+    "section": "Patient Resources",
+    "text": "Patient Resources\n\n\n\n\n\n\n  Neurosymptoms.org\n\n\n  FND Hope\n\n\n  FND Action"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#communication-of-diagnosisunderstanding",
+    "href": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#communication-of-diagnosisunderstanding",
+    "title": "Functional Neurologic Disorder (FND)",
+    "section": "Communication of diagnosis/understanding",
+    "text": "Communication of diagnosis/understanding\n\n\n\n\n\n\nExample\n\n\n\n“FND is a problem with the functioning of the NS, a problem with the software, not the hardware”2"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#limb-weakness-pt-ed",
+    "href": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#limb-weakness-pt-ed",
+    "title": "Functional Neurologic Disorder (FND)",
+    "section": "Limb weakness",
+    "text": "Limb weakness\n\n\n\n\n\n\nExample\n\n\n\nAfter Hoover’s sign\n”Did you see how your leg returned briefly to normal when I did that test (Hoover’s sign). That shows us that there is a problem with the way your brain is sending the signal to your leg (voluntary movement), but the automatic movements are still okay”2."
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#limb-blindenss-patient-education",
+    "href": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#limb-blindenss-patient-education",
+    "title": "Functional Neurologic Disorder (FND)",
+    "section": "Limb blindness",
+    "text": "Limb blindness\n\n\n\n\n\n\nExample\n\n\n\n“Have you heard of phantom limb syndrome? That’s when someone has an amputation, but their brain still thinks the limb is there. FND is a bit like the opposite, the leg/vision/sensation is there but the brain thinks it isn’t anymore. The map of that part of the body in the brain has gone wrong”2."
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#weaknessmovements",
+    "href": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#weaknessmovements",
+    "title": "Functional Neurologic Disorder (FND)",
+    "section": "Weakness/movements",
+    "text": "Weakness/movements\n\n\n\n\n\n\nExample\n\n\n\n“Functional brain scans have shown that the brain is working too hard in FND. Normally we shouldn’t have to think about how to move our arms our legs. As soon as our brains start to work on this too hard it goes wrong. It’s similar to thinking about your feet when you are climbing upstairs, or trying too hard to fall asleep at night”2."
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#seizures",
+    "href": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#seizures",
+    "title": "Functional Neurologic Disorder (FND)",
+    "section": "Seizures",
+    "text": "Seizures\n\n\n\n\n\n\nExample\n\n\n\n“Functional seizures are when the brain goes into a trance-like state called “dissociation” suddenly, all by itself. This is the medical word for being cut off or distant from your surroundings. That’s a bit like the feeling you have just before your seizures sometimes. We think it does this as a “reflex” response – sometimes to get rid of a horrible feeling that many people report just before. After a while, it will often happen for no reason and when people are most relaxed”2."
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#dystonia",
+    "href": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#dystonia",
+    "title": "Functional Neurologic Disorder (FND)",
+    "section": "Dystonia",
+    "text": "Dystonia\n\n\n\n\n\n\nExample\n\n\n\n“Your brain thinks that the foot is straight even though it’s turned inwards. That’s why it’s hard for you to keep it in a straight position”2.\n\n\n\n\n\n\n\n\nNote\n\n\n\nCervical dystonia clinical pearl from ReActive PT instagram page:\n\nSkipping with scarves\nScarves are a great external focus for eyes/head movement (great for automatic head movements)\nPostural responses : bouncing, skipping, dancing, moving on a tilt board/bosu can all help with automatic responses\nPostural righting responses = automatic head movement"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#associated-pain",
+    "href": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#associated-pain",
+    "title": "Functional Neurologic Disorder (FND)",
+    "section": "Associated pain",
+    "text": "Associated pain\n\n\n\n\n\n\nExample\n\n\n\n“Chronic pain is usually due to an ‘increased volume knob’ in the pain pathways throughout the nervous system, but especially the brain. This is called ‘central sensitisation’ and, like FND, is also a problem with abnormal nervous system functioning”2."
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#prognosis",
+    "href": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#prognosis",
+    "title": "Functional Neurologic Disorder (FND)",
+    "section": "Prognosis",
+    "text": "Prognosis\n\n\n\n\n\n\nNote\n\n\n\n“It is not an easy problem to put right, many factors affect it, but there is a potential to improve and many do make a full recovery”2.\n\n\n\nHow physical therapy can help\n\n\n\n\n\n\nExample\n\n\n\n“Physiotherapy can help ‘retrain’ the brain in FND. It works best when we can use those principles of distraction that I showed you. A physiotherapist may ask you to try to speed up the movement or do it in an unusual way, to music or in a mirror. Somewhere in your brain we think the automatic movements are in there, and we need to coax them out”2."
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#psychologists",
+    "href": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#psychologists",
+    "title": "Functional Neurologic Disorder (FND)",
+    "section": "Psychologists",
+    "text": "Psychologists\n\n\n\n\n\n\nNote\n\n\n\n“It is common in FND for people to have problems like anxiety and depression. This can be a consequence of having the symptoms but, in many, it is already there for other reasons. FND symptoms make people fearful of falling and being injured and of being embarrassed. For some, there are things that have happened which may explain why your brain is vulnerable to going wrong in this way and could be worth exploring. I think a psychiatric/psychological assessment could be helpful. What do you think?”2"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#consensus-recommendations",
+    "href": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#consensus-recommendations",
+    "title": "Functional Neurologic Disorder (FND)",
+    "section": "Consensus recommendations",
+    "text": "Consensus recommendations\n\nEducation (normalize illness beliefs, reduce abnormal self directed attention, break down learned patterns of abnormal movement)6.\nDemonstrate normal movement can occur (through automatic pathways)6.\nRetrain movement with diverted attention6.\nChange maladaptive behaviors related to symptoms6."
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#general-treatment-principles",
+    "href": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#general-treatment-principles",
+    "title": "Functional Neurologic Disorder (FND)",
+    "section": "General Treatment Principles",
+    "text": "General Treatment Principles\n\nBuild trust before challenging the patient6.\nLimit hands on treatment, facilitate- do not support6.\nEncourage early WB (bed strength does not correlate with ability to walk/stand)6.\nFoster independence/self management with goals6.\nGoal directed rehab - focus on functional/automatic movements (ie walking) rather than impairments (weakness) and controlled (requiring lots of attention) movement (like strength/non automatic movements)6.\nMinimize use of maladaptive patterns/positions (retrain with correct biomechanics)6.\nAvoid adaptive equipment/aids unless absolutely necessary (never recommend splints)6.\nChallenge / recognize unhelpful thought patterns6.\nDevelop a relapse prevention plan6.\nNEVER say psychogenic/conversion disorder, use functional movement disorder or weakness/paralysis/tremor/dystonia etc6.\nAcknowledge that their symptoms are real, and not imagined6.\nAcknowledge that these symptoms are common and you FREQUENTLY see patients with these symptoms (trust is huge, they need to buy in completely)6.\nExplain that their symptoms can get better : the problem is with NS functioning and not actual physical damage to the NS6.\nExplain that FMD is diagnosed with clinical signs which demonstrate normal movement is possible, and physical therapy can help coax out the automatic movements that were once within your brain. (through distraction, music, etc)6.\n\nClinical signs: hoovers, hip abductor sign, abolishing tremor with rhythmical movements6.\n\nExplain a wide variety of factors can cause symptoms → physical illness, injury, psych factors like anxiety/depression/trauma6.\n\nPT can retrain the NS to regain control over movement6."
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#language",
+    "href": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#language",
+    "title": "Functional Neurologic Disorder (FND)",
+    "section": "Language",
+    "text": "Language\n\nCorrectly remove blame/fault/voluntariness6.\n\n“Brain is attending to your body in an abnormal way, your tests show that your muscles are capable of movement, but we have to retrain your nervous system to allow that movement to happen”6.\n\nTo cue “ALLOW your leg to come forward”, do not say: “step your leg forward”6."
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#treatment-ideas",
+    "href": "The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.html#treatment-ideas",
+    "title": "Functional Neurologic Disorder (FND)",
+    "section": "Treatment ideas",
+    "text": "Treatment ideas\n\nRetrain movement through diverted attention6. Minimize self focused attention by distracting/preventing the patient from cognitively controlling movement and to stimulate automatically generated movement Can be achieved by altering focus of motor attention, such as thinking about a different part of the movement or trying FAST, RHYTHMICAL, UNFAMILIAR, OR UNPREDICTABLE MOVEMENT Distraction Conversation, music, mental tasks (like math) Task oriented exercises are preferred (effective, translate directly into improved function, encourage implicit motor control) WB/automatic postural responses like sitting on an unstable surface- like a therapy ball OTHER ideas to normalize movement:"
   }
 ]

@@ -1,8 +1,6 @@
 ---
 title: Hip Abductor sign
 subtitle: Special test for Functional limb weakness
-keywords:
-    - Functional limb weakness
 ---
 
 
