@@ -2,6 +2,85 @@
 title: Musculoskeletal Approach to the Hip
 ---
 
+# Osteology
+## Innominate
+
+## Femur
+
+
+# Functional Anatomy of the Hip
+## Femoral Head 
+
+## Acetabulum
+
+
+## Acetabular Labrum
+
+
+## Acetabular alignment
+
+
+## Capsule and ligaments
+
+## Pack Position
+
+# Osteokinematics
+
+# Arthrokinematics
+
+# Muscle & Joint Interaction
+
+## Innervation
+
+## Muscular Function
+
+# Hip Pathologies and selected therapeutic/surgical interventions
+
+## Hip Osteoarthritis (OA)
+
+## Treatment of Unstable hip
+
+
+# Study Questions
+
+1. What structures convert the greater sciatic notch to a foramen? List three structures (nerves or muscles) that pass through this foramen.
+    - 
+    - 
+1. A patient has excessive anteversion of the femur and acetabulum. Which extreme hip motion (in the horizontal plane) would most likely be associated with a spontaneous anterior dislocation? 
+    - 
+1. What characteristics define the close-packed position of the hip? How do these characteristics differ from most other synovial joints of the body? 
+    - 
+1. Explain why a patient with an inflamed capsule of the hip joint may be susceptible to a hip flexion contracture. 
+    - 
+1. Describe how the ischiofemoral ligament becomes taut in full internal rotation and extension of the hip. Include both femoral-on-pelvic and pelvic-on-femoral perspectives in your description. 
+    - 
+1. While standing, a person performs a full posterior pelvic tilt while keeping the trunk essentially stationary. Describe how this movement could alter the tension in the anterior longitudinal ligament and the ligamentum flavum in the lumbar region. 
+    - 
+1. Using a ruler and Fig. 12.30 as a reference, which muscle appears to have the greatest moment arm for hip abduction? 
+    - 
+1. Based on Fig. 12.35, which muscle has (a) the least leverage and (b) the greatest leverage for producing internal rotation torque? 
+    - 
+1. A patient sustained a severe fracture of the femoral head and the acetabulum, with marked reduction in contact area between the articular surfaces of the joint. As part of the reconstructive surgery, the surgeon decides to slightly increase the internal moment arm of the hip abductor muscles. What is the likely rationale for this procedure? 
+    - 
+1. Explain how a reduced center-edge angle of the acetabulum could favor a dislocation of the hip. 
+    - 
+1. Contrast the arthrokinematics of (femoral-on-pelvic) hip flexion and extension with those of internal and external rotation. 
+    - 
+1. As indicated in Fig. 12.12, during the swing phase of walking the hip experiences (compression) forces of about 10–20% of body weight. What causes this force? 
+    - 
+1. Fig. 12.22A shows a seated person performing a 30 &deg; anterior pelvic tilt. What structure(s) is/are most likely responsible for determining the end range of this motion? 
+    - 
+1. A person sustained an injury of the cauda equina resulting in reduced function of spinal nerve roots L3 and below. What pattern of muscular tightness may develop without inadequate physical therapy intervention? (Consult Appendix IV, Part A, for assistance in responding to this question.) 
+    - 
+1. Justify how bilateral tightness in the adductor longus and brevis could contribute to excessive lumbar lordosis while standing. 
+    - 
+1. A standard way for persons to stretch their own rectus femoris is to simultaneously flex the knee while extending the hip. When performing this stretch, some persons with a tightened rectus femoris also hold their extended hip slightly abducted. Why would this be?
+    - 
+1. Which muscle depicted in the dynamic bilateral hip adduction event of Fig. 12.33 is actively eccentrically? Please justify your answer.
+    - 
+
+
+
 # Maximal Torque Produced by the hip muscles
 
 “Normative data on the maximal­effort torque production of the hip muscles may be useful for assessing progress and setting of goals for persons involved in rehabilitation and training programs. Fig. 12.48 depicts the average, maximal internal torque produced by a sample of healthy males.34 It is interesting to observe the ranking of the peak torques across the three planes of motion. The greatest torque is produced in the sagittal plane, with exten­ sion torque slightly exceeding flexion torque. The predominant strength of the hip extensors compared with all other muscle groups is not surprising: these muscles must lift or propel the body upward (and often forward) against gravity or control the descent of the body. The relatively high strength of the hip flexor muscles reflects the need to rapidly accelerate the lower limb during running, in addition to controlling the entire trunk and pelvis relative to fixed lower extremities. Consider in the latter case the physically powerful iliopsoas, for example—a muscle that likely accounts for a significant proportion of the flexion torque poten­ tial at the hip. The adductor and abductor muscles generate similar magni­ tudes of peak torque within the frontal plane, but of lower com­ bined magnitude than the flexor and extensor muscles.34,226 The internal and external rotator muscles produce the least magnitude of torque of all muscle groups of the hip. Such a ranking is likely due to the fact that, in the upright position, these muscles produce a rotary torque between the femur and pelvis in a plane that does not typically oppose the force of gravity.” @neumannKinesiologyMusculoskeletalSystem2017 

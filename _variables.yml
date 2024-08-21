@@ -2320,12 +2320,16 @@ ref-lumbar-lateral-recess-stenosis:
 ref-lateral-epicondylitis:
   path: "/The Archive/Pathologies/MSK Pathologies/Upper extremity/lateral_epicondylitis.qmd"
 ### Lower Extremity
-pelvic-stress-fracture:
+ref-pelvic-stress-fracture:
   path: "/The Archive/Pathophysiology/stress_reactions_and_fractures.qmd"
-femoral-shaft-stress-fracture:
+ref-femoral-shaft-stress-fracture:
   path: "/The Archive/Pathophysiology/stress_reactions_and_fractures.qmd"
-adductor-muscle-strain:
+ref-adductor-muscle-strain:
   path: "/The Archive/Pathologies/MSK Pathologies/Lower extremity/adductor_muscle_strain.qmd"
+
+#### Hip Pathologies
+ref-acetebular-labral-tear:
+  path: "/The Archive/Pathologies/Pathologies by Region/Lower extremity/Hip/acetabular_labral_tear.qmd"
 
 # Pathophysiology
 ## Bone Pathophysiology

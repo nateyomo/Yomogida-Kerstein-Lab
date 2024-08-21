@@ -49,4 +49,10 @@ Direct branches from sacral plexus [S1]({{< var ref-nerve-root.s1 >}}) and [S2](
 
 # Pathologies
 
-- Piriformis Syndrome
+- Piriformis Syndrome (Piriformis caused sciatica)
+- Piriformis Tendinitis
+
+
+## Piriformis tendinitis
+
+"Tenderness to deep palpation near the hook of the greater trochanter. Pain reproduced by piriformis stretch" @duttonDuttonOrthopaedicExamination2020 
