@@ -1,7 +1,0 @@
----
-title: Olfaction (Smell)
----
-
-# Dysfunction
-
-- [Anosmosia]({{< var ref-anosmia.path >}})

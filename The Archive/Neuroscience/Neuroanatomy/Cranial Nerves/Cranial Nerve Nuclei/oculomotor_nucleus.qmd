@@ -1,7 +1,0 @@
----
-title: Oculomotor Nuclei
----
-
-One of the somatic motor nuclei
-
-provides motor output to [CNIII Oculomotor nerve]({{< var ref-cn3.path >}})

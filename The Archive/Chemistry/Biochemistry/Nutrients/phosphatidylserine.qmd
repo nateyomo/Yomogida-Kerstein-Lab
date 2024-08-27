@@ -1,7 +1,0 @@
----
-title: Phosphatidylserine
----
-
-# Function
-
-- Decrease mental stress (based on 1990 article @monteleoneEffectsPhosphatidylserineNeuroendocrine1990 )

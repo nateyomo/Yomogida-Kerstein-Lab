@@ -1,9 +1,0 @@
----
-title: Posture
----
-
-
-
-# Automatic posture {#automatic}
-
-- [Reticulospinal tracts]({{< var ref-reticulospinal-tract.path >}}) functions in automatic posture  @blumenfeldNeuroanatomyClinicalCases2022

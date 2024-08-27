@@ -1,4 +1,0 @@
----
-title: Acceleration (Gait)
-subtitle: The rate of change of velocity with respect to time
----

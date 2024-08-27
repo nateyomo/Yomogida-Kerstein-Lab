@@ -1,9 +1,0 @@
----
-title: Balance
----
-
-
-
-# Balance motor system
-
-- [Lateral VST]({{< var ref-vestibulospinal-tract.lateral >}}) functions in balance  @blumenfeldNeuroanatomyClinicalCases2022

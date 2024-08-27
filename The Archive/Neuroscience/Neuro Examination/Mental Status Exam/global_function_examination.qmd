@@ -1,3 +1,0 @@
----
-title: Examination of Global Functions
----

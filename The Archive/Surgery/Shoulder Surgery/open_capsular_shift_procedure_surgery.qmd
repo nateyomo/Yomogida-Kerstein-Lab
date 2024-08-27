@@ -1,9 +1,0 @@
----
-title: Open Capsular Shift Procedure
-subtitle: Shoulder surgery
----
-
-
-Indications
-
-- Multidirectional instability @longoMultidirectionalInstabilityShoulder2015 

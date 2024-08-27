@@ -1,9 +1,0 @@
----
-title: Patellar Tendon
----
-
-
-
-# Dysfunction
-
-[Patellar Tendinopathy]({{< var ref-patellar-tendon.tendinopathy >}})

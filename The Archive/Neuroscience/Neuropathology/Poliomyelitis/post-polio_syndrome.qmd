@@ -1,8 +1,0 @@
----
-title: Post-Polio Syndrome  (PPS)
----
-
-:::{.callout title="Resources"}
-
-- Suzanne - Ch14 p.551 @martinNeurologicInterventionsPhysical2021a 
-:::

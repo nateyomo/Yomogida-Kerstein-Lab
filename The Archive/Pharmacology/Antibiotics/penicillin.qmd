@@ -1,7 +1,0 @@
----
-title: Penicillin
----
-
-Class: beta-lactam antibiotic
-
-# Penicillin G

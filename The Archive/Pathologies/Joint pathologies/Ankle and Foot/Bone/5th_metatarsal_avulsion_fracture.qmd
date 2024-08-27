@@ -1,8 +1,0 @@
----
-title: 5th Metatarsal Avulsion Fracture
----
-
-:::{.callout title="AKA"}
-
-- Dancer's Fracture
-:::

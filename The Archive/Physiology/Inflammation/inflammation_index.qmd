@@ -1,8 +1,0 @@
----
-title: Index of Inflammation
----
-
-### Inflammatory Cells
-
-- [Macrophages]({{< var ref-macrophage.path >}})
-- 

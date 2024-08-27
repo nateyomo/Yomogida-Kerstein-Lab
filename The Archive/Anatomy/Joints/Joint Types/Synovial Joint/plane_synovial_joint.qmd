@@ -1,5 +1,0 @@
----
-title: Plane Joint
-subtitle: Mechanical class of Synovial joints
----
-

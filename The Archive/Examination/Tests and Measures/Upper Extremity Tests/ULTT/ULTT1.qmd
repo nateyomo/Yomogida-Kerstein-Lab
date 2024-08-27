@@ -1,4 +1,0 @@
----
-title: Upper limb tension test 1 (ULTT1)
-subtitle: Median nerve tension test
----

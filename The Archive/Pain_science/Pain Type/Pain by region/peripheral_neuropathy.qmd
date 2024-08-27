@@ -1,9 +1,0 @@
----
-title: Peripheral Neuropathy
----
-
-:::{.callout-note}
-
-- Welzack Chapter 65 Painful Peripheral Neuropathies @mcmahonWallMelzackTextbook2013 
-:::
-

@@ -1,8 +1,0 @@
----
-title: Index of PT Interventions
----
-
-
-## Cryotherapy
-
-- [Icing]({{< var ref-icing-cryotherapy.path >}})

@@ -1,4 +1,0 @@
----
-title: Applied Functional Science (AFS)
----
-

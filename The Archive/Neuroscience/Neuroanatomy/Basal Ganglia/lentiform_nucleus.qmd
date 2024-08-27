@@ -1,8 +1,0 @@
----
-title: Lentiform Nucleus 
----
-
-Composed of:
-
-- [Globus Pallidus]({{< var ref-globus-pallidus.path >}})
-- [Putamen]({{< var ref-putamen.path >}})

@@ -1,7 +1,0 @@
----
-title: Rickets
----
-
-# Endocrinology
-
-- Rickets and Osteomalacia (Williams Endocrinology Ch31  @melmedWilliamsTextbookEndocrinology2020)

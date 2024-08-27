@@ -1,7 +1,0 @@
----
-title: Index of Golf
----
-
-
-- [Golf (Overview)]({{< var ref-golf-overview.path >}})
-- [Golf Injuries]({{< var ref-golf-injuries.path >}})

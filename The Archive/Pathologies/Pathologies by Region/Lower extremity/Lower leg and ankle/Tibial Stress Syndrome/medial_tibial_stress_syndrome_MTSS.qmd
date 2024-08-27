@@ -1,9 +1,0 @@
----
-title: Medial Tibial Stress Syndrome (MTSS)
----
-
-
-
-# Tests
-
-- Palpation of tibial crest @duttonDuttonOrthopaedicExamination2020 

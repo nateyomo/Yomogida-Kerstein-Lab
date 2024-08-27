@@ -1,9 +1,0 @@
----
-title: Vagal Nerve Stimulation
----
-
-
-
-# Indications
-
-[Cluster headache]({{< var ref-headache.cluster >}})

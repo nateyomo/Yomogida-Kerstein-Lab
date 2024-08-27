@@ -1,7 +1,0 @@
----
-title: Pathophysiology of Muscles
----
-
-- [Overview of Muscle states]({{< var ref-muscle-states.path >}})
-    - Hypertonicity
-    - Hypotonia
