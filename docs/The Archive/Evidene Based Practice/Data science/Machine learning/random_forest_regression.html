@@ -8,8 +8,9 @@
 
 <meta name="author" content="Nathaniel Yomogida">
 <meta name="author" content="Chloë Kerstein">
+<meta name="keywords" content="Random forest, Random Forest Intuition, Random forest regression, Ensemble learning">
 
-<title>Abduction-Extension-External Rotation Test of the Hip – YK Lab</title>
+<title>Random Forest (RF) – YK Lab</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -44,28 +45,25 @@ div.csl-indent {
 }</style>
 
 
-<script src="../../../../../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../../../../../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../../../../../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../../../../../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../../../../../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../../../../../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../../../../../">
-<link href="../../../../..//images/brain-favicon.png" rel="icon" type="image/png">
-<script src="../../../../../site_libs/quarto-html/quarto.js"></script>
-<script src="../../../../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../../../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../../../../../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../../../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../../../../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="../../../../../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../../../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../../../../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<script src="../../../../../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
-<link href="../../../../../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
-<link href="../../../../../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
+<script src="../../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../../">
+<link href="../../../..//images/brain-favicon.png" rel="icon" type="image/png">
+<script src="../../../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -93,7 +91,7 @@ div.csl-indent {
 }</script>
 
 
-<link rel="stylesheet" href="../../../../../styles.css">
+<link rel="stylesheet" href="../../../../styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -103,7 +101,7 @@ div.csl-indent {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../../../../../index.html">
+    <a class="navbar-brand" href="../../../../index.html">
     <span class="navbar-title">YK Lab</span>
     </a>
   </div>
@@ -114,27 +112,27 @@ div.csl-indent {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../../../../index.html"> 
+    <a class="nav-link" href="../../../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../../The Archive/archive_index.html"> 
+    <a class="nav-link" href="../../../../The Archive/archive_index.html"> 
 <span class="menu-text">Archive</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../../guide.html"> 
+    <a class="nav-link" href="../../../../guide.html"> 
 <span class="menu-text">Guide</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../../journal club index.html"> 
+    <a class="nav-link" href="../../../../journal club index.html"> 
 <span class="menu-text">Journal Club</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../../about.html"> 
+    <a class="nav-link" href="../../../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../../contact.html"> 
+    <a class="nav-link" href="../../../../contact.html"> 
 <span class="menu-text">Contact</span></a>
   </li>  
 </ul>
@@ -149,15 +147,27 @@ div.csl-indent {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Contents</h2>
+   
+  <ul>
+  <li><a href="#process" id="toc-process" class="nav-link active" data-scroll-target="#process">Process</a></li>
+  <li><a href="#other" id="toc-other" class="nav-link" data-scroll-target="#other">Other</a></li>
+  <li><a href="#contraindications" id="toc-contraindications" class="nav-link" data-scroll-target="#contraindications">Contraindications</a></li>
+  <li><a href="#strengths" id="toc-strengths" class="nav-link" data-scroll-target="#strengths">Strengths</a></li>
+  <li><a href="#application" id="toc-application" class="nav-link" data-scroll-target="#application">Application</a></li>
+  <li><a href="#interpretation" id="toc-interpretation" class="nav-link" data-scroll-target="#interpretation">Interpretation</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Abduction-Extension-External Rotation Test of the Hip</h1>
+<h1 class="title">Random Forest (RF)</h1>
+<p class="subtitle lead">Ensemble Machine learning</p>
 </div>
 
 
@@ -197,30 +207,65 @@ div.csl-indent {
   </div>
   
 
+<div>
+  <div class="keywords">
+    <div class="block-title">Keywords</div>
+    <p>Random forest, Random Forest Intuition, Random forest regression, Ensemble learning</p>
+  </div>
+</div>
 
 </header>
 
 
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="../../../../../The Archive/Examination/Tests and Measures/Lower extremity tests/Hip Tests/images/Abduction-extension-external rotation test wongPhysicalExaminationHip2022.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Abduction-extensionexternal rotation test @wongPhysicalExaminationHip2022"><img src="../../../../../The Archive/Examination/Tests and Measures/Lower extremity tests/Hip Tests/images/Abduction-extension-external rotation test wongPhysicalExaminationHip2022.png" class="img-fluid figure-img" alt="Abduction-extensionexternal rotation test1"></a></p>
-<figcaption>Abduction-extensionexternal rotation test<span class="citation" data-cites="wongPhysicalExaminationHip2022"><sup><a href="#ref-wongPhysicalExaminationHip2022" role="doc-biblioref">1</a></sup></span></figcaption>
-</figure>
-</div>
-<p>“This test is performed with the patient in the lateral decubitus position with the affected hip up. The hip is extended, abducted to 30°, and externally rotated. The examiner then places an anteriorly directed force posterior to the greater trochanter (Figure 10). The test is positive if the patient’ssymptoms of pain or apprehension are reproduced [43]. This test has been found to be 81% sensitive and 89% specific for the diagnosis of microinstability, with a positive predictive value of 91% [44].”<span class="citation" data-cites="wongPhysicalExaminationHip2022"><sup><a href="#ref-wongPhysicalExaminationHip2022" role="doc-biblioref">1</a></sup></span></p>
+<p>This is a form of “ensemble learning”</p>
+<p>Random forest is a further refinement of classification and regression tree (CART) models<span class="citation" data-cites="rigattiRandomForest2017"><sup><a href="#ref-rigattiRandomForest2017" role="doc-biblioref">1</a></sup></span>.</p>
+<section id="process" class="level1">
+<h1>Process</h1>
+<ol type="1">
+<li>Pick at random “K” data points from a dataset</li>
+<li>Build the Decision tree associated to the “K” data points</li>
+<li>Choose the number Ntree of trees you want to build and repeat steps 1 &amp; 2</li>
+<li>For a new data point, make each one of your Ntree trees predict the value of Y for the data point in question and assign the new data point the average across all of the predicted Y-values</li>
+</ol>
+</section>
+<section id="other" class="level1">
+<h1>Other</h1>
+<p>Should have a minimum of 500 trees</p>
+<p>Multiple trees creates a “forest” and the program averages the results of the forest, which reduces the likelihood of error.</p>
+</section>
+<section id="contraindications" class="level1">
+<h1>Contraindications</h1>
+<ul>
+<li>Determining factors impacting “Time-to-event” is not suited for random forest and is better suited for a <em>Cox Proportional Hazards</em> model<span class="citation" data-cites="rigattiRandomForest2017"><sup><a href="#ref-rigattiRandomForest2017" role="doc-biblioref">1</a></sup></span></li>
+</ul>
+</section>
+<section id="strengths" class="level1">
+<h1>Strengths</h1>
+<ul>
+<li><strong>Greatest Strength</strong> of RF is its ability to find meaningful interactions and non-linear effects of the predictors<span class="citation" data-cites="rigattiRandomForest2017"><sup><a href="#ref-rigattiRandomForest2017" role="doc-biblioref">1</a></sup></span>.</li>
+</ul>
+</section>
+<section id="application" class="level1">
+<h1>Application</h1>
+<p>Once the RF has been calculated, it can be used for prediction<span class="citation" data-cites="rigattiRandomForest2017"><sup><a href="#ref-rigattiRandomForest2017" role="doc-biblioref">1</a></sup></span>.</p>
+</section>
+<section id="interpretation" class="level1">
+<h1>Interpretation</h1>
+<p>The RF is a refined form of the CART model by increasing the number of trees and therefore complexity, but this increased complexity leads to difficulty with interpretability<span class="citation" data-cites="rigattiRandomForest2017"><sup><a href="#ref-rigattiRandomForest2017" role="doc-biblioref">1</a></sup></span>. Most would find it difficult or at the very least unintuitive to determine which variables (x) are most strongly influencing the predictions<span class="citation" data-cites="rigattiRandomForest2017"><sup><a href="#ref-rigattiRandomForest2017" role="doc-biblioref">1</a></sup></span>.</p>
+<p>To remedy this, one must use “variable importance measures” to measure the impact of the variables in the model<span class="citation" data-cites="rigattiRandomForest2017"><sup><a href="#ref-rigattiRandomForest2017" role="doc-biblioref">1</a></sup></span>. Some of these methods use a measure similar to the <em>area under the curve</em> known as a “Gini coefficient” to achieve this<span class="citation" data-cites="rigattiRandomForest2017"><sup><a href="#ref-rigattiRandomForest2017" role="doc-biblioref">1</a></sup></span>. Alternatively, one could test the model while leaving out individual variables left out to see how the error rate is affected<span class="citation" data-cites="rigattiRandomForest2017"><sup><a href="#ref-rigattiRandomForest2017" role="doc-biblioref">1</a></sup></span>.</p>
 
 
 
+</section>
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
-<div id="ref-wongPhysicalExaminationHip2022" class="csl-entry" role="listitem">
-<div class="csl-left-margin">1. </div><div class="csl-right-inline">Wong SE, Cogan CJ, Zhang AL. Physical <span>Examination</span> of the <span>Hip</span>: <span>Assessment</span> of <span>Femoroacetabular Impingement</span>, <span>Labral Pathology</span>, and <span>Microinstability</span>. <em>Current Reviews in Musculoskeletal Medicine</em>. 2022;15(2):38-52. doi:<a href="https://doi.org/10.1007/s12178-022-09745-8">10.1007/s12178-022-09745-8</a></div>
+<div id="ref-rigattiRandomForest2017" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Rigatti SJ. Random <span>Forest</span>. <em>Journal of Insurance Medicine (New York, NY)</em>. 2017;47(1):31-39. doi:<a href="https://doi.org/10.17849/insm-47-01-31-39.1">10.17849/insm-47-01-31-39.1</a></div>
 </div>
 </div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
-<div class="">Yomogida N, Kerstein C.
-Abduction-Extension-External Rotation Test of the Hip. <a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Examination/Tests and Measures/Lower extremity tests/Hip Tests/abduction-extension-external_rotation_hip_test.html">https://nateyomo.github.io/Yomogida-Kerstein-Lab/The
-Archive/Examination/Tests and Measures/Lower extremity tests/Hip
-Tests/abduction-extension-external_rotation_hip_test.html</a></div>
+<div class="">Yomogida N, Kerstein C. Random Forest (RF). <a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Evidene Based Practice/Data science/Machine learning/random_forest_regression.html">https://nateyomo.github.io/Yomogida-Kerstein-Lab/The
+Archive/Evidene Based Practice/Data science/Machine
+learning/random_forest_regression.html</a></div>
 </div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
@@ -787,38 +832,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","loop":false,"descPosition":"bottom","openEffect":"zoom","selector":".lightbox"});
-(function() {
-  let previousOnload = window.onload;
-  window.onload = () => {
-    if (previousOnload) {
-      previousOnload();
-    }
-    lightboxQuarto.on('slide_before_load', (data) => {
-      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
-      const href = trigger.getAttribute('href');
-      if (href !== null) {
-        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
-        if (imgEl !== null) {
-          const srcAttr = imgEl.getAttribute("src");
-          if (srcAttr && srcAttr.startsWith("data:")) {
-            slideConfig.href = srcAttr;
-          }
-        }
-      } 
-    });
-  
-    lightboxQuarto.on('slide_after_load', (data) => {
-      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
-      if (window.Quarto?.typesetMath) {
-        window.Quarto.typesetMath(slideNode);
-      }
-    });
-  
-  };
-  
-})();
-          </script>
 
 
 
