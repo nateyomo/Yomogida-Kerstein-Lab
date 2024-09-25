@@ -17124,9 +17124,9 @@
   {
     "objectID": "The Archive/Signs and Symptoms/Blood pressure/orthostatic_hypotension.html",
     "href": "The Archive/Signs and Symptoms/Blood pressure/orthostatic_hypotension.html",
-    "title": "Orthostatic Hypotension",
+    "title": "Orthostatic Hypotension (OH)",
     "section": "",
-    "text": "Definition\n\nClassical definition: A drop in systolic blood pressure (SBP) &gt;20mmHg or diastolic blood pressure (DBP) ≥10mmHg on postural challenge after 3 minutes of standing or head-up tilt (HUT) ≥60° on a tilt table\n\nmillsNonpharmacologicManagementOrthostatic2015\n\n\n\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Orthostatic\nHypotension. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Symptoms/Blood pressure/orthostatic_hypotension.html"
+    "text": "Classical OH was defined in 1996 as a decrease in systolic blood pressure (SBP) of &gt;20mmHg or diastolic blood pressure (DBP) ≥10mmHg after 3 minutes of standing or head-up tilt (HUT) ≥60° on a tilt table1\n\n\n\nInitial OH is defined as a temporary blood pressure decrease of &gt;40mmHg SBP or &gt;20mmHg DBP within 15 seconds of standing1."
   },
   {
     "objectID": "Presentations/Inservice/kaiser_OCI_nyomogida_inservice.html",
@@ -17645,5 +17645,19 @@
     "title": "Total Joint Repair Complications",
     "section": "Pathophysiology",
     "text": "Pathophysiology\nOccurs due to blood loss from internal bleeding from the surgery."
+  },
+  {
+    "objectID": "The Archive/Signs and Symptoms/Blood pressure/orthostatic_hypotension.html#classical-oh",
+    "href": "The Archive/Signs and Symptoms/Blood pressure/orthostatic_hypotension.html#classical-oh",
+    "title": "Orthostatic Hypotension (OH)",
+    "section": "",
+    "text": "Classical OH was defined in 1996 as a decrease in systolic blood pressure (SBP) of &gt;20mmHg or diastolic blood pressure (DBP) ≥10mmHg after 3 minutes of standing or head-up tilt (HUT) ≥60° on a tilt table1"
+  },
+  {
+    "objectID": "The Archive/Signs and Symptoms/Blood pressure/orthostatic_hypotension.html#initial-oh",
+    "href": "The Archive/Signs and Symptoms/Blood pressure/orthostatic_hypotension.html#initial-oh",
+    "title": "Orthostatic Hypotension (OH)",
+    "section": "",
+    "text": "Initial OH is defined as a temporary blood pressure decrease of &gt;40mmHg SBP or &gt;20mmHg DBP within 15 seconds of standing1."
   }
 ]
