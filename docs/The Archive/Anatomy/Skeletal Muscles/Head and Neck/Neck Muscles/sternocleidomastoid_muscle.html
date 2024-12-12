@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.55">
+<meta name="generator" content="quarto-1.6.37">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -44,7 +44,7 @@ div.csl-indent {
 }</style>
 
 
-<script src="../../../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script><script src="../../../../../site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="../../../../../site_libs/quarto-nav/headroom.min.js"></script>
 <script src="../../../../../site_libs/clipboard/clipboard.min.js"></script>
 <script src="../../../../../site_libs/quarto-search/autocomplete.umd.js"></script>
@@ -57,12 +57,12 @@ div.csl-indent {
 <script src="../../../../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../../../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../../../../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../../../../../site_libs/quarto-html/quarto-syntax-highlighting-29e2c20b02301cfff04dc8050bf30c7e.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../../../../site_libs/quarto-html/quarto-syntax-highlighting-dark-43df0d6f53b733b42d37fa7808e17715.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="../../../../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../../../../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../../../../../site_libs/bootstrap/bootstrap-2cd373bbd777488a2901da25ac479b00.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../../../../site_libs/bootstrap/bootstrap-dark-30247d3b2cd0522fbeca720c4281c240.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -88,6 +88,9 @@ div.csl-indent {
     "search-label": "Search"
   }
 }</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.6/require.min.js" integrity="sha512-c3Nl8+7g4LMSTdrm621y7kf9v3SDPnhxLNhcjFJbKECVnmZHTdo+IRO05sNLTH/D3vA6u1X32ehoLC7WFVdheg==" crossorigin="anonymous"></script>
+
+<script type="application/javascript">define('jquery', [],function() {return window.jQuery;})</script>
 
 
 <link rel="stylesheet" href="../../../../../styles.css">
@@ -155,13 +158,11 @@ div.csl-indent {
     <h2 id="toc-title">Contents</h2>
    
   <ul>
-  <li><a href="#oian" id="toc-oian" class="nav-link active" data-scroll-target="#oian">OIAN</a>
-  <ul class="collapse">
+  <li><a href="#oian" id="toc-oian" class="nav-link active" data-scroll-target="#oian">OIAN</a></li>
   <li><a href="#origin" id="toc-origin" class="nav-link" data-scroll-target="#origin">Origin</a></li>
   <li><a href="#insertion" id="toc-insertion" class="nav-link" data-scroll-target="#insertion">Insertion</a></li>
   <li><a href="#innervation" id="toc-innervation" class="nav-link" data-scroll-target="#innervation">Innervation</a></li>
   <li><a href="#action" id="toc-action" class="nav-link" data-scroll-target="#action">Action</a></li>
-  </ul></li>
   <li><a href="#muscle-groups" id="toc-muscle-groups" class="nav-link" data-scroll-target="#muscle-groups">Muscle groups</a></li>
   <li><a href="#palpation" id="toc-palpation" class="nav-link" data-scroll-target="#palpation">Palpation</a></li>
   <li><a href="#clinical-significance" id="toc-clinical-significance" class="nav-link" data-scroll-target="#clinical-significance">Clinical significance</a></li>
@@ -223,52 +224,55 @@ div.csl-indent {
 
 <section id="oian" class="level1">
 <h1>OIAN</h1>
-<table class="table-striped table-hover caption-top table">
-<caption>Sternocleidomastoid OIAN</caption>
+<div id="tbl-oian" class="cell anchored" data-message="false" data-execution_count="1">
+<div class="cell-output cell-output-display">
+<table class="dataframe oian-table caption-top table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
 <thead>
 <tr class="header">
-<th>Muscle</th>
-<th>Origin</th>
-<th>Insertion</th>
-<th>Nerve</th>
-<th>Action</th>
+<th data-quarto-table-cell-role="th">Muscle</th>
+<th data-quarto-table-cell-role="th">Origin</th>
+<th data-quarto-table-cell-role="th">Insertion</th>
+<th data-quarto-table-cell-role="th">Innervation</th>
+<th data-quarto-table-cell-role="th">Action</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/sternocleidomastoid_muscle.html">Sternocleidomastoid</a></td>
-<td><p><strong>Sternal head</strong>: <a href="{{< var ref-sternum-bone.path >}}">sternum (manubrium)</a>; <br> <strong>Clavicular head</strong>: <a href="{{< var ref-clavicle-bone.path >}}">Clavicle (medial 1/3)</a></p></td>
-<td><p><a href="{{< var ref-temporal-bone.path >}}">Temporal bone (mastoid process)</a>; <br> <a href="{{< var ref-occipital-bone.path >}}">Occipital bone (superior nuchal line)</a></p></td>
-<td><p><a href="{{< var ref-cn11.path >}}"><strong>Motor</strong>: CN XI Accessory n.</a> <br> <strong>Proprioception</strong>: Cervical plexus (C2, C3, C4)</p></td>
-<td><p><strong>Unilateral</strong>: Tilts head to same side, rotates head to opposite side; <br> <strong>Bilateral</strong>: Extends head, aids in respiration when head is fixed</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
-<section id="origin" class="level2">
-<h2 class="anchored" data-anchor-id="origin">Origin</h2>
+</div>
+</div>
+</section>
+<section id="origin" class="level1">
+<h1>Origin</h1>
 <ul>
 <li>Sternal head: <a href="../../../../../The Archive/Anatomy/Bones/Bones of the trunk/sternum_bone.html">sternum (manubrium)</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span></li>
 <li>Clavicular head: <a href="../../../../../The Archive/Anatomy/Bones/Upper Extremity Bones/clavicle_bone.html">Clavicle (medial 1/3)</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span></li>
 </ul>
 </section>
-<section id="insertion" class="level2">
-<h2 class="anchored" data-anchor-id="insertion">Insertion</h2>
+<section id="insertion" class="level1">
+<h1>Insertion</h1>
 <ul>
 <li><a href="../../../../../The Archive/Anatomy/Bones/Bones of the Skull/temporal_bone.html">Temporal bone (mastoid process)</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span></li>
 <li><a href="../../../../../The Archive/Anatomy/Bones/Bones of the Skull/occipital_bone.html">Occipital bone (superior nuchal line)</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span></li>
 </ul>
 </section>
-<section id="innervation" class="level2">
-<h2 class="anchored" data-anchor-id="innervation">Innervation</h2>
+<section id="innervation" class="level1">
+<h1>Innervation</h1>
 <p><a href="../../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN11_Spinal_Accessory.html"><strong>Motor</strong>: CN XI Accessory n.</a> and <strong>Proprioception</strong>: Cervical plexus (C2, C3, C4)<span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span></p>
 </section>
-<section id="action" class="level2">
-<h2 class="anchored" data-anchor-id="action">Action</h2>
+<section id="action" class="level1">
+<h1>Action</h1>
 <ul>
 <li><strong>Unilateral</strong>: <a href="../../../../../The Archive/MSK/Regions/Spine/neck_MSK.html">Tilts head to same side</a>, <a href="../../../../../The Archive/MSK/Regions/Spine/neck_MSK.html">C/L head rotation</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span></li>
 <li><strong>Bilateral</strong>: Extends head, aids in <a href="../../../../../The Archive/Physiology/Pulmonary system/respiration.html">respiration</a> when head is fixed<span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span></li>
 </ul>
-</section>
 </section>
 <section id="muscle-groups" class="level1">
 <h1>Muscle groups</h1>
@@ -520,8 +524,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -632,7 +634,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
