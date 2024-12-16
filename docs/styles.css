@@ -62,10 +62,11 @@ a:hover {
 .oian-table {
     width: 100%;
     border-collapse: collapse;
+    font-size: 14px; /* Adjust to your desired size */
   }
 
   .oian-table th, .oian-table td {
-      padding: 8px;
+      padding: 4px;
       text-align: left;
   }
 
