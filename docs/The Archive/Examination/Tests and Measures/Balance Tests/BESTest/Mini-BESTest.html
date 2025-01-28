@@ -1220,7 +1220,7 @@ Unable
 </tr>
 </tbody>
 </table>
-<p id="item7trial">
+<p class="item7trial">
 — s
 </p>
 <button id="item7TimerButton">
@@ -1287,7 +1287,7 @@ Unable
 </tr>
 </tbody>
 </table>
-<p id="item8trial">
+<p class="item8trial">
 — s
 </p>
 <button id="item8TimerButton">
@@ -1353,7 +1353,7 @@ Unable
 </tr>
 </tbody>
 </table>
-<p id="item9trial">
+<p class="item9trial">
 — s
 </p>
 <button id="item9TimerButton">
@@ -1671,11 +1671,131 @@ Stops counting while walking OR stops walking while counting
 <p>
 Item 14 Score: <span class="score14">Not tested</span>
 </p>
+<p><strong>Item 14 TUG + TUG Cog: </strong> <span class="score14">Not tested</span> (<strong>TUG: </strong><span class="item14TugDisplay"></span>, <strong>Cog-TUG: </strong><span class="item14CognitiveTugDisplay"> </span>, <strong>%Δ</strong><span class="item14PercentChangeDisplay"> </span>)</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>If the patient’s gait speed decreases more than 10% when adding the Dual Task, the score should be ↓<em>decreased</em> by a point.</p>
+</div>
+</div>
+<p>“Use the TUG time to determine the effects of dual tasking. The subject should walk a 3 meter distance. TUG: Have the subject sitting with the subject’s back against the chair. The subject will be timed from the moment you say “Go” until the subject returns to sitting. Stop timing when the subject’s buttocks hit the chair bottom and the subject’s back is against the chair. The chair should be firm without arms. TUG With Dual Task: While sitting determine how fast and accurately the subject can count backwards by threes starting from a number between 100-90. Then, ask the subject to count from a different number and after a few numbers say “Go”. Time the subject from the moment you say “Go” until the subject returns to the sitting position. Score dual task as affecting counting or walking if speed slows (&gt;10%) from TUG and or new signs of imbalance.”</p>
+</section>
+</section>
+<section id="final-results" class="level2">
+<h2 class="anchored" data-anchor-id="final-results">Final Results</h2>
+<p>
+Item 1 STS: <span class="score1">Not tested</span> <br> Item 2 Heel Raise: <span class="score2">Not tested</span> <br> Item 3 SLB: <span class="score3">Not tested</span> <br> Anticipatory Subtotal: <span class="anticipatory_subtotal">0</span>
+</p>
+<p>
+Item 4 Forward compensatory step: <span class="score4">Not tested</span> <br> Item 5 Backward compensatory step: <span class="score5">Not tested</span> <br> Item 6 Lateral compensatory step: <span class="score6">Not tested</span> <br>Reactive Postural Control Subtotal: <span class="reactive_subtotal">0</span>
+</p>
+<p>
+Item 7 Static balance (Feet together + EO): <span class="score7">Not tested</span> (<span class="item7trial">NA</span>) <br> Item 8 Static balance (Feet together + EC + FOAM): <span class="score8">Not tested</span> (<span class="item8trial">NA</span>) <br> Item 9 Incline + EC Balance: <span class="score9">Not tested</span> (<span class="item9trial">NA</span>) <br> Sensory Orientation Subtotal: <span class="sensory_orientation_subtotal">0</span>
+</p>
+<p>
+Item 10 Change in gait speed: <span class="score10">Not tested</span> <br> Item 11 Gait + Horizontal head turns: <span class="score11">Not tested</span> <br> Item 12 Gait + Pivot: <span class="score12">Not tested</span> <br> Item 13 Step over Obstacle: <span class="score13">Not tested</span> <br> Item 14 TUG + TUG Cog: <span class="score14">Not tested</span> (TUG: <span class="item14TugDisplay"></span>, Cog-TUG: <span class="item14CognitiveTugDisplay"> </span>, %Δ: <span class="item14PercentChangeDisplay"> </span>) <br> Dynamic Gait Subtotal: <span class="dynamic_gait_subtotal">0</span>
+</p>
+<p>
+Total: <span class="totalScore">0</span>
+</p>
+<script>
+    const initializeTimer = (trialClass, timerButtonId, unableButtonId, scoreClass) => {
+        const trialElements = document.querySelectorAll(trialClass); // Get all matching elements
+        const timerButton = document.getElementById(timerButtonId);
+        const unableButton = document.getElementById(unableButtonId);
+        const scoreElements = document.querySelectorAll(scoreClass); // Use querySelectorAll for matching score elements
+
+        let interval = null;
+        let elapsedTime = 0;
+        const maxTime = 30000; // 30 seconds in milliseconds
+
+        const updateScore = () => {
+            let score;
+            if (elapsedTime === 0) {
+                score = 0;
+            } else if (elapsedTime < maxTime) {
+                score = 1;
+            } else {
+                score = 2;
+            }
+
+            // Update all score elements
+            scoreElements.forEach(scoreElement => {
+                scoreElement.textContent = score;
+            });
+
+            // Update all trial elements
+            trialElements.forEach(trialElement => {
+                trialElement.textContent = elapsedTime === 0 ? 'Unable' : (elapsedTime / 1000).toFixed(3) + ' s';
+            });
+
+            // Recalculate totals if necessary
+            calculateTotal();
+        };
+
+        timerButton.addEventListener('click', () => {
+            if (interval) {
+                clearInterval(interval); // Pause the timer
+                interval = null;
+                timerButton.textContent = 'Start Timer';
+            } else {
+                const startTime = Date.now() - elapsedTime;
+                interval = setInterval(() => {
+                    elapsedTime = Date.now() - startTime;
+
+                    if (elapsedTime >= maxTime) {
+                        elapsedTime = maxTime;
+                        clearInterval(interval);
+                        interval = null;
+                        timerButton.disabled = true; // Disable the timer button after max time
+                    }
+
+                    // Update all trial elements dynamically
+                    trialElements.forEach(trialElement => {
+                        trialElement.textContent = (elapsedTime / 1000).toFixed(3) + ' s';
+                    });
+                    updateScore();
+                }, 10); // Update every 10ms
+
+                timerButton.textContent = 'Pause Timer';
+            }
+        });
+
+        unableButton.addEventListener('click', () => {
+            if (interval) {
+                clearInterval(interval); // Stop the timer if running
+                interval = null;
+                timerButton.textContent = 'Start Timer';
+            }
+            elapsedTime = 0; // Reset elapsed time to 0
+
+            // Set all trial elements to "Unable"
+            trialElements.forEach(trialElement => {
+                trialElement.textContent = 'Unable';
+            });
+            timerButton.disabled = false; // Re-enable the timer button if it was disabled
+            updateScore();
+        });
+    };
+
+    // Initialize timers for Items 7, 8, and 9
+    initializeTimer('.item7trial', 'item7TimerButton', 'item7UnableButton', '.score7');
+    initializeTimer('.item8trial', 'item8TimerButton', 'item8UnableButton', '.score8');
+    initializeTimer('.item9trial', 'item9TimerButton', 'item9UnableButton', '.score9');
+</script>
 <script>
     let item14Tugtime = 0; // Holds the TUG time in ms
     let item14CognitiveTugtime = 0; // Holds the Cognitive TUG time in ms
     let tugInterval = null;
     let cognitiveTugInterval = null;
+    let item14PercentChange = null;
 
     // Helper function to update elements by class name
     const updateElementsByClass = (className, textContent) => {
@@ -1689,6 +1809,7 @@ Item 14 Score: <span class="score14">Not tested</span>
         // Check if either time is set to "Unable"
         if (item14Tugtime === null || item14CognitiveTugtime === null) {
             updateElementsByClass('score14', "0");
+            updateElementsByClass('item14PercentChangeDisplay', "N/A"); // Reset percent change
         } else if (item14Tugtime > 0 && item14CognitiveTugtime > 0) {
             // Compare cognitive TUG time with TUG time
             if (item14CognitiveTugtime >= item14Tugtime * 0.9) {
@@ -1696,13 +1817,24 @@ Item 14 Score: <span class="score14">Not tested</span>
             } else {
                 updateElementsByClass('score14', "1"); // Score is 1
             }
+
+            // Calculate percent change
+            item14PercentChange = 1 - (item14Tugtime / item14CognitiveTugtime);
+
+            // Format percent change as a percentage (e.g., "10.00%")
+            const percentChangeFormatted = (item14PercentChange * 100).toFixed(2) + "%";
+
+            // Update the display
+            updateElementsByClass('item14PercentChangeDisplay', percentChangeFormatted);
         } else {
             updateElementsByClass('score14', "Not tested"); // Default message
+            updateElementsByClass('item14PercentChangeDisplay', "N/A"); // Reset percent change
         }
 
         // Recalculate the totals
         calculateTotal();
     };
+
 
 
     // Helper function to start a timer for item 14
@@ -1779,112 +1911,6 @@ Item 14 Score: <span class="score14">Not tested</span>
         document.getElementById('item14CognitiveTugTimerButton').textContent = "Start";
         updateScore14(); // Update score
     });
-</script>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>If the patient’s gait speed decreases more than 10% when adding the Dual Task, the score should be ↓<em>decreased</em> by a point.</p>
-</div>
-</div>
-<p>“Use the TUG time to determine the effects of dual tasking. The subject should walk a 3 meter distance. TUG: Have the subject sitting with the subject’s back against the chair. The subject will be timed from the moment you say “Go” until the subject returns to sitting. Stop timing when the subject’s buttocks hit the chair bottom and the subject’s back is against the chair. The chair should be firm without arms. TUG With Dual Task: While sitting determine how fast and accurately the subject can count backwards by threes starting from a number between 100-90. Then, ask the subject to count from a different number and after a few numbers say “Go”. Time the subject from the moment you say “Go” until the subject returns to the sitting position. Score dual task as affecting counting or walking if speed slows (&gt;10%) from TUG and or new signs of imbalance.”</p>
-</section>
-</section>
-<section id="final-results" class="level2">
-<h2 class="anchored" data-anchor-id="final-results">Final Results</h2>
-<p>
-Item 1 STS: <span class="score1">Not tested</span> <br> Item 2 Heel Raise: <span class="score2">Not tested</span> <br> Item 3 SLB: <span class="score3">Not tested</span> <br> Anticipatory Subtotal: <span class="anticipatory_subtotal">0</span>
-</p>
-<p>
-Item 4 Forward compensatory step: <span class="score4">Not tested</span> <br> Item 5 Backward compensatory step: <span class="score5">Not tested</span> <br> Item 6 Lateral compensatory step: <span class="score6">Not tested</span> <br>Reactive Postural Control Subtotal: <span class="reactive_subtotal">0</span>
-</p>
-<p>
-Item 7 Static balance (Feet together + EO): <span class="score7">Not tested</span> <br> Item 8 Static balance (Feet together + EC + FOAM): <span class="score8">Not tested</span> <br> Item 9 Incline + EC Balance: <span class="score9">Not tested</span> <br> Sensory Orientation Subtotal: <span class="sensory_orientation_subtotal">0</span>
-</p>
-<p>
-Item 10 Change in gait speed: <span class="score10">Not tested</span> <br> Item 11 Gait + Horizontal head turns: <span class="score11">Not tested</span> <br> Item 12 Gait + Pivot: <span class="score12">Not tested</span> <br> Item 13 Step over Obstacle: <span class="score13">Not tested</span> <br> Item 14 TUG + TUG Cog: <span class="score14">Not tested</span> <br> Dynamic Gait Subtotal: <span class="dynamic_gait_subtotal">0</span>
-</p>
-<p>
-Total: <span class="totalScore">0</span>
-</p>
-<script>
-    const initializeTimer = (trialId, timerButtonId, unableButtonId, scoreClass) => {
-    const trialElement = document.getElementById(trialId);
-    const timerButton = document.getElementById(timerButtonId);
-    const unableButton = document.getElementById(unableButtonId);
-    const scoreElements = document.querySelectorAll(scoreClass); // Use querySelectorAll to get all matching elements
-
-    let interval = null;
-    let elapsedTime = 0;
-    const maxTime = 30000; // 30 seconds in milliseconds
-
-    const updateScore = () => {
-        let score;
-        if (elapsedTime === 0) {
-            score = 0;
-        } else if (elapsedTime < maxTime) {
-            score = 1;
-        } else {
-            score = 2;
-        }
-
-        // Update all score elements
-        scoreElements.forEach(scoreElement => {
-            scoreElement.textContent = score; // Set the same score for all elements
-        });
-
-        // Recalculate the totals
-        calculateTotal();
-    };
-
-    timerButton.addEventListener('click', () => {
-        if (interval) {
-            clearInterval(interval); // Pause the timer
-            interval = null;
-            timerButton.textContent = 'Start Timer';
-        } else {
-            const startTime = Date.now() - elapsedTime;
-            interval = setInterval(() => {
-                elapsedTime = Date.now() - startTime;
-
-                if (elapsedTime >= maxTime) {
-                    elapsedTime = maxTime;
-                    clearInterval(interval);
-                    interval = null;
-                    timerButton.disabled = true; // Disable the timer button after max time
-                }
-
-                trialElement.textContent = (elapsedTime / 1000).toFixed(3) + ' s';
-                updateScore();
-            }, 10); // Update every 10ms
-
-            timerButton.textContent = 'Pause Timer';
-        }
-    });
-
-    unableButton.addEventListener('click', () => {
-        if (interval) {
-            clearInterval(interval); // Stop the timer if running
-            interval = null;
-            timerButton.textContent = 'Start Timer';
-        }
-        elapsedTime = 0; // Reset elapsed time to 0
-        trialElement.textContent = 'Unable';
-        timerButton.disabled = false; // Re-enable the timer button if it was disabled
-        updateScore();
-    });
-};
-
-    // Initialize timers for Items 7, 8, and 9
-    initializeTimer('item7trial', 'item7TimerButton', 'item7UnableButton', '.score7');
-    initializeTimer('item8trial', 'item8TimerButton', 'item8UnableButton', '.score8');
-    initializeTimer('item9trial', 'item9TimerButton', 'item9UnableButton', '.score9');
 </script>
 <script>
 
@@ -1964,6 +1990,7 @@ Total: <span class="totalScore">0</span>
     }
 
 </script>
+<!-- Copy button for copying the final results to clipboard -->
 <button id="copyButton">
 Copy Scores
 </button>
@@ -1989,7 +2016,12 @@ Copy Scores
         scoresToCopy.push(`Item 11 Gait + Horizontal head turns: ${document.querySelector('.score11').innerText}`);
         scoresToCopy.push(`Item 12 Gait + Pivot: ${document.querySelector('.score12').innerText}`);
         scoresToCopy.push(`Item 13 Step over Obstacle: ${document.querySelector('.score13').innerText}`);
-        scoresToCopy.push(`Item 14 TUG + TUG Cog: ${document.querySelector('.score14').innerText}`);
+        scoresToCopy.push(
+            `Item 14 TUG + TUG Cog: ${document.querySelector('.score14').innerText} ` +
+            `(TUG: ${document.querySelector('.item14TugDisplay').innerText}, ` +
+            `Cog-TUG: ${document.querySelector('.item14CognitiveTugDisplay').innerText}, ` +
+            `%Δ: ${document.querySelector('.item14PercentChangeDisplay').innerText})`
+        );
         scoresToCopy.push(`Dynamic Gait Subtotal: ${document.querySelector('.dynamic_gait_subtotal').innerText}`);
         scoresToCopy.push(`Total: ${document.querySelector('.totalScore').innerText}`);
 
