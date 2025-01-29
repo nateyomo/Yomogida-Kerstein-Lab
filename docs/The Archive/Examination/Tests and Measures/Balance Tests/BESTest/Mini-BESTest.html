@@ -2008,9 +2008,18 @@ Copy Scores
         scoresToCopy.push(`Item 5 Backward compensatory step: ${document.querySelector('.score5').innerText}`);
         scoresToCopy.push(`Item 6 Lateral compensatory step: ${document.querySelector('.score6').innerText}`);
         scoresToCopy.push(`Reactive Postural Control Subtotal: ${document.querySelector('.reactive_subtotal').innerText}`);
-        scoresToCopy.push(`Item 7 Static balance (Feet together + EO): ${document.querySelector('.score7').innerText}`);
-        scoresToCopy.push(`Item 8 Static balance (Feet together + EC + FOAM): ${document.querySelector('.score8').innerText}`);
-        scoresToCopy.push(`Item 9 Incline + EC Balance: ${document.querySelector('.score9').innerText}`);
+        scoresToCopy.push(
+            `Item 7 Static balance (Feet together + EO): ${document.querySelector('.score7').innerText}` +
+            ` (${document.querySelector('.item7trial').innerText})`
+            );
+        scoresToCopy.push(
+            `Item 8 Static balance (Feet together + EC + FOAM): ${document.querySelector('.score8').innerText}` +
+            ` (${document.querySelector('.item8trial').innerText})`
+            );
+        scoresToCopy.push(
+            `Item 9 Incline + EC Balance: ${document.querySelector('.score9').innerText}` +
+            ` (${document.querySelector('.item9trial').innerText})`
+            );
         scoresToCopy.push(`Sensory Orientation Subtotal: ${document.querySelector('.sensory_orientation_subtotal').innerText}`);
         scoresToCopy.push(`Item 10 Change in gait speed: ${document.querySelector('.score10').innerText}`);
         scoresToCopy.push(`Item 11 Gait + Horizontal head turns: ${document.querySelector('.score11').innerText}`);
