@@ -9,7 +9,7 @@
 <meta name="author" content="Nate Yomogida">
 <meta name="author" content="Chloë Kerstein">
 
-<title>Scour Test</title>
+<title>Dynamic Gait Index (DGI)</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -22,50 +22,28 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for citations */
-div.csl-bib-body { }
-div.csl-entry {
-  clear: both;
-}
-.hanging-indent div.csl-entry {
-  margin-left:2em;
-  text-indent:-2em;
-}
-div.csl-left-margin {
-  min-width:2em;
-  float:left;
-}
-div.csl-right-inline {
-  margin-left:2em;
-  padding-left:1em;
-}
-div.csl-indent {
-  margin-left: 2em;
-}</style>
+</style>
 
 
-<script src="../../../../../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../../../../../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../../../../../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../../../../../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../../../../../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../../../../../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../../../../../">
-<link href="../../../../..//images/brain-favicon.png" rel="icon" type="image/png">
-<script src="../../../../../site_libs/quarto-html/quarto.js"></script>
-<script src="../../../../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../../../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../../../../../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../../../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../../../../site_libs/quarto-html/quarto-syntax-highlighting-29e2c20b02301cfff04dc8050bf30c7e.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../../../../../site_libs/quarto-html/quarto-syntax-highlighting-dark-43df0d6f53b733b42d37fa7808e17715.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="../../../../../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../../../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../../../../site_libs/bootstrap/bootstrap-2cd373bbd777488a2901da25ac479b00.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../../../../../site_libs/bootstrap/bootstrap-dark-30247d3b2cd0522fbeca720c4281c240.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<script src="../../../../../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
-<link href="../../../../../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
-<link href="../../../../../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
+<script src="../../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../../">
+<link href="../../../..//images/brain-favicon.png" rel="icon" type="image/png">
+<script src="../../../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../../site_libs/quarto-html/quarto-syntax-highlighting-29e2c20b02301cfff04dc8050bf30c7e.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../../../site_libs/quarto-html/quarto-syntax-highlighting-dark-43df0d6f53b733b42d37fa7808e17715.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../../site_libs/bootstrap/bootstrap-2cd373bbd777488a2901da25ac479b00.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../../../site_libs/bootstrap/bootstrap-dark-30247d3b2cd0522fbeca720c4281c240.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -93,16 +71,12 @@ div.csl-indent {
 }</script>
 
 
-<link rel="stylesheet" href="../../../../../styles.css">
-<meta name="twitter:title" content="Scour Test">
-<meta name="twitter:description" content="Hip provocation maneuver">
-<meta name="twitter:image" content="https://yomokerst.com/The Archive/Examination/Tests and Measures/Lower extremity tests/Hip Tests/images/maslowskiDiagnosticValidityHip2010 fig3 scour test.png">
+<link rel="stylesheet" href="../../../../styles.css">
+<meta name="twitter:title" content="Dynamic Gait Index (DGI)">
+<meta name="twitter:description" content="">
 <meta name="twitter:creator" content="@NateYomogida and @Chloe_Kerstein">
 <meta name="twitter:site" content="@yomokerst">
-<meta name="twitter:image:alt" content="Scour Test1">
-<meta name="twitter:image-height" content="734">
-<meta name="twitter:image-width" content="2198">
-<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:card" content="summary">
 </head>
 
 <body class="floating nav-fixed">
@@ -112,8 +86,8 @@ div.csl-indent {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../../../../../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../../../../../branding/Yomokerst/yomokerst heavy condensed black.png" alt="" class="navbar-logo">
+    <a href="../../../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../../../branding/Yomokerst/yomokerst heavy condensed black.png" alt="" class="navbar-logo">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -123,27 +97,27 @@ div.csl-indent {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../../../../index.html"> 
+    <a class="nav-link" href="../../../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../../The Archive/research_and_development_index.html"> 
+    <a class="nav-link" href="../../../../The Archive/research_and_development_index.html"> 
 <span class="menu-text">R&amp;D</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../../journal_club_index.html"> 
+    <a class="nav-link" href="../../../../journal_club_index.html"> 
 <span class="menu-text">Journal Club</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../../services.html"> 
+    <a class="nav-link" href="../../../../services.html"> 
 <span class="menu-text">Physical Therapy</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../../about.html"> 
+    <a class="nav-link" href="../../../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../../contact.html"> 
+    <a class="nav-link" href="../../../../contact.html"> 
 <span class="menu-text">Contact</span></a>
   </li>  
 </ul>
@@ -162,8 +136,19 @@ div.csl-indent {
     <h2 id="toc-title">Contents</h2>
    
   <ul>
-  <li><a href="#technique" id="toc-technique" class="nav-link active" data-scroll-target="#technique">Technique</a></li>
+  <li><a href="#form" id="toc-form" class="nav-link active" data-scroll-target="#form">Form</a>
+  <ul class="collapse">
+  <li><a href="#level-gait" id="toc-level-gait" class="nav-link" data-scroll-target="#level-gait">1 Level Gait</a></li>
+  <li><a href="#change-in-gait-speed" id="toc-change-in-gait-speed" class="nav-link" data-scroll-target="#change-in-gait-speed">2 Change in Gait speed</a></li>
+  <li><a href="#gait-with-horizontal-head-turns" id="toc-gait-with-horizontal-head-turns" class="nav-link" data-scroll-target="#gait-with-horizontal-head-turns">3 Gait with Horizontal head turns</a></li>
+  <li><a href="#gait-with-vertical-head-turns" id="toc-gait-with-vertical-head-turns" class="nav-link" data-scroll-target="#gait-with-vertical-head-turns">4 Gait with Vertical Head Turns</a></li>
+  <li><a href="#gait-to-pivot-turn" id="toc-gait-to-pivot-turn" class="nav-link" data-scroll-target="#gait-to-pivot-turn">5 Gait to Pivot Turn</a></li>
+  <li><a href="#step-over-obstacle" id="toc-step-over-obstacle" class="nav-link" data-scroll-target="#step-over-obstacle">6 Step over obstacle</a></li>
+  <li><a href="#step-around-obstacle" id="toc-step-around-obstacle" class="nav-link" data-scroll-target="#step-around-obstacle">7 Step Around Obstacle</a></li>
+  <li><a href="#stairs" id="toc-stairs" class="nav-link" data-scroll-target="#stairs">8 Stairs</a></li>
+  </ul></li>
   <li><a href="#interpretation" id="toc-interpretation" class="nav-link" data-scroll-target="#interpretation">Interpretation</a></li>
+  <li><a href="#similar-tests" id="toc-similar-tests" class="nav-link" data-scroll-target="#similar-tests">Similar Tests</a></li>
   </ul>
 </nav>
 </nav>
@@ -176,8 +161,7 @@ div.csl-indent {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Scour Test</h1>
-<p class="subtitle lead">Hip provocation maneuver</p>
+<h1 class="title">Dynamic Gait Index (DGI)</h1>
 </div>
 
 
@@ -221,54 +205,188 @@ div.csl-indent {
 </header>
 
 
-<div class="callout callout-style-simple callout-none no-icon callout-titled" title="AKA">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-AKA
-</div>
-</div>
-<div class="callout-body-container callout-body">
+<p>The DGI has become outdated and replaced by its improved successor the <a href="../../../../The Archive/Examination/Tests and Measures/Gait tests/functional_gait_assessment_FGA.html">Functional Gait Assessment (FGA)</a></p>
+<section id="form" class="level1">
+<h1>Form</h1>
 <ul>
-<li>Scour test</li>
-<li>Quadrant test<span class="citation" data-cites="maslowskiDiagnosticValidityHip2010"><sup><a href="#ref-maslowskiDiagnosticValidityHip2010" role="doc-biblioref">1</a></sup></span></li>
+<li>~15 minutes</li>
+<li>Scored 0-3 with a max score of 24points</li>
+<li>Higher score is better</li>
 </ul>
-</div>
-</div>
-<section id="technique" class="level1">
-<h1>Technique</h1>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="../../../../../The Archive/Examination/Tests and Measures/Lower extremity tests/Hip Tests/images/maslowskiDiagnosticValidityHip2010 fig3 scour test.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Scour Test @maslowskiDiagnosticValidityHip2010"><img src="../../../../../The Archive/Examination/Tests and Measures/Lower extremity tests/Hip Tests/images/maslowskiDiagnosticValidityHip2010 fig3 scour test.png" class="img-fluid figure-img" alt="Scour Test1"></a></p>
-<figcaption>Scour Test<span class="citation" data-cites="maslowskiDiagnosticValidityHip2010"><sup><a href="#ref-maslowskiDiagnosticValidityHip2010" role="doc-biblioref">1</a></sup></span></figcaption>
-</figure>
-</div>
-<p>“The Scour maneuver is performed with the subject supine. The hip is maximally flexed and adducted. Then, with a compressive force applied to the joint in the direction of the shaft of the femur, the examiner moves the femur through a circular arc of motion. The maneuver is considered positive if it recreates pain.”<span class="citation" data-cites="maslowskiDiagnosticValidityHip2010"><sup><a href="#ref-maslowskiDiagnosticValidityHip2010" role="doc-biblioref">1</a></sup></span></p>
-<p>“performed with the subject supine. The affected hip was maximally flexed and adducted. Then, with a compressive force applied to the joint in the direction of the shaft of the femur, the examiner moved the femur through a circular arc of motion (Figure 3). The maneuver was considered positive if it recreated pain.”<span class="citation" data-cites="maslowskiDiagnosticValidityHip2010"><sup><a href="#ref-maslowskiDiagnosticValidityHip2010" role="doc-biblioref">1</a></sup></span> # Indications</p>
+<section id="level-gait" class="level2">
+<h2 class="anchored" data-anchor-id="level-gait">1 Level Gait</h2>
+<p>Instructions: Walk at your normal speed from here to the next mark (20’)</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Grade</th>
+<th>Level</th>
+<th>Criteria</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>3</td>
+<td>Normal</td>
+<td>Walks 20’ unassisted at a good speed, with a normal gait pattern, and no imbalance</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Mild</td>
+<td>Walks 20’, uses assistive devices, slower speed, mild gait deviations</td>
+</tr>
+<tr class="odd">
+<td>1</td>
+<td>Moderate</td>
+<td>Walks 20’, slow speed, abnormal gait pattern, evidence for imbalance</td>
+</tr>
+<tr class="even">
+<td>0</td>
+<td>Severe</td>
+<td>Cannot walk 20’ without assistance, severe gait deviations or imbalance</td>
+</tr>
+</tbody>
+</table>
+<p><em>Mark the lowest category that applies</em></p>
+</section>
+<section id="change-in-gait-speed" class="level2">
+<h2 class="anchored" data-anchor-id="change-in-gait-speed">2 Change in Gait speed</h2>
+<!-- Instructions: Begin walking at your normal pace (for 5’), when I tell you “go,” walk as fast as you can (for
+5’). When I tell you “slow,” walk as slowly as you can (for 5’).
+Grading: Mark the lowest category that applies.
+(3) Normal: Able to smoothly change walking speed without loss of balance or gait deviation. Shows a
+significant difference in walking speeds between normal, fast and slow speeds.
+(2) Mild Impairment: Is able to change speed but demonstrates mild gait deviations, or not gait
+deviations but unable to achieve a significant change in velocity, or uses an assistive device.
+(1) Moderate Impairment: Makes only minor adjustments to walking speed, or accomplishes a change
+in speed with significant gait deviations, or changes speed but has significant gait deviations, or
+changes speed but loses balance but is able to recover and continue walking.
+(0) Severe Impairment: Cannot change speeds, or loses balance and has to reach for wall or be caught. -->
+</section>
+<section id="gait-with-horizontal-head-turns" class="level2">
+<h2 class="anchored" data-anchor-id="gait-with-horizontal-head-turns">3 Gait with Horizontal head turns</h2>
+<!-- Instructions: Begin walking at your normal pace. When I tell you to “look right,” keep walking straight, but
+turn your head to the right. Keep looking to the right until I tell you, “look left,” then keep walking straight
+and turn your head to the left. Keep your head to the left until I tell you “look straight,“ then keep walking
+straight, but return your head to the center.
+Grading: Mark the lowest category that applies.
+(3) Normal: Performs head turns smoothly with no change in gait.
+(2) Mild Impairment: Performs head turns smoothly with slight change in gait velocity, i.e., minor
+disruption to smooth gait path or uses walking aid.
+(1) Moderate Impairment: Performs head turns with moderate change in gait velocity, slows down,
+staggers but recovers, can continue to walk.
+(0) Severe Impairment: Performs task with severe disruption of gait, i.e., staggers
+ outside 15” path, loses balance, stops, reaches for wall. -->
+</section>
+<section id="gait-with-vertical-head-turns" class="level2">
+<h2 class="anchored" data-anchor-id="gait-with-vertical-head-turns">4 Gait with Vertical Head Turns</h2>
+<!-- Instructions: Begin walking at your normal pace. When I tell you to “look up,” keep walking straight, but tip
+your head up. Keep looking up until I tell you, “look down,” then keep walking straight and tip your head
+down. Keep your head down until I tell you “look straight,“ then keep walking straight, but return your head
+to the center.
+Grading: Mark the lowest category that applies.
+(3) Normal: Performs head turns smoothly with no change in gait.
+(2) Mild Impairment: Performs head turns smoothly with slight change in gait velocity, i.e., minor
+disruption to smooth gait path or uses walking aid.
+(1) Moderate Impairment: Performs head turns with moderate change in gait velocity, slows down,
+staggers but recovers, can continue to walk.
+(0) Severe Impairment: Performs task with severe disruption of gait, i.e., staggers
+ outside 15” path, loses balance, stops, reaches for wall. -->
+</section>
+<section id="gait-to-pivot-turn" class="level2">
+<h2 class="anchored" data-anchor-id="gait-to-pivot-turn">5 Gait to Pivot Turn</h2>
+<!-- Instructions: Begin walking at your normal pace. When I tell you, “turn and stop,” turn as quickly as you can
+to face the opposite direction and stop.
+Grading: Mark the lowest category that applies.
+(3) Normal: Pivot turns safely within 3 seconds and stops quickly with no loss of balance.
+(2) Mild Impairment: Pivot turns safely in > 3 seconds and stops with no loss of balance.
+(1) Moderate Impairment: Turns slowly, requires verbal cueing, requires several small steps to catch
+balance following turn and stop.
+(0) Severe Impairment: Cannot turn safely, requires assistance to turn and stop. -->
+</section>
+<section id="step-over-obstacle" class="level2">
+<h2 class="anchored" data-anchor-id="step-over-obstacle">6 Step over obstacle</h2>
+<!-- Instructions: Begin walking at your normal speed. When you come to the shoebox, step over it, not around it,
+and keep walking.
+Grading: Mark the lowest category that applies.
+(3) Normal: Is able to step over the box without changing gait speed, no evidence of imbalance.
+(2) Mild Impairment: Is able to step over box, but must slow down and adjust steps to clear box safely.
+(1) Moderate Impairment: Is able to step over box but must stop, then step over. May require verbal
+cueing.
+(0) Severe Impairment: Cannot perform without assistance. -->
+</section>
+<section id="step-around-obstacle" class="level2">
+<h2 class="anchored" data-anchor-id="step-around-obstacle">7 Step Around Obstacle</h2>
+<!-- Instructions: Begin walking at normal speed. When you come to the first cone (about 6’ away), walk around
+the right side of it. When you come to the second cone (6’ past first cone), walk around it to the left.
+Grading: Mark the lowest category that applies.
+(3) Normal: Is able to walk around cones safely without changing gait speed; no evidence of
+imbalance.
+(2) Mild Impairment: Is able to step around both cones, but must slow down and adjust steps to clear
+cones.
+(1) Moderate Impairment: Is able to clear cones but must significantly slow, speed to accomplish task,
+or requires verbal cueing.
+(0) Severe Impairment: Unable to clear cones, walks into one or both cones, or requires physical
+assistance. -->
+</section>
+<section id="stairs" class="level2">
+<h2 class="anchored" data-anchor-id="stairs">8 Stairs</h2>
+<!-- Instructions: Walk up these stairs as you would at home, i.e., using the railing if necessary. At the top, turn
+around and walk down.
+Grading: Mark the lowest category that applies.
+(3) Normal: Alternating feet, no rail.
+(2) Mild Impairment: Alternating feet, must use rail.
+(1) Moderate Impairment: Two feet to a stair, must use rail.
+(0) Severe Impairment: Cannot do safely. -->
+</section>
 </section>
 <section id="interpretation" class="level1">
 <h1>Interpretation</h1>
 <ul>
-<li>Can be positive for <a href="../../../../../The Archive/Pathologies/Pathologies by Region/Lower extremity/Hip/Acetabular labral tear/acetabular_labral_tear.html">acetabular labral tear</a><span class="citation" data-cites="wongPhysicalExaminationHip2022"><sup><a href="#ref-wongPhysicalExaminationHip2022" role="doc-biblioref">2</a></sup></span></li>
+<li>≤ 19/24 → Fall risk in elderly</li>
+<li>&gt; 22/24 → Safe ambulator</li>
 </ul>
-
+</section>
+<section id="similar-tests" class="level1">
+<h1>Similar Tests</h1>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>It should be noted that the DGI does <em>not</em> assess backwards walking</p>
+</div>
+</div>
+<ul>
+<li><a href="../../../../The Archive/Examination/Tests and Measures/Gait tests/functional_gait_assessment_FGA.html">FGA</a>:
+<ul>
+<li>Backwards walking</li>
+<li>EC</li>
+</ul></li>
+<li><a href="../../../../The Archive/Examination/Tests and Measures/Balance Tests/BESTest/Mini-BESTest.html">Mini-Best test</a>
+<ul>
+<li>EC</li>
+</ul></li>
+</ul>
 
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
-<div id="ref-maslowskiDiagnosticValidityHip2010" class="csl-entry" role="listitem">
-<div class="csl-left-margin">1. </div><div class="csl-right-inline">Maslowski E, Sullivan W, Forster Harwood J, et al. The diagnostic validity of hip provocation maneuvers to detect intra-articular hip pathology. <em>PM &amp; R: the journal of injury, function, and rehabilitation</em>. 2010;2(3):174-181. doi:<a href="https://doi.org/10.1016/j.pmrj.2010.01.014">10.1016/j.pmrj.2010.01.014</a></div>
-</div>
-<div id="ref-wongPhysicalExaminationHip2022" class="csl-entry" role="listitem">
-<div class="csl-left-margin">2. </div><div class="csl-right-inline">Wong SE, Cogan CJ, Zhang AL. Physical <span>Examination</span> of the <span>Hip</span>: <span>Assessment</span> of <span>Femoroacetabular Impingement</span>, <span>Labral Pathology</span>, and <span>Microinstability</span>. <em>Current Reviews in Musculoskeletal Medicine</em>. 2022;15(2):38-52. doi:<a href="https://doi.org/10.1007/s12178-022-09745-8">10.1007/s12178-022-09745-8</a></div>
-</div>
-</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
-<div class="">Yomogida N, Kerstein C. Scour Test. <a href="https://yomokerst.com/The Archive/Examination/Tests and Measures/Lower extremity tests/Hip Tests/scour_test.html">https://yomokerst.com/The
-Archive/Examination/Tests and Measures/Lower extremity tests/Hip
-Tests/scour_test.html</a></div>
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
+<div class="">Yomogida N, Kerstein C. Dynamic Gait Index
+(DGI). <a href="https://yomokerst.com/The Archive/Examination/Tests and Measures/Ambulation Tests/dynamic_gait_index_DGI.html">https://yomokerst.com/The
+Archive/Examination/Tests and Measures/Ambulation
+Tests/dynamic_gait_index_DGI.html</a></div>
 </div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
@@ -832,38 +950,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
-(function() {
-  let previousOnload = window.onload;
-  window.onload = () => {
-    if (previousOnload) {
-      previousOnload();
-    }
-    lightboxQuarto.on('slide_before_load', (data) => {
-      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
-      const href = trigger.getAttribute('href');
-      if (href !== null) {
-        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
-        if (imgEl !== null) {
-          const srcAttr = imgEl.getAttribute("src");
-          if (srcAttr && srcAttr.startsWith("data:")) {
-            slideConfig.href = srcAttr;
-          }
-        }
-      } 
-    });
-  
-    lightboxQuarto.on('slide_after_load', (data) => {
-      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
-      if (window.Quarto?.typesetMath) {
-        window.Quarto.typesetMath(slideNode);
-      }
-    });
-  
-  };
-  
-})();
-          </script>
 
 
 
