@@ -11722,7 +11722,7 @@
     "href": "Presentations/presentation_index.html",
     "title": "Presentation Index",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nSubtitle\n\n\nAuthor\n\n\n\n\n\n\nAPTA’s Current Concepts of the Hip\n\n\n \n\n\nNate Yomogida, Chloë Kerstein, Nathaniel Yomogida PT, DPT\n\n\n\n\nAuto-Forms for PTs\n\n\n \n\n\nNate Yomogida, Chloë Kerstein, Nathaniel Yomogida PT, DPT\n\n\n\n\nDual-task presentation\n\n\nPhysical Therapy Inservice\n\n\nNate Yomogida, Chloë Kerstein\n\n\n\n\nTone Management\n\n\nSpasticity and Rigidity\n\n\nNate Yomogida, Chloë Kerstein, Chloe Kerstein PT, DPT\n\n\n\n\n\nNo matching items\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Presentation Index. https://yomokerst.com/Presentations/presentation_index.html"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nSubtitle\n\n\nAuthor\n\n\n\n\n\n\nAPTA’s Current Concepts of the Hip\n\n\n \n\n\nNate Yomogida, Chloë Kerstein, Nathaniel Yomogida PT, DPT\n\n\n\n\nAuto-Forms for PTs\n\n\n \n\n\nNate Yomogida, Chloë Kerstein, Nathaniel Yomogida PT, DPT\n\n\n\n\nDual-task presentation\n\n\nPhysical Therapy Inservice\n\n\nNate Yomogida, Chloë Kerstein\n\n\n\n\nTone Management\n\n\nSpasticity and Rigidity\n\n\nNate Yomogida, Chloë Kerstein\n\n\n\n\n\nNo matching items\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Presentation Index. https://yomokerst.com/Presentations/presentation_index.html"
   },
   {
     "objectID": "Presentations/Inservice/Kaiser OCI Inservice/kaiser_OCI_nyomogida_inservice.html",
@@ -25688,5 +25688,691 @@
     "title": "Western Ontario and McMaster Universities Arthritis Index (WOMAC)",
     "section": "",
     "text": "p5941\n\n\n\n\nReferences\n\n1. APTA. Current Concepts of Orthopaedic Physical Therapy. 5th ed.; 2024.\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Western Ontario and\nMcMaster Universities Arthritis Index (WOMAC). https://yomokerst.com/The\nArchive/Examination/Tests and Measures/Patient Reported\nOutcomes/Western_Ontario_and_McMaster_Universities_Arthritis_Index_WOMAC.html"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#passive-component",
+    "href": "Presentations/Neuro/presentation_tone_management.html#passive-component",
+    "title": "Tone Management",
+    "section": "Passive component",
+    "text": "Passive component\nThe passive mechanisms refer to viscoelastic structures that are non-contractile.\n\n\nActin & Myosin\n\n\nConnective tissue\n\n\netc\n\n\n\n\n\n\n\n\nNote\n\n\nForces created through passive mechanisms are invisible to EMGs"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#active-component",
+    "href": "Presentations/Neuro/presentation_tone_management.html#active-component",
+    "title": "Tone Management",
+    "section": "Active component",
+    "text": "Active component\nThe active mechanisms refer to contractile motor units\nThese are controlled by spinal and supraspinal mechanisms\n\n\n\n\n\n\nNote\n\n\nForces created through active mechanisms can be measured by EMGs"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#intrafusal-fibers",
+    "href": "Presentations/Neuro/presentation_tone_management.html#intrafusal-fibers",
+    "title": "Tone Management",
+    "section": "Intrafusal fibers",
+    "text": "Intrafusal fibers\n\n\n\nNuclear bag fibers:\n\nLength + velocity\nIa Afferents → SC\n\n\nNuclear chain fibers:\n\nlength\nIa and II Afferents → SC\n\n\nBoth Synapse onto γ-motor neurons in Spinal Cord"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#extrafusal-fibers",
+    "href": "Presentations/Neuro/presentation_tone_management.html#extrafusal-fibers",
+    "title": "Tone Management",
+    "section": "Extrafusal fibers",
+    "text": "Extrafusal fibers\n\nContracts muscle itself\nActivated by Alpha Motor Neurons from SC"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#types",
+    "href": "Presentations/Neuro/presentation_tone_management.html#types",
+    "title": "Tone Management",
+    "section": "2 types",
+    "text": "2 types\nDynamic: sudden rapid stretch of a muscle → Ia → SC→ alpha motor neuron causes sudden contraction of muscle\nStatic: Sustained stretch→ type II → spinal cord → alpha motor efferents → cause asynchronous contraction of muscle fibers (motor units not all discharging together) = mild sustained contraction of these fibers as long as it is stretched.\nThis is the physiological basis of maintaining muscle tone"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#mechanism",
+    "href": "Presentations/Neuro/presentation_tone_management.html#mechanism",
+    "title": "Tone Management",
+    "section": "Mechanism",
+    "text": "Mechanism\nMuscle Stretches → Sensory info send to spinal cord → Muscle contracts to prevent overstretch damage\n\n\nMuscle stretches\n\n\nIntrafusal fibers sense stretch\n\n\nIa + II afferents send signals to SC\n\n\nSynapses onto agonist Alpha motor efferents\n\n\nAgonist muscle contracts"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#patellar-tendon-reflex",
+    "href": "Presentations/Neuro/presentation_tone_management.html#patellar-tendon-reflex",
+    "title": "Tone Management",
+    "section": "Patellar Tendon Reflex",
+    "text": "Patellar Tendon Reflex\n\n\nHammer hit at tendon\n\n\nQuadricep muscle is stretched → Stretching both the intrafusal and extrafusal fibers\n\n\nIntrafusal fibers detect stretch (length/velocity)\n\n\nType Ia and II afferent fibers\n\n\nSignals carried to DRG\n\n\nTo dorsal horn of spinal cord and synapses on:"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#gto-example-ego-bicep-curling",
+    "href": "Presentations/Neuro/presentation_tone_management.html#gto-example-ego-bicep-curling",
+    "title": "Tone Management",
+    "section": "GTO Example: Ego bicep curling",
+    "text": "GTO Example: Ego bicep curling\nMuscle contraction → tendon lengthens → GTOs are proprioceptive/sense length → type 1b afferents → SC → DRG → synapses onto 2 interneurons:\n\n\nInhibitory interneuron\nThe inhibitory interneuron is activated which inhibits the alpha motor neuron to the bicep → Decreasing tension of agonist (bicep)\n\nExcitatory Interneuron\nAntagonist contraction to pull forearm in opposite direction Interneuron → alpha motor neuron → Excites antagonist (triceps)"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#mmts-are-not-indicated-for-synergistic-muscles",
+    "href": "Presentations/Neuro/presentation_tone_management.html#mmts-are-not-indicated-for-synergistic-muscles",
+    "title": "Tone Management",
+    "section": "MMTs are not indicated for Synergistic Muscles",
+    "text": "MMTs are not indicated for Synergistic Muscles\nSynergies make MMTs inaccurate\nCo-activation of other muscles makes it impossible to isolate 1 muscle\nNot purely volitional movement, but rather more automatic driven (RST)Mooney2024?\n\n\n\n\nInstead- staging with Brunnstrom post stroke can be helpful"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#spinal-influencesci-spasticity",
+    "href": "Presentations/Neuro/presentation_tone_management.html#spinal-influencesci-spasticity",
+    "title": "Tone Management",
+    "section": "Spinal Influence/SCI spasticity",
+    "text": "Spinal Influence/SCI spasticity\nSpinal influence:\nMany different ways to inc excitation or dec inhibition in spinal cord\nDescending monoaminergic drive normally excites alpha motor neurons and inhibits dorsal horn/sensory input\nSCI Chronicity\n\n\nAcute stage of SCI: loss of monoaminergic influence → causes hypo excitability of motor neurons and excitation of sensory input\n\nChronic SCI Spasticity →Product of overactive motor neurons Weeks after disconnection from supraspinal input, motor neurons transition into an excitable state, really responsive to excitatory NTs like glutamate. Leads to muscle contractions, easily triggered by touch/mm stretching."
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#types-of-rigidity",
+    "href": "Presentations/Neuro/presentation_tone_management.html#types-of-rigidity",
+    "title": "Tone Management",
+    "section": "Types of Rigidity",
+    "text": "Types of Rigidity\n\n\n\n\n\n\nLead-pipe rigidity: a uniform, constant resistance throughout the range of motion, typically seen in conditions like Parkinson’s disease.\nCogwheel rigidity: involves intermittent jerks during movement due to oscillations between the agonist and antagonist muscles.\n\n\n\n\n\n\n\nCogwheel\nLeadpipe\n\n\n\n\nRigidity + tremor\nSmooth, consistent\n\n\nTonic increase in muscle tonewrightAxialHypertonicityParkinsons2007?\nEMG studies show phasic bursts of muscle activitymearaRelationshipElectromyographicActivity1992?\n\n\n\n\n\n\nCan be an underlying tremor that is not overtly present yet\n\n\n\n\n\n\nAsci F, Falletti M, Zampogna A, et al. Rigidity in Parkinson’s disease: evidence from biomechanical and neurophysiological measures. Brain. 2023;146(9):3705-3718. doi:10.1093/brain/awad114"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_spasticity_page.html#spinal-influencesci-spasticity",
+    "href": "Presentations/Neuro/presentation_spasticity_page.html#spinal-influencesci-spasticity",
+    "title": "Tone Management",
+    "section": "Spinal Influence/SCI spasticity",
+    "text": "Spinal Influence/SCI spasticity\nSpinal influence:\nMany different ways to inc excitation or dec inhibition in spinal cord\nDescending monoaminergic drive normally excites alpha motor neurons and inhibits dorsal horn/sensory input\n\nSCI Chronicity\n\n\nAcute stage of SCI: loss of monoaminergic influence → causes hypo excitability of motor neurons and excitation of sensory input\n\nChronic SCI Spasticity →Product of overactive motor neurons Weeks after disconnection from supraspinal input, motor neurons transition into an excitable state, really responsive to excitatory NTs like glutamate. Leads to muscle contractions, easily triggered by touch/mm stretching.\n\n\n\n\n\nSCI SEVERITY\n\nIncomplete SCI\nIncomplete/partial myelopathy involving lateral funiculus: If there is involvement of CST only, it will result in weakness, hypotonia and loss of superficial reflexes. If there is additional involvement of dorsal RST, spasticity and hyperreflexia will develop due to unopposed activity of medial RST. Spasticity will be predominant in antigravity muscles and will result in paraplegia in extension and extensor spasms. Flexor spasms can occur if FRA are activated by pressure sores.\nOn the other hand, if there is involvement of dorsal RST only with sparing CST, there will be spasticity without much weakness.\n\n\nComplete SCI\nComplete myelopathy with involvement of all four tracts: Spasticity will be less in this case because of lack of facilitatory input from medial RST and VST. Disinhibition of FRA will result in paraplegia in flexion and flexor spasms."
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_spasticity_page.html#types-of-rigidity",
+    "href": "Presentations/Neuro/presentation_spasticity_page.html#types-of-rigidity",
+    "title": "Tone Management",
+    "section": "Types of Rigidity",
+    "text": "Types of Rigidity\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCogwheel\nLeadpipe\n\n\n\n\nRigidity + tremor\nSmooth, consistent\n\n\nTonic increase in muscle tonewrightAxialHypertonicityParkinsons2007?\nEMG studies show phasic bursts of muscle activitymearaRelationshipElectromyographicActivity1992?\n\n\n\n\n\n\n\n\n\nCan be an underlying tremor that is not overtly present yet\n\n\n\n\n\n\n\n\n\nAsci F, Falletti M, Zampogna A, et al. Rigidity in Parkinson’s disease: evidence from biomechanical and neurophysiological measures. Brain. 2023;146(9):3705-3718. doi:10.1093/brain/awad114"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#references",
+    "href": "Presentations/Neuro/presentation_tone_management.html#references",
+    "title": "Tone Management",
+    "section": "",
+    "text": "Effective daily dose range, maximum dose and adverse effects of the main oral muscle relaxants\n\n\n\n\nDrug\n\n\nEffective dose range; maximum daily dose\n\n\nMost frequently reported adverse effects\n\n\n\n\n\n\nBaclofen\n\n\n15–60 mg; maximum 100 mg\n\n\nConfusion, hallucinations, seizures, fatigue, gastrointestinal symptoms\n\n\n\n\nTizanidine\n\n\n6–24 mg; maximum 36 mg\n\n\nHypotension, bradycardia, hallucinations, confusion, fatigue\n\n\n\n\nDantrolene\n\n\n75–150 mg; maximum 400 mg\n\n\nLiver dysfunction, dizziness, generalized weakness, gastrointestinal symptoms\n\n\n\n\nDiazepam\n\n\n15–60 mg; maximum 60 mg\n\n\nSedation, amnesia, mental confusion, depression, dependence\n\n\n\n\n\n\n\n\n1. Shefner JM, Berman SA, Sarkarati M, Young RR. Recurrent inhibition is increased in patients with spinal cord injury. Neurology. 1992;42(11):2162-2168. doi:10.1212/wnl.42.11.2162"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html",
+    "title": "Tone Management",
+    "section": "",
+    "text": "Tone: refers to a relaxed muscle’s resistance to passive stretch/tension\nThe muscle resists the stretch through both active and passive mechanisms\n\n\nThe passive mechanisms refer to viscoelastic structures that are non-contractile.\n\n\nActin & Myosin\n\n\nConnective tissue\n\n\netc\n\n\n\n\n\n\n\n\nNote\n\n\n\nForces created through passive mechanisms are invisible to EMGs\n\n\n\n\n\nThe active mechanisms refer to contractile motor units\nThese are controlled by spinal and supraspinal mechanisms\n\n\n\n\n\n\nNote\n\n\n\nForces created through active mechanisms can be measured by EMGs"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#passive-component",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#passive-component",
+    "title": "Tone Management",
+    "section": "",
+    "text": "The passive mechanisms refer to viscoelastic structures that are non-contractile.\n\n\nActin & Myosin\n\n\nConnective tissue\n\n\netc\n\n\n\n\n\n\n\n\nNote\n\n\n\nForces created through passive mechanisms are invisible to EMGs"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#active-component",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#active-component",
+    "title": "Tone Management",
+    "section": "",
+    "text": "The active mechanisms refer to contractile motor units\nThese are controlled by spinal and supraspinal mechanisms\n\n\n\n\n\n\nNote\n\n\n\nForces created through active mechanisms can be measured by EMGs"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#intrafusal-fibers",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#intrafusal-fibers",
+    "title": "Tone Management",
+    "section": "Intrafusal fibers",
+    "text": "Intrafusal fibers\n\n\n\nNuclear bag fibers:\n\nLength + velocity\nIa Afferents → SC\n\n\nNuclear chain fibers:\n\nlength\nIa and II Afferents → SC\n\n\n\nBoth Synapse onto γ-motor neurons in Spinal Cord"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#extrafusal-fibers",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#extrafusal-fibers",
+    "title": "Tone Management",
+    "section": "Extrafusal fibers",
+    "text": "Extrafusal fibers\n\nContracts muscle itself\nActivated by Alpha Motor Neurons from SC"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#types",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#types",
+    "title": "Tone Management",
+    "section": "2 types",
+    "text": "2 types\nDynamic: sudden rapid stretch of a muscle → Ia → SC→ alpha motor neuron causes sudden contraction of muscle\nStatic: Sustained stretch→ type II → spinal cord → alpha motor efferents → cause asynchronous contraction of muscle fibers (motor units not all discharging together) = mild sustained contraction of these fibers as long as it is stretched.\nThis is the physiological basis of maintaining muscle tone"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#mechanism",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#mechanism",
+    "title": "Tone Management",
+    "section": "Mechanism",
+    "text": "Mechanism\nMuscle Stretches → Sensory info send to spinal cord → Muscle contracts to prevent overstretch damage\n\n\nMuscle stretches\n\n\nIntrafusal fibers sense stretch\n\n\nIa + II afferents send signals to SC\n\n\nSynapses onto agonist Alpha motor efferents\n\n\nAgonist muscle contracts\n\n\n\n\n\n\n\n\n\nPatellar Tendon Reflex\n\n\n\nAlpha motor neurons → Extrafusal fiber contracts to prevent overstretching Quadriceps contract"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#patellar-tendon-reflex",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#patellar-tendon-reflex",
+    "title": "Tone Management",
+    "section": "Patellar Tendon Reflex",
+    "text": "Patellar Tendon Reflex\n\n\nHammer hit at tendon\n\n\nQuadricep muscle is stretched → Stretching both the intrafusal and extrafusal fibers\n\n\nIntrafusal fibers detect stretch (length/velocity)\n\n\nType Ia and II afferent fibers\n\n\nSignals carried to DRG\n\n\nTo dorsal horn of spinal cord and synapses on:\n\n\n\n\n\nFrom dorsal horn to α-efferent\n\n\nMotor neuron (alpha/efferent)\n\n\nquad extrafusal fiber and cause it to contract to protect the muscle from overstretching (a monosynaptic reflex)\n\n\n\nFrom dorsal horn to interneuron\n\n\nInterneuron → reciprocal inhibition\n\n\nReciprocal inhibition\n\n\ninhibits alpha-motor efferents of antagonist muscles (Hamstrings relax)"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#gto-example-ego-bicep-curling",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#gto-example-ego-bicep-curling",
+    "title": "Tone Management",
+    "section": "GTO Example: Ego bicep curling",
+    "text": "GTO Example: Ego bicep curling\nMuscle contraction → tendon lengthens → GTOs are proprioceptive/sense length → type 1b afferents → SC → DRG → synapses onto 2 interneurons:\n\n\nInhibitory interneuron\nThe inhibitory interneuron is activated which inhibits the alpha motor neuron to the bicep → Decreasing tension of agonist (bicep)\n\nExcitatory Interneuron\nAntagonist contraction to pull forearm in opposite direction Interneuron → alpha motor neuron → Excites antagonist (triceps)"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#mmts-are-not-indicated-for-synergistic-muscles",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#mmts-are-not-indicated-for-synergistic-muscles",
+    "title": "Tone Management",
+    "section": "MMTs are not indicated for Synergistic Muscles",
+    "text": "MMTs are not indicated for Synergistic Muscles\nSynergies make MMTs inaccurate\nCo-activation of other muscles makes it impossible to isolate 1 muscle\nNot purely volitional movement, but rather more automatic driven (RST)Mooney2024?\n\n\n\n\n\n\n\nInstead- staging with Brunnstrom post stroke can be helpful"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#spinal-influencesci-spasticity",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#spinal-influencesci-spasticity",
+    "title": "Tone Management",
+    "section": "Spinal Influence/SCI spasticity",
+    "text": "Spinal Influence/SCI spasticity\nSpinal influence:\nMany different ways to inc excitation or dec inhibition in spinal cord\nDescending monoaminergic drive normally excites alpha motor neurons and inhibits dorsal horn/sensory input\n\nSCI Chronicity\n\n\nAcute stage of SCI: loss of monoaminergic influence → causes hypo excitability of motor neurons and excitation of sensory input\n\nChronic SCI Spasticity →Product of overactive motor neurons Weeks after disconnection from supraspinal input, motor neurons transition into an excitable state, really responsive to excitatory NTs like glutamate. Leads to muscle contractions, easily triggered by touch/mm stretching.\n\n\n\n\n\nSCI SEVERITY\n\nIncomplete SCI\nIncomplete/partial myelopathy involving lateral funiculus: If there is involvement of CST only, it will result in weakness, hypotonia and loss of superficial reflexes. If there is additional involvement of dorsal RST, spasticity and hyperreflexia will develop due to unopposed activity of medial RST. Spasticity will be predominant in antigravity muscles and will result in paraplegia in extension and extensor spasms. Flexor spasms can occur if FRA are activated by pressure sores.\nOn the other hand, if there is involvement of dorsal RST only with sparing CST, there will be spasticity without much weakness.\n\n\nComplete SCI\nComplete myelopathy with involvement of all four tracts: Spasticity will be less in this case because of lack of facilitatory input from medial RST and VST. Disinhibition of FRA will result in paraplegia in flexion and flexor spasms."
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#types-of-rigidity",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#types-of-rigidity",
+    "title": "Tone Management",
+    "section": "Types of Rigidity",
+    "text": "Types of Rigidity\n\n\n\n\n\n\n\nLead-pipe rigidity: a uniform, constant resistance throughout the range of motion, typically seen in conditions like Parkinson’s disease.\nCogwheel rigidity: involves intermittent jerks during movement due to oscillations between the agonist and antagonist muscles.\n\n\n\n\n\n\n\nCogwheel\nLeadpipe\n\n\n\n\nRigidity + tremor\nSmooth, consistent\n\n\nTonic increase in muscle tonewrightAxialHypertonicityParkinsons2007?\nEMG studies show phasic bursts of muscle activitymearaRelationshipElectromyographicActivity1992?\n\n\n\n\n\n\n\n\n\nCan be an underlying tremor that is not overtly present yet\n\n\n\n\n\n\n\n\n\nAsci F, Falletti M, Zampogna A, et al. Rigidity in Parkinson’s disease: evidence from biomechanical and neurophysiological measures. Brain. 2023;146(9):3705-3718. doi:10.1093/brain/awad114"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#pathomechanism",
+    "href": "Presentations/Neuro/presentation_tone_management.html#pathomechanism",
+    "title": "Tone Management",
+    "section": "Pathomechanism",
+    "text": "Pathomechanism\nThe direct pathway normally facilitates movement by disinhibiting (EXCITES) the motor cortex.\nThe indirect pathway inhibits movement:\n\n\nBecomes overactive (due to lack of dopamine) in PD\n\n\nIncreases inhibition of the motor cortex\n\n\nDec activation of CST/RST\n\n\nCauses inc activation of alpha motor neurons → Rigidity/bradykinesia."
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#rigidity",
+    "href": "Presentations/Neuro/presentation_tone_management.html#rigidity",
+    "title": "Tone Management",
+    "section": "Rigidity",
+    "text": "Rigidity\nRigidity is end-stage form of this neurophysiological process\n\n\nBasal ganglia increase inhibitory output\n\n\nExcessive α-motor neurons\n\n\nSustained muscle contraction (Rigidity)\n\n\n\n\n\n\n\nAs the basal ganglia increase their inhibitory output, there is excessive excitation of the α-motor neurons resulting in sustained muscle contraction known as rigidity"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#pathomechanism",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#pathomechanism",
+    "title": "Tone Management",
+    "section": "Pathomechanism",
+    "text": "Pathomechanism\nThe direct pathway normally facilitates movement by disinhibiting (EXCITES) the motor cortex.\nThe indirect pathway inhibits movement:\n\n\nBecomes overactive (due to lack of dopamine) in PD\n\n\nIncreases inhibition of the motor cortex\n\n\nDec activation of CST/RST\n\n\nCauses inc activation of alpha motor neurons → Rigidity/bradykinesia."
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#rigidity",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#rigidity",
+    "title": "Tone Management",
+    "section": "Rigidity",
+    "text": "Rigidity\nRigidity is end-stage form of this neurophysiological process\n\n\nBasal ganglia increase inhibitory output\n\n\nExcessive α-motor neurons\n\n\nSustained muscle contraction (Rigidity)\n\n\n\n\n\n\n\nAs the basal ganglia increase their inhibitory output, there is excessive excitation of the α-motor neurons resulting in sustained muscle contraction known as rigidity\n\n\n\nOther potential mechanisms\n\n\nExaggeration of long-latency stretch reflexes (LLSR)\n\n\nEnhanced shortening reaction (SR) and stretch-induced inhibition (SII)\n\n\nInvolvement of brainstem circuits involving sublaterodorsal nucleus, nucleus reticularis gigantocellularis (NRGC), locus coeruleus, caudal raphe and pedunculopontine nucleus (PPN)\n\n\nAlteration in functional connectivity in brain networks involving frontoparietal connection, premotor-pre-cuneus connection\n\n\nNon-neural factors like viscoelastic properties of muscle fiber and surrounding connective tissues"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#tremor-pathomechanism",
+    "href": "Presentations/Neuro/presentation_tone_management.html#tremor-pathomechanism",
+    "title": "Tone Management",
+    "section": "Pathomechanism",
+    "text": "Pathomechanism\nInvolved in other paths within the basal ganglia-thalamo-cortico loop:\nBG inhibits thalamus → causing altered firing patterns generating rhythmic bursting activity of thalamic cells"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#selective-dorsal-rhizotomy",
+    "href": "Presentations/Neuro/presentation_tone_management.html#selective-dorsal-rhizotomy",
+    "title": "Tone Management",
+    "section": "Selective Dorsal Rhizotomy",
+    "text": "Selective Dorsal Rhizotomy\nSelective Dorsal Rhizotomy: Irreversible surgery where a surgeon cuts sensory neurons in order to prevents stretch reflex/afferents from contributing spasticity\n“SUR-2: The AAPM&R TEP recommends utilization of selective dorsal rhizotomy (SDR) to treat spasticity with proper patient selection focused on patients with primarily spasticity of the lower extremity (LE), adequate LE strength and selective motor control, and absence of significant contractures. Technical Note: Historically, the procedure has primarily been performed in children; more recently SDR in adults has been noted to be helpful in reducing spasticity, maintaining or improving level of ambulation, but with a higher propensity to develop new sensory deficits or neuropathic pain.”\nA grade"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#tremor-pathomechanism",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#tremor-pathomechanism",
+    "title": "Tone Management",
+    "section": "Pathomechanism",
+    "text": "Pathomechanism\nInvolved in other paths within the basal ganglia-thalamo-cortico loop:\nBG inhibits thalamus → causing altered firing patterns generating rhythmic bursting activity of thalamic cells"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#selective-dorsal-rhizotomy",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#selective-dorsal-rhizotomy",
+    "title": "Tone Management",
+    "section": "Selective Dorsal Rhizotomy",
+    "text": "Selective Dorsal Rhizotomy\nSelective Dorsal Rhizotomy: Irreversible surgery where a surgeon cuts sensory neurons in order to prevents stretch reflex/afferents from contributing spasticity\n“SUR-2: The AAPM&R TEP recommends utilization of selective dorsal rhizotomy (SDR) to treat spasticity with proper patient selection focused on patients with primarily spasticity of the lower extremity (LE), adequate LE strength and selective motor control, and absence of significant contractures. Technical Note: Historically, the procedure has primarily been performed in children; more recently SDR in adults has been noted to be helpful in reducing spasticity, maintaining or improving level of ambulation, but with a higher propensity to develop new sensory deficits or neuropathic pain.”\nA grade\n\n\n\nPrimarily for children 4-10 years old or some adults with CP who are unresponsive to other treatments\n\n\nDiffuse Spasticity\n\n\nDecreases spasticity as far as 17 years after surgery\n\n\nAfter SDR, early intense PT is indicated to capitalize on opportunities to change motor patterning\n\n\nMonitor for Dysesthesias: Gabapentin given if experienced, usually lasts a couple of weeks\n\n\n\nCriteria\nUsual Criteria:\n\nPrematurity,\nDiplegia CP,\nGMFCS I-III,\nAge 4-10 y/o,\nPure spasticity\nAntigravity hip flexor strength,\nAdequate cognition,\nAbsence of contractures,\nPeriventricular leukomalacia with no basal ganglia or thalamic lesions on imaging\n\nFollowing surgery, changes in tone creates opportunities to change motor patterning. Initial intense PT rec: Early aggressive OP PT 2x per week or 6 weeks of intensive inpatient PT\n\n\nOther Considerations\n\nDec spasticity as far as 17 years after surgery\nDeep tendon reflexes and clonus is absent after\n\nAbsence of patellar reflex can lead to patients having an inc in falls from inadvertent knee flexion in stance bc of the absence of normal knee extension reflex when knee is suddenly flexed. Pts adapt over time to this change.\n\nSafe procedure, long term complications rare - some side effects include dysesthesias, urinary retention, numbness, infections and cerebral spinal leak (&lt;10% of patients)\nDysesthesia risk inc with # rootlets dissected, usually lasts a couple weeks and responds to gabapentin. Nocturnal leg spasms can occur but respond to diazepam.\nFollowing SDR, recommendations are for patients with knee flexion contractures to wear immobilizers at night thru adolescent growth spurt."
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#tendon-lengthening-surgery",
+    "href": "Presentations/Neuro/presentation_tone_management.html#tendon-lengthening-surgery",
+    "title": "Tone Management",
+    "section": "Tendon Lengthening Surgery",
+    "text": "Tendon Lengthening Surgery\n\nCutting part/all of tendon to lengthen it\nTypically CP kids, sometimes DMD/SCI/Stroke\nAll other options must be trialed prior"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#neurotomy",
+    "href": "Presentations/Neuro/presentation_tone_management.html#neurotomy",
+    "title": "Tone Management",
+    "section": "Neurotomy",
+    "text": "Neurotomy\nNeurotomy: Cutting peripheral motor nerve\nDiminishing reflex arc → Reducing spasticity\nMainly for Focal spasticity MAS &gt; 3 (passive mvmt difficult) Indicated after botox is trialed/failed or is too costly 80-85% success rate for dec spasticity\nProcedure may induce paralysis or dec strength, but pt can recover strength via other motor nerves helping to compensate"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#tendon-lengthening-surgery",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#tendon-lengthening-surgery",
+    "title": "Tone Management",
+    "section": "Tendon Lengthening Surgery",
+    "text": "Tendon Lengthening Surgery\n\nCutting part/all of tendon to lengthen it\nTypically CP kids, sometimes DMD/SCI/Stroke\nAll other options must be trialed prior\n\n\n\nAchilles tendon Lengthening\n\nIndicated w/ SEVERE CONTRACTURE\nUsually &gt;=20 deg of PF\nCast 6-12 weeks, crutches 4-6 weeks\nIntensive PT after: Stretches, strengthening and non-articulating AFOs for walking is indicatedGalletti2024?\n\nRisk: Over Lengthening →Worsens gait →Poor power in toe off/risk of crouching in midstance"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#neurotomy",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#neurotomy",
+    "title": "Tone Management",
+    "section": "Neurotomy",
+    "text": "Neurotomy\nNeurotomy: Cutting peripheral motor nerve\nDiminishing reflex arc → Reducing spasticity\nMainly for Focal spasticity MAS &gt; 3 (passive mvmt difficult) Indicated after botox is trialed/failed or is too costly 80-85% success rate for dec spasticity\nProcedure may induce paralysis or dec strength, but pt can recover strength via other motor nerves helping to compensate"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#other-surgeries",
+    "href": "Presentations/Neuro/presentation_tone_management.html#other-surgeries",
+    "title": "Tone Management",
+    "section": "Other Surgeries",
+    "text": "Other Surgeries\nNon selective ventral dorsal rhizotomy: children w GMFCS IV or V with sig hypertonia affecting comfort, care, positioning - Both sensory and motor rootlets cut from L1-S2 in nonselective fashion (50-80%) - By preserving a portion of the ventral rootlets, sufficient motor control preserved for some voluntary movements. - Reduction in spasticity/dystonia but some dystonia can return 1-2 years later - However, can significantly weaken legs – reduce standing ability\n\n\n\n\n\n\nNote\n\n\nSelective peripheral - 61-91 % pt satisfaction rate"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#other-surgeries",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#other-surgeries",
+    "title": "Tone Management",
+    "section": "Other Surgeries",
+    "text": "Other Surgeries\nNon selective ventral dorsal rhizotomy: children w GMFCS IV or V with sig hypertonia affecting comfort, care, positioning - Both sensory and motor rootlets cut from L1-S2 in nonselective fashion (50-80%) - By preserving a portion of the ventral rootlets, sufficient motor control preserved for some voluntary movements. - Reduction in spasticity/dystonia but some dystonia can return 1-2 years later - However, can significantly weaken legs – reduce standing ability\n\n\n\n\n\n\nNote\n\n\n\nSelective peripheral - 61-91 % pt satisfaction rate"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#botox",
+    "href": "Presentations/Neuro/presentation_tone_management.html#botox",
+    "title": "Tone Management",
+    "section": "Botox (A)",
+    "text": "Botox (A)\nINJ-1: The AAPM&R Spasticity TEP recommends clinicians consider use of botulinum toxin A for management of focal upper and lower limb spasticity."
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#botox",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#botox",
+    "title": "Tone Management",
+    "section": "Botox (A)",
+    "text": "Botox (A)\nINJ-1: The AAPM&R Spasticity TEP recommends clinicians consider use of botulinum toxin A for management of focal upper and lower limb spasticity.\n\nDistal muscles, focal relief Inhibits release of Ach MAS scores improve Effects last 3-4 months Peak effect: 3-4 weeks post injectionchen2020?\n\n\nMay use AFOs/Orthoses post procedure\nCan decrease pain d/t spasticity (Wissel, 2016)\nMS, stroke populations\nProblems: expensive, not always covered by Insurance\nAdverse local effects: weakness, pain, leg cramps, skin rash, infection,\nAdverse systemic effects can occur: dysphagia, dysphonia, weakness, dyspnea, respiratory distress\n\n\n\n\nExemplar histology slides of muscles injected with Botulinum toxin type-A (BoNT-A). Control tissue that was injected with a corresponding volume of saline (Control), muscle receiving one BTXA injection evaluated 6 months following injection (1-BTX-A), muscle receiving two BTXA injections separated by 3 months and evaluated 6 months post the second injection (2-BTX-A), and muscle injected three times with BTXA, separated by 3 months and evaluated 6 months following the third and last injection. The red staining shows the contractile material of the muscle. The white, thin lines (especially visible in the Control slide) are representative of the collagen matrix structure, and the white extended areas (especially visible in the BoNT-A injected muscles) represent intramuscular fat. Adapted from Howard & Herzog 2021howardSkeletalMuscleCerebral2021? Licensed under CC BY\n\n\n\nPost-Botox\nReduced muscle size, Fat infiltration, Dec in strength\nAnimals: after botox = smaller muscle size, strength and more fat infiltration. Muscle strength also reduced in adjacent and contralateral non target muscles.\nHumans: a single dose of BoNT has been shown to reduce muscle size in humans for up to 1 year and 50% dec in strength.schroeder2009?\n\nHumans post Stroke: Botox reduces MAS and elbow flexor strength 3 weeks following botox injection. (Chen , 2020)\nHuman histological studies (Howard et al, 2021) 15 children w/ spastic diplegic CP - botox to gastroc: Measured calf volume: 5% dec in gastroc volume 5 weeks post injection but 4% inc in soleus volume suggesting adjacent muscle hypertrophy to compensate for injected muscle. Study 2: Ultrasound to gastroc: demo’d dec’d volume in children with CP post BoNT injection.\n\n\nTakeaway\nWeigh benefits of decreasing spasticity to cons of decreasing strength when making recommendations\nEmphasize strengthening prior/after botox injections in the muscle injected!\n3-4 week mark = peak effects: Capitalize on motor patterning!\nCan be beneficial for decreasing pain!\nMonitor for systemic muscle weakness in those getting recurrent botox injections or high doses- potential side effect\n\n\n\nActions of BoNT/A along the pain pathway. Adapted from Matak & Bölcskei 2019matakMechanismsBotulinumToxin2019? Licensed under CC BY"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#phenol-or-alcohol-blocks",
+    "href": "Presentations/Neuro/presentation_tone_management.html#phenol-or-alcohol-blocks",
+    "title": "Tone Management",
+    "section": "Phenol or Alcohol Blocks",
+    "text": "Phenol or Alcohol Blocks\nINJ-2: The AAPM&R Spasticity TEP suggests that clinicians consider use of phenol or alcohol blocks for management of focal spasticity."
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#phenol-or-alcohol-blocks",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#phenol-or-alcohol-blocks",
+    "title": "Tone Management",
+    "section": "Phenol or Alcohol Blocks",
+    "text": "Phenol or Alcohol Blocks\nINJ-2: The AAPM&R Spasticity TEP suggests that clinicians consider use of phenol or alcohol blocks for management of focal spasticity.\n\nMild/no sedation.\nTarget nerve found via estim/ultrasound. Local anesthetic applied, Nerve stimulation performed to find right motor response. Phenol/alcohol then injected, immediately ceasing contractions/spasticity. Chemical denatures protein resulting in neuropraxic injury/denervation\n\nCan lead to wallerian degeneration of targeted nerve\nCan also result in fibrosis/local vascular injury/ muscle necrosis due to non-specific protein denaturation\nAverage duration of effects last 3-9 months (LONGER than botox)\nApplied to isolated motor nerves/motor branches Not sensory-would result in painful dysesthesias\n\nNO large scale clinical studies - only small retrospective, case series/case studies: typically a therapy of last resort and reserved for END STAGE THERAPY Stroke, SCI, TBI, CP\nInferior effects compared to botox on spasticity (Gonnade, 2017)\nAdverse effects: phenol spreading to adjacent nerves or sensory fibers: Painful dysesthesias range between 10-30% depending on study\n\nTakeaways\nPhenol/alcohol injected into motor nerves, immediately ceasing contractions/spasticity. Chemical denatures protein resulting in neuropraxic injury/denervation Average duration of effects last 3-9 months (longer than botox) Usually a tx of last resort- Inferior effects compared to botox on spasticity (Gonnade, 2017) Adverse effects: phenol spreading to sensory fibers: Painful dysesthesias range between 10-30% depending on study"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#oral-medications-c",
+    "href": "Presentations/Neuro/presentation_tone_management.html#oral-medications-c",
+    "title": "Tone Management",
+    "section": "Oral Medications (C)",
+    "text": "Oral Medications (C)\nPharm-1: The AAPM&R Spasticity TEP suggests use of oral medications to manage generalized or systemic spasticity; oral medications can be used either exclusively or as a component of a multimodal treatment approach.\n\nNo medication is uniformly useful in tx of hypertonia\nAll drugs can have serious side effects - negative effects will be weighed when prescribed"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#baclofen",
+    "href": "Presentations/Neuro/presentation_tone_management.html#baclofen",
+    "title": "Tone Management",
+    "section": "Baclofen",
+    "text": "Baclofen\nMuscle relaxant Most common drug for spasticity of spinal region (ie SCI, MS) Can be used in supraspinal spasticity (CP, Stroke)\nSome caution w/ use in cerebral forms of spasticity d/t interference with attention/memory on brain injured patients\nGABA-B Agonist - mainly acts at the spinal level Inhibits excitation of alpha motor neurons"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#baclofen-pump",
+    "href": "Presentations/Neuro/presentation_tone_management.html#baclofen-pump",
+    "title": "Tone Management",
+    "section": "Baclofen Pump",
+    "text": "Baclofen Pump\nBaclofen Pump: Pump implanted under the skin of abdomen, then a catheter is then threaded from the pump to spinal fluid in low back, bypassing BBB.\nSUR-1: The AAPM&R Spasticity TEP recommends use of intrathecal baclofen pump therapy (ITB) as an effective treatment of spinal or cerebral origin spasticity in appropriately identified patients."
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#tizanidine",
+    "href": "Presentations/Neuro/presentation_tone_management.html#tizanidine",
+    "title": "Tone Management",
+    "section": "Tizanidine",
+    "text": "Tizanidine\nAlpha-2 adrenergic agonist Causes decrease in presynaptic activity of excitatory interneurons in SC Decreases stretch reflex activity/motor neuron excitability Used in Cerebral + Spinal disorders: MS, Stroke, ALS"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#dantrolene",
+    "href": "Presentations/Neuro/presentation_tone_management.html#dantrolene",
+    "title": "Tone Management",
+    "section": "Dantrolene",
+    "text": "Dantrolene\n\nActs outside the CNS → muscle fiber level Inhibits release of Ca2+ from Endoplasmic Reticulum in muscle cells Ca2+ normally binds onto troponin in actin filaments allowing actin-myosin cross bridging (so inhibiting this decreases contractility of muscles) Peak Effects: 1-3.5 hrs after ingestion Long lasting: 8-10 hours"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#diazepam",
+    "href": "Presentations/Neuro/presentation_tone_management.html#diazepam",
+    "title": "Tone Management",
+    "section": "Diazepam",
+    "text": "Diazepam\nGABA-A agonist, acts on Brain + SC (Stroke, CP, TBI) Commonly short term only Onset of action: 15-60 min Duration of onset: 12+ hrs, very long lasting Side effects: sedation, impaired memory/cognition, ataxia, fatigue, confusion, depression, respiratory depression, bradycardia, suicidality, syncope, hypotension"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#gabapentin",
+    "href": "Presentations/Neuro/presentation_tone_management.html#gabapentin",
+    "title": "Tone Management",
+    "section": "Gabapentin",
+    "text": "Gabapentin\nInhibits glutamate, creating inhibitory effect for motor neurons Usually MS/SCI populations Used when other first line drug tx do not work Few sedative effects Helpful to dec neuropathic pain as well"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#cannabinoids",
+    "href": "Presentations/Neuro/presentation_tone_management.html#cannabinoids",
+    "title": "Tone Management",
+    "section": "Cannabinoids/THC",
+    "text": "Cannabinoids/THC\nEnhances GABA, reduces effects of Glu New area of research, mostly studied in MS Reduces excitatory neurotransmission → decreasing spasticity Can help tx pain associated w/ spasticity too Moderately effective in reducing spasticity scores, but almost as effective as other drug tx: baclofen, tizanidine (Jones et al, 2020)"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#oral-meds-takeaways",
+    "href": "Presentations/Neuro/presentation_tone_management.html#oral-meds-takeaways",
+    "title": "Tone Management",
+    "section": "Oral Meds Takeaways",
+    "text": "Oral Meds Takeaways\n\n\nYes: Pain, Interference with ADLs/PT\n\nNo: Not for FOCAL spasticity d/t global effects of drugs If spasticity helps w/ walking/functional tasks don’t recommend Weigh other pros of spasticity: DVT prevention, dec risk of osteoporosis, protective marker if something is awry in body\n\nBig risk for adverse effects on cognition/sedation - be sure to educate patients about this when suggesting drugs\n\n\n\n\n\n\nNote\n\n\nIn many stroke pts, spasticity is local (1-2 muscle groups) which is easily targeted with Botox or peripheral nerve blocks NOT drugs (Bakheit, 2012). MS/CP/TBI may be more systemic"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#oral-medications-c",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#oral-medications-c",
+    "title": "Tone Management",
+    "section": "Oral Medications (C)",
+    "text": "Oral Medications (C)\nPharm-1: The AAPM&R Spasticity TEP suggests use of oral medications to manage generalized or systemic spasticity; oral medications can be used either exclusively or as a component of a multimodal treatment approach.\n\nNo medication is uniformly useful in tx of hypertonia\nAll drugs can have serious side effects - negative effects will be weighed when prescribed"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#baclofen",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#baclofen",
+    "title": "Tone Management",
+    "section": "Baclofen",
+    "text": "Baclofen\nMuscle relaxant Most common drug for spasticity of spinal region (ie SCI, MS) Can be used in supraspinal spasticity (CP, Stroke)\nSome caution w/ use in cerebral forms of spasticity d/t interference with attention/memory on brain injured patients\nGABA-B Agonist - mainly acts at the spinal level Inhibits excitation of alpha motor neurons\n\nPeak concentrations: 2-3 hrs after ingestion Short half life of 2-6 hours - taken in smaller doses throughout day Adverse effects: weakness, sedation/drowsiness, fatigue, dizziness, constipation, confusion, hypotonia, ataxia. Sudden withdrawal can cause seizures/hallucinationsghanavatian2024?"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#baclofen-pump",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#baclofen-pump",
+    "title": "Tone Management",
+    "section": "Baclofen Pump",
+    "text": "Baclofen Pump\nBaclofen Pump: Pump implanted under the skin of abdomen, then a catheter is then threaded from the pump to spinal fluid in low back, bypassing BBB.\nSUR-1: The AAPM&R Spasticity TEP recommends use of intrathecal baclofen pump therapy (ITB) as an effective treatment of spinal or cerebral origin spasticity in appropriately identified patients.\n\nContinuous delivery of baclofen, lower doses compared to oral administration.\nNeed to trial oral baclofen prior Checking for side effects\nContraindications: infection, insufficient body mass for pump bulk,\n\nFor SEVERE spasticity, when oral meds fail Wait &gt;=1 year after brain/SCI before consideration. Global OR regional spasticity for CP, brain injury, stroke, SCI, MS. Negative effects on arousal/cognition Most meds will last 2-3 months before requiring refill Battery lasts 4-7 yrs -need another surgery to replace"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#tizanidine",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#tizanidine",
+    "title": "Tone Management",
+    "section": "Tizanidine",
+    "text": "Tizanidine\nAlpha-2 adrenergic agonist Causes decrease in presynaptic activity of excitatory interneurons in SC Decreases stretch reflex activity/motor neuron excitability Used in Cerebral + Spinal disorders: MS, Stroke, ALS\n\nSedation, dizziness, dry mouth common after → weakness is not a big problem Lasts 3-6 hours, max effects at 1-2 hours after administration Shown to have a more favorable tolerability profile, less reported mm weakness + less sedation compared to baclofen"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#dantrolene",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#dantrolene",
+    "title": "Tone Management",
+    "section": "Dantrolene",
+    "text": "Dantrolene\n\nActs outside the CNS → muscle fiber level Inhibits release of Ca2+ from Endoplasmic Reticulum in muscle cells Ca2+ normally binds onto troponin in actin filaments allowing actin-myosin cross bridging (so inhibiting this decreases contractility of muscles) Peak Effects: 1-3.5 hrs after ingestion Long lasting: 8-10 hours\n\n\nSide effects: weakness ( ie respiratory muscle weakness), sedation, GI sx, dizziness, fatigue Big warning for Serious hepatotoxicity Will need to liver eval prior and monitoring after Used for stroke, SCI, CP, MS, etc NOT in ALS- can progress mm weakness Less sedative than baclofen - more preserved cognitive function"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#diazepam",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#diazepam",
+    "title": "Tone Management",
+    "section": "Diazepam",
+    "text": "Diazepam\nGABA-A agonist, acts on Brain + SC (Stroke, CP, TBI) Commonly short term only Onset of action: 15-60 min Duration of onset: 12+ hrs, very long lasting Side effects: sedation, impaired memory/cognition, ataxia, fatigue, confusion, depression, respiratory depression, bradycardia, suicidality, syncope, hypotension\n\nSchedule IV controlled substance w/ potential for abuse Abrupt cessation: seizures, hallucinations Elderly pts have dec’d renal fxn - not recommended d/t issues w diazepam accumulation/renal issues"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#gabapentin",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#gabapentin",
+    "title": "Tone Management",
+    "section": "Gabapentin",
+    "text": "Gabapentin\nInhibits glutamate, creating inhibitory effect for motor neurons Usually MS/SCI populations Used when other first line drug tx do not work Few sedative effects Helpful to dec neuropathic pain as well"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#cannabinoids",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#cannabinoids",
+    "title": "Tone Management",
+    "section": "Cannabinoids/THC",
+    "text": "Cannabinoids/THC\nEnhances GABA, reduces effects of Glu New area of research, mostly studied in MS Reduces excitatory neurotransmission → decreasing spasticity Can help tx pain associated w/ spasticity too Moderately effective in reducing spasticity scores, but almost as effective as other drug tx: baclofen, tizanidine (Jones et al, 2020)"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#oral-meds-takeaways",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#oral-meds-takeaways",
+    "title": "Tone Management",
+    "section": "Oral Meds Takeaways",
+    "text": "Oral Meds Takeaways\n\n\nYes: Pain, Interference with ADLs/PT\n\nNo: Not for FOCAL spasticity d/t global effects of drugs If spasticity helps w/ walking/functional tasks don’t recommend Weigh other pros of spasticity: DVT prevention, dec risk of osteoporosis, protective marker if something is awry in body\n\n\nBig risk for adverse effects on cognition/sedation - be sure to educate patients about this when suggesting drugs\n\n\n\n\n\n\nNote\n\n\n\nIn many stroke pts, spasticity is local (1-2 muscle groups) which is easily targeted with Botox or peripheral nerve blocks NOT drugs (Bakheit, 2012). MS/CP/TBI may be more systemic"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#nmes",
+    "href": "Presentations/Neuro/presentation_tone_management.html#nmes",
+    "title": "Tone Management",
+    "section": "NMES",
+    "text": "NMES\nSR+ Meta-Analysis (Stein et al, 2015) Decreases spasticity + increase ROM when compared to controls Most often Tib Ant OR Gastroc + combined w gait training Both show improvements in tone/stiffness, however over Tib Ant= better improvements in gait/spasticity (Yang, 2018) Reciprocal inhibition Short term - when in use up to 15 min after (Milosevic et al, 2019)\nNMES Actions\nMotta-Oishi, 2013 Agonist Estim-Recurrent inhibition or just muscle fatigue Antagonist Estim-Reciprocal inhibition Other mechanisms\nNMES has the potential to induce neuroplasticity within spinal cord paths (Bergquist et al, 2011) Suppresses exaggerated excitability"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#resistance-training",
+    "href": "Presentations/Neuro/presentation_tone_management.html#resistance-training",
+    "title": "Tone Management",
+    "section": "Resistance Training",
+    "text": "Resistance Training\nSpasticity can LEAD to weakness Type II → Type I fibers (Fan et al, 2020) Due to Reduced voluntary motor unit recruitment Relative immobilization/Chronic disuse Causes plastic rearrangements in higher centers that further reduces ability to voluntarily recruit motor units → aggravating spasticity (Gracies et al, 2005) Strength training is inconclusive in decreasing spasticity but important to train to minimize atrophy/improve motor control (Brashear et al, 2016)\nAntagonist Strengthening\nHow? Reciprocal Inhibition: when one muscle contracts, the other stretches/relaxes Theory - no direct evidence for this in strength training"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#weight-bearing",
+    "href": "Presentations/Neuro/presentation_tone_management.html#weight-bearing",
+    "title": "Tone Management",
+    "section": "Weight Bearing",
+    "text": "Weight Bearing\nMegia-Garcia2021?\nWB provides proprioceptive input Activates joint mechanoreceptors, cutaneous receptors (detecting pressure/stretch vibration) Activates spinal interneurons → dec motor neuron excitability to soleus allowing higher reflex thresholds to allow for walkingnakazawa2004? Why the patellar reflex is not as intense in standing! Increases afferent input →reduces hyperactive stretch reflex Studies focus on BWTT, kneeling walking, etc show a decrease in MAS scores/Spasticity/Reflexpeurala2005?"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#whole-body-vibration",
+    "href": "Presentations/Neuro/presentation_tone_management.html#whole-body-vibration",
+    "title": "Tone Management",
+    "section": "Whole Body Vibration",
+    "text": "Whole Body Vibration\nMechanism of WBVT has not been fully proven Proposed to activate Ia and II afferent fibers, increasing sensory input to CNS → Presynaptic inhibition\nStudies: REDUCES reflex activity by modulating spinal excitability, enhancing voluntary muscle activationkrause2017? Spasticity = muscle overreacts to small stretch loads, so by reducing reflex activity, patient can access voluntary muscle activation (supraspinally) betterkrause2017?\nVibration Also Increases Excitation of Brain\nIncreases excitability of brain areas involved in movement (primary motor/pre-motor shown in fNIRS, EEG studies ) Promotes neuroplasticity of brain areas that are affected in those w/ spasticitymiyara2020?,lopez2017?"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#nmes",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#nmes",
+    "title": "Tone Management",
+    "section": "NMES",
+    "text": "NMES\nSR+ Meta-Analysis (Stein et al, 2015) Decreases spasticity + increase ROM when compared to controls Most often Tib Ant OR Gastroc + combined w gait training Both show improvements in tone/stiffness, however over Tib Ant= better improvements in gait/spasticity (Yang, 2018) Reciprocal inhibition Short term - when in use up to 15 min after (Milosevic et al, 2019)\n\nNMES Actions\nMotta-Oishi, 2013 Agonist Estim-Recurrent inhibition or just muscle fatigue Antagonist Estim-Reciprocal inhibition Other mechanisms\nNMES has the potential to induce neuroplasticity within spinal cord paths (Bergquist et al, 2011) Suppresses exaggerated excitability"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#resistance-training",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#resistance-training",
+    "title": "Tone Management",
+    "section": "Resistance Training",
+    "text": "Resistance Training\nSpasticity can LEAD to weakness Type II → Type I fibers (Fan et al, 2020) Due to Reduced voluntary motor unit recruitment Relative immobilization/Chronic disuse Causes plastic rearrangements in higher centers that further reduces ability to voluntarily recruit motor units → aggravating spasticity (Gracies et al, 2005) Strength training is inconclusive in decreasing spasticity but important to train to minimize atrophy/improve motor control (Brashear et al, 2016)\n\nAntagonist Strengthening\nHow? Reciprocal Inhibition: when one muscle contracts, the other stretches/relaxes Theory - no direct evidence for this in strength training\n\nHow? Reciprocal Inhibition: when one muscle contracts, the other stretches/relaxes Strengthening the antagonist → inhibitory interneurons in SC → inhibits alpha motor neurons connecting to spastic muscle, allowing stretch Dec’d inhibition compared to controls, but inhibition path still occurs with spastic individuals (Morita, 2006) Antagonist contraction can influence cortical plasticity of agonist (Fang, 2014)\n\n\n\n\n\n\nNote\n\n\n\nTheory -I could not find any evidence for this in strength training, EMG studies show strength training does not influence thissmania2010?"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#weight-bearing",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#weight-bearing",
+    "title": "Tone Management",
+    "section": "Weight Bearing",
+    "text": "Weight Bearing\nMegia-Garcia2021?\nWB provides proprioceptive input Activates joint mechanoreceptors, cutaneous receptors (detecting pressure/stretch vibration) Activates spinal interneurons → dec motor neuron excitability to soleus allowing higher reflex thresholds to allow for walkingnakazawa2004? Why the patellar reflex is not as intense in standing! Increases afferent input →reduces hyperactive stretch reflex Studies focus on BWTT, kneeling walking, etc show a decrease in MAS scores/Spasticity/Reflexpeurala2005?\n\nBWTT reduces the amplitude of soleus max H/M ratio in those with SCI, which is a reflection of reduced motor neuron excitability (less tone/spasticity)trimble2001? H/M ratio is commonly used to eval balance between excitatory/inhibitory inputs to motor neuronstrimble2001? Spastic Pts: typically inc’d H/M ratio (more motor neuron excitabilty)trimble2001?\nBWTT vs tilt tableadams2011? BWTT: decreased tone, flexor spasms and motor neuron excitabilityadams2011?\n\nWB Regressions\n\n\nHalf kneeling\nCan improve dissociation Oppo mvmts and positioning of 2 limbs (one in flexion with other in extension) Quadruped, tall kneeling, modified plantigrade (standing w hands on table), standing\n\nQuadruped\nParticularly in those with extensor spasticity Can help induce flexion of hip/knees, providing prolonged stretch to muscle groups Incorporates reciprocal agonist - antagonist muscle recruitment and motor control Can help reduce spasticity through consistent reciprocal inhibition of hypertonic muscles\n\n\nfell2019?"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#whole-body-vibration",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#whole-body-vibration",
+    "title": "Tone Management",
+    "section": "Whole Body Vibration",
+    "text": "Whole Body Vibration\nMechanism of WBVT has not been fully proven Proposed to activate Ia and II afferent fibers, increasing sensory input to CNS → Presynaptic inhibition\nStudies: REDUCES reflex activity by modulating spinal excitability, enhancing voluntary muscle activationkrause2017? Spasticity = muscle overreacts to small stretch loads, so by reducing reflex activity, patient can access voluntary muscle activation (supraspinally) betterkrause2017?\n\nVibration Also Increases Excitation of Brain\nIncreases excitability of brain areas involved in movement (primary motor/pre-motor shown in fNIRS, EEG studies ) Promotes neuroplasticity of brain areas that are affected in those w/ spasticitymiyara2020?,lopez2017?\n\nBenefits: Decreases spasticity (Krause, 2017)krause2017? Inc Strength (in stroke, CP and in elderly healthy adults: MVIC, CSA)machado2010?,pulay2023?,tihanyi2007? Inc blood circulationdionello2017? Inc ROM of knee jointkrause2017? Better functional outcomes: TUG, 10 MWTdionello2017? Benefits proprioception (shown in a post ACL-R populationmoezy2008? via a joint repositioning test)\n\n\nVibration Parameters\n(Zhang et al, 2023)\nWBVT for 10 min at &lt;20 Hz frequency improves spasticity in UE + LE\nLasts about 10 min! Capitalize!"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#casting",
+    "href": "Presentations/Neuro/presentation_tone_management.html#casting",
+    "title": "Tone Management",
+    "section": "Casting",
+    "text": "Casting\nSequence of casts applied in progressively greater ROM over several weeks to inc ROM Maximal stretch → muscle fatigues then elongates Cast is changed every 2 weeks to new lengthened position After Botox, casting can help facilitate further spasticity reduction (Winstein et al, 2017)(Farag et al, 2020)"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#serial-casting",
+    "href": "Presentations/Neuro/presentation_tone_management.html#serial-casting",
+    "title": "Tone Management",
+    "section": "Serial Casting",
+    "text": "Serial Casting\nSerial Casting:\nPost Stroke (Winstein/AHA, 2016) Level C evidence for mild to moderate elbow/wrist contractures\nChildren w/ CP (Milne et al, 2020) Dec’d MAS, inc’d DF ROM, improved gait\nTBI Grade B for improving PROM or preventing loss of ROM"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#afos",
+    "href": "Presentations/Neuro/presentation_tone_management.html#afos",
+    "title": "Tone Management",
+    "section": "AFOs",
+    "text": "AFOs\nPrevents contractureweinstein2017? Increases DF ROM Improved gait mechanics, speed Improved spasticity via stretch reflex and MASchen2022?"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#night-splints",
+    "href": "Presentations/Neuro/presentation_tone_management.html#night-splints",
+    "title": "Tone Management",
+    "section": "Night Splints",
+    "text": "Night Splints\nWrists\n“Strong evidence wearing a splint all night has no effect in reducing spasticity/contracture”(Lannin et al, 2011) AHA states it may prevent contractures but data is conflicting (Winstein et al, 2016)\nAnkle\nWearing a foot splint 12+ hours a day did not affect joint mobility in adults post TBI (Sung et al, 2016)\nCombo + botox → best effects on spasticity Alone - very mixed/little evidence (Synnot et al, 2017)\n\n\n\nNote: more evidence in CP/Pediatric populations although still inconclusive"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#aerobic-training",
+    "href": "Presentations/Neuro/presentation_tone_management.html#aerobic-training",
+    "title": "Tone Management",
+    "section": "Aerobic Training",
+    "text": "Aerobic Training\nHIIT increases: BDNF, dopamine, neuroplasticity/retention/learning, attenuates neurodegeneration, helps mood, etc also…. Changes cortical inhibition (Abraha et al, 2018) Decreases motor neuron excitability (Bulbulian et al, 1986) H/M ratio after low vs high intensity exercises in a healthy population Treadmill for 20 min: 12.8% reduction in H/M ratio (w/ 40% Vo2) 21.5% reduction in H/M ratio (w/ 75% Vo2) Decreases Spasticity Acutely in ppl w/ stroke (Sakamoto et al 2014) Picture: exercise: 1 arm cycling at 50% max workload for 10 min, control is rest. Measured spasticity in OPPOSITE arm. Decreases spasticity in rat model of SCI - through BDNF modulating excitability in spine (Beverungen et al, 2020)"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#stretching",
+    "href": "Presentations/Neuro/presentation_tone_management.html#stretching",
+    "title": "Tone Management",
+    "section": "Stretching",
+    "text": "Stretching\nNot enough for long term spasticity management Passive stretches may have SHORT term decreases in spasticity, NOT long term (Bovend’Eerdt et al, 2008) Any effect on motor neuron excitability? Mixed results (Bovend’Eerdt et al, 2008)\nSR Figure: Non-statistically significant results in favor of the stretching group were observed for MAS, but ROM/functional tasks (ie gait) showed no difference (Gomez, 2021)\nCould help prevent contractures/dec pain, although no conclusive evidence"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#stretch-contract",
+    "href": "Presentations/Neuro/presentation_tone_management.html#stretch-contract",
+    "title": "Tone Management",
+    "section": "Stretch + Contract",
+    "text": "Stretch + Contract\nOnly studies in healthy adults (Fukaya et al,2022) (Fell et al, 2019) Likely short term effects (ROM) Lengthening a spastic muscle followed by contraciton of antagonist (Induces Reciprocal Inhibition) Lengthen spastic mm + contraction of spastic mm (induces Recurrent Inhibition)"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#cryotherapy",
+    "href": "Presentations/Neuro/presentation_tone_management.html#cryotherapy",
+    "title": "Tone Management",
+    "section": "Cryotherapy",
+    "text": "Cryotherapy\nDecreases nerve conduction velocity, dec H/M ratioabdelhakiem2024? Multiple studies show dec in spasticity post icingabdelhakiem2024?,garcia2019?,alcantara2019? 20 minutes of icing →Dec’d PF spasticity for up to 30 min post icing Did not affect proprioceptiongarcia2019? No effects on muscle torque capacityalcantara2019?"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#thermotherapy",
+    "href": "Presentations/Neuro/presentation_tone_management.html#thermotherapy",
+    "title": "Tone Management",
+    "section": "Thermotherapy",
+    "text": "Thermotherapy\nCan dampen muscle excitability 10 min, 106 F warm foot bath → decrease in muscle tone for as long as 30 minmatsumoto2006?,matsumoto2010?,matsumoto2014?.\nAquatic therapy in warm water can also decrease spasticitykesikatas2004?"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#kinesiotape",
+    "href": "Presentations/Neuro/presentation_tone_management.html#kinesiotape",
+    "title": "Tone Management",
+    "section": "Kinesiotape",
+    "text": "Kinesiotape\nWang, 2019 SRwang2019? KT improved patients’ lower extremity spasticity, motor function, balance, ambulation, gait parameters, and daily activities, with few adverse effects.\nPuce et al 2020puce2020? Para Athletes w spasticity KT decreased the amplitude of stretch reflex (p &lt; .001) compared to placebo Strength + MAS did not change after KT, but numeric rating scale scores for spasticity significantly decreased (p = .001). Swimming performance was significantly improved after KT treatment as compared with baseline (p &lt; .01)"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#deep-pressure-to-jtendon",
+    "href": "Presentations/Neuro/presentation_tone_management.html#deep-pressure-to-jtendon",
+    "title": "Tone Management",
+    "section": "Deep Pressure to jtendon",
+    "text": "Deep Pressure to jtendon\nDeep pressure to tendon Compressive pressure over longitudinal axis of tendon of a hypertonic muscle to activate GTOs GTOs could help induce elongation to muscle as it feels itself being stretched, thus reducing tone.cite?"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#joint-traction",
+    "href": "Presentations/Neuro/presentation_tone_management.html#joint-traction",
+    "title": "Tone Management",
+    "section": "Joint Traction",
+    "text": "Joint Traction\nJoint Traction May increase joint awareness w/ inc’d activation of joint receptorscite?"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#biofeedback",
+    "href": "Presentations/Neuro/presentation_tone_management.html#biofeedback",
+    "title": "Tone Management",
+    "section": "Biofeedback",
+    "text": "Biofeedback\nChildren w/ Spastic CP, 10 min a day + visual/auditory signals while pt performed contraction of tib ant and relaxation of tri surae. Significant dec in spasticity (MAS) for up to 3 monthsdursan2004?"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#casting",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#casting",
+    "title": "Tone Management",
+    "section": "Casting",
+    "text": "Casting\nSequence of casts applied in progressively greater ROM over several weeks to inc ROM Maximal stretch → muscle fatigues then elongates Cast is changed every 2 weeks to new lengthened position After Botox, casting can help facilitate further spasticity reduction (Winstein et al, 2017)(Farag et al, 2020)"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#serial-casting",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#serial-casting",
+    "title": "Tone Management",
+    "section": "Serial Casting",
+    "text": "Serial Casting\nSerial Casting:\nPost Stroke (Winstein/AHA, 2016) Level C evidence for mild to moderate elbow/wrist contractures\nChildren w/ CP (Milne et al, 2020) Dec’d MAS, inc’d DF ROM, improved gait\nTBI Grade B for improving PROM or preventing loss of ROM\n\nCons: Atrophy Skin breakdown Pain Discomfort Affects ADLs/Gait"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#afos",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#afos",
+    "title": "Tone Management",
+    "section": "AFOs",
+    "text": "AFOs\nPrevents contractureweinstein2017? Increases DF ROM Improved gait mechanics, speed Improved spasticity via stretch reflex and MASchen2022?"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#night-splints",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#night-splints",
+    "title": "Tone Management",
+    "section": "Night Splints",
+    "text": "Night Splints\n\nWrists\n“Strong evidence wearing a splint all night has no effect in reducing spasticity/contracture”(Lannin et al, 2011) AHA states it may prevent contractures but data is conflicting (Winstein et al, 2016)\n\n\nAnkle\nWearing a foot splint 12+ hours a day did not affect joint mobility in adults post TBI (Sung et al, 2016)\nCombo + botox → best effects on spasticity Alone - very mixed/little evidence (Synnot et al, 2017)\n\n\n\n\n\n\nNote: more evidence in CP/Pediatric populations although still inconclusive"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#aerobic-training",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#aerobic-training",
+    "title": "Tone Management",
+    "section": "Aerobic Training",
+    "text": "Aerobic Training\nHIIT increases: BDNF, dopamine, neuroplasticity/retention/learning, attenuates neurodegeneration, helps mood, etc also…. Changes cortical inhibition (Abraha et al, 2018) Decreases motor neuron excitability (Bulbulian et al, 1986) H/M ratio after low vs high intensity exercises in a healthy population Treadmill for 20 min: 12.8% reduction in H/M ratio (w/ 40% Vo2) 21.5% reduction in H/M ratio (w/ 75% Vo2) Decreases Spasticity Acutely in ppl w/ stroke (Sakamoto et al 2014) Picture: exercise: 1 arm cycling at 50% max workload for 10 min, control is rest. Measured spasticity in OPPOSITE arm. Decreases spasticity in rat model of SCI - through BDNF modulating excitability in spine (Beverungen et al, 2020)"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#stretching",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#stretching",
+    "title": "Tone Management",
+    "section": "Stretching",
+    "text": "Stretching\nNot enough for long term spasticity management Passive stretches may have SHORT term decreases in spasticity, NOT long term (Bovend’Eerdt et al, 2008) Any effect on motor neuron excitability? Mixed results (Bovend’Eerdt et al, 2008)\nSR Figure: Non-statistically significant results in favor of the stretching group were observed for MAS, but ROM/functional tasks (ie gait) showed no difference (Gomez, 2021)\nCould help prevent contractures/dec pain, although no conclusive evidence"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#stretch-contract",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#stretch-contract",
+    "title": "Tone Management",
+    "section": "Stretch + Contract",
+    "text": "Stretch + Contract\nOnly studies in healthy adults (Fukaya et al,2022) (Fell et al, 2019) Likely short term effects (ROM) Lengthening a spastic muscle followed by contraciton of antagonist (Induces Reciprocal Inhibition) Lengthen spastic mm + contraction of spastic mm (induces Recurrent Inhibition)"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#cryotherapy",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#cryotherapy",
+    "title": "Tone Management",
+    "section": "Cryotherapy",
+    "text": "Cryotherapy\nDecreases nerve conduction velocity, dec H/M ratioabdelhakiem2024? Multiple studies show dec in spasticity post icingabdelhakiem2024?,garcia2019?,alcantara2019? 20 minutes of icing →Dec’d PF spasticity for up to 30 min post icing Did not affect proprioceptiongarcia2019? No effects on muscle torque capacityalcantara2019?"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#thermotherapy",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#thermotherapy",
+    "title": "Tone Management",
+    "section": "Thermotherapy",
+    "text": "Thermotherapy\nCan dampen muscle excitability 10 min, 106 F warm foot bath → decrease in muscle tone for as long as 30 minmatsumoto2006?,matsumoto2010?,matsumoto2014?.\nAquatic therapy in warm water can also decrease spasticitykesikatas2004?"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#kinesiotape",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#kinesiotape",
+    "title": "Tone Management",
+    "section": "Kinesiotape",
+    "text": "Kinesiotape\nWang, 2019 SRwang2019? KT improved patients’ lower extremity spasticity, motor function, balance, ambulation, gait parameters, and daily activities, with few adverse effects.\nPuce et al 2020puce2020? Para Athletes w spasticity KT decreased the amplitude of stretch reflex (p &lt; .001) compared to placebo Strength + MAS did not change after KT, but numeric rating scale scores for spasticity significantly decreased (p = .001). Swimming performance was significantly improved after KT treatment as compared with baseline (p &lt; .01)\n\nInhibitory kinesiotapingmehraein2021? Application of inhibitory KT was found to be able to reduce the Hmax/Mmax ratio in patients with stroke. No sig change in MAS\nLimited number of studies, hypothesized d/t recurrent inhibition of hypertonic mm or proprioceptive effects"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#deep-pressure-to-jtendon",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#deep-pressure-to-jtendon",
+    "title": "Tone Management",
+    "section": "Deep Pressure to jtendon",
+    "text": "Deep Pressure to jtendon\nDeep pressure to tendon Compressive pressure over longitudinal axis of tendon of a hypertonic muscle to activate GTOs GTOs could help induce elongation to muscle as it feels itself being stretched, thus reducing tone.cite?"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#joint-traction",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#joint-traction",
+    "title": "Tone Management",
+    "section": "Joint Traction",
+    "text": "Joint Traction\nJoint Traction May increase joint awareness w/ inc’d activation of joint receptorscite?"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#biofeedback",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#biofeedback",
+    "title": "Tone Management",
+    "section": "Biofeedback",
+    "text": "Biofeedback\nChildren w/ Spastic CP, 10 min a day + visual/auditory signals while pt performed contraction of tib ant and relaxation of tri surae. Significant dec in spasticity (MAS) for up to 3 monthsdursan2004?"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management.html#reassess",
+    "href": "Presentations/Neuro/presentation_tone_management.html#reassess",
+    "title": "Tone Management",
+    "section": "Reassess",
+    "text": "Reassess\nMy recommendation for treatment of Spasticity/Hypertonia: Test, retest! With Tardieu (Spasticity) or MAS (Tone)\nTardieu tests at different velocities - spasticity is velocity dependent so if you use MAS, you may not pick up on spasticity"
+  },
+  {
+    "objectID": "Presentations/Neuro/presentation_tone_management_page.html#reassess",
+    "href": "Presentations/Neuro/presentation_tone_management_page.html#reassess",
+    "title": "Tone Management",
+    "section": "Reassess",
+    "text": "Reassess\nMy recommendation for treatment of Spasticity/Hypertonia: Test, retest! With Tardieu (Spasticity) or MAS (Tone)\nTardieu tests at different velocities - spasticity is velocity dependent so if you use MAS, you may not pick up on spasticity"
   }
 ]
