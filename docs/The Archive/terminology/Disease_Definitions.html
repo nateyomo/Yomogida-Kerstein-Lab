@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Nate Yomogida">
+<meta name="author" content="Chloë Kerstein">
 
-<title>Journal Club</title>
+<title>Nomenclature</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,30 +22,47 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href=".//images/brain-favicon.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-29e2c20b02301cfff04dc8050bf30c7e.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-43df0d6f53b733b42d37fa7808e17715.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-2cd373bbd777488a2901da25ac479b00.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-30247d3b2cd0522fbeca720c4281c240.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../..//images/brain-favicon.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-29e2c20b02301cfff04dc8050bf30c7e.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-43df0d6f53b733b42d37fa7808e17715.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-2cd373bbd777488a2901da25ac479b00.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark-30247d3b2cd0522fbeca720c4281c240.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -69,68 +88,11 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
-<meta name="twitter:title" content="Journal Club">
+<link rel="stylesheet" href="../../styles.css">
+<meta name="twitter:title" content="Nomenclature">
+<meta name="twitter:description" content="">
 <meta name="twitter:creator" content="@NateYomogida and @Chloe_Kerstein">
 <meta name="twitter:site" content="@yomokerst">
 <meta name="twitter:card" content="summary">
@@ -143,8 +105,8 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./branding/Yomokerst/yomokerst heavy condensed black.png" alt="" class="navbar-logo">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../branding/Yomokerst/yomokerst heavy condensed black.png" alt="" class="navbar-logo">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -154,15 +116,15 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./The Archive/research_and_development_index.html"> 
+    <a class="nav-link" href="../../The Archive/research_and_development_index.html"> 
 <span class="menu-text">R&amp;D</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./journal_club_index.html" aria-current="page"> 
+    <a class="nav-link" href="../../journal_club_index.html"> 
 <span class="menu-text">Journal Club</span></a>
   </li>  
   <li class="nav-item">
@@ -170,11 +132,11 @@ window.Quarto = {
 <span class="menu-text">Physical Therapy</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./contact.html"> 
+    <a class="nav-link" href="../../contact.html"> 
 <span class="menu-text">Contact</span></a>
   </li>  
 </ul>
@@ -189,7 +151,22 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
-    
+    <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Contents</h2>
+   
+  <ul>
+  <li><a href="#essentialist-vs-nominalist-definitions" id="toc-essentialist-vs-nominalist-definitions" class="nav-link active" data-scroll-target="#essentialist-vs-nominalist-definitions">Essentialist vs Nominalist Definitions</a>
+  <ul class="collapse">
+  <li><a href="#nominalist" id="toc-nominalist" class="nav-link" data-scroll-target="#nominalist">Nominalist</a></li>
+  <li><a href="#essentialist" id="toc-essentialist" class="nav-link" data-scroll-target="#essentialist">Essentialist</a></li>
+  </ul></li>
+  <li><a href="#disease" id="toc-disease" class="nav-link" data-scroll-target="#disease">Disease</a></li>
+  <li><a href="#diagnosis" id="toc-diagnosis" class="nav-link" data-scroll-target="#diagnosis">Diagnosis</a></li>
+  <li><a href="#syndrome" id="toc-syndrome" class="nav-link" data-scroll-target="#syndrome">Syndrome</a></li>
+  <li><a href="#symptoms" id="toc-symptoms" class="nav-link" data-scroll-target="#symptoms">Symptoms</a></li>
+  <li><a href="#signs" id="toc-signs" class="nav-link" data-scroll-target="#signs">Signs</a></li>
+  </ul>
+</nav>
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
@@ -200,20 +177,41 @@ window.Quarto = {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Journal Club</h1>
+<h1 class="title">Nomenclature</h1>
 </div>
 
 
+<div class="quarto-title-meta-author">
+  <div class="quarto-title-meta-heading">Authors</div>
+  <div class="quarto-title-meta-heading">Affiliations</div>
+  
+    <div class="quarto-title-meta-contents">
+    <p class="author"><a href="https://yomokerst.com/about.html#ngy">Nate Yomogida, PT, DPT</a> <a href="mailto:nate.yomogida.pt@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            Doctor of Physical Therapy
+          </p>
+        <p class="affiliation">
+            B.S. in Kinesiology
+          </p>
+      </div>
+    <div class="quarto-title-meta-contents">
+    <p class="author"><a href="https://yomokerst.com/about.html#cak">Chloë Kerstein, PT, DPT</a> <a href="mailto:Chloekerst@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            Doctor of Physical Therapy
+          </p>
+        <p class="affiliation">
+            B.A. in Neuroscience
+          </p>
+      </div>
+  </div>
 
 <div class="quarto-title-meta">
 
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p> </p>
-          </div>
-  </div>
-    
+      
   
     
   </div>
@@ -223,123 +221,160 @@ window.Quarto = {
 </header>
 
 
-
-
-
-
-<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Order By</option>
-       <option value="index" data-direction="asc">Default</option>
-         <option value="listing-date-sort" data-direction="asc">
-          Date - Oldest
-        </option>
-         <option value="listing-date-sort" data-direction="desc">
-          Date - Newest
-        </option>
-         <option value="listing-title-sort" data-direction="asc">
-          Title
-        </option>
-         <option value="listing-author" data-direction="asc">
-          Author
-        </option>
-     </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
-</div>
-<table class="quarto-listing-table table">
+<ul>
+<li><p>Symptom</p>
+<ul>
+<li>Cause</li>
+<li>Source</li>
+</ul></li>
+<li><p>Sign</p></li>
+<li><p>Phenomena</p></li>
+<li><p>Character</p></li>
+<li><p>Type</p></li>
+<li><p>Severity</p></li>
+<li><p>Damage</p></li>
+<li><p>Loss</p></li>
+<li><p>Course</p></li>
+<li><p>Duration</p></li>
+<li><p>Possible</p></li>
+<li><p>Probable</p></li>
+<li><p>Odds</p></li>
+<li><p>Confidence</p></li>
+<li><p>Physical</p></li>
+<li><p>Neurological</p></li>
+<li><p>Psychogenic</p></li>
+<li><p>Inherited</p></li>
+<li><p>Acquired</p></li>
+<li><p>Congenital</p></li>
+<li><p>Genetic</p></li>
+<li><p>Dysfunction</p></li>
+<li><p>Condition</p></li>
+<li><p>Disorder</p></li>
+<li><p>Injury</p></li>
+<li><p>Impairment</p></li>
+<li><p>Deficit</p></li>
+<li><p>Illness (“i <em>feel</em> ill”)</p></li>
+<li><p><a href="#syndrome">Syndrome</a></p></li>
+<li><p>Pathology</p></li>
+<li><p><a href="#disease">Disease</a></p></li>
+<li><p>Presentation</p></li>
+<li><p>Manifestation</p></li>
+<li><p>Etiology</p></li>
+<li><p>Epidemiology</p></li>
+<li><p>Risk factor</p></li>
+<li><p>Predisposition</p></li>
+<li><p>Examination</p></li>
+<li><p>Evaluation</p></li>
+<li><p><a href="#diagnosis">Diagnosis</a></p></li>
+<li><p>Provisional diagnosis</p></li>
+<li><p>Differential diagnosis</p></li>
+<li><p>Category</p></li>
+<li><p>Class</p></li>
+</ul>
+<section id="essentialist-vs-nominalist-definitions" class="level1">
+<h1>Essentialist vs Nominalist Definitions</h1>
+<section id="nominalist" class="level2">
+<h2 class="anchored" data-anchor-id="nominalist">Nominalist</h2>
+<p>“nominalist approach the nature of an illness is decided by reference to a biomedical norm and the names are convenient devices by which the diagnostic process can be stated briefly.” “Thus meningococcal meningitis combines two diagnostic categories: meningococcal defines aetiology and cause, while meningitis defines the morbid anatomy”</p>
+<p>“Nominalist definitions do not attempt the impossible task of revealing the essence of the condition defined but indicate how words relate to observable phenomena.”</p>
+</section>
+<section id="essentialist" class="level2">
+<h2 class="anchored" data-anchor-id="essentialist">Essentialist</h2>
+<p>“Essentialism is based on the Aristotelian notion that natural organisms show an invariant general pattern or essence shared by all members of the group.24 ‘He is sick with a cold’ recognises the general state of being ill and a vague cause which is generally understood in lay terms”</p>
+<p>The inherent ambiguity of essentialism is not useful in science, and we should use <em>nominalist</em> terminology in medical discourse<span class="citation" data-cites="pearceDiseaseDiagnosisSyndrome2011"><sup><a href="#ref-pearceDiseaseDiagnosisSyndrome2011" role="doc-biblioref">1</a></sup></span></p>
+</section>
+</section>
+<section id="disease" class="level1">
+<h1>Disease</h1>
+<p>Disease has had many definitions since its inception in the 14th century<span class="citation" data-cites="pearceDiseaseDiagnosisSyndrome2011"><sup><a href="#ref-pearceDiseaseDiagnosisSyndrome2011" role="doc-biblioref">1</a></sup></span></p>
+<p>What does it truly refer to?</p>
+<ul>
+<li>Descriptive or syndromal (eg, sarcoidosis)<span class="citation" data-cites="pearceDiseaseDiagnosisSyndrome2011"><sup><a href="#ref-pearceDiseaseDiagnosisSyndrome2011" role="doc-biblioref">1</a></sup></span></li>
+<li>Morbid–anatomical (eg, cancer)<span class="citation" data-cites="pearceDiseaseDiagnosisSyndrome2011"><sup><a href="#ref-pearceDiseaseDiagnosisSyndrome2011" role="doc-biblioref">1</a></sup></span></li>
+<li>Pathophysiological (eg, asthma)<span class="citation" data-cites="pearceDiseaseDiagnosisSyndrome2011"><sup><a href="#ref-pearceDiseaseDiagnosisSyndrome2011" role="doc-biblioref">1</a></sup></span></li>
+<li>Etiological (eg, tuberculosis)<span class="citation" data-cites="pearceDiseaseDiagnosisSyndrome2011"><sup><a href="#ref-pearceDiseaseDiagnosisSyndrome2011" role="doc-biblioref">1</a></sup></span></li>
+</ul>
+<p>A disease is merely a <em>concept</em> which is only useful if it effectively frameworks, organizes, and explains the complexity of a clinical experience in order for the clinician or another clinician to make an accurate prognosis or choose an effective treatment<span class="citation" data-cites="calvoDiagnosesSyndromesDiseases2003"><sup><a href="#ref-calvoDiagnosesSyndromesDiseases2003" role="doc-biblioref">2</a></sup></span></p>
+</section>
+<section id="diagnosis" class="level1">
+<h1>Diagnosis</h1>
+<ul>
+<li>verb: Diagnose</li>
+<li>Opposite: misdiagnosis</li>
+<li>lack: no diagnosis</li>
+</ul>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 22%">
+<col style="width: 19%">
+<col style="width: 57%">
+</colgroup>
 <thead>
-<tr>
-<th>
-<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
-</th>
-<th>
-<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
-</th>
-<th>
-<a class="sort" data-sort="listing-author" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Author</a>
-</th>
+<tr class="header">
+<th>Part</th>
+<th>Meaning</th>
+<th>Origin</th>
 </tr>
 </thead>
-<tbody class="list">
-<tr data-index="0" data-listing-file-modified-sort="1758854059363" data-listing-reading-time-sort="8" data-listing-word-count-sort="1558" data-listing-title-sort="Effect of integrated neuromuscular inhibition  technique compared with positional release  technique in the management of piriformis  syndrome" data-listing-filename-sort="danazumiEffectIntegratedNeuromuscular2021.qmd">
-<td>
-<span class="listing-date">&nbsp;</span>
-</td>
-<td>
-<a href="./Journal club/danazumiEffectIntegratedNeuromuscular2021.html" class="title listing-title">Effect of integrated neuromuscular inhibition technique compared with positional release technique in the management of piriformis syndrome</a>
-</td>
-<td>
-<span class="listing-author">Nate Yomogida, Chloë Kerstein</span>
-</td>
+<tbody>
+<tr class="odd">
+<td><strong>dia-</strong></td>
+<td>through</td>
+<td>Greek δια (<strong>διά</strong>)</td>
 </tr>
-<tr data-index="1" data-listing-file-modified-sort="1719938111934" data-listing-reading-time-sort="1" data-listing-word-count-sort="27" data-listing-title-sort="Journal Club 4: Paraspinal muscles in individuals undergoing surgery for lumbar spine pathology lack a myogenic response to an acute bout of resistance exercise" data-listing-filename-sort="jc4_shahidiParaspinalMusclesIndividuals2024.qmd">
-<td>
-<span class="listing-date">&nbsp;</span>
-</td>
-<td>
-<a href="./Journal club/jc4_shahidiParaspinalMusclesIndividuals2024.html" class="title listing-title">Journal Club 4: Paraspinal muscles in individuals undergoing surgery for lumbar spine pathology lack a myogenic response to an acute bout of resistance exercise</a>
-</td>
-<td>
-<span class="listing-author">Nate Yomogida, Chloë Kerstein</span>
-</td>
-</tr>
-<tr data-index="2" data-listing-date-sort="1757055600000" data-listing-file-modified-sort="1757100375486" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="Jull et al. (2006) Retraining cervical joint position sense: the effect of two exercise regimes" data-listing-filename-sort="jullRetrainingCervicalJoint2007.qmd">
-<td>
-<span class="listing-date">Sep 5, 2025</span>
-</td>
-<td>
-<a href="./Journal club/jullRetrainingCervicalJoint2007.html" class="title listing-title">Jull et al.&nbsp;(2006) Retraining cervical joint position sense: the effect of two exercise regimes</a>
-</td>
-<td>
-<span class="listing-author">Nate Yomogida, Chloë Kerstein</span>
-</td>
-</tr>
-<tr data-index="3" data-listing-date-sort="1706083200000" data-listing-file-modified-sort="1718769265893" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="367" data-listing-title-sort="Effect of Stress on Cervical muscle activity" data-listing-filename-sort="jc3_effect_of_stress_on_cervical_muscle_activity.qmd">
-<td>
-<span class="listing-date">Jan 24, 2024</span>
-</td>
-<td>
-<a href="./Journal club/jc3_effect_of_stress_on_cervical_muscle_activity.html" class="title listing-title">Effect of Stress on Cervical muscle activity</a>
-</td>
-<td>
-<span class="listing-author">Nate Yomogida, Chloë Kerstein</span>
-</td>
-</tr>
-<tr data-index="4" data-listing-date-sort="1705824000000" data-listing-file-modified-sort="1743112304453" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="347" data-listing-title-sort="Effects of Cold Bath Post-Exercise" data-listing-filename-sort="jc2_post-exercise_cold_immersion.qmd">
-<td>
-<span class="listing-date">Jan 21, 2024</span>
-</td>
-<td>
-<a href="./Journal club/jc2_post-exercise_cold_immersion.html" class="title listing-title">Effects of Cold Bath Post-Exercise</a>
-</td>
-<td>
-<span class="listing-author">Nate Yomogida, Chloë Kerstein</span>
-</td>
-</tr>
-<tr data-index="5" data-listing-date-sort="1705737600000" data-listing-file-modified-sort="1743112288609" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1057" data-listing-title-sort="Cryotherapy for Contusions" data-listing-filename-sort="jc1_cryotherapy_contusions.qmd">
-<td>
-<span class="listing-date">Jan 20, 2024</span>
-</td>
-<td>
-<a href="./Journal club/jc1_cryotherapy_contusions.html" class="title listing-title">Cryotherapy for Contusions</a>
-</td>
-<td>
-<span class="listing-author">Nate Yomogida, Chloë Kerstein</span>
-</td>
+<tr class="even">
+<td><strong>-gnosis</strong></td>
+<td>knowledge</td>
+<td>Greek γνωσις (<strong>γνῶσις</strong>)</td>
 </tr>
 </tbody>
 </table>
-<div class="listing-no-matching d-none">
-No matching items
+<p>Diagnosis implies the distinction of illness or disease from health<span class="citation" data-cites="pearceDiseaseDiagnosisSyndrome2011"><sup><a href="#ref-pearceDiseaseDiagnosisSyndrome2011" role="doc-biblioref">1</a></sup></span></p>
+<p>Diagnosis can be broken into 3 levels:</p>
+<ol type="1">
+<li>Category or class of disorder (e.g.&nbsp;neuromuscular disorder)<span class="citation" data-cites="pearceDiseaseDiagnosisSyndrome2011"><sup><a href="#ref-pearceDiseaseDiagnosisSyndrome2011" role="doc-biblioref">1</a></sup></span></li>
+<li>Specifies the subject (eg, 30-year-old female) to be diagnosed<span class="citation" data-cites="pearceDiseaseDiagnosisSyndrome2011"><sup><a href="#ref-pearceDiseaseDiagnosisSyndrome2011" role="doc-biblioref">1</a></sup></span></li>
+<li>More specific reaoned categorisation (autoimmune myasthenia gravis)<span class="citation" data-cites="pearceDiseaseDiagnosisSyndrome2011"><sup><a href="#ref-pearceDiseaseDiagnosisSyndrome2011" role="doc-biblioref">1</a></sup></span></li>
+</ol>
+<p>What can be diagnosed?</p>
+<ul>
+<li>Described and recognisable combination of signs and symptoms and signs (i.e.&nbsp;vomiting and diarrhea)<span class="citation" data-cites="pearceDiseaseDiagnosisSyndrome2011"><sup><a href="#ref-pearceDiseaseDiagnosisSyndrome2011" role="doc-biblioref">1</a></sup></span></li>
+<li>Phenomena associated with a specified pathology or disorder of function (i.e.&nbsp;inflammation with altered gastrointestinal motility)<span class="citation" data-cites="pearceDiseaseDiagnosisSyndrome2011"><sup><a href="#ref-pearceDiseaseDiagnosisSyndrome2011" role="doc-biblioref">1</a></sup></span></li>
+<li>A specific <em>cause</em> or <em>causes</em> (i.e.&nbsp;bacillary dysentery or cholera)<span class="citation" data-cites="pearceDiseaseDiagnosisSyndrome2011"><sup><a href="#ref-pearceDiseaseDiagnosisSyndrome2011" role="doc-biblioref">1</a></sup></span></li>
+</ul>
+<p>A <em>Diagnosis</em> can be defined as a hypothesis to describe a patient, their presentation, and the cause</p>
+</section>
+<section id="syndrome" class="level1">
+<h1>Syndrome</h1>
+<ul>
+<li>is it a concept</li>
+</ul>
+<p><strong>Syndrome</strong>: A <em>recognizable</em> complex of <a href="#symptoms">symptoms</a> and physical findings (?signs?) which indicate a <em>specific</em> condition for which a <strong>direct cause</strong> is not necessarily understood<span class="citation" data-cites="calvoDiagnosesSyndromesDiseases2003"><sup><a href="#ref-calvoDiagnosesSyndromesDiseases2003" role="doc-biblioref">2</a></sup></span>.</p>
+<p>For example doctors will commonly use the phrase “viral syndrome” when they are uncertain which <em>specific</em> viral agent is causing the illness<span class="citation" data-cites="calvoDiagnosesSyndromesDiseases2003"><sup><a href="#ref-calvoDiagnosesSyndromesDiseases2003" role="doc-biblioref">2</a></sup></span>.</p>
+<p>Once the clinician or medical science identify the causative <em>agent</em> or <em>process</em> with high certainty, the process should be replaced with a <strong>disease</strong> label<span class="citation" data-cites="calvoDiagnosesSyndromesDiseases2003"><sup><a href="#ref-calvoDiagnosesSyndromesDiseases2003" role="doc-biblioref">2</a></sup></span>.</p>
+<p>For example “Kawasaki Syndrome” was upgraded to “Kawasaki Disease” when its diagnostic features, progression, and response to treatment was clearly defined<span class="citation" data-cites="calvoDiagnosesSyndromesDiseases2003"><sup><a href="#ref-calvoDiagnosesSyndromesDiseases2003" role="doc-biblioref">2</a></sup></span>.</p>
+</section>
+<section id="symptoms" class="level1">
+<h1>Symptoms</h1>
+</section>
+<section id="signs" class="level1">
+
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">Signs</h2><div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-pearceDiseaseDiagnosisSyndrome2011" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Pearce JMS. Disease, diagnosis or syndrome? <em>Practical Neurology</em>. 2011;11(2):91-97. doi:<a href="https://doi.org/10.1136/jnnp.2011.241802">10.1136/jnnp.2011.241802</a></div>
 </div>
-</div></main> <!-- /main -->
+<div id="ref-calvoDiagnosesSyndromesDiseases2003" class="csl-entry" role="listitem">
+<div class="csl-left-margin">2. </div><div class="csl-right-inline">Calvo F, Karras BT, Phillips R, Kimball AM, Wolf F. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1480257">Diagnoses, syndromes, and diseases: A knowledge representation problem</a>. <em>AMIA Annual Symposium proceedings AMIA Symposium</em>. 2003;2003:802.</div>
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
+<div class="">Yomogida N, Kerstein C. Nomenclature. <a href="https://yomokerst.com/The Archive/terminology/Disease_Definitions.html">https://yomokerst.com/The
+Archive/terminology/Disease_Definitions.html</a></div>
+</div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
